@@ -842,7 +842,7 @@
 #1979	[!MasteryType]인간	[!MasteryType]人类
 #1980	[!MasteryType]얼음	[!MasteryType]寒冰
 #1981	[!MasteryType]아이린	[!MasteryType]艾琳
-#1982	[!MasteryType]카일리	[!MasteryType]凯利
+#1982	[!MasteryType]카일리	[!MasteryType]凯莉
 #1983	[!MasteryType]레톤	[!MasteryType]莱顿
 #1984	[!MasteryType]번개	[!MasteryType]闪电
 #1985	[!MasteryType]루나	[!MasteryType]露娜
@@ -980,7 +980,7 @@
 #2186	[!ObjectInfo]루이스	[!ObjectInfo]路易斯
 #2187	[!ObjectInfo]장	[!ObjectInfo]张
 #2188	[!ObjectInfo]정비사	[!ObjectInfo]维修技师
-#2189	[!ObjectInfo]카일리	[!ObjectInfo]凯利
+#2189	[!ObjectInfo]카일리	[!ObjectInfo]凯莉
 #2191	[!ObjectInfo]레톤	[!ObjectInfo]莱顿
 #2192	[!ObjectInfo]금고	[!ObjectInfo]金库
 #2193	[!ObjectInfo]루나	[!ObjectInfo]露娜
@@ -3667,7 +3667,7 @@
 #7065	[!CivilRescueNameSet]카렌	[!CivilRescueNameSet]卡伦
 #7066	[!CivilRescueNameSet]캐서린	[!CivilRescueNameSet]凯瑟琳
 #7067	[!CivilRescueNameSet]캐시	[!CivilRescueNameSet]凯西
-#7068	[!CivilRescueNameSet]켈리	[!CivilRescueNameSet]凯利
+#7068	[!CivilRescueNameSet]켈리	[!CivilRescueNameSet]凯莉
 #7069	[!CivilRescueNameSet]킴벌리	[!CivilRescueNameSet]金伯利
 #7070	[!CivilRescueNameSet]라우라	[!CivilRescueNameSet]劳拉
 #7071	[!CivilRescueNameSet]린다	[!CivilRescueNameSet]琳达
@@ -7326,14 +7326,14 @@
 #12230	[!Mastery]기다림	[!Mastery]等待
 #12232	[!SystemMail]지젤	[!SystemMail]吉赛尔
 #12233	[!SystemMail]너의 위대한 선배	[!SystemMail]你的伟大的前辈
-#12235	[!SystemMail]카일리	[!SystemMail]凯利
+#12235	[!SystemMail]카일리	[!SystemMail]凯莉
 #12236	[!SystemMail]$CompanyName$. 다들 잘 지내고 있나?	[!SystemMail]$CompanyName$。大家过得好吗?
 #12242	[!GuideMessage]각 특성별 속성 슬롯 개수가 부족해지므로 해제할 수 없습니다.	[!GuideMessage]会导致各天赋属性栏个数不足，因此无法解除。
 #12246	[!Suggestion]무기력에 빠진 사원의 기력을 되찾고 지친 사원들의 일상을 위해 알버스가 하루 쉬자고 결정합니다.<br><br>[colour='FFFFFF00']휴업 결정 시 사원들이 기력을 되찾으며 모든 의욕을 회복합니다.<br>[colour='FFFFAA00']주의: <br>[colour='FFFFFFFF']임대료 지급일과 사원 월급 지급 일이 하루 지나갑니다.	[!Suggestion]为了找回无力状态中的员工们的元气，也为了缓解员工们的疲惫，阿尔伯斯决定休息一天。<br><br>[colour='FFFFFF00']决定休业时，员工们恢复气力，并恢复全部的意志。<br>[colour='FFFFAA00']注意:<br>[colour='FFFFFFFF']租金支付日和员工发薪日将过去1天。
 #12248	[!Troublebook]겨울이 온다.	[!Troublebook]凛冬将至。
 #12249	[!GuideMessage][colour='FFFFE959']총 [colour='FFFFFFFF']$Number$[colour='FFFFE959'] 명의 플레이어 중 [colour='FFFFFFFF']$Percent$%[colour='FFFFE959'] 가 해당 선택지를 선택하였습니다.	[!GuideMessage][colour='FFFFE959'][colour='FFFFFFFF']$Number$[colour='FFFFE959']名玩家中有[colour='FFFFFFFF']$Percent$%[colour='FFFFE959']的玩家选择了该选项。
 #12250	[!SystemMail][colour='FFFFE959']알버스. <br><br>난 너를 무척 아낀단다.<br><br>그래서 당연히 네가 '블랙펄'로 돌아온다면 내 팀에 종속시킬려고 했는데 도망가서 아쉬웠다.<br><br>네 녀석이 '블랙펄'로 돌아오면 주려고 챙겨두었던 물건이다.<br><br>아직은 현장에서 직접 뛰어야 하는 사장님일테니 여전히 이런 것들이 많이 필요하겠지.<br><br>어차피 네가 '블랙펄'로 복귀했다면 주었을 물건이니 잘 쓰도록 해라.<br><br>[colour='FFFFFFFF']너를 트러블슈터 세계로 인도한 단 한명의 선배<br><br>지젤 발렌슈타인	[!SystemMail][colour='FFFFE959']阿尔伯斯。<br><br>我很看好你的。<br><br>你是第一个在我手下默默地忍受我的怪脾气长达一年之久的家伙呢，所以我非常非常看好你哟。<br><br>所以我本打算在你回到'黑珍珠'就把你拉到我的门下的，但你小子却就这么逃跑了，给留下了遗憾啊。<br><br>这是原想在你回归'黑珍珠'时送你的东西。<br><br>你作为还需要亲自跑现场的老板，应该是很需要这些东西的。<br><br>原本就是当初你回归'黑珍珠'打算送你的东西，所以你就好好使用吧。<br><br>[colour='FFFFFFFF']将你引向纷争终结世界的你唯一的前辈<br><br>吉赛尔沃伦斯坦。
-#12251	[!SystemMail][colour='FFFFE959']$CompanyName$. 다들 잘 지내고 있어?<br><br>너희들 덕분에 요즘 이능석 시세도 안정되고 출동 횟수도 줄어들어 개인 작업에 열중할 수 있게 되었어.<br><br>하지만 자원 관리 구역의 에너지가 크게 줄지 않는 것으로 보아 자원 관리 구역에 영향을 줄 수 있는 철의 숲 내부에 문제가 생긴 것 같긴 해.<br><br>언제 시간이 된다면 숲 내부로 같이 이능석 채취 작업을 가는 것은 어때? <br><br>내부에는 당연히 더 귀찮은 녀석들이 많지만 그만큼 더 많은 자원을 빠르게 획득할 수 있지.<br><br>내가 보낸 물건들은 그 때를 위해 시험 제작한 추출기들이야. 이 도구들이 너희들 에너지 추출 작업도 수월하게 해줄거야.<br><br>많이 추출해서 시세 좀 떨어뜨려. 그래야 내가 마음 편하게 제작에 몰두하지.<br><br>그럼 다음 번 임무에서 또 보자.<br><br>[colour='FFFFFFFF']엔지니어 카일리	[!SystemMail][colour='FFFFE959']$CompanyName$。大家过得好吗?<br><br>托你们的福，最近异能石的状态也趋于稳定，出勤次数也降了下来，因此我也就可以集中到个人作业中了。<br><br>然而资源管理区的能量却不见降低多少，所以我认为好像问题是出在可以影响资源管理区的铁森林内部。<br><br>有空陪我一起去森林内部开采异能石好不好?<br><br>里面肯定有很多烦人的东西，但是与之匹配的是能更迅速地得到更多的资源啊。<br><br>我发过去的东西是为了到时候使用而实验制作的提取仪。这些工具会让你们的能量提取作业更加简单上手。<br><br>希望你们多多开采，让这势头多降下去点。这样我也能更安心做好自己的发明创作了。<br><br>那下次任务我们再会吧。<br><br>[colour='FFFFFFFF']工程师凯利。
+#12251	[!SystemMail][colour='FFFFE959']$CompanyName$. 다들 잘 지내고 있어?<br><br>너희들 덕분에 요즘 이능석 시세도 안정되고 출동 횟수도 줄어들어 개인 작업에 열중할 수 있게 되었어.<br><br>하지만 자원 관리 구역의 에너지가 크게 줄지 않는 것으로 보아 자원 관리 구역에 영향을 줄 수 있는 철의 숲 내부에 문제가 생긴 것 같긴 해.<br><br>언제 시간이 된다면 숲 내부로 같이 이능석 채취 작업을 가는 것은 어때? <br><br>내부에는 당연히 더 귀찮은 녀석들이 많지만 그만큼 더 많은 자원을 빠르게 획득할 수 있지.<br><br>내가 보낸 물건들은 그 때를 위해 시험 제작한 추출기들이야. 이 도구들이 너희들 에너지 추출 작업도 수월하게 해줄거야.<br><br>많이 추출해서 시세 좀 떨어뜨려. 그래야 내가 마음 편하게 제작에 몰두하지.<br><br>그럼 다음 번 임무에서 또 보자.<br><br>[colour='FFFFFFFF']엔지니어 카일리	[!SystemMail][colour='FFFFE959']$CompanyName$。大家过得好吗?<br><br>托你们的福，最近异能石的状态也趋于稳定，出勤次数也降了下来，因此我也就可以集中到个人作业中了。<br><br>然而资源管理区的能量却不见降低多少，所以我认为好像问题是出在可以影响资源管理区的铁森林内部。<br><br>有空陪我一起去森林内部开采异能石好不好?<br><br>里面肯定有很多烦人的东西，但是与之匹配的是能更迅速地得到更多的资源啊。<br><br>我发过去的东西是为了到时候使用而实验制作的提取仪。这些工具会让你们的能量提取作业更加简单上手。<br><br>希望你们多多开采，让这势头多降下去点。这样我也能更安心做好自己的发明创作了。<br><br>那下次任务我们再会吧。<br><br>[colour='FFFFFFFF']工程师凯莉。
 #12253	[!Ability]화염의 덫	[!Ability]火焰陷阱
 #12255	[!Ability]얼음의 덫	[!Ability]寒冰陷阱
 #12257	[!Ability]번개의 덫	[!Ability]闪电陷阱
@@ -7433,7 +7433,7 @@
 #12424	[!Item]자홍빛 사이러스 단검	[!Item]紫红色塞勒斯短剑
 #12425	[!Item]사이러스 단검의 사용성과 공격력을 강화한 단검. 살상력이 높아 가벼운 상처에도 치명적인 피해를 입힌다.	[!Item]这是加强了塞勒斯短剑实用性或攻击力的一种短剑。小小的伤口也能造成致命的伤害。
 #12426	[!Item]펄스 단검의 사용성을 강화한 단검. 실전 전투에서 빠른 대응이 가능하게 해준다.	[!Item]这是加强了脉冲之短剑实用性的一种短剑。它使你更快速地应对实战成为了可能。
-#12427	[!Item]티타늄 배트	[!Item]钛合金铁球棒
+#12427	[!Item]티타늄 배트	[!Item]钛合金球棒
 #12428	[!Job]네구리	[!Job]纳古利
 #12430	[!LoadingDesc]적을 전투 불능으로 만들면 해당 적이 보유한 특성을 확률적으로 획득할 수 있습니다.	[!LoadingDesc]若让目标无法战斗,则有几率获得该目标野兽拥有的天赋。
 #12431	[!LoadingDesc]특성 획득	[!LoadingDesc]获得天赋
@@ -7801,7 +7801,7 @@
 #13475	[!Item]자홍빛 사이러스 코트의 기력 보존 능력을 끌어올린 코트로 시중에 보급된 코트 중 가장 뛰어난 기력 회복력을 자랑한다.	[!Item]提升了紫红色塞勒斯大衣的气力保存能力，是市面上流通的大衣中，气力恢复力最为优秀。 
 #13476	[!Item]자홍거리에서 유통되는 사이러스 코트를 강화한 코트. 뒷세계에서 매우 인기 있는 코트다.	[!Item]强化了紫红街流通的塞勒斯大衣。是地下世界非常受欢迎的大衣。
 #13477	[!Item]지젤의 백설 의상	[!Item]吉赛尔的白雪服
-#13478	[!Item]카일리의 백설 의상	[!Item]凯利的白雪服
+#13478	[!Item]카일리의 백설 의상	[!Item]凯莉的白雪服
 #13479	[!Item]남청빛 보나파르트 세공 구두	[!Item]藏蓝色波拿巴精制皮鞋
 #13480	[!Item]자홍빛 보나파르트 세공 구두보다 질이 더 높은 가죽을 사용하여 개선한 구두.	[!Item]该皮鞋使用了比紫红色波拿巴精制皮鞋更高级的皮革。
 #13481	[!Item]남청빛 사이러스 자켓	[!Item]藏蓝色塞勒斯夹克
@@ -8235,7 +8235,7 @@
 #14080	[!WordCollection]세트 장비	[!WordCollection]套装装备
 #14081	[!WordCollection]%d 세트:	[!WordCollection]%d 套装:
 #14082	[!GuideMessage]$Race$ 야수를 더 이상 보유할 수 없습니다. (최대 $Value$ 마리)	[!GuideMessage]无法拥有更多的$Race$野兽。(最多$Value$只)
-#14083	[!ItemType]카일리 의상	[!ItemType]凯利服
+#14083	[!ItemType]카일리 의상	[!ItemType]凯莉服
 #14086	[!Item]최하급 신록의 근원	[!Item]最低级源生新绿
 #14087	[!Item]하급 신록의 근원	[!Item]低级源生新绿
 #14088	[!Item]신록의 근원	[!Item]源生新绿
@@ -9101,7 +9101,7 @@
 #15320	[!GuideMessage]프로토콜 사용 과정에서 겪는 불편함을 최소화하였습니다.	[!GuideMessage]最大程度地减少协议使用过程中受到的不便。
 #15321	[!Item]흑철 세공 강화 팔찌에 강력한 이능석을 사용하여 유난히 압도적인 출력을 자랑하는 팔찌이다.	[!Item]是在黑铁加工强化手镯上使用强力的异能石，是一个拥有压倒性的输出量的手镯。
 #15322	[!Item]가속 추진기	[!Ability]加速推进器
-#15323	[!Item]카일리가 이동 시간이 아까워서 만든 이동 보조 장치. 성능이 일정하지 않다.	[!Item]因凯利觉得移动时间太浪费而制作的移动辅助器。性能不稳定。
+#15323	[!Item]카일리가 이동 시간이 아까워서 만든 이동 보조 장치. 성능이 일정하지 않다.	[!Item]因凯莉觉得移动时间太浪费而制作的移动辅助器。性能不稳定。
 #15324	[!Item]자홍거리에서 유통되는 흑철 세공 전투화에 질긴 네구리 가죽을 추가하여 사용성을 개선한 전투화. 뒷세계에서 매우 인기 있는 전투화이다.	[!Item]将紫红街流黑铁加工战靴换成了纳古利皮革而改善的战靴。在地下世界非常受欢迎。
 #15325	[!Item]자홍거리에서 유통되는 흑철 세공 구두에 질긴 네구리 가죽을 추가하여 사용성을 개선한 구두. 뒷세계에서 매우 인기 있는 구두다.	[!Item]将紫红街流通黑铁细工皮鞋换成了纳古利皮革而改善的皮鞋。在地下世界非常受欢迎。
 #15326	[!Item]모노앤비비 M2	[!Item]莫诺和菲菲 M2
@@ -9111,9 +9111,9 @@
 #15330	[!Item]모노앤비비 V3	[!Item]莫诺和菲菲 V3
 #15331	[!Item]모노앤비비 V4	[!Item]莫诺和菲菲 V4
 #15332	[!Item]연막 생성기	[!Item]烟雾形成器
-#15333	[!Item]카일리가 연막탄을 일일히 던지는 것이 귀찮아 만든 장치. 가끔 고장난다.	[!Item]因凯利懒得一个个地扔烟雾弹而制作的装备。偶尔出故障。
+#15333	[!Item]카일리가 연막탄을 일일히 던지는 것이 귀찮아 만든 장치. 가끔 고장난다.	[!Item]因凯莉懒得一个个地扔烟雾弹而制作的装备。偶尔出故障。
 #15334	[!Item]야간 투시경	[!Item]夜间透视镜
-#15335	[!Item]카일리가 밤에 잃어버린 부품들을 쉽게 찾기 위해 만든 야간 투시경	[!Item]凯利为了容易在晚上寻找被遗失的物品而制作的夜间透视镜。
+#15335	[!Item]카일리가 밤에 잃어버린 부품들을 쉽게 찾기 위해 만든 야간 투시경	[!Item]凯莉为了容易在晚上寻找被遗失的物品而制作的夜间透视镜。
 #15336	[!Item]거미줄 수류탄	[!Item]蛛网榴弹
 #15337	[!Item]자홍거리에서 유통되는 흑철 세공 자켓에 질긴 네구리 가죽을 추가하여 사용성을 개선한 자켓. 뒷세계에서 매우 인기 있는 자켓이다.	[!Item]将紫红街流通黑铁细工夹克换成了纳古利皮革而改善的夹克。在地下世界非常受欢迎。
 #15338	[!Item]자홍거리에서 유통되는 흑철 세공 반지에 질긴 네구리 가죽을 추가하여 사용성을 개선한 반지. 뒷세계에서 매우 인기 있는 반지다.	[!Item]将紫红街流通黑铁细工戒指换成了纳古利皮革而改善的戒指。在地下世界非常受欢迎。
@@ -9133,7 +9133,7 @@
 #15364	[!GuideMessage]사용 불가 대상: $ImmuneRace$	[!GuideMessage]不可使用对象：$ImmuneRace$
 #15365	[!GuideMessage]제작으로 이동	[!GuideMessage]移动至制作目录
 #15366	[!Item]모노앤비비 V1	[!Item]莫诺和菲菲 V1
-#15367	[!Item]카일리가 직접 제작한 공격, 지원, 방어, 해킹 단말기로 사용되는 다목적 지원 장치인 부유형 드론이다. 강력한 음성 인식 기능을 바탕으로 명령을 수행하며 추가적인 코드 입력을 통하여 특수한 행동을 수행할 수 있다.	[!Item]是凯利为了用于攻击、支援、防御、黑客终端的具有多功能支援的浮游型无人机设备。 以强大的语音识别功能为基础执行命令，并通过追加代码的输入，可以执行特殊行动。
+#15367	[!Item]카일리가 직접 제작한 공격, 지원, 방어, 해킹 단말기로 사용되는 다목적 지원 장치인 부유형 드론이다. 강력한 음성 인식 기능을 바탕으로 명령을 수행하며 추가적인 코드 입력을 통하여 특수한 행동을 수행할 수 있다.	[!Item]是凯莉为了用于攻击、支援、防御、黑客终端的具有多功能支援的浮游型无人机设备。 以强大的语音识别功能为基础执行命令，并通过追加代码的输入，可以执行特殊行动。
 #15369	[!Item]모노앤비비 V0	[!Item]莫诺和菲菲 V0
 #15375	[!Item]제작서	[!Item]设计图
 #15376	[!Item]기계의 구조 정보를 기록하는 문서.	[!Item]记录机器构造情报的文件。
@@ -9683,7 +9683,7 @@
 #16153	[!Item]강화 구동 장치 PI - 01	[!Item]强化驱动装备 PI - 01
 #16154	[!Item]강화 구동 장치 PL - 01	[!Item]强化驱动装备 PL - 01
 #16155	[!Item]다중 연산장치	[!Item]多重运算装置
-#16156	[!Item]카일리가 복수의 기계를 제어하기 위해 만든 보조 연산 장치.	[!Item]凯利为了控制多数的机器而制作的辅助运算装置。
+#16156	[!Item]카일리가 복수의 기계를 제어하기 위해 만든 보조 연산 장치.	[!Item]凯莉为了控制多数的机器而制作的辅助运算装置。
 #16157	[!Item]개조된 크레인 핸드 - 화염 방사	[!Item]被改造的起重机械臂 - 火焰喷射
 #16158	[!Item]개조된 크레인 핸드 - 냉각 가스	[!Item]被改造的起重机械臂 - 冷气
 #16159	[!Item]개조된 크레인 핸드 - 전기 충격	[!Item]被改造的起重机械臂 - 电击
@@ -10088,7 +10088,7 @@
 #16687	[!GameSystemMessageFormat]이제 돈 브루스로부터 음료를 구입할 수 있습니다.	[!Dialog]现在可以向敦布鲁斯购买饮料了。
 #16688	[!GameSystemMessageFormat]이제 돈 브루스를 통하여 창고를 계약하실 수 있습니다.	[!Dialog]现在可以和敦布鲁斯租仓库了。
 #16689	[!GameSystemMessageFormat]인벤토리의 기계 탭이 활성화되었습니다.	[!Dialog]背包里的机械标签被激活。
-#16690	[!GameSystemMessageFormat]카일리로부터 다수의 기계 부품을 인수하였습니다.	[!Dialog]从凯利那得到了一些机械零件。
+#16690	[!GameSystemMessageFormat]카일리로부터 다수의 기계 부품을 인수하였습니다.	[!Dialog]从凯莉那得到了一些机械零件。
 #16691	[!GameSystemMessageFormat]돈에게 53 Vill을 지급하였습니다.	[!Dialog]向敦支付了53Vill。
 #16692	[!GameSystemMessageFormat]상점에 유실물이 들어왔습니다.	[!Dialog]失物已送往商店。
 #16693	[!GameSystemMessageFormat]아군 전원 평정 상태가 되었습니다.	[!Sentence][!FrontMessage]全体队友进入平静状态。
@@ -10162,7 +10162,7 @@
 #16761	[!GameSystemMessageFormat]리가 현장을 이탈하였습니다.	[!Sentence][!FrontMessage]李离开了现场。
 #16762	[!GameSystemMessageFormat]적이 내부망 데이터를 삭제하기 시작합니다.	[!Sentence][!FrontMessage]敌人开始删除内网数据了。
 #16763	[!GameSystemMessageFormat]적들이 방어선 돌파를 결의하여 모두 전투 상태가 됩니다.	[!Sentence][!FrontMessage]敌人决定冲击防线，因此全员进入战斗状态。
-#16764	[!GameSystemMessageFormat]료 류자키가 현장에서 사라졌습니다.	[!Sentence][!FrontMessage]亮龙崎从现场消失了。
+#16764	[!GameSystemMessageFormat]료 류자키가 현장에서 사라졌습니다.	[!Sentence][!FrontMessage]亮·龙崎从现场消失了。
 #16765	[!GameSystemMessageFormat]제이슨이 현장에서 사라졌습니다.	[!Sentence][!FrontMessage]杰森从现场消失了。
 #16766	[!GameSystemMessageFormat]적이 방어선에 도착하였습니다.	[!Sentence][!FrontMessage]敌人抵达防线。
 #16767	[!GameSystemMessageFormat]제이슨이 방어선을 돌파하였습니다.	[!Sentence][!FrontMessage]杰森突破了防线。
@@ -10250,7 +10250,7 @@
 #16849	[!GameSystemMessageFormat]비앙카와 알리사가 현장을 이탈하였습니다.	[!Sentence][!FrontMessage]比安科和艾丽莎离开了现场。
 #16850	[!GameSystemMessageFormat]알리사와 비앙카가 적대 대상이 되었습니다.	[!Sentence][!FrontMessage]艾丽莎和比安科变成敌对目标。
 #16851	[!GameSystemMessageFormat]알리사와 비앙카를 도와 주위의 적을 제압하면 이벤트가 발생합니다.	[!Sentence][!FrontMessage]帮助艾丽莎和比安科镇压周围的敌人将会触发活动事件。
-#16852	[!GameSystemMessageFormat]카일리가 전투 불능이 되어 전자망을 수리할 수 없습니다.	[!Sentence][!FrontMessage]因凯利变成无法战斗状态，无法继续修复电网。
+#16852	[!GameSystemMessageFormat]카일리가 전투 불능이 되어 전자망을 수리할 수 없습니다.	[!Sentence][!FrontMessage]因凯莉变成无法战斗状态，无法继续修复电网。
 #16853	[!GameSystemMessageFormat]수리 분대가 야수와 전투에 들어갔습니다.	[!Sentence][!FrontMessage]修理部队和野兽进入交战中。
 #16854	[!GameSystemMessageFormat]네구리 무리가 전자망 안으로 진입하였습니다.	[!Sentence][!FrontMessage]纳古利群进入了电网内。
 #16855	[!GameSystemMessageFormat]티마 무리가 전자망 안으로 진입하였습니다.	[!Sentence][!FrontMessage]蒂玛群进入了电网内部。
@@ -10405,9 +10405,9 @@
 #17115	[!Item]카본 전투 장갑	[!Item]石墨战斗手套
 #17116	[!Item]자홍빛 카본 전투 장갑	[!Item]紫红色石墨战斗手套
 #17117	[!Item]남청빛 카본 전투 장갑	[!Item]藏蓝色石墨战斗手套
-#17118	[!Item]티타늄 전투 장갑	[!Item]钛合金铁战斗手套
-#17119	[!Item]자홍빛 티타늄 전투 장갑	[!Item]紫红色钛合金铁战斗手套
-#17120	[!Item]남청빛 티타늄 전투 장갑	[!Item]藏蓝色钛合金铁战斗手套
+#17118	[!Item]티타늄 전투 장갑	[!Item]钛合金战斗手套
+#17119	[!Item]자홍빛 티타늄 전투 장갑	[!Item]紫红色钛合金战斗手套
+#17120	[!Item]남청빛 티타늄 전투 장갑	[!Item]藏蓝色钛合金战斗手套
 #17121	[!Item]조홍의 전투 장갑	[!Item]赵洪的战斗手套
 #17122	[!Item]조홍이 황소파 간부 시절 스콧과 함께 조직을 이끌던 시기부터 쓰던 너클. 너클 내장 메모리 칩에 자신의 패배 숫자를 기록하는 습관이 있다.	[!Item]在赵洪还是公牛组干部时与斯科特一起领导着组织的时期使用过的指虎。习惯于在指虎的内置存储芯片上记录自己失败的次数。
 #17123	[!Item]오거 전투 장갑	[!Item]食人魔战斗手套
@@ -10640,7 +10640,7 @@
 #17465	[!LobbyIdleMessage][!speaker:Sion]사장님. 오늘도 잘 부탁해.	[!LobbyIdleMessage][!speaker:Sion]老板，今天也拜托了。
 #17466	[!LobbyIdleMessage][!speaker:Sion]맛없는 것을 많이 먹고 싶진 않아.	[!LobbyIdleMessage][!speaker:Sion]不想吃太多不好吃的。
 #17467	[!LobbyIdleMessage][!speaker:Sion]아이린이 많이 안정되서 다행이야...	[!LobbyIdleMessage][!speaker:Sion]还好艾琳镇静了很多...
-#17468	[!LobbyIdleMessage][!speaker:Sion]나중에 카일리 씨 공방에 놀러 가야겠다.	[!LobbyIdleMessage][!speaker:Sion]下次去凯利姐的工坊玩玩吧。
+#17468	[!LobbyIdleMessage][!speaker:Sion]나중에 카일리 씨 공방에 놀러 가야겠다.	[!LobbyIdleMessage][!speaker:Sion]下次去凯莉姐的工坊玩玩吧。
 #17469	[!LobbyIdleMessage][!speaker:Sion]장비 정비도 해야할 텐데...	[!LobbyIdleMessage][!speaker:Sion]装备也需要整备的...
 #17470	[!LobbyIdleMessage][!speaker:Sion]앤. 임무 중에는 최대한 내 곁에 붙어 있어.	[!LobbyIdleMessage][!speaker:Sion]安。任务中尽量留在我身边。
 #17471	[!LobbyIdleMessage][!speaker:Sion]역시 오늘도 환영회 해야죠? 사장님?	[!LobbyIdleMessage][!speaker:Sion]果然今天也得举行欢迎会吧？老板？
@@ -10650,7 +10650,7 @@
 #17475	[!LobbyIdleMessage][!speaker:Sion]앤. 오빠가 있으니 너무 무리하지 마.	[!LobbyIdleMessage][!speaker:Sion]安，有哥哥在，不要太过勉强。
 #17476	[!LobbyIdleMessage][!speaker:Sion]이번 달 월급이 벌써... 	[!LobbyIdleMessage][!speaker:Sion]这个月的工资这么快就...
 #17477	[!LobbyIdleMessage][!speaker:Sion]오늘 들어가서는 빨래해야겠다.	[!LobbyIdleMessage][!speaker:Sion]今天回去后需要去洗衣服了。
-#17478	[!LobbyIdleMessage][!speaker:Sion]카일리 씨한테 가서 장비 수선 재료나 얻어 볼까...	[!LobbyIdleMessage][!speaker:Sion]去凯利姐那弄点装备修补材料吧...
+#17478	[!LobbyIdleMessage][!speaker:Sion]카일리 씨한테 가서 장비 수선 재료나 얻어 볼까...	[!LobbyIdleMessage][!speaker:Sion]去凯莉姐那弄点装备修补材料吧...
 #17481	[!LobbyIdleMessage][!speaker:Sion]하늘바람 포장마차거리에 가면 우동 하나 끝내주는 집이 하나 있어. 꼭 가봐.	[!LobbyIdleMessage][!speaker:Sion]去天空之风帐篷小店街的话有家超好吃的乌冬面餐馆。一定要去下。
 #17482	[!LobbyIdleMessage][!speaker:Sion]푸고 상점가에는 진짜 맛있는 만두 포장마차가 있어. 강력 추천이야.	[!LobbyIdleMessage][!speaker:Sion]府谷商店街有超好吃的包子帐篷小店。强烈推荐。
 #17483	[!LobbyIdleMessage][!speaker:Sion]은빛구름 상점가에 가면 꽤 괜찮은 비빔밥 집이 있어.	[!LobbyIdleMessage][!speaker:Sion]银色云彩商店街有家不错的拌饭店。
@@ -10749,7 +10749,7 @@
 #17582	[!NamedEvent]갈취의 육연향	[!NamedEvent]巧取豪夺的陆延香
 #17583	[!NamedEvent]쓸만한 걸 가지고 있겠지?	[!NamedEvent]你身上带着值钱的东西吧？
 #17584	[!NamedEvent]네 목숨 값은 비싸게 계산해야겠군.	[!NamedEvent]你的命应该挺值钱的。
-#17585	[!GameSystemMessageFormat]육연향이 카일리를 최우선 목표로 삼습니다.	[!GameSystemMessageFormat]陆延香把凯利当作最优先目标。
+#17585	[!GameSystemMessageFormat]육연향이 카일리를 최우선 목표로 삼습니다.	[!GameSystemMessageFormat]陆延香把凯莉当作最优先目标。
 #17586	[!Mastery]마검술사	[!Mastery]魔剑术师
 #17587	[!Mastery]마검은 스스로 주인을 선택한다.	[!Mastery]魔剑己选择主人。
 #17589	[!Ability]물의 가호를 받은 아군은 $ApplyBuff$ 상태가 됩니다.	[!Ability]得到水之护佑的队友将进入$ApplyBuff$状态。
@@ -10842,16 +10842,16 @@
 #17708	[!LobbyIdleMessage][!speaker:Albus]지젤 씨가 합류하다니... 정말 상상도 못했네...	[!LobbyIdleMessage][!speaker:Albus]吉赛尔竟会加入我们...真是没想到啊...
 #17709	[!LobbyIdleMessage][!speaker:Albus]언제까지 도와주시려나...	[!LobbyIdleMessage][!speaker:Albus]会帮到什么时候呢...
 #17710	[!LobbyIdleMessage][!speaker:Albus]출동을 대비해 핫팩을 더 구비해둘까...	[!LobbyIdleMessage][!speaker:Albus]为应对出动，是否需要准备更多热袋?..
-#17711	[!LobbyIdleMessage][!speaker:Albus]카일리 씨 같은 분이 회사에 합류해주면 좋을 텐데...	[!LobbyIdleMessage][!speaker:Albus]如果能有像凯利这样子的人来加入我们公司就好了...
+#17711	[!LobbyIdleMessage][!speaker:Albus]카일리 씨 같은 분이 회사에 합류해주면 좋을 텐데...	[!LobbyIdleMessage][!speaker:Albus]如果能有像凯莉这样子的人来加入我们公司就好了...
 #17712	[!LobbyIdleMessage][!speaker:Albus]톨게이트 사건 이후 검문이 강화됬을텐데...	[!LobbyIdleMessage][!speaker:Albus]沙尘暴关门事件后检查应该已经强化了的啊...
 #17713	[!LobbyIdleMessage][!speaker:Albus]얼마나 많은 바이크론이 있는 거지...	[!LobbyIdleMessage][!speaker:Albus]到底拥有多少的拜克伦呐...
 #17714	[!LobbyIdleMessage][!speaker:Albus]루나라는 여자 아이... 그 뒤로 본적이 없어...	[!LobbyIdleMessage][!speaker:Albus]之后就再也没见到叫露娜的女孩子了...
 #17715	[!LobbyIdleMessage][!speaker:Albus]이 지구 사건을 끝내면 회사 등급을 확실히 올릴 수 있을까...	[!LobbyIdleMessage][!speaker:Albus]这地区的事件结束后公司的级别确实可以提高吗...
-#17716	[!LobbyIdleMessage][!speaker:Albus]카일리 씨 설득은 어렵네...	[!LobbyIdleMessage][!speaker:Albus]要说服凯利真困难...
+#17716	[!LobbyIdleMessage][!speaker:Albus]카일리 씨 설득은 어렵네...	[!LobbyIdleMessage][!speaker:Albus]要说服凯莉真困难...
 #17717	[!LobbyIdleMessage][!speaker:Albus]보안 등급 미스릴이라... 대재해와 같은 등급이잖아...	[!LobbyIdleMessage][!speaker:Albus]竟需要秘银的保安级别... 这可是与大灾害同等的级别啊...
 #17718	[!LobbyIdleMessage][!speaker:Albus]아이작 경감님이 흑호 코퍼레이션과 손을 잡다니...	[!LobbyIdleMessage][!speaker:Albus]艾萨克警监竟与黑虎集团联合...
-#17719	[!LobbyIdleMessage][!speaker:Albus]헤이싱 씨와 카일리 씨가 친한 사이였다니...	[!LobbyIdleMessage][!speaker:Albus]黑星和凯利原来是相识的啊...
-#17720	[!LobbyIdleMessage][!speaker:Albus]카일리 씨가 트러블슈터라니...	[!LobbyIdleMessage][!speaker:Albus]凯利原来是纷争终结者啊...
+#17719	[!LobbyIdleMessage][!speaker:Albus]헤이싱 씨와 카일리 씨가 친한 사이였다니...	[!LobbyIdleMessage][!speaker:Albus]黑星和凯莉原来是相识的啊...
+#17720	[!LobbyIdleMessage][!speaker:Albus]카일리 씨가 트러블슈터라니...	[!LobbyIdleMessage][!speaker:Albus]凯莉原来是纷争终结者啊...
 #17721	[!LobbyIdleMessage][!speaker:Albus]백호파를 완전 제압하려면 역시 리더를 체포해야...	[!LobbyIdleMessage][!speaker:Albus]想要完全制服白虎组的话那就一定要逮捕他们的首领...
 #17722	[!LobbyIdleMessage][!speaker:Albus]최근 스푼교가 잠잠하네...	[!LobbyIdleMessage][!speaker:Albus]最近的勺子教真安静...
 #17723	[!LobbyIdleMessage][!speaker:Albus]역시 헤이싱 씨의 친구 분들은 이 지구에 벌어지는 일과 깊은 연관이 있어...	[!LobbyIdleMessage][!speaker:Albus]果然黑星的朋友们都与这地区发生的事有着深刻的关联啊...
@@ -10899,15 +10899,15 @@
 #17765	[!LobbyIdleMessage][!speaker:Sion]분명... 비샤 형의...	[!LobbyIdleMessage][!speaker:Sion]分明就是...比沙哥的...
 #17766	[!LobbyIdleMessage][!speaker:Sion]날 알아보지 못한 건가...	[!LobbyIdleMessage][!speaker:Sion]没认出我吗...
 #17767	[!LobbyIdleMessage][!speaker:Sion]지젤 누나... 모르는 것 같긴 해...	[!LobbyIdleMessage][!speaker:Sion]吉赛尔姐... 貌似真的不知道...
-#17768	[!LobbyIdleMessage][!speaker:Sion]카일리 누나가 뭘 주려나...	[!LobbyIdleMessage][!speaker:Sion]凯利姐会给什么呢...
-#17769	[!LobbyIdleMessage][!speaker:Sion]나중에 간식 사 들고 카일리 누나 공방에 가봐야겠다...	[!LobbyIdleMessage][!speaker:Sion]回头就买零食去凯利姐的工坊看下吧...
+#17768	[!LobbyIdleMessage][!speaker:Sion]카일리 누나가 뭘 주려나...	[!LobbyIdleMessage][!speaker:Sion]凯莉姐会给什么呢...
+#17769	[!LobbyIdleMessage][!speaker:Sion]나중에 간식 사 들고 카일리 누나 공방에 가봐야겠다...	[!LobbyIdleMessage][!speaker:Sion]回头就买零食去凯莉姐的工坊看下吧...
 #17770	[!LobbyIdleMessage][!speaker:Sion]이 놈의 동네는 하루가 멀다하고 새로운 사건이 터지네...	[!LobbyIdleMessage][!speaker:Sion]这群家伙的地区，天天都惹出新祸来啊...
 #17771	[!LobbyIdleMessage][!speaker:Sion]바이크론은 정말 싫다...	[!LobbyIdleMessage][!speaker:Sion]拜克伦真讨厌...
 #17772	[!LobbyIdleMessage][!speaker:Sion]어제 앤... 무슨 일이 있었던 거지...	[!LobbyIdleMessage][!speaker:Sion]昨天安....发生了什么事呢...
 #17773	[!LobbyIdleMessage][!speaker:Sion]아이작 경감님... 뭘 하시려는 거지...	[!LobbyIdleMessage][!speaker:Sion]艾萨克警监...到底想要做什么呢...
 #17774	[!LobbyIdleMessage][!speaker:Sion]다들 비밀 하나 정도는 있는 건가...	[!LobbyIdleMessage][!speaker:Sion]每个人都有一两个秘密...
 #17775	[!LobbyIdleMessage][!speaker:Sion]트러블슈터와 마이스터... 난 못해...	[!LobbyIdleMessage][!speaker:Sion]纷争终结者和硕士学历...我是做不到了...
-#17776	[!LobbyIdleMessage][!speaker:Sion]카일리 누나까지 있으면 후방은 정말 든든하네...	[!LobbyIdleMessage][!speaker:Sion]凯利姐也在的话后方就真的很放心呢...
+#17776	[!LobbyIdleMessage][!speaker:Sion]카일리 누나까지 있으면 후방은 정말 든든하네...	[!LobbyIdleMessage][!speaker:Sion]凯莉姐也在的话后方就真的很放心呢...
 #17777	[!LobbyIdleMessage][!speaker:Sion]벌써 1년이 다 되어 가네...	[!LobbyIdleMessage][!speaker:Sion]已经都快1年了呢...
 #17778	[!LobbyIdleMessage][!speaker:Sion]리온 형은 잘 지낼까...	[!LobbyIdleMessage][!speaker:Sion]里昂哥过得怎么样呢...
 #17779	[!LobbyIdleMessage][!speaker:Sion]아이작 경감님... 헤이싱 형 친구 분들을 쫓는 거였어...	[!LobbyIdleMessage][!speaker:Sion]艾萨克警监...是在追赶黑星哥的朋友啊...
@@ -10973,10 +10973,10 @@
 #17839	[!LobbyIdleMessage][!speaker:Irene]어릴 때는 눈 오는 날이 참 좋았는데...	[!LobbyIdleMessage][!speaker:Irene]小时候挺喜欢下雪的日子的...
 #17840	[!LobbyIdleMessage][!speaker:Irene]나이 들면 추운게 싫다더니...	[!LobbyIdleMessage][!speaker:Irene]长大了就变得不喜欢冷的天气了啊...
 #17841	[!LobbyIdleMessage][!speaker:Irene]기계는 악당인가...	[!LobbyIdleMessage][!speaker:Irene]机械算恶徒吗..
-#17842	[!LobbyIdleMessage][!speaker:Irene]이번 주말에는 레이 씨와 앤과 함께 카일리 공방에 가 볼까...	[!LobbyIdleMessage][!speaker:Irene]这周末和雷伊还有安一起去凯利的工坊吧...
+#17842	[!LobbyIdleMessage][!speaker:Irene]이번 주말에는 레이 씨와 앤과 함께 카일리 공방에 가 볼까...	[!LobbyIdleMessage][!speaker:Irene]这周末和雷伊还有安一起去凯莉的工坊吧...
 #17843	[!LobbyIdleMessage][!speaker:Irene]시온 군의 동료들에 대한 배려는 배울만한 점이야...	[!LobbyIdleMessage][!speaker:Irene]席翁对同伴的关怀是值得学习的...
 #17844	[!LobbyIdleMessage][!speaker:Irene]요즘 들어 알버스 군과는 이야기 할 시간이 없네...	[!LobbyIdleMessage][!speaker:Irene]最近没时间和阿尔伯斯聊天了呢...
-#17845	[!LobbyIdleMessage][!speaker:Irene]카일리 공방 멀어서 가기 힘들었는데 잘 됐네...	[!LobbyIdleMessage][!speaker:Irene]正好，凯利的工坊太远不怎么好去的...
+#17845	[!LobbyIdleMessage][!speaker:Irene]카일리 공방 멀어서 가기 힘들었는데 잘 됐네...	[!LobbyIdleMessage][!speaker:Irene]正好，凯莉的工坊太远不怎么好去的...
 #17846	[!LobbyIdleMessage][!speaker:Irene]이 장비면 충분하겠지...	[!LobbyIdleMessage][!speaker:Irene]这装备应该就够了吧...
 #17847	[!LobbyIdleMessage][!speaker:Irene]히어로라면 물러서지 않아야 해...	[!LobbyIdleMessage][!speaker:Irene]是英雄的话就不能退缩...
 #17848	[!LobbyIdleMessage][!speaker:Irene]백호파를 제압할 수 있다고 생각하니 속이 다 시원하네...	[!LobbyIdleMessage][!speaker:Irene]听说就要镇压白虎组了，心里太痛快了...
@@ -11052,13 +11052,13 @@
 #17918	[!LobbyIdleMessage][!speaker:Anne]TV에서만 보던 강력사건전담 9과라니...	[!LobbyIdleMessage][!speaker:Anne]居然是在电视上看到的重案9科啊...
 #17919	[!LobbyIdleMessage][!speaker:Anne]엄청 대단한 분이 들어 오셨어...	[!LobbyIdleMessage][!speaker:Anne]来了位非常了不起的人啊...
 #17920	[!LobbyIdleMessage][!speaker:Anne]지젤 언니. 멋지셔...	[!LobbyIdleMessage][!speaker:Anne]吉赛尔姐姐。真帅气...
-#17921	[!LobbyIdleMessage][!speaker:Anne]카일리 언니의 공방에 한 번 가보고 싶다...	[!LobbyIdleMessage][!speaker:Anne]好想去凯利姐姐的工坊看看...
+#17921	[!LobbyIdleMessage][!speaker:Anne]카일리 언니의 공방에 한 번 가보고 싶다...	[!LobbyIdleMessage][!speaker:Anne]好想去凯莉姐姐的工坊看看...
 #17922	[!LobbyIdleMessage][!speaker:Anne]언니 오빠들을 의지하니 마음이 조금 편해졌어...	[!LobbyIdleMessage][!speaker:Anne]能够依靠哥哥姐姐们，心里感到踏实多了...
 #17923	[!LobbyIdleMessage][!speaker:Anne]이제 조금 체력이 붙은 것 같아...	[!LobbyIdleMessage][!speaker:Anne]体力好像恢复点了...
 #17924	[!LobbyIdleMessage][!speaker:Anne]비 오는 날 출동하면 옷이 다 젖어서...	[!LobbyIdleMessage][!speaker:Anne]下雨天出动的话衣服会淋湿的...
 #17925	[!LobbyIdleMessage][!speaker:Anne]루나... 내가 지킬게...	[!LobbyIdleMessage][!speaker:Anne]露娜...我来守护你...
 #17926	[!LobbyIdleMessage][!speaker:Anne]루나는 범죄자야... 하지만...	[!LobbyIdleMessage][!speaker:Anne]露娜是罪犯...但是...
-#17927	[!LobbyIdleMessage][!speaker:Anne]카일리 언니한테 고맙다고 말해야지...	[!LobbyIdleMessage][!speaker:Anne]该向凯利姐姐表达感谢...
+#17927	[!LobbyIdleMessage][!speaker:Anne]카일리 언니한테 고맙다고 말해야지...	[!LobbyIdleMessage][!speaker:Anne]该向凯莉姐姐表达感谢...
 #17928	[!LobbyIdleMessage][!speaker:Anne]아... 헤이싱 오빠 선물... 어떻게 해야 하지...	[!LobbyIdleMessage][!speaker:Anne]啊...黑星哥哥的礼物...该怎么办好呢...
 #17929	[!LobbyIdleMessage][!speaker:Anne]나 더 강해질 방법이 없을까...	[!LobbyIdleMessage][!speaker:Anne]我没有办法变得更强吗...
 #17930	[!LobbyIdleMessage][!speaker:Anne]도움이 필요한 사람들에게 더 가까이 가고 싶어...	[!LobbyIdleMessage][!speaker:Anne]想接近需要帮助的人...
@@ -11180,15 +11180,15 @@
 #18046	[!LobbyIdleMessage][!speaker:Giselle]이 회사 재밌는 녀석들이 많아...	[!LobbyIdleMessage][!speaker:Giselle]这公司有很多有趣的家伙呢...
 #18047	[!LobbyIdleMessage][!speaker:Giselle]시온은 비샤의 막내 동생인가...	[!LobbyIdleMessage][!speaker:Giselle]席翁是比沙的弟弟吗...
 #18048	[!LobbyIdleMessage][!speaker:Giselle]다음 의뢰는 이것이 나을려나...	[!LobbyIdleMessage][!speaker:Giselle]下一个委托选这个更好吗...
-#18049	[!LobbyIdleMessage][!speaker:Giselle]카일리 녀석을 데려오면 좋을텐데...	[!LobbyIdleMessage][!speaker:Giselle]要是能把凯利拉过来就好了...
+#18049	[!LobbyIdleMessage][!speaker:Giselle]카일리 녀석을 데려오면 좋을텐데...	[!LobbyIdleMessage][!speaker:Giselle]要是能把凯莉拉过来就好了...
 #18050	[!LobbyIdleMessage][!speaker:Giselle]다른 트러블슈터의 도움은 생각할 수도 없겠군...	[!LobbyIdleMessage][!speaker:Giselle]从没想过被别的纷争终结者受帮助...
 #18051	[!LobbyIdleMessage][!speaker:Giselle]누군가의 프로젝트인건가...	[!LobbyIdleMessage][!speaker:Giselle]会是谁的计划吗...
 #18052	[!LobbyIdleMessage][!speaker:Giselle]사건의 화제성에 가려진 정보들이 많아...	[!LobbyIdleMessage][!speaker:Giselle]被事件的话题性而遮掩的信息太多了...
 #18053	[!LobbyIdleMessage][!speaker:Giselle]피해자는 반 정부 인물이군...	[!LobbyIdleMessage][!speaker:Giselle]受害者是反政府人物...
 #18054	[!LobbyIdleMessage][!speaker:Giselle]이 팀으로 잔머리 굴리긴 힘들겠어.	[!LobbyIdleMessage][!speaker:Giselle]这支队伍不太会耍小聪明呢。
 #18055	[!LobbyIdleMessage][!speaker:Giselle]겨울이 끝나기 전에 마무리 해둘 것들이 많군.	[!LobbyIdleMessage][!speaker:Giselle]冬天结束之前要完成的事很多。
-#18056	[!LobbyIdleMessage][!speaker:Giselle]카일리가 합류해주면 편할텐데... 직접 나서야 되나...	[!LobbyIdleMessage][!speaker:Giselle]凯利加入的话就好了... 要我去直接说服吗...
-#18057	[!LobbyIdleMessage][!speaker:Giselle]카일리 합류가 늦지 않아 다행이군.	[!LobbyIdleMessage][!speaker:Giselle]还好凯利加入的不太晚。
+#18056	[!LobbyIdleMessage][!speaker:Giselle]카일리가 합류해주면 편할텐데... 직접 나서야 되나...	[!LobbyIdleMessage][!speaker:Giselle]凯莉加入的话就好了... 要我去直接说服吗...
+#18057	[!LobbyIdleMessage][!speaker:Giselle]카일리 합류가 늦지 않아 다행이군.	[!LobbyIdleMessage][!speaker:Giselle]还好凯莉加入的不太晚。
 #18058	[!LobbyIdleMessage][!speaker:Giselle]구룡회의 아이만 아니라면 참 괜찮은 녀석인데...	[!LobbyIdleMessage][!speaker:Giselle]如果不是九龙会的孩子的话就好了...
 #18059	[!LobbyIdleMessage][!speaker:Giselle]이제 백호파도 끝이군...	[!LobbyIdleMessage][!speaker:Giselle]现在白虎组也该走到尽头了...
 #18060	[!LobbyIdleMessage][!speaker:Giselle]결국 자멸하겠지...	[!LobbyIdleMessage][!speaker:Giselle]最终会自取灭亡的呢...
@@ -14415,7 +14415,7 @@
 #22054	[!Pc]헤이싱 씨	[!Pc]黑星
 #22055	[!Pc]레이 씨	[!Pc]雷伊
 #22056	[!Pc]지젤 씨	[!Pc]吉赛尔
-#22057	[!Pc]카일리 씨	[!Pc]凯利
+#22057	[!Pc]카일리 씨	[!Pc]凯莉
 #22058	[!Pc]레톤 씨	[!Pc]莱顿
 #22059	[!Pc]비앙카 씨	[!Pc]比安科
 #22060	[!Pc]알리사 씨	[!Pc]艾丽莎
@@ -14710,7 +14710,7 @@
 #22378	[!Item]해골 자켓	[!Item]骷髅夹克
 #22379	[!Item]해골 코트	[!Item]骷髅外套
 #22380	[!Item]엘리게이터 블레이드 SS	[!Item]短吻鳄剑SS
-#22381	[!Item]스컬 슬래셔는 자신의 새로운 이름에 어울리는 업적의 재물로 구룡회의 살수였던 료 류자키를 선택한다. 하지만 승부는 슬래셔의 검날이 료의 검에 의해 부러지면서 슬래셔의 뼈아픈 패배가 되었다. 이후 슬래셔는 두 번 다시 이런 일이 벌어지지 않도록 내구성이 높은 엘리게이터 블레이드를 개조하여 사용하게 된다.	[!Item]骷髅乱砍者选择了曾经是九龙会杀手的亮龙崎为自己新名字的祭物。但由于乱砍者的剑被亮打断，而品尝到了刻骨的败北感。之后，乱砍者为了不再发生类似事件，改造了耐久性高的短吻鳄剑。
+#22381	[!Item]스컬 슬래셔는 자신의 새로운 이름에 어울리는 업적의 재물로 구룡회의 살수였던 료 류자키를 선택한다. 하지만 승부는 슬래셔의 검날이 료의 검에 의해 부러지면서 슬래셔의 뼈아픈 패배가 되었다. 이후 슬래셔는 두 번 다시 이런 일이 벌어지지 않도록 내구성이 높은 엘리게이터 블레이드를 개조하여 사용하게 된다.	[!Item]骷髅乱砍者选择了曾经是九龙会杀手的亮·龙崎为自己新名字的祭物。但由于乱砍者的剑被亮打断，而品尝到了刻骨的败北感。之后，乱砍者为了不再发生类似事件，改造了耐久性高的短吻鳄剑。
 #22382	[!Item]자동 소총 C - 700	[!Item]自动步枪C - 701
 #22383	[!Item]케이퍼 X	[!Item]凯尔佛X
 #22384	[!Item]케이퍼 X - 스컬 피어스	[!Item]凯尔佛X - 骷髅戳穿者
@@ -14821,7 +14821,7 @@
 #22489	[!Item]헤이싱의 흑홍 의상	[!Item]黑星黑红衣装
 #22490	[!Item]레이의 흑홍 의상	[!Item]雷伊黑红衣装
 #22491	[!Item]지젤의 흑홍 의상	[!Item]吉赛尔黑红衣装
-#22492	[!Item]카일리의 흑홍 의상	[!Item]凯利黑红衣装
+#22492	[!Item]카일리의 흑홍 의상	[!Item]凯莉黑红衣装
 #22493	[!Item]레톤의 흑홍 의상	[!Item]莱顿黑红衣装
 #22494	[!ObjectInfo]버려진 수송 드론	[!ObjectInfo]被抛弃的运输无人机
 #22495	[!ObjectInfo]폐기된 수송 드론	[!ObjectInfo]被废弃的运输无人机
@@ -15237,7 +15237,7 @@
 #22909	[!ObjectVoiceSound][!speaker:Albus]당신의 죄가 바람에 흩날리기를	[!ObjectVoiceSound][!speaker:Albus]希望你的罪随风飘散。
 #22910	[!ObjectVoiceSound][!speaker:Albus]노력은 자신을 배신하지 않습니다	[!ObjectVoiceSound][!speaker:Albus]努力是不会背叛自己的。
 #22918	[!Quest]경찰청 실내 훈련장에서 지젤 팀을 제압하시오.	[!Quest]请制服警察厅室内训练场吉赛尔队。
-#22920	[!Quest]경찰청 실내 훈련장에서 카일리 팀을 제압하시오.	[!Quest]请制服警察厅室内训练场凯利队。
+#22920	[!Quest]경찰청 실내 훈련장에서 카일리 팀을 제압하시오.	[!Quest]请制服警察厅室内训练场凯莉队。
 #22921	[!Quest]시가지 훈련	[!Quest]商街地训练
 #22922	[!Quest]경찰청 실내 훈련장에서 무작위로 지정된 상대방 팀을 제압하시오.	[!Quest]请制服警察厅内随机被指名的对手小队。
 #22924	[!Quest]약탈당한 화물 - 메트로디움 거주구	[!Quest]被掠夺的货物 - 梅特罗迪翁居民区
@@ -15415,11 +15415,11 @@
 #23550	[!Loading]자홍거리 재건축지구	[!Loading]紫红街重建地区
 #23551	[!Mission]자홍거리 재건축지구	[!Mission]紫红街重建地区
 #23552	[!Site]자홍거리 재건축지구	[!Site]紫红街重建地区
-#23553	[!Suggestion]카일리는 알버스에게 정시 퇴근을 요청합니다.<br><br>[colour='FFFFFF00']카일리의 제안 수락 시 카일리, 헤이싱, 레톤 , 레이로 진행하는 시나리오 미션이 진행됩니다. 미리 장비를 점검하세요.	[!Suggestion]凯利向阿尔伯斯请求准时下班。<br><br>[colour='FFFFFF00']接受凯利要求时，将以凯利，黑星，莱顿，雷伊进行剧情任务。请提前检查装备。
+#23553	[!Suggestion]카일리는 알버스에게 정시 퇴근을 요청합니다.<br><br>[colour='FFFFFF00']카일리의 제안 수락 시 카일리, 헤이싱, 레톤 , 레이로 진행하는 시나리오 미션이 진행됩니다. 미리 장비를 점검하세요.	[!Suggestion]凯莉向阿尔伯斯请求准时下班。<br><br>[colour='FFFFFF00']接受凯莉要求时，将以凯莉，黑星，莱顿，雷伊进行剧情任务。请提前检查装备。
 #23554	[!Troublebook]미워도 다시 한번...	[!Troublebook]就算讨厌也要再一次...
 #23555	[!Troublebook]자홍거리 재건축지구	[!Troublebook]紫红街重建地区
 #23556	[!Troublebook]열정과 냉정 사이	[!Troublebook]热情与冷静之间
-#23557	[!Troublebook]카일리는 자신이 과거 앨리를 붕괴시킨 구룡회 사람이라는 사실을 알게 된 레이의 분노를 담담히 받아 들인다.	[!Troublebook]凯利平静地接受了雷伊知道她就是导致艾丽崩溃的当事人后发出的愤怒。
+#23557	[!Troublebook]카일리는 자신이 과거 앨리를 붕괴시킨 구룡회 사람이라는 사실을 알게 된 레이의 분노를 담담히 받아 들인다.	[!Troublebook]凯莉平静地接受了雷伊知道她就是导致艾丽崩溃的当事人后发出的愤怒。
 #23558	[!WordCollection]정지	[!WordCollection]停止
 #23559	[!WordCollection]사무실 BGM	[!WordCollection]办公室 BGM
 #23560	[!WordCollection]현재 선택 곡	[!WordCollection]现在的选曲
@@ -15440,7 +15440,7 @@
 #23575	[!LobbyIdleMessage][!speaker:Heissing]돌아가기 전까지 조금 더 추억을 쌓아볼까...	[!LobbyIdleMessage][!speaker:Heissing]在回去之前试着再积累一些回忆吗...
 #23576	[!LobbyIdleMessage][!speaker:Ray]당분간 카터는 잊자...	[!LobbyIdleMessage][!speaker:Ray]暂时先忘掉卡特吧...
 #23577	[!LobbyIdleMessage][!speaker:Ray]이왕 다니는 회사 조금 더 열심히 다녀볼까...	[!LobbyIdleMessage][!speaker:Ray]既然已经在这个公司上班，那就试着再努力点吧...
-#23578	[!LobbyIdleMessage][!speaker:Ray]카일리한테 뭐라 할 게 아니었는데...	[!LobbyIdleMessage][!speaker:Ray]不应该对凯利说什么的...
+#23578	[!LobbyIdleMessage][!speaker:Ray]카일리한테 뭐라 할 게 아니었는데...	[!LobbyIdleMessage][!speaker:Ray]不应该对凯莉说什么的...
 #23579	[!LobbyIdleMessage][!speaker:Ray]서먹서먹하네...	[!LobbyIdleMessage][!speaker:Ray]变得有点生疏了...
 #23580	[!LobbyIdleMessage][!speaker:Ray]아... 그냥 가서 사과할까...	[!LobbyIdleMessage][!speaker:Ray]啊... 还是去道歉吗...
 #23581	[!LobbyIdleMessage][!speaker:Giselle]갑자기 고용된 용병들이 사건 현장에 많아졌어...	[!LobbyIdleMessage][!speaker:Giselle]被雇用的佣兵在案发现场突然增多了...
