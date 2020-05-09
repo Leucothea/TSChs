@@ -5380,7 +5380,7 @@
 #13403	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]경찰청에서는 적어도 자원관리구역 내의 축적된 에너지 수치를 정상화한 후 자유 사냥을 하라는 지시입니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]警察厅有令，至少将资源管理区的能量储蓄值正常化之后再进行自由狩猎。
 #13408	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']그런 그들은 자네의 행동을 주시하고 있다네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']它们一直在关注着你的一举一动。
 #13409	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']무리가 분열하기 전에 싹이 될만한 자들을 모아 내가 나가겠네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']在族群彻底分崩离析之前，让我选出苗子们带走吧。
-#13414	[!Sentence][!Title]오색 왕도로리	[!Sentence][!Title]五色王软泥
+#13414	[!Sentence][!Title]오색 왕도로리	[!Sentence][!Title]五色王多罗利大王
 #13417	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']우리의 아이들이 자라나고 있다. 적어도 그들이 당당한 전사가 되는 날까지 기다릴 수 없는가?	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']我们的孩子们正在成长啊。你就不能等到他们都长成英勇战士的那一天吗?
 #13419	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']결국 이렇게 되었군. 애쉬.	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']终究还是这样了。烟灰。
 #13422	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']진작에 무리를 나갔어야 했는데...	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']我早该退出族群的…
@@ -5402,7 +5402,7 @@
 #13452	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']내가 그렇게 되지 않도록 할 걸세.	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']我不会让这发生的。
 #13453	[!Sentence][!Dashboard:Counter]초과 축적된 에너지 량	[!Sentence][!Dashboard:Counter]过量能量值
 #13458	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']이대로는 무리는 분열될 것이네. 그리고 예전처럼 인간들에게 하나하나 사냥당하겠지.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']如此下去我们族群必将四分五裂。然后就像从前那样，一个个被人类狩猎殆尽。
-#13460	[!Sentence][!Title]미치광이 도로리	[!Sentence][!Title]疯狂的软泥怪
+#13460	[!Sentence][!Title]미치광이 도로리	[!Sentence][!Title]疯狂的多罗利大王
 #13469	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']하지만 무리 중엔 야생이 아닌 인간으로부터 자라난 자네를 의심하는 자들이 있네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']但是族群中也有一些质疑你这被人类带大而非野生的蒂玛。
 #13473	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']나에게 명예롭게 눈을 감을 기회를 줬다고 생각하게나.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']你就当是给了我功成身退的机会吧。
 #13477	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']그리고 지금 역시 인간들에 의해 동료들이 죽어 나가고 있지.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']现在同样也是因为人类，我们正在失去伙伴。
@@ -5474,14 +5474,14 @@
 #13589	[!Sentence][!Dialog][!speaker:Heissing_Normal]약속대로 도와주마.	[!Sentence][!Dialog][!speaker:Heissing_Normal]说好了要帮你的。
 #13591	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]그렇군요...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]原来如此啊…
 #13592	[!Sentence]아이린에게 '에너지 추출기'를 줍니다. 하의 주머니에 착용한 기존 착용 장비는 사용할 수 없습니다.	[!Sentence]将'能量提取仪'递给艾琳。在裤兜里的原装备将无法使用。
-#13593	[!Sentence][!Dialog][!speaker:Irene_Smile2]'이 구역이면 야샤와 도로리인가...'	[!Sentence][!Dialog][!speaker:Irene_Smile2]'这地方的话除了夜叉就是软泥怪吗…'
+#13593	[!Sentence][!Dialog][!speaker:Irene_Smile2]'이 구역이면 야샤와 도로리인가...'	[!Sentence][!Dialog][!speaker:Irene_Smile2]'这地方的话除了夜叉就是多罗利大王吗…'
 #13596	[!Sentence][!Dialog][!speaker:Irene_Think]'도대체... 어떻게 아는 거지... 공부할 타입이 절대 아닌데...'	[!Sentence][!Dialog][!speaker:Irene_Think]'到底是…怎么知道这些的呢…看起来也不是个爱学习的样子啊…'
 #13597	[!Sentence][!Dialog][!speaker:Kylie_Normal]방금 같이 돌아다녔으니 하는 말이야. 그 정도 개체 수로 이렇게 증가할 리가 없어.	[!Sentence][!Dialog][!speaker:Kylie_Normal]刚才咱们也一起见识过了。仅凭那些个体数量，不可能骤增成现在这种地步的。
 #13600	[!Sentence][!BalloonChat][!speaker:Sion]하나 발견~☆	[!Sentence][!BalloonChat][!speaker:Sion]发现一个~☆
 #13601	[!Sentence][!Dialog][!speaker:Anne_Normal]걱정 마세요. 알버스 오빠.	[!Sentence][!Dialog][!speaker:Anne_Normal]你放心好了。阿尔伯斯哥哥。
 #13605	[!Sentence][!BalloonChat][!speaker:Dorori_Wind_01]끼아악...	[!Sentence][!BalloonChat][!speaker:Dorori_Wind_01]咳啊啊...
 #13607	[!Sentence][!BalloonChat][!speaker:Dorori_Fire_Boss]끼아악! 끼아악!	[!Sentence][!BalloonChat][!speaker:Dorori_Fire_Boss]咳啊啊! 咳啊啊!
-#13610	[!Sentence][!Dashboard:Counter]남은 도로리 수	[!Sentence][!Dashboard:Counter]剩余软泥数
+#13610	[!Sentence][!Dashboard:Counter]남은 도로리 수	[!Sentence][!Dashboard:Counter]剩余多罗利大王数
 #13611	[!Sentence][!VictoryCondition]야수 우두머리를 제압하시오.	[!Sentence][!VictoryCondition]制服野兽头领。
 #13616	[!Sentence][!Choice]귀환한다	[!Sentence][!Choice]返回。
 #13618	[!Sentence][!Choice]구역 내 야수를 모두 제압하시오.	[!Sentence][!Choice]制服地盘里的野兽。
@@ -6192,8 +6192,8 @@
 #14430	[!Sentence][!Dialog][!speaker:Albus_Serious]알겠습니다. 일단 전자망 100m 내 야수들은 모두 배제하도록 하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]知道了。我们一旦将消除100米范围内的野兽。
 #14431	[!Sentence][!VictoryCondition]구역 내 야수를 모두 사냥하시오.	[!Sentence][!VictoryCondition]请制服本区域内的所有野兽。
 #14432	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]트러블슈터의 야수 사냥이 시작되었음에도...	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]尽管开始了纷争终结者的狩猎活动......
-#14433	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]현재 일부 도로리 무리가 방어선 근처까지 진출하였습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]目前有些软泥群体已经靠近防线。
-#14434	[!Sentence][!Dialog][!speaker:Albus_Think]도로리들은 자신의 영역에서 벗어나지 않는 야수일 텐데...	[!Sentence][!Dialog][!speaker:Albus_Think]软泥是不会脱离界限的野兽......
+#14433	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]현재 일부 도로리 무리가 방어선 근처까지 진출하였습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]目前有些多罗利大王群体已经靠近防线。
+#14434	[!Sentence][!Dialog][!speaker:Albus_Think]도로리들은 자신의 영역에서 벗어나지 않는 야수일 텐데...	[!Sentence][!Dialog][!speaker:Albus_Think]多罗利大王是不会脱离界限的野兽......
 #14435	[!Sentence][!Dashboard:Counter]남은 야수 수	[!Sentence][!Dashboard:Counter]剩余野兽数
 #14436	[!Sentence][!Title]철의 숲 안개 절벽	[!Sentence][!Title]铁森林雾悬崖
 #14437	[!Sentence][!Objective]구역 내 야수를 모두 사냥하시오.	[!Sentence][!Objective]请制服本区域内的所有野兽。
@@ -6201,7 +6201,7 @@
 #14439	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]경비를 서는 경찰들에게 쉽게 발견되었다.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]很容易被保安的警察发现了。
 #14440	[!Sentence][!Dialog][!speaker:Albus_Think]역시 철의 숲 내부에 무슨 일이 벌어지고 있는 건가...	[!Sentence][!Dialog][!speaker:Albus_Think]铁森林里面必定要发生一些事......
 #14441	[!Sentence][!Title]이상 징후	[!Sentence][!Title]奇怪的症状
-#14442	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]심지어 인간을 꺼리는 도로리조차...	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]甚至通常避开人类的软泥也...
+#14442	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]심지어 인간을 꺼리는 도로리조차...	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]甚至通常避开人类的多罗利大王也...
 #14443	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]시간이 지나갈수록  야수들은 인간의 영역으로 다가온다.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]随着时间的流逝野兽接近了人类的领域。
 #14444	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]필연적으로 경찰청으로 복귀를 반복해야 하는 발할라 경찰들은...	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]必然要返回到警察厅的巴赫拉警察们…
 #14446	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]그리고 $CompanyName$ 같은 트러블슈터도 있네. 그들은 많은 도움이 될 거야. 	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]也有$CompanyName$那样的纷争终结者们啊。他们会帮大忙的。
@@ -7456,17 +7456,17 @@
 #15879	[!Sentence][!BalloonChat][!speaker:Dorori]키악!! 키악!!	[!Sentence][!BalloonChat][!speaker:Luna_Serious]咳啊！咳啊！
 #15881	[!Sentence][!Dialog][!speaker:Anne_Strict]게다가 너. 얼른 숲으로 돌아가!	[!Sentence][!Dialog][!speaker:Anne_Strict]还有你。快回去森林吧！
 #15882	[!Sentence][!Dialog][!speaker:Anne_Tired]돌아가라니까... 난 널 기다린게 아니라고...	[!Sentence][!Dialog][!speaker:Anne_Tired]都叫你回去啦…我不是来等你的…
-#15883	[!Sentence]앤으로 모험가 도로리와 전투를 합니다.	[!Sentence]使用安和冒险家软泥进行战斗。
+#15883	[!Sentence]앤으로 모험가 도로리와 전투를 합니다.	[!Sentence]使用安和冒险家多罗利大王进行战斗。
 #15886	[!Sentence][!Choice]힘으로 쫓아낸다.	[!Sentence][!Choice]打跑。
-#15887	[!Sentence]모험가 도로리로 진행합니다.	[!Sentence]使用冒险家软泥执行。
+#15887	[!Sentence]모험가 도로리로 진행합니다.	[!Sentence]使用冒险家多罗利大王执行。
 #15891	[!Sentence][!Dialog][!speaker:Beast_Bat_Wind_Challenger_Normal][colour='FFFFFF00']끼약 끼약~!!!!!!!!!!!!!!!	[!Sentence][!Dialog][!speaker:Beast_Bat_Wind_Challenger_Normal][colour='FFFFFF00']咳啊 咳啊~！！！！！
-#15892	[!Sentence][!VictoryCondition]모험가 도로리를 제압하시오.	[!Sentence][!VictoryCondition]制服冒险家软泥怪。
+#15892	[!Sentence][!VictoryCondition]모험가 도로리를 제압하시오.	[!Sentence][!VictoryCondition]制服冒险家多罗利大王。
 #15893	[!Sentence][!Dialog][!speaker:Anne_Tired]난 너하고 같이 살 수 없어!	[!Sentence][!Dialog][!speaker:Anne_Tired]我不能和你一起生活的!
-#15894	[!Sentence]자신의 구애를 무시한 앤에게 분노하여 광분 상태가 됩니다.	[!Sentence]发现安无视自己的求爱，软泥被激怒，进入疯狂状态。
+#15894	[!Sentence]자신의 구애를 무시한 앤에게 분노하여 광분 상태가 됩니다.	[!Sentence]发现安无视自己的求爱，多罗利大王被激怒，进入疯狂状态。
 #15896	[!Sentence][!Dialog][!speaker:Anne_Tired_Smile]자 돌아가!	[!Sentence][!Dialog][!speaker:Anne_Tired_Smile]你回去吧 !
 #15897	[!Sentence][!BalloonChat][!speaker:Anne]지각했는데 그냥 가야지...	[!Sentence][!BalloonChat][!speaker:Anne]快迟到了就直接走好了…
 #15898	[!Sentence]앤과 빨리 가정을 꾸리고 싶은 마음으로 인하여 가속 상태가 됩니다.	[!Sentence]想尽快和安组建家庭的心情，使其进入加速状态。
-#15899	[!Sentence][!Objective]모험가 도로리를 제압하시오.	[!Sentence][!Objective]制服冒险家软泥怪。
+#15899	[!Sentence][!Objective]모험가 도로리를 제압하시오.	[!Sentence][!Objective]制服冒险家多罗利大王。
 #15900	[!Sentence][!Dialog][!speaker:Sion_Depressed]그럼 돌아가자... 나 너무 배고파...	[!Sentence][!Dialog][!speaker:Sion_Depressed]那回去吧…我好饿啊…
 #15902	[!Sentence][!Dialog][!speaker:Ray_Smile]응~☆ 나도 고마워~♡	[!Sentence][!Dialog][!speaker:Ray_Smile]嗯~☆我也要谢谢你~♡
 #15903	[!Sentence][!Dialog][!speaker:Kylie_Serious_Young]타이수. 인신매매는 조직에서 금지하고 있을텐데...?	[!Sentence][!Dialog][!speaker:Kylie_Serious_Young]太秀。我记得帮会里是禁止人口买卖的啊…？
@@ -8869,7 +8869,7 @@
 #17507	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire3_Normal][colour='FFFFAA00']그렇다면 내 밑의 젊은 녀석들 몇명하고 얼어 붙지 않은 물줄기를 타고 내려가 티마들 서식지를 습격해 먹을 것을 가져 올게.	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire3_Normal][colour='FFFFAA00']那我就带着我手下的几个小的，随着不冻的水流游下去，袭击蒂玛们的栖息地，抢来些吃的吧。
 #17508	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire3_Normal][colour='FFFFAA00']이 녀석들아 티마 이야기로 왜 빠져!	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire3_Normal][colour='FFFFAA00']你们这些家伙，话题怎么跑到蒂玛身上去了!
 #17509	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']다른 안전한 얼어 붙지 않은 지역을 발견하면, 그 때 다시 이야기 하기로 해요.	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']如果找到另一处安全不冻的地区，到时候再讨论下去吧。
-#17510	[!Sentence][!Dialog][!speaker:Beast_Frog_Poison3_Normal][colour='FFCC55EE']도로리들에게 철의 숲 심부에 안전한 지역을 찾아 보라고 하자.	[!Sentence][!Dialog][!speaker:Beast_Frog_Poison3_Normal][colour='FFCC55EE']那就让软泥怪们到铁森林深处去寻找安全的地方吧。
+#17510	[!Sentence][!Dialog][!speaker:Beast_Frog_Poison3_Normal][colour='FFCC55EE']도로리들에게 철의 숲 심부에 안전한 지역을 찾아 보라고 하자.	[!Sentence][!Dialog][!speaker:Beast_Frog_Poison3_Normal][colour='FFCC55EE']那就让多罗利大王们到铁森林深处去寻找安全的地方吧。
 #17511	[!Sentence][!Objective]남은 귀환 시간까지 살아남으시오	[!Sentence][!Objective]请在返回之前的剩余时间里幸存下来。
 #17512	[!Sentence][!Objective]남은 야수를 모두 제압하시오.	[!Sentence][!Objective]请制服所有剩余的野兽。
 #17513	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire3_Normal][colour='FFFFAA00']공주. 	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire3_Normal][colour='FFFFAA00']公主。
@@ -8888,11 +8888,11 @@
 #17527	[!Sentence][!Objective]네구리 우두머리를 제압하시오.	[!Sentence][!Objective]请制服纳古利首领。
 #17528	[!Sentence][!Dialog]겨울이 되자 평년보다 자주 네구리들이 자주 철의 숲 외곽에까지 출현한다.	[!Sentence][!Dialog]入冬以来，比以往更多的纳古利经常会出现在铁森林的外围。
 #17530	[!Sentence][!Dialog]네구리 우두머리를 제압하였습니다. 계속 임무를 진행하시겠습니까?	[!Sentence][!Dialog]制服了纳古利首领。继续执行任务吗?
-#17531	[!Sentence][!Dialog][!speaker:Beast_Frog_Lightning3_Normal][colour='FF00AAFF']도로리들이 심부에 잘도 가겠다.	[!Sentence][!Dialog][!speaker:Beast_Frog_Lightning3_Normal][colour='FF00AAFF']软泥怪们能到深处去那就有鬼了。
+#17531	[!Sentence][!Dialog][!speaker:Beast_Frog_Lightning3_Normal][colour='FF00AAFF']도로리들이 심부에 잘도 가겠다.	[!Sentence][!Dialog][!speaker:Beast_Frog_Lightning3_Normal][colour='FF00AAFF']多罗利大王们能到深处去那就有鬼了。
 #17532	[!Sentence][!Dialog]자원 관리 구역과 같이 관리되는 지역이 아닌 철의 숲 지역에서 사냥을 하려면 '사냥허가증'이 필요했다.	[!Sentence][!Dialog]不同于资源管理区这样的官方管理区域，若想在铁森林这种地区进行狩猎的话，需要'狩猎许可证'。
 #17533	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']이 곳이 위험한 곳이라는 곳은 저도 잘 알아요. 하지만 겨울이 온 이상 일족을 이끌고 도박을 할 수는 없어요.	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']我太知道这里是个危险的地方了。但是，冬天已经来临，我不能领着整个族群去赌命。
 #17534	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']그만들 하세요!	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']都别吵了!
-#17535	[!Sentence][!Dialog][!speaker:Beast_Frog_Poison3_Normal][colour='FFCC55EE']그건 걱정마. 최근 만난 도로리 중에 인간들 군락에도 들어가 당당히 여행하고 돌아온 녀석을 만났지.	[!Sentence][!Dialog][!speaker:Beast_Frog_Poison3_Normal][colour='FFCC55EE']这你放心。我最近见到的软泥怪里也有的家伙走到人类中去大摇大摆地转一圈回来的。
+#17535	[!Sentence][!Dialog][!speaker:Beast_Frog_Poison3_Normal][colour='FFCC55EE']그건 걱정마. 최근 만난 도로리 중에 인간들 군락에도 들어가 당당히 여행하고 돌아온 녀석을 만났지.	[!Sentence][!Dialog][!speaker:Beast_Frog_Poison3_Normal][colour='FFCC55EE']这你放心。我最近见到的多罗利大王里也有的家伙走到人类中去大摇大摆地转一圈回来的。
 #17537	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']어쩔 수 없습니다. 이 지역이 아니면 다 얼어 죽을 거에요.	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']没有其他办法了。如果不在这里，我们都会冻死的。
 #17538	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']알겠습니다. 하지만 너무 몰아붙이지 마세요.	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']我知道了。但是不要太紧逼蒂玛啊。
 #17539	[!Sentence][!Dialog][!speaker:Beast_Frog_Black3_Normal][colour='FFFFFFAA']그 은색 녀석이 나타나고 귀찮아진게 너무 많아.	[!Sentence][!Dialog][!speaker:Beast_Frog_Black3_Normal][colour='FFFFFFAA']那个银白色的家伙出现后，事情就变得特别烦人了。
@@ -12282,7 +12282,7 @@
 #21697	[!Sentence][!Dialog][!speaker:Giselle_Smile2]많이 급하네~	[!Sentence][!Dialog][!speaker:Giselle_Smile2]看来很急啊~
 #21698	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]왕과 여왕에게는 포상금까지 걸었어.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]还向德拉基的王和女王设置悬赏金了
 #21699	[!Sentence][!Dialog][!speaker:Giselle_Smile]그래. 이 녀석들 한번 시작하면 모든 걸 먹어 치우지.	[!Sentence][!Dialog][!speaker:Giselle_Smile]是啊，这些家伙们一旦开始就会吃下一切。
-#21700	[!Sentence][!Dialog][!speaker:Giselle_Smile]만약 이 녀석들이 자원 관리 구역의 존재를 알고 사냥터로 삼으면 상대적으로 약한 티마, 도로리, 야샤들은 순식간에 절멸할 거야.	[!Sentence][!Dialog][!speaker:Giselle_Smile]如果这些家伙涉足资源管理区，蒂玛、软泥怪、夜叉们就会瞬间灭绝。
+#21700	[!Sentence][!Dialog][!speaker:Giselle_Smile]만약 이 녀석들이 자원 관리 구역의 존재를 알고 사냥터로 삼으면 상대적으로 약한 티마, 도로리, 야샤들은 순식간에 절멸할 거야.	[!Sentence][!Dialog][!speaker:Giselle_Smile]如果这些家伙涉足资源管理区，蒂玛、多罗利大王、夜叉们就会瞬间灭绝。
 #21701	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]그러면 순식간에 리치 베인은 사라지는 거지.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]那样的话富矿会立即消失。
 #21702	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]듣기만 해도 어처구니 없는 말이군.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]一听就觉得不可理喻。
 #21703	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]자원 관리 구역의 생태계를 유지하기위해 우리 경찰 병력이 얼마나 많은 신경을 써 왔는데...	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]为了保持资源管理区域的生态环境，我们的警察兵力花了多少心思呢...
@@ -14924,20 +14924,20 @@
 #25021	[!DialogQuest][!speaker:AL_Smile]그래. 너희들 아니면 누가 이런 것을 구하겠어.	[!DialogQuest][!speaker:AL_Smile]是啊。除了你们，谁还能拿的到这个呢。
 #25022	[!DialogQuest][!speaker:AL_Smile]잘 부탁한다.	[!DialogQuest][!speaker:AL_Smile]那就拜托了。
 #25023	[!DialogQuest][!speaker:AL_Normal]그래. 의뢰는 잘 진행돼?	嗯，我们的交易怎么样了？
-#25024	[!DialogQuest][!speaker:AL_Normal]납품업체에서 얼음 속성 도로리의 가죽을 $Count$장 구해 달라고 요청이 왔어.	[!DialogQuest][!speaker:AL_Normal]供货商请求说要$Count$张寒冰属性的软泥皮夹。
-#25025	[!DialogQuest][!speaker:Albus_SurpriseStare]얼음 속성 도로리 말씀인가요?	[!DialogQuest][!speaker:Albus_SurpriseStare]寒冰属性的软泥吗？
+#25024	[!DialogQuest][!speaker:AL_Normal]납품업체에서 얼음 속성 도로리의 가죽을 $Count$장 구해 달라고 요청이 왔어.	[!DialogQuest][!speaker:AL_Normal]供货商请求说要$Count$张寒冰属性的多罗利大王皮夹。
+#25025	[!DialogQuest][!speaker:Albus_SurpriseStare]얼음 속성 도로리 말씀인가요?	[!DialogQuest][!speaker:Albus_SurpriseStare]寒冰属性的多罗利大王吗？
 #25026	[!DialogQuest][!speaker:AL_Normal]그래. 워낙 희귀종이라 어디서 구해야 할지 난감한 상황이야.	[!DialogQuest][!speaker:AL_Normal]是啊，因为本来就是稀有品种，所以不知道在哪里能找的到。
 #25027	[!DialogQuest][!speaker:Sion_Stare]아니. 구할 수 없는 물건이면 못 구한다고 말해야지.	[!DialogQuest][!speaker:Sion_Stare]嘿哟，没法取到的东西不是该实话说出来的吗？
 #25028	[!DialogQuest][!speaker:AL_Smile]철의 숲에서 사냥을 자주하는 너희 팀이라면 혹시 알 수 있을까 했지.	[!DialogQuest][!speaker:AL_Smile]因为你们经常在铁森林打猎，所以想着你们或许能拿到。
-#25029	[!DialogQuest][!speaker:Anne_Think]안개 절벽 같은 곳이면 도로리가 많이 모이니 희귀종도 찾을 수 있지 않을까요?	[!DialogQuest][!speaker:Anne_Think]像雾霭悬崖那样的地方有很多软泥出没，是否能在那里找到呢？
-#25030	[!DialogQuest][!speaker:Albus_Think]'일단 도로리가 많은 지역에서 사냥을 하면서 일일히 품질을 비교해야 하는 건가...'	[!DialogQuest][!speaker:Albus_Think]'得在软泥经常出没的地方边打猎边一一比较的吗...'
+#25029	[!DialogQuest][!speaker:Anne_Think]안개 절벽 같은 곳이면 도로리가 많이 모이니 희귀종도 찾을 수 있지 않을까요?	[!DialogQuest][!speaker:Anne_Think]像雾霭悬崖那样的地方有很多多罗利大王出没，是否能在那里找到呢？
+#25030	[!DialogQuest][!speaker:Albus_Think]'일단 도로리가 많은 지역에서 사냥을 하면서 일일히 품질을 비교해야 하는 건가...'	[!DialogQuest][!speaker:Albus_Think]'得在多罗利大王经常出没的地方边打猎边一一比较的吗...'
 #25031	[!DialogQuest][!speaker:Albus_Think]'그다지 수지가 맞지 않는 의뢰인데... 거절할까...'	[!DialogQuest][!speaker:Albus_Think]'有点亏呢...还是拒绝好吗...'
 #25032	[!DialogQuest][!speaker:Irene_Surprise]다른 단서는 없어?	[!DialogQuest][!speaker:Irene_Surprise]没有别的线索吗？
 #25033	[!DialogQuest][!speaker:Albus_Think]'일단 보수를 물어봐야겠어.'	[!DialogQuest][!speaker:Albus_Think]'首先还是先问问报酬吧。'
 #25034	[!DialogQuest][!speaker:AL_Normal]너희들 괜찮은거지?	[!DialogQuest][!speaker:AL_Normal]你们都没关系吗？
 #25035	[!DialogQuest][!speaker:AL_Normal]TV에서 보니 위험한 사건들은 다 너희들이 활약하고 있더라.	[!DialogQuest][!speaker:AL_Normal]在TV上看到，危险的事情都有你们在办呢。
 #25036	[!DialogQuest][!speaker:AL_Smile]히어로도 절대 무리하지 마. 너희들마저 쓰러지면...	[!DialogQuest][!speaker:AL_Smile]英雄你也是，不要太勉强了。连你们都倒地了，那..
-#25037	[!DialogQuest][!speaker:AL_Smile]오. 색깔만 봐도 얼음 속성 도로리의 가죽인걸 알겠네.	[!DialogQuest][!speaker:AL_Smile]哦，从颜色就能看出来是寒冰属性的软泥皮呢。
+#25037	[!DialogQuest][!speaker:AL_Smile]오. 색깔만 봐도 얼음 속성 도로리의 가죽인걸 알겠네.	[!DialogQuest][!speaker:AL_Smile]哦，从颜色就能看出来是寒冰属性的多罗利大王皮呢。
 #25038	[!DialogQuest][!speaker:Hundred_Normal]$CompanyName$[은] 자홍 거리 의뢰도 상관없지?	[!DialogQuest][!speaker:Hundred_Normal]$CompanyName$连紫红街的委托也会接的吧？
 #25039	[!DialogQuest][!speaker:Hundred_Normal]경찰청 친구가 최근 자홍 거리에서 폐기된 강화 드론을 봤나 봐.	[!DialogQuest][!speaker:Hundred_Normal]警察厅的朋友最近在紫红街看到了被废弃的强化无人机。
 #25040	[!DialogQuest][!speaker:Hundred_Normal]그래서 말인데 자홍 거리에 출동할 일이 있다면 폐기된 강화 드론의 부품을 회수해 줬으면 해.	[!DialogQuest][!speaker:Hundred_Normal]所以说，如果有机会在紫红街出动的话，希望能回收被废弃的强化无人机的部件。
@@ -14984,7 +14984,7 @@
 #25081	[!DialogQuest][!speaker:Albus_Normal]네. 가능합니다.	[!DialogQuest][!speaker:Albus_Normal]是的。
 #25082	[!DialogQuest][!speaker:Sam_Normal]정말 대단해. 그렇다면 순도 높은 기름 주머니도 구할 수 있을까?	[!DialogQuest][!speaker:Sam_Normal]真厉害，那可以拿到高纯度的油袋吗？
 #25083	[!DialogQuest][!speaker:Albus_Surprise]순도 높은 기름 주머니요?	[!DialogQuest][!speaker:Albus_Surprise]高纯度的油袋？
-#25084	[!DialogQuest][!speaker:Sam_Normal]그래. 왕 네구리들 중에서도 희귀한 녀석들에게서 구할 수 있는 상급품이지.	[!DialogQuest][!speaker:Sam_Normal]是啊。在王纳古利当中，偶尔会在稀有的家伙那里得到的高级品。
+#25084	[!DialogQuest][!speaker:Sam_Normal]그래. 왕 네구리들 중에서도 희귀한 녀석들에게서 구할 수 있는 상급품이지.	[!DialogQuest][!speaker:Sam_Normal]是啊。在纳古利大王当中，偶尔会在稀有的家伙那里得到的高级品。
 #25085	[!DialogQuest][!speaker:Sam_Normal]구해만 준다면 나도 우리 가게 최고 물품으로 보상할게.	[!DialogQuest][!speaker:Sam_Normal]只要你能帮我找到的话，我会用店里最好的东西来做补偿。
 #25086	[!DialogQuest][!speaker:Sam_Normal]만약 구하기 어렵다면 커다란 기름 주머니로 제작할 수도 있을 거야.	[!DialogQuest][!speaker:Sam_Normal]如果很难拿到的话，那可以用巨大的油袋来制作。
 #25087	[!DialogQuest][!speaker:Sam_Normal]하지만 쉽지 않겠지.	[!DialogQuest][!speaker:Sam_Normal]但是那也不会很简单。
@@ -15034,13 +15034,13 @@
 #25131	[!DialogQuest][!speaker:Hundred_Smile]'아마도인가...'	[!DialogQuest][!speaker:Hundred_Smile]'也许吗...'
 #25132	[!DialogQuest][!speaker:Sam_Normal]너희들 의뢰 가능한가?	[!DialogQuest][!speaker:Sam_Normal]你们可以委托吗？
 #25133	[!DialogQuest][!speaker:Sam_Normal]너희들!! 잠시 시간 좀 내 줄래?	[!DialogQuest][!speaker:Sam_Normal]你们!! 可以空出时间给我吗？
-#25134	[!DialogQuest][!speaker:AL_Smile]납품업체에서 너희들이 구해준 도로리 가죽에 매우 만족하더군.	你们提供的软泥皮让供货商很满意。
+#25134	[!DialogQuest][!speaker:AL_Smile]납품업체에서 너희들이 구해준 도로리 가죽에 매우 만족하더군.	你们提供的多罗利大王皮让供货商很满意。
 #25135	[!DialogQuest][!speaker:Albus_Normal]다행입니다. 혹시나 납품업체에서 요구하신 물건과 다르면 말씀주세요. 다시 구해다 드리겠습니다.	真是万幸呢。如果跟要求的不一样的话请告诉我，我再取过来。
 #25136	[!DialogQuest][!speaker:AL_Smile]아냐. 그렇게 될 경우는 어쩔 수 없지. 나 역시 상인인데 상인이 자기 상품을 확보하는 과정에서 그 정도 손실을 감안해야지.	不，那样是不行的。我也是商人，商人在确保自己商品的过程中，应该同样考虑到这种程度的损失。
-#25137	[!DialogQuest][!speaker:AL_Normal]오색 왕도로리 가죽이네.	[!DialogQuest][!speaker:AL_Normal]五色王软泥皮。
-#25138	[!DialogQuest][!speaker:Albus_Think]'오색 왕도로리라면... 자원관리구역인가...'	[!DialogQuest][!speaker:Albus_Think]'五色王软泥的话...是资源管理区吗...'
-#25139	[!DialogQuest][!speaker:Sion_Normal]왕도로리 가죽이라면 쉽게 구할 수 있지~☆	[!DialogQuest][!speaker:Sion_Normal]王软泥皮的话很容易就能取到的呢~☆
-#25140	[!DialogQuest][!speaker:AL_Normal]왕도로리 가죽이 아니라 오색 왕도로리 가죽이야.	[!DialogQuest][!speaker:AL_Normal]不是王软泥皮而是五色王软泥皮。
+#25137	[!DialogQuest][!speaker:AL_Normal]오색 왕도로리 가죽이네.	[!DialogQuest][!speaker:AL_Normal]五色王多罗利大王皮。
+#25138	[!DialogQuest][!speaker:Albus_Think]'오색 왕도로리라면... 자원관리구역인가...'	[!DialogQuest][!speaker:Albus_Think]'五色王多罗利大王的话...是资源管理区吗...'
+#25139	[!DialogQuest][!speaker:Sion_Normal]왕도로리 가죽이라면 쉽게 구할 수 있지~☆	[!DialogQuest][!speaker:Sion_Normal]王多罗利大王皮的话很容易就能取到的呢~☆
+#25140	[!DialogQuest][!speaker:AL_Normal]왕도로리 가죽이 아니라 오색 왕도로리 가죽이야.	[!DialogQuest][!speaker:AL_Normal]不是王多罗利大王皮而是五色王多罗利大王皮。
 #25141	[!DialogQuest][!speaker:AL_Normal]뭐. 너희들이면 상관없으려나...	[!DialogQuest][!speaker:AL_Normal]嘛，你们的话应该没有关系吧...
 #25142	[!DialogQuest][!speaker:AL_Normal]여러모로 꾸준히 도와줘서 고맙다.	谢谢你一直帮忙。
 #25143	[!DialogQuest][!speaker:AL_Smile]덕분에 이 거리에 사람들이 많이 찾아와.	[!DialogQuest][!speaker:AL_Smile]多亏了你们，这条街上有很多人来。
