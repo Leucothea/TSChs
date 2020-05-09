@@ -378,13 +378,13 @@
 #774	[!Item]자동 소총 C	[!Item]自动步枪C
 #775	[!Item]자동 소총 C - 100	[!Item]自动步枪C-100
 #776	[!Item]VHPD 자동소총	[!Item]VHPD自动步枪
-#778	[!Item]살육자 손도끼	[!Item]屠夫手斧
+#778	[!Item]살육자 손도끼	[!Item]屠杀者手斧
 #779	[!Item]카본 팔찌	[!Item]石墨手镯
 #780	[!Item]블루 카본 팔찌	[!Item]蓝色石墨手镯
 #781	[!Item]지옥불 팔찌	[!Item]地狱火手镯
 #782	[!Item]티타늄 팔찌	[!Item]钛合金手镯
 #790	[!Item]야수의 뼈	[!Item]野兽之骨
-#791	[!Item]부서진 뼈	[!Item]碎裂之骨
+#791	[!Item]부서진 뼈	[!Item]破损之骨
 #792	[!Item]괴수의 뼈	[!Item]怪兽之骨
 #793	[!Item]맹수의 뼈	[!Item]猛兽之骨
 #794	[!Item]카본 부츠	[!Item]石墨靴
@@ -954,25 +954,25 @@
 #2137	[!ObjectInfo]골동품 상인	[!ObjectInfo]古董商人
 #2138	[!ObjectInfo]닐스	[!ObjectInfo]尼尔斯
 #2140	[!ObjectInfo]돈	[!ObjectInfo]敦
-#2141	[!ObjectInfo]건설용 드론	[!ObjectInfo]建设用无人机
-#2142	[!ObjectInfo]수송용 드론	[!ObjectInfo]运输用无人机
+#2141	[!ObjectInfo]건설용 드론	[!ObjectInfo]建设无人机
+#2142	[!ObjectInfo]수송용 드론	[!ObjectInfo]运输无人机
 #2144	[!ObjectInfo]정찰 드론	[!ObjectInfo]侦查无人机
 #2145	[!ObjectInfo]소방 드론	[!ObjectInfo]消防无人机
 #2146	[!ObjectInfo]진압 드론	[!ObjectInfo]镇压无人机
 #2147	[!ObjectInfo]VHPD 수색 드론	[!ObjectInfo]VHPD搜查无人机
 #2149	[!ObjectInfo]에밀	[!ObjectInfo]埃米尔
-#2151	[!ObjectInfo]흑호 도살자	[!ObjectInfo]黑虎屠夫
+#2151	[!ObjectInfo]흑호 도살자	[!ObjectInfo]黑虎屠杀者
 #2157	[!ObjectInfo]푸	[!ObjectInfo]普
 #2158	[!ObjectInfo]지옥불	[!ObjectInfo]地狱火
 #2159	[!ObjectInfo]핑크 혼	[!ObjectInfo]粉色角
-#2160	[!ObjectInfo]황소 도살자	[!ObjectInfo]公牛屠夫
+#2160	[!ObjectInfo]황소 도살자	[!ObjectInfo]公牛屠杀者
 #2163	[!ObjectInfo]스컬 크래셔	[!ObjectInfo]骷髅击碎者
-#2164	[!ObjectInfo]스컬 슬래셔	[!ObjectInfo]骷髅乱砍者
-#2166	[!ObjectInfo]스컬 이터	[!ObjectInfo]骷髅食者
+#2164	[!ObjectInfo]스컬 슬래셔	[!ObjectInfo]骷髅砍杀者
+#2166	[!ObjectInfo]스컬 이터	[!ObjectInfo]骷髅吞噬者
 #2167	[!ObjectInfo]거리 싸움꾼	[!ObjectInfo]街头战斗专家
 #2171	[!ObjectInfo]트레이	[!ObjectInfo]特洛伊
 #2172	[!ObjectInfo]트윙클 잭	[!ObjectInfo]闪耀杰克
-#2177	[!ObjectInfo]백호 도살자	[!ObjectInfo]白虎屠夫
+#2177	[!ObjectInfo]백호 도살자	[!ObjectInfo]白虎屠杀者
 #2180	[!ObjectInfo]방황하는 소녀	[!ObjectInfo]彷徨的少女
 #2182	[!ObjectInfo]헤이싱	[!ObjectInfo]黑星
 #2184	[!ObjectInfo]나탈리	[!ObjectInfo]娜塔莉
@@ -1503,7 +1503,7 @@
 #3488	[!ObjectInfo]로	[!ObjectInfo]罗
 #3489	[!ObjectInfo]대니	[!ObjectInfo]丹尼
 #3491	[!ObjectInfo]크랄	[!ObjectInfo]卡拉尔
-#3492	[!ObjectInfo]전갈 도살자	[!ObjectInfo]毒蝎屠夫
+#3492	[!ObjectInfo]전갈 도살자	[!ObjectInfo]毒蝎屠杀者
 #3493	[!ObjectInfo]전갈 조장	[!ObjectInfo]毒蝎组长
 #3494	[!ObjectInfo]전갈 소란꾼	[!ObjectInfo]毒蝎捣乱者
 #3495	[!ObjectInfo]거리 불량배	[!ObjectInfo]街头流氓
@@ -1823,27 +1823,27 @@
 #4077	[!WordCollection]지역	[!WordCollection]地区
 #4078	[!Ability]에너지 추출	[!Ability]提取能量
 #4079	[!ChatSubCategory]적군의 특성 발동	[!ChatSubCategory]敌人发动天赋
-#4082	[!ObjectInfo]힘을 잃은 작은 바위	[!ObjectInfo]失去力量的小石头
-#4083	[!ObjectInfo]힘을 잃은 바위	[!ObjectInfo]失去力量的石头
-#4084	[!ObjectInfo]힘을 잃은 커다란 바위	[!ObjectInfo]失去力量的大石头
-#4085	[!ObjectInfo]작은 불꽃 바위	[!ObjectInfo]小型火花石头
-#4086	[!ObjectInfo]불꽃 바위	[!ObjectInfo]火花石头
-#4087	[!ObjectInfo]커다란 불꽃 바위	[!ObjectInfo]大型火花石头
-#4088	[!ObjectInfo]작은 섬광 바위	[!ObjectInfo]小型闪光石头
-#4089	[!ObjectInfo]섬광 바위	[!ObjectInfo]闪光石头
-#4090	[!ObjectInfo]커다란 섬광 바위	[!ObjectInfo]大型闪光石头
-#4091	[!ObjectInfo]작은 서리 바위	[!ObjectInfo]小型霜雪石头
-#4092	[!ObjectInfo]서리 바위	[!ObjectInfo]霜雪石头
-#4093	[!ObjectInfo]커다란 서리 바위	[!ObjectInfo]大型霜雪石头
-#4094	[!ObjectInfo]작은 안개 바위	[!ObjectInfo]小型雾霭石头
-#4095	[!ObjectInfo]안개 바위	[!ObjectInfo]雾霭石头
-#4096	[!ObjectInfo]커다란 안개 바위	[!ObjectInfo]大型雾霭石头
-#4097	[!ObjectInfo]작은 폭풍 바위	[!ObjectInfo]小型暴风石头
-#4098	[!ObjectInfo]폭풍 바위	[!ObjectInfo]暴风石头
-#4099	[!ObjectInfo]커다란 폭풍 바위	[!ObjectInfo]大型暴风石头
-#4100	[!ObjectInfo]작은 신록 바위	[!ObjectInfo]小型新绿石头
-#4101	[!ObjectInfo]신록 바위	[!ObjectInfo]新绿石头
-#4102	[!ObjectInfo]커다란 신록 바위	[!ObjectInfo]大型新绿石头
+#4082	[!ObjectInfo]힘을 잃은 작은 바위	[!ObjectInfo]枯竭的小型岩
+#4083	[!ObjectInfo]힘을 잃은 바위	[!ObjectInfo]枯竭的中型岩
+#4084	[!ObjectInfo]힘을 잃은 커다란 바위	[!ObjectInfo]枯竭的巨型岩
+#4085	[!ObjectInfo]작은 불꽃 바위	[!ObjectInfo]小型火花岩
+#4086	[!ObjectInfo]불꽃 바위	[!ObjectInfo]中型火花岩
+#4087	[!ObjectInfo]커다란 불꽃 바위	[!ObjectInfo]大型火花岩
+#4088	[!ObjectInfo]작은 섬광 바위	[!ObjectInfo]小型闪光岩
+#4089	[!ObjectInfo]섬광 바위	[!ObjectInfo]中型闪光岩
+#4090	[!ObjectInfo]커다란 섬광 바위	[!ObjectInfo]大型闪光岩
+#4091	[!ObjectInfo]작은 서리 바위	[!ObjectInfo]小型霜雪岩
+#4092	[!ObjectInfo]서리 바위	[!ObjectInfo]中型霜雪岩
+#4093	[!ObjectInfo]커다란 서리 바위	[!ObjectInfo]大型霜雪岩
+#4094	[!ObjectInfo]작은 안개 바위	[!ObjectInfo]小型雾霭岩
+#4095	[!ObjectInfo]안개 바위	[!ObjectInfo]中型雾霭岩
+#4096	[!ObjectInfo]커다란 안개 바위	[!ObjectInfo]大型雾霭岩
+#4097	[!ObjectInfo]작은 폭풍 바위	[!ObjectInfo]小型暴风岩
+#4098	[!ObjectInfo]폭풍 바위	[!ObjectInfo]中型暴风岩
+#4099	[!ObjectInfo]커다란 폭풍 바위	[!ObjectInfo]大型暴风岩
+#4100	[!ObjectInfo]작은 신록 바위	[!ObjectInfo]小型新绿岩
+#4101	[!ObjectInfo]신록 바위	[!ObjectInfo]中型新绿
+#4102	[!ObjectInfo]커다란 신록 바위	[!ObjectInfo]大型新绿岩
 #4104	[!GuideMessage]$Name$ $Level$ 레벨이 되었습니다	[!GuideMessage]$Name$达到$Level$等级。
 #4105	[!GuideMessage]$Name$ $AbilityName$ 사용 ▶ $TargetName$ 방어하여 $Damage$ 피해를 입었습니다.	[!GuideMessage]$Name$使用了$AbilityName$▶$TargetName$防御受到了$Damage$伤害。
 #4106	[!GuideMessage]$Name$ $AbilityName$ 사용 ▶ $TargetName$ $Damage$ 치명타 피해를 입었습니다.	[!GuideMessage]$Name$使用了$AbilityName$▶$TargetName$受到了$Damage$暴击伤害。
@@ -2402,7 +2402,7 @@
 #4855	[!Ability]별빛 폭발	[!Ability]星光爆炸
 #4857	[!Buff]별빛 방패	[!Buff]星光盾牌
 #4858	[!Ability]대상을 치료합니다.	[!Ability]治疗目标。
-#4861	[!Item]도살자 손도끼	[!Item]屠夫手斧
+#4861	[!Item]도살자 손도끼	[!Item]屠杀者手斧
 #4862	[!Item]케이퍼 V3 - 까마귀	[!Item]凯尔佛V3-乌鸦
 #4863	[!Item]대니로는 장벽 바깥의 리더가 되는 날 자신의 의지를 담은 까마귀 문양을 권총에 새겨 넣었다.	[!Item]丹尼罗成为墙壁外围的领袖时,将象征着自身意志的乌鸦纹样刻到了手枪上。
 #4864	[!Mastery]단 한순간 모든 힘을 집중해라.	[!Mastery]只要一瞬就把全部力量凝聚。
@@ -2999,7 +2999,7 @@
 #5941	[!ItemIdentify]야만인의 %s	[!ItemIdentify]野蛮人的%s
 #5942	[!ItemIdentify]곰의 %s	[!ItemIdentify]熊的%s
 #5943	[!ItemIdentify]광전사의 %s	[!ItemIdentify]狂战士的%s
-#5944	[!ItemIdentify]도살자의 %s	[!ItemIdentify]屠夫的%s
+#5944	[!ItemIdentify]도살자의 %s	[!ItemIdentify]屠杀者的%s
 #5945	[!ItemIdentify]추적자의 %s	[!ItemIdentify]追踪者的%s
 #5946	[!ItemIdentify]광대의 %s	[!ItemIdentify]小丑的%s
 #5947	[!ItemIdentify]수집가의 %s	[!ItemIdentify]收藏家的%s
@@ -5623,9 +5623,9 @@
 #9711	[!Mastery]나에게 주어진 마지막 기회다.	[!Mastery]这是我的最后一次机会。
 #9712	[!Mastery]세 번째 심장	[!Mastery]第三个心脏
 #9715	[!Mastery]자 다음 상대는 누구냐!	[!Mastery]来吧！ 谁是下一个对手!?
-#9716	[!ObjectInfo]못된 아이	[!ObjectInfo]坏小孩
-#9717	[!ObjectInfo]더 못된 아이	[!ObjectInfo]更加恶劣的小孩
-#9718	[!ObjectInfo]동네 아이	[!ObjectInfo]邻居小孩
+#9716	[!ObjectInfo]못된 아이	[!ObjectInfo]恶劣的小孩
+#9717	[!ObjectInfo]더 못된 아이	[!ObjectInfo]更恶劣的小孩
+#9718	[!ObjectInfo]동네 아이	[!ObjectInfo]邻居的小孩
 #9719	[!ObjectInfo]에드몽	[!ObjectInfo]埃德蒙
 #9720	[!ObjectInfo]황랑	[!ObjectInfo]黄壤
 #9721	[!ObjectInfo]카렌	[!ObjectInfo]卡伦
@@ -6821,14 +6821,14 @@
 #11561	[!ObjectInfo]인력사무소 소장	[!ObjectInfo]劳力派出所所长
 #11562	[!ObjectInfo]레스토랑 지배인	[!ObjectInfo]餐厅负责人
 #11563	[!ObjectInfo]패스트푸드 매니저	[!ObjectInfo]快餐店经理
-#11564	[!ObjectInfo]대형마트 점장	[!ObjectInfo]超级市场店长
+#11564	[!ObjectInfo]대형마트 점장	[!ObjectInfo]超市经理
 #11565	[!ObjectInfo]공무원 페페	[!ObjectInfo]公务员佩佩
 #11567	[!Zone]붉은산 지구	[!Zone]赤山地区
-#11568	[!Loading]먼지바람 톨게이트	[!Loading]沙尘暴关门
+#11568	[!Loading]먼지바람 톨게이트	[!Loading]沙暴收费站
 #11569	[!Loading]갈림길	[!Loading]岔路
-#11570	[!Mission]먼지바람 톨게이트	[!Mission]沙尘暴关门
+#11570	[!Mission]먼지바람 톨게이트	[!Mission]沙暴收费站
 #11573	[!Troublebook]어린 시절부터 함께 해 왔던 레이와 카터. 하지만 발할라의 2년은 서로에게 전혀 다른 시간이었다.	[!Troublebook]虽然雷伊与卡特从小就在一起的长大。但在巴赫拉生活的2年时光，对于他们两人而言却是完全不同的时光。
-#11574	[!Troublebook]먼지바람 톨게이트	[!Troublebook]沙尘暴关门
+#11574	[!Troublebook]먼지바람 톨게이트	[!Troublebook]沙暴收费站
 #11575	[!Troublebook]갈림길	[!Troublebook]岔路
 #11580	[!WordCollection]$Year$년 $Month$월 $Day$일	[!WordCollection]$Year$年$Month$月$Day$日
 #11581	[!WordCollection]$Month$월 $Day$일	[!WordCollection]$Month$月$Day$日
@@ -6902,7 +6902,7 @@
 #11660	[!Mastery]밤의 수호자	[!Mastery]夜的守护者
 #11662	[!Mastery]모든 것은 흐름이다.	[!Mastery]一切都是流动。
 #11663	[!Mastery]파죽지세	[!Mastery]破竹之势
-#11664	[!ObjectInfo]베르케	[!ObjectInfo]别儿哥
+#11664	[!ObjectInfo]베르케	[!ObjectInfo]伯尔克
 #11665	[!Ability]일반 추출보다 40% 높은 효율로 대상의 에너지를 추출합니다.	[!Ability]以比一般提取高出40%的效率提取目标的能源。
 #11666	[!Ability]최고급 에너지 추출	[!Ability]最高级提取能量
 #11667	[!Ability]일반 추출보다 20% 높은 효율로 대상의 에너지를 추출합니다.	[!Ability]以比一般提取高出20%的效率提取目标的能源。
@@ -7028,7 +7028,7 @@
 #11823	[!Item]절연 보호대	[!Item]绝缘护具
 #11824	[!Item]번개 속성 이능력의 피해를 분산시켜 영향력을 줄여주는 보호대입니다.	[!Item]将闪电属性的异能伤害分散，以此降低其影响力的护具。
 #11825	[!Item]실비아의 부적	[!Item]雪尔维亚的符文
-#11827	[!Item]지병으로 먼저 세상을 떠난 베르케의 부인 '실비아'가 마지막으로 베르케에 건넨 부적. 비록 옳지 않은 폭력단의 길을 걷는 남편이지만 자신을 위해 헌신하는 그를 위해 간절한 소망을 담았다.	[!Item]因病离世的别儿哥夫人'雪尔维亚'在临终时递给别儿哥的符文。虽然其丈夫选择了不义的暴力团伙之路，但是为了这个牺牲一切的丈夫，她在符文上倾注了她真切的祝愿。
+#11827	[!Item]지병으로 먼저 세상을 떠난 베르케의 부인 '실비아'가 마지막으로 베르케에 건넨 부적. 비록 옳지 않은 폭력단의 길을 걷는 남편이지만 자신을 위해 헌신하는 그를 위해 간절한 소망을 담았다.	[!Item]因病离世的伯尔克夫人'雪尔维亚'在临终时递给伯尔克的符文。虽然其丈夫选择了不义的暴力团伙之路，但是为了这个牺牲一切的丈夫，她在符文上倾注了她真切的祝愿。
 #11829	[!Item]동방연합의 글로벌 군수업체 '사이러스'의 전투용 부츠. 전투 지속 능력을 강화한 제품이다.	[!Item]东方联盟的跨国军工企业'塞勒斯'的战斗用靴子。这是加强了战斗持久力的产品。
 #11830	[!Item]흑철 단검	[!Item]黑铁短剑
 #11831	[!Item]흑철석으로 제작된 단검. 살상력이 매우 높아 가벼운 상처에도 치명적인 피해를 입힌다.	[!Item]用黑铁石制成的短剑。其杀伤力非常高，轻伤也会造成致命的伤害。
@@ -7100,7 +7100,7 @@
 #11928	[!NamedEvent]징벌의 안드레이	[!NamedEvent]惩罚之安德烈
 #11929	[!NamedEvent]젊은 녀석들이 제법이군!	[!NamedEvent]年纪不大本领不小呢!
 #11930	[!NamedEvent]젊은 것들은 버릇이 없군!	[!NamedEvent]年纪轻轻的太没规矩了!
-#11931	[!NamedEvent]다혈질의 베르케	[!NamedEvent]爱冲动的别儿哥
+#11931	[!NamedEvent]다혈질의 베르케	[!NamedEvent]爱冲动的伯尔克
 #11932	[!NamedEvent]정복자 다리우스	[!NamedEvent]征服者大流士
 #11933	[!NamedEvent]지금은 난세.	[!NamedEvent]现在是乱世。
 #11934	[!NamedEvent]폭력의 시대다!	[!NamedEvent]暴力时代来啦!
@@ -9820,9 +9820,9 @@
 #16320	[!Mastery]모든 일은 시작된 순간 예측할 수 없다네.	[!Mastery]万事开了头就难料结局。
 #16321	[!Mastery]이중 극독	[!Mastery]双重剧毒
 #16323	[!Mastery]폭풍의 검	[!Mastery]暴风之剑
-#16324	[!ObjectInfo]붉은 돼지	[!ObjectInfo]红色猪
-#16325	[!ObjectInfo]붉은 구름	[!ObjectInfo]红色云
-#16326	[!ObjectInfo]붉은 이빨	[!ObjectInfo]红色牙齿
+#16324	[!ObjectInfo]붉은 돼지	[!ObjectInfo]赤猪
+#16325	[!ObjectInfo]붉은 구름	[!ObjectInfo]赤云
+#16326	[!ObjectInfo]붉은 이빨	[!ObjectInfo]赤牙
 #16327	[!Ability]맹독구름	[!Ability]剧毒云
 #16328	[!Ability]맹독구름 해제	[!Ability]解除剧毒云
 #16330	[!Ability]지정한 위치에 섬광의 덫을 놓습니다. 섬광의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]在指定位置放置闪光陷井。闪光陷井将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
@@ -9910,7 +9910,7 @@
 #16443	[!Mastery]극풍	[!Mastery]极风
 #16444	[!Mission]메트로디움 거주구	[!Site]梅特罗迪翁居民区
 #16445	[!Mission]그림자 장벽 지하수로	[!Mission]影之墙壁地沟
-#16446	[!ObjectInfo]거미줄 드론	[!ObjectInfo]蜘蛛网无人机
+#16446	[!ObjectInfo]거미줄 드론	[!ObjectInfo]蛛网无人机
 #16447	[!ObjectInfo]스푼교 폭풍술사	[!ObjectInfo]勺子教暴风术师
 #16450	[!Ability]제어권 해제	[!Ability]控制权解除
 #16451	[!Buff]모든 피해량에 대해 자신의 최대 체력보다 낮으면 피해를 입지 않습니다. 해당 상태가 해제되면 $Dead$이 됩니다.<br><br>$AddBuffName$$Perano$ 상태에 면역이 됩니다.	[!Buff]所有的伤害量比自己的最大体力值小的话不会受到伤害。该状态被解除时会$Dead$。<br><br>免疫$AddBuffName$$Perano$。
@@ -10243,7 +10243,7 @@
 #16842	[!GameSystemMessageFormat]남서쪽 포위망의 경찰 병력이 전멸하였습니다.	[!Sentence][!FrontMessage]西南方包围圈的警察被歼灭了。
 #16843	[!GameSystemMessageFormat]북동쪽 포위망의 경찰 병력이 전멸하였습니다.	[!Sentence][!FrontMessage]东北方包围圈的警察被歼灭了。
 #16844	[!GameSystemMessageFormat]백호파 조슈아 직속 부대가 전투 상태에 돌입하였습니다.	[!Sentence][!FrontMessage]约书亚的直属部队开始战斗了。
-#16845	[!GameSystemMessageFormat]백호파 베르케 직속 부대가 전투 상태에 돌입하였습니다.	[!Sentence][!FrontMessage]别儿哥的直属部队开始战斗了。
+#16845	[!GameSystemMessageFormat]백호파 베르케 직속 부대가 전투 상태에 돌입하였습니다.	[!Sentence][!FrontMessage]伯尔克的直属部队开始战斗了。
 #16846	[!GameSystemMessageFormat]레이와 레톤을 도와 주위의 적을 제압하면 이벤트가 발생합니다.	[!Sentence][!FrontMessage]帮助雷伊和莱顿镇压周围的敌人将会触发活动事件。
 #16847	[!GameSystemMessageFormat]레이와 레톤이 현장을 이탈하였습니다.	[!Sentence][!FrontMessage]雷伊和莱顿离开了现场。
 #16848	[!GameSystemMessageFormat]레이와 레톤이 적대 대상이 되었습니다.	[!Sentence][!FrontMessage]雷伊和莱顿变成敌对目标。
@@ -10843,7 +10843,7 @@
 #17709	[!LobbyIdleMessage][!speaker:Albus]언제까지 도와주시려나...	[!LobbyIdleMessage][!speaker:Albus]会帮到什么时候呢...
 #17710	[!LobbyIdleMessage][!speaker:Albus]출동을 대비해 핫팩을 더 구비해둘까...	[!LobbyIdleMessage][!speaker:Albus]为应对出动，是否需要准备更多暖袋?..
 #17711	[!LobbyIdleMessage][!speaker:Albus]카일리 씨 같은 분이 회사에 합류해주면 좋을 텐데...	[!LobbyIdleMessage][!speaker:Albus]如果能有像凯莉这样子的人来加入我们公司就好了...
-#17712	[!LobbyIdleMessage][!speaker:Albus]톨게이트 사건 이후 검문이 강화됬을텐데...	[!LobbyIdleMessage][!speaker:Albus]沙尘暴关门事件后检查应该已经强化了的啊...
+#17712	[!LobbyIdleMessage][!speaker:Albus]톨게이트 사건 이후 검문이 강화됬을텐데...	[!LobbyIdleMessage][!speaker:Albus]沙暴收费站事件后检查应该已经强化了的啊...
 #17713	[!LobbyIdleMessage][!speaker:Albus]얼마나 많은 바이크론이 있는 거지...	[!LobbyIdleMessage][!speaker:Albus]到底拥有多少的拜克伦呐...
 #17714	[!LobbyIdleMessage][!speaker:Albus]루나라는 여자 아이... 그 뒤로 본적이 없어...	[!LobbyIdleMessage][!speaker:Albus]之后就再也没见到叫露娜的女孩子了...
 #17715	[!LobbyIdleMessage][!speaker:Albus]이 지구 사건을 끝내면 회사 등급을 확실히 올릴 수 있을까...	[!LobbyIdleMessage][!speaker:Albus]这地区的事件结束后公司的级别确实可以提高吗...
@@ -14672,7 +14672,7 @@
 #22337	[!NamedEvent]강철의 스컬 크래셔	[!NamedEvent]钢铁的骷髅击碎者
 #22338	[!NamedEvent]모두 다 부서버린다!	[!NamedEvent]破碎所有的！
 #22339	[!NamedEvent]이제 그만 쓰러지거라!	[!NamedEvent]到此为止了！
-#22340	[!NamedEvent]혹한의 스컬 슬래셔	[!NamedEvent]酷寒的骷髅乱砍者
+#22340	[!NamedEvent]혹한의 스컬 슬래셔	[!NamedEvent]酷寒的骷髅砍杀者
 #22341	[!NamedEvent]일도즉참!	[!NamedEvent]一刀即砍！
 #22342	[!NamedEvent]제법 재밌는 녀석이구나.	[!NamedEvent]真是个有趣的家伙嘛。
 #22343	[!NamedEvent]속사의 스컬 피어스	[!NamedEvent]速射的骷髅戳穿者
@@ -14710,7 +14710,7 @@
 #22378	[!Item]해골 자켓	[!Item]骷髅夹克
 #22379	[!Item]해골 코트	[!Item]骷髅外套
 #22380	[!Item]엘리게이터 블레이드 SS	[!Item]短吻鳄剑SS
-#22381	[!Item]스컬 슬래셔는 자신의 새로운 이름에 어울리는 업적의 재물로 구룡회의 살수였던 료 류자키를 선택한다. 하지만 승부는 슬래셔의 검날이 료의 검에 의해 부러지면서 슬래셔의 뼈아픈 패배가 되었다. 이후 슬래셔는 두 번 다시 이런 일이 벌어지지 않도록 내구성이 높은 엘리게이터 블레이드를 개조하여 사용하게 된다.	[!Item]骷髅乱砍者选择了曾经是九龙会杀手的亮·龙崎为自己新名字的祭物。但由于乱砍者的剑被亮打断，而品尝到了刻骨的败北感。之后，乱砍者为了不再发生类似事件，改造了耐久性高的短吻鳄剑。
+#22381	[!Item]스컬 슬래셔는 자신의 새로운 이름에 어울리는 업적의 재물로 구룡회의 살수였던 료 류자키를 선택한다. 하지만 승부는 슬래셔의 검날이 료의 검에 의해 부러지면서 슬래셔의 뼈아픈 패배가 되었다. 이후 슬래셔는 두 번 다시 이런 일이 벌어지지 않도록 내구성이 높은 엘리게이터 블레이드를 개조하여 사용하게 된다.	[!Item]骷髅砍杀者选择了曾经是九龙会杀手的亮·龙崎为自己新名字的祭物。但由于砍杀者的剑被亮打断，而品尝到了刻骨的败北感。之后，砍杀者为了不再发生类似事件，改造了耐久性高的短吻鳄剑。
 #22382	[!Item]자동 소총 C - 700	[!Item]自动步枪C - 701
 #22383	[!Item]케이퍼 X	[!Item]凯尔佛X
 #22384	[!Item]케이퍼 X - 스컬 피어스	[!Item]凯尔佛X - 骷髅戳穿者

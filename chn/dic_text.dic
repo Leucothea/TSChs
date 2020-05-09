@@ -6855,7 +6855,7 @@
 #15172	[!Sentence][!BalloonChat][!speaker:Heissing]레이.	[!Sentence][!BalloonChat][!speaker:Ray_Serious]雷伊。
 #15173	[!Sentence][!Dialog][!speaker:Heissing_Normal]카터인가?	[!Sentence][!Dialog][!speaker:Heissing_Normal]卡特做的吗?
 #15174	[!Sentence][!Dialog][!speaker:Gangster_DeliveryHelmet_Normal]까다로운 물주님과 달리 말이 잘 통하는군.	[!Sentence][!Dialog][!speaker:Gangster_DeliveryHelmet_Normal]与挑剔的物主不同，很好说话嘛。
-#15175	[!Sentence][!Dialog][!speaker:NewsCaster_Normal]오늘 오후, 먼지바람 톨게이트에서 일어난 사고로 발생한 사상자가 100여명으로 집계되었습니다.	[!Sentence][!Dialog][!speaker:NewsCaster_Normal]今天下午，在沙尘暴关门发生的事故造成了100余名的死伤者。
+#15175	[!Sentence][!Dialog][!speaker:NewsCaster_Normal]오늘 오후, 먼지바람 톨게이트에서 일어난 사고로 발생한 사상자가 100여명으로 집계되었습니다.	[!Sentence][!Dialog][!speaker:NewsCaster_Normal]今天下午，在沙暴收费站发生的事故造成了100余名的死伤者。
 #15176	[!Sentence][!Dialog][!speaker:NewsCaster_Normal]다음은 방송국 영상팀이 단독으로 입수한 사고 당시 현장 차량의 블랙 박스 영상입니다.	[!Sentence][!Dialog][!speaker:NewsCaster_Normal]接下来是电视台内部人员提供的事故现场车辆的行车仪视频。
 #15177	[!Sentence][!Dialog][!speaker:Ray_Serious]그건...	[!Sentence][!Dialog][!speaker:Ray_Serious]那是...
 #15178	[!Sentence][!Dialog][!speaker:Heissing_Smile]다음에 카터를 만나면 죽일 수 있나?	[!Sentence][!Dialog][!speaker:Heissing_Smile]下次再见到卡特时能杀掉他吗?
@@ -6899,7 +6899,7 @@
 #15220	[!Sentence][!BalloonChat][!speaker:Ray]이녀석 강하다...	[!Sentence][!BalloonChat][!speaker:Gangster_DeliveryHelmet_Normal]这家伙很强...
 #15221	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]발할라 경찰청은 최소한 50여명이 숨졌으며	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]巴赫拉警察最少有50人殉职了
 #15222	[!Sentence][!Dialog][!speaker:Heissing_Rage]레이. 정신 차려.	[!Sentence][!Dialog][!speaker:Heissing_Rage]雷伊，快醒醒。
-#15223	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]먼지 바람 톨게이트에서 대형 트레일러 3대가	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]3辆大型拖车在沙尘暴关门
+#15223	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]먼지 바람 톨게이트에서 대형 트레일러 3대가	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]3辆大型拖车在沙暴收费站
 #15224	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]창. 료가 사라진 이상 『두술』의 제물은 저 녀석들이다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]昌，亮消失后，那些家伙将成为『 第二勺 』的祭品。
 #15225	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]헤이싱! 너가 왔다는 건 트러블슈터 팀도?	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]黑星!你在这里就说明纷争终结者也来了?
 #15226	[!Sentence][!BalloonChat][!speaker:Aizia]그럼 나도 가볼까...	[!Sentence][!BalloonChat][!speaker:Gangster_DeliveryHelmet_Normal]那么我也走了...
@@ -6910,7 +6910,7 @@
 #15231	[!Sentence][!Dialog][!speaker:Ray_Serious]'카터를 지금 놓치면...'	[!Sentence][!Dialog][!speaker:Ray_Serious]'如果现在放走卡特...'
 #15233	[!Sentence][!Dialog][!speaker:Ray_Normal]헤이싱. 네 제안은 고맙지만...	[!Sentence][!Dialog][!speaker:Ray_Normal]黑星，虽然很感谢你的提议...
 #15234	[!Sentence][!Dialog][!speaker:Heissing_Normal]그리고 그 수단을 강화하기 위해 네가 필요하다.	而且为了强化这个手段，我需要你。
-#15235	[!Sentence][!Title]먼지바람 톨게이트	[!Sentence][!Title]沙尘暴关门
+#15235	[!Sentence][!Title]먼지바람 톨게이트	[!Sentence][!Title]沙暴收费站
 #15236	[!Sentence][!BalloonChat][!speaker:Ray]비켜!!!	[!Sentence][!BalloonChat][!speaker:Ray]闪开!!!
 #15237	[!Sentence][!Dialog][!speaker:Heissing_Rage]혼자서는 오늘과 다를 바 없을 것이다. 레이.	一个人的话，结果只会跟今天一样，雷伊。
 #15238	[!Sentence][!Dialog][!speaker:Ray_Surprise]무고한 사람들까지 왜!!	[!Sentence][!Dialog][!speaker:Ray_Surprise]为什么要卷入无辜的人!!
@@ -6978,7 +6978,7 @@
 #15300	[!Sentence][!Dialog][!speaker:Gangster_TwinkleJack_Normal]장비 다 젖겠네. 젠장.	[!Sentence][!Dialog][!speaker:Gangster_TwinkleJack_Normal]设备都要湿了。该死的。
 #15301	[!Sentence][!Subtitle]분산된 경찰 병력으로 인해 다시금 기회가 생기면 이 지역에서 무력 시위를 이어갔다.	[!Sentence][!Subtitle]由于分散的警力再次出现空隙，该地区将会持续爆发武装示威。
 #15302	[!Sentence][!Title]별빛 사거리 시장 골목	[!Sentence][!Title]星光大街市场胡同
-#15303	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Normal]죄송합니다. 베르케님. 아직 조금 더 시간이 필요합니다...	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Normal]不好意思，别儿哥大人。还需要些时间…
+#15303	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Normal]죄송합니다. 베르케님. 아직 조금 더 시간이 필요합니다...	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Normal]不好意思，伯尔克大人。还需要些时间…
 #15304	[!Sentence][!Choice]동쪽 진입로	[!Sentence][!Choice]东部入口
 #15305	[!Sentence][!Dashboard:Counter]남은 백호파 지휘관 수	[!Sentence][!Dashboard:Counter]剩余的白虎组指挥员数量
 #15306	[!Sentence]쉼터과 고급 주택가에 가까움	[!Sentence]离休息区和高级住宅区近
@@ -6991,7 +6991,7 @@
 #15313	[!Sentence][!Dialog][!speaker:Civil_Man_Bare_Normal]두 번 다시 경찰에 연락하지 않겠습니다!	[!Sentence][!Dialog][!speaker:Civil_Man_Bare_Normal]我发誓再也不会报警了!
 #15314	[!Sentence][!Title]정복자 다리우스	[!Sentence][!Title]征服者大流士
 #15315	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]마지막 북쪽은 쉼터와 시장 골목과 고급 주택가에 가까운 지점이지.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]最后一个北边是和休息区、市场胡同、高级住宅区都近的地点。
-#15316	[!Sentence][!Title]다혈질의 베르케	[!Sentence][!Title]多血质的别儿哥
+#15316	[!Sentence][!Title]다혈질의 베르케	[!Sentence][!Title]多血质的伯尔克
 #15317	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]그런 상황을 만들지 않기 위해 자네와 내가 여기 있는 것 아닌가?	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]为了避免出现这种情况，你们和我才会在这里不是吗?
 #15318	[!Sentence][!BalloonChat][!speaker:Enemy02_07]미친 노친네... 은퇴 안 하나...	[!Sentence][!BalloonChat][!speaker:Enemy02_07]这疯老头儿…都不退休的吗…
 #15319	[!Sentence][!Subtitle][!speaker:VHPD_Assault_Normal]별빛 사거리 백호파 다수 확인!	[!Sentence][!Subtitle][!speaker:VHPD_Assault_Normal]星光大街发现大量白虎组成员!
@@ -8115,7 +8115,7 @@
 #16702	[!Sentence][!Dialog][!speaker:VHPDMale2_Normal]아. 그렇습니까... 알겠습니다.	[!Sentence][!Dialog][!speaker:VHPDMale2_Normal]啊，是这样啊。知道了。
 #16703	[!Sentence][!Dialog][!speaker:VHPDMale2_Normal]죄송합니다. 제인 경감님. 막무가내로 들어오셔서...	[!Sentence][!Dialog][!speaker:VHPDMale2_Normal]非常抱歉，珍警监。有个蛮不讲理的人闯了进来...
 #16704	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'][colour='FFFFE959']특성판 버튼을 클릭하세요.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'][colour='FFFFE959']点击天赋版按钮。
-#16705	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]이 일은 베르케님에게 맡겼습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]这件事交给别儿哥了。
+#16705	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]이 일은 베르케님에게 맡겼습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]这件事交给伯尔克了。
 #16706	[!Sentence][!Dialog][!speaker:Ray_Normal]헤이싱. 이 시간에도 카터는 움직이고 있을 거야.	[!Sentence][!Dialog][!speaker:Ray_Normal]黑星，即使是这个时间卡特也在行动。
 #16707	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]어디까지나 제 판단입니다.	某些方面来说是我个人的判断。
 #16708	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]그걸 눈 앞에서 가로채?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]想在我眼前抢走功劳?
@@ -8141,8 +8141,8 @@
 #16729	[!Sentence][!VictoryCondition]스푼교도를 제압하시오.	[!Sentence][!VictoryCondition]请压制勺子教信徒。
 #16730	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]케빈.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]凯文。
 #16731	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]하아... 이 녀석이고 저 녀석이고...	呼…这帮家伙，一个个的...
-#16732	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]그래도 참 가혹하군. 우리의 마지막을 담당하는 것이 베르케 형님이라니...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]这也太苛刻了，负责我们最后的居然是别儿哥大哥...
-#16733	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Joshua_Normal]그런데 진짜 베르케 형님한테 맡겨도 되는 건가?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Joshua_Normal]交给别儿哥大哥真的没问题吗?
+#16732	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]그래도 참 가혹하군. 우리의 마지막을 담당하는 것이 베르케 형님이라니...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]这也太苛刻了，负责我们最后的居然是伯尔克大哥...
+#16733	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Joshua_Normal]그런데 진짜 베르케 형님한테 맡겨도 되는 건가?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Joshua_Normal]交给伯尔克大哥真的没问题吗?
 #16734	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]조직에 몸을 담은 자가 보스를 보필하지 못하고 조직을 지켜내지 못한다면 마지막은 뻔한 것이지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]在组织中无法辅佐首领并无法守护组织的人的下场只有一种。
 #16735	[!Sentence][!Dialog][!speaker:Ray_Normal]알았어. 알았다고!	[!Sentence][!Dialog][!speaker:Ray_Normal]知道了，知道了!
 #16736	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]뭐!?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]什么 !?
@@ -8172,7 +8172,7 @@
 #16762	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]굳이 넌 이 가면을 쓰지 않았어도 괜찮을텐데...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]你不必戴这个面具也可以...
 #16763	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]내가 자원한걸세.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]是我自愿的。
 #16764	[!Sentence][!Dialog][!speaker:Irene_Surprise]시온 군. 뭘 그렇게 흐뭇하게 바라보고 있나?	[!Sentence][!Dialog][!speaker:Irene_Surprise]席翁，你在心满意足地看什么?
-#16765	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]지금 이 일은 베르케 영감의 부탁인가?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]现在这件事是别儿哥老头子指示的吗?
+#16765	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]지금 이 일은 베르케 영감의 부탁인가?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]现在这件事是伯尔克老头子指示的吗?
 #16766	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]이 푸고 거리는 엄연히 '성난 황소' 파의 구역입니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]这府谷大街无可置疑是'愤怒的公牛'的地盘。
 #16767	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]형님. 푸님이 자홍뒷골목에서 저희 보스를 의도적으로 돕지 않은 것이 사실입니까?	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]大哥，普在紫红后街故意没有帮首领的事是真的吗？
 #16768	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]하아... 이 자식들이 단체로 물 먹이려고 하네?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]呼…这群家伙还真团结?
@@ -8200,7 +8200,7 @@
 #16791	[!Sentence][!Dialog][!speaker:Albus_Normal]알겠습니다. 잠시 대기 부탁드립니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]知道了，请暂时待机。
 #16792	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]보스의 명령을 누구보다 소중히 하시는 분이다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]他比人任何人都要重视首领的命令。
 #16793	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]생각지 못한 불청객이군.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]预料之外的不速之客啊。
-#16794	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]감사합니다. 베르케님.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]谢谢。别儿哥大人。
+#16794	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]감사합니다. 베르케님.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]谢谢。伯尔克大人。
 #16795	[!Sentence][!Dialog][!speaker:Albus_Think]' 이 지역의 스푼교도들은 다 몰아냈다고 생각했는데...'	[!Sentence][!Dialog][!speaker:Albus_Think]' 本以为已经清除了这个地区的勺子教徒...'
 #16796	[!Sentence][!Dialog][!speaker:Sion_Normal]하지만 이제는 우리 말고도 앤, 헤이싱 형, 레이 누나가 있네.	[!Sentence][!Dialog][!speaker:Sion_Normal]但现在除了我们还有安，黑星哥，雷伊姐。
 #16797	[!Sentence][!Dialog][!speaker:Heissing_Smile]카터를 멈출 힘을 갖추는 게 먼저다.	[!Sentence][!Dialog][!speaker:Heissing_Smile]首先要获得阻止卡特的力量。
@@ -8230,7 +8230,7 @@
 #16821	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]형님도 오랜만입니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]大哥也是好久不见啊。
 #16822	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]네. 익명으로 신고했으니 곧 경찰과 $CompanyName$[이] 도착할 것입니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]是的，刚才进行了匿名举报，警察与$CompanyName$马上就会过来。
 #16823	[!Sentence][!Dialog][!speaker:Anne_Normal2]아직 많이 부족하지만 최선을 다하겠습니다!	[!Sentence][!Dialog][!speaker:Anne_Normal2]虽然还有很多不足，但我会尽全力的!
-#16824	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]10년 전, 베르케 형님이 우리를 거절했을 때...	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]10年前，别儿哥大哥拒绝我们的时候...
+#16824	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]10년 전, 베르케 형님이 우리를 거절했을 때...	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]10年前，伯尔克大哥拒绝我们的时候...
 #16825	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]무슨 개소리야!	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]这是什么屁话？
 #16826	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]네. 다리우스님.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]是，大流士大人。
 #16827	[!Sentence][!Dialog][!speaker:VHPD_Scout_Normal]앤 메이시양은 정말 많은 사람들의 행복을 지켜주고 있단다.	[!Sentence][!Dialog][!speaker:VHPD_Scout_Normal]安梅茜小姐真的守护住了很多人的幸福。
@@ -8333,7 +8333,7 @@
 #16933	[!Sentence][!Title]남서쪽 진입로	[!Sentence][!Title]西南方向的入口
 #16934	[!Sentence][!Dialog][!speaker:Albus_Serious]일단 각 진입로에서 가장 먼 중앙으로 이동합니다!	[!Sentence][!Dialog][!speaker:Albus_Serious]首先移动到离各路口最远的中心！
 #16935	[!Sentence][!Dialog][!speaker:Albus_Serious]그럼 지금부터 진입로를 탈환하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]那么现在开始夺回入口。
-#16936	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]머트. 베르케님이 올라가셨다.	麦德，别儿哥上去了。
+#16936	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]머트. 베르케님이 올라가셨다.	麦德，伯尔克上去了。
 #16937	[!Sentence][!Dialog][!speaker:Ray_Normal]걱정마~☆	[!Sentence][!Dialog][!speaker:Ray_Normal]别担心~☆
 #16938	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]모든 변수를 제거하는 거야.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]要消除所有不稳定因素。
 #16939	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]발할라의 의료 인프라와 경찰력으로부터 고립시키고...	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]要将他们从巴赫拉的医疗基础与警力支援中孤立...
@@ -9335,7 +9335,7 @@
 #18377	[!Sentence][!Dialog][!speaker:Irene_Think]분명 어디선가 봤는데...	[!Sentence][!Dialog][!speaker:Irene_Think]肯定是在哪里见过啊...
 #18378	[!Sentence][!Title]현장 도착 30분 전...	[!Sentence][!Title]离到达现场30分钟前...
 #18379	[!Sentence][!Dialog][!speaker:Carter_Smile]죗값을 치뤄야지.	[!Sentence][!Dialog][!speaker:Carter_Smile]需要承担罪责啊。
-#18380	[!Sentence][!Subtitle]먼지바람 톨게이트 테러 사건 이후 2 개월.	[!Sentence][!Subtitle]沙尘暴关门发生恐怖袭击的2个月后。
+#18380	[!Sentence][!Subtitle]먼지바람 톨게이트 테러 사건 이후 2 개월.	[!Sentence][!Subtitle]沙暴收费站发生恐怖袭击的2个月后。
 #18381	[!Sentence][!Dialog][!speaker:Irene_Surprise]날 보자마자 도망가다니... 악당인가?	[!Sentence][!Dialog][!speaker:Irene_Surprise]看到我就逃走...是恶徒吗？
 #18382	[!Sentence][!Title]기억의 파편	[!Sentence][!Title]记忆的碎片
 #18384	[!Sentence][!Dialog][!speaker:Leton_Serious]카터. 	[!Sentence][!Dialog][!speaker:Leton_Serious]卡特。
@@ -9528,11 +9528,11 @@
 #18610	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Andrei_Normal]역시 오는군...	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Andrei_Normal]果然来了...
 #18611	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]오. 푸. 또 무슨 일인가?	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]噢！普，又是什么事情？
 #18612	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]시민들은 공포를 피할 수 있는 안식처를 선택하니까.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]因为市民们会选择可以躲避恐惧的安息处。
-#18613	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]베르케 아저씨가 맡아주세요.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]让别儿哥大叔来管理吧。
+#18613	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]베르케 아저씨가 맡아주세요.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]让伯尔克大叔来管理吧。
 #18614	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]좋은 건데 아깝게 됐군.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]这么好的红酒，真可惜啊。
 #18615	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal_Young]케빈. 네 녀석은 이제 보스의 명령조차 무시하는 건가?	凯文。现在你连首领的命令都要无视吗？
 #18616	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young]하지만 어디까지나 지금 한 순간일뿐... 탈출하시려면 지금 올라가셔야 합니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young]不管怎样只是这一瞬间罢了... 想要逃出的话需要现在上去。
-#18618	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young]보스. 베르케 형님과 성난 황소파의 조홍, 하산이 탈출로를 확보하고 있습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young]首领。别儿哥大哥、愤怒的公牛组的赵洪还有哈山正在开出退路。
+#18618	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young]보스. 베르케 형님과 성난 황소파의 조홍, 하산이 탈출로를 확보하고 있습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young]首领。伯尔克大哥、愤怒的公牛组的赵洪还有哈山正在开出退路。
 #18619	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]네. 보스.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]在的。首领。
 #18620	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]그리고 후성.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]还有侯成。
 #18621	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]네가 열심히 시민들에게 공포를 심어줄 때지. 	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]当你正视图向市民制造恐慌时，我呢没忽视这机会拿到了这个区域。
@@ -10547,7 +10547,7 @@
 #19756	[!Sentence][!Dialog]발할라 생활에 적응하는 과정에서 살아온 문화 차이에 따라 실수를 범하곤 하면...	[!Sentence][!Dialog]若在适应巴赫拉生活的过程中，稍有闪失...
 #19757	[!Sentence][!Dialog]벌레 보는 듯한 시선.	[!Sentence][!Dialog]就以看待虫子的眼光来对待。
 #19758	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Hurted_Young2]왜. 벌써 힘드냐?	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Hurted_Young2]怎么了。已经开始累了吗？
-#19759	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]베르케. 후성. 다리우스. 안드레이.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]别儿哥、侯成、大流士、安德烈。
+#19759	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]베르케. 후성. 다리우스. 안드레이.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]伯尔克、侯成、大流士、安德烈。
 #19760	[!Sentence][!Dialog][!speaker:Albus_Think]'아냐...그랬다가 자칫 전력에 밀려버리면...'	[!Sentence][!Dialog][!speaker:Albus_Doubt]'不行...若各自被击破的话...‘
 #19761	[!Sentence][!Dialog]그리고 그 압박은 제인 경감의 기동대에 쏟아졌다.	这些压力就落到了珍警监的机动队身上。
 #19762	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]저기... 그렇게 내면 저희는 정말 버는 게 없습니다...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]那个.....给那么多的话我们真的什么也不剩了...
@@ -11190,7 +11190,7 @@
 #20547	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]조슈아는 아직도 행방불명인가?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]约书亚还是下落不明吗？
 #20548	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]네. 수색은 하지만 단서가 안 잡히는 걸로 봐서...	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]是。虽然在继续搜索，但是找不到任何的线索，恐怕...
 #20549	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]전문적인 암살과 처리가 이루어진 듯 합니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]貌似是由专门的暗杀处理完成的。
-#20550	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]베르케 님. 제 견해로는 안드레이에게 총을 겨눈 자는...	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]别儿哥大人。依我看来，向安德烈开枪的人是...
+#20550	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]베르케 님. 제 견해로는 안드레이에게 총을 겨눈 자는...	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]伯尔克大人。依我看来，向安德烈开枪的人是...
 #20551	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]머트를 살해한 녀석이겠지.	正是杀害麦德的人。
 #20552	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]네. 저도 그렇게 생각합니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]是的，我也那么认为。
 #20553	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]출혈... 쇼크사가 아닌...	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]连休克都没有的出血....
@@ -11208,7 +11208,7 @@
 #20565	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]이런 암살은 저희에 대한 정보가 없으면 불가능합니다.	这样的暗杀，不掌握我们的行踪是不可能做到的。
 #20567	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]배신자인가...	叛徒吗...
 #20568	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]죠슈아 일과 안드레이 일은 내가 보스에게 보고 하겠다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]约书亚和安德烈的事情就由我来向首领报告。
-#20569	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]감사합니다. 베르케 님.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]感谢别儿哥大人。
+#20569	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]감사합니다. 베르케 님.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]感谢伯尔克大人。
 #20570	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]늙은이가 남아 뭘 하겠나. 이런 불편한 일이나 해서 자네들 짐이나 덜어 주는 거지.	我一个老家伙留下来也帮不上什么。就干这种不方便的事，帮你们减压吧。
 #20571	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]그럼 저는 후성과 함께 이 구역을 좀 더 수색하겠습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]那么我就和侯成一起留下再搜索一下了。
 #20572	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]그래. 자네들 역시 조심하게나.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]嗯，你们也小心点。
@@ -14248,7 +14248,7 @@
 #24331	[!Sentence][!Title]자홍 거리 상점가	[!Sentence][!Title]紫红街的商店街
 #24332	[!Sentence][!Subtitle]겨울이 끝나자 백호파의 무력 항쟁은 다시 시작되었다.	[!Sentence][!Subtitle]冬天一结束，白虎组的武力抗争又开始了。
 #24333	[!Sentence][!Subtitle]하지만 조직의 주축이었던 젊은 간부들을 잃은 백호파의 위세는 예전 같지 않았다.	[!Sentence][!Subtitle]但是失去组织核心干部的白虎组的威势大不如前。
-#24334	[!Sentence][!Subtitle]올해 환갑을 바라보는 베르케가 선대의 은혜에 보답하기 위해 보스인 푸를 보조하여 조직을 추스렸지만...	[!Sentence][!Subtitle]尽管别儿哥身为组织的最年长者为组织的重建作出了努力，但...
+#24334	[!Sentence][!Subtitle]올해 환갑을 바라보는 베르케가 선대의 은혜에 보답하기 위해 보스인 푸를 보조하여 조직을 추스렸지만...	[!Sentence][!Subtitle]尽管伯尔克身为组织的最年长者为组织的重建作出了努力，但...
 #24335	[!Sentence][!Subtitle]압도적인 폭력 아래 쌓아올린 조직의 응집력은 패배의 횟수가 늘어날수록 빠르게 와해되었다.	[!Sentence][!Subtitle]组织的凝聚力随着失败次数的增加而迅速瓦解了。
 #24336	[!Sentence][!Title]사기꾼 타이론	[!Sentence][!Title]诈骗犯泰伦
 #24337	[!Sentence][!Title]자홍시장 앞 유흥가	[!Sentence][!Title]紫红市场前红灯区
@@ -14281,7 +14281,7 @@
 #24364	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]여기마저 물러나면 어쩌겠다는 거냐!	是可忍孰不可忍！
 #24365	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]보스는 이미 한 번 무너진 조직을 다시 일으켜 세우셨습니다.	首领已经将崩溃的组织重建一次了。
 #24366	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]오늘의 위험만 피하신다면 분명 내일의 조직은 그 어느 때보다 더 강력한 백호가 될 것 입니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]只要能顺利避开今天的危险，明天的白虎肯定会变得更强大。
-#24367	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]보스. 베르케 님. 적어도 지금은 상황을 보는 것이 나을 것 같습니다.	首领，别儿哥大哥。现在至少先观望一下比较好。
+#24367	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]보스. 베르케 님. 적어도 지금은 상황을 보는 것이 나을 것 같습니다.	首领，伯尔克大哥。现在至少先观望一下比较好。
 #24368	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]아마도 저들의 목표가 보스라면 섵불리 밀고 들어와 혼전이 되는 것은 원치 않을 것입니다.	如果他们的目标是首领，那就不会一下子冲上来展开混战的。
 #24369	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]그렇다고 기다려봐야 외부와 고립된 우리의 병력이 고갈되는 것은 시간 문제일세.	即便如此，我们现在被孤立在这，兵力枯竭也是迟早的事。
 #24370	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]아닙니다. 곧 혼전이 발생할 수 밖에 없습니다.	不会的。在那之前那些乌合之众一定会先发生内斗的。
@@ -17199,14 +17199,14 @@
 #27595	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]그리고 정비가 끝나는대로 다시 한번 돌입한다!	然后整备完毕后再次准备突入！
 #27598	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]보스는?	头儿呢？
 #27601	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]자네도 같이 가지 그랬나?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]你怎么没有一起去？
-#27602	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]그럼 베르케 님 혼자서 외롭지 않겠습니까?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]那么别儿哥大人不会感到孤单吗？
+#27602	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]그럼 베르케 님 혼자서 외롭지 않겠습니까?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]那么伯尔克大人不会感到孤单吗？
 #27603	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]자네 제법 재밌는 사람이었군.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]你真有趣。
 #27604	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]저 방어진. 뚫을 수는 있겠습니까?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]我们能突破那道防线吗？
 #27605	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]힘들어. 후성이 데리고 있던 전력이 있으면 모를까...	不简单，不知道侯成会不会带着手下来...
 #27606	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]일단 머트가 키우던 정예들이 있어.	至少眼前还有麦德培养的精锐在。
 #27607	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]몇 안되지만 요소에 배치시켰네.	人数不多，但已经布置在了关键位置上了。
 #27608	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]우리 세력이 약해졌다고 방심하고 들어오면 제대로 전력을 갉아낼 수 있을 거네.	认为我们的势力变弱，就粗心地突进来的话，至少能好好地削弱下他们的战斗力。
-#27609	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]베르케 님과 같은 무투파가 전략을 짜고 있다니 신선하네요.	我和别儿哥这样的武斗派居然也得开始制定战略了，真是新鲜。
+#27609	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]베르케 님과 같은 무투파가 전략을 짜고 있다니 신선하네요.	我和伯尔克这样的武斗派居然也得开始制定战略了，真是新鲜。
 #27618	[!Sentence][!Title]마지막 어금니	[!Sentence][!Title]最后的臼齿
 #27620	[!Sentence][!Dialog][!speaker:Giselle_Annoying]백호파 남은 전력이야 별 볼일 없을텐데...	白虎组剩下的兵力应该不算棘手...
 #27624	[!Sentence][!Dialog][!speaker:Irene_Surprise]평소처럼 연막을 치고 안전하게 접근하여 하나씩 제거하면 되지 않아?	像往常一样，利用烟幕弹安全的靠过去再逐个清除，不就行了吗？
@@ -17385,7 +17385,7 @@
 #27827	[!Sentence][!Dialog][!speaker:Karl_Think]평생 갈 일도 없지.	一辈子也不回去。
 #27828	[!Sentence][!Dialog][!speaker:Karl_Smile]그러니 악당은 최대한 비열하게 그리고 영웅들을 화려하게 포장하도록 부탁하네.	因此，就尽可能的将恶人描述的卑劣，将英雄包装的华丽。
 #27829	[!Sentence][!Dialog][!speaker:Karl_Smile]그리고 가능하다면 작년에 바람장벽지구에서 일어난 강력 사건들은 모두 그 지방 조직이 벌인 일로 하면 좋을 것 같네.	而且可以的话，就把去年在风之墙壁地区发生的恶性事件都归咎为这个当地帮派组织所为。
-#27830	[!Sentence][!Dialog][!speaker:Karl_Normal]한 때 이슈가 되었던 톨게이트 테러 사건 같은 것 말야.	比如曾引发一时热议的沙尘暴关门恐暴事件。
+#27830	[!Sentence][!Dialog][!speaker:Karl_Normal]한 때 이슈가 되었던 톨게이트 테러 사건 같은 것 말야.	比如曾引发一时热议的沙暴收费站恐暴事件。
 #27831	[!Sentence][!Dialog][!speaker:MayorSecretary_Normal]알겠습니다.	[!Sentence][!Dialog][!speaker:MayorSecretary_Normal]明白了。
 #27832	[!Sentence][!Title]석연치 않은 마음	[!Sentence][!Title]不释然的心情
 #27834	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]10년 전의 민간인 무차별 저격같은 건 기우였나...	还以为会发生像10年前那样无差别狙击射杀平民之类的事情呢...
@@ -17515,7 +17515,7 @@
 #27963	[!Dialog][!speaker:Peggy_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 알겠습니다.	[image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 明白。
 #27964	[!Dialog][!speaker:Edward_Normal]웃챠! 이번엔 어떤 놈이냐!	哦呀！接下来又是哪个家伙呢！
 #27965	[!Dialog]버려진 아이들	[!Dialog]被遗弃的孩子们
-#27966	[!Dialog][!speaker:NewsCaster_Normal]바람지구 경찰청에서는 먼지바람 톨게이트에서 일어난 자살 테러 사건 역시 백호파의 사주로 일어난 사건으로 보고 수사 방향을 좁혀가고 있습니다.	从风墙地区警察厅获得证实，沙尘暴关门所发生的自杀性恐怖袭击相关的调查正向着白虎组所为的方面进展中。
+#27966	[!Dialog][!speaker:NewsCaster_Normal]바람지구 경찰청에서는 먼지바람 톨게이트에서 일어난 자살 테러 사건 역시 백호파의 사주로 일어난 사건으로 보고 수사 방향을 좁혀가고 있습니다.	从风墙地区警察厅获得证实，沙暴收费站所发生的自杀性恐怖袭击相关的调查正向着白虎组所为的方面进展中。
 #27967	[!Dialog][!speaker:NewsCaster_Normal]이 사건에 대해 백호파의 보스 푸는 단 한마디의 언급도 없이 변호인을 선임하고 묵비권을 행사하고 있습니다.	与该事件相关的白虎组头目普却一言不发，并委任辩护律师行使沉默权。
 #27968	[!Dialog][!speaker:Gangster_SpoonThin_Nevil_Normal]샤키 님. 정찰대가 돌아왔습니다.	沙基大人，侦察队回来了。
 #27969	[!Dialog][!speaker:Gangster_SpoonThin_Nevil_Normal]앗. 가면을... 죄송합니다.	啊，面具...对不起。
