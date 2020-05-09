@@ -8881,13 +8881,13 @@
 #17519	[!Sentence][!Dialog][!speaker:Beast_Frog_Lightning3_Normal][colour='FF00AAFF']흥. 그건 못 믿겠다.	[!Sentence][!Dialog][!speaker:Beast_Frog_Lightning3_Normal][colour='FF00AAFF']哼。我不信。
 #17520	[!Sentence][!VictoryCondition]남은 야수를 모두 제압하시오.	[!Sentence][!VictoryCondition]请制服所有剩余的野兽。
 #17521	[!Sentence][!Dashboard:TimeLimiter]귀환까지 남은 시간	[!Sentence][!Dashboard:TimeLimiter]返回之前剩余的时间
-#17522	[!Sentence][!Dialog]네구리 우두머리를 모두 제압하였습니다. 남은 야수들까지 사냥하시겠습니까?	[!Sentence][!Dialog]制服了所有的呐故立首领。是否狩猎剩余的野兽?
+#17522	[!Sentence][!Dialog]네구리 우두머리를 모두 제압하였습니다. 남은 야수들까지 사냥하시겠습니까?	[!Sentence][!Dialog]制服了所有的纳古利首领。是否狩猎剩余的野兽?
 #17524	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']네?	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']请讲?
 #17525	[!Sentence][!Title]괴수와 사냥꾼	[!Sentence][!Title]怪兽和猎人
 #17526	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']이번 겨울은 이 곳에서 보냅니다.	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']今年冬天我们将在这里生活。
-#17527	[!Sentence][!Objective]네구리 우두머리를 제압하시오.	[!Sentence][!Objective]请制服呐故立首领。
-#17528	[!Sentence][!Dialog]겨울이 되자 평년보다 자주 네구리들이 자주 철의 숲 외곽에까지 출현한다.	[!Sentence][!Dialog]入冬以来，比以往更多的呐故立经常会出现在铁森林的外围。
-#17530	[!Sentence][!Dialog]네구리 우두머리를 제압하였습니다. 계속 임무를 진행하시겠습니까?	[!Sentence][!Dialog]制服了呐故立首领。继续执行任务吗?
+#17527	[!Sentence][!Objective]네구리 우두머리를 제압하시오.	[!Sentence][!Objective]请制服纳古利首领。
+#17528	[!Sentence][!Dialog]겨울이 되자 평년보다 자주 네구리들이 자주 철의 숲 외곽에까지 출현한다.	[!Sentence][!Dialog]入冬以来，比以往更多的纳古利经常会出现在铁森林的外围。
+#17530	[!Sentence][!Dialog]네구리 우두머리를 제압하였습니다. 계속 임무를 진행하시겠습니까?	[!Sentence][!Dialog]制服了纳古利首领。继续执行任务吗?
 #17531	[!Sentence][!Dialog][!speaker:Beast_Frog_Lightning3_Normal][colour='FF00AAFF']도로리들이 심부에 잘도 가겠다.	[!Sentence][!Dialog][!speaker:Beast_Frog_Lightning3_Normal][colour='FF00AAFF']软泥怪们能到深处去那就有鬼了。
 #17532	[!Sentence][!Dialog]자원 관리 구역과 같이 관리되는 지역이 아닌 철의 숲 지역에서 사냥을 하려면 '사냥허가증'이 필요했다.	[!Sentence][!Dialog]不同于资源管理区这样的官方管理区域，若想在铁森林这种地区进行狩猎的话，需要'狩猎许可证'。
 #17533	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']이 곳이 위험한 곳이라는 곳은 저도 잘 알아요. 하지만 겨울이 온 이상 일족을 이끌고 도박을 할 수는 없어요.	[!Sentence][!Dialog][!speaker:Beast_Frog_White_Normal][colour='FFFFFF55']我太知道这里是个危险的地方了。但是，冬天已经来临，我不能领着整个族群去赌命。
@@ -8898,10 +8898,10 @@
 #17539	[!Sentence][!Dialog][!speaker:Beast_Frog_Black3_Normal][colour='FFFFFFAA']그 은색 녀석이 나타나고 귀찮아진게 너무 많아.	[!Sentence][!Dialog][!speaker:Beast_Frog_Black3_Normal][colour='FFFFFFAA']那个银白色的家伙出现后，事情就变得特别烦人了。
 #17540	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire3_Normal][colour='FFFFAA00']공주. 지금 여기서 겨울을 나면 인간들이랑 충돌한다고!	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire3_Normal][colour='FFFFAA00']公主。我是说若是在这里过冬，就会和人类发生冲突!
 #17541	[!Sentence][!Dialog]하지만 철의 숲 내부로 들어갈 일 없는 바람장벽 지구 내 트러블슈터 회사는 당연히 '사냥허가증'을 보유한 회사가 없었다.	[!Sentence][!Dialog]但是平时也没有什么业务涉及到铁森林内部风之墙壁地区的纷争终结公司们，理所应当地不曾具备'狩猎许可证'。
-#17543	[!Sentence][!Dashboard:Counter]남은 네구리 우두머리 수	[!Sentence][!Dashboard:Counter]剩余头子呐故立数
+#17543	[!Sentence][!Dashboard:Counter]남은 네구리 우두머리 수	[!Sentence][!Dashboard:Counter]剩余头子纳古利数
 #17545	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire3_Normal][colour='FFFFAA00']공주. 여기는 위험해. 생각보다 인간들과 티마들이 가까워.	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire3_Normal][colour='FFFFAA00']公主。这里很危险。意外地与人类和蒂玛很靠近。
 #17546	[!Sentence][!Dialog][!speaker:Beast_Frog_Normal3_Normal][colour='FF32CD32']그녀석들이 계속 인간들과 엮이니까 이 지경아냐.	[!Sentence][!Dialog][!speaker:Beast_Frog_Normal3_Normal][colour='FF32CD32']那些家伙们总是和人类产生各种纠葛才会沦落到现在这种境地啊。
-#17547	[!Sentence][!VictoryCondition]네구리 우두머리를 제압하시오.	[!Sentence][!Objective]请制服呐故立首领。
+#17547	[!Sentence][!VictoryCondition]네구리 우두머리를 제압하시오.	[!Sentence][!Objective]请制服纳古利首领。
 #17548	[!Sentence][!Dialog][!speaker:Beast_Frog_Poison3_Normal][colour='FFCC55EE']모험을 좋아하는 녀석이라 충분한 사례를 한다면 우리의 부탁을 거절하지 않을 거야.	[!Sentence][!Dialog][!speaker:Beast_Frog_Poison3_Normal][colour='FFCC55EE']那是个喜欢探险的家伙，所以提供个适当的报酬就不会拒绝我们的请求的。
 #17850	[!Sentence][!BalloonChat][!speaker:Enemy08_2]숟가락 하나를 품고 있지!!	[!Sentence][!BalloonChat][!speaker:Gangster_SpoonThin_]都有一把勺子!!
 #17858	[!Sentence][!BalloonChat][!speaker:Enemy08_1]숟가락 하나를 품고 있지!!	[!Sentence][!BalloonChat][!speaker:Gangster_SpoonThin_]都有一把勺子!!
@@ -9036,7 +9036,7 @@
 #18026	[!Sentence][!Dialog][!speaker:Kylie_Smile]공방으로 돌아가면 수리할 수 있겠지. 하지만 현재 장비로는 불가능 해.	[!Sentence][!Dialog][!speaker:Kylie_Smile]如果能回到工坊的话应该能修好吧。但现在的装备不可能做到。
 #18027	[!Sentence][!Dialog][!speaker:Kylie_Normal]그럼 바로 출발하자.	[!Sentence][!Dialog][!speaker:Kylie_Normal]那现在立马出发吧。
 #18028	[!Sentence][!Dialog][!speaker:Ray_Normal]트러블슈터 $CompanyName$의 레이입니다.	[!Sentence][!Dialog][!speaker:Ray_Normal]纷争终结者 $CompanyName$ 的雷伊。
-#18029	[!Sentence][!BalloonChat]전방 네구리 무리입니다!!	[!Sentence][!BalloonChat]前方有呐故立群!!
+#18029	[!Sentence][!BalloonChat]전방 네구리 무리입니다!!	[!Sentence][!BalloonChat]前方有纳古利群!!
 #18030	[!Sentence][!Title]북동쪽 전자망	[!Sentence][!Title]东北电网
 #18031	[!Sentence][!BalloonChat][!speaker:Kylie]앤!	[!Sentence][!BalloonChat][!speaker:Kylie]安!
 #18032	[!Sentence][!Dialog][!speaker:Kylie_Normal]알았어. 그럼 마지막까지 잘 부탁해.	[!Sentence][!Dialog][!speaker:Kylie_Normal]知道了，那就拜托你到最后一刻。
@@ -9102,7 +9102,7 @@
 #18096	[!Sentence][!BalloonChat][!speaker:Kylie]오! 시온!	[!Sentence][!BalloonChat][!speaker:Kylie]哦! 席翁!
 #18097	[!Sentence][!Dialog][!speaker:Kylie_Normal]난 카일리. 이번 임무의 엔지니어야.	[!Sentence][!Dialog][!speaker:Kylie_Normal]我是凯利。是这项任务的工程师。
 #18098	[!Sentence][!BalloonChat][!speaker:VHPD02]히어로 아이린 씨!	[!Sentence][!BalloonChat][!speaker:VHPD02]英雄艾琳!
-#18099	[!Sentence][!Dialog][!speaker:Ray_Surprise]뭐야. 진짜 네구리야??	[!Sentence][!Dialog][!speaker:Ray_Surprise]真的是呐故立吗??
+#18099	[!Sentence][!Dialog][!speaker:Ray_Surprise]뭐야. 진짜 네구리야??	[!Sentence][!Dialog][!speaker:Ray_Surprise]真的是纳古利吗??
 #18100	[!Sentence][!Dialog][!speaker:Ray_Normal]안타깝지만 더는 안으로 들어가게 두지 않을 거야.	[!Sentence][!Dialog][!speaker:Ray_Normal]很遗憾不能让你进去。
 #18101	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]자. 그럼 가 볼까?	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]好。那么就出发吧？
 #18102	[!Sentence][!Dialog][!speaker:Heissing_Smile]무료한 시간을 달래라는 건가...	[!Sentence][!Dialog][!speaker:Heissing_Smile]是在消磨无聊的时间吗...
@@ -9154,7 +9154,7 @@
 #18149	[!Sentence][!Dialog][!speaker:Irene_Normal]결정했어.	[!Sentence][!Dialog][!speaker:Irene_Normal]我决定了。
 #18150	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]'인연의 끈은 참으로 질기구나...'	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]'缘分真奇妙...'
 #18151	[!Sentence][!Dialog][!speaker:Sion_Depressed]카일리 누나. 아무리 생각해도 우리만으로 출발하는 것은 무리야.	[!Sentence][!Dialog][!speaker:Sion_Depressed]凯利姐。不管怎么想,我还是觉得光我们出发不太合理。
-#18152	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]네구리가 여기까지 진출하다니...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]呐故立群都到这里了啊...
+#18152	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]네구리가 여기까지 진출하다니...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]纳古利群都到这里了啊...
 #18153	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]죄송해요. 카일리 씨.	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]凯利。对不起。
 #18154	[!Sentence][!Dialog][!speaker:Kylie_Smile]네가 그렇게 생각한다면 그렇겠지. 	[!Sentence][!Dialog][!speaker:Kylie_Smile]你那么认为的话就是那样吧。
 #18155	[!Sentence][!Dialog][!speaker:EmptySubTitleWithPotrait_]카일리는 4년 전, 헤이싱으로 부터 들었던 이야기를 다시금 상기시켰다.	[!Sentence][!Dialog][!speaker:EmptySubTitleWithPotrait_]凯利再次想起了4年前从黑星那里听到的事情。
@@ -9209,7 +9209,7 @@
 #18208	[!Sentence][!Title]4년 전, 백룡회	[!Sentence][!Title]4年前，白龙会
 #18209	[!Sentence][!Dialog][!speaker:Kylie_Normal]얼어붙은 전자망 제어기가 야수들에게 부서져 버리면 수리할 수 없어.	[!Sentence][!Dialog][!speaker:Kylie_Normal]若冰冻的电网控制仪被野兽破坏的话是无法再修理的。
 #18210	[!Sentence][!Dialog][!speaker:Heissing_Rage_Young2]왜 나에게 호의를 베푼거지?	[!Sentence][!Dialog][!speaker:Heissing_Rage_Young2]为什么对我这么好心?
-#18211	[!Sentence][!Dialog][!speaker:Anne_Smile_Surprise]네구리 실물은 처음 봤어....	[!Sentence][!Dialog][!speaker:Anne_Smile_Surprise]第一次见真正的呐故立....
+#18211	[!Sentence][!Dialog][!speaker:Anne_Smile_Surprise]네구리 실물은 처음 봤어....	[!Sentence][!Dialog][!speaker:Anne_Smile_Surprise]第一次见真正的纳古利....
 #18212	[!Sentence][!Dialog][!speaker:Anne_Smile]... 그냥 돌아가 주면 안 될까?	[!Sentence][!Dialog][!speaker:Anne_Smile]... 就那样回去不行吗?
 #18213	[!Sentence][!Dialog][!speaker:Anne_Think]아니에요. 다른 분들이 각자 역할을 잘 해주셔서...	[!Sentence][!Dialog][!speaker:Anne_Think]不是的。别的人都很好的执行了被给予的任务。
 #18214	[!Sentence][!Dialog][!speaker:Sion_Laugh]그럼 우리 춥고 배고프니 빨리 돌아갑시다~☆	[!Sentence][!Dialog][!speaker:Sion_Laugh]我们又冷又饿,那就快点回去吧~☆
@@ -9248,8 +9248,8 @@
 #18250	[!Sentence][!Dialog][colour='FFFFFF00']양쪽에 배치된 전자망 제어기를 모두 수리하셔야 전자망이 활성화 됩니다.	[colour='FFFFFF00']必须修复到两个电网控制仪才能激活电网。
 #18257	[!Sentence][!Dialog][!speaker:Kylie_Rage]'...현재 날씨로 이렇게 양쪽 다 얼어붙는 건 말이 안돼...'	[!Sentence][!Dialog][!speaker:Kylie_Rage]'...两个都这样冻下去，太不像话了...'
 #18260	[!Sentence][!Dashboard:ObjectiveMarker]카일리가 해당 지역으로 이동하면 탈출할 수 있습니다.	[!Sentence][!Dashboard:ObjectiveMarker]凯利移动到该地区时可逃离。
-#18262	[!Sentence][!Title]섬광 왕네구리	[!Sentence][!Title]闪光呐故立王
-#18263	[!Sentence][!Title]우렁찬 네구리	[!Sentence][!Title]洪亮的呐故立
+#18262	[!Sentence][!Title]섬광 왕네구리	[!Sentence][!Title]闪光纳古利王
+#18263	[!Sentence][!Title]우렁찬 네구리	[!Sentence][!Title]洪亮的纳古利
 #18264	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']활동 보고서는 발할라 경찰청이 임무 성공 [colour='FFFFFFFF']5[colour='FFFFE959']회마다 작성하는 보고서입니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']活动报告书是巴赫拉警察厅在任务成功[colour='FFFFFFFF']5[colour='FFFFE959']次时制作的报告书。
 #18265	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']보고서 수령 시, [colour='FFFFFFFF']임무 완료 보상금[colour='FFFFE959']과 트러블슈터의 관할 구역의 평판에 따라 [colour='FFFFFFFF']관할 구역 지원금[colour='FFFFE959']이 지급됩니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']收取报告书时，根据[colour='FFFFFFFF']任务完成奖金[colour='FFFFE959']和纷争终结者的管辖区评判获得[colour='FFFFFFFF']管辖区赞助款[colour='FFFFE959']。
 #18266	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']활동 보고서를 통하여 현재 트러블슈터 활동에 따른 각 지역별 평판 정보를 확인 할 수 있습니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']通过活动报告书可以确认到纷争终结者当前在各地区活动的评判信息。
@@ -10762,17 +10762,17 @@
 #20069	[!Sentence][!Subtitle]철의 숲에 살아가는 생물들에게는 혹독한 겨울을 선사했다.	[!Sentence][!Subtitle]但是生活在铁森林中的生物不得不度过严酷的冬天。
 #20070	[!Sentence][!Subtitle]자원 관리 구역의 이능석 채취는 철의 숲 자원 관리 구역의 에너지 안정화를 가져왔지만...	[!Sentence][!Subtitle]资源管理区域异能石的采取，虽然带来了铁森林资源管理区域的能源稳定......
 #20071	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]자. 그럼 사냥을 시작해 볼까?	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]那么，开始狩猎吧？
-#20072	[!Sentence][!Dialog][!speaker:Giselle_Normal]'네구리들을 내모는 녀석이라...'	[!Sentence][!Dialog][!speaker:Giselle_Smile]'驱赶呐故立的家伙啊.....'
-#20073	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']네구리들이 계속 하류로 내려와 오염수 영역을 확장시키고 있어.	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']呐故立群一直前往下流，扩张污水的领域。
+#20072	[!Sentence][!Dialog][!speaker:Giselle_Normal]'네구리들을 내모는 녀석이라...'	[!Sentence][!Dialog][!speaker:Giselle_Smile]'驱赶纳古利的家伙啊.....'
+#20073	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']네구리들이 계속 하류로 내려와 오염수 영역을 확장시키고 있어.	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']纳古利群一直前往下流，扩张污水的领域。
 #20074	[!Sentence][!Subtitle][!speaker:Giselle_Satisfying][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']너무 나한테 기대는 거 아냐?	[!Sentence][!Subtitle][!speaker:Giselle_Satisfying][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']是不是太过依赖我了啊？
 #20075	[!Sentence][!Subtitle]이 과정에서 인간과 티마 무리와 종종 마찰을 빚었다.	[!Sentence][!Subtitle]在这过程中，他们不仅与蒂玛而且还和人类常常发生冲突。
 #20076	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Smile][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']부탁한다. 지젤.	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Smile][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']拜托了，吉赛尔。
 #20077	[!Sentence][!Objective]개발 구역 내 야수들을 모두 제압하시오.	[!Sentence][!Objective]请制服开发区的所有野兽。
-#20078	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']이대로면 네구리들이 철의 숲 아래로 내려올지도 몰라.	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']持续这样的话，说不定呐故立群会扩张到铁森林的下面。
+#20078	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']이대로면 네구리들이 철의 숲 아래로 내려올지도 몰라.	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']持续这样的话，说不定纳古利群会扩张到铁森林的下面。
 #20079	[!Sentence][!Title]위험의 전조	[!Sentence][!Title]危险的前兆
 #20080	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Smile][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']가장 이 문제를 잘 해결할 사람을 찾았을 뿐이야.	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Smile][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']我只是找到了最能解决这个问题的人罢了。
-#20081	[!Sentence][!Dashboard:Counter]남은 네구리 수	[!Sentence][!Dashboard:Counter]剩余的呐故立
-#20082	[!Sentence][!Subtitle]특히 추위를 견디기 어려운 네구리들은 얼어붙지 않은 땅을 찾아 거대한 무리 이동을 하였고...	[!Sentence][!Subtitle]特别是怕冷的呐故立们为了寻找更暖和的地方，成群结队地移动......
+#20081	[!Sentence][!Dashboard:Counter]남은 네구리 수	[!Sentence][!Dashboard:Counter]剩余的纳古利
+#20082	[!Sentence][!Subtitle]특히 추위를 견디기 어려운 네구리들은 얼어붙지 않은 땅을 찾아 거대한 무리 이동을 하였고...	[!Sentence][!Subtitle]特别是怕冷的纳古利们为了寻找更暖和的地方，成群结队地移动......
 #20084	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]'겨울이 끝나면... 숲의 심부로 가봐야겠어.'	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]'看来冬天一结束... 需要去森林深处探查一下了。'
 #20085	[!Sentence][!Title]철의 숲 자원개발구역	[!Sentence][!Title]铁森林资源管理区
 #20086	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]'재밌는 녀석이 숨어 있나 보군...'	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]'看来有趣的家伙躲在了这森林的深处吧。'
@@ -11281,12 +11281,12 @@
 #20641	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]안 그래도 경찰과 잦은 충돌이 있어 개별 활동을 하는 간부들의 행동 경로들을 흘린 자가 있을 거라고 생각합니다.	不仅如此，最近与警察们发生的冲突频繁，因此我认为应该有某个人正在把活动的干部们的情报透漏出去。
 #20642	[!Sentence][!Objective]현장의 야수를 모두 제압하시오.	[!Sentence][!Objective]请制服现场的所有野兽。
 #20643	[!Sentence][!Title]비처럼 음악처럼...	[!Sentence][!Title]如雨，如音...
-#20644	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]알버스 님. 남은 네구리들을 한 곳으로 몰아 넣었습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]阿尔伯斯，剩下的呐故立已经赶进了一个地方。
+#20644	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]알버스 님. 남은 네구리들을 한 곳으로 몰아 넣었습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]阿尔伯斯，剩下的纳古利已经赶进了一个地方。
 #20645	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]'도대체 이 녀석들은 어디서 나타난거지...'	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]'他们到底是从哪里出现的呢...'
 #20646	[!Sentence][!Dialog]최근 철의 숲에서 불법으로 밀렵된 야수를 호송하던 차량이 빙판 길에 전복하여 도심으로 야수가 풀려났었다.	[!Sentence][!Dialog]最近在铁森林非法护送偷猎的野兽车辆在冰面上翻了车，因此野兽被释放到了市的中心。
 #20647	[!Sentence][!Dialog]경찰과 $CompanyName$의 빠른 대응으로 모든 야수를 제압했었다.	[!Sentence][!Dialog]警察和$CompanyName$的快速对应制服了所有野兽。
 #20648	[!Sentence][!Dialog][!speaker:Albus_Serious]'오늘 같은 날이면 공기 중에 습기가 많아 피부 호흡이 용이하니 당연히 물가로 모여들겠지...'	[!Sentence][!Dialog][!speaker:Albus_Serious]'像今天这样的天气，空气中湿气含量大，皮肤容易呼吸，因此自然会聚集到水边...'
-#20649	[!Sentence][!Dialog][!speaker:Albus_Serious]'하지만... 당시 사고 현장에서 네구리를 봤다는 제보는 없었는데...'	[!Sentence][!Dialog][!speaker:Albus_Serious]'但是...在当时的事件现场并没有收到见到呐故立的举报呢...'
+#20649	[!Sentence][!Dialog][!speaker:Albus_Serious]'하지만... 당시 사고 현장에서 네구리를 봤다는 제보는 없었는데...'	[!Sentence][!Dialog][!speaker:Albus_Serious]'但是...在当时的事件现场并没有收到见到纳古利的举报呢...'
 #20650	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]알버스 님. 이대로 포위망을 유지하고 지원을 요청할까요?	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]阿尔伯斯。就这样维持包围网，请求支援吗？
 #20651	[!Sentence][!Dialog][!speaker:Albus_Serious]아닙니다. 이 현장은 우리가 바로 제압하도록 합니다!	[!Sentence][!Dialog][!speaker:Albus_Serious]不，我们就立马制服这现场吧！
 #20652	[!Sentence][!VictoryCondition]현장의 야수를 모두 제압하시오.	[!Sentence][!VictoryCondition]请制服现场的所有野兽。
@@ -12163,10 +12163,10 @@
 #21571	[!Sentence][!Title]최상위 포식자	[!Sentence][!Title]顶级捕食者
 #21572	[!Sentence][!Title]철의 숲 버려진 동굴	[!Sentence][!Title]铁森林被遗弃的洞穴
 #21573	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]이 괴물들은 지난 가을보다 진짜 많이 늘었네요...	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]这些家伙们比过去的秋天变得更多了呢...
-#21574	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]왕네굴 씨. 우리 살아나갈 수 있을까요?	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]呐故立王，我们能够存活下来吗？
+#21574	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]왕네굴 씨. 우리 살아나갈 수 있을까요?	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]纳古利王，我们能够存活下来吗？
 #21575	[!Sentence][!Dialog][!speaker:Beast_Frog_Normal3_Normal]미안하다. 괜히 여기 오자고 해서...	[!Sentence][!Dialog][!speaker:Beast_Frog_Normal3_Normal]这是抱歉，带你们来这里...
 #21576	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]그 놈의 은색 티마 녀석 때문에 티마 사냥이 안 그래도 힘든데...	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]那银色的蒂玛让狩猎变得更加困难了...
-#21577	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]그걸 훔쳐 먹어? 이 도둑 네구리 녀석들!	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]竟偷吃那个？这帮呐故立小偷！
+#21577	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]그걸 훔쳐 먹어? 이 도둑 네구리 녀석들!	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]竟偷吃那个？这帮纳古利小偷！
 #21578	[!Sentence][!Dialog][!speaker:Beast_Frog_Normal3_Normal]훔쳐 먹다뇨...	[!Sentence][!Dialog][!speaker:Beast_Frog_Normal3_Normal]怎么说偷吃呢...
 #21579	[!Sentence][!Dialog][!speaker:Beast_Frog_Normal3_Normal]그냥 혀가 닿는 곳에 먹을 것이 있으니 주워 먹은 건데...	[!Sentence][!Dialog][!speaker:Beast_Frog_Normal3_Normal]只是因为在那里，就吃了...
 #21580	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]대장... 뒤에는 어린 녀석들 뿐이에요. 기회를 봐서 튀어요.	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]队长... 在后面的是小家伙们。找个机会逃跑吧。
@@ -12174,25 +12174,25 @@
 #21582	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]흐헉! 돌연변이 드라키!	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]额啊！是突变的德拉基！
 #21583	[!Sentence][!Dialog][!speaker:Beast_Frog_Normal3_Normal]다들 튀어!	[!Sentence][!Dialog][!speaker:Beast_Frog_Normal3_Normal]大家都快逃！
 #21584	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]하! 요 녀석이 제일 맛난 녀석인데...	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]嘿！这家伙可是最好吃的诶...
-#21585	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]왕 네굴 간식이라~☆	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]呐故立王零食诶~☆
+#21585	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]왕 네굴 간식이라~☆	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]纳古利王零食诶~☆
 #21586	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]서리 군주!	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]霜雪君主！
 #21587	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]왜?	[!Sentence][!Dialog][!speaker:Marco_Smile]嗯？
 #21588	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]이 녀석들의 무리 본거지를 알아야 우리 아이들을 위한 사냥을 할 것 아니오!	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]要知道这家伙们的本营，才能为我们的孩子们打猎啊！
 #21589	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]그건 네 녀석 임무지. 내 알 바 아냐.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]那是你的任务。不关我事。
-#21590	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]그래도 이건 아니지 않습니까?	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]找到呐故立大本营更重要不是吗？而不是去想吃掉？
+#21590	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]그래도 이건 아니지 않습니까?	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]找到纳古利大本营更重要不是吗？而不是去想吃掉？
 #21591	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]히햐.. 언제부터 남작따위가 군주한테 이러는 거야?	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]嘿诶..男爵从什么时候开始顶撞君主的？
 #21592	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]계속 짜증나게 하면 네 녀석부터 먹어 줄까?	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]一直烦人地话，先把你吃掉了？
-#21593	[!Sentence][!Dialog]지난 겨울, 평소와 달리 철의 숲 외곽까지 내려와 겨울나기를 시도한 네구리 무리.	[!Sentence][!Dialog]去年冬天，一反常态，试图在铁森林外围过冬的呐故立群。
+#21593	[!Sentence][!Dialog]지난 겨울, 평소와 달리 철의 숲 외곽까지 내려와 겨울나기를 시도한 네구리 무리.	[!Sentence][!Dialog]去年冬天，一反常态，试图在铁森林外围过冬的纳古利群。
 #21594	[!Sentence][!Dialog]이는 예상치 못했던 상황으로, 겨울이 끝나자마자 발할라 경찰청은 지구 내 유일한 '사냥허가증'을 보유한 지젤에게 철의 숲 내부 수색을 요청한다.	[!Sentence][!Dialog]这是始料未及的情况。冬季一结束，巴赫拉警察厅要求唯一在地区里拥有"猎杀许可证"的吉赛尔在铁森林内部进行搜查。
-#21595	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]단순하게 보면 혹한으로 네구리들의 서식지가 얼어붙어 이동해 온 거겠지.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]表面上来看，这是由于严寒使得呐故立栖息地冻住而离开的。
-#21596	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]하지만 몇몇 동물학자들은 네구리를 위협할만한 혹은 경쟁하는 상위 포식자가 나타난 것이 아닌가 걱정하고 있어.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]但是一些动物学家怀疑，是威胁呐故立或与此竞争的上层捕食者的出现。
+#21595	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]단순하게 보면 혹한으로 네구리들의 서식지가 얼어붙어 이동해 온 거겠지.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]表面上来看，这是由于严寒使得纳古利栖息地冻住而离开的。
+#21596	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]하지만 몇몇 동물학자들은 네구리를 위협할만한 혹은 경쟁하는 상위 포식자가 나타난 것이 아닌가 걱정하고 있어.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]但是一些动物学家怀疑，是威胁纳古利或与此竞争的上层捕食者的出现。
 #21597	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]그리고 그런 녀석들이 자원 관리 구역의 생태계에도 영향을 줄 까봐 걱정하고 있지.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]更是担心那些家伙会影响资源管理区域的生态环境。
 #21598	[!Sentence][!Dialog][!speaker:Albus_Think]상위 포식자라...	[!Sentence][!Dialog][!speaker:Albus_Think]上层捕食者啊...
 #21599	[!Sentence][!Dialog][!speaker:Albus_Surprise]설마 최근 많은 수의 티마 무리를 이끌고 다니는 은색 티마인가요?	[!Sentence][!Dialog][!speaker:Albus_Surprise]或许是最近带领着蒂玛一族的银色蒂玛吧？
 #21600	[!Sentence][!Dialog][!speaker:Giselle_Normal]티마는 아냐.	[!Sentence][!Dialog][!speaker:Giselle_Normal]不是蒂玛。
-#21601	[!Sentence][!Dialog][!speaker:Giselle_Smile]티마는 네구리랑 먹이를 경쟁하지만 어디까지나 네구리가 상위 포식자야.	[!Sentence][!Dialog][!speaker:Giselle_Smile]蒂玛虽和呐故立竞争，但无论如何呐故立是更高级的捕食者。
-#21602	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]게다가 계속 이동을 하며 서식지 반경이 넓은 티마와 달리 네구리들은 습기가 많은 지역에 모여서 군락을 이루지.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]而且和不断移动栖息地生活的蒂玛不同，呐故立是在潮湿的地区形成群落。
-#21603	[!Sentence][!Dialog][!speaker:Giselle_Normal]따라서 네구리들이 티마 무리를 피해 이동할 이유가 없어.	[!Sentence][!Dialog][!speaker:Giselle_Normal]因此呐故立没必要因蒂玛而移动。
+#21601	[!Sentence][!Dialog][!speaker:Giselle_Smile]티마는 네구리랑 먹이를 경쟁하지만 어디까지나 네구리가 상위 포식자야.	[!Sentence][!Dialog][!speaker:Giselle_Smile]蒂玛虽和纳古利竞争，但无论如何纳古利是更高级的捕食者。
+#21602	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]게다가 계속 이동을 하며 서식지 반경이 넓은 티마와 달리 네구리들은 습기가 많은 지역에 모여서 군락을 이루지.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]而且和不断移动栖息地生活的蒂玛不同，纳古利是在潮湿的地区形成群落。
+#21603	[!Sentence][!Dialog][!speaker:Giselle_Normal]따라서 네구리들이 티마 무리를 피해 이동할 이유가 없어.	[!Sentence][!Dialog][!speaker:Giselle_Normal]因此纳古利没必要因蒂玛而移动。
 #21604	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]지젤. 네 전문 분야니 맡길게.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]吉赛尔，是你的专长，就交给你了。
 #21605	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]그리고 알버스 군.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]还有阿尔伯斯君，
 #21606	[!Sentence][!Dialog][!speaker:Albus_Normal]네. 제인 경감님.	[!Sentence][!Dialog][!speaker:Albus_Normal]是，珍警监。
@@ -14972,19 +14972,19 @@
 #25069	[!DialogQuest][!speaker:Hundred_Smile]자네가 그런 정의감이 가득 찼다면 내 의뢰는 거절했겠지.	如果真是因为你满满的正义感，肯定是会拒绝我的委托的。
 #25070	[!DialogQuest][!speaker:Sam_Normal]혹시 맹독 주머니 남는 거 있나?	[!DialogQuest][!speaker:Sam_Normal]难道有剩下的剧毒袋吗？
 #25071	[!DialogQuest][!speaker:Albus_Normal]이번 물품은 맹독 주머니인가요?	[!DialogQuest][!speaker:Albus_Normal]这次是剧毒口袋吗？
-#25072	[!DialogQuest][!speaker:Sam_Normal]맹독 주머니는 보통 맹독 야샤나 맹독 네구리에게서 획득 가능하지.	[!DialogQuest][!speaker:Sam_Normal]剧毒口袋通常是在剧毒夜叉或剧毒呐故立获得。
+#25072	[!DialogQuest][!speaker:Sam_Normal]맹독 주머니는 보통 맹독 야샤나 맹독 네구리에게서 획득 가능하지.	[!DialogQuest][!speaker:Sam_Normal]剧毒口袋通常是在剧毒夜叉或剧毒纳古利获得。
 #25073	[!DialogQuest][!speaker:Sam_Normal]이런 재료들까지 수요가 늘어나는 것을 보니 확실히 이 동네 경제가 살아나는 것 같아.	[!DialogQuest][!speaker:Sam_Normal]看到这些材料的需求在不断增加，确实能感觉到这个小区的经济在复苏。
-#25074	[!DialogQuest][!speaker:Sam_Normal]혹시 네구리 사냥을 자주 하는 편이니?	[!DialogQuest][!speaker:Sam_Normal]经常打猎呐故立吗？
-#25075	[!DialogQuest][!speaker:Albus_Normal]네구리요?	[!DialogQuest][!speaker:Albus_Normal]呐故立吗？
+#25074	[!DialogQuest][!speaker:Sam_Normal]혹시 네구리 사냥을 자주 하는 편이니?	[!DialogQuest][!speaker:Sam_Normal]经常打猎纳古利吗？
+#25075	[!DialogQuest][!speaker:Albus_Normal]네구리요?	[!DialogQuest][!speaker:Albus_Normal]纳古利吗？
 #25076	[!DialogQuest][!speaker:Sam_Normal]그래. 이번 확보하고 싶은 물품은 커다란 기름 주머니야.	[!DialogQuest][!speaker:Sam_Normal]是啊，这次我想要巨大的油袋。
 #25077	[!DialogQuest][!speaker:Albus_Normal]그렇군요.	[!DialogQuest][!speaker:Albus_Normal]嗯。
-#25078	[!DialogQuest][!speaker:Sam_Normal]네구리들이 자원개발구역까지 내려온 것은 분명 위험한 일 이겠지.	[!DialogQuest][!speaker:Sam_Normal]呐故立来到了资源管理区，是很危险。
+#25078	[!DialogQuest][!speaker:Sam_Normal]네구리들이 자원개발구역까지 내려온 것은 분명 위험한 일 이겠지.	[!DialogQuest][!speaker:Sam_Normal]纳古利来到了资源管理区，是很危险。
 #25079	[!DialogQuest][!speaker:Sam_Normal]하지만 철의 숲 깊숙히 들어가지 않고 네구리를 사냥할 수 있게 된 건 정말 좋은 기회인 것 같아.	[!DialogQuest][!speaker:Sam_Normal]但是不用去铁森林的内部打猎，确实是个好机会。
 #25080	[!DialogQuest][!speaker:Sam_Smile]너희들! 철의 숲 내부로 사냥갈 수 있는 팀이라며?	[!DialogQuest][!speaker:Sam_Normal]你们！听说是可以进铁森林内部打猎的队伍吗？
 #25081	[!DialogQuest][!speaker:Albus_Normal]네. 가능합니다.	[!DialogQuest][!speaker:Albus_Normal]是的。
 #25082	[!DialogQuest][!speaker:Sam_Normal]정말 대단해. 그렇다면 순도 높은 기름 주머니도 구할 수 있을까?	[!DialogQuest][!speaker:Sam_Normal]真厉害，那可以拿到高纯度的油袋吗？
 #25083	[!DialogQuest][!speaker:Albus_Surprise]순도 높은 기름 주머니요?	[!DialogQuest][!speaker:Albus_Surprise]高纯度的油袋？
-#25084	[!DialogQuest][!speaker:Sam_Normal]그래. 왕 네구리들 중에서도 희귀한 녀석들에게서 구할 수 있는 상급품이지.	[!DialogQuest][!speaker:Sam_Normal]是啊。在王呐故立当中，偶尔会在稀有的家伙那里得到的高级品。
+#25084	[!DialogQuest][!speaker:Sam_Normal]그래. 왕 네구리들 중에서도 희귀한 녀석들에게서 구할 수 있는 상급품이지.	[!DialogQuest][!speaker:Sam_Normal]是啊。在王纳古利当中，偶尔会在稀有的家伙那里得到的高级品。
 #25085	[!DialogQuest][!speaker:Sam_Normal]구해만 준다면 나도 우리 가게 최고 물품으로 보상할게.	[!DialogQuest][!speaker:Sam_Normal]只要你能帮我找到的话，我会用店里最好的东西来做补偿。
 #25086	[!DialogQuest][!speaker:Sam_Normal]만약 구하기 어렵다면 커다란 기름 주머니로 제작할 수도 있을 거야.	[!DialogQuest][!speaker:Sam_Normal]如果很难拿到的话，那可以用巨大的油袋来制作。
 #25087	[!DialogQuest][!speaker:Sam_Normal]하지만 쉽지 않겠지.	[!DialogQuest][!speaker:Sam_Normal]但是那也不会很简单。
