@@ -1497,7 +1497,7 @@
 #3482	[!ObjectInfo]흑호 소란꾼	[!ObjectInfo]黑虎捣乱者
 #3483	[!ObjectInfo]황소 조장	[!ObjectInfo]公牛组长
 #3484	[!ObjectInfo]황소 소란꾼	[!ObjectInfo]公牛捣乱者
-#3485	[!ObjectInfo]류자키	[!ObjectInfo]竜崎
+#3485	[!ObjectInfo]류자키	[!ObjectInfo]龙崎
 #3486	[!ObjectInfo]칼잡이	[!ObjectInfo]刀客
 #3487	[!ObjectInfo]료	[!ObjectInfo]亮
 #3488	[!ObjectInfo]로	[!ObjectInfo]罗
@@ -5607,7 +5607,7 @@
 #9689	[!GuideMessage]피해를 입은 대상은 최대 $Value$칸 앞으로 당겨집니다.	[!GuideMessage]受到伤害的目标最多被击拖$Value$格。
 #9690	[!GuideMessage]피해를 입은 대상은 최대 $Value$칸 뒤로 밀려납니다.	[!GuideMessage]受到伤害的目标最多被击退$Value$格。
 #9691	[!GuideMessage]안정된 자세에서 공격 시, $NotMoveAttackApplyAmountRatio$의 추가 피해를 입힙니다.	[!GuideMessage]以稳定姿势进行攻击时,造成$NotMoveAttackApplyAmountRatio$的附加伤害。
-#9692	[!Item]야샤 섬유	[!Item]夜叉 纤维
+#9692	[!Item]야샤 섬유	[!Item]夜叉纤维
 #9693	[!ObjectInfo]얼음 야샤	[!ObjectInfo]冰夜叉
 #9694	[!ObjectInfo]전격 야샤	[!ObjectInfo]电击夜叉
 #9695	[!Status]명중률	[!Status]命中率
@@ -6321,7 +6321,7 @@
 #10768	[!Mastery]사용하기 편하고 더 효과적이어야지.	[!Mastery]用着顺手才会更高效。
 #10769	[!Mastery]총기 개조	[!Mastery]枪械改造
 #10771	[!Mastery]수호하는 자에게 주어진 검이다.	[!Mastery]这是为守护者准备的剑。
-#10772	[!Mastery]성검	[!Mastery]聖剑
+#10772	[!Mastery]성검	[!Mastery]圣剑
 #10774	[!Mastery]이번이 내 차례였을 뿐이야.	[!Mastery]这次只不过是我的次序而已。
 #10775	[!Mastery]나는 아직 끝나지 않았다.	[!Mastery]我这还没结束呢。
 #10777	[!Mastery]또 다른 일은 없나?	[!Mastery]没有别的事儿?
@@ -10162,7 +10162,7 @@
 #16761	[!GameSystemMessageFormat]리가 현장을 이탈하였습니다.	[!Sentence][!FrontMessage]李离开了现场。
 #16762	[!GameSystemMessageFormat]적이 내부망 데이터를 삭제하기 시작합니다.	[!Sentence][!FrontMessage]敌人开始删除内网数据了。
 #16763	[!GameSystemMessageFormat]적들이 방어선 돌파를 결의하여 모두 전투 상태가 됩니다.	[!Sentence][!FrontMessage]敌人决定冲击防线，因此全员进入战斗状态。
-#16764	[!GameSystemMessageFormat]료 류자키가 현장에서 사라졌습니다.	[!Sentence][!FrontMessage]亮竜崎从现场消失了。
+#16764	[!GameSystemMessageFormat]료 류자키가 현장에서 사라졌습니다.	[!Sentence][!FrontMessage]亮龙崎从现场消失了。
 #16765	[!GameSystemMessageFormat]제이슨이 현장에서 사라졌습니다.	[!Sentence][!FrontMessage]杰森从现场消失了。
 #16766	[!GameSystemMessageFormat]적이 방어선에 도착하였습니다.	[!Sentence][!FrontMessage]敌人抵达防线。
 #16767	[!GameSystemMessageFormat]제이슨이 방어선을 돌파하였습니다.	[!Sentence][!FrontMessage]杰森突破了防线。
@@ -14710,7 +14710,7 @@
 #22378	[!Item]해골 자켓	[!Item]骷髅夹克
 #22379	[!Item]해골 코트	[!Item]骷髅外套
 #22380	[!Item]엘리게이터 블레이드 SS	[!Item]短吻鳄剑SS
-#22381	[!Item]스컬 슬래셔는 자신의 새로운 이름에 어울리는 업적의 재물로 구룡회의 살수였던 료 류자키를 선택한다. 하지만 승부는 슬래셔의 검날이 료의 검에 의해 부러지면서 슬래셔의 뼈아픈 패배가 되었다. 이후 슬래셔는 두 번 다시 이런 일이 벌어지지 않도록 내구성이 높은 엘리게이터 블레이드를 개조하여 사용하게 된다.	[!Item]骷髅乱砍者选择了曾经是九龙会杀手的亮竜崎为自己新名字的祭物。但由于乱砍者的剑被亮打断，而品尝到了刻骨的败北感。之后，乱砍者为了不再发生类似事件，改造了耐久性高的短吻鳄剑。
+#22381	[!Item]스컬 슬래셔는 자신의 새로운 이름에 어울리는 업적의 재물로 구룡회의 살수였던 료 류자키를 선택한다. 하지만 승부는 슬래셔의 검날이 료의 검에 의해 부러지면서 슬래셔의 뼈아픈 패배가 되었다. 이후 슬래셔는 두 번 다시 이런 일이 벌어지지 않도록 내구성이 높은 엘리게이터 블레이드를 개조하여 사용하게 된다.	[!Item]骷髅乱砍者选择了曾经是九龙会杀手的亮龙崎为自己新名字的祭物。但由于乱砍者的剑被亮打断，而品尝到了刻骨的败北感。之后，乱砍者为了不再发生类似事件，改造了耐久性高的短吻鳄剑。
 #22382	[!Item]자동 소총 C - 700	[!Item]自动步枪C - 701
 #22383	[!Item]케이퍼 X	[!Item]凯尔佛X
 #22384	[!Item]케이퍼 X - 스컬 피어스	[!Item]凯尔佛X - 骷髅戳穿者

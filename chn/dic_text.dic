@@ -3697,7 +3697,7 @@
 #11292	[!Sentence][!Dialog][!speaker:Civil_Man_Lee_Normal]경찰분들과 트러블슈터분들 이제 철의 숲으로 진입합니다.	[!Sentence][!Dialog][!speaker:Civil_Man_Lee_Normal]警方和纷争终结者们开始进入铁森林。
 #11293	[!Sentence][!Dialog][!speaker:Sion_Laugh]당연하지~☆	[!Sentence][!Dialog][!speaker:Sion_Laugh]那当然啦~☆
 #11295	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']아 그리고 이건 개인적인 우려이네만...	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']哦对了,还有个我个人的担忧…
-#11297	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]료 류자키 그 녀석만 아니었다면...	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]要不是亮竜崎这家伙…
+#11297	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]료 류자키 그 녀석만 아니었다면...	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]要不是亮龙崎这家伙…
 #11298	[!Sentence][!BalloonChat][!speaker:Direct_D1]왜 안 들어가고?	[!Sentence][!BalloonChat][!speaker:Civil_Man_Lee_Normal]干嘛不进去呀?
 #11301	[!Sentence][!Dialog][!speaker:VHPD_Issac_Smile]경찰 병력의 대대적인 동원은 무리야... 	[!Sentence][!Dialog][!speaker:VHPD_Issac_Smile]警力的大规模移动是不可取的…
 #11303	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']현재 지구 내 트러블슈터 회사들 다수가 동시에 진행하는 작전일세.	[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']这是当前地区内的多个纷争终结者公司的共同作战啊。
@@ -3947,7 +3947,7 @@
 #11644	[!Sentence][!Objective]제한 시간 동안 방어선을 지켜내시오	[!Sentence][!Objective]请在限定时间内守住防线
 #11645	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]여태껏 이 세계에서 수없이 실패했지만 재기해왔다.	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]迄今为止在这个世上经历了无数次的失败，但是也都重新站了起来。
 #11646	[!Sentence][!Dialog][!speaker:Sion_Surprise]알버스 설마...	[!Sentence][!Dialog][!speaker:Sion_Surprise]阿尔伯斯不会是…
-#11647	[!Sentence][!Dialog][!speaker:Albus_Surprise]료 류자키!!	[!Sentence][!Dialog][!speaker:Albus_Surprise]亮竜崎!!
+#11647	[!Sentence][!Dialog][!speaker:Albus_Surprise]료 류자키!!	[!Sentence][!Dialog][!speaker:Albus_Surprise]亮龙崎!!
 #11648	[!Sentence][!BalloonChat][!speaker:Jason]작전상 후퇴. 내가 가장 잘하는 것!	[!Sentence][!BalloonChat][!speaker:Gangster_Jason_Normal]战略撤退。我最拿手了!
 #11649	[!Sentence][!Dialog][!speaker:Alisa_Surprise]으음? 못 미더운 거야?	[!Sentence][!Dialog][!speaker:Alisa_Surprise]额嗯?不相信的吗?
 #11651	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]'엄청난 패도를 걷는 녀석이다...'	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]'那家伙是可是非常的霸道…'
@@ -4454,7 +4454,7 @@
 #12242	[!Sentence][!BalloonChat][!speaker:Albus]욕심부리지 말자...	[!Sentence][!BalloonChat][!speaker:Albus]不能太贪心啊…
 #12244	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 10년 전...	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']10年前…
 #12245	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Normal]기고만장한 경찰들과 트러블슈터에게 공포를!!	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Normal]让气焰嚣张的警察和纷争终结者们感受恐惧!!
-#12246	[!Sentence]료 류자키 팀으로 플레이합니다.	[!Sentence]加入亮竜崎的分队。
+#12246	[!Sentence]료 류자키 팀으로 플레이합니다.	[!Sentence]加入亮龙崎的分队。
 #12247	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]무슨 말이야. 시온?	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]你说什么呢。席翁?
 #12249	[!Sentence][!BalloonChat][!speaker:Ralph]상대는 료. 방심할 수 없어.	[!Sentence][!BalloonChat][!speaker:Ralph]对方是亮。不可掉以轻心。
 #12250	[!Sentence][!BalloonChat][!speaker:Luna]마르코. 다 처리하면 돼?	[!Sentence][!BalloonChat][!speaker:Luna]马尔科。都处理掉就可以了吗?
@@ -4500,7 +4500,7 @@
 #12299	[!Sentence][!Dialog][!speaker:Anne_Smile]아니에요. 알버스 오빠.	[!Sentence][!Dialog][!speaker:Anne_Smile]没关系。阿尔伯斯哥哥。
 #12300	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]조직을 다시 일으켜 세우기 위해선 스푼교도들의 도움이 필요했습니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]为了让组织东山再起，我们需要勺子教的帮助。
 #12301	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]네. 알겠습니다.	[!Sentence][!Dialog][!speaker:Anne_Strict]是的，我知道了。
-#12302	[!Sentence][!Dialog][!speaker:Gangster_SpoonThin_Nevil_Normal]'현재 스푼교의 위험 인물 1호. 료 류자키인가.'	[!Sentence][!Dialog][!speaker:Gangster_SpoonThin_Nevil_Normal]'这就是目前勺子教头号危险人物。亮竜崎吗。'
+#12302	[!Sentence][!Dialog][!speaker:Gangster_SpoonThin_Nevil_Normal]'현재 스푼교의 위험 인물 1호. 료 류자키인가.'	[!Sentence][!Dialog][!speaker:Gangster_SpoonThin_Nevil_Normal]'这就是目前勺子教头号危险人物。亮龙崎吗。'
 #12303	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]카르텔의 이름으로 참수해라.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]就以组织之名将他们斩首吧。
 #12305	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 여전히 같이할 생각은 없는가 보군.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']你依然是没有一起干的想法呢。
 #12306	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]'이 자를 제압하는 자가 『두술』이다.'	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]'制服这家伙就是『 第二勺 』了。'
@@ -4524,7 +4524,7 @@
 #12329	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]보스. '스푼교' 내에는 과거 '성난 황소'파의 조직원들이 다수 있습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]首领。'勺子教'里有不少是过去'愤怒公牛'组的成员们。
 #12330	[!Sentence][!BalloonChat]구조 분대에 합류하겠습니다!	[!Sentence][!BalloonChat]我要加入营救分队!
 #12331	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 10년간의 카르텔도 여기서 끝이군.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']10年的垄断也到此为止了。
-#12333	[!Sentence][!BalloonChat][!speaker:Ralph]료 류자키. 오랜만이다.	[!Sentence][!BalloonChat][!speaker:Gangster_SpoonSword_Ralph_Normal]亮竜崎。好久不见。
+#12333	[!Sentence][!BalloonChat][!speaker:Ralph]료 류자키. 오랜만이다.	[!Sentence][!BalloonChat][!speaker:Gangster_SpoonSword_Ralph_Normal]亮龙崎。好久不见。
 #12334	[!Sentence][!Dialog][!speaker:Sion_Stare]'알버스 무리하더니만...'	[!Sentence][!Dialog][!speaker:Sion_Stare]'阿尔伯斯那么勉强支撑的…'
 #12335	[!Sentence][!BalloonChat][!speaker:Spoon_Ralph]지금이다. 나를 따르라!	[!Sentence][!BalloonChat][!speaker:Spoon_Ralph]就是现在。跟我走!
 #12336	[!Sentence][!BalloonChat][!speaker:Albus]현 시각으로부터 방어선을 포기합니다!	[!Sentence][!BalloonChat][!speaker:Albus]从现在起放弃防线!
@@ -4579,7 +4579,7 @@
 #12398	[!Sentence][!BalloonChat]저희도 합류하겠습니다!	[!Sentence][!BalloonChat]我们也要加入!
 #12399	[!Sentence][!Dialog][!speaker:Sion_Stare]오늘만 벌써 3번째 출동이야...	[!Sentence][!Dialog][!speaker:Sion_Stare]今天已经是第三次出战了…
 #12400	[!Sentence][!Dialog][!speaker:VHPD_Defender_Normal]현재 소수의 스푼교도와 다수의 백호파 조직원이 현장에 있는 것으로 파악되고 있습니다.	[!Sentence][!Dialog][!speaker:VHPD_Defender_Normal]据了解目前现场有少量的勺子教信徒和大量的白虎组的成员们。
-#12401	[!Sentence][!Choice]료 류자키	[!Sentence][!Choice]亮竜崎
+#12401	[!Sentence][!Choice]료 류자키	[!Sentence][!Choice]亮龙崎
 #12402	[!Sentence][!BalloonChat][!speaker:Anne]다들 진입로로 퇴각하세요!!	[!Sentence][!BalloonChat][!speaker:Anne]都撤到入口处吧!!
 #12403	[!Sentence][!BalloonChat][!speaker:Ralph]료 녀석은 여기에 잠들 것이다.	[!Sentence][!BalloonChat][!speaker:Ralph]亮这家伙会在这里长眠的。
 #12404	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Kaze_Normal]존 님을 모욕한 널 그냥 둘 수 없지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Kaze_Normal]不能轻饶了你侮辱约翰大人之罪啊。
@@ -10043,7 +10043,7 @@
 #19212	[!Sentence][!Dialog][!speaker:Heissing_EyeClose_Young_Rage]바꿀 순 없는 건 너희를 향한 내 증오일 뿐이야.	无法改变的是我对你们的憎恨。
 #19213	[!Sentence][!Dialog][!speaker:Kylie_Normal_Young2]응?	[!Sentence][!Dialog][!speaker:Anne_Smile]嗯?
 #19214	[!Sentence][!Dialog][!speaker:Longchuan_Normal_Young3]이번 판은 제가 졌습니다.	[!Sentence][!Dialog][!speaker:Longchuan_Normal_Young3]这局是我输了。
-#19215	[!Sentence][!Dialog][!speaker:EmptySubTitle_]하지만 저 료 류자키는 언제나 아가씨를 모실 뿐입니다.	[!Sentence][!Dialog][!speaker:EmptySubTitle_]但是我，亮竜崎，是无论何时都是奉献于大小姐的。
+#19215	[!Sentence][!Dialog][!speaker:EmptySubTitle_]하지만 저 료 류자키는 언제나 아가씨를 모실 뿐입니다.	[!Sentence][!Dialog][!speaker:EmptySubTitle_]但是我，亮龙崎，是无论何时都是奉献于大小姐的。
 #19216	[!Sentence][!Dialog][!speaker:Showtaro_Normal]네! . 규베 씨. 잠시만 기다리세요!	[!Sentence][!Dialog][!speaker:Showtaro_Normal]好的！客人，请稍等一下！
 #19217	[!Sentence][!Dialog][!speaker:Kylie_Normal_Girl3]그래. 너도 고생했다.	[!Sentence][!Dialog][!speaker:Kylie_Normal_Girl3]是啊，你也辛苦了。
 #19218	[!Sentence][!Dialog][!speaker:Kylie_Normal]지금에 와서는 딱히 없는 것 같네.	现在好像没有什么特别的。
