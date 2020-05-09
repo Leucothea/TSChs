@@ -1950,7 +1950,7 @@
 #4218	[!Mastery]그 어떤 누구도 두렵지 않다	[!Mastery]天不怕地不怕。
 #4219	[!Mastery]생명을 걸고 같은 목표를 위해 달린 자들을 형제라 부르지 않으면 뭐라고 하는가?	[!Mastery]为同一个目标一起拼命奋斗的人们不是兄弟还能是什么?
 #4221	[!Mastery]결과를 내기 위한 초석이다.	[!Mastery]本固则枝荣。
-#4222	[!Mastery]살을 주고 뼈를 취한다.	[!Mastery]肉斩骨断。
+#4222	[!Mastery]살을 주고 뼈를 취한다.	[!Mastery]肉斩骨断
 #4223	[!Mastery]고객에게 베푼 열의는 보답받기 마련이다.	[!Mastery]为顾客付出的热情必有回报。
 #4224	[!Mastery]불꽃은 춤을 추는 것처럼 경쾌 하게 움직였다	[!Mastery]火花像是跳舞一样欢快地律动着。
 #4225	[!Mastery]쥐 죽은 듯이 고요한 냉철함 뒤에는 언제나 한 순간을 위한 날카로운 검이 도사리고 있다.	[!Mastery]死一般宁静的冷峻背后总会有等待出鞘的利剑。
@@ -5517,9 +5517,9 @@
 #9593	[!WordCollection][!Menu]도움말	[!WordCollection][!Menu]帮助
 #9594	[!HelpCategory]전투 시스템	[!HelpCategory]战斗系统
 #9597	[!Mastery]지금 네가 할 행동은 무의미하다.	[!Mastery]你现在的行为毫无意义。
-#9598	[!Mastery]나는 이미 알고 있다.	[!Mastery]我已经知道了。
+#9598	[!Mastery]나는 이미 알고 있다.	[!Mastery]我已经知道了
 #9600	[!Mastery]너에게 총성이 들릴 리가 없지.	[!Mastery]你不可能听见枪声。
-#9601	[!Mastery]넌 이미 죽어 있다.	[!Mastery]你已经死了。
+#9601	[!Mastery]넌 이미 죽어 있다.	[!Mastery]你已经死了
 #9604	[!Mastery]무너지지 않는 유일한 것은 자네의 마음일세.	[!Mastery]唯一不倒的就是你的心。
 #9605	[!Mastery]철의 요새	[!Mastery]铁的壁垒
 #9607	[!Mastery]강요된 선택으로 보이지만 결국 내가 한 선택이다.	[!Mastery]这似乎是一个迫切的选择，但最终它是我的选择。
@@ -6323,9 +6323,9 @@
 #10771	[!Mastery]수호하는 자에게 주어진 검이다.	[!Mastery]这是为守护者准备的剑。
 #10772	[!Mastery]성검	[!Mastery]圣剑
 #10774	[!Mastery]이번이 내 차례였을 뿐이야.	[!Mastery]这次只不过是我的次序而已。
-#10775	[!Mastery]나는 아직 끝나지 않았다.	[!Mastery]我这还没结束呢。
+#10775	[!Mastery]나는 아직 끝나지 않았다.	[!Mastery]我这还没结束呢
 #10777	[!Mastery]또 다른 일은 없나?	[!Mastery]没有别的事儿?
-#10778	[!Mastery]나는 아직 배고프다.	[!Mastery]我还饿。
+#10778	[!Mastery]나는 아직 배고프다.	[!Mastery]我还饿
 #10780	[!Mastery]네 눈으로 확인하지 않은 것을 아무리 부정하여도 존재하는 것은 사라지지 않는다. 	[!Mastery]没用你自己的双眼去确认过的东西，就算你一再否定，它的存在不会消失。
 #10781	[!Mastery]보이지 않는 검	[!Mastery]无形剑
 #10785	[!Mastery]언제나 포기할 수 없는 이유가 있습니다.	[!Mastery]总有不能放弃的理由。
@@ -6481,7 +6481,7 @@
 #11058	[!Mastery]대마법사에게 필요한 것은 인내심이다.	[!Mastery]大魔法师所需的是耐心。
 #11059	[!Mastery]마도의 길	[!Mastery]魔道之路
 #11061	[!Mastery]확실하게 끝내주마.	[!Mastery]这次就好好了结了。
-#11062	[!Mastery]이것이 마지막이다.	[!Mastery]这是最后一次了。
+#11062	[!Mastery]이것이 마지막이다.	[!Mastery]这是最后一次了
 #11064	[!Mastery]이 길의 끝은 승리의 환호만이 존재한다.	[!Mastery]这条路的尽头只有胜利的欢呼。
 #11065	[!Mastery]정의를 위한 승리의 검	[!Mastery]为了正义的胜利之剑
 #11069	[!AbilityDirectingEvent]반격(봉쇄당함)	[!AbilityDirectingEvent]反击(遭到封锁)
@@ -7200,7 +7200,7 @@
 #12058	[!GuideMessage]격렬한 전투를 통하여 잠복 상태를 효과적으로 활용하는 방법을 깨달았습니다.	[!GuideMessage]通过激烈的战斗，领悟到可灵活运用潜伏状态的方法。
 #12060	[!Mastery]행운이 따르면 천하도 바꿀 수 있다.	[!Mastery]幸运相随，改天换地。
 #12061	[!Mastery]명군사	[!Mastery]著名军师
-#12064	[!Mastery]제발 절 도와주세요!	[!Mastery]求你一定要帮帮我吧!
+#12064	[!Mastery]제발 절 도와주세요!	[!Mastery]求你一定要帮帮我吧
 #12066	[!Mastery]난 아프기 싫어!	[!Mastery]我不想疼!
 #12069	[!Mastery]끝없는 삶에 대한 집착이야말로 인간의 본능이다.	[!Mastery]对生活无休止的执着，才是人类的天性啊。
 #12070	[!Mastery]선혈의 기억	[!Mastery]鲜血的记忆
@@ -7632,13 +7632,13 @@
 #13253	[!Mastery]사냥은 쫓느냐 기다리느냐의 선택이다.	[!Mastery]狩猎是追踪与等待的二选一。
 #13254	[!Mastery]사냥의 마음가짐	[!Mastery]狩猎的心得
 #13256	[!Mastery]날 자유롭게 둔 걸 후회할 거야.	[!Mastery]会后悔给我自由行动的机会的。
-#13257	[!Mastery]내가 여기 있다.	[!Mastery]我在这里。
+#13257	[!Mastery]내가 여기 있다.	[!Mastery]我在这里
 #13259	[!Mastery]살아라.	[!Mastery]活下来吧。
 #13260	[!Mastery]생존 본능	[!Mastery]生存本能
 #13262	[!Mastery]강력한 방어구들은 모두 그들의 가죽으로 만든 것이오.	[!Mastery]强力的防具都是用他们的皮革制成的。
 #13263	[!Mastery]강철의 야수	[!Mastery]钢铁野兽
 #13265	[!Mastery]나의 자부심이다.	[!Mastery]这是我的自豪。
-#13266	[!Mastery]이것이 나의 총이다.	[!Mastery]这是我的枪。
+#13266	[!Mastery]이것이 나의 총이다.	[!Mastery]这是我的枪
 #13267	[!Mastery]큰 그릇을 만드는 데는 시간이 오래 걸린다.	[!Mastery]制作一大碗需要很长的时间。
 #13268	[!Mastery]대형종	[!Mastery]巨型种
 #13270	[!Mastery]강자이면 된다.	[!Mastery]只要能变成强者就行。
@@ -8738,7 +8738,7 @@
 #14796	[!Item]보나파르트 손목 고리 리미티드 에디션	[!Item]波拿巴手链LE
 #14797	[!Item]뒷거리에서 도적질로 살아가던 브래드는 자신을 보고 경멸하는 귀족 여성을 만나 모멸감을 느끼고 그 자리에서 바로 손목 고리를 차고 있던 귀족의 손목을 잘라버리고 이 손목 고리를 취한다.	[!Item]后巷小偷布拉德遇到了一位蔑视他的贵族女士，他感到羞辱。 一怒之下他当场就切断了她的手腕，并抢走了她的手链。
 #14800	[!Mastery]하늘은 스스로 돕는 자를 돕는다.	[!Mastery]自助者天助之
-#14801	[!Mastery]나는 전설이다.	[!Mastery]我是传奇。
+#14801	[!Mastery]나는 전설이다.	[!Mastery]我是传奇
 #14802	[!ESPPowerCondition]무기 파괴	[!AttackPowerCondition]武器破坏
 #14803	[!ResistanceCondition]방어구 파괴	[!ArmorCondition]护具破坏
 #14804	[!Status]장비한 아이템의 초능력	[!Status]以装备物品的超能力
@@ -10768,7 +10768,7 @@
 #17602	[!Job]소리꾼	[!Job]歌手
 #17603	[!Mastery]청중 사로잡기	[!Mastery]吸引听众
 #17604	[!Mastery]그들이 하는 것은 눈부시고 아름다울 뿐이다.	[!Mastery]他们所在做的就是耀眼的美丽。
-#17607	[!Mastery]나는 포기하지 않는다.	[!Mastery]我永不放弃。
+#17607	[!Mastery]나는 포기하지 않는다.	[!Mastery]我永不放弃
 #17608	[!Mastery]쓰레기는 보이는 순간 처리한다.	[!Mastery]垃圾在看到的瞬间就该处理。
 #17610	[!Mastery]맹독술사	[!Mastery]剧毒术士
 #17611	[!Mastery]자신이 겪은 고통만큼 성공하리라.	[!Mastery]自己经历的痛苦将引向成功。
@@ -11240,7 +11240,7 @@
 #18116	[!Item]산성액	[!Item]酸性液
 #18117	[!Mastery]기회창출자	[!Mastery]机会创造者
 #18118	[!Mastery]어떻게든 되게 한다.	[!Mastery]不管怎样都要做到。
-#18120	[!Mastery]넌 아무것도 할 수 없다.	[!Mastery]你什么都做不了。
+#18120	[!Mastery]넌 아무것도 할 수 없다.	[!Mastery]你什么都做不了
 #18121	[!Mastery]재능은 타고나는 것이지만 실력은 만들어 가는 것이다.	[!Mastery]才能是天生的，但实力是创造出来的。
 #18123	[!Mastery]재빠른 준비	[!Mastery]迅速的准备
 #18124	[!Mastery]최고의 결과를 위해 미리 준비한다.	[!Mastery]为了最好的结果而提前准备。
@@ -11264,7 +11264,7 @@
 #18151	[!Mastery]자. 이제 일어나야지.	[!Mastery]来，该起来了。
 #18153	[!Mastery]식인 야수	[!Mastery]食人兽
 #18154	[!Mastery]그들에게는 그저 먹잇감에 지나지 않는 것이지.	[!Mastery]对他们来讲也只不过是食物罢了。
-#18157	[!Mastery]나는 할 수 있다.	[!Mastery]我可以做到的。
+#18157	[!Mastery]나는 할 수 있다.	[!Mastery]我可以做到的
 #18158	[!Mastery]불가능은 누군가 해 내기 전까지의 순간의 상태를 말한다.	[!Mastery]不可能只是一种人们在做到之前的那一状态而已。
 #18164	[!Loading]까마귀폐허 도깨비굴	[!Loading]乌鸦废墟妖怪洞
 #18166	[!Mission]까마귀폐허 도깨비굴	[!Mission]乌鸦废墟妖怪洞
@@ -14378,7 +14378,7 @@
 #22016	[!Mastery]$Buff$ 상태 이상인 적을 $Dead$으로 만들면, 모든 어빌리티의 재사용 대기 시간이 $Value$ 감소합니다.	[!Mastery]使$Buff$异常状态的敌人$Dead$时，所有技能的冷却时间将减少$Value$。
 #22017	[!Mastery]연계된 뇌공	[!Mastery]连环雷攻计
 #22018	[!Mastery]강한 자가 부러지고 높은 자가 벼락을 맞는다.	[!Mastery]强者遭折断，高者遭雷击。
-#22019	[!Mastery]더는 기다릴 수 없어.	[!Mastery]实在不能再等了。
+#22019	[!Mastery]더는 기다릴 수 없어.	[!Mastery]实在不能再等了
 #22020	[!Mastery]참을만큼 참았다.	[!Mastery]忍无可忍啊。
 #22021	[!Mastery]$Mastery$ 발동 시, $Overcharge$ 상태가 됩니다.	[!Mastery]$Mastery$发动时，将进入$Overcharge$状态。
 #22022	[!Mastery]자가 면역	[!Mastery]自我免疫
