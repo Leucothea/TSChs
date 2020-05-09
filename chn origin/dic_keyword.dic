@@ -16216,12 +16216,12 @@
 #24384	[!ObjectVoiceSound][!speaker:Anne]엄마, 아빠, 저한테 용기를 주세요	[!ObjectVoiceSound][!speaker:Anne]妈妈爸爸，请赐予我勇气
 #24385	[!Buff]턴 시작 시, 자신의 시야 내 공격할 대상이 없으면 현재 턴을 종료하고 해당 상태가 해제됩니다.	[!Buff]回合开始时，自身视野内没有可攻击对象的话，将结束回合并解除该状态。
 #24386	[!Mastery]낚시왕	[!Mastery]钓人王
-#24387	[!Mastery]떡밥을 뿌리면 순식간에 파닥파닥 달려들어 곧 만선이 돼지.	[!Mastery]一撒下诱饵的瞬间，就会聚满人群。
-#24388	[!Mastery]$Buff$ 상태에서 $Field$ 지형 효과를 받는 적을 공격하여 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다	[!Mastery]$Buff$状态下攻击处在$Field$地形效果的敌人并令其$Dead$时，将恢复$Value$的$ActionPoint$。
+#24387	[!Mastery]떡밥을 뿌리면 순식간에 파닥파닥 달려들어 곧 만선이 돼지.	[!Mastery]一撒下诱饵，一瞬间就会充满人群。
+#24388	[!Mastery]$Buff$ 상태에서 $Field$ 지형 효과를 받는 적을 공격하여 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다	[!Mastery]$Buff$状态下攻击使处在$Field$地形效果的敌人$Dead$时，将恢复$Value$的$ActionPoint$。
 #24389	[!Mastery]모든 적의 시야에 노출되지 않은 상태에서 $Ability$ 사용 시, $ActionPoint$을 $Value$ 회복합니다.	[!Mastery]未暴露在敌人视野的状态下使用$Ability$时，将恢复$Value$的$ActionPoint$。
 #24390	[!Mastery]모든 적의 시야에 노출되지 않은 상태에서 $Ability$, $Ability2$, $Ability3$ 사용 시, $Buff$ 상태가 됩니다.	[!Mastery]未暴露在敌人视野的状态下使用$Ability$、$Ability2$、$Ability3$时，将进入$Buff$状态。
 #24391	[!Mastery]폭염의 괴수	[!Mastery]酷热之怪兽
-#24392	[!Mastery]그 어떤 폭염도 그들을 나태하게 할 수 없다.	[!Mastery]任何酷暑都无法使他们慵懒。
+#24392	[!Mastery]그 어떤 폭염도 그들을 나태하게 할 수 없다.	[!Mastery]任何酷暑都无法使他们懒惰。
 #24393	[!Mastery]$Temperature$, $Temperature2$ 온도에서 $Stat$, $Stat2$, $Stat3$, $Stat4$[이] $Value$ 증가합니다.	[!Mastery]$Temperature$、$Temperature2$的气温下将增加$Value$的$Stat$，$Stat2$，$Stat3$，$Stat4$。
 #24394	[!Mastery]자신이 위치한 지형이 $Field$ 지형이면 자신의 체력의 $Value$를 회복합니다.	[!Mastery]自己所在地形为$Field$地形时，则可恢复自身体力的$Value$。
 #24395	[!Mastery]$Mastery$ 발동 시, $Cost$[이] $Value$ 증가합니다.	[!Mastery]$Mastery$发动时，将增加$Value$的$Cost$。
@@ -16231,11 +16231,11 @@
 #24399	[!Mastery]그 어떤 추위도 그들을 움츠러들게 할 수 없다.	[!Mastery]任何寒冷都无法使他们退缩。
 #24400	[!Mastery]$Weather$ 날씨 혹은 $Temperature$, $Temperature2$ 온도에서 $Stat$, $Stat2$, $Stat3$, $Stat4$[이] $Value$ 증가합니다.	[!Mastery]天气为$Weather$或在$Temperature$、$Temperature2$的气温下，将增加$Value$的$Stat$，$Stat2$，$Stat3$，$Stat4$。
 #24401	[!Mastery]강철의 전투법사	[!Mastery]钢铁的战斗法师
-#24402	[!Mastery]우리는 전장에서 절대 쓰러지지 않는 그 자를 강철의 전투법사라 불렀다.	[!Mastery]我们把在战场上绝不倒下的那个人称为钢铁的战斗法师。
+#24402	[!Mastery]우리는 전장에서 절대 쓰러지지 않는 그 자를 강철의 전투법사라 불렀다.	[!Mastery]我们把在战场上绝不倒下的那个人称作钢铁的战斗法师。
 #24403	[!Mastery]적으로부터 공격을 받을 경우, 적의 $Stat$[이] $Value$ 추가 감소합니다.	[!Mastery]受到敌人的攻击时，敌人将额外减少$Value$的$Stat$。
 #24404	[!Mastery]턴 종료 시, $Buff$ 상태가 됩니다.	[!Mastery]回合结束时，将进入$Buff$状态。
 #24405	[!Mastery]어빌리티 사용 시 해당 상태가 해제되지 않습니다.	[!Mastery]使用技能时该状态不会被解除。
-#24406	[!Mastery]$Ability$ 어빌리티가 $Ability2$ 어빌리티로 변경됩니다.	[!Mastery]$Ability$技能变换为$Ability2$技能。
+#24406	[!Mastery]$Ability$ 어빌리티가 $Ability2$ 어빌리티로 변경됩니다.	[!Mastery]$Ability$技能变更为$Ability2$技能。
 #24407	[!GuideMessage]반응/반격 공격 가능	[!GuideMessage]可反应/反击攻击
 #24408	[!Mastery]빗속의 괴수	[!Mastery]雨中之怪兽
 #24409	[!Mastery]그 어떤 폭우도 그들을 멈추게 할 수 없다.	[!Mastery]任何暴雨都无法使他们停下。
@@ -16243,7 +16243,7 @@
 #24411	[!Mastery]선의 선	[!Mastery]迅速敏捷
 #24412	[!Mastery]신속하게 반응하고 예리하게 벤다.	[!Mastery]迅速的反应，锐利的砍断。
 #24413	[!Mastery]$Mastery$이 무조건 치명타로 적중합니다.	[!Mastery]$Mastery$将绝对会给予暴击。
-#24414	[!Mastery]백병전의 달인	[!Mastery]白刃战的达人
+#24414	[!Mastery]백병전의 달인	[!Mastery]百兵战的达人
 #24415	[!Mastery]우리는 전진한다.	[!Mastery]我们将前进。
 #24416	[!Mastery]$Stat$[이] $Value$ 추가 증가합니다.	[!Mastery]将额外增加$Value$的$Stat$。
 #24417	[!Mastery]구름술사	[!Mastery]乌云术士
@@ -16251,7 +16251,7 @@
 #24419	[!WordCollection]연관 능력치	[!WordCollection]相关能力值
 #24420	[!GuideMessage]발할라 경찰청은 트러블슈터 회사의 소재지를 기본 관할 구역으로 제공합니다. 또한 회사 내 소속된 정식 트러블슈터 자격증 보유자 수 만큼 추가 확장할 수 있습니다.	[!GuideMessage]巴赫拉警察厅提供纷争终结者公司他们的所在地为基本管辖区。并且还可以根据公司内的正式的纷争终结者人数而继续扩张。
 #24421	[!License]트러블슈터 정식 자격증	[!License]正式的纷争终结者资格证
-#24422	[!License]트러블슈터 회사에서 견습 트러블슈터로 1년 이상 활동한 자 중 발할라 경찰청이 인증하는 정규 시험을 통과하고, 트러블슈터 회사에서 3개월 간 현장 실습을 이수한 사람에게 주어지는 자격증이다.	[!License]在纷争终结者公司以见习纷争终结者的身份活动了1年以上的人，并通过了巴赫拉警察厅认证的正规考试，并在纷争终结者公司实习3个月的人才能获得的资格证。
+#24422	[!License]트러블슈터 회사에서 견습 트러블슈터로 1년 이상 활동한 자 중 발할라 경찰청이 인증하는 정규 시험을 통과하고, 트러블슈터 회사에서 3개월 간 현장 실습을 이수한 사람에게 주어지는 자격증이다.	[!License]在纷争终结者公司以见习纷争终结者的身份活动了1年以上的人中，通过了巴赫拉警察厅认证的正规考试，并在纷争终结者公司实习3个月的人才能获得的资格证。
 #24423	[!License]국가 마이스터 자격증	[!License]国家硕士学历资格证
 #24424	[!License]기계, 화학, 전기, 토목, 재료, 컴퓨터 공학 중 최소 3개 이상의 분야에서 석사 이상의 학위를 소지한 자 중 발할라 교육부가 인증하는 실기 과정을 이수하고, 정규 시험을 통과한 사람에게 주어지는 자격증이다.	[!License]机械、化学、电气、土木、材料、电脑工程中至少得在3个以上的领域上拥有硕士以上学位的考生中受到了巴赫拉教育部认证的实习过程，通过了正规考试的人才能获得的资格证。
 #24425	[!License]사냥 허가증	[!License]狩猎许可证
@@ -16260,7 +16260,7 @@
 #24428	[!WordCollection]정식 트러블슈터	[!WordCollection]正式的纷争终结者
 #24429	[!WordCollection]자격증	[!WordCollection]资格证
 #24430	[!Mastery]완벽한 잠복	[!Mastery]完美的埋伏
-#24431	[!Mastery]살아 남으려면 더 몸을 낮춰!	[!Mastery]要想活下来，就要把身体放的更低。
+#24431	[!Mastery]살아 남으려면 더 몸을 낮춰!	[!Mastery]要想活下来，就更加放低身体。
 #24432	[!Mastery]엄폐 상태에서 적의 공격을 회피하면, $ActionTime$이 $Value$ 추가 감소합니다.	[!Mastery]隐蔽状态下躲避了敌人攻击时，将额外减少$Value$的$ActionTime$。
 #24433	[!Mastery]$Buff$ 상태에서 자신이 받는 피해량이 $Value$ 추가 감소합니다.	[!Mastery]$Buff$状态下自身所受到的伤害将额外减少$Value$。
 #24434	[!Mastery]성실한 후견인	[!Mastery]诚实的监护人
