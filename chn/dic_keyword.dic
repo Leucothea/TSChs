@@ -608,7 +608,7 @@
 #1330	[!Mastery]날렵함	[!Mastery]敏捷
 #1333	[!Mastery]알리바바	[!Mastery]阿里巴巴
 #1336	[!Mastery]기습	[!Mastery]奇袭
-#1339	[!Mastery]성난 황소	[!Mastery]狂牛
+#1339	[!Mastery]성난 황소	[!Mastery]暴怒公牛
 #1341	[!Mastery]신비한 힘	[!Mastery]神秘之力
 #1343	[!Mastery]영웅의 일격	[!Mastery]英雄一击
 #1355	[!Mastery]야수사냥꾼	[!Mastery]野兽猎人
@@ -730,7 +730,7 @@
 #1684	[!Mastery]근육 단련	[!Mastery]肌肉锻炼
 #1687	[!Mastery]자연의 균형	[!Mastery]自然的平衡
 #1690	[!Mastery]신경 회로	[!Mastery]神经回路
-#1693	[!Mastery]하나씩	[!Mastery]一个个
+#1693	[!Mastery]하나씩	[!Mastery]一个接一个
 #1696	[!Mastery]한방에 한 명씩	[!Mastery]一枪一个
 #1698	[!Mastery]절호의 일격	[!Mastery]绝妙一击
 #1701	[!Mastery]생명의 기원	[!Mastery]生命的起源
@@ -1572,7 +1572,7 @@
 #3591	[!Reputation]메트로디움	[!Reputation]梅特罗迪翁区
 #3593	[!Reputation]푸고 거리	[!Reputation]府谷街
 #3595	[!Reputation]자홍거리	[!Reputation]紫红街
-#3597	[!Reputation]화난 술통	[!Reputation]怒酒区
+#3597	[!Reputation]화난 술통	[!Reputation]怒桶区
 #3599	[!Reputation]그늘 안개	[!Reputation]沉雾区
 #3601	[!Reputation]그림자 장벽	[!Reputation]影壁区
 #3603	[!Reputation]은빛 구름	[!Reputation]银云区
@@ -1617,10 +1617,10 @@
 #3648	[!Site]자홍 뒷거리	[!Site]紫红后巷
 #3649	[!Site]자홍거리 상점가	[!Site]紫红娱乐街
 #3650	[!Site]자홍거리	[!Site]紫红街
-#3651	[!Site]화난 술통 뒷거리	[!Site]怒酒后巷
-#3652	[!Site]화난 술통 중심가	[!Site]怒酒中央大街
-#3653	[!Site]화난 술통 상점가	[!Site]怒酒商店街
-#3654	[!Site]화난 술통 거리	[!Site]怒酒大街
+#3651	[!Site]화난 술통 뒷거리	[!Site]怒桶后巷
+#3652	[!Site]화난 술통 중심가	[!Site]怒桶中央大街
+#3653	[!Site]화난 술통 상점가	[!Site]怒桶商店街
+#3654	[!Site]화난 술통 거리	[!Site]怒桶大街
 #3656	[!Site]그늘 안개 거주구	[!Site]沉雾居民区
 #3657	[!Site]그늘 안개 슬럼가	[!Site]沉雾贫民区
 #3658	[!Site]그늘 안개 거리	[!Site]沉雾大街
@@ -3159,7 +3159,7 @@
 #6111	[!Mastery]영웅	[!Mastery]英雄
 #6113	[!Mastery]전설	[!Mastery]史诗
 #6114	[!Mastery]바람이 분다는 것은 이미 시작되었다는 것이지.	[!Mastery]起风了就说明已经开始了。
-#6115	[!Mastery]바람술사	[!Mastery]风术士
+#6115	[!Mastery]바람술사	[!Mastery]暴风术士
 #6118	[!StatsInfo]미션 패배 수	[!StatsInfo]任务失败件数
 #6121	[!StatsInfo]처치한 적 총 수	[!StatsInfo]击退的敌人总数
 #6123	[!StatsInfo]시민 구조 수	[!StatsInfo]救助市民人数
@@ -4771,7 +4771,7 @@
 #8525	[!Item]모험가 부츠	[!Item]冒险家靴子
 #8529	[!Item]자홍빛 대마법사 반지	[!Item]紫红色大魔法师戒指
 #8530	[!Item]자홍거리에서 유통되는 대마법사 반지의 강화된 버전. 뒷세계에서 매우 인기 있는 반지이다.	[!Item]紫红街流通的大魔法师戒指的加强版。是一款在地下世界里非常有人气的戒指。
-#8531	[!Item]바람술사 반지	[!Item]风术士戒指
+#8531	[!Item]바람술사 반지	[!Item]暴风术士戒指
 #8535	[!Loading]철의 숲 물류 캠프	[!Loading]铁森林物流基地
 #8536	[!Loading]가면 속의 그림자	[!Loading]面具背后的影子
 #8538	[!Mastery]지금 이 순간까지 참고 기다렸다.	[!Mastery]卧薪尝胆就为了这一刻。
@@ -4798,7 +4798,7 @@
 #8573	[!ObjectInfo]창	[!ObjectInfo]昌
 #8574	[!ObjectInfo]존	[!ObjectInfo]约翰
 #8575	[!ObjectInfo]카제	[!ObjectInfo]卡帝
-#8576	[!ObjectInfo]스푼교 바람술사	[!ObjectInfo]勺子教风术士
+#8576	[!ObjectInfo]스푼교 바람술사	[!ObjectInfo]勺子教暴风术士
 #8577	[!ObjectInfo]랄프	[!ObjectInfo]拉尔夫
 #8578	[!Site]철의 숲 중턱	[!Site]铁森林腹地
 #8579	[!Status]최대 체력	[!Status]最大体力
@@ -4817,7 +4817,7 @@
 #8600	[!Item]동방연합의 국경 외곽 부대에서 사용하는 보급형 전투 자켓이다. 발할라에서 유통되는 물건의 대부분 밀수품이다.	[!Item]东方联盟边防外城部队使用的泛用型战斗夹克。巴赫拉流通的物品中多数为走私品。
 #8601	[!Item]동방연합 군용 강화복	[!Item]东方联盟军用强化服
 #8602	[!Item]동방연합의 국경 외곽 부대에서 사용하는 신형 전투 자켓이다. 발할라에서 유통되는 물건의 대부분 밀수품이다.	[!Item]东方联盟边防外城部队使用的新型战斗夹克。巴赫拉流通的物品中多数为走私品。
-#8603	[!Item]자홍빛 바람술사 반지	[!Item]紫红色风术士戒指
+#8603	[!Item]자홍빛 바람술사 반지	[!Item]紫红色暴风术士戒指
 #8604	[!Item]자홍거리에서 유통되는 바람술사 반지의 강화된 버전. 뒷세계에서 매우 인기 있는 반지이다.	[!Item]紫红街流通的风术士戒指的加强版。是一款在地下世界里非常有人气的戒指。
 #8605	[!Item]강화 아스카 블레이드	[!Item]强化飞鸟剑
 #8606	[!Item]아스카 블레이드의 사용성을 극대화하여 작은 상처에도 치명적인 피해가 나도록 개량한 검.	[!Item]极大化飞鸟剑的实用性，再小的伤口也会带来致命的伤害的改良版的剑。
@@ -5030,8 +5030,8 @@
 #8866	[!WordCollection]이름순	[!WordCollection]按名称排列
 #8867	[!WordCollection]비용 낮은 순	[!WordCollection]费用升序
 #8868	[!WordCollection]비용 높은 순	[!WordCollection]费用降序
-#8869	[!Mission]화난 술통 상점가 야외 주차장	[!ZoneEventGen]怒酒商店街野外停车场
-#8871	[!Loading]성난 술통 상점가	[!Loading]怒酒商店街
+#8869	[!Mission]화난 술통 상점가 야외 주차장	[!ZoneEventGen]怒桶商店街野外停车场
+#8871	[!Loading]성난 술통 상점가	[!Loading]怒桶商店街
 #8872	[!Loading]이 일만 끝나면...	[!Loading]只要这件事结束了…
 #8874	[!WordCollection]별점 높은 순	[!WordCollection]星点降序
 #8875	[!WordCollection]별점 낮은 순	[!WordCollection]星点升序
@@ -7941,7 +7941,7 @@
 #13653	[!Mastery]기회를 기다린다.	[!Mastery]等待机会。
 #13654	[!Mastery]수풀 속의 사냥꾼	[!Mastery]树丛中的猎人
 #13656	[!Mastery]자신의 전장을 누구보다 잘 알고 있지.	[!Mastery]比任何人都要了解自己的战场。
-#13657	[!Mastery]수풀에서 수풀로	[!Mastery]从树丛到树丛
+#13657	[!Mastery]수풀에서 수풀로	[!Mastery]木之道
 #13659	[!Mastery]분노가 가져다 주는 이 순간을 위해 살아가는 거지	[!Mastery]为了愤怒带来的这一瞬间而活着
 #13660	[!Mastery]광기의 희열	[!Mastery]疯狂的喜悦
 #13662	[!Mastery]겨울을 바라는 몇 안되는 자들이지.	[!Mastery]少数渴求冬季的家伙。
@@ -7974,7 +7974,7 @@
 #13702	[!Mastery]폭염 속에서 지치지 않는 자들이지.	[!Mastery]在酷暑中也不会疲倦。
 #13703	[!Mastery]폭염의 야수	[!Mastery]酷暑的野兽
 #13704	[!Mastery]상처 받지 않기 위해 필요한 것이 냉정한 선택이다.	[!Mastery]为了不受伤害，需要的是冷酷的选择。
-#13705	[!Mastery]얼음술사	[!Mastery]冰术士
+#13705	[!Mastery]얼음술사	[!Mastery]霜雪术士
 #13706	[!Mastery]세대를 거듭한 흉폭성의 집합체이지.	[!Mastery]世世代代重复的残暴集合体。
 #13707	[!Mastery]계승된 분노	[!Mastery]被继承的愤怒
 #13709	[!Mastery]살아남는 자가 승리한다.	[!Mastery]活下来的就是胜利者。
@@ -8075,7 +8075,7 @@
 #13846	[!Mastery]심해	[!Mastery]深渊
 #13849	[!Mastery]독을 사용하는 법을 알려주지.	[!Mastery]让我教你怎么用毒。
 #13850	[!Mastery]독의 고통	[!Mastery]毒之痛苦
-#13851	[!Mastery]물에서 물로	[!Mastery]从水到水
+#13851	[!Mastery]물에서 물로	[!Mastery]水之道
 #13853	[!ObjectInfo]블랙펄 인사과 직원	[!ObjectInfo]黑珍珠人事部职员
 #13854	[!ObjectInfo]규베	[!ObjectInfo]丘比
 #13855	[!ObjectInfo]케이트	[!ObjectInfo]凯特
@@ -9807,7 +9807,7 @@
 #16300	[!Mastery]절대 인간을 얕보지 마라.	[!Mastery]千万不要小看人类。
 #16301	[!Mastery]인간사냥꾼	[!Mastery]人类猎人
 #16303	[!Mastery]한 순간이지만 그 견고함은 누구보다 강하다.	[!Mastery]虽然只是一瞬间，但是其坚固性比谁都强大。
-#16304	[!Mastery]얼음성	[!Mastery]冰城
+#16304	[!Mastery]얼음성	[!Mastery]冰冻性
 #16306	[!Mastery]영웅은 전설을 파괴함으로써 전설을 만든다. 	[!Mastery]英雄就是打破传说创造传奇。
 #16307	[!Mastery]전설사냥꾼	[!Mastery]传奇猎人
 #16309	[!Mastery]이리온. 아가야.	[!Mastery]来吧，孩子。
@@ -12413,7 +12413,7 @@
 #19558	[!Mastery]높이 나는 새가 더 멀리 본다.	[!Mastery]飞得高的鸟看得更远。
 #19559	[!Mastery]안개 속의 포식자	[!Mastery]雾霭中的捕食者
 #19560	[!Mastery]모호한 것은 언제나 공포를 부른다.	[!Mastery]模糊总是会引起恐惧。
-#19562	[!Mastery]안개에서 안개로	[!Mastery]从雾霭到雾霭
+#19562	[!Mastery]안개에서 안개로	[!Mastery]雾之道
 #19563	[!Mastery]주저하는 순간 이미 기회는 사라진다.	[!Mastery]踌躇的瞬间机会已经消失。
 #19565	[!Mastery]숨결주머니	[!Mastery]气囊
 #19566	[!Mastery]기회는 준비된 자에게만 온다.	[!Mastery]机会只出现在有准备的人身上。
@@ -14735,7 +14735,7 @@
 #22403	[!Mastery]총기 호환성	[!Mastery]枪支兼容性
 #22404	[!Mastery]작은 차이가 쌓여 큰 차이를 만든다.	[!Mastery]小差异积聚成大差异。
 #22405	[!Mastery]해당 어빌리티를 강화한 특성 $Value$개 당 공격력 계수가 $Value2$ 증가합니다.	[!Mastery]每$Value$个强化该技能的天赋将增加$Value2$的攻击力系数。
-#22406	[!Mastery]전경	[!Mastery]全劲
+#22406	[!Mastery]전경	[!Mastery]全景
 #22407	[!Mastery]모든 것은 연결되어 있다.	[!Mastery]一切都是连贯的。
 #22408	[!Mastery]능숙한 썰기	[!Mastery]熟练的切削
 #22409	[!Mastery]경험한 자와 하지 않은 자의 차이는 절대적이다.	[!Mastery]有经验者和没有经验者的差异是绝对的。
