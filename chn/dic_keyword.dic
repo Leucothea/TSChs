@@ -4712,14 +4712,14 @@
 #8431	[!Ability]거미줄 낙하	[!Ability]蛛网降落
 #8433	[!Ability]거미 탄환	[!Ability]蜘蛛子弹
 #8434	[!Ability]거미줄치기	[!Ability]织造蛛网
-#8441	[!Mastery]대지의 가호	[!Mastery]大地的护佑
-#8443	[!Mastery]불꽃의 가호	[!Mastery]火焰的护佑
+#8441	[!Mastery]대지의 가호	[!Mastery]土之护佑
+#8443	[!Mastery]불꽃의 가호	[!Mastery]火之护佑
 #8445	[!Mastery]꺼지지 않는 불빛이 가득한 곳이다.	[!Mastery]这是个充满着不灭的灯光的地方。
 #8446	[!Mastery]발전기	[!Mastery]发电器
-#8448	[!Mastery]얼음의 가호	[!Mastery]寒冰的护佑
+#8448	[!Mastery]얼음의 가호	[!Mastery]冰之护佑
 #8450	[!Mastery]자네가 바로 우리의 마지막 희망일세.	[!Mastery]你就是我们最后的希望啊。
 #8451	[!Mastery]마지막 불꽃	[!Mastery]最后的火花
-#8453	[!Mastery]번개의 가호	[!Mastery]闪电的护佑
+#8453	[!Mastery]번개의 가호	[!Mastery]雷之护佑
 #8455	[!Mastery]물의 가호	[!Mastery]水之护佑
 #8457	[!Mastery]바람의 가호	[!Mastery]风之护佑
 #8458	[!Ability]목표 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]对目标造成$DamageAmount$的$DamageType$伤害。
@@ -5618,10 +5618,10 @@
 #9701	[!Mastery]그대에게 베푸는 최대의 관용일세. 단 한발.	[!Mastery]这是我给你的最大的宽容。只一枪。
 #9702	[!Mastery]핏빛 탄환	[!Mastery]血色弹丸
 #9704	[!Mastery]정신만 차리면 죽지 않아요! 제 말 들리시죠?	[!Mastery]只要清醒就不会死! 您能听到我吗？
-#9705	[!Mastery]정성어린 치료	[!Mastery]精诚的治疗
+#9705	[!Mastery]정성어린 치료	[!Mastery]精心治疗
 #9709	[!Mastery]일기당천	[!Mastery]一骑当千
 #9711	[!Mastery]나에게 주어진 마지막 기회다.	[!Mastery]这是我的最后一次机会。
-#9712	[!Mastery]세 번째 심장	[!Mastery]第三个心脏
+#9712	[!Mastery]세 번째 심장	[!Mastery]第三心脏
 #9715	[!Mastery]자 다음 상대는 누구냐!	[!Mastery]来吧！ 谁是下一个对手!?
 #9716	[!ObjectInfo]못된 아이	[!ObjectInfo]恶劣的小孩
 #9717	[!ObjectInfo]더 못된 아이	[!ObjectInfo]更恶劣的小孩
@@ -6317,7 +6317,7 @@
 #10762	[!Mastery]한 순간의 틈이 있다면 충분히 피할 수 있지.	[!Mastery]只要有一瞬间的缝隙，就完全可以避开。
 #10763	[!Mastery]눈부신 칼날	[!Mastery]耀眼的刀刃
 #10765	[!Mastery]지키기 위한 검이다.	[!Mastery]这是守护之剑。
-#10766	[!Mastery]수호의 검	[!Mastery]守护的剑
+#10766	[!Mastery]수호의 검	[!Mastery]守护之剑
 #10768	[!Mastery]사용하기 편하고 더 효과적이어야지.	[!Mastery]用着顺手才会更高效。
 #10769	[!Mastery]총기 개조	[!Mastery]枪械改造
 #10771	[!Mastery]수호하는 자에게 주어진 검이다.	[!Mastery]这是为守护者准备的剑。
@@ -6356,7 +6356,7 @@
 #10841	[!Mastery]백만개의 기술을 가진 자보다 백만번 기술을 연마한 자를 두려워하라.	[!Mastery]比起知晓百万种技术的人，千锤百炼同一技术的人才是更可畏的。
 #10842	[!Mastery]백만번의 단련	[!Mastery]千锤百的锻炼
 #10844	[!Mastery]아무도 없는 그 전장에는 주인 잃은 수많은 검들이 자리를 지키고 있을 뿐이었다.	[!Mastery]荒无人烟的战场上，只有无数柄失去了主人的剑，默默坚守在原地。
-#10845	[!Mastery]무한검	[!Mastery]无限剑
+#10845	[!Mastery]무한검	[!Mastery]无限之剑
 #10848	[!Mastery]이대로 쉽게 놓아줄 수 없습니다.	[!Mastery]不能就这样放了你。
 #10851	[!Mastery]당신에게만 좋은 것을 줄 순 없어.	[!Mastery]不能什么好处都让你占了。
 #10852	[!Mastery]마녀의 시샘	[!Mastery]魔女的嫉妒
@@ -6771,7 +6771,7 @@
 #11480	[!Mastery]무언가를 얻기 위해서는 그와 동등한 대가를 치러야 한다	[!Mastery]如果想获得什么，就要付出与之相同的代价
 #11481	[!Mastery]등가 교환	[!Mastery]等价交换
 #11484	[!Mastery]아프면 약을 먹어야지.	[!Mastery]不舒服就要吃药。
-#11485	[!Mastery]순도 높은 회복약	[!Mastery]高纯度的恢复药
+#11485	[!Mastery]순도 높은 회복약	[!Mastery]高纯度恢复药
 #11487	[!Mastery]실패란 성공의 과정이다.	[!Mastery]失败是成功的过程。
 #11488	[!Mastery]화합물 만들기	[!Mastery]制作化合物
 #11490	[!Mastery]이대로 달려간다!	[!Mastery]勇往直前!
@@ -10302,7 +10302,7 @@
 #16901	[!GuideMessage][colour='FFFFFF00']특성의 획득 확률이 공개됩니다.[colour='FFFFFFFF']<br>해당 대상에 대한 피해량이 5% 증가합니다.	[!GuideMessage][colour='FFFFFF00']天赋获得几率已被公开。[colour='FFFFFFFF']<br>对于该目标的伤害量提高5%。
 #16902	[!GuideMessage][colour='FFFFFF00']전리품의 획득 확률이 공개됩니다.[colour='FFFFFFFF']<br>해당 대상의 공격에 대한 피해량이 5% 감소합니다.	[!GuideMessage][colour='FFFFFF00']战利品获取几率已被公开。[colour='FFFFFFFF']<br>该目标的攻击造成的伤害量降低5%。
 #16903	[!GuideMessage][colour='FFFFFF00']출현 지역 정보가 모두 공개됩니다.[colour='FFFFFFFF']<br>보상 받기를 통하여 %s 을 입수할 수 있습니다.	[!GuideMessage][colour='FFFFFF00']可能的出场地区已被公开。[colour='FFFFFFFF']<br>可通过下方的“获取奖励”来获得%s。
-#16904	[!Mastery]혼신의 일격	[!Mastery]全力以赴的一击
+#16904	[!Mastery]혼신의 일격	[!Mastery]全力一击
 #16905	[!Mastery]무조건 공격이다.	[!Mastery]不管别的就是攻击。
 #16910	[!Mastery]불꽃 쐐기	[!Mastery]红焰锥
 #16911	[!Mastery]다 타버린 희망을 절망이라고 부르지.	[!Mastery]燃烧殆尽的希望叫做绝望。
@@ -10326,7 +10326,7 @@
 #16938	[!Mastery]자연은 자애롭다.	[!Mastery]自然是慈爱的。
 #16939	[!Mastery]신경 자극	[!Mastery]神经刺激
 #16940	[!Mastery]직접 겪어보면 생각보다 간단한 일이 많아.	[!Mastery]亲自经历过的话就会发现比想象中简单的事情很多。
-#16943	[!Mastery]거대한 벼락	[!Mastery]宏大的雷电
+#16943	[!Mastery]거대한 벼락	[!Mastery]宏伟之雷
 #16944	[!Mastery]신의 뜻에 따라 적을 멸하라.	[!Mastery]按照神的旨意灭敌。
 #16946	[!Mastery]섬광 쐐기	[!Mastery]闪光锥
 #16947	[!Mastery]불현듯 과거의 부끄러운 일들이 머릿속을 스칠 때와 같은 기분일세.	[!Mastery]突然想起过去那些丢脸的事情。
@@ -11345,13 +11345,13 @@
 #18256	[!Mastery]몸과 마음은 독립적인 존재이지만 서로 유기적으로 작동하지.	[!Mastery]身心虽然是独立的存在，但彼此是互相共存的。
 #18258	[!Mastery]대성황	[!Mastery]盛况
 #18259	[!Mastery]넌 이제 전설이야.	[!Mastery]你现在是个传说。
-#18261	[!Mastery]빛나는 자	[!Mastery]有光辉的人
+#18261	[!Mastery]빛나는 자	[!Mastery]聚光之人
 #18262	[!Mastery]호감은 인기가 되고, 인기는 경애가 된다.	[!Mastery]好感变为人气，人气成为敬爱。
 #18264	[!Mastery]빛의 그림자	[!Mastery]光影
 #18265	[!Mastery]현재의 내가 없었다면 내 과거는 그저 어둡고 암울한 이야기에 지나지 않지.	[!Mastery]如果没有现在的我，那过去的我不过是个充满阴影的故事罢了。
 #18267	[!Mastery]앙코르 공연	[!Mastery]再演
 #18268	[!Mastery]그대들이 내 이름을 외치는 한 무대는 끝나지 않는다!	[!Mastery]只要你们喊着我的名字，舞台就不会结束！
-#18270	[!Mastery]청중 압도하기	[!Mastery]压倒听众
+#18270	[!Mastery]청중 압도하기	[!Mastery]倾倒听众
 #18271	[!Mastery]내 이름은 뭐지! 자 외쳐! 나의 이름을!	[!Mastery]我的名字是什么！大声喊出来！我的名字！
 #18273	[!Mastery]순회 공연	[!Mastery]巡回演出
 #18274	[!Mastery]진정한 스타는 팬이 있는 곳이면 어디든지 간다.	[!Mastery]真正的明星是只要是有粉丝的地方，无论哪里都会去。
