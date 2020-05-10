@@ -1575,7 +1575,7 @@
 #3597	[!Reputation]화난 술통	[!Reputation]怒桶区
 #3599	[!Reputation]그늘 안개	[!Reputation]沉雾区
 #3601	[!Reputation]그림자 장벽	[!Reputation]影壁区
-#3603	[!Reputation]은빛 구름	[!Reputation]银云区
+#3603	[!Reputation]은빛 구름	[!Reputation]银彩区
 #3605	[!Reputation]하늘 바람	[!Reputation]天风区
 #3607	[!Reputation]노란귀 연구 단지	[!Reputation]黄耳研究园
 #3608	[!ReputationSectorType]상업 지구	[!ReputationSectorType]商业区
@@ -1627,10 +1627,10 @@
 #3659	[!Site]그림자 장벽 검문소	[!Site]影壁检查站
 #3660	[!Site]그림자 장벽 북단	[!Site]影壁区北部
 #3661	[!Site]그림자 장벽 남단	[!Site]影壁区南部
-#3662	[!Site]은빛 구름 뒷거리	[!Site]银云后巷
-#3663	[!Site]은빛 구름 재건축지구	[!Site]银云重建区
-#3664	[!Site]은빛 구름 거주구	[!Site]银云居民区
-#3665	[!Site]은빛 구름 거리	[!Site]银云大街
+#3662	[!Site]은빛 구름 뒷거리	[!Site]银彩后巷
+#3663	[!Site]은빛 구름 재건축지구	[!Site]银彩重建区
+#3664	[!Site]은빛 구름 거주구	[!Site]银彩居民区
+#3665	[!Site]은빛 구름 거리	[!Site]银彩大街
 #3668	[!Site]노란귀 뒷거리	[!Site]黄耳后巷
 #3669	[!Site]야수 연구소 거리	[!Site]野兽研究所大街
 #3670	[!Site]노란귀 선착장	[!Site]黄耳码头
@@ -3905,8 +3905,8 @@
 #7344	[!ObjectInfo]스푼교 돌격병	[!ObjectInfo]勺子教突击兵
 #7345	[!ObjectInfo]전파 방해기	[!ObjectInfo]电波干扰器
 #7346	[!Office]발할라, 세계수 지구, 삐죽빼죽 거리 80 노릇노릇 통나무집 201호	[!Office]巴赫拉,世界树地区,参差街80焦黄圆木屋201号
-#7347	[!Office]은빛 구름 역 5분 거리<br>발할라 경찰청과 5분 거리<br>주인과 협의 후 창고 사용 가능	[!Office]离银云站有5分钟距离<br>离巴赫拉警察厅有5分钟距离<br>使用仓库前需与主人协商
-#7348	[!Office]발할라, 바람장벽 지구, 은빛 구름 거리 356 실버라이닝 건물 102호	[!Office]巴赫拉,风之壁地区,银云大街356沙佛莱宁楼102号
+#7347	[!Office]은빛 구름 역 5분 거리<br>발할라 경찰청과 5분 거리<br>주인과 협의 후 창고 사용 가능	[!Office]离银彩站有5分钟距离<br>离巴赫拉警察厅有5分钟距离<br>使用仓库前需与主人协商
+#7348	[!Office]발할라, 바람장벽 지구, 은빛 구름 거리 356 실버라이닝 건물 102호	[!Office]巴赫拉,风之壁地区,银彩大街356沙佛莱宁楼102号
 #7349	[!Office]실버라이닝 102호	[!Office]沙佛莱宁102号
 #7351	[!Organization]스푼교	[!Organization]勺子教
 #7352	[!Rest]머리가 아플정도야...	[!Rest]头都痛了…
@@ -5103,7 +5103,7 @@
 #8961	[!Troublebook]내가 하고 싶은 것	[!Troublebook]我想做的事
 #8962	[!Troublebook]부모를 잃은 알버스는 발할라의 재해민 지원 정책에 따라 후견인으로 릴리가 지정된다. 그리고 거주지는 고향이 아닌 '세계수' 지구로 배정 받는다. 릴리 고모의 후원은 언제나 풍족했기에 부족함없이 지낼 수 있었지만 연고도 없는 곳에서 어린 나이에 모든 것을 혼자 해내야하는 것은 매우 힘든 일이었다. 그리고 알버스는 트러블슈터가 되자마자 고향으로 돌아가기를 결심한다.	[!Troublebook]失去双亲的阿尔伯斯根据巴赫拉的灾民支援政策，由莉莉姑姑被指定为他的监护人。并且，居住地从他的故乡变成了'世界树'地区。莉莉姑姑对他的支持总是颇丰，使得他的生活过得并不会过紧。但是在那个无亲无故的地方，小小年纪的他需要独自料理自己的生活却是个非常困难的事情。后来阿尔伯斯成为了纷争终结者之后，他决定回到故乡去。
 #8963	[!Troublebook]안녕. 세계수 지구	[!Troublebook]再见, 世界树地区
-#8964	[!Troublebook]은빛 구름 거리 356	[!Troublebook]银云大街356号
+#8964	[!Troublebook]은빛 구름 거리 356	[!Troublebook]银彩大街356号
 #8965	[!Troublebook]떠나는 날은 언제나...	[!Troublebook]离开的日子总是…...
 #8966	[!Troublebook]람지플라자에서 갑자기 벌어진 『스푼교』의 테러 사건은 알버스 혼자 감당하기엔 매우 힘든 일이었다. 하지만 현장에 있었던 사람들의 도움으로 가까스로 스푼교도들을 제압하게 된다.	[!Troublebook]蓝地广场上突发的『勺子教』恐怖事件对于阿尔伯斯来说是无法独自承担的。但是有了现场的人们的帮助，他才牵强地制服了勺子教信徒们。
 #8967	[!Troublebook]인연	[!Troublebook]缘分
@@ -5653,7 +5653,7 @@
 #9758	[!Troublebook]그늘 안개 거주구	[!Troublebook]沉雾居民区
 #9759	[!Troublebook]제 3 장. 가려진 음모	[!Troublebook]第三章。被掩盖的阴谋
 #9760	[!WordCollection]미니맵 보기	[!WordCollection]小地图
-#9765	[!Loading]은빛 구름 거리 233	[!Loading]银云大街233号
+#9765	[!Loading]은빛 구름 거리 233	[!Loading]银彩大街233号
 #9767	[!Mission]영일 공사장	[!Mission]永日工地
 #9768	[!Mission]가랑잎 공원	[!Mission]枯叶公园
 #9769	[!Mission]푸고 중심가 지하 주차장	[!Mission]府谷中央大街地下停车场
@@ -5677,7 +5677,7 @@
 #9789	[!Mission]자홍거리	[!Mission]紫红街
 #9790	[!Mission]람지플라자	[!Mission]蓝地广场
 #9791	[!Mission]113번 외곽 도로	[!Mission]113号外围道路
-#9792	[!Mission]은빛 구름 거리 356	[!Mission]银云大街356号
+#9792	[!Mission]은빛 구름 거리 356	[!Mission]银彩大街356号
 #9793	[!Mission]바 실버라이닝	[!Mission]沙佛莱宁酒吧
 #9795	[!Site]마른 장작 거리	[!Site]干柴街
 #9796	[!WordCollection]아이템 잠김	[!WordCollection]物品保护
@@ -8900,7 +8900,7 @@
 #15071	[!Mastery]원격 반응 공격	[!Mastery]远程反应攻击
 #15073	[!Mastery]에너지, 열, 일, 엔트로피와 과정의 자발성을 다루지.	[!Mastery]处理能量、热、功、熵和过程的自发性。
 #15074	[!Mastery]열역학	[!Mastery]热力学
-#15075	[!Mission]은빛 구름 시장 거리	[!Mission]银云市场街
+#15075	[!Mission]은빛 구름 시장 거리	[!Mission]银彩市场街
 #15076	[!Mission]외곽 도로 정비소	[!Mission]外围道路维修点
 #15077	[!MissionMemberState]작동 불능	[!MissionMemberState]启动不能
 #15078	[!MissionMemberState]치명적 파손	[!MissionMemberState]致命的破损
@@ -8918,8 +8918,8 @@
 #15094	[!PcState]심각한 파손	[!PcState]严重的破损
 #15095	[!PcState]가벼운 파손	[!PcState]轻微的破损
 #15096	[!Site]그늘 안개 거리 외곽	[!Site]沉雾外围区
-#15097	[!Site]은빛 구름 시장 거리	[!Mission]银云市场街
-#15101	[!Troublebook]은빛 구름 시장 거리	[!Troublebook]银云市场街
+#15097	[!Site]은빛 구름 시장 거리	[!Mission]银彩市场街
+#15101	[!Troublebook]은빛 구름 시장 거리	[!Troublebook]银彩市场街
 #15104	[!GuideMessage][colour='FFFFFF00']현재 게임 진행 정보는 다음 실행 시 이어하기를 통하여 진행하실 수 있습니다.	[!GuideMessage][colour='FFFFFF00']目前进行的游戏进度可以通过下次游戏启动时连接继续进行。
 #15105	[!GuideMessage]사용할 수 있는 회사 이름입니다.	[!GuideMessage]可以使用的公司名。
 #15108	[!SystemMessage]게임 진행 중 에러가 발생했습니다.	[!SystemMessage]游戏进行中发生了错误。
@@ -8959,7 +8959,7 @@
 #15148	[!Troublebook]원칙과 결과	[!Troublebook]原则和结果
 #15149	[!Troublebook]한 걸음 물러나서...	[!Troublebook]退一步...
 #15150	[!WordCollection]동기화 재활성화 : %d 시간 후	[!WordCollection]同步重激活 ：剩余%d
-#15151	[!Loading]은빛 구름 시장 거리	[!Mission]银云市场街
+#15151	[!Loading]은빛 구름 시장 거리	[!Mission]银彩市场街
 #15152	[!Loading]한 걸음 물러나서...	[!Loading]退一步...
 #15154	[!Ability]지원 프로토콜	[!Ability]支援协议
 #15157	[!Ability]화염 공격 커맨드	[!Ability]火焰攻击命令
@@ -10653,7 +10653,7 @@
 #17478	[!LobbyIdleMessage][!speaker:Sion]카일리 씨한테 가서 장비 수선 재료나 얻어 볼까...	[!LobbyIdleMessage][!speaker:Sion]去凯莉姐那弄点装备修补材料吧...
 #17481	[!LobbyIdleMessage][!speaker:Sion]하늘바람 포장마차거리에 가면 우동 하나 끝내주는 집이 하나 있어. 꼭 가봐.	[!LobbyIdleMessage][!speaker:Sion]去天风快餐街的话有家超好吃的乌冬面餐馆。一定要去下。
 #17482	[!LobbyIdleMessage][!speaker:Sion]푸고 상점가에는 진짜 맛있는 만두 포장마차가 있어. 강력 추천이야.	[!LobbyIdleMessage][!speaker:Sion]府谷商店街有超好吃的包子帐篷小店。强烈推荐。
-#17483	[!LobbyIdleMessage][!speaker:Sion]은빛구름 상점가에 가면 꽤 괜찮은 비빔밥 집이 있어.	[!LobbyIdleMessage][!speaker:Sion]银云商店街有家不错的拌饭店。
+#17483	[!LobbyIdleMessage][!speaker:Sion]은빛구름 상점가에 가면 꽤 괜찮은 비빔밥 집이 있어.	[!LobbyIdleMessage][!speaker:Sion]银彩商店街有家不错的拌饭店。
 #17484	[!LobbyIdleMessage][!speaker:Sion]사장님. 생전만두라고 먹어 봤어?  바닥은 노랗게 바삭바삭! 입에 넣으면 구수한 국물이 입안에 쫙 퍼지는 게 일품이야~♡	[!LobbyIdleMessage][!speaker:Sion]老板。吃过生煎包吗？底下金黄酥脆的发出咔嚓咔嚓声音！放在嘴里，香喷喷的肉汁在嘴里散开，超级好吃~♡
 #17485	[!LobbyIdleMessage][!speaker:Sion]다음 맛집은 어디로 갈까...	[!LobbyIdleMessage][!speaker:Sion]下家美食店去哪好呢...
 #17486	[!LobbyIdleMessage][!speaker:Sion]오늘 저녁은 파에야 어때? 해산물을 듬뿍 사용한 파에야 데 마리스코~♡	[!LobbyIdleMessage][!speaker:Sion]今天晚饭吃西班牙海鲜饭怎么样？用了很多海鲜的西班牙海鲜饭~♡
@@ -12854,7 +12854,7 @@
 #20212	[!QuestAcceptForm]의뢰를 보류합니다.	[!QuestAcceptForm]保留委托。
 #20213	[!QuestAcceptForm]의뢰를 완료합니다.	[!QuestAcceptForm]完成委托。
 #20217	[!QuestType]대결	[!QuestType]对决
-#20218	[!SystemMail][colour='FFFFE959']안녕하십니까. 발할라 제 13 지구. 바람장벽지구의 사무관 [colour='FFFFFFFF']하비에르[colour='FFFFE959']입니다.<br><br>$CompanyName$의 바람장벽 지구 트러블슈터 등록 신청에 따라 관할 구역이 '은빛 구름' 지역으로 배정되었음을 알려드립니다.<br><br>더 나은 미래를 위해 많은 도전을 해주시길 바랍니다.<br><br>[colour='FFFFFFFF']바람장벽 지구 사무관 하비에르	[!SystemMail][colour='FFFFE959']你们好，我是巴赫拉第13区风之壁地区的事务官[colour='FFFFFFFF']哈维尔[colour='FFFFE959']。<br><br>根据风之壁地区的纷争终结者登记申请，$CompanyName$的管辖区现分配到了'银云'地区。<br><br>为了更美好的未来，愿你踊跃挑战。<br><br>[colour='FFFFFFFF']风之壁地区事务官哈维尔敬上。
+#20218	[!SystemMail][colour='FFFFE959']안녕하십니까. 발할라 제 13 지구. 바람장벽지구의 사무관 [colour='FFFFFFFF']하비에르[colour='FFFFE959']입니다.<br><br>$CompanyName$의 바람장벽 지구 트러블슈터 등록 신청에 따라 관할 구역이 '은빛 구름' 지역으로 배정되었음을 알려드립니다.<br><br>더 나은 미래를 위해 많은 도전을 해주시길 바랍니다.<br><br>[colour='FFFFFFFF']바람장벽 지구 사무관 하비에르	[!SystemMail][colour='FFFFE959']你们好，我是巴赫拉第13区风之壁地区的事务官[colour='FFFFFFFF']哈维尔[colour='FFFFE959']。<br><br>根据风之壁地区的纷争终结者登记申请，$CompanyName$的管辖区现分配到了'银彩'地区。<br><br>为了更美好的未来，愿你踊跃挑战。<br><br>[colour='FFFFFFFF']风之壁地区事务官哈维尔敬上。
 #20219	[!WordCollection]모두 선택하기	[!WordCollection]选择全部
 #20220	[!WordCollection]주문서	[!WordCollection]订单
 #20221	[!WordCollection]제작 가능한 아이템의 숙련도	[!WordCollection]可制作的物品熟练度
@@ -12923,7 +12923,7 @@
 #20292	[!LobbyMenu]미니맵	[!BattleMenu]小地图
 #20294	[!Mastery]교묘한 낚시꾼	[!Mastery]狡猾的钓鱼人
 #20295	[!Mastery]시선을 잠시 분산시키면 무슨 일이 일어났는지 아무도 알 수 없다.	[!Mastery]暂时分散视线，就不会知道发生了什么事。
-#20297	[!Mission]은빛 구름 고물 처리장	[!Mission]银云旧货处理厂
+#20297	[!Mission]은빛 구름 고물 처리장	[!Mission]银彩旧货处理厂
 #20298	[!NamedEvent]외톨이 야샤	[!NamedEvent]孤零零的夜叉
 #20299	[!NamedEvent]회색 야샤	[!NamedEvent]灰色夜叉
 #20300	[!NamedEvent]히이익~ 히이익~	[!NamedEvent]咿咿~咿咿~
@@ -12932,7 +12932,7 @@
 #20303	[!PcState]적재량이 초과되어 전투에 참여할 수 없습니다.	[!PcState]因超载而无法参与战斗
 #20304	[!PcState]출력 부족	[!PcState]功率不足
 #20305	[!PcState]출력이 부족하여 전투에 참여할 수 없습니다.	[!PcState]因功率不足而无法参与战斗
-#20318	[!Site]은빛 구름 고물 처리장	[!Site]银云旧货处理厂
+#20318	[!Site]은빛 구름 고물 처리장	[!Site]银彩旧货处理厂
 #20319	[!WordCollection]상품 목록	[!WordCollection]商品目录
 #20320	[!WordCollection]판매 목록	[!WordCollection]已销售目录
 #20321	[!WordCollection]유실물 목록	[!WordCollection]遗失物目录
@@ -12959,7 +12959,7 @@
 #20344	[!ItemSet]전문 무두장이	[!ItemSet]制革工匠
 #20345	[!Loading]실력 테스트	[!Quest]实力测试
 #20346	[!Loading]사수거리 공원	[!Mission]射手街公园
-#20348	[!Loading]은빛 구름 고물 처리장	[!Loading]银云旧货处理厂
+#20348	[!Loading]은빛 구름 고물 처리장	[!Loading]银彩旧货处理厂
 #20349	[!Loading]화물 속의 불청객	[!Loading]货物中的不速之客
 #20351	[!Mastery]전문 무두장이 - 2 세트	[!Mastery]制革工匠 - 2 套装
 #20352	[!Mastery]전문 무두장이 - 3 세트	[!Mastery]制革工匠 - 3 套装
@@ -13020,11 +13020,11 @@
 #20454	[!Mission]은빛 중심가 지하 주차장	[!Mission]银色中央大街地下停车场
 #20456	[!Quest]어둠 속의 불청객	[!Quest]黑暗中的不速之客
 #20457	[!Quest]지하 주차장의 야샤를 처리하시오.	[!Quest]处理地下停车场的夜叉。
-#20462	[!QuestDesc]$Person(Roberto)$[은] 은빛 구름 지하 주차장에 나타난 $Job(Yasha)$를 처리하는 데 협력해달라고 요청한다.	[!QuestDesc]$Person(Roberto)$请求协助处理银云地下停车场出现的$Job(Yasha)$。
+#20462	[!QuestDesc]$Person(Roberto)$[은] 은빛 구름 지하 주차장에 나타난 $Job(Yasha)$를 처리하는 데 협력해달라고 요청한다.	[!QuestDesc]$Person(Roberto)$请求协助处理银彩地下停车场出现的$Job(Yasha)$。
 #20463	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Magma)$의 불타는 용암 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求从铁森林栖息的$Monster(Beast_Tima_Magma)$身上采取燃烧的熔岩皮革。
 #20464	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Spark)$의 빛나는 번개 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求从铁森林栖息的$Monster(Beast_Tima_Spark)$身上采取明亮的闪电皮革。
 #20465	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Glacier)$의 온전한 얼음 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求从铁森林栖息的$Monster(Beast_Tima_Glacier)$身上采取完整的寒冰甲。
-#20466	[!Site]은빛 구름 지하주차장	[!Site]银云地下停车场
+#20466	[!Site]은빛 구름 지하주차장	[!Site]银彩地下停车场
 #20467	[!Ability]바람의 힘을 이용해 원하는 지점으로 빠르게 이동합니다.	[!Ability]利用风之力迅速移动到目标地点。
 #20468	[!Ability]번개가 되어 원하는 지점으로 순간 이동합니다.	[!Ability]]化作闪电瞬间移动至想要去的地点。
 #20469	[!Ability]다리에 힘을 집중하여 순간적으로 목표 지점까지 빠른 이동을 합니다. 이동 시 비전투 상태 적의 대기, 순찰, 감시 등의 상태의 적에게 발각되어도 적은 회피 이동을 할 수 없습니다.	[!Ability]汇聚风的力量,瞬间快速移动到目标地点。移动过程中，就算被等待、巡逻、监视状态中的非战斗状态敌人发现，对方也不能进行闪避移动。
@@ -15325,7 +15325,7 @@
 #23454	[!GuideMessage]시야 제한 없음	[!GuideMessage]无视野限制
 #23455	[!GuideMessage]$Count$연타 공격	[!GuideMessage]$Count$连击
 #23456	[!Help]역병 구름	[!FieldEffect]瘟疫云
-#23457	[!Loading]은빛 구름 거리 뒷골목	[!Loading]银云后巷
+#23457	[!Loading]은빛 구름 거리 뒷골목	[!Loading]银彩后巷
 #23458	[!Mastery]애증	[!Mastery]爱憎
 #23459	[!Mastery]나쁜 길로 빠지는 가족을 누가 그냥 둘 수 있겠는가?	[!Mastery]怎么会有人让自己的家人走上错路呢？
 #23462	[!Troublebook]비는 눈물 따라 흐르고...	[!Troublebook]雨滴随着泪水流淌...
@@ -15612,15 +15612,15 @@
 #23752	[!WordCollection]편지 쓰기	[!LayoutKeyword]写邮件
 #23753	[!GuideMessage]불편을 끼쳐드려서 죄송합니다.<br>오류 보고에는 다음의 정보가 포함된 로그 파일이 첨부되며, 이 내용은 문제 해결과 Troubleshooter의 품질을 향상시키기 위해서만 사용됩니다.<br>- 사용자 정보 (컴퓨터 이름, 스팀 ID 등)<br>- OS 정보<br>- 하드웨어 정보 (CPU, GPU, 디스플레이, 오디오, 입력 장치 등)<br>- 게임 옵션 정보 (화면 해상도, 그래픽 설정 등)	[!GuideMessage]对不起给你造成了了麻烦。<br>错误报告将附有包含下列信息的Log文件，内容仅用于解决问题和提高纷争终结者游戏质量。<br>- 使用者信息(电脑名称，Steam ID等)<br>- OS情报<br>- 硬件情报(CPU，GPU，显示，音响，输入装置等)<br>- 游戏设置情报(屏幕分辨率，画面设置等)
 #23754	[!Loading]너를 위해...	[!Loading]为了你...
-#23755	[!Loading]은빛 구름 뒷거리	[!Site]银云后巷
-#23756	[!Mission]은빛 구름 뒷거리	[!Site]银云后巷
+#23755	[!Loading]은빛 구름 뒷거리	[!Site]银彩后巷
+#23756	[!Mission]은빛 구름 뒷거리	[!Site]银彩后巷
 #23757	[!ObjectInfo]알마	[!ObjectInfo]阿尔玛
 #23758	[!ObjectInfo]녹스	[!ObjectInfo]诺克斯
 #23759	[!ObjectInfo]안나	[!ObjectInfo]安娜
 #23760	[!OptionGameplay]캐릭터 연출 시 대사 표시	[!OptionGameplay]显示角色台词
 #23761	[!OptionGameplay]캐릭터 연출 시의 음성 대사를 자막으로 표시합니다.	[!OptionGameplay]将角色的语音台词以字幕显示。
 #23762	[!SystemMessage]로그 전송이 완료되었습니다.	[!SystemMessage]已发送完Log。
-#23764	[!Troublebook]은빛 구름 뒷거리	[!Site]银云后巷
+#23764	[!Troublebook]은빛 구름 뒷거리	[!Site]银彩后巷
 #23767	[!WordCollection]투명도 조절	[!WordCollection]调节透明度
 #23768	[!WordCollection]당신의 e-mail	[!WordCollection]您的e-mail
 #23769	[!WordCollection]전체 로그 파일 포함	[!WordCollection]包含所有的Log文件
