@@ -940,9 +940,9 @@
 #2107	[!ObjectInfo]앤	[!ObjectInfo]安
 #2108	[!ObjectInfo]티마	[!ObjectInfo]蒂玛
 #2109	[!ObjectInfo]검은 티마	[!ObjectInfo]黑色蒂玛
-#2110	[!ObjectInfo]빙하 티마	[!ObjectInfo]冰河蒂玛
+#2110	[!ObjectInfo]빙하 티마	[!ObjectInfo]冰川蒂玛
 #2111	[!ObjectInfo]용암 티마	[!ObjectInfo]熔岩蒂玛
-#2112	[!ObjectInfo]전격 티마	[!ObjectInfo]电击蒂玛
+#2112	[!ObjectInfo]전격 티마	[!ObjectInfo]闪电蒂玛
 #2114	[!ObjectInfo]비앙카	[!ObjectInfo]比安科
 #2115	[!ObjectInfo]자동차	[!ObjectInfo]汽车
 #2118	[!ObjectInfo]시야	[!ObjectInfo]视野
@@ -4935,17 +4935,17 @@
 #8745	[!MasteryType]전사	[!MasteryType]战士
 #8746	[!MasteryType]야샤	[!MasteryType]夜叉
 #8747	[!Mission]주유소 테러 막기	[!Mission]抵制加油站的恐怖行动
-#8748	[!ObjectInfo]새끼 암흑 야샤	[!ObjectInfo]暗黑夜叉幼崽
+#8748	[!ObjectInfo]새끼 암흑 야샤	[!ObjectInfo]幼生暗黑夜叉
 #8749	[!ObjectInfo]작은 암흑 야샤	[!ObjectInfo]小型暗黑夜叉
 #8750	[!ObjectInfo]암흑 야샤	[!ObjectInfo]暗黑夜叉
-#8752	[!ObjectInfo]새끼 암석 야샤	[!ObjectInfo]岩石夜叉幼崽
+#8752	[!ObjectInfo]새끼 암석 야샤	[!ObjectInfo]幼生岩石夜叉
 #8753	[!ObjectInfo]작은 암석 야샤	[!ObjectInfo]小型岩石夜叉
 #8754	[!ObjectInfo]암석 야샤	[!ObjectInfo]岩石夜叉
-#8756	[!ObjectInfo]새끼 얼음 야샤	[!ObjectInfo]寒冰夜叉幼崽
+#8756	[!ObjectInfo]새끼 얼음 야샤	[!ObjectInfo]幼生寒冰夜叉
 #8757	[!ObjectInfo]작은 얼음 야샤	[!ObjectInfo]小型寒冰夜叉
-#8760	[!ObjectInfo]새끼 전격 야샤	[!ObjectInfo]电击夜叉幼崽
-#8761	[!ObjectInfo]작은 전격 야샤	[!ObjectInfo]小型电击夜叉
-#8764	[!ObjectInfo]새끼 맹독 야샤	[!ObjectInfo]剧毒夜叉幼崽
+#8760	[!ObjectInfo]새끼 전격 야샤	[!ObjectInfo]幼生闪电夜叉
+#8761	[!ObjectInfo]작은 전격 야샤	[!ObjectInfo]小型闪电夜叉
+#8764	[!ObjectInfo]새끼 맹독 야샤	[!ObjectInfo]幼生剧毒夜叉
 #8765	[!ObjectInfo]작은 맹독 야샤	[!ObjectInfo]小型剧毒夜叉
 #8766	[!ObjectInfo]맹독 야샤	[!ObjectInfo]剧毒夜叉
 #8768	[!ObjectInfo]실버	[!ObjectInfo]白银
@@ -5608,8 +5608,8 @@
 #9690	[!GuideMessage]피해를 입은 대상은 최대 $Value$칸 뒤로 밀려납니다.	[!GuideMessage]受到伤害的目标最多被击退$Value$格。
 #9691	[!GuideMessage]안정된 자세에서 공격 시, $NotMoveAttackApplyAmountRatio$의 추가 피해를 입힙니다.	[!GuideMessage]以稳定姿势进行攻击时,造成$NotMoveAttackApplyAmountRatio$的附加伤害。
 #9692	[!Item]야샤 섬유	[!Item]夜叉纤维
-#9693	[!ObjectInfo]얼음 야샤	[!ObjectInfo]冰夜叉
-#9694	[!ObjectInfo]전격 야샤	[!ObjectInfo]电击夜叉
+#9693	[!ObjectInfo]얼음 야샤	[!ObjectInfo]寒冰夜叉
+#9694	[!ObjectInfo]전격 야샤	[!ObjectInfo]闪电夜叉
 #9695	[!Status]명중률	[!Status]命中率
 #9696	[!Status][!Short]명중률	[!Status][!Short]命中率
 #9697	[!Item]스틸헤드 장식	[!Item]铁头的装饰
@@ -5713,17 +5713,17 @@
 #9843	[!ObjectInfo]암석 왕도로리	[!ObjectInfo]岩石多罗利大王
 #9844	[!ObjectInfo]하얀 도로리	[!ObjectInfo]白色多罗利
 #9845	[!ObjectInfo]하얀 왕도로리	[!ObjectInfo]白色多罗利大王
-#9846	[!ObjectInfo]오색 도로리	[!ObjectInfo]五色多罗利
-#9847	[!ObjectInfo]오색 왕도로리	[!ObjectInfo]五色多罗利大王
+#9846	[!ObjectInfo]오색 도로리	[!ObjectInfo]五彩多罗利
+#9847	[!ObjectInfo]오색 왕도로리	[!ObjectInfo]五彩多罗利大王
 #9848	[!ObjectInfo]애쉬	[!ObjectInfo]灰烬
 #9851	[!DirectDamageType]생기 흡수	[!DirectDamageType]吸收活力
 #9852	[!GuideMessage]강력한 야수들과의 전투를 통하여 그들을 보다 효과적으로 상대하는 방법을 깨달았습니다.	[!GuideMessage]通过对战强大的野兽，领悟到了该如何更加有效地应付它们。
 #9853	[!Item]흑요석	[!Item]黑曜石
 #9854	[!Item]흠집난 흑요석	[!Item]有瑕疵的黑曜石
 #9855	[!Item]온전한 흑요석	[!Item]完整的黑曜石
-#9856	[!Item]오색요석	[!Item]五色曜石
-#9857	[!Item]흠집난 오색요석	[!Item]有瑕疵的五色曜石
-#9858	[!Item]온전한 오색요석	[!Item]完整的五色曜石
+#9856	[!Item]오색요석	[!Item]五彩曜石
+#9857	[!Item]흠집난 오색요석	[!Item]有瑕疵的五彩曜石
+#9858	[!Item]온전한 오색요석	[!Item]完整的五彩曜石
 #9859	[!Item]적요석	[!Item]赤曜石
 #9860	[!Item]흠집난 적요석	[!Item]有瑕疵的赤曜石
 #9861	[!Item]온전한 적요석	[!Item]完整的赤曜石
@@ -7159,7 +7159,7 @@
 #11998	[!NamedEvent]스푼교 수송대 리더	[!NamedEvent]勺子教运输队领队
 #11999	[!NamedEvent]키리릭~ 키리릭~	[!NamedEvent]桀桀~桀桀~
 #12000	[!NamedEvent]키리릭~	[!NamedEvent]桀桀~
-#12001	[!NamedEvent]얼음 야샤	[!NamedEvent]寒冰夜叉
+#12001	[!NamedEvent]얼음 야샤	[!NamedEvent]冰寒的夜叉
 #12002	[!NamedEvent]탐욕스러운 야샤	[!NamedEvent]贪婪的夜叉
 #12003	[!NamedEvent]나에게 좌절감을 가르쳐 준 것은 오직 스콧 대장뿐이다!	[!NamedEvent]给我挫败感的也只有斯科特队长一人而已!
 #12004	[!NamedEvent]너희들에게 좌절감이 무엇인지 알려주마!	[!NamedEvent]就让我教教你们什么叫挫败感吧!
@@ -7311,7 +7311,7 @@
 #12204	[!Mastery]기존사업을 과거와 같은 방식으로 지속하는 것은 앉아서 재난을 기다리는 것과 같다.	[!Mastery]用过去的方式继续做现在的事业，等同于坐以待毙。
 #12209	[!Mastery]끝없이 갈구하는 것은 이루어지기 마련이다.	[!Mastery]不断渴求，终会实现。
 #12210	[!Mastery]꿈은 이루어진다.	[!Mastery]梦想成真。
-#12213	[!ObjectInfo]모험가 도로리	[!ObjectInfo]冒险家多罗利
+#12213	[!ObjectInfo]모험가 도로리	[!ObjectInfo]探险者多罗利
 #12214	[!Mastery]이해할 수 없습니다.	[!Mastery]我无法理解的。
 #12215	[!Mastery]냉정한 거절	[!Mastery]冷漠的拒绝
 #12217	[!Mastery]포기하지 않는 자들이 기적을 만들 때 우리는 그들을 히어로라고 말한다.	[!Mastery]不抛弃不放弃的人们制造出的奇迹时，我们就叫他们为英雄。
@@ -7525,15 +7525,15 @@
 #12526	[!NamedEvent]다 받아낼테니 각오해.	[!NamedEvent]我会把你的一切都拿回来。觉悟吧。
 #12527	[!NamedEvent]다 먹고 살자고 하는 일인데 너무 한 것 아냐?	[!NamedEvent]都是为了生活，是不是太过分了啊？
 #12528	[!NamedEvent]밀수업자 브래드	[!NamedEvent]走私者布拉德
-#12529	[!ObjectInfo]검은 네구리	[!ObjectInfo]黑纳古利
-#12530	[!ObjectInfo]검은 왕네구리	[!ObjectInfo]王黑纳古利王
-#12531	[!ObjectInfo]점박이 네구리	[!ObjectInfo]斑纳古利
+#12529	[!ObjectInfo]검은 네구리	[!ObjectInfo]黑色纳古利
+#12530	[!ObjectInfo]검은 왕네구리	[!ObjectInfo]黑色纳古利大王
+#12531	[!ObjectInfo]점박이 네구리	[!ObjectInfo]斑点纳古利
 #12532	[!ObjectInfo]불꽃 네구리	[!ObjectInfo]火花纳古利
-#12533	[!ObjectInfo]불꽃 왕네구리	[!ObjectInfo]王火花纳古利
+#12533	[!ObjectInfo]불꽃 왕네구리	[!ObjectInfo]火花纳古利大王
 #12534	[!ObjectInfo]섬광 네구리	[!ObjectInfo]闪光纳古利
-#12535	[!ObjectInfo]섬광 왕네구리	[!ObjectInfo]王闪光纳古利
+#12535	[!ObjectInfo]섬광 왕네구리	[!ObjectInfo]闪光纳古利大王
 #12538	[!ObjectInfo]맹독 네구리	[!ObjectInfo]剧毒纳古利
-#12539	[!ObjectInfo]맹독 왕네구리	[!ObjectInfo]王剧毒纳古利
+#12539	[!ObjectInfo]맹독 왕네구리	[!ObjectInfo]剧毒纳古利大王
 #12540	[!ObjectInfo]알비노 네구리	[!ObjectInfo]白化纳古利
 #12541	[!ObjectInfo]브래드	[!ObjectInfo]布拉德
 #12542	[!ObjectInfo]밀수 연락책	[!ObjectInfo]走私联络人
@@ -7588,7 +7588,7 @@
 #13193	[!Item]마수의 발톱	[!Item]魔兽之爪
 #13194	[!Item]마수의 송곳니	[!Item]魔兽之牙
 #13195	[!Item]빛나는 흑요석	[!Item]明亮的黑曜石
-#13196	[!Item]빛나는 오색요석	[!Item]明亮的五色曜石
+#13196	[!Item]빛나는 오색요석	[!Item]明亮的五彩曜石
 #13197	[!Item]빛나는 적요석	[!Item]明亮的赤曜石
 #13198	[!Item]빛나는 백요석	[!Item]明亮的白曜石
 #13199	[!Item]빛나는 황요석	[!Item]明亮的黄曜石
@@ -7796,7 +7796,7 @@
 #13470	[!Item]자홍빛 사이러스 전투화보다 질이 더 높은 가죽을 사용하여 개선한 부츠.	[!Item]使用了比紫红色塞勒斯战靴质量更高的皮革的靴子。
 #13471	[!Item]자홍거리에서 유통되는 사이러스 전투화의 안감을 네구리 가죽으로 대체하여 개선한 부츠. 뒷세계에서 매우 인기 있는 부츠이다.	[!Item]将紫红街流通塞勒斯战靴的内衬换成了纳古利皮革而改善的靴子。在地下世界非常受欢迎。
 #13472	[!Item]남청빛 보나파르트 금빛 손목 고리	[!Item]藏蓝色波拿巴金色腕带
-#13473	[!Item]자홍빛 보나파르트 금빛 손목 고리에 오색요석으로 장식한 손목 고리.	[!Item]以五色耀石装饰的紫红色波拿巴金手链。
+#13473	[!Item]자홍빛 보나파르트 금빛 손목 고리에 오색요석으로 장식한 손목 고리.	[!Item]以五彩耀石装饰的紫红色波拿巴金手链。
 #13474	[!Item]남청빛 사이러스 코트	[!Item]藏蓝色塞勒斯外套
 #13475	[!Item]자홍빛 사이러스 코트의 기력 보존 능력을 끌어올린 코트로 시중에 보급된 코트 중 가장 뛰어난 기력 회복력을 자랑한다.	[!Item]提升了紫红色塞勒斯大衣的气力保存能力，是市面上流通的大衣中，气力恢复力最为优秀。 
 #13476	[!Item]자홍거리에서 유통되는 사이러스 코트를 강화한 코트. 뒷세계에서 매우 인기 있는 코트다.	[!Item]强化了紫红街流通的塞勒斯大衣。是地下世界非常受欢迎的大衣。
@@ -7807,7 +7807,7 @@
 #13481	[!Item]남청빛 사이러스 자켓	[!Item]藏蓝色塞勒斯夹克
 #13482	[!Item]자홍빛 사이러스 자켓을 개량하여 경화 시킨 자켓. 시중에 보급된 자켓 중 체력 증강 효과가 가장 뛰어난 제품이다.	[!Item]轻量化了紫红色塞勒斯夹克。在市面中普及的夹克中，体力增强效果最为优秀。
 #13483	[!Item]자홍거리에서 유통되는 사이러스 자켓을 개량하여 강화 시킨 자켓. 뒷세계에서 매우 인기 있는 자켓이다.	[!Item]强化了紫红街流通的塞勒斯夹克。在地下世界中非常受欢迎。
-#13484	[!Item]섬광 왕네구리 자켓	[!Item]王闪光纳古利夹克
+#13484	[!Item]섬광 왕네구리 자켓	[!Item]闪光纳古利大王夹克
 #13485	[!Item]왕네구리 가죽으로 만든 자켓으로 절연 기능이 매우 뛰어나다.	[!Item]以纳古利大王皮革制成的夹克，绝缘性能非常优秀。
 #13486	[!Item]베이비 A - 200	[!Item]倍比 A - 200
 #13487	[!Item]베이비 A - 100	[!Item]倍比 A - 100
@@ -7829,9 +7829,9 @@
 #13504	[!Item]남청빛 사이러스 운동화	[!Item]藏蓝色塞勒斯运动鞋
 #13505	[!Item]자홍빛 사이러스 운동화의 안감을 네구리 가죽으로 교체한 운동화.	[!Item]将紫红色塞勒斯运动鞋的内衬换为纳古利皮革的运动鞋。
 #13506	[!Item]자홍거리에서 유통되는 사이러스 운동화를 개량하여 경량화 시킨 운동화. 뒷세계에서 매우 인기 있는 부츠이다.	[!Item]在紫红街流通的，经过了加工轻量化的塞勒斯运动鞋。是一款在地下世界里非常有人气的皮鞋。
-#13507	[!Item]불꽃 왕네구리 운동화	[!Item]王火花纳古利运动鞋
+#13507	[!Item]불꽃 왕네구리 운동화	[!Item]火花纳古利大王运动鞋
 #13508	[!Item]왕네구리 가죽을 기본으로 밑창을 불꽃 가죽으로 만들어 방염 효과가 탁월한 운동화이다.	[!Item]以纳古利大王皮革作为底料，鞋底由火花皮革制成，可低于火焰效果的优秀运动鞋。
-#13509	[!Item]섬광 왕네구리 운동화	[!Item]王闪光纳古利运动鞋
+#13509	[!Item]섬광 왕네구리 운동화	[!Item]闪光纳古利大王运动鞋
 #13510	[!Item]왕네구리 가죽을 기본으로 밑창을 섬광 가죽으로 만들어 절연 효과가 탁월한 운동화이다.	[!Item]以纳古利大王皮革作为底料，鞋底由闪光皮革制成，可低于火焰效果的优秀运动鞋。
 #13511	[!Item]사이러스 저격총 S	[!Item]塞勒斯狙击步枪 S
 #13512	[!Item]사이러스 저격총 R의 강화형 버전. 탄의 관통력을 극대화시킨 저격총이다.	[!Item]塞勒斯狙击枪R的加强版。将弹丸的穿透力极大化的狙击枪。
@@ -7849,11 +7849,11 @@
 #13524	[!Item]동방연합의 저격수들에게 세계 대전 막바지에 보급된 신형 저격총. 이전 버전과 마찬가지로 뒷거리에서 유통은 되고 있지만 많은 물량이 적은 편이다.	[!Item]在世界大战末尾，向东方联盟狙击手们配发的新型狙击枪。与之前的版本一样，流通在后巷，但数量并不多。
 #13525	[!Item]남청빛 사이러스 활동복	[!Item]藏蓝色塞勒斯活动服
 #13526	[!Item]자홍빛 사이러스 활동복을 개량하여 경량화 시킨 활동복. 시중에 보급된 활동복 중 가장 가벼운 활동복으로 알려져있다.	[!Item]将紫红色塞勒斯活动服轻量化的活动服。据说是市面上流通的活动服中最轻的。
-#13527	[!Item]불꽃 왕네구리 활동복	[!Item]王火花纳古利活动服
+#13527	[!Item]불꽃 왕네구리 활동복	[!Item]火花纳古利大王活动服
 #13528	[!Item]왕네구리 가죽으로 만든 활동복으로 방염 처리가 매우 뛰어나다.	[!Item]以纳古利大王皮革制成的活动服，防火效果非常优秀。
 #13529	[!Item]남청빛 사이러스 손목 보호대	[!Item]藏蓝色塞勒斯护腕
 #13530	[!Item]자홍빛 사이러스 손목 보호대의 안감을 네구리 가죽으로 교체한 손목 보호대.	[!Item]将紫红色塞勒斯护腕的内衬替换为纳古利皮革的护腕。
-#13531	[!Item]불꽃 왕네구리 손목 보호대	[!Item]王火花纳古利护腕
+#13531	[!Item]불꽃 왕네구리 손목 보호대	[!Item]火花纳古利大王护腕
 #13532	[!Item]왕네구리 가죽으로 제작한 손목 보호대. 화염 이능력을 다루기 쉽도록 제작되었다.	[!Item]以纳古利大王皮革制作的护腕。可更轻易的使用火焰异能。
 #13533	[!ItemType]지젤 의상	[!ItemType]吉赛尔的服
 #13535	[!Mastery]피부를 타고 흐르는 뜨거운 점액을 상상해 봐.	[!Mastery]想象一下在皮肤上流淌的炙热粘液。
@@ -7895,13 +7895,13 @@
 #13594	[!Mastery]풍화	[!Mastery]风化
 #13598	[!MasteryCategory]부여	[!MasteryCategory]赋予
 #13599	[!MasteryType]네구리	[!MasteryType]纳古利
-#13600	[!ObjectInfo]작은 검은 네구리	[!ObjectInfo]小型的黑纳古利
-#13601	[!ObjectInfo]작은 불꽃 네구리	[!ObjectInfo]小型的火花纳古利
-#13602	[!ObjectInfo]작은 섬광 네구리	[!ObjectInfo]小型的闪光纳古利
-#13603	[!ObjectInfo]작은 진흙 네구리	[!ObjectInfo]小型的泥土纳古利
-#13604	[!ObjectInfo]진흙 네구리	[!ObjectInfo]泥土纳古利
-#13605	[!ObjectInfo]진흙 왕네구리	[!ObjectInfo]王泥土纳古利
-#13606	[!ObjectInfo]작은 맹독 네구리	[!ObjectInfo]小型的剧毒纳古利
+#13600	[!ObjectInfo]작은 검은 네구리	[!ObjectInfo]小型黑色纳古利
+#13601	[!ObjectInfo]작은 불꽃 네구리	[!ObjectInfo]小型火花纳古利
+#13602	[!ObjectInfo]작은 섬광 네구리	[!ObjectInfo]小型闪光纳古利
+#13603	[!ObjectInfo]작은 진흙 네구리	[!ObjectInfo]小型泥尘纳古利
+#13604	[!ObjectInfo]진흙 네구리	[!ObjectInfo]泥尘纳古利
+#13605	[!ObjectInfo]진흙 왕네구리	[!ObjectInfo]泥尘纳古利大王
+#13606	[!ObjectInfo]작은 맹독 네구리	[!ObjectInfo]小型剧毒纳古利
 #13607	[!PcState]사건 해결 활동에 의욕적인 상태입니다. 전투 시작 시 $BuffTitle$ 상태가 됩니다.	[!PcState]对解决事件活动充满积极向上的心态。战斗开始时将变成$BuffTitle$状态。
 #13608	[!PcState]주인을 매우 싫어하는 상태입니다. 전투 시작 시 $BuffTitle$ 상태가 됩니다.	[!PcState]极度讨厌主人的状态。战斗开始时将变成$BuffTitle$状态。
 #13609	[!PcState]반항적	[!PcState]叛逆的
@@ -8087,23 +8087,23 @@
 #13862	[!WordCollection][!Menu]길들이는 시간	[!WordCollection][!Menu]驯服时间
 #13864	[!WordCollection][!Menu]진화 필요 조건	[!WordCollection][!Menu]进化条件
 #13865	[!NamedEvent]네굴!!	[!NamedEvent]呐故!!
-#13866	[!NamedEvent]검은 왕네구리	[!NamedEvent]王黑纳古利
+#13866	[!NamedEvent]검은 왕네구리	[!NamedEvent]黑色纳古利
 #13867	[!NamedEvent]용감한 네구리	[!NamedEvent]勇敢的纳古利
 #13868	[!NamedEvent]네~~~굴~~~!	[!NamedEvent]呐~~~故~~~!
-#13869	[!NamedEvent]점박이 네구리	[!NamedEvent]斑纳古利
+#13869	[!NamedEvent]점박이 네구리	[!NamedEvent]斑点纳古利
 #13870	[!NamedEvent]방랑자 네구리	[!NamedEvent]流浪的纳古利
 #13871	[!NamedEvent]네굴 네굴	[!NamedEvent]呐故 呐故
-#13872	[!NamedEvent]불꽃 왕네구리	[!NamedEvent]王火花纳古利
+#13872	[!NamedEvent]불꽃 왕네구리	[!NamedEvent]火花纳古利大王
 #13873	[!NamedEvent]성실한 네구리	[!NamedEvent]诚实的纳古利
 #13874	[!NamedEvent]네~ 구울~!	[!NamedEvent]呐~ 故~!
-#13875	[!NamedEvent]섬광 왕네구리	[!NamedEvent]王闪光纳古利
+#13875	[!NamedEvent]섬광 왕네구리	[!NamedEvent]闪光纳古利大王
 #13876	[!NamedEvent]우렁찬 네구리	[!NamedEvent]洪亮的纳古利
 #13877	[!NamedEvent]네굴~	[!NamedEvent]呐故~
-#13878	[!NamedEvent]진흙 왕네구리	[!NamedEvent]王泥土纳古利
+#13878	[!NamedEvent]진흙 왕네구리	[!NamedEvent]泥尘纳古利大王
 #13879	[!NamedEvent]착실한 네구리	[!NamedEvent]老实的纳古利
 #13880	[!NamedEvent]네...굴...	[!NamedEvent]呐...故...
-#13881	[!NamedEvent]맹독 왕네구리	[!NamedEvent]王剧毒纳古利
-#13882	[!NamedEvent]게으른 네구리	[!NamedEvent]慵懒的纳古利
+#13881	[!NamedEvent]맹독 왕네구리	[!NamedEvent]剧毒纳古利大王
+#13882	[!NamedEvent]게으른 네구리	[!NamedEvent]懒惰的纳古利
 #13883	[!NamedEvent]네굴! 네굴!	[!NamedEvent]呐故! 呐故!
 #13884	[!NamedEvent]알비노 네구리	[!NamedEvent]白化纳古利
 #13885	[!NamedEvent]네구리 공주	[!NamedEvent]纳古利公主
@@ -8197,24 +8197,24 @@
 #14019	[!GuideMessage]특성 보유 개수가 충분하지 않습니다.	[!GuideMessage]天赋持有数量不足。
 #14020	[!GuideMessage]최대 훈련 점수를 초과했습니다.	[!GuideMessage]超过了最大天赋点。
 #14022	[!Item]진흙 갈기 부적	[!Item]泥土鬃毛护身符
-#14024	[!Item]진흙 왕네구리의 갈기로 만든 부적입니다.	[!Item]这是使用王泥土纳古利的鬃毛制作的符咒。
+#14024	[!Item]진흙 왕네구리의 갈기로 만든 부적입니다.	[!Item]这是使用泥尘纳古利大王的鬃毛制作的符咒。
 #14025	[!Item]불꽃 갈기 부적	[!Item]火花鬃毛护身符
-#14027	[!Item]불꽃 왕네구리의 갈기로 만든 부적입니다.	[!Item]这是使用王火花纳古利的鬃毛制作的符咒。
+#14027	[!Item]불꽃 왕네구리의 갈기로 만든 부적입니다.	[!Item]这是使用火花纳古利大王的鬃毛制作的符咒。
 #14028	[!Item]섬광 갈기 부적	[!Item]闪光鬃毛护身符
-#14030	[!Item]섬광 왕네구리의 갈기로 만든 부적입니다.	[!Item]这是使用王闪光纳古利的鬃毛制作的符咒。
-#14031	[!Item]신록 왕네구리 팔찌	[!Item]王新绿纳古利手镯
-#14032	[!Item]진흙 왕네구리 가죽으로 만든 팔찌. 대지 이능력을 다루기 쉬워진다.	[!Item]这是使用王泥土纳古利的皮制作的手镯。佩戴时可以更灵活地使用大地异能。
-#14033	[!Item]불꽃 왕네구리 팔찌	[!Item]王火花纳古利手镯
-#14034	[!Item]불꽃 왕네구리 가죽으로 만든 팔찌. 화염 이능력을 다루기 쉬워진다.	[!Item]这是使用王火花纳古利的皮制作的手镯。佩戴时可以更灵活地使用火焰异能。
-#14035	[!Item]섬광 왕네구리 팔찌	[!Item]王闪光纳古利手镯
-#14036	[!Item]섬광 왕네구리 가죽으로 만든 팔찌. 번개 이능력을 다루기 쉬워진다.	[!Item]这是使用王闪光纳古利的皮制作的手镯。佩戴时可以更灵活地使用闪电异能。
-#14037	[!Item]진흙 왕네구리 부츠	[!Item]王泥土纳古利靴子
+#14030	[!Item]섬광 왕네구리의 갈기로 만든 부적입니다.	[!Item]这是使用闪光纳古利大王的鬃毛制作的符咒。
+#14031	[!Item]신록 왕네구리 팔찌	[!Item]新绿纳古利大王手镯
+#14032	[!Item]진흙 왕네구리 가죽으로 만든 팔찌. 대지 이능력을 다루기 쉬워진다.	[!Item]这是使用泥尘纳古利大王的皮制作的手镯。佩戴时可以更灵活地使用大地异能。
+#14033	[!Item]불꽃 왕네구리 팔찌	[!Item]火花纳古利大王手镯
+#14034	[!Item]불꽃 왕네구리 가죽으로 만든 팔찌. 화염 이능력을 다루기 쉬워진다.	[!Item]这是使用火花纳古利大王的皮制作的手镯。佩戴时可以更灵活地使用火焰异能。
+#14035	[!Item]섬광 왕네구리 팔찌	[!Item]闪光纳古利大王手镯
+#14036	[!Item]섬광 왕네구리 가죽으로 만든 팔찌. 번개 이능력을 다루기 쉬워진다.	[!Item]这是使用闪光纳古利大王的皮制作的手镯。佩戴时可以更灵活地使用闪电异能。
+#14037	[!Item]진흙 왕네구리 부츠	[!Item]泥尘纳古利大王靴子
 #14038	[!Item]왕네구리 가죽을 기본으로 이능력 사용자의 부담감을 덜어주도록 만들어진 부츠.	[!Item]纳古利大王的皮为底，减轻异能使用者的负担感的靴子。
-#14039	[!Item]섬광 왕네구리 손목 고리	[!Item]王闪光纳古利手链
-#14040	[!Item]섬광 왕네구리 가죽으로 만든 손목 고리. 번개 이능력을 강화하는 효과를 가지고 있다.	[!Item]这是使用王闪光纳古利的皮制作的手链。带有强化闪电异能的效果。
-#14041	[!Item]진흙 왕네구리 코트	[!Item]王泥土纳古利外套
+#14039	[!Item]섬광 왕네구리 손목 고리	[!Item]闪光纳古利大王手链
+#14040	[!Item]섬광 왕네구리 가죽으로 만든 손목 고리. 번개 이능력을 강화하는 효과를 가지고 있다.	[!Item]这是使用闪光纳古利大王的皮制作的手链。带有强化闪电异能的效果。
+#14041	[!Item]진흙 왕네구리 코트	[!Item]泥尘纳古利大王外套
 #14042	[!Item]왕네구리 가죽으로 만든 코트로 이능력 사용자의 기력 회복에 많은 도움을 준다.	[!Item]以纳古利大王皮革制成的外套，以纳古利大王皮革制成的外套，适用了辅助异能者保持气力。
-#14043	[!Item]진흙 왕네구리 가죽 반지	[!Item]王泥土纳古利皮革戒指
+#14043	[!Item]진흙 왕네구리 가죽 반지	[!Item]泥尘纳古利大王皮革戒指
 #14044	[!ItemRank]세트	[!MasteryCategory]套装
 #14046	[!ItemSet]불꽃을 부르는 자	[!ItemSet]呼火花者
 #14047	[!ItemSet]번개를 부르는 자	[!ItemSet]呼闪电者
@@ -8281,7 +8281,7 @@
 #14128	[!NamedEvent]암석 왕도로리	[!ObjectInfo]岩石多罗利大王
 #14129	[!NamedEvent]욕심쟁이 도로리	[!ObjectInfo]贪得无厌的多罗利
 #14130	[!NamedEvent]끼아악! 끼아악!	[!NamedEvent]咳啊啊! 咳啊啊!!
-#14131	[!NamedEvent]오색 왕도로리	[!ObjectInfo]五色多罗利大王
+#14131	[!NamedEvent]오색 왕도로리	[!ObjectInfo]五彩多罗利大王
 #14132	[!NamedEvent]미치광이 도로리	[!NamedEvent]疯癫痴狂的多罗利
 #14133	[!NamedEvent]크르릉!	[!NamedEvent]吼吼!!
 #14134	[!NamedEvent]애쉬	[!ObjectInfo]灰烬
@@ -8293,7 +8293,7 @@
 #14140	[!NamedEvent]암석 야샤	[!ObjectInfo]岩石夜叉
 #14141	[!NamedEvent]기암의 야샤	[!NamedEvent]奇岩的夜叉
 #14142	[!NamedEvent]츄츗! 츄츗	[!NamedEvent]嚓嚓!嚓嚓!
-#14143	[!NamedEvent]전격 야샤	[!ObjectInfo]电击夜叉
+#14143	[!NamedEvent]전격 야샤	[!ObjectInfo]闪电夜叉
 #14144	[!NamedEvent]투영의 야샤	[!NamedEvent]投影的夜叉
 #14145	[!NamedEvent]슈슈슛~ 슈슈슛~	[!NamedEvent]嗖嗖嗖~嗖嗖嗖~
 #14146	[!NamedEvent]맹독 야샤	[!ObjectInfo]剧毒夜叉
@@ -10117,13 +10117,13 @@
 #16716	[!GameSystemMessageFormat]상자를 찾았습니다!	[!GameSystemMessageFormat]找到了箱子！
 #16717	[!GameSystemMessageFormat]발견한 적을 모두 처치하고 목표물 확보	[!Mission]请处理所有发现的敌人并保障目标物
 #16718	[!GameSystemMessageFormat]모든 적을 처치한 후에 박테리아 상자를 확보하셔야 합니다.	[!GameSystemMessageFormat]处置所有敌人后，再确保细菌箱子。
-#16719	[!GameSystemMessageFormat]점박이 네구리가 현장에 난입하였습니다.	[!Sentence][!FrontMessage]斑纳古利乱入现场。
+#16719	[!GameSystemMessageFormat]점박이 네구리가 현장에 난입하였습니다.	[!Sentence][!FrontMessage]斑点纳古利乱入现场。
 #16720	[!GameSystemMessageFormat]야수들이 분노하였습니다.	[!Sentence][!FrontMessage]野兽们被激怒。
 #16721	[!GameSystemMessageFormat]티마 무리가 현장으로 이동 중입니다.	[!Sentence][!FrontMessage]蒂玛群正在往现场聚拢。
 #16722	[!GameSystemMessageFormat]적 보스를 모두 제압하였습니다.	[!Sentence][!FrontMessage]敌人首领全部制服完毕。
 #16723	[!GameSystemMessageFormat]관리구역 내의 사냥을 종료하고 현장을 이탈합니다.	[!Sentence][!FrontMessage]中断管理区内的狩猎活动并逃离现场。
 #16724	[!GameSystemMessageFormat]관리구역 내의 모든 야수를 제압하였습니다.	[!Sentence][!FrontMessage]制服了管理区里的所有野兽。
-#16725	[!GameSystemMessageFormat]오색 도로리 무리가 나타났습니다.	[!Sentence][!FrontMessage]五色多罗利群出现了。
+#16725	[!GameSystemMessageFormat]오색 도로리 무리가 나타났습니다.	[!Sentence][!FrontMessage]五彩多罗利群出现了。
 #16726	[!GameSystemMessageFormat]터크가 방어선 공격을 시작합니다.	[!Sentence][!FrontMessage]图克开始攻击防线。
 #16727	[!GameSystemMessageFormat]줄리오가 방어선 공격을 시작합니다.	[!Sentence][!FrontMessage]朱利奥开始攻击防线。
 #16728	[!GameSystemMessageFormat]나암이 방어선 공격을 시작합니다.	[!Sentence][!FrontMessage]罗岩开始攻击防线。
@@ -10255,7 +10255,7 @@
 #16854	[!GameSystemMessageFormat]네구리 무리가 전자망 안으로 진입하였습니다.	[!Sentence][!FrontMessage]纳古利群进入了电网内。
 #16855	[!GameSystemMessageFormat]티마 무리가 전자망 안으로 진입하였습니다.	[!Sentence][!FrontMessage]蒂玛群进入了电网内部。
 #16856	[!GameSystemMessageFormat]야수들이 전자망 제어기를 적대 대상으로 인지하였습니다.	[!Sentence][!FrontMessage]野兽们把电网控制仪认定为敌对目标了。
-#16857	[!GameSystemMessageFormat]섬광 왕네구리가 현장에 난입하였습니다.	[!Sentence][!FrontMessage]王闪光纳古利闯入了现场。
+#16857	[!GameSystemMessageFormat]섬광 왕네구리가 현장에 난입하였습니다.	[!Sentence][!FrontMessage]闪光纳古利大王闯入了现场。
 #16858	[!GameSystemMessageFormat]전자망 제어기가 파괴되어 전자망을 복구할 수 없습니다.	[!Sentence][!FrontMessage]电网控制仪被破坏，无法修复。
 #16859	[!GameSystemMessageFormat]더 이상 이능석 표본을 확보할 '에너지 추출기'가 없습니다.	[!Sentence][!FrontMessage]没有多余的'能量提取仪'去提取异能石样本。
 #16860	[!GameSystemMessageFormat]이능석 표본을 확보할 '에너지 추출기'가 부족합니다.	[!Sentence][!FrontMessage]能量提取仪不足。
@@ -10370,15 +10370,15 @@
 #17003	[!NamedEvent]교활한 스네이크	[!NamedEvent]狡猾的斯内克
 #17004	[!NamedEvent]그냥 못 본 척 할 수 없나?	[!NamedEvent]不能装作没看见吗?
 #17005	[!NamedEvent]굳이 이렇게 시간 낭비해야겠나?	[!NamedEvent]何必这样浪费时间?
-#17006	[!ObjectInfo]탐험가 도로리	[!ObjectInfo]冒险家多罗利
+#17006	[!ObjectInfo]탐험가 도로리	[!ObjectInfo]探险者多罗利
 #17007	[!ObjectInfo]스푼교 신록술사	[!ObjectInfo]勺子教新绿术士
 #17008	[!ObjectInfo]스네이크	[!ObjectInfo]斯内克
 #17009	[!OptionGameplay]아군 목록에 턴 대기시간 표시하기	[!OptionGameplay]在队友名单上显示回合冷却时间
 #17010	[!OptionGameplay]미션 진행중에 우하단의 아군 목록에 다음 턴 대기시간을 표시합니다.	[!OptionGameplay]任务进行中，在右下端的队友目录中显示回合冷却时间
 #17011	[!AbilityDirectingEvent]지원 회복	[!AbilityDirectingEvent]支援恢复
 #17012	[!GameSystemMessageFormat]스푼교도와 밀수업자가 적대 관계가 되었습니다.	[!GameSystemMessageFormat]勺子教和走私者成为了敌对关系。
-#17013	[!GameSystemMessageFormat]모험가 도로리가 적대 관계가 되었습니다.	[!GameSystemMessageFormat]冒险家多罗利成为了敌对关系。
-#17014	[!GameSystemMessageFormat]모험가 도로리가 앤을 보고 흥분합니다.	[!GameSystemMessageFormat]冒险家多罗利看到安很兴奋。
+#17013	[!GameSystemMessageFormat]모험가 도로리가 적대 관계가 되었습니다.	[!GameSystemMessageFormat]探险者多罗利成为了敌对关系。
+#17014	[!GameSystemMessageFormat]모험가 도로리가 앤을 보고 흥분합니다.	[!GameSystemMessageFormat]探险者多罗利看到安很兴奋。
 #17015	[!GuideMessage]근접한 타일에 적대 대상이 없어야 사용 가능합니다.	[!GuideMessage]在附近的格子里没有敌对对象才可使用。
 #17016	[!GuideMessage]근접한 타일에 적대 대상이 있어 사용 불가능합니다.	[!GuideMessage]在附近的格子里有敌对对象，无法使用。
 #17017	[!GuideMessage]공격 어빌리티를 사용 할 경우, 해당 상태는 자동 해제 됩니다.	[!Buff]使用攻击技能时，该状态将自动解除。
@@ -12355,7 +12355,7 @@
 #19483	[!Item]빙결 스프레이 FHD-40S	[!Item]寒冰喷雾 FHD-40S
 #19484	[!Item]드라키의 뼛가루	[!Item]德拉基的骨粉
 #19485	[!Item]드라키의 부서진 뼈	[!Item]德拉基的碎骨
-#19486	[!Item]드라키의 온전한 뼈	[!Item]德拉基完全的骨头
+#19486	[!Item]드라키의 온전한 뼈	[!Item]完整的德拉基之骨
 #19487	[!Item]얇은 드라키 가죽	[!Item]轻薄的德拉基皮
 #19488	[!Item]드라키 가죽	[!Item]德拉基皮
 #19489	[!Item]두꺼운 드라키 가죽	[!Item]厚重的德拉基皮
@@ -12365,8 +12365,8 @@
 #19493	[!Item]드라키의 가슴 비늘	[!Item]德拉基的逆鳞
 #19494	[!Item]흠집난 드라키의 심장	[!Item]破损的德拉基之心
 #19495	[!Item]드라키의 심장	[!Item]德拉基之心
-#19496	[!Item]온전한 드라키의 심장	[!Item]完全的德拉基之心
-#19497	[!Item]빛나는 드라키의 심장	[!Item]闪烁的德拉基之心
+#19496	[!Item]온전한 드라키의 심장	[!Item]完整的德拉基之心
+#19497	[!Item]빛나는 드라키의 심장	[!Item]闪耀的德拉基之心
 #19498	[!ItemType]비늘	[!ItemType]鳞片
 #19499	[!Job]드라키	[!Job]德拉基
 #19500	[!Mastery]고결한 자아	[!Mastery]高洁的自我
@@ -12447,18 +12447,18 @@
 #19607	[!NamedEvent]서리 드라키 군주	[!NamedEvent]霜雪德拉基君主
 #19608	[!NamedEvent]그르 그르~	[!NamedEvent]咕呜~咕呜~
 #19609	[!NamedEvent]환상의 드라키	[!NamedEvent]幻想的德拉基
-#19610	[!NamedEvent]맹독 드라키 군주	[!NamedEvent]猛毒德拉基君主
+#19610	[!NamedEvent]맹독 드라키 군주	[!NamedEvent]剧毒德拉基君主
 #19611	[!NamedEvent]그르릉~	[!NamedEvent]嗷呜呜~
 #19616	[!NamedEvent]그류류~	[!NamedEvent]啊呜~
 #19617	[!ObjectInfo]드라키의 알	[!ObjectInfo]德拉基的蛋
-#19618	[!ObjectInfo]알 껍질의 새끼 드라키	[!ObjectInfo]蛋壳的小德拉基
-#19619	[!ObjectInfo]암석 새끼 드라키	[!ObjectInfo]岩石小德拉基
-#19620	[!ObjectInfo]불꽃 새끼 드라키	[!ObjectInfo]火花小德拉基
-#19621	[!ObjectInfo]섬광 새끼 드라키	[!ObjectInfo]闪光小德拉基
-#19622	[!ObjectInfo]서리 새끼 드라키	[!ObjectInfo]霜雪小德拉基
-#19623	[!ObjectInfo]맹독 새끼 드라키	[!ObjectInfo]剧毒小德拉基
-#19624	[!ObjectInfo]폭풍 새끼 드라키	[!ObjectInfo]暴风小德拉基
-#19625	[!ObjectInfo]암흑 새끼 드라키	[!ObjectInfo]暗黑小德拉基
+#19618	[!ObjectInfo]알 껍질의 새끼 드라키	[!ObjectInfo]破蛋的幼生德拉基
+#19619	[!ObjectInfo]암석 새끼 드라키	[!ObjectInfo]幼生岩石德拉基
+#19620	[!ObjectInfo]불꽃 새끼 드라키	[!ObjectInfo]幼生火花德拉基
+#19621	[!ObjectInfo]섬광 새끼 드라키	[!ObjectInfo]幼生闪光德拉基
+#19622	[!ObjectInfo]서리 새끼 드라키	[!ObjectInfo]幼生霜雪德拉基
+#19623	[!ObjectInfo]맹독 새끼 드라키	[!ObjectInfo]幼生剧毒德拉基
+#19624	[!ObjectInfo]폭풍 새끼 드라키	[!ObjectInfo]幼生暴风德拉基
+#19625	[!ObjectInfo]암흑 새끼 드라키	[!ObjectInfo]幼生暗黑德拉基
 #19626	[!ObjectInfo]암석 드라키	[!ObjectInfo]岩石德拉基
 #19627	[!ObjectInfo]불꽃 드라키	[!ObjectInfo]火花德拉基
 #19628	[!ObjectInfo]서리 드라키	[!ObjectInfo]霜雪德拉基
@@ -12466,13 +12466,13 @@
 #19630	[!ObjectInfo]맹독 드라키	[!ObjectInfo]剧毒德拉基
 #19631	[!ObjectInfo]폭풍 드라키	[!ObjectInfo]暴风德拉基
 #19632	[!ObjectInfo]암흑 드라키	[!ObjectInfo]暗黑德拉基
-#19633	[!ObjectInfo]암석 드라키 기사	[!ObjectInfo]岩石德拉基骑士
-#19634	[!ObjectInfo]불꽃 드라키 기사	[!ObjectInfo]火花德拉基骑士
-#19635	[!ObjectInfo]서리 드라키 기사	[!ObjectInfo]霜雪德拉基骑士
-#19636	[!ObjectInfo]섬광 드라키 기사	[!ObjectInfo]闪光德拉基骑士
-#19637	[!ObjectInfo]맹독 드라키 기사	[!ObjectInfo]剧毒德拉基骑士
-#19638	[!ObjectInfo]폭풍 드라키 기사	[!ObjectInfo]暴风德拉基骑士
-#19639	[!ObjectInfo]암흑 드라키 기사	[!ObjectInfo]暗黑德拉基骑士
+#19633	[!ObjectInfo]암석 드라키 기사	[!ObjectInfo]岩石德拉基侍卫
+#19634	[!ObjectInfo]불꽃 드라키 기사	[!ObjectInfo]火花德拉基侍卫
+#19635	[!ObjectInfo]서리 드라키 기사	[!ObjectInfo]霜雪德拉基侍卫
+#19636	[!ObjectInfo]섬광 드라키 기사	[!ObjectInfo]闪光德拉基侍卫
+#19637	[!ObjectInfo]맹독 드라키 기사	[!ObjectInfo]剧毒德拉基侍卫
+#19638	[!ObjectInfo]폭풍 드라키 기사	[!ObjectInfo]暴风德拉基侍卫
+#19639	[!ObjectInfo]암흑 드라키 기사	[!ObjectInfo]暗黑德拉基侍卫
 #19640	[!ObjectInfo]암석 드라키 남작 	[!ObjectInfo]岩石德拉基男爵
 #19641	[!ObjectInfo]불꽃 드라키 남작	[!ObjectInfo]火花德拉基男爵
 #19642	[!ObjectInfo]서리 드라키 남작	[!ObjectInfo]霜雪德拉基男爵
@@ -12635,14 +12635,14 @@
 #19848	[!Help]$Chain_Fracture$은 $Img_LavaField$용암 지형 효과 상태의 대상이 $/$얼음$/$ 속성 치명타 피해를 입을 때 발생합니다.	[!Help]$Chain_Fracture$是$Img_LavaField$向在熔岩地形状态的对象给予$/$寒冰$/$属性暴击伤害时产生。
 #19849	[!Loading]최상위 포식자	[!Loading]顶级捕食者
 #19850	[!Loading]철의 숲 버려진 동굴	[!Loading]铁森林被遗弃的洞穴
-#19852	[!Loading]드라키의 둥지	[!Loading]德拉基巢
+#19852	[!Loading]드라키의 둥지	[!Loading]德拉基巢穴
 #19856	[!Mission]철의 숲 버려진 동굴	[!Mission]铁森林被遗弃的洞穴
-#19857	[!Mission]드라키의 둥지	[!Mission]德拉基巢
+#19857	[!Mission]드라키의 둥지	[!Mission]德拉基巢穴
 #19858	[!Ability]항동결 수액	[!Mastery]抗冻结输液
 #19859	[!Ability]$ApplyBuff$ $ApplyTargetBuffLv$개가 추가 됩니다.	[!Ability]将增加$ApplyBuff$ $ApplyTargetBuffLv$个。
 #19860	[!Buff]움츠러든 비늘	[!Buff]萎缩之鳞
 #19861	[!Buff]피해량을 $ApplyAmountValue$ 감소시킵니다.	[!Buff]将减少$ApplyAmountValue$的伤害量。
-#19862	[!GameSystemMessageFormat]드라키 둥지로 들어가는 입구를 발견하였습니다.	[!GameSystemMessageFormat]发现了进入德拉基巢的入口。
+#19862	[!GameSystemMessageFormat]드라키 둥지로 들어가는 입구를 발견하였습니다.	[!GameSystemMessageFormat]发现了进入德拉基巢穴的入口。
 #19863	[!Item]드라키의 화려한 비늘	[!Item]华丽的德拉基之鳞
 #19864	[!Item]드라키 남작의 비늘입니다.	[!Item]德拉基男爵之鳞
 #19865	[!Item]드라키의 고귀한 비늘	[!Item]高贵的德拉基之鳞
@@ -12963,7 +12963,7 @@
 #20349	[!Loading]화물 속의 불청객	[!Loading]货物中的不速之客
 #20351	[!Mastery]전문 무두장이 - 2 세트	[!Mastery]制革工匠 - 2 套装
 #20352	[!Mastery]전문 무두장이 - 3 세트	[!Mastery]制革工匠 - 3 套装
-#20369	[!ObjectInfo]새끼 회색 야샤	[!ObjectInfo]灰色夜叉幼崽
+#20369	[!ObjectInfo]새끼 회색 야샤	[!ObjectInfo]幼生灰色夜叉
 #20370	[!ObjectInfo]작은 회색 야샤	[!ObjectInfo]小型灰色夜叉
 #20371	[!ObjectInfo]화물 상자	[!ObjectInfo]货物箱子
 #20372	[!Quest]화물 속의 불청객	[!Quest]货物中的不速之客。
@@ -14678,7 +14678,7 @@
 #22343	[!NamedEvent]속사의 스컬 피어스	[!NamedEvent]速射的骷髅戳穿者
 #22344	[!NamedEvent]총알이 아까운 녀석이군.	[!NamedEvent]对方弱的甚至有些舍不得浪费子弹。
 #22345	[!NamedEvent]다음 한 발이면 충분해	[!NamedEvent]下一发就足够杀掉了。
-#22346	[!NamedEvent]절망의 스컬 이터	[!NamedEvent]绝望的骷髅食者
+#22346	[!NamedEvent]절망의 스컬 이터	[!NamedEvent]绝望的骷髅吞噬者
 #22347	[!NamedEvent]자네의 절망하는 얼굴을 보고 싶군.	[!NamedEvent]真想看看你那充满绝望的脸。
 #22348	[!NamedEvent]조금 더 절망스러운 얼굴을 보여줘.	[!NamedEvent]让我看看你那更加绝望的脸。
 #22349	[!NamedEvent]알선업자	[!NamedEvent]代理人
@@ -14717,7 +14717,7 @@
 #22385	[!Item]난폭한 트롤 장갑	[!Item]粗暴的巨怪手套
 #22386	[!Item]스컬 크래셔의 이름을 부여받기 전 '난폭한 트롤'이라고 불리던 시절부터 사용한 전투 장갑.	[!Item]骷髅击碎者在获得这个名字之前被称为'粗暴的巨怪'时期所使用的战斗手套。
 #22387	[!Item]듀나메스 저격총 IBL - HK	[!Item]杜纳梅斯狙击枪IBL-HK
-#22388	[!Item]스컬 이터는 원래 조직에서 청소부 역할을 담당하였으나 트러블슈터 블랙펄과 전면전에서 지젤 발렌슈타인에 의해 많은 동료들이 너무 쉽게 무력화되는 것을 보고 저격수로 전직한다. 그리고 지젤의 오랜 경험에 대응하기 위해 듀나메스 사의 부패한 관리자를 매수해 자신을 위한 최고의 총을 제작한다.	[!Item]骷髅食者原本在组织中担任清道夫的角色，但在与黑珍珠的正面交锋中看到许多队友被吉赛尔沃伦斯坦击溃，于是改任成为狙击手。他为了对付有着多年经验的吉赛尔，收买了杜纳梅斯公司腐败的管理者来为自己制作最好的枪。
+#22388	[!Item]스컬 이터는 원래 조직에서 청소부 역할을 담당하였으나 트러블슈터 블랙펄과 전면전에서 지젤 발렌슈타인에 의해 많은 동료들이 너무 쉽게 무력화되는 것을 보고 저격수로 전직한다. 그리고 지젤의 오랜 경험에 대응하기 위해 듀나메스 사의 부패한 관리자를 매수해 자신을 위한 최고의 총을 제작한다.	[!Item]骷髅吞噬者原本在组织中担任清道夫的角色，但在与黑珍珠的正面交锋中看到许多队友被吉赛尔沃伦斯坦击溃，于是改任成为狙击手。他为了对付有着多年经验的吉赛尔，收买了杜纳梅斯公司腐败的管理者来为自己制作最好的枪。
 #22389	[!Item]지옥불 인장	[!Item]地狱火印章
 #22390	[!Item]지옥불의 코드 네임이 새겨져 있습니다.	[!Item]刻有地狱火的代号。
 #22391	[!Item]해골 인장	[!Item]骷髅印章
@@ -15248,7 +15248,7 @@
 #22931	[!QuestDesc]$Person(Roberto)$[은] $Person(Irene)$의 능력을 시험해 보고 싶어한다.	[!QuestDesc]$Person(Roberto)$想要测试$Person(Irene)$的实力。
 #22932	[!QuestDesc]$Person(Roberto)$[은] $Person(Anne)$의 능력을 시험해 보고 싶어한다.	[!QuestDesc]$Person(Roberto)$想要测试$Person(Anne)$的实力。
 #22937	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Spider_Poison2_Mutation)$의 돌연변이 맹독 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求取到栖息在铁森林的$Monster(Beast_Spider_Poison2_Mutation)$的突变剧毒皮。
-#22939	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Bat_Wind_Leader)$의 오색 왕도로리 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求取到栖息在铁森林的$Monster(Beast_Bat_Wind_Leader)$的五色多罗利大王皮。
+#22939	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Bat_Wind_Leader)$의 오색 왕도로리 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求取到栖息在铁森林的$Monster(Beast_Bat_Wind_Leader)$的五彩多罗利大王皮。
 #22940	[!QuestDesc]$JPerson(Oleg)$[는] 메트로디움 거주구로 흘러 들어간 자신의 화물을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Oleg)$要求回收自己的流入梅特罗迪翁居民区的货物。
 #22941	[!QuestDesc]$JPerson(Hundred)$[는] 자홍 거리에 방치된 폐기된 강화 드론의 부품을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Hundred)$要求回收放置在紫红街的被废弃的强化无人机的部件。
 #22944	[!QuestDesc]$JPerson(Dembel)$[는] $Org(Spoon)$[로] 입교한 $Org(AngryBull)$ 조직원이 가지고 있는 시곗줄을 찾아달라고 부탁한다.<br><br>목표 대상: $Monster(Gangster_SpoonFighter)$, $Monster(Gangster_SpoonSword)$, $Monster(Gangster_SpoonGun)$	[!QuestDesc]$JPerson(Dembel)$要求找到进入$Org(Spoon)$的$Org(AngryBull)$组员所拿着的表链。<br><br>目标对象: $Monster(Gangster_SpoonFighter)$, $Monster(Gangster_SpoonSword)$, $Monster(Gangster_SpoonGun)$
@@ -15257,7 +15257,7 @@
 #22947	[!QuestDesc]$JPerson(Sabana)$[는] $TargetItem$ $TargetCount$개를 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(Sabana)$要求取到$TargetCount$个$TargetItem$。
 #22948	[!QuestType_CollectItem_Kill]돌연변이 맹독 가죽	[!QuestType_CollectItem_Kill]突变剧毒皮
 #22949	[!QuestType_CollectItem_Kill]단단한 도로리 가죽	[!QuestType_CollectItem_Kill]坚硬的多罗利皮
-#22950	[!QuestType_CollectItem_Kill]오색 왕도로리 가죽	[!QuestType_CollectItem_Kill]五色多罗利大王皮
+#22950	[!QuestType_CollectItem_Kill]오색 왕도로리 가죽	[!QuestType_CollectItem_Kill]五彩多罗利大王皮
 #22953	[!NamedEvent]황소파 조직원	[!NamedEvent]公牛组组员
 #22954	[!ChatSubCategory]제작법 획득	[!ChatSubCategory]制作方法的获得
 #22955	[!GuideMessage]$Recipe$ 아이템의 제작법이 개방되었습니다.	[!GuideMessage]$Recipe$物品的制作方法已被开放。

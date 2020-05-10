@@ -5380,7 +5380,7 @@
 #13403	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]경찰청에서는 적어도 자원관리구역 내의 축적된 에너지 수치를 정상화한 후 자유 사냥을 하라는 지시입니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]警察厅有令，至少将资源管理区的能量储蓄值正常化之后再进行自由狩猎。
 #13408	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']그런 그들은 자네의 행동을 주시하고 있다네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']它们一直在关注着你的一举一动。
 #13409	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']무리가 분열하기 전에 싹이 될만한 자들을 모아 내가 나가겠네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']在族群彻底分崩离析之前，让我选出苗子们带走吧。
-#13414	[!Sentence][!Title]오색 왕도로리	[!Sentence][!Title]五色王多罗利大王
+#13414	[!Sentence][!Title]오색 왕도로리	[!Sentence][!Title]五彩多罗利大王
 #13417	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']우리의 아이들이 자라나고 있다. 적어도 그들이 당당한 전사가 되는 날까지 기다릴 수 없는가?	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']我们的孩子们正在成长啊。你就不能等到他们都长成英勇战士的那一天吗?
 #13419	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']결국 이렇게 되었군. 애쉬.	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']终究还是这样了。烟灰。
 #13422	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']진작에 무리를 나갔어야 했는데...	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']我早该退出族群的…
@@ -7456,17 +7456,17 @@
 #15879	[!Sentence][!BalloonChat][!speaker:Dorori]키악!! 키악!!	[!Sentence][!BalloonChat][!speaker:Luna_Serious]咳啊！咳啊！
 #15881	[!Sentence][!Dialog][!speaker:Anne_Strict]게다가 너. 얼른 숲으로 돌아가!	[!Sentence][!Dialog][!speaker:Anne_Strict]还有你。快回去森林吧！
 #15882	[!Sentence][!Dialog][!speaker:Anne_Tired]돌아가라니까... 난 널 기다린게 아니라고...	[!Sentence][!Dialog][!speaker:Anne_Tired]都叫你回去啦…我不是来等你的…
-#15883	[!Sentence]앤으로 모험가 도로리와 전투를 합니다.	[!Sentence]使用安和冒险家多罗利大王进行战斗。
+#15883	[!Sentence]앤으로 모험가 도로리와 전투를 합니다.	[!Sentence]使用安和探险者多罗利大王进行战斗。
 #15886	[!Sentence][!Choice]힘으로 쫓아낸다.	[!Sentence][!Choice]打跑。
-#15887	[!Sentence]모험가 도로리로 진행합니다.	[!Sentence]使用冒险家多罗利大王执行。
+#15887	[!Sentence]모험가 도로리로 진행합니다.	[!Sentence]使用探险者多罗利大王执行。
 #15891	[!Sentence][!Dialog][!speaker:Beast_Bat_Wind_Challenger_Normal][colour='FFFFFF00']끼약 끼약~!!!!!!!!!!!!!!!	[!Sentence][!Dialog][!speaker:Beast_Bat_Wind_Challenger_Normal][colour='FFFFFF00']咳啊 咳啊~！！！！！
-#15892	[!Sentence][!VictoryCondition]모험가 도로리를 제압하시오.	[!Sentence][!VictoryCondition]制服冒险家多罗利大王。
+#15892	[!Sentence][!VictoryCondition]모험가 도로리를 제압하시오.	[!Sentence][!VictoryCondition]制服探险者多罗利大王。
 #15893	[!Sentence][!Dialog][!speaker:Anne_Tired]난 너하고 같이 살 수 없어!	[!Sentence][!Dialog][!speaker:Anne_Tired]我不能和你一起生活的!
 #15894	[!Sentence]자신의 구애를 무시한 앤에게 분노하여 광분 상태가 됩니다.	[!Sentence]发现安无视自己的求爱，多罗利大王被激怒，进入疯狂状态。
 #15896	[!Sentence][!Dialog][!speaker:Anne_Tired_Smile]자 돌아가!	[!Sentence][!Dialog][!speaker:Anne_Tired_Smile]你回去吧 !
 #15897	[!Sentence][!BalloonChat][!speaker:Anne]지각했는데 그냥 가야지...	[!Sentence][!BalloonChat][!speaker:Anne]快迟到了就直接走好了…
 #15898	[!Sentence]앤과 빨리 가정을 꾸리고 싶은 마음으로 인하여 가속 상태가 됩니다.	[!Sentence]想尽快和安组建家庭的心情，使其进入加速状态。
-#15899	[!Sentence][!Objective]모험가 도로리를 제압하시오.	[!Sentence][!Objective]制服冒险家多罗利大王。
+#15899	[!Sentence][!Objective]모험가 도로리를 제압하시오.	[!Sentence][!Objective]制服探险者多罗利大王。
 #15900	[!Sentence][!Dialog][!speaker:Sion_Depressed]그럼 돌아가자... 나 너무 배고파...	[!Sentence][!Dialog][!speaker:Sion_Depressed]那回去吧…我好饿啊…
 #15902	[!Sentence][!Dialog][!speaker:Ray_Smile]응~☆ 나도 고마워~♡	[!Sentence][!Dialog][!speaker:Ray_Smile]嗯~☆我也要谢谢你~♡
 #15903	[!Sentence][!Dialog][!speaker:Kylie_Serious_Young]타이수. 인신매매는 조직에서 금지하고 있을텐데...?	[!Sentence][!Dialog][!speaker:Kylie_Serious_Young]太秀。我记得帮会里是禁止人口买卖的啊…？
@@ -15037,10 +15037,10 @@
 #25134	[!DialogQuest][!speaker:AL_Smile]납품업체에서 너희들이 구해준 도로리 가죽에 매우 만족하더군.	你们提供的多罗利大王皮让供货商很满意。
 #25135	[!DialogQuest][!speaker:Albus_Normal]다행입니다. 혹시나 납품업체에서 요구하신 물건과 다르면 말씀주세요. 다시 구해다 드리겠습니다.	真是万幸呢。如果跟要求的不一样的话请告诉我，我再取过来。
 #25136	[!DialogQuest][!speaker:AL_Smile]아냐. 그렇게 될 경우는 어쩔 수 없지. 나 역시 상인인데 상인이 자기 상품을 확보하는 과정에서 그 정도 손실을 감안해야지.	不，那样是不行的。我也是商人，商人在确保自己商品的过程中，应该同样考虑到这种程度的损失。
-#25137	[!DialogQuest][!speaker:AL_Normal]오색 왕도로리 가죽이네.	[!DialogQuest][!speaker:AL_Normal]五色王多罗利大王皮。
-#25138	[!DialogQuest][!speaker:Albus_Think]'오색 왕도로리라면... 자원관리구역인가...'	[!DialogQuest][!speaker:Albus_Think]'五色王多罗利大王的话...是资源管理区吗...'
-#25139	[!DialogQuest][!speaker:Sion_Normal]왕도로리 가죽이라면 쉽게 구할 수 있지~☆	[!DialogQuest][!speaker:Sion_Normal]王多罗利大王皮的话很容易就能取到的呢~☆
-#25140	[!DialogQuest][!speaker:AL_Normal]왕도로리 가죽이 아니라 오색 왕도로리 가죽이야.	[!DialogQuest][!speaker:AL_Normal]不是王多罗利大王皮而是五色王多罗利大王皮。
+#25137	[!DialogQuest][!speaker:AL_Normal]오색 왕도로리 가죽이네.	[!DialogQuest][!speaker:AL_Normal]五彩多罗利大王皮。
+#25138	[!DialogQuest][!speaker:Albus_Think]'오색 왕도로리라면... 자원관리구역인가...'	[!DialogQuest][!speaker:Albus_Think]'五彩多罗利大王的话...是资源管理区吗...'
+#25139	[!DialogQuest][!speaker:Sion_Normal]왕도로리 가죽이라면 쉽게 구할 수 있지~☆	[!DialogQuest][!speaker:Sion_Normal]多罗利大王皮的话很容易就能取到的呢~☆
+#25140	[!DialogQuest][!speaker:AL_Normal]왕도로리 가죽이 아니라 오색 왕도로리 가죽이야.	[!DialogQuest][!speaker:AL_Normal]不是罗利大王皮而是五彩多罗利大王皮。
 #25141	[!DialogQuest][!speaker:AL_Normal]뭐. 너희들이면 상관없으려나...	[!DialogQuest][!speaker:AL_Normal]嘛，你们的话应该没有关系吧...
 #25142	[!DialogQuest][!speaker:AL_Normal]여러모로 꾸준히 도와줘서 고맙다.	谢谢你一直帮忙。
 #25143	[!DialogQuest][!speaker:AL_Smile]덕분에 이 거리에 사람들이 많이 찾아와.	[!DialogQuest][!speaker:AL_Smile]多亏了你们，这条街上有很多人来。
