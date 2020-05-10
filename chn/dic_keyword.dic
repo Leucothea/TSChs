@@ -608,7 +608,7 @@
 #1330	[!Mastery]날렵함	[!Mastery]敏捷
 #1333	[!Mastery]알리바바	[!Mastery]阿里巴巴
 #1336	[!Mastery]기습	[!Mastery]奇袭
-#1339	[!Mastery]성난 황소	[!Mastery]暴怒公牛
+#1339	[!Mastery]성난 황소	[!Mastery]愤怒的狂牛
 #1341	[!Mastery]신비한 힘	[!Mastery]神秘之力
 #1343	[!Mastery]영웅의 일격	[!Mastery]英雄一击
 #1355	[!Mastery]야수사냥꾼	[!Mastery]野兽猎人
@@ -730,7 +730,7 @@
 #1684	[!Mastery]근육 단련	[!Mastery]肌肉锻炼
 #1687	[!Mastery]자연의 균형	[!Mastery]自然的平衡
 #1690	[!Mastery]신경 회로	[!Mastery]神经回路
-#1693	[!Mastery]하나씩	[!Mastery]一个接一个
+#1693	[!Mastery]하나씩	[!Mastery]一个个
 #1696	[!Mastery]한방에 한 명씩	[!Mastery]一枪一个
 #1698	[!Mastery]절호의 일격	[!Mastery]绝妙一击
 #1701	[!Mastery]생명의 기원	[!Mastery]生命的起源
@@ -1004,9 +1004,9 @@
 #2232	[!ObjectInfo]서버	[!ObjectInfo]服务器
 #2235	[!ObjectInfo]시온	[!ObjectInfo]席翁
 #2236	[!ObjectInfo]스컬	[!ObjectInfo]骷髅
-#2237	[!ObjectInfo]스틸헤드 시위꾼	[!ObjectInfo]铁首示威者
-#2238	[!ObjectInfo]스틸헤드 속도광	[!ObjectInfo]铁首速度狂人
-#2239	[!ObjectInfo]스틸헤드 싸움꾼	[!ObjectInfo]铁首战斗专家
+#2237	[!ObjectInfo]스틸헤드 시위꾼	[!ObjectInfo]铁头示威者
+#2238	[!ObjectInfo]스틸헤드 속도광	[!ObjectInfo]铁头速度狂人
+#2239	[!ObjectInfo]스틸헤드 싸움꾼	[!ObjectInfo]铁头战斗专家
 #2243	[!ObjectInfo]감시망	[!ObjectInfo]监视网
 #2248	[!ObjectInfo]수송 드론	[!ObjectInfo]运输无人机
 #2249	[!ObjectInfo]제인	[!ObjectInfo]珍
@@ -1552,7 +1552,7 @@
 #3553	[!Organization]흑호	[!Organization]黑虎
 #3555	[!Organization]크로우	[!Organization]克劳
 #3556	[!Organization]스컬	[!Organization]骷髅
-#3558	[!Organization]스틸헤드	[!Organization]铁首
+#3558	[!Organization]스틸헤드	[!Organization]铁头
 #3560	[!Organization]거리 불량배	[!Organization]街头流氓
 #3562	[!Organization]발할라 경찰청	[!Organization]巴赫拉警察厅
 #3563	[!Organization]벤데타	[!Organization]凡蒂塔
@@ -1584,7 +1584,7 @@
 #3611	[!ReputationSectorType]특수 지구	[!ReputationSectorType]特别区
 #3612	[!Sector]아테르 제국	[!Sector]阿泰尔帝国
 #3613	[!Sector]카라스연방	[!Sector]卡拉斯联邦
-#3614	[!Sector]고난의 성채	[!Sector]苦痛要塞
+#3614	[!Sector]고난의 성채	[!Sector]苦难的城寨
 #3615	[!Sector]발할라	[!Sector]巴赫拉
 #3616	[!Site]재의 강 하류	[!Site]烬夜江下游
 #3617	[!Site]가시나무 수용소	[!Site]荆棘树收容所
@@ -2339,7 +2339,7 @@
 #4759	[!FilteringWord]발할라 조달청	[!FilteringWord]巴赫拉调度厅
 #4760	[!FilteringWord]발할라 경찰청	[!FilteringWord]巴赫拉警察厅
 #4761	[!FilteringWord]동방정공	[!FilteringWord]东方精工
-#4762	[!FilteringWord]스틸헤드	[!FilteringWord]铁首
+#4762	[!FilteringWord]스틸헤드	[!FilteringWord]铁头
 #4763	[!FilteringWord]어나미머스	[!FilteringWord]匿名组织
 #4764	[!FilteringWord]크로우	[!FilteringWord]乌鸦
 #4765	[!FilteringWord]거리 불량배	[!FilteringWord]街头流氓
@@ -2409,7 +2409,7 @@
 #4865	[!Mastery]집중 포화	[!Mastery]集中炮轰
 #4868	[!Ability]$DamageAmount$의 $DamageType$ 피해를 입힙니다. 피해를 입은 대상은 $ApplyBuffChance$ 확률로 $ApplyBuff$ 상태가 됩니다.	[!Ability]受到$DamageAmount$的$DamageType$伤害。受到伤害的目标有$ApplyBuffChance$几率变成$ApplyBuff$状态。
 #4871	[!AbilityDirectingEvent]별빛 방패!	[!AbilityDirectingEvent]星光盾牌!
-#4872	[!Item]스틸헤드 팔찌	[!Item]铁首手镯
+#4872	[!Item]스틸헤드 팔찌	[!Item]铁头手镯
 #4892	[!Mastery]근접 사격	[!Mastery]近身射击
 #4895	[!ChatSubCategory]적군의 상태 효과 무효화	[!ChatSubCategory]使对方的状态效果无效
 #4896	[!ChatSubCategory]적군의 상태 이상 면역	[!ChatSubCategory]免疫对方的异常状态效果
@@ -2810,10 +2810,10 @@
 #5566	[!Item]분홍 표범 자켓	[!Item]粉豹夹克
 #5567	[!Item]핑크 혼이 처음 사람을 해쳤을 때, 밀려오는 후회와 죄책감을 떨쳐 버릴 수 있었던 것은 어린 시절 '도깨비 핑크'의 이야기였다. 약하고 힘없는 아이들을 괴롭히는 녀석들을 무참히 밟아버리는 도깨비 핑크의 이야기는 지금 핑크 혼의 모습 그 자체가 되어가고 있다.	[!Item]粉色角第一次害人时，让他甩掉涌来的后悔和罪恶感的是小时候听过的'鬼怪粉红'的故事。无情踩踏欺负柔弱无力的孩子们的鬼怪粉红的故事，如今这已经成为了粉色角他自己的故事了。
 #5568	[!Item]해골복	[!Item]骷髅服
-#5570	[!Item]스틸헤드 집회복	[!Item]铁首集会服
-#5571	[!Item]과거 앨리 시절, 카터의 폭주팀 강철머리 팀의 집회복.	[!Item]在过去的艾丽时期,卡特的暴走组铁首组的集会服。
-#5572	[!Item]스틸헤드 리더복	[!Item]铁首首领服
-#5573	[!Item]앨리 시절, 카터는 자신을 따르는 동료들과 함께 팀 '스틸헤드'를 만든다. 팀 스틸헤드는 언제나 버려진 아이들의 편이었고 약자를 착취하려는 자들의 적이었다.	[!Item]艾丽时期,卡特领着追随自己的同伴们一起组建了'铁首'。铁首组总是和被遗弃的孩子们站在一队，是剥削弱者的人们的敌人。
+#5570	[!Item]스틸헤드 집회복	[!Item]铁头集会服
+#5571	[!Item]과거 앨리 시절, 카터의 폭주팀 강철머리 팀의 집회복.	[!Item]在过去的艾丽时期,卡特的暴走组铁头组的集会服。
+#5572	[!Item]스틸헤드 리더복	[!Item]铁头首领服
+#5573	[!Item]앨리 시절, 카터는 자신을 따르는 동료들과 함께 팀 '스틸헤드'를 만든다. 팀 스틸헤드는 언제나 버려진 아이들의 편이었고 약자를 착취하려는 자들의 적이었다.	[!Item]艾丽时期,卡特领着追随自己的同伴们一起组建了'铁头'。铁头组总是和被遗弃的孩子们站在一队，是剥削弱者的人们的敌人。
 #5574	[!Item]일반 집회복	[!Item]普通集会服
 #5575	[!Item]길거리 폭력배들이 주로 입는 집회복이다. 시중의 평상복에 저가의 방탄 처리가 되어 있다.	[!Item]街头恶徒们主要穿戴的集会服。是市面上的常服上带有便宜的防弹处理的服装。
 #5576	[!Item]순백 집회복	[!Item]纯白集会服
@@ -2908,7 +2908,7 @@
 #5783	[!Item]발할라 경찰들에게 보급된지 10년이 넘는 자동 소총. 대부분 외곽 지구 경찰들이 사용하고 있다.	[!Item]普及到巴赫拉警察手里已经过了10年的自动步枪。大部分的外围地区的警察们使用它。
 #5784	[!Item]팔찌의 재질을 카본화하여 착용자들의 사용성을 증가시켰다. 근접 전투를 병행하는 이능력자들 사이에서 많은 인기를 얻고 있다.	[!Item]使手镯的材质碳化,提升了用户的实用性。并在近身战斗的异能者之间拥有较高的人气。
 #5785	[!Item]이능력 사용자의 기력을 유지하기 쉽도록 도와주는 시스템이 적용된 팔찌로 많은 활동성을 가지는 이능력자들 사이에서는 필수 아이템이다.	[!Item]增加了辅助异能者保持气力的系统的手镯，是活动性较强的超能力者的必需品。
-#5786	[!Item]스틸헤드 팀 창설부터 지금까지 카터는 수많은 팔찌들을 사용하고 버려왔다. 하지만 3년 전, 앨리가 발할라와 병합되자 팀 스틸헤드를 해체하면서 이 팔찌에 스틸헤드 문양을 새겨넣었고 현재까지 계속 사용하고 있다.	[!Item]铁首组自组建以来，卡特用了无数的手镯又废弃了无数个。但是三年前,艾丽和巴赫拉合并后解散了铁首组,当时在这个手镯上刻入了铁首纹样,并使用至今。
+#5786	[!Item]스틸헤드 팀 창설부터 지금까지 카터는 수많은 팔찌들을 사용하고 버려왔다. 하지만 3년 전, 앨리가 발할라와 병합되자 팀 스틸헤드를 해체하면서 이 팔찌에 스틸헤드 문양을 새겨넣었고 현재까지 계속 사용하고 있다.	[!Item]铁头组自组建以来，卡特用了无数的手镯又废弃了无数个。但是三年前,艾丽和巴赫拉合并后解散了铁头组,当时在这个手镯上刻入了铁头纹样,并使用至今。
 #5787	[!Item]팔찌의 내구성과 경량화를 통하여 활동성의 제약이 거의 없다.	[!Item]手镯的内部结构和轻型化设计，对活动性的限制几乎为零。
 #5788	[!Item]정령 팔찌	[!Item]精灵手镯
 #5789	[!Item]발할라의 이능력 사용자들에게 가장 많이 보급되어 있는 보급형 이능력 증폭기이다. 기본적으로 사용자의 건강 보조기구 역활을 동시에 한다.	[!Item]巴赫拉的异能者使用的最普遍的泛用型异能增幅器。同时带有基础性的用户健康辅助功能。
@@ -3200,7 +3200,7 @@
 #6168	[!GuideMessage]작성중인 메일이 있습니다. 그래도 진행합니까?	[!GuideMessage]有编辑中的邮件。还继续吗?
 #6169	[!Loading]없음	[!Loading]无
 #6177	[!Mastery]이슬비 내리는 이른 아침을 걸어보았는가?	[!Mastery]你有过在飘着毛毛雨的清晨散步的经历吗?
-#6178	[!Mastery]이슬비	[!Mastery]微雨
+#6178	[!Mastery]이슬비	[!Mastery]细雨
 #6189	[!Mastery]흐르는 물	[!Mastery]流水
 #6192	[!Status]대지 SP	[!Status]大地SP
 #6193	[!Status][!Short]대지	[!Status][!Short]大地
@@ -5612,8 +5612,8 @@
 #9694	[!ObjectInfo]전격 야샤	[!ObjectInfo]闪电夜叉
 #9695	[!Status]명중률	[!Status]命中率
 #9696	[!Status][!Short]명중률	[!Status][!Short]命中率
-#9697	[!Item]스틸헤드 장식	[!Item]铁首的装饰
-#9698	[!Item]팀 스틸헤드의 상징물입니다.	[!Item]铁首队的标志。
+#9697	[!Item]스틸헤드 장식	[!Item]铁头的装饰
+#9698	[!Item]팀 스틸헤드의 상징물입니다.	[!Item]铁头队的标志。
 #9699	[!Item]이능석으로 만들어진 은빛 해골 머리 장식입니다.	[!Item]用异能石制成的银色的骷髅装饰。
 #9701	[!Mastery]그대에게 베푸는 최대의 관용일세. 단 한발.	[!Mastery]这是我给你的最大的宽容。只一枪。
 #9702	[!Mastery]핏빛 탄환	[!Mastery]血色弹丸
@@ -6856,7 +6856,7 @@
 #11607	[!Item]화염 스프레이 WD-40U	[!Item]火焰喷雾WD-40U
 #11608	[!Item]빙결 스프레이 CW-40U	[!Item]寒冰喷雾CW-40U
 #11609	[!Item]카오스 브러시 자켓	[!Item]混沌刷夹克
-#11610	[!Item]『스틸 헤드』시절부터 레이가 계속 수선하여 사용하는 자켓, 『카오스 브러시』팀을 만들면서 등 뒤에 팀 로고를 추가하였다.	[!Item]从『铁首』时代开始使用的夹克。组成『混沌刷』团队以后背面添加了一个团队标志。
+#11610	[!Item]『스틸 헤드』시절부터 레이가 계속 수선하여 사용하는 자켓, 『카오스 브러시』팀을 만들면서 등 뒤에 팀 로고를 추가하였다.	[!Item]从『铁头』时代开始使用的夹克。组成『混沌刷』团队以后背面添加了一个团队标志。
 #11612	[!NamedEvent]지금이 마지막 기회다. 보내줄 때 가라.	[!NamedEvent]现在是最后一次机会了。让你走的时候就快走吧。
 #11613	[!NamedEvent]지금 도망간다면 쫓지 않겠네.	[!NamedEvent]现在逃走的话我不会追的。
 #11614	[!NamedEvent]해체전문가 창	[!NamedEvent]拆解专家昌
@@ -9588,7 +9588,7 @@
 #16037	[!ObjectInfo]쇼타로	[!ObjectInfo]祥太郎
 #16038	[!ObjectInfo]여자 공대생	[!ObjectInfo]女工科生
 #16039	[!ObjectInfo]남자 공대생	[!ObjectInfo]男工科生
-#16040	[!ObjectInfo]샤오밍	[!ObjectInfo]晓明
+#16040	[!ObjectInfo]샤오밍	[!ObjectInfo]枭明
 #16041	[!Status]최대 적재량 증가량	[!Status]最大载重量增加量
 #16042	[!Status][!Short]최대 적재량 증가량	[!Status]最大载重量增加量
 #16044	[!Troublebook]과거는 묻어두고...	[!Troublebook]埋没过去...
@@ -9807,7 +9807,7 @@
 #16300	[!Mastery]절대 인간을 얕보지 마라.	[!Mastery]千万不要小看人类。
 #16301	[!Mastery]인간사냥꾼	[!Mastery]人类猎人
 #16303	[!Mastery]한 순간이지만 그 견고함은 누구보다 강하다.	[!Mastery]虽然只是一瞬间，但是其坚固性比谁都强大。
-#16304	[!Mastery]얼음성	[!Mastery]冰冻性
+#16304	[!Mastery]얼음성	[!Mastery]冰城
 #16306	[!Mastery]영웅은 전설을 파괴함으로써 전설을 만든다. 	[!Mastery]英雄就是打破传说创造传奇。
 #16307	[!Mastery]전설사냥꾼	[!Mastery]传奇猎人
 #16309	[!Mastery]이리온. 아가야.	[!Mastery]来吧，孩子。
@@ -11169,7 +11169,7 @@
 #18035	[!LobbyIdleMessage][!speaker:Ray]카터는 다른 사람들에게 피해를 주면서까지 무엇을 하려는 걸까...	[!LobbyIdleMessage][!speaker:Ray]卡特给别人伤害到底是想要做什么呢...
 #18036	[!LobbyIdleMessage][!speaker:Ray]발할라는 위선적인 도시야...	[!LobbyIdleMessage][!speaker:Ray]巴赫拉是个充满伪善的城市...
 #18037	[!LobbyIdleMessage][!speaker:Ray]앨리를 떠나지 말았어야 했나...	[!LobbyIdleMessage][!speaker:Ray]是不应该离开艾丽的吗...
-#18038	[!LobbyIdleMessage][!speaker:Ray]헤이싱은 어떻게 고난의 성채를 빠져 나왔을까...	[!LobbyIdleMessage][!speaker:Ray]黑星到底是怎么离开苦痛要塞的...
+#18038	[!LobbyIdleMessage][!speaker:Ray]헤이싱은 어떻게 고난의 성채를 빠져 나왔을까...	[!LobbyIdleMessage][!speaker:Ray]黑星到底是怎么离开苦难的城寨的...
 #18039	[!LobbyIdleMessage][!speaker:Ray]레톤은 카터를 말릴 생각이 없는 건가...	[!LobbyIdleMessage][!speaker:Ray]莱顿是没想去说服卡特的吗...
 #18040	[!LobbyIdleMessage][!speaker:Ray]타인에게 상처를 주면 결국 다치는 것은 자신일텐데...	[!LobbyIdleMessage][!speaker:Ray]伤害别人最终受伤的会是自己的...
 #18041	[!LobbyIdleMessage][!speaker:Ray]나는 언제나 지켜봐야만 하는 걸까...	[!LobbyIdleMessage][!speaker:Ray]我得一直盯着的吗...
@@ -12022,7 +12022,7 @@
 #19114	[!Help]$RaidMission$ 미션은 미션 내 존재하는 $RaidMissionTarget$를 처치할 때마다 $/$임무를 계속 이어갈 것인지$/$ 혹은 $/$물러날 것인지$/$를 선택할 수 있는 체포 미션입니다.<br><br>임무 도중 $/$귀환$/$을 선택하면 퇴각 준비를 위해 일정 시간을 생존해야 하며 귀환이 성공한 경우 승리합니다.<br><br>$Note$현재 자신의 팀의 상태를 확인하여 임무 속행 여부를 결정해주세요.	[!Help]$RaidMission$该类型任务中每击退$RaidMissionTarget$时会询问$/$是否继续任务$/$还是$/$结束任务$/$的逮捕类的任务。<br><br>任务进行过程中若选择了$/$返回$/$，则需要为了准备撤退而在一定时间内幸存下来，成功返回将被判定为胜利。<br><br>$Note$请确认自身队伍的状态，并决定是否继续任务吧。
 #19115	[!Help]$RaidMission2$ 미션은 미션 내 존재하는 $RaidMissionTarget2$를 처치하거나 $Word_PsionicStone$의 에너지를 추출하여 해당 지역 내 초과된 에너지를 해제하는 사냥 미션입니다. 해당 지역의 초과된 에너지를 해제하면 $/$임무를 계속 이어갈 것인지$/$ 혹은 $/$물러날 것인지$/$를 선택할 수 있습니다.<br><br>임무 도중 $/$귀환$/$을 선택하면 퇴각 준비를 위해 일정 시간을 생존해야 하며 귀환이 성공한 경우 승리합니다.<br><br>$Note$현재 자신의 팀의 상태를 확인하여 임무 속행 여부를 결정해주세요.	[!Help]$RaidMission2$该类型任务需处理任务中存在的$RaidMissionTarget2$同时可以提取$Word_PsionicStone$能量的任务。如果释放了该地区的多余能量，你可以选择是$/$继续任务$/$还是$/$结束任务$/$。<br><br>任务进行过程中选择了$/$返回$/$，则需要为了准备撤退而在一定时间内幸存下来，成功返回将被判定为胜利。<br><br>$Note$请确认自身队伍的状态，并决定是否继续任务吧。
 #19116	[!Help]인간인 유닛은 임무 시작 전 의욕 상태가 $Percent$ 이하일 시 $Buff_Fatigue$ 상태가 됩니다.	[!Help]人类单位在任务开始前意志状态为$Percent$以下时，将进入$Buff_Fatigue$状态。
-#19121	[!Help]고난의 성채	[!Sector]苦痛要塞
+#19121	[!Help]고난의 성채	[!Sector]苦难的城寨
 #19123	[!HelpCategory]백과사전	[!HelpCategory]百科全书
 #19124	[!HelpKeyword]치안 확보	[!HelpKeyword]确保治安
 #19125	[!HelpKeyword]보스 몬스터	[!HelpKeyword]首领怪
@@ -12037,7 +12037,7 @@
 #19134	[!HelpSubCategory]국가	[!WorldScaleInfo][!地区标志]国家
 #19137	[!PcState]정상 작동 가능한 상태입니다.	[!PcState]正常运转状态。
 #19138	[!Sector]역사	[!Sector]历史
-#19139	[!Sector]원래 이 지역은 3대 열강의 국경이 접하는 지역으로 세계 대전 이전까지는 아테르 제국이 실효 지배를 하고 있었으며 고난의 성채와 가까운 위치로 무력 충돌이 빈번한 지역이었다. 세계 대전 발발 후 강대국이 차례로 해당 지역을 점거하는 혼전의 상태를 겪었다. <br><br>종전 후, 세계 대전으로 급랭한 세계 경제를 빠르게 회복하기 위해 3국의 수뇌부들은 자국의 정치 상황에 휘둘리지 않는 중립적인 경제적 완충 지역을 원했다. 그 결과 AE 782년, 세계 3대 열강인 아테르 제국, 카라스 연방, 동방 연합의 발할라 조약의 승인으로 자유 무역 도시국가 발할라가 탄생한다.	[!Sector]原本该地区是三大列强接壤的国境交界处，世界大战前由阿泰尔帝国实际控制着，因靠近苦痛要塞而导致武装冲突频繁。世界大战爆发后，各强国依次占领该地区因此最终陷入混战状态。<br><br>战后，为了迅速恢复因世界大战而急剧下降的世界经济，三国领导都希望有一个不受本国政治局势干扰的中立的经济缓冲区。最终，在AE782年，世界三大列强的阿泰尔帝国、卡拉斯联邦和东方联盟所共同签署的巴赫拉条约的批准下，自由贸易国家巴赫拉由此诞生。
+#19139	[!Sector]원래 이 지역은 3대 열강의 국경이 접하는 지역으로 세계 대전 이전까지는 아테르 제국이 실효 지배를 하고 있었으며 고난의 성채와 가까운 위치로 무력 충돌이 빈번한 지역이었다. 세계 대전 발발 후 강대국이 차례로 해당 지역을 점거하는 혼전의 상태를 겪었다. <br><br>종전 후, 세계 대전으로 급랭한 세계 경제를 빠르게 회복하기 위해 3국의 수뇌부들은 자국의 정치 상황에 휘둘리지 않는 중립적인 경제적 완충 지역을 원했다. 그 결과 AE 782년, 세계 3대 열강인 아테르 제국, 카라스 연방, 동방 연합의 발할라 조약의 승인으로 자유 무역 도시국가 발할라가 탄생한다.	[!Sector]原本该地区是三大列强接壤的国境交界处，世界大战前由阿泰尔帝国实际控制着，因靠近苦难的城寨而导致武装冲突频繁。世界大战爆发后，各强国依次占领该地区因此最终陷入混战状态。<br><br>战后，为了迅速恢复因世界大战而急剧下降的世界经济，三国领导都希望有一个不受本国政治局势干扰的中立的经济缓冲区。最终，在AE782年，世界三大列强的阿泰尔帝国、卡拉斯联邦和东方联盟所共同签署的巴赫拉条约的批准下，自由贸易国家巴赫拉由此诞生。
 #19140	[!Sector]인구	[!Sector]人口
 #19141	[!Sector]발할라의 인구의 구성은 발할라 건국과 함께 전세계에서 이주해 온 이주민이 90%를 차지하는 다민족 국가이다.	[!Sector]巴赫拉的人口构成是从巴赫拉建国开始持续地从世界各地移居过来的移民占90%的多民族国家。
 #19142	[!Sector]행정 구역	[!Sector]行政区域
@@ -13300,7 +13300,7 @@
 #20780	[!Mastery]레벨 상승 시	[!Mastery]等级上升时
 #20781	[!Mastery]$Buff$ 상태가 됩니다.	[!Mastery]成为$Buff$状态。
 #20784	[!Mastery]공격한 대상을 $Dead$으로 만들면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]攻击使对象$Dead$时，$ActionTime$将减少$Value$。
-#20785	[!Mastery]$State$ 혹은 $State2$ 상태인 적을 공격할 경우 $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]攻击$State$或$State2$状态中的敌人时，$Stat$，$Stat2$将增加$Value$。
+#20785	[!Mastery]$State$ 혹은 $State2$ 상태인 적을 공격할 경우 $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]处在$State$或$State2$状态时，对敌人的$Stat$和$Stat2$将各增加$Value$。
 #20786	[!Mastery]적 팀 시야에 노출되지 않은 위치에서 공격한 대상을 $Dead$으로 만들면, $ActionPoint$을 $Value$개 회복합니다.	[!Mastery]未暴露在敌军视野内的情况下，发动攻击令对象$Dead$时，$ActionPoint$将恢复$Value$。
 #20787	[!Mastery]행동력	[!Help]行动力
 #20788	[!Mastery]자신의 공격으로 시야 내 모든 적을 $Dead$으로 만들면, $ActionPoint$을 $Value$개 회복합니다.	[!Mastery]自身的攻击将视野内所有的敌人处于$Dead$时，$ActionPoint$将恢复$Value$。
@@ -13446,7 +13446,7 @@
 #20949	[!Mastery]$State$ 혹은 $BuffGroup$ 중인 적에 대한 공격은 무조건 적중합니다.	[!Mastery]向$State$或$BuffGroup$中的敌人发动的攻击将绝对命中。
 #20951	[!Mastery]$Mastery$ 발동 시, $SP$가 $Value$ 증가합니다.	[!Mastery]$Mastery$发动时，$SP$将增加$Value$。
 #20952	[!Mastery]$Mastery$에 의한 공격으로 적이 $Dead$이 되면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]由于$Mastery$发动的攻击使敌人$Dead$时，$ActionTime$将减少$Value$。
-#20954	[!Mastery]$State$, $State2$ 상태에서 적에게 공격을 적중시키면 $ActionTime$이 $Value$ 감소합니다.	[!Mastery]攻击命中$State$, $State2$状态的敌人时，$ActionTime$将减少$Value$。
+#20954	[!Mastery]$State$, $State2$ 상태에서 적에게 공격을 적중시키면 $ActionTime$이 $Value$ 감소합니다.	[!Mastery]身处$State$, $State2$状态攻击命中敌人时，自身的$ActionTime$将减少$Value$。
 #20955	[!Mastery]부활 시, 최대 체력으로 부활합니다.	[!Mastery]复活时，以最大体力复活。
 #20956	[!Mastery]미션 내 $Value$회 발동합니다.	[!Mastery]任务内可发动$Value$回。
 #20957	[!Mastery]$Mastery$ 발동 시, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]$Mastery$发动时，$ActionTime$将减少$Value$。
