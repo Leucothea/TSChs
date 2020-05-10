@@ -240,14 +240,14 @@
 #593	[!Equipment]하의 주머니	[!Equipment]下衣兜
 #594	[!Equipment]발	[!Equipment]脚
 #595	[!Equipment]무기	[!Equipment]武器
-#598	[!Friendship]확고한 신뢰	[!Friendship]稳固的信赖
-#599	[!Friendship]호의적	[!Friendship]稍微友好
-#600	[!Friendship]매우 적대적	[!Friendship]绝对敌对
-#601	[!Friendship]우호적	[!Friendship]友好
+#598	[!Friendship]확고한 신뢰	[!Friendship]崇敬
+#599	[!Friendship]호의적	[!Friendship]友善
+#600	[!Friendship]매우 적대적	[!Friendship]仇恨
+#601	[!Friendship]우호적	[!Friendship]尊敬
 #602	[!Friendship]적대적	[!Friendship]敌对
 #603	[!Friendship]중립적	[!Friendship]中立
 #604	[!Friendship]신뢰	[!Friendship]信赖
-#605	[!Friendship]약간 적대적	[!Friendship]相对敌对
+#605	[!Friendship]약간 적대적	[!Friendship]冷淡
 #608	[!GuideMessage]$RequireBuff$ 상태에서만 사용 가능 합니다.	[!GuideMessage]只能在$RequireBuff$状态下使用。
 #609	[!GuideMessage]해당 어빌리티는 행동력을 소모하지 않습니다.	[!GuideMessage]该技能不消耗行动力。
 #611	[!GuideMessage]도착 지점이 보이지 않습니다.	[!GuideMessage]目标地点不可见。
