@@ -59,7 +59,7 @@
 #153	[!Ability]구출	[!Ability]营救
 #154	[!Ability]수리	[!Ability]修理
 #157	[!Ability]구조	[!Ability]救助
-#160	[!Ability]레서류 최종 오의 - 흉폭한 레서	[!Ability]蕾西流终极奥义-凶暴蕾西
+#160	[!Ability]레서류 최종 오의 - 흉폭한 레서	[!Ability]蕾西流终极奥义 - 凶暴蕾西
 #162	[!Ability]기력 회복	[!Ability]恢复气力
 #163	[!Ability]체력을 $DamageAmount$ 회복합니다.	[!Ability]恢复$DamageAmount$体力。
 #164	[!Ability]회복약	[!Ability]恢复药
@@ -608,7 +608,7 @@
 #1330	[!Mastery]날렵함	[!Mastery]敏捷
 #1333	[!Mastery]알리바바	[!Mastery]阿里巴巴
 #1336	[!Mastery]기습	[!Mastery]奇袭
-#1339	[!Mastery]성난 황소	[!Mastery]愤怒的公牛
+#1339	[!Mastery]성난 황소	[!Mastery]狂牛
 #1341	[!Mastery]신비한 힘	[!Mastery]神秘之力
 #1343	[!Mastery]영웅의 일격	[!Mastery]英雄一击
 #1355	[!Mastery]야수사냥꾼	[!Mastery]野兽猎人
@@ -820,7 +820,7 @@
 #1945	[!Mastery]바람 내성 I	[!Mastery]风耐性(一)
 #1946	[!Mastery]바람 내성 II	[!Mastery]风耐性(二)
 #1947	[!Mastery]바람 내성 III	[!Mastery]风耐性(三)
-#1953	[!Mastery]바람장벽	[!Mastery]风之墙壁
+#1953	[!Mastery]바람장벽	[!Mastery]风之障壁
 #1956	[!Mastery]상처 감염	[!Mastery]伤口感染
 #1959	[!Mastery]동경	[!Mastery]憧憬
 #1960	[!MasteryCategory]어빌리티	[!MasteryCategory]技能
@@ -965,7 +965,7 @@
 #2157	[!ObjectInfo]푸	[!ObjectInfo]普
 #2158	[!ObjectInfo]지옥불	[!ObjectInfo]地狱火
 #2159	[!ObjectInfo]핑크 혼	[!ObjectInfo]粉色角
-#2160	[!ObjectInfo]황소 도살자	[!ObjectInfo]公牛屠杀者
+#2160	[!ObjectInfo]황소 도살자	[!ObjectInfo]狂牛屠杀者
 #2163	[!ObjectInfo]스컬 크래셔	[!ObjectInfo]骷髅击碎者
 #2164	[!ObjectInfo]스컬 슬래셔	[!ObjectInfo]骷髅砍杀者
 #2166	[!ObjectInfo]스컬 이터	[!ObjectInfo]骷髅吞噬者
@@ -1004,9 +1004,9 @@
 #2232	[!ObjectInfo]서버	[!ObjectInfo]服务器
 #2235	[!ObjectInfo]시온	[!ObjectInfo]席翁
 #2236	[!ObjectInfo]스컬	[!ObjectInfo]骷髅
-#2237	[!ObjectInfo]스틸헤드 시위꾼	[!ObjectInfo]铁头示威者
-#2238	[!ObjectInfo]스틸헤드 속도광	[!ObjectInfo]铁头速度狂人
-#2239	[!ObjectInfo]스틸헤드 싸움꾼	[!ObjectInfo]铁头战斗专家
+#2237	[!ObjectInfo]스틸헤드 시위꾼	[!ObjectInfo]铁首示威者
+#2238	[!ObjectInfo]스틸헤드 속도광	[!ObjectInfo]铁首速度狂人
+#2239	[!ObjectInfo]스틸헤드 싸움꾼	[!ObjectInfo]铁首战斗专家
 #2243	[!ObjectInfo]감시망	[!ObjectInfo]监视网
 #2248	[!ObjectInfo]수송 드론	[!ObjectInfo]运输无人机
 #2249	[!ObjectInfo]제인	[!ObjectInfo]珍
@@ -1495,8 +1495,8 @@
 #3480	[!ObjectInfo]스카이블루	[!ObjectInfo]天蓝
 #3481	[!ObjectInfo]흑호 조장	[!ObjectInfo]黑虎组长
 #3482	[!ObjectInfo]흑호 소란꾼	[!ObjectInfo]黑虎捣乱者
-#3483	[!ObjectInfo]황소 조장	[!ObjectInfo]公牛组长
-#3484	[!ObjectInfo]황소 소란꾼	[!ObjectInfo]公牛捣乱者
+#3483	[!ObjectInfo]황소 조장	[!ObjectInfo]狂牛组长
+#3484	[!ObjectInfo]황소 소란꾼	[!ObjectInfo]狂牛捣乱者
 #3485	[!ObjectInfo]류자키	[!ObjectInfo]龙崎
 #3486	[!ObjectInfo]칼잡이	[!ObjectInfo]刀客
 #3487	[!ObjectInfo]료	[!ObjectInfo]亮
@@ -1548,11 +1548,11 @@
 #3548	[!OptionGraphics]매우 높음	[!OptionGraphics]非常高
 #3549	[!OptionGraphics]그래픽 품질	[!OptionGraphics]图像品质
 #3550	[!OptionGraphics]세부 설정	[!OptionGraphics]详细设置
-#3552	[!Organization]성난 황소	[!Organization]愤怒的公牛
+#3552	[!Organization]성난 황소	[!Organization]狂牛
 #3553	[!Organization]흑호	[!Organization]黑虎
 #3555	[!Organization]크로우	[!Organization]克劳
 #3556	[!Organization]스컬	[!Organization]骷髅
-#3558	[!Organization]스틸헤드	[!Organization]铁头
+#3558	[!Organization]스틸헤드	[!Organization]铁首
 #3560	[!Organization]거리 불량배	[!Organization]街头流氓
 #3562	[!Organization]발할라 경찰청	[!Organization]巴赫拉警察厅
 #3563	[!Organization]벤데타	[!Organization]凡蒂塔
@@ -1562,48 +1562,48 @@
 #3568	[!Help]동방연합	[!Pc]东方联盟
 #3570	[!Help]앨리	[!ObjectInfo]艾丽
 #3571	[!Help]아테르 제국	[!Pc]阿泰尔帝国
-#3577	[!Reputation]재의 강	[!Reputation]灰烬之江
-#3579	[!Reputation]푸른 안개	[!Reputation]蓝色雾霭
-#3581	[!Reputation]까마귀 골목	[!Reputation]乌鸦巷子
-#3583	[!Reputation]먼지 바람 고속도로	[!Reputation]灰尘之风高速公路
-#3585	[!Reputation]황금손	[!Reputation]黄金之手
-#3587	[!Reputation]잿빛 항구	[!Reputation]灰色港口
-#3589	[!Reputation]철의 숲	[!Reputation]铁森林
-#3591	[!Reputation]메트로디움	[!Reputation]梅特罗迪翁
+#3577	[!Reputation]재의 강	[!Reputation]烬夜江
+#3579	[!Reputation]푸른 안개	[!Reputation]蓝雾区
+#3581	[!Reputation]까마귀 골목	[!Reputation]墨鸦巷
+#3583	[!Reputation]먼지 바람 고속도로	[!Reputation]尘风高速路
+#3585	[!Reputation]황금손	[!Reputation]金手区
+#3587	[!Reputation]잿빛 항구	[!Reputation]灰港
+#3589	[!Reputation]철의 숲	[!Reputation]铁森林区
+#3591	[!Reputation]메트로디움	[!Reputation]梅特罗迪翁区
 #3593	[!Reputation]푸고 거리	[!Reputation]府谷街
 #3595	[!Reputation]자홍거리	[!Reputation]紫红街
-#3597	[!Reputation]화난 술통	[!Reputation]愤怒的酒桶
-#3599	[!Reputation]그늘 안개	[!Reputation]阴影之雾霭
-#3601	[!Reputation]그림자 장벽	[!Reputation]影之墙壁
-#3603	[!Reputation]은빛 구름	[!Reputation]银色云彩
-#3605	[!Reputation]하늘 바람	[!Reputation]天空之风
-#3607	[!Reputation]노란귀 연구 단지	[!Reputation]黄耳朵研究园区
+#3597	[!Reputation]화난 술통	[!Reputation]怒酒区
+#3599	[!Reputation]그늘 안개	[!Reputation]沉雾区
+#3601	[!Reputation]그림자 장벽	[!Reputation]影壁区
+#3603	[!Reputation]은빛 구름	[!Reputation]银云区
+#3605	[!Reputation]하늘 바람	[!Reputation]天风区
+#3607	[!Reputation]노란귀 연구 단지	[!Reputation]黄耳研究园
 #3608	[!ReputationSectorType]상업 지구	[!ReputationSectorType]商业区
 #3609	[!ReputationSectorType]산업 지구	[!ReputationSectorType]产业区
 #3610	[!ReputationSectorType]거주구	[!ReputationSectorType]居民区
-#3611	[!ReputationSectorType]특수 지구	[!ReputationSectorType]特殊区
+#3611	[!ReputationSectorType]특수 지구	[!ReputationSectorType]特别区
 #3612	[!Sector]아테르 제국	[!Sector]阿泰尔帝国
 #3613	[!Sector]카라스연방	[!Sector]卡拉斯联邦
-#3614	[!Sector]고난의 성채	[!Sector]苦难的城寨
+#3614	[!Sector]고난의 성채	[!Sector]苦痛要塞
 #3615	[!Sector]발할라	[!Sector]巴赫拉
-#3616	[!Site]재의 강 하류	[!Site]灰烬之江下游
+#3616	[!Site]재의 강 하류	[!Site]烬夜江下游
 #3617	[!Site]가시나무 수용소	[!Site]荆棘树收容所
-#3618	[!Site]재의 강 상류	[!Site]灰烬之江上游
-#3620	[!Site]푸른 안개 산업단지	[!Site]蓝色雾霭产业园区
-#3621	[!Site]푸른 안개 거리	[!Site]蓝色雾霭大街
-#3622	[!Site]까마귀골목 뒷거리	[!Site]乌鸦巷子的后巷
-#3624	[!Site]까마귀골목 재건축지구	[!Site]乌鸦巷子重建地区
-#3625	[!Site]까마귀골목 거주구	[!Site]乌鸦巷子居住区
-#3626	[!Site]까마귀골목	[!Site]乌鸦巷子
-#3627	[!Site]먼지바람 고속도로 북단	[!Site]灰尘之风高速公路北端
-#3628	[!Site]먼지바람 고속도로 남단	[!Site]灰尘之风高速公路南端
-#3629	[!Site]먼지바람 톨게이트	[!Site]灰尘之风收费站
-#3630	[!Site]황금손 뒷거리	[!Site]黄金之手后巷
-#3631	[!Site]황금손 재건축지구	[!Site]黄金之手重建地区
-#3632	[!Site]황금손 거주구	[!Site]黄金之手居民区
-#3633	[!Site]황금손 거리	[!Site]黄金之手大街
-#3634	[!Site]잿빛 항구 물류센터	[!Site]灰色港口物流中心
-#3636	[!Site]잿빛 항구 거리	[!Site]灰色港口大街
+#3618	[!Site]재의 강 상류	[!Site]烬夜江上游
+#3620	[!Site]푸른 안개 산업단지	[!Site]蓝雾产业园区
+#3621	[!Site]푸른 안개 거리	[!Site]蓝雾大街
+#3622	[!Site]까마귀골목 뒷거리	[!Site]墨鸦后巷
+#3624	[!Site]까마귀골목 재건축지구	[!Site]墨鸦巷重建区
+#3625	[!Site]까마귀골목 거주구	[!Site]墨鸦巷居住区
+#3626	[!Site]까마귀골목	[!Site]墨鸦巷
+#3627	[!Site]먼지바람 고속도로 북단	[!Site]尘风高速路北端
+#3628	[!Site]먼지바람 고속도로 남단	[!Site]尘风高速路南端
+#3629	[!Site]먼지바람 톨게이트	[!Site]尘风收费站
+#3630	[!Site]황금손 뒷거리	[!Site]金手后巷
+#3631	[!Site]황금손 재건축지구	[!Site]金手重建区
+#3632	[!Site]황금손 거주구	[!Site]金手居民区
+#3633	[!Site]황금손 거리	[!Site]金手大街
+#3634	[!Site]잿빛 항구 물류센터	[!Site]灰港物流中心
+#3636	[!Site]잿빛 항구 거리	[!Site]灰港大街
 #3637	[!Site]철의 숲 검문소	[!Site]铁森林检查站
 #3638	[!Site]철의 숲 간선도로	[!Site]铁森林干线公路
 #3639	[!Site]철의 숲 티마 둥지	[!Site]铁森林蒂玛巢穴
@@ -1617,25 +1617,25 @@
 #3648	[!Site]자홍 뒷거리	[!Site]紫红后巷
 #3649	[!Site]자홍거리 상점가	[!Site]紫红娱乐街
 #3650	[!Site]자홍거리	[!Site]紫红街
-#3651	[!Site]화난 술통 뒷거리	[!Site]愤怒的酒桶后巷
-#3652	[!Site]화난 술통 중심가	[!Site]愤怒的酒桶中央大街
-#3653	[!Site]화난 술통 상점가	[!Site]愤怒的酒桶商店街
-#3654	[!Site]화난 술통 거리	[!Site]愤怒的酒桶大街
-#3656	[!Site]그늘 안개 거주구	[!Site]阴影之雾霭居民区
-#3657	[!Site]그늘 안개 슬럼가	[!Site]阴影之雾霭贫民区
-#3658	[!Site]그늘 안개 거리	[!Site]阴影之雾霭大街
-#3659	[!Site]그림자 장벽 검문소	[!Site]影之墙壁检查站
-#3660	[!Site]그림자 장벽 북단	[!Site]影之墙壁北面
-#3661	[!Site]그림자 장벽 남단	[!Site]影之墙壁南面
-#3662	[!Site]은빛 구름 뒷거리	[!Site]银色云彩后巷
-#3663	[!Site]은빛 구름 재건축지구	[!Site]银色云彩重建地区
-#3664	[!Site]은빛 구름 거주구	[!Site]银色云彩居民区
-#3665	[!Site]은빛 구름 거리	[!Site]银色云彩大街
-#3668	[!Site]노란귀 뒷거리	[!Site]黄耳朵后巷
+#3651	[!Site]화난 술통 뒷거리	[!Site]怒酒后巷
+#3652	[!Site]화난 술통 중심가	[!Site]怒酒中央大街
+#3653	[!Site]화난 술통 상점가	[!Site]怒酒商店街
+#3654	[!Site]화난 술통 거리	[!Site]怒酒大街
+#3656	[!Site]그늘 안개 거주구	[!Site]沉雾居民区
+#3657	[!Site]그늘 안개 슬럼가	[!Site]沉雾贫民区
+#3658	[!Site]그늘 안개 거리	[!Site]沉雾大街
+#3659	[!Site]그림자 장벽 검문소	[!Site]影壁检查站
+#3660	[!Site]그림자 장벽 북단	[!Site]影壁区北部
+#3661	[!Site]그림자 장벽 남단	[!Site]影壁区南部
+#3662	[!Site]은빛 구름 뒷거리	[!Site]银云后巷
+#3663	[!Site]은빛 구름 재건축지구	[!Site]银云重建区
+#3664	[!Site]은빛 구름 거주구	[!Site]银云居民区
+#3665	[!Site]은빛 구름 거리	[!Site]银云大街
+#3668	[!Site]노란귀 뒷거리	[!Site]黄耳后巷
 #3669	[!Site]야수 연구소 거리	[!Site]野兽研究所大街
-#3670	[!Site]노란귀 선착장	[!Site]黄耳朵码头
-#3671	[!Site]노란귀 발전소	[!Site]黄耳朵发电厂
-#3672	[!Site]노란귀 거리	[!Site]黄耳朵大街
+#3670	[!Site]노란귀 선착장	[!Site]黄耳码头
+#3671	[!Site]노란귀 발전소	[!Site]黄耳发电厂
+#3672	[!Site]노란귀 거리	[!Site]黄耳大街
 #3674	[!SystemMessage]거래품목이 없습니다.	[!SystemMessage]没有交易物品。
 #3675	[!SystemMessage]로비 서버에 접속하지 못했습니다.	[!SystemMessage]未连接服务器。
 #3676	[!WordCollection]수락	[!WordCollection]接受
@@ -1698,8 +1698,8 @@
 #3739	[!WordCollection]작업실에 대하여	[!WordCollection]关于工作室
 #3740	[!WordCollection][!유저메뉴]귓속말	[!WordCollection][!用户菜单]悄悄话
 #3741	[!WordCollection]체중	[!WordCollection]体重
-#3745	[!Zone]바람장벽은 발할라의 13번째 에어리어로 발할라의 동남쪽 국경 지대에 위치하며 바다로 나가는 길목에 위치하고 있습니다.<br>국경 지대에는 거대한 장벽이 위치하고 있으며 해당 주변으로 잦은 분쟁이 일어나고 있습니다.	[!Zone]风之墙壁是巴赫拉的第13区，位于巴赫拉的东南边境地区的入海口。<br>边境线上竖有巨大的墙壁，其周围经常会发生纷争。
-#3746	[!Zone]바람장벽	[!Zone]风之墙壁
+#3745	[!Zone]바람장벽은 발할라의 13번째 에어리어로 발할라의 동남쪽 국경 지대에 위치하며 바다로 나가는 길목에 위치하고 있습니다.<br>국경 지대에는 거대한 장벽이 위치하고 있으며 해당 주변으로 잦은 분쟁이 일어나고 있습니다.	[!Zone]风之壁是巴赫拉的第13区，位于巴赫拉的东南边境地区的入海口。<br>边境线上竖有巨大的墙壁，其周围经常会发生纷争。
+#3746	[!Zone]바람장벽	[!Zone]风之壁地区
 #3750	[!AI]매료됨	[!AI]魅惑
 #3751	[!AI]피아를 구분하지 않고 공격합니다.	[!AI]混乱
 #3752	[!AI]겁에 질려 적으로 부터 도망갑니다.	[!AI]惊吓
@@ -1866,7 +1866,7 @@
 #4123	[!GuideMessage]$QuestName$ 의뢰를 수락하였습니다.	[!GuideMessage]接受$QuestName$委托。
 #4124	[!GuideMessage]$QuestName$ 의뢰를 취소하였습니다.	[!GuideMessage]取消$QuestName$委托。
 #4125	[!GuideMessage]$QuestName$ 의뢰를 완료하였습니다.	[!GuideMessage]完成$QuestName$委托。
-#4127	[!GuideMessage]$RosterName$ - 리더가 되었습니다.	[!GuideMessage]$RosterName$-成了队长。
+#4127	[!GuideMessage]$RosterName$ - 리더가 되었습니다.	[!GuideMessage]$RosterName$ - 成为队长。
 #4128	[!GuideMessage]$Vill$ Vill 을 소모하였습니다.	[!GuideMessage]花费了$Vill$Vill。
 #4129	[!Status]타격 공격 치명타 적중률	[!Status]打击攻击暴击率
 #4130	[!Status]대지 공격 치명타 적중률	[!Status]大地攻击暴击率
@@ -1916,7 +1916,7 @@
 #4182	[!Mastery]위험은 피할수록 좋은 것이다.	[!Mastery]危险最好避开为好。
 #4183	[!Mastery]열려라 참깨!	[!Mastery]芝麻开门!
 #4184	[!Mastery]기습은 상대의 예상을 뛰어넘어 상대를 당황하게 하는 것이다.	[!Mastery]奇袭就是超出对方的预料而造成恐慌。
-#4185	[!Mastery]열정은 멈춰설 수 없는 황소와 같다	[!Mastery]热情如同奔跑的公牛。
+#4185	[!Mastery]열정은 멈춰설 수 없는 황소와 같다	[!Mastery]热情如同奔跑的狂牛。
 #4186	[!Mastery]아브라카다브라!	[!Mastery]天灵灵地灵灵!
 #4187	[!Mastery]영웅을 꿈꾸는 자에게 주어진 힘이다.	[!Mastery]这是给梦想成为英雄的人的力量。
 #4190	[!Mastery]절대 야수로부터 도망치지 마라.	[!Mastery]绝对不要背对野兽逃跑。
@@ -2339,11 +2339,11 @@
 #4759	[!FilteringWord]발할라 조달청	[!FilteringWord]巴赫拉调度厅
 #4760	[!FilteringWord]발할라 경찰청	[!FilteringWord]巴赫拉警察厅
 #4761	[!FilteringWord]동방정공	[!FilteringWord]东方精工
-#4762	[!FilteringWord]스틸헤드	[!FilteringWord]铁头
+#4762	[!FilteringWord]스틸헤드	[!FilteringWord]铁首
 #4763	[!FilteringWord]어나미머스	[!FilteringWord]匿名组织
 #4764	[!FilteringWord]크로우	[!FilteringWord]乌鸦
 #4765	[!FilteringWord]거리 불량배	[!FilteringWord]街头流氓
-#4766	[!FilteringWord]성난 황소	[!FilteringWord]愤怒的公牛
+#4766	[!FilteringWord]성난 황소	[!FilteringWord]狂牛
 #4767	[!FilteringWord]스노우	[!FilteringWord]斯诺
 #4768	[!FilteringWord]카오스브러시	[!FilteringWord]混沌刷
 #4769	[!FilteringWord]백호	[!FilteringWord]白虎
@@ -2409,7 +2409,7 @@
 #4865	[!Mastery]집중 포화	[!Mastery]集中炮轰
 #4868	[!Ability]$DamageAmount$의 $DamageType$ 피해를 입힙니다. 피해를 입은 대상은 $ApplyBuffChance$ 확률로 $ApplyBuff$ 상태가 됩니다.	[!Ability]受到$DamageAmount$的$DamageType$伤害。受到伤害的目标有$ApplyBuffChance$几率变成$ApplyBuff$状态。
 #4871	[!AbilityDirectingEvent]별빛 방패!	[!AbilityDirectingEvent]星光盾牌!
-#4872	[!Item]스틸헤드 팔찌	[!Item]铁头手镯
+#4872	[!Item]스틸헤드 팔찌	[!Item]铁首手镯
 #4892	[!Mastery]근접 사격	[!Mastery]近身射击
 #4895	[!ChatSubCategory]적군의 상태 효과 무효화	[!ChatSubCategory]使对方的状态效果无效
 #4896	[!ChatSubCategory]적군의 상태 이상 면역	[!ChatSubCategory]免疫对方的异常状态效果
@@ -2604,7 +2604,7 @@
 #5196	[!Craft]무기	[!Craft]武器
 #5197	[!GuideMessage]$ItemType$ 아이템을 착용할 수 있습니다. 바로 착용하시겠습니까?	[!GuideMessage]可装备$ItemType$物品。现在装备吗?
 #5198	[!GuideMessage]착용하지 않을 경우 인벤토리에 보관됩니다.	[!GuideMessage]不装备则保存到背包中。
-#5199	[!GuideMessage]주의 - 이미 1회 이상 사용된 아이템이어서 착용하지 않을 경우 파기됩니다.	[!GuideMessage]注意-已经使用过1次及以上的物品,不装备则会被废弃。
+#5199	[!GuideMessage]주의 - 이미 1회 이상 사용된 아이템이어서 착용하지 않을 경우 파기됩니다.	[!GuideMessage]注意 - 已经使用过1次及以上的物品,不装备则会被废弃。
 #5200	[!GuideMessage]$ItemType$ 아이템은 현재 캐릭터가 착용할 수 없어서 인벤토리에 보관됩니다.	[!GuideMessage]$ItemType$物品无法被当前角色装备,已经存入背包中。
 #5201	[!GuideMessage]지원 어빌리티의 사용이 불가능합니다.	[!GuideMessage]无法使用支援技能。
 #5202	[!GuideMessage]보상을 수령할 수 없습니다.	[!GuideMessage]无法接受奖励。
@@ -2776,7 +2776,7 @@
 #5528	[!Item]VHPD 강화복	[!Item]VHPD强化服
 #5529	[!Item]대부분의 발할라 경찰들에게 지급되는 강화복.	[!Item]为大部分的巴赫拉警察们配备的强化服。
 #5530	[!Item]VHPD 경량 강화복	[!Item]VHPD轻型强化服
-#5531	[!Item]발할라 경찰들에게 지급되는 보급형 강화복. 실제 효용성이 매우 떨어져 현재는 바람장벽 지구와 같이 변경 지구에서만 사용되는 장비이다.	[!Item]为巴赫拉警察们配备的泛用型强化服。由于实际效用性很差，因此是现在只在风之墙壁地区这类的边境地区才会使用的装备。
+#5531	[!Item]발할라 경찰들에게 지급되는 보급형 강화복. 실제 효용성이 매우 떨어져 현재는 바람장벽 지구와 같이 변경 지구에서만 사용되는 장비이다.	[!Item]为巴赫拉警察们配备的泛用型强化服。由于实际效用性很差，因此是现在只在风之壁地区这类的边境地区才会使用的装备。
 #5532	[!Item]칼잡이 부츠	[!Item]刀客之靴
 #5533	[!Item]길잡이 부츠	[!Item]向导之靴
 #5535	[!Item]방탄 코트	[!Item]防弹外套
@@ -2796,8 +2796,8 @@
 #5552	[!Item]흑호 집회복	[!Item]黑虎集会服
 #5553	[!Item]폭력 조직 흑호 팀을 상징하는 검은색과 하얀 갈기가 그려진 집회복이다. 큰 규모의 폭력 조직답게 고가의 특수 섬유를 사용하여 제작되어 기본적인 이능력 저항력을 가지고 있다.	[!Item]象征暴力团伙黑虎组的黑色上面画有白色鬃毛的集会服。相配于暴力团伙的大规模，利用高价的特殊纤维制成，带有基础的异能抗性。
 #5554	[!Item]흑호 리더복	[!Item]黑虎首领服
-#5555	[!Item]성난 황소 집회복	[!Item]愤怒的公牛集会服
-#5556	[!Item]폭력 조직 성난 황소 팀을 상징하는 붉은 색을 바탕으로 디자인 된 집회복이다. 잦은 무력 충돌을 대비하여 옷 안쪽으로 충격 흡수 패드를 넣어 제작되었다.	[!Item]象征暴力团伙愤怒的公牛组的红色为底色设计而成的集会服。为了应对频繁的武力冲突而在衣服内层加入了外力吸收垫。
+#5555	[!Item]성난 황소 집회복	[!Item]狂牛集会服
+#5556	[!Item]폭력 조직 성난 황소 팀을 상징하는 붉은 색을 바탕으로 디자인 된 집회복이다. 잦은 무력 충돌을 대비하여 옷 안쪽으로 충격 흡수 패드를 넣어 제작되었다.	[!Item]象征暴力团伙狂牛组的红色为底色设计而成的集会服。为了应对频繁的武力冲突而在衣服内层加入了外力吸收垫。
 #5557	[!Item]방탄 자켓	[!Item]防弹夹克
 #5558	[!Item]활동성을 강조한 트러블슈터용 보급형 자켓.	[!Item]强化了活动性的纷争终结者专用泛用型夹克。
 #5559	[!Item]구룡회 잉어 자수 자켓	[!Item]九龙会鲤鱼刺绣夹克
@@ -2810,10 +2810,10 @@
 #5566	[!Item]분홍 표범 자켓	[!Item]粉豹夹克
 #5567	[!Item]핑크 혼이 처음 사람을 해쳤을 때, 밀려오는 후회와 죄책감을 떨쳐 버릴 수 있었던 것은 어린 시절 '도깨비 핑크'의 이야기였다. 약하고 힘없는 아이들을 괴롭히는 녀석들을 무참히 밟아버리는 도깨비 핑크의 이야기는 지금 핑크 혼의 모습 그 자체가 되어가고 있다.	[!Item]粉色角第一次害人时，让他甩掉涌来的后悔和罪恶感的是小时候听过的'鬼怪粉红'的故事。无情踩踏欺负柔弱无力的孩子们的鬼怪粉红的故事，如今这已经成为了粉色角他自己的故事了。
 #5568	[!Item]해골복	[!Item]骷髅服
-#5570	[!Item]스틸헤드 집회복	[!Item]铁头集会服
-#5571	[!Item]과거 앨리 시절, 카터의 폭주팀 강철머리 팀의 집회복.	[!Item]在过去的艾丽时期,卡特的暴走组铁头组的集会服。
-#5572	[!Item]스틸헤드 리더복	[!Item]铁头首领服
-#5573	[!Item]앨리 시절, 카터는 자신을 따르는 동료들과 함께 팀 '스틸헤드'를 만든다. 팀 스틸헤드는 언제나 버려진 아이들의 편이었고 약자를 착취하려는 자들의 적이었다.	[!Item]艾丽时期,卡特领着追随自己的同伴们一起组建了'铁头'。铁头组总是和被遗弃的孩子们站在一队，是剥削弱者的人们的敌人。
+#5570	[!Item]스틸헤드 집회복	[!Item]铁首集会服
+#5571	[!Item]과거 앨리 시절, 카터의 폭주팀 강철머리 팀의 집회복.	[!Item]在过去的艾丽时期,卡特的暴走组铁首组的集会服。
+#5572	[!Item]스틸헤드 리더복	[!Item]铁首首领服
+#5573	[!Item]앨리 시절, 카터는 자신을 따르는 동료들과 함께 팀 '스틸헤드'를 만든다. 팀 스틸헤드는 언제나 버려진 아이들의 편이었고 약자를 착취하려는 자들의 적이었다.	[!Item]艾丽时期,卡特领着追随自己的同伴们一起组建了'铁首'。铁首组总是和被遗弃的孩子们站在一队，是剥削弱者的人们的敌人。
 #5574	[!Item]일반 집회복	[!Item]普通集会服
 #5575	[!Item]길거리 폭력배들이 주로 입는 집회복이다. 시중의 평상복에 저가의 방탄 처리가 되어 있다.	[!Item]街头恶徒们主要穿戴的集会服。是市面上的常服上带有便宜的防弹处理的服装。
 #5576	[!Item]순백 집회복	[!Item]纯白集会服
@@ -2908,7 +2908,7 @@
 #5783	[!Item]발할라 경찰들에게 보급된지 10년이 넘는 자동 소총. 대부분 외곽 지구 경찰들이 사용하고 있다.	[!Item]普及到巴赫拉警察手里已经过了10年的自动步枪。大部分的外围地区的警察们使用它。
 #5784	[!Item]팔찌의 재질을 카본화하여 착용자들의 사용성을 증가시켰다. 근접 전투를 병행하는 이능력자들 사이에서 많은 인기를 얻고 있다.	[!Item]使手镯的材质碳化,提升了用户的实用性。并在近身战斗的异能者之间拥有较高的人气。
 #5785	[!Item]이능력 사용자의 기력을 유지하기 쉽도록 도와주는 시스템이 적용된 팔찌로 많은 활동성을 가지는 이능력자들 사이에서는 필수 아이템이다.	[!Item]增加了辅助异能者保持气力的系统的手镯，是活动性较强的超能力者的必需品。
-#5786	[!Item]스틸헤드 팀 창설부터 지금까지 카터는 수많은 팔찌들을 사용하고 버려왔다. 하지만 3년 전, 앨리가 발할라와 병합되자 팀 스틸헤드를 해체하면서 이 팔찌에 스틸헤드 문양을 새겨넣었고 현재까지 계속 사용하고 있다.	[!Item]铁头组自组建以来，卡特用了无数的手镯又废弃了无数个。但是三年前,艾丽和巴赫拉合并后解散了铁头组,当时在这个手镯上刻入了铁头纹样,并使用至今。
+#5786	[!Item]스틸헤드 팀 창설부터 지금까지 카터는 수많은 팔찌들을 사용하고 버려왔다. 하지만 3년 전, 앨리가 발할라와 병합되자 팀 스틸헤드를 해체하면서 이 팔찌에 스틸헤드 문양을 새겨넣었고 현재까지 계속 사용하고 있다.	[!Item]铁首组自组建以来，卡特用了无数的手镯又废弃了无数个。但是三年前,艾丽和巴赫拉合并后解散了铁首组,当时在这个手镯上刻入了铁首纹样,并使用至今。
 #5787	[!Item]팔찌의 내구성과 경량화를 통하여 활동성의 제약이 거의 없다.	[!Item]手镯的内部结构和轻型化设计，对活动性的限制几乎为零。
 #5788	[!Item]정령 팔찌	[!Item]精灵手镯
 #5789	[!Item]발할라의 이능력 사용자들에게 가장 많이 보급되어 있는 보급형 이능력 증폭기이다. 기본적으로 사용자의 건강 보조기구 역활을 동시에 한다.	[!Item]巴赫拉的异能者使用的最普遍的泛用型异能增幅器。同时带有基础性的用户健康辅助功能。
@@ -2989,7 +2989,7 @@
 #5929	[!WordCollection]회사 특성 목록	[!WordCollection]公司天赋列表
 #5930	[!Buff]중요 인물	[!Buff]重要人物
 #5931	[!GuideMessage]부상으로 회득한 특성이 있습니다.	[!GuideMessage]有通过受伤获得的天赋。
-#5934	[!GuideMessage]$RosterName$ - 의욕이 회복되었습니다.	[!GuideMessage]$RosterName$-恢复意志。
+#5934	[!GuideMessage]$RosterName$ - 의욕이 회복되었습니다.	[!GuideMessage]$RosterName$ - 恢复意志。
 #5935	[!GuideMessage]$RosterName$ - 의욕을 회복되는 과정에서 $FatigueMastery$ 특성을 얻었습니다.	[!GuideMessage]$RosterName$-恢复意志的过程中获得了$FatigueMastery$天赋。
 #5936	[!ItemIdentify]심연의 %s	[!ItemIdentify]深渊的%s
 #5937	[!ItemIdentify]모험가의 %s	[!ItemIdentify]冒险家的%s
@@ -3310,7 +3310,7 @@
 #6370	[!WordCollection]파일 정리하기	[!WordCollection]整理文件
 #6371	[!WordCollection][!Menu][font='NotoSansBlack-40']특성 획득	[!WordCollection][!Menu][font='NotoSansBlack-40']获得天赋
 #6372	[!GuideMessage]%s 아이템을 획득하였습니다	[!GuideMessage]获得%s物品。
-#6382	[!Quest]바람장벽 지구의 트러블슈터 로베르토를 찾아가시오.	[!Quest]去找风之墙壁地区的纷争终结者罗伯托。
+#6382	[!Quest]바람장벽 지구의 트러블슈터 로베르토를 찾아가시오.	[!Quest]去找风之壁地区的纷争终结者罗伯托。
 #6383	[!Quest]외지의 조력자	[!Quest]外来的帮手
 #6384	[!WordCollection][!Menu][font='NotoSansBlack-40']아이템 획득	[!WordCollection][!Menu][font='NotoSansBlack-40']获得物品
 #6388	[!QuestType]소탕	[!QuestType]扫荡
@@ -3326,7 +3326,7 @@
 #6402	[!LobbyIdleMessage][!speaker:Albus]벌써 이곳에서 10년이나 지냈구나.	[!LobbyIdleMessage]在这里都住了十年了。
 #6403	[!LobbyIdleMessage][!speaker:Albus]어릴 적엔 이곳이 답답하기만 느껴졌었는데...	[!LobbyIdleMessage]小时候总觉得这里很憋屈…
 #6404	[!LobbyIdleMessage][!speaker:Albus]동네 분들에게 다들 인사드려야겠어...	[!LobbyIdleMessage]得去和邻居们打个招呼…
-#6405	[!LobbyIdleMessage][!speaker:Albus]바람장벽 지구라... 10년만인가..	[!LobbyIdleMessage]风之墙壁地区…十年了…
+#6405	[!LobbyIdleMessage][!speaker:Albus]바람장벽 지구라... 10년만인가..	[!LobbyIdleMessage]风之壁地区…十年了…
 #6406	[!LobbyIdleMessage][!speaker:Albus]릴리 고모가 없었다면 어떻게 되었을까?	[!LobbyIdleMessage]如果没了莉莉姑姑,将会怎样呢?
 #6407	[!LobbyIdleMessage][!speaker:Albus]다시 여기로 돌아올 일이 있을까...	[!LobbyIdleMessage]还会回到这里吗…
 #6410	[!SystemMail]사무관 하비에르	[!SystemMail]事务官哈维尔
@@ -3343,7 +3343,7 @@
 #6440	[!StatsInfo]아군 전투 불능 수	[!StatsInfo]无法战斗的队友人数
 #6442	[!StatsInfo]상자 획득 수	[!StatsInfo]箱子获得个数
 #6444	[!SystemMail]$CompanyName$ 감사합니다!	[!SystemMail]$CompanyName$谢谢你!
-#6445	[!SystemMail][colour='FFFFE959']안녕하십니까. 발할라 제 13 지구. 바람장벽지구의 사무관 [colour='FFFFFFFF']하비에르[colour='FFFFE959']입니다.<br><br>$CompanyName$ 리더 알버스 번스타인님의 거주지 이전 신청 관련하여 발할라 주민 등록법 4조 1항에 의거하여 거주지 이전 신청이 완료되었음을 알려드립니다.<br><br>[colour='FFFFFFAA']주민등록법 4 조 1항: <br>[colour='FFFFAA00']트러블슈터 회사의 이전이 있는 경우, 회사의 리더는 거주지 제약과 무관하게 해당 회사가 위치한 곳으로 이전할 수 있다.[colour='FFFFE959']<br><br>거주지 이전 후 3개월 내 회사를 설립하시지 못하시면 해당 신청은 자동 취소되므로 유의하시길 바랍니다.<br><br>새로운 곳에서 더 나은 미래를 위해 노력해주시길 바랍니다.<br><br>[colour='FFFFFFFF']바람장벽 지구 사무관 하비에르	[!SystemMail][colour='FFFFE959']你好。我是巴赫拉第13区风之墙壁区的事务官[colour='FFFFFFFF']哈维尔[colour='FFFFE959']。<br><br>对于$CompanyName$领袖阿尔伯斯伯恩斯坦的居住地转移申请,根据巴赫拉居民登记法4条1项,居住地转移申请已生效。<br><br>[colour='FFFFFFAA']居民登记法4条1项:<br>[colour='FFFFAA00']纷争终结者公司发生转移时,公司的领袖可无视居住地制约而转移到相应公司所在的地点。[colour='FFFFE959']<br><br>转移居住地后3个月内不建立公司,则该申请将会失效,敬请留意。<br><br>希望你能在新的地方开展更加美好的事业。<br><br>[colour='FFFFFFFF']风之墙壁地区事务官哈维尔敬上
+#6445	[!SystemMail][colour='FFFFE959']안녕하십니까. 발할라 제 13 지구. 바람장벽지구의 사무관 [colour='FFFFFFFF']하비에르[colour='FFFFE959']입니다.<br><br>$CompanyName$ 리더 알버스 번스타인님의 거주지 이전 신청 관련하여 발할라 주민 등록법 4조 1항에 의거하여 거주지 이전 신청이 완료되었음을 알려드립니다.<br><br>[colour='FFFFFFAA']주민등록법 4 조 1항: <br>[colour='FFFFAA00']트러블슈터 회사의 이전이 있는 경우, 회사의 리더는 거주지 제약과 무관하게 해당 회사가 위치한 곳으로 이전할 수 있다.[colour='FFFFE959']<br><br>거주지 이전 후 3개월 내 회사를 설립하시지 못하시면 해당 신청은 자동 취소되므로 유의하시길 바랍니다.<br><br>새로운 곳에서 더 나은 미래를 위해 노력해주시길 바랍니다.<br><br>[colour='FFFFFFFF']바람장벽 지구 사무관 하비에르	[!SystemMail][colour='FFFFE959']你好。我是巴赫拉第13区风之壁地区的事务官[colour='FFFFFFFF']哈维尔[colour='FFFFE959']。<br><br>对于$CompanyName$领袖阿尔伯斯伯恩斯坦的居住地转移申请,根据巴赫拉居民登记法4条1项,居住地转移申请已生效。<br><br>[colour='FFFFFFAA']居民登记法4条1项:<br>[colour='FFFFAA00']纷争终结者公司发生转移时,公司的领袖可无视居住地制约而转移到相应公司所在的地点。[colour='FFFFE959']<br><br>转移居住地后3个月内不建立公司,则该申请将会失效,敬请留意。<br><br>希望你能在新的地方开展更加美好的事业。<br><br>[colour='FFFFFFFF']风之壁地区事务官哈维尔敬上
 #6446	[!SystemMail]거주지 이전 신청 결과를 알려드립니다.	[!SystemMail]居住地转移申请结果通知。
 #6447	[!SystemMail][colour='FFFFE959']안녕하십니까. 현장 실습생 [colour='FFFFFFFF']알버스 번스타인[colour='FFFFE959']님<br><br>저는 아르월의 리더 [colour='FFFFFFFF']나디아 루이스[colour='FFFFE959']입니다.<br><br>먼저 귀하의 3개월간의 현장 실습이 무사히 끝난 것을 축하드립니다.<br>알버스 님의 평가는 저희 담당관이신 [colour='FFFFFFFF']장 루이스[colour='FFFFE959']님께서 평가하여 발할라 경찰청에 보고하였습니다.<br>알버스 님에게 좋은 결과가 있길 바라며 저희 '아르월'을 현장 실습 회사로 찾아주셔서 다시 한번 감사드립니다.<br><br>동봉한 금액은 3개월간의 활동에 관한 보상금입니다.<br><br>알버스 님과 다시 한번 현장에서 같이 뛰어가는 날을 기대하겠습니다.<br><br>[colour='FFFFFFFF']아르월 대표 나디아 루이스	[!SystemMail][colour='FFFFE959']你好。现场实习生[colour='FFFFFFFF']阿尔伯斯伯恩斯坦[colour='FFFFE959'],<br><br>我是阿尔月的领袖[colour='FFFFFFFF']纳迪亚路易斯[colour='FFFFE959']。<br><br>首先恭喜你完成了为时3个月的现场实习。<br>阿尔伯斯你的评价是由我们的担当官[colour='FFFFFFFF']张路易斯[colour='FFFFE959']进行的,并已向巴赫拉警察厅进行了报告。<br>希望阿尔伯斯你能有个好成绩,同时再次感谢你选择我们'阿尔月'为现场实习公司。<br><br>附在邮件内的金额是你这3个月的工作奖金。<br><br>希望日后能和阿尔伯斯你一起工作。<br><br>[colour='FFFFFFFF']阿尔月代表纳迪亚路易斯
 #6448	[!SystemMail]현장 실습생 알버스 님 축하드립니다.	[!SystemMail]现场实习生阿尔伯斯,恭喜你。
@@ -3905,8 +3905,8 @@
 #7344	[!ObjectInfo]스푼교 돌격병	[!ObjectInfo]勺子教突击兵
 #7345	[!ObjectInfo]전파 방해기	[!ObjectInfo]电波干扰器
 #7346	[!Office]발할라, 세계수 지구, 삐죽빼죽 거리 80 노릇노릇 통나무집 201호	[!Office]巴赫拉,世界树地区,参差街80焦黄圆木屋201号
-#7347	[!Office]은빛 구름 역 5분 거리<br>발할라 경찰청과 5분 거리<br>주인과 협의 후 창고 사용 가능	[!Office]离银色云彩站有5分钟距离<br>离巴赫拉警察厅有5分钟距离<br>使用仓库前需与主人协商
-#7348	[!Office]발할라, 바람장벽 지구, 은빛 구름 거리 356 실버라이닝 건물 102호	[!Office]巴赫拉,风之墙壁地区,银色云彩大街356沙佛莱宁楼102号
+#7347	[!Office]은빛 구름 역 5분 거리<br>발할라 경찰청과 5분 거리<br>주인과 협의 후 창고 사용 가능	[!Office]离银云站有5分钟距离<br>离巴赫拉警察厅有5分钟距离<br>使用仓库前需与主人协商
+#7348	[!Office]발할라, 바람장벽 지구, 은빛 구름 거리 356 실버라이닝 건물 102호	[!Office]巴赫拉,风之壁地区,银云大街356沙佛莱宁楼102号
 #7349	[!Office]실버라이닝 102호	[!Office]沙佛莱宁102号
 #7351	[!Organization]스푼교	[!Organization]勺子教
 #7352	[!Rest]머리가 아플정도야...	[!Rest]头都痛了…
@@ -4283,9 +4283,9 @@
 #7767	[!WordCollection][!Menu]급여 연체 횟수	[!WordCollection][!Menu]欠薪次数
 #7768	[!WordCollection]임금	[!WordCollection]薪水
 #7769	[!WordCollection][!Menu]전용 면적	[!WordCollection][!Menu]专用面积
-#7773	[!Ability]쉐이크샷 - 가스	[!Ability]喷射-毒气
-#7774	[!Ability]쉐이크샷 - 화염	[!Ability]喷射-火焰
-#7775	[!Ability]쉐이크샷 - 빙결	[!Ability]喷射-寒冰
+#7773	[!Ability]쉐이크샷 - 가스	[!Ability]喷射 - 毒气
+#7774	[!Ability]쉐이크샷 - 화염	[!Ability]喷射 - 火焰
+#7775	[!Ability]쉐이크샷 - 빙결	[!Ability]喷射 - 寒冰
 #7776	[!Ability]하늘에서 별빛을 떨어뜨려 $DamageAmount$의 $DamageType$ 피해를 입힙니다. 피해를 입힌 대상의 기력을 $ApplyCost$ 빼앗아 옵니다.	[!Ability]星光从天而降造成$DamageAmount$的$DamageType$伤害。从受到伤害的目标处偷取$ApplyCost$的气力。
 #7782	[!Buff]양꼬치	[!Buff]羊肉串
 #7786	[!CivilMessage]재수 없으려니까!	[!CivilMessage]真倒霉!
@@ -4597,9 +4597,9 @@
 #8239	[!SystemMail]안녕하세요. 트러블슈터 개발팀입니다.<br><tab><br><tab>훈련서를 습득하는 컨텐츠 공급이 늦어짐에 따라 유저분들의 훈련서 아이템 수급이 원활하지 않게 되었습니다.<br><tab><br><tab>이에 유저분들의 원활한 플레이를 위해 임의로 훈련서 아이템을 지급해 드립니다.<br><tab><br><tab>더욱 분발하는 트러블슈터 개발팀이 되겠습니다.<br><tab><br><tab>감사합니다.<br><tab>	[!SystemMail]你好。这里是纷争终结者开发团队。<br><tab><br><tab>学习训练书所需的内容的提供有所延迟,导致了用户们的训练书物品的获取出现了问题。<br><tab><br><tab>为了用户们的游戏体验,现发放任意的训练书物品。<br><tab><br><tab>我们纷争终结者开发团队将会加倍奋发努力的。<br><tab><br><tab>谢谢。<br><tab>
 #8240	[!SystemMail]시스템	[!SystemMail]系统
 #8241	[!SystemMail]아이템 지급 안내	[!SystemMail]发放物品介绍
-#8245	[!Loading]푸른안개 거리	[!Loading]蓝色雾霭大街
+#8245	[!Loading]푸른안개 거리	[!Loading]蓝雾大街
 #8247	[!Loading]저 높은 곳에...	[!Loading]那么高的地方…
-#8249	[!Mission]푸른 안개 거리의 적을 제압하시오.	[!Mission]请镇压蓝色雾霭大街的敌人。
+#8249	[!Mission]푸른 안개 거리의 적을 제압하시오.	[!Mission]请镇压蓝雾大街的敌人。
 #8250	[!ObjectInfo]꽃집 주인 베보	[!ObjectInfo]花店主人贝博
 #8251	[!OptionGameplay]보통	[!OptionGameplay]一般
 #8252	[!OptionGameplay]약간 빠름	[!OptionGameplay]稍快
@@ -4657,7 +4657,7 @@
 #8331	[!Item]해골 부적	[!Item]骷髅符咒
 #8332	[!Item]작은 동물의 해골로 만들어져 있습니다.	[!Item]是由小动物的骸骨制成。
 #8333	[!Item]하산의 팔찌	[!Item]哈山的手镯
-#8334	[!Item]하산이 황소파 간부 시절 스콧과 함께 조직을 이끌던 시기부터 쓰던 화염 특화 팔찌.	[!Item]哈山在公牛组作为干部，和斯科特一起带领着组织时期开始佩戴的火焰特性手镯。
+#8334	[!Item]하산이 황소파 간부 시절 스콧과 함께 조직을 이끌던 시기부터 쓰던 화염 특화 팔찌.	[!Item]哈山在狂牛组作为干部，和斯科特一起带领着组织时期开始佩戴的火焰特性手镯。
 #8335	[!Item]자홍빛 카본 부츠	[!Item]紫红色石墨靴子
 #8336	[!Item]자홍거리에서 유통되는 카본 부츠의 강화 버전. 뒷세계에서 매우 인기 있는 부츠이다.	[!Item]紫红街流通的石墨靴子的加强版。是一款在地下世界里非常有人气的靴子。
 #8337	[!Item]도깨비 핑크는 울면서 용서를 구하는 나쁜 아이들에게 언제나 이렇게 말한다. "이미 늦었어!"	[!Item]粉红妖怪总是对哭着求饶的坏孩子们说，"已经太迟了!"
@@ -4665,8 +4665,8 @@
 #8339	[!Item]자홍거리에서 유통되는 순은 손목 고리의 강화된 버전. 뒷세계에서 매우 인기 있는 손목 고리이다.	[!Item]紫红街流通的纯银手链的加强版。是一款在地下世界里非常有人气的手链。
 #8340	[!Item]자홍빛 원소 술사 코트	[!Item]紫红色元素术士外套
 #8341	[!Item]자홍거리에서 유통되는 원소 술사 코트의 강화 버전. 뒷세계에서 매우 인기 있는 코트이다.	[!Item]紫红街流通的元素术士外套的加强版。是一款在地下世界里非常有人气的外套。
-#8344	[!Item]성난 황소 간부복	[!Item]愤怒的公牛干部服
-#8345	[!Item]스콧이 황소파의 2대 보스로 조직을 장악하는 날, 자신을 따르던 젊은 간부들에게 하사한 자켓.	[!Item]斯科特作为公牛组的二代首领接管组织的那一天，颁发给跟随自己的年轻干部们的夹克服。
+#8344	[!Item]성난 황소 간부복	[!Item]狂牛干部服
+#8345	[!Item]스콧이 황소파의 2대 보스로 조직을 장악하는 날, 자신을 따르던 젊은 간부들에게 하사한 자켓.	[!Item]斯科特作为狂牛组的二代首领接管组织的那一天，颁发给跟随自己的年轻干部们的夹克服。
 #8346	[!Item]화염술사 반지	[!Item]火焰术士戒指
 #8347	[!Item]블랙독 활동복	[!Item]黑狗活动服
 #8348	[!Item]현상 수배범 올리버의 전투 활동복이다. 초능력자들과의 전투를 고려하여 화염, 얼음, 번개 속성에 대한 이능력 저항력 처리가 되어 있다.	[!Item]悬赏通缉犯奥利弗的战斗活动服。考虑到对战异能者，该服饰进行了火焰、寒冰、闪电属性的抗性处理。
@@ -4726,9 +4726,9 @@
 #8460	[!Loading]달 밝은 밤에	[!Loading]月光如练的夜里
 #8461	[!Mission]스푼교의 정보를 입수하시오.	[!Mission]请收集勺子教的情报。
 #8462	[!ObjectInfo]내부망	[!ObjectInfo]内网
-#8463	[!Suggestion]아이작은 바람장벽 지구 경찰청의 비공식 임무를 제안합니다.<br><br>[colour='FFFFFF00']아이작의 제안 수락 시 알버스와 시온, 아이린이 진행하는 시나리오 미션이 진행됩니다. 미리 장비를 점검하세요.	[!Suggestion]艾萨克提议了风之墙壁地区警察厅的非公开任务。<br><br>[colour='FFFFFF00']接受艾萨克的提议后,将要开启由阿尔伯斯、席翁、艾琳进行的剧情任务。请提前检查装备。
+#8463	[!Suggestion]아이작은 바람장벽 지구 경찰청의 비공식 임무를 제안합니다.<br><br>[colour='FFFFFF00']아이작의 제안 수락 시 알버스와 시온, 아이린이 진행하는 시나리오 미션이 진행됩니다. 미리 장비를 점검하세요.	[!Suggestion]艾萨克提议了风之壁地区警察厅的非公开任务。<br><br>[colour='FFFFFF00']接受艾萨克的提议后,将要开启由阿尔伯斯、席翁、艾琳进行的剧情任务。请提前检查装备。
 #8464	[!Loading]한산도 하역장	[!Loading]闲山岛装卸场
-#8465	[!SystemMail][colour='FFFFE959']$CompanyName$ 제군들. 감사하네.<br><br>자네들이 한산도 하역장에서 가져온 정보는 '스푼교'를 제압하는데 새로운 국면을 열 것이네. <br><br>자네들의 활약이 더욱 더 필요하다는 뜻이네.<br><br>약속한 보수는 공식 임무 처리되어 활동보고서에 반영되었네.<br><br>그리고 자네들이 확보한 정보에 대한 보수를 추가적으로 보내네.<br><br>자네들의 성장에 많은 도움이 되었으면 하네.<br><br>자네들의 성장이 곧 이 지구의 미래일세.<br><br>다음엔 현장에서 같이 뛰면서 보기로 하세.<br><br>[colour='FFFFFFFF']바람장벽지구 경비대 경감 아이작 고든	[!SystemMail][colour='FFFFE959']$CompanyName$的各位！多谢大家。<br><br>你们从闲山岛装卸场带回来的情报,将会打开镇压'勺子教'的新局面。<br><br>这表明后续还是需要大家的多多的效力。<br><br>约定好的报酬已经反应到了官方任务活动报告书内了。<br><br>另外对于你们带来的情报，我再额外发放一些奖金。<br><br>希望能助于你们的成长。<br><br>你们的成长就是这个地区的未来！<br><br>下次我们现场再会。<br><br>[colour='FFFFFFFF']风之墙壁地区警卫队警监艾萨克高登
+#8465	[!SystemMail][colour='FFFFE959']$CompanyName$ 제군들. 감사하네.<br><br>자네들이 한산도 하역장에서 가져온 정보는 '스푼교'를 제압하는데 새로운 국면을 열 것이네. <br><br>자네들의 활약이 더욱 더 필요하다는 뜻이네.<br><br>약속한 보수는 공식 임무 처리되어 활동보고서에 반영되었네.<br><br>그리고 자네들이 확보한 정보에 대한 보수를 추가적으로 보내네.<br><br>자네들의 성장에 많은 도움이 되었으면 하네.<br><br>자네들의 성장이 곧 이 지구의 미래일세.<br><br>다음엔 현장에서 같이 뛰면서 보기로 하세.<br><br>[colour='FFFFFFFF']바람장벽지구 경비대 경감 아이작 고든	[!SystemMail][colour='FFFFE959']$CompanyName$的各位！多谢大家。<br><br>你们从闲山岛装卸场带回来的情报,将会打开镇压'勺子教'的新局面。<br><br>这表明后续还是需要大家的多多的效力。<br><br>约定好的报酬已经反应到了官方任务活动报告书内了。<br><br>另外对于你们带来的情报，我再额外发放一些奖金。<br><br>希望能助于你们的成长。<br><br>你们的成长就是这个地区的未来！<br><br>下次我们现场再会。<br><br>[colour='FFFFFFFF']风之壁地区警卫队警监艾萨克高登
 #8466	[!SystemMail]아이작 고든	[!SystemMail]艾萨克高登
 #8467	[!SystemMail]자네들의 노력에 경의를 표하네.	[!SystemMail]为你们的努力表示敬意。
 #8469	[!Equipment]의상	[!Equipment]服装
@@ -5005,18 +5005,18 @@
 #8835	[!Ability]공간베기	[!Ability]空间切割
 #8836	[!Item]종이학	[!Item]纸鹤
 #8839	[!Item]액션 배우 시절, 검술을 배우기 위해 오랫동안 다녔던 도장의 관장님이 랄프가 도장을 떠나는 날 선물해준 검이다.	[!Item]当年拉尔夫做动作演员的时候，为了学习剑术在一家道馆求学。这把剑是拉尔夫离开道馆的时候，馆长送他的礼物。
-#8840	[!Loading]잿빛 항구 A 선착장	[!Loading]灰色港口A码头
+#8840	[!Loading]잿빛 항구 A 선착장	[!Loading]灰港A码头
 #8841	[!Loading]칠전팔기	[!Loading]百折不挠
 #8842	[!Mission]테러범을 처치하고 폭탄 차량 확보	[!Mission]处理恐怖分子，确保炸弹车
-#8843	[!Site]잿빛 항구 하역장	[!Site]灰色港口装卸场
+#8843	[!Site]잿빛 항구 하역장	[!Site]灰港装卸场
 #8844	[!Buff]흔들기	[!Buff]摇晃
 #8845	[!GuideMessage]$Friend$ 와의 우호도가 $Change$ 만큼 증가합니다.	[!GuideMessage]和$Friend$的友好度增加$Change$。
 #8846	[!GuideMessage]현재 지형에서는 사용이 불가능합니다.	[!GuideMessage]在当前地形无法使用。
-#8847	[!Item]황소의 인장	[!Item]公牛符文
-#8848	[!Item]성난 황소의 상징이 새겨져 있습니다.	[!Item]刻着愤怒公牛的形象。
+#8847	[!Item]황소의 인장	[!Item]狂牛符文
+#8848	[!Item]성난 황소의 상징이 새겨져 있습니다.	[!Item]刻着愤怒狂牛的形象。
 #8849	[!Item]료가 구룡회의 살수가 되는 날 동생이 행운을 빌며 준 빨간 색종이로 접은 종이학 입니다.	[!Item]这是亮成为九龙会杀手的那一天，他弟弟为他祈福并用红色彩纸折的纸鹤。
-#8850	[!Item]성난 황소 리더복	[!Item]愤怒的公牛首领服
-#8851	[!Item]스콧이 황소파의 2대 보스로 조직을 장악하는 날, 보스의 위엄을 세우기 위해 새로 제작된 자켓	[!Item]斯科特作为公牛组的二代首领接过组织的那一天，为了立首领之威而新制的夹克
+#8850	[!Item]성난 황소 리더복	[!Item]狂牛首领服
+#8851	[!Item]스콧이 황소파의 2대 보스로 조직을 장악하는 날, 보스의 위엄을 세우기 위해 새로 제작된 자켓	[!Item]斯科特作为狂牛组的二代首领接过组织的那一天，为了立首领之威而新制的夹克
 #8853	[!Job]도로리	[!Job]多罗利
 #8854	[!OptionGameplay]어빌리티 카메라 끄기	[!OptionGameplay]关闭技能镜头
 #8855	[!OptionGameplay]타겟팅 카메라 끄기	[!OptionGameplay]关闭指向镜头
@@ -5030,8 +5030,8 @@
 #8866	[!WordCollection]이름순	[!WordCollection]按名称排列
 #8867	[!WordCollection]비용 낮은 순	[!WordCollection]费用升序
 #8868	[!WordCollection]비용 높은 순	[!WordCollection]费用降序
-#8869	[!Mission]화난 술통 상점가 야외 주차장	[!ZoneEventGen]愤怒的酒桶商店街野外停车场
-#8871	[!Loading]성난 술통 상점가	[!Loading]愤怒的酒桶商店街
+#8869	[!Mission]화난 술통 상점가 야외 주차장	[!ZoneEventGen]怒酒商店街野外停车场
+#8871	[!Loading]성난 술통 상점가	[!Loading]怒酒商店街
 #8872	[!Loading]이 일만 끝나면...	[!Loading]只要这件事结束了…
 #8874	[!WordCollection]별점 높은 순	[!WordCollection]星点降序
 #8875	[!WordCollection]별점 낮은 순	[!WordCollection]星点升序
@@ -5055,7 +5055,7 @@
 #8898	[!Item]배달 손목 보호대	[!Item]快递员护腕
 #8899	[!Item]오토바이로 거리를 질주해야 하는 배달부들의 안전을 위해 물리적인 충격에 매우 강력하게 제작된 손목 보호대.	[!Item]为了要骑着摩托车飞奔在大街上的快递送餐员们的安全，可以防护强大的物理冲击的护腕。
 #8900	[!ItemType]진압 방패	[!ItemType]镇压盾牌
-#8903	[!Loading]그늘 안개 슬럼가	[!Loading]阴影之雾霭贫民区
+#8903	[!Loading]그늘 안개 슬럼가	[!Loading]沉雾贫民区
 #8904	[!Loading]축제 전야	[!Loading]庆典前夕
 #8907	[!Mastery]광기의 끝을 낙관하지 마라.	[!Mastery]不要对疯狂的尽头持有乐观态度。
 #8908	[!Mastery]광기 어린 짐승	[!Mastery]疯狂的野兽
@@ -5103,7 +5103,7 @@
 #8961	[!Troublebook]내가 하고 싶은 것	[!Troublebook]我想做的事
 #8962	[!Troublebook]부모를 잃은 알버스는 발할라의 재해민 지원 정책에 따라 후견인으로 릴리가 지정된다. 그리고 거주지는 고향이 아닌 '세계수' 지구로 배정 받는다. 릴리 고모의 후원은 언제나 풍족했기에 부족함없이 지낼 수 있었지만 연고도 없는 곳에서 어린 나이에 모든 것을 혼자 해내야하는 것은 매우 힘든 일이었다. 그리고 알버스는 트러블슈터가 되자마자 고향으로 돌아가기를 결심한다.	[!Troublebook]失去双亲的阿尔伯斯根据巴赫拉的灾民支援政策，由莉莉姑姑被指定为他的监护人。并且，居住地从他的故乡变成了'世界树'地区。莉莉姑姑对他的支持总是颇丰，使得他的生活过得并不会过紧。但是在那个无亲无故的地方，小小年纪的他需要独自料理自己的生活却是个非常困难的事情。后来阿尔伯斯成为了纷争终结者之后，他决定回到故乡去。
 #8963	[!Troublebook]안녕. 세계수 지구	[!Troublebook]再见, 世界树地区
-#8964	[!Troublebook]은빛 구름 거리 356	[!Troublebook]银色云彩大街356号
+#8964	[!Troublebook]은빛 구름 거리 356	[!Troublebook]银云大街356号
 #8965	[!Troublebook]떠나는 날은 언제나...	[!Troublebook]离开的日子总是…...
 #8966	[!Troublebook]람지플라자에서 갑자기 벌어진 『스푼교』의 테러 사건은 알버스 혼자 감당하기엔 매우 힘든 일이었다. 하지만 현장에 있었던 사람들의 도움으로 가까스로 스푼교도들을 제압하게 된다.	[!Troublebook]蓝地广场上突发的『勺子教』恐怖事件对于阿尔伯斯来说是无法独自承担的。但是有了现场的人们的帮助，他才牵强地制服了勺子教信徒们。
 #8967	[!Troublebook]인연	[!Troublebook]缘分
@@ -5123,7 +5123,7 @@
 #8985	[!Troublebook]조각 맞추기	[!Troublebook]拼图
 #8986	[!Troublebook]자홍거리 뒷골목	[!Troublebook]紫红街后巷
 #8987	[!Troublebook]번져가는 자홍빛 불빛	[!Troublebook]翻转的紫红色火光
-#8988	[!Troublebook]푸른안개 거리	[!Troublebook]蓝色雾霭大街
+#8988	[!Troublebook]푸른안개 거리	[!Troublebook]蓝雾大街
 #8989	[!Troublebook]저 높은 곳에...	[!Troublebook]那么高的地方…
 #8990	[!Troublebook]바 실버라이닝	[!Troublebook]沙佛莱宁酒吧
 #8991	[!Troublebook]과거의 사슬	[!Troublebook]过往的锁链
@@ -5134,7 +5134,7 @@
 #8996	[!Troublebook]잿빛 공원묘지	[!Troublebook]灰色公园墓地
 #8997	[!Troublebook]오늘도 함께	[!Troublebook]今天也一起
 #8998	[!Troublebook]제 2 장. 균열의 시작	[!Troublebook]第二章。龟裂的开端
-#8999	[!Troublebook]잿빛 항구 A 선착장	[!Troublebook]灰色港口A码头
+#8999	[!Troublebook]잿빛 항구 A 선착장	[!Troublebook]灰港A码头
 #9000	[!Troublebook]가면 속의 그림자	[!Troublebook]面具背后的影子
 #9001	[!Troublebook]철의 숲 간이역	[!Troublebook]铁森林临时站点
 #9002	[!Troublebook]어부지리	[!Troublebook]渔翁之利
@@ -5143,7 +5143,7 @@
 #9006	[!WordCollection]접속 불가	[!WordCollection]连接不可能
 #9007	[!WordCollection]반응 속도	[!WordCollection]反应速度
 #9008	[!Troublebook]사건 현장에 휘말린 시온의 활약을 본 알버스는 시온에게 자신의 회사에 입사하도록 권유한다. 오랜 아르바이트 생활로 생활고를 겪던 시온은 알버스의 매력적인 제안에 알버스의 회사에 입사하기로 결정한다.	[!Troublebook]看到被卷入现场中席翁的活跃身姿，阿尔伯斯邀请席翁加入到自己的公司里来。经历了长期的打工生活，尝尽了酸甜苦辣的席翁一听到阿尔伯斯这个吸引人的提案，就决定加入到阿尔伯斯他们公司去。
-#9009	[!Troublebook]히어로 아이린은 바람장벽 지구의 유명 인사이다. 범죄가 있는 곳이라면 어디든지 달려가 악당들을 해치운다. 하지만 그녀의 이러한 행동은 어디까지나 발할라에서 허락되지 않은 '불법' 행위다.	[!Troublebook]英雄艾琳是风之墙壁地区的著名人士。只要有犯罪发生，她就会出现在那里，解决掉那些恶徒们。然而她的此类的行动在巴赫拉却是个不被允许的'违法'行为。
+#9009	[!Troublebook]히어로 아이린은 바람장벽 지구의 유명 인사이다. 범죄가 있는 곳이라면 어디든지 달려가 악당들을 해치운다. 하지만 그녀의 이러한 행동은 어디까지나 발할라에서 허락되지 않은 '불법' 행위다.	[!Troublebook]英雄艾琳是风之壁地区的著名人士。只要有犯罪发生，她就会出现在那里，解决掉那些恶徒们。然而她的此类的行动在巴赫拉却是个不被允许的'违法'行为。
 #9010	[!Troublebook]아이린 출동!	[!Troublebook]艾琳出击!
 #9011	[!Troublebook]티마는 철의 숲 최상위 포식자였으나 인간이 철의 숲에 도로를 내면서 오랜 분쟁이 시작되었다. 이 분쟁은 한때 인간이 승리하는 것처럼 보였으나 한 차례의 세계 대전과 발할라 건국 등으로 인해 철의 숲 개발이 인간들의 관심사에서 멀어지되자 그 틈을 타 티마 무리는 살아남아 다시금 거대한 군락을 이룬다.	[!Troublebook]蒂玛曾是铁森林中最高级捕猎者，但是自从人类在铁森林里开了道路，就引发了长久的纷争。一时间，这种纷争由人类取得了胜利，但是后来经过一次世界大战和巴赫拉建国等事件，铁森林的开发逐渐从人们的视线中淡出时，蒂玛趁着这个机会存活了下来，并组成了巨大的群落。
 #9012	[!Troublebook]야수 티마	[!Troublebook]野兽蒂玛
@@ -5151,23 +5151,23 @@
 #9014	[!Troublebook]발할라의 빛이 되리라	[!Troublebook]成为巴赫拉之光
 #9015	[!Troublebook]빈민가 '앨리' 출신의 카터, 레톤, 레이, 헤이싱. 네 명의 친구들은 서로의 강한 운명의 끈을 따라 다시금 모이게 된다.	[!Troublebook]贫民街'艾丽'出身的卡特、莱顿、雷伊、黑星。这四位朋友依着各自的强大的命运之线，重新汇聚在一起。
 #9016	[!Troublebook]다시 만난 친구들	[!Troublebook]再会的朋友们
-#9017	[!Troublebook]10년 동안 바람장벽 지구에서 강력한 영향력을 행사해 온 범죄 조직 '성난 황소'가 작은 사건을 시작으로 궤멸하기 시작하자 보스인 스콧은 다급하게 조직원들을 모아 자홍 뒷거리에서 재기를 준비한다.	[!Troublebook]在风之墙壁地区持续占据了十年之久，有着强大影响力的犯罪团伙'愤怒的公牛'因为小小的事件而开始了溃灭。作为其首领的斯科特急忙聚集起组织成员们，在紫红后巷准备东山再起。
-#9018	[!Troublebook]성난 황소 울음소리	[!Troublebook]愤怒公牛的吼声
+#9017	[!Troublebook]10년 동안 바람장벽 지구에서 강력한 영향력을 행사해 온 범죄 조직 '성난 황소'가 작은 사건을 시작으로 궤멸하기 시작하자 보스인 스콧은 다급하게 조직원들을 모아 자홍 뒷거리에서 재기를 준비한다.	[!Troublebook]在风之壁地区持续占据了十年之久，有着强大影响力的犯罪团伙'狂牛'因为小小的事件而开始了溃灭。作为其首领的斯科特急忙聚集起组织成员们，在紫红后巷准备东山再起。
+#9018	[!Troublebook]성난 황소 울음소리	[!Troublebook]愤怒狂牛的吼声
 #9019	[!Troublebook]아이린은 오랜 시간 히어로가 되기 위해 노력했다. 하지만 사회적인 틀에 갇히기 싫었던 아이린은 언제나 혼자였고 사람들은 그녀를 인정하지 않았다. 그럼에도 불구하고 그녀는 히어로는 언제나 외로운 거라고 생각하며 꿋꿋이 버텨왔다. 하지만 자신의 활동이 누군가에게 방해가 되고 자신이 참가한 현장에서 좋지 않은 결과가 나올때마다 아이린의 마음은 무거워 질 수 밖에 없었다.	[!Troublebook]艾琳长期努力成为一名英雄。然而不想被社会的条条框框拘束着的她总是一个人行动，人们也不认可她。即便如此，她也秉承着英雄总会孤寂的念头坚持了下来。但是她自己的行动给人带来妨碍或自己参与的现场出现了不好的结果时，她的心情却沉重无比。
 #9020	[!Troublebook]고민하는 아이린	[!Troublebook]苦恼的艾琳
 #9021	[!Troublebook]벤데타의 마르코가 동료인 크리스의 전언을 가지고 실버라이닝 바의 돈을 찾아 온다. 자신의 경쟁자이기도 한 크리스와 연관된 돈을 본 마르코는 장난기가 발동하지 않을 수 없었다.	[!Troublebook]凡蒂塔的马尔科带着他的同事克里斯的口信，去沙佛莱宁酒吧找敦。看到了作为自己的竞争者克里斯关系密切的敦，马尔科的调皮劲又萌生了出来。
 #9022	[!Troublebook]인연의 사슬	[!Troublebook]缘分的锁链
-#9023	[!Troublebook]보스 '스콧'의 명령 아래 스푼교도를 지원하던 성난 황소 파 조직원들은 오히려 스푼교도에게 도움을 받는 처지가 된다.	[!Troublebook]根据首领'斯科特'的命令支援着勺子教信徒们的愤怒公牛组的成员们，反而变成了需要勺子教信徒们帮助的处境。
+#9023	[!Troublebook]보스 '스콧'의 명령 아래 스푼교도를 지원하던 성난 황소 파 조직원들은 오히려 스푼교도에게 도움을 받는 처지가 된다.	[!Troublebook]根据首领'斯科特'的命令支援着勺子教信徒们的愤怒狂牛组的成员们，反而变成了需要勺子教信徒们帮助的处境。
 #9024	[!Troublebook]한솥밥	[!Troublebook]一锅饭
-#9025	[!Troublebook]계속 늘어나는 바람장벽 지구의 스푼교도들에 대한 실마리를 찾던 아이작 경감은 드디어 스푼교도들의 꼬리를 잡는다. 경찰 내부의 배신자가 있음을 인지한 아이작은 이 스푼교도들의 실마리를 잡기 위해 트러블슈터의 도움을 구하기로 결심한다.	[!Troublebook]在寻找风之墙壁地区源源不断地涌出的勺子教信徒们相关线索的艾萨克警监，最终抓到了勺子教信徒们的尾巴。感觉到警察内部出现了叛徒的艾萨克打算请求纷争终结者来挖掘勺子教信徒们的线索。
+#9025	[!Troublebook]계속 늘어나는 바람장벽 지구의 스푼교도들에 대한 실마리를 찾던 아이작 경감은 드디어 스푼교도들의 꼬리를 잡는다. 경찰 내부의 배신자가 있음을 인지한 아이작은 이 스푼교도들의 실마리를 잡기 위해 트러블슈터의 도움을 구하기로 결심한다.	[!Troublebook]在寻找风之壁地区源源不断地涌出的勺子教信徒们相关线索的艾萨克警监，最终抓到了勺子教信徒们的尾巴。感觉到警察内部出现了叛徒的艾萨克打算请求纷争终结者来挖掘勺子教信徒们的线索。
 #9026	[!Troublebook]추적의 실마리	[!Troublebook]追踪的线索
 #9027	[!Troublebook]집에 가던 앤의 눈을 한순간에 사로잡은 루나. 세상 일에 흥미를 느끼지 못하는 루나를 보며 앤은 자신이 그녀의 친구가 되어 그녀가 미소 지을 수 있다면 좋겠다라는 생각을 하게 된다.	[!Troublebook]回家的路上，露娜瞬间吸引了安的视线。看到对世事提不起兴趣的露娜，安想着如果自己能成为她的朋友，让她微笑该多好。
 #9028	[!Troublebook]만남 그리고 이별	[!Troublebook]相遇和别离
-#9029	[!Troublebook]바람장벽 지구의 스푼교도들의 활동들이 공공연해지고 스푼교도들의 사건이 증가한다. 이런 스푼교도들의 활동은 료와 같은 청부 살인업자들을 불러들인다.	[!Troublebook]风之墙壁地区勺子教信徒们的活动开始明目张胆了，而且勺子教信徒们引发的案件也开始频发。这类勺子教信徒们的活动招来了像亮这种承包他们的杀手。
+#9029	[!Troublebook]바람장벽 지구의 스푼교도들의 활동들이 공공연해지고 스푼교도들의 사건이 증가한다. 이런 스푼교도들의 활동은 료와 같은 청부 살인업자들을 불러들인다.	[!Troublebook]风之壁地区勺子教信徒们的活动开始明目张胆了，而且勺子教信徒们引发的案件也开始频发。这类勺子教信徒们的活动招来了像亮这种承包他们的杀手。
 #9030	[!Troublebook]새로운 도전	[!Troublebook]新的挑战
 #9031	[!Troublebook]철의 숲으로 숨어든 스푼교도들은 필연적으로 티마들과 활동 영역이 겹치면서 대립하게 된다. 이런한 대립은 때로는 스푼교도들을 검거하려는 발할라 경찰들과 트러블슈터들의 손을 덜어주는 상황도 발생한다.	[!Troublebook]藏匿到铁森林的勺子教信徒们不出意外地进入到了蒂玛们的活动领域，并开始了对峙。这种对峙有时候会为想要逮捕勺子教信徒们的警察们和纷争终结者们省不少事儿。
 #9032	[!Troublebook]배후의 그림자	[!Troublebook]背后的阴影
-#9033	[!Troublebook]샤키의 『첫술』들이 만들어낸 『좌표』는 발할라 전 지역으로 퍼져나갔고 그 『좌표』를 따라 많은 스푼교도들이 바람장벽 지구에 도착한다.	[!Troublebook]沙基的『第一勺』们做出来的『坐标』扩散到了巴赫拉全境，根据这个『坐标』，大量的勺子教信徒们抵达了风之墙壁地区。
+#9033	[!Troublebook]샤키의 『첫술』들이 만들어낸 『좌표』는 발할라 전 지역으로 퍼져나갔고 그 『좌표』를 따라 많은 스푼교도들이 바람장벽 지구에 도착한다.	[!Troublebook]沙基的『第一勺』们做出来的『坐标』扩散到了巴赫拉全境，根据这个『坐标』，大量的勺子教信徒们抵达了风之壁地区。
 #9034	[!Troublebook]다가오는 그 날	[!Troublebook]到来的那一天
 #9035	[!OptionGameplay]타일 정보 표시	[!OptionGameplay]表示格子信息
 #9036	[!Tile]풀숲	[!Tile]草丛
@@ -5186,7 +5186,7 @@
 #9052	[!Mastery]상대방을 위한다는 것은 자신의 방식을 포기하는 것이다.	[!Mastery]为对方着想，就意味着放弃自己的方式。
 #9053	[!Mastery]배려	[!Mastery]关怀
 #9054	[!ObjectInfo]노점상 유스케	[!ObjectInfo]摊贩佑介
-#9055	[!Site]푸른 안개 상점가	[!Site]蓝色雾霭商店街
+#9055	[!Site]푸른 안개 상점가	[!Site]蓝雾商店街
 #9056	[!WordCollection]회사명 변경	[!WordCollection]变更公司名称
 #9059	[!WordCollection][!Menu]회사 정보	[!WordCollection][!Menu]公司信息
 #9060	[!WordCollection]변경 비용	[!WordCollection]变更费用
@@ -5219,7 +5219,7 @@
 #9093	[!Buff]수비	[!Buff]防守
 #9094	[!GuideMessage]시나리오 미션 진행 중 진행 상태에 따라 [colour='FFFFFF00']체크 포인트[colour='FFCCCCCC']가 활성화 됩니다. [colour='FFFFFF00']체크 포인트[colour='FFCCCCCC']는 항상 가장 마지막 지점으로 갱신됩니다.<br><br>[colour='FFFFFF00']체크 포인트[colour='FFCCCCCC']가 활성화되면 패배 혹은 게임 포기 시 마지막 [colour='FFFFFF00']체크 포인트[colour='FFCCCCCC'] 지점에서 다시 시작하실 수 있습니다.<br><br>[colour='FFFFFF00']체크 포인트[colour='FFCCCCCC']로 귀환시 참여한 팀원들은 모두 의욕이 추가 [colour='FFFFFFFF']50[colour='FFCCCCCC'] 소모됩니다.<br><br>[colour='FFFFFF00']체크 포인트[colour='FFCCCCCC']이후 획득한 아이템, 특성, 경험치는 모두 초기화 되므로 주의하시기 바랍니다.	[!GuideMessage]在剧情任务中根据进展情况将激活[colour='FFFFFF00']检查点[colour='FFCCCCCC']。[colour='FFFFFF00']检查点[colour='FFCCCCCC']总是保留最后一次更新的状况。当[colour='FFFFFF00']检查点[colour='FFCCCCCC']被激活后，失败或中途放弃后可以再次回到最后一个[colour='FFFFFF00']检查点[colour='FFCCCCCC']继续开始。当返回到[colour='FFFFFF00']检查点[colour='FFCCCCCC']时，所有队员会丢失[colour='FFFFFFFF']50[colour='FFCCCCCC']点的意志。要注意在[colour='FFFFFF00']检查点[colour='FFCCCCCC']之后获所获得的所有物品，天赋和经验值将会被初始化。
 #9096	[!Item]자동 소총 C - 300	[!Item]自动步枪C-300
-#9097	[!Item]카라스연방의 주력 군이 사용하는 현역 무기의 강화 버전. 바람장벽 지구의 거대 범죄 조직들이 주로 사용한다.	[!Item]卡拉斯联邦主力军使用的现役武器加强版。主要由风之墙壁地区的大型犯罪团伙在使用。
+#9097	[!Item]카라스연방의 주력 군이 사용하는 현역 무기의 강화 버전. 바람장벽 지구의 거대 범죄 조직들이 주로 사용한다.	[!Item]卡拉斯联邦主力军使用的现役武器加强版。主要由风之壁地区的大型犯罪团伙在使用。
 #9098	[!Item]백호 간부복	[!Item]白虎干部服
 #9099	[!Item]폭력 조직 백호 팀을 상징하는 하얀색과 검은 갈기가 그려진 간부복이다. 집회복보다 이능력 저항력이 강화되어 있다.	[!Item]象征暴力团伙白虎组的白色加上黑色鬃毛的干部服。带有比集会服更强的异能抗性。
 #9101	[!Mastery]승리를 위해 필요한 것은 포기하지 않는 마음이다.	[!Mastery]胜利所需的一切都不能抛弃的这份决心。
@@ -5244,7 +5244,7 @@
 #9135	[!Troublebook]트러블슈터들의 사건 해결 과정에 반감이 높았던 죠엘 경위는 자신의 분대가 투입되는 임무마다 트러블슈터를 배제한 채 임무를 진행하였다.	[!Troublebook]对于纷争终结者们的案件解决过程颇有反感的乔尔警卫，只要是自己分队参与的出战任务，他都将纷争终结者排除在外。
 #9136	[!Troublebook]불신	[!Troublebook]猜忌
 #9138	[!Troublebook]혼자만의 시간	[!Troublebook]独处的时光
-#9139	[!Troublebook]바람장벽 지구에서 일어나는 스푼교의 사건에 휘말리지 않기 위해 최대한 조직 활동을 자제해온 백호파는 벤데타의 마르코의 존재로 인해 어쩔 수 없이 현 사태에 참가하게 된다.	[!Troublebook]为了不卷入在风之墙壁地区发生的勺子教事件而最大限度控制着自身组织活动的白虎组，却因凡蒂塔马尔科的存在不得不加入到了事件中去。
+#9139	[!Troublebook]바람장벽 지구에서 일어나는 스푼교의 사건에 휘말리지 않기 위해 최대한 조직 활동을 자제해온 백호파는 벤데타의 마르코의 존재로 인해 어쩔 수 없이 현 사태에 참가하게 된다.	[!Troublebook]为了不卷入在风之壁地区发生的勺子教事件而最大限度控制着自身组织活动的白虎组，却因凡蒂塔马尔科的存在不得不加入到了事件中去。
 #9140	[!Troublebook]백호의 포효	[!Troublebook]白虎的咆哮
 #9141	[!Troublebook]자홍거리	[!Troublebook]紫红街
 #9142	[!Troublebook]엉켜버린 실타래	[!Troublebook]扭结的线团
@@ -5508,9 +5508,9 @@
 #9573	[!Help]조준 모드	[!Help]瞄准模式
 #9584	[!Help]발할라 경찰청은 트러블슈터의 활동을 지원하기 위하여 사건의 재해 등급에 따라 경찰 병력을 지원하고 있습니다.<br><br>지원된 유닛들은 해당 임무에 한하여 플레이어가 직접 움직일 수 있으며 해당 지원 유닛이 획득한 아이템, 특성의 경우, 플레이어의 소유가 됩니다.	[!Help]巴赫拉警察厅为了支援纷争终结者活动，会根据事件的危害级别输送警力。<br><br>支援过来的单位可在该任务内被玩家亲自操控。该支援单位获得的物品、天赋，将会属于玩家。
 #9585	[!Help]지원 병력	[!Help]支援部队
-#9586	[!Item]저격총 RM - 338	[!Item]狙击步枪RM - 338
-#9587	[!Item]저격총 RM - 348	[!Item]狙击步枪RM - 348
-#9588	[!Item]저격총 RM - 358	[!Item]狙击步枪RM - 358
+#9586	[!Item]저격총 RM - 338	[!Item]狙击步枪RM-338
+#9587	[!Item]저격총 RM - 348	[!Item]狙击步枪RM-348
+#9588	[!Item]저격총 RM - 358	[!Item]狙击步枪RM-358
 #9589	[!KeyBinding]미니맵 보기	[!KeyBinding]小地图
 #9591	[!Mastery]정밀 사격	[!Mastery]精密射击
 #9592	[!SystemMenu]도움말	[!SystemMenu]帮助
@@ -5612,8 +5612,8 @@
 #9694	[!ObjectInfo]전격 야샤	[!ObjectInfo]闪电夜叉
 #9695	[!Status]명중률	[!Status]命中率
 #9696	[!Status][!Short]명중률	[!Status][!Short]命中率
-#9697	[!Item]스틸헤드 장식	[!Item]铁头的装饰
-#9698	[!Item]팀 스틸헤드의 상징물입니다.	[!Item]铁头队的标志。
+#9697	[!Item]스틸헤드 장식	[!Item]铁首的装饰
+#9698	[!Item]팀 스틸헤드의 상징물입니다.	[!Item]铁首队的标志。
 #9699	[!Item]이능석으로 만들어진 은빛 해골 머리 장식입니다.	[!Item]用异能石制成的银色的骷髅装饰。
 #9701	[!Mastery]그대에게 베푸는 최대의 관용일세. 단 한발.	[!Mastery]这是我给你的最大的宽容。只一枪。
 #9702	[!Mastery]핏빛 탄환	[!Mastery]血色弹丸
@@ -5650,10 +5650,10 @@
 #9755	[!Tile]눈	[!Tile]雪
 #9756	[!Troublebook]카터가 헤이싱을 불러냈을 때, 헤이싱은 먼저 입을 연다. '카터. 내가 갈게.'	[!Troublebook]当卡特叫来黑星时，黑星率先开口说道。'卡特，让我去吧。'
 #9757	[!Troublebook]안녕. 친구여.	[!Troublebook]再见了！朋友。
-#9758	[!Troublebook]그늘 안개 거주구	[!Troublebook]阴影之雾霭居民区
+#9758	[!Troublebook]그늘 안개 거주구	[!Troublebook]沉雾居民区
 #9759	[!Troublebook]제 3 장. 가려진 음모	[!Troublebook]第三章。被掩盖的阴谋
 #9760	[!WordCollection]미니맵 보기	[!WordCollection]小地图
-#9765	[!Loading]은빛 구름 거리 233	[!Loading]银色云彩大街233号
+#9765	[!Loading]은빛 구름 거리 233	[!Loading]银云大街233号
 #9767	[!Mission]영일 공사장	[!Mission]永日工地
 #9768	[!Mission]가랑잎 공원	[!Mission]枯叶公园
 #9769	[!Mission]푸고 중심가 지하 주차장	[!Mission]府谷中央大街地下停车场
@@ -5662,14 +5662,14 @@
 #9773	[!Mission]115 번 외곽 도로	[!Mission]115号外围道路
 #9775	[!Mission]철의 숲 물류 캠프	[!Mission]铁森林物流基地
 #9776	[!Mission]자홍 뒷골목	[!Mission]紫红后巷
-#9777	[!Mission]그늘 안개 슬럼가	[!Mission]阴影之雾霭贫民区
-#9778	[!Mission]푸른안개 거리	[!Mission]蓝色雾霭大街
+#9777	[!Mission]그늘 안개 슬럼가	[!Mission]沉雾贫民区
+#9778	[!Mission]푸른안개 거리	[!Mission]蓝雾大街
 #9779	[!Mission]까마귀부리 정류장	[!Mission]乌鸦喙停车场
 #9780	[!Mission]반딧불 공원	[!Mission]萤火虫公园
 #9781	[!Mission]잿빛 공원묘지	[!Mission]灰色公园墓地
 #9782	[!Mission]한산도 하역장	[!Mission]闲山岛装卸场
 #9783	[!Mission]한솔 거리	[!Mission]寒松大街
-#9784	[!Mission]잿빛 항구 A 선착장	[!Mission]灰色港口A码头
+#9784	[!Mission]잿빛 항구 A 선착장	[!Mission]灰港A码头
 #9785	[!Mission]철의 숲 간이역	[!Mission]铁森林临时站点
 #9786	[!Mission]푸고 뒷골목	[!Mission]府谷后巷
 #9787	[!Mission]푸고 상점가	[!Mission]府谷商店街
@@ -5677,7 +5677,7 @@
 #9789	[!Mission]자홍거리	[!Mission]紫红街
 #9790	[!Mission]람지플라자	[!Mission]蓝地广场
 #9791	[!Mission]113번 외곽 도로	[!Mission]113号外围道路
-#9792	[!Mission]은빛 구름 거리 356	[!Mission]银色云彩大街356号
+#9792	[!Mission]은빛 구름 거리 356	[!Mission]银云大街356号
 #9793	[!Mission]바 실버라이닝	[!Mission]沙佛莱宁酒吧
 #9795	[!Site]마른 장작 거리	[!Site]干柴街
 #9796	[!WordCollection]아이템 잠김	[!WordCollection]物品保护
@@ -5856,13 +5856,13 @@
 #10024	[!Item]장시간 전투 상황에서도 체력 관리를 유지할 수 있도록 체력 보존력이 높은 자켓	[!Item]长时间的战斗状态下也能维持自身体力，保持体力的能力较高的夹克衫
 #10025	[!Item]자홍빛 파수꾼 자켓의 강화된 버전. 기력 유지를 위한 특수 처리가 되어 있다.	[!Item]紫红色守备军夹克的加强版。带有维持体力方面的特殊处理。
 #10026	[!Item]수호자 자켓의 강화된 버전. 체력 보존력이 더욱 강화되었다.	[!Item]守护着夹克的加强版。对保存体力的能力进行了进一步的加强。
-#10027	[!Item]드레이크 A - 200	[!Item]德雷克A - 200
+#10027	[!Item]드레이크 A - 200	[!Item]德雷克A-200
 #10028	[!Item]드레이크 A - 100의 강화형 버전. 기관권총 특유의 낮은 화력을 보강하였다.	[!Item]德雷克A-100的加强版。它强化了冲锋枪所特有的低火力。
-#10029	[!Item]드레이크 A - 100	[!Item]德雷克A - 100
+#10029	[!Item]드레이크 A - 100	[!Item]德雷克A-100
 #10030	[!Item]자동 연사 시에 밀려오는 반동을 제어하기 쉽게 제작된 기관권총.	[!Item]这是一款易于控制自动连射时返回来的后坐力的冲锋枪。
-#10031	[!Item]드레이크 B - 200	[!Item]德雷克B - 200
+#10031	[!Item]드레이크 B - 200	[!Item]德雷克B-200
 #10032	[!Item]드레이크 B - 100의 강화형 버전. 기존 버전보다 반동 제어 능력이 탁월하다.	[!Item]德雷克B-100的加强版。比现有的版本，后坐力控制力更加卓越。
-#10033	[!Item]드레이크 B - 100	[!Item]德雷克B - 100
+#10033	[!Item]드레이크 B - 100	[!Item]德雷克B-100
 #10034	[!Item]드레이크 A 시리즈보다 사용성이 강화되어 더 빠른 연사가 가능하다.	[!Item]比德雷克A系列的实用性更加突出，可进行更快速的连射。
 #10035	[!Item]남청빛 티마 가죽 운동화	[!Item]藏蓝色蒂玛皮运动鞋
 #10036	[!Item]티마의 단단한 가죽으로 제작한 고급 운동화로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用蒂玛的韧皮制作的高级靴子，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
@@ -6079,7 +6079,7 @@
 #10343	[!Ability]몸을 앞으로 회전하면서 두 발로 차례로 적을 내려 찍어 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]身躯向前空翻，双脚依次踢下，造成$DamageAmount$的$DamageType$伤害。
 #10345	[!Ability]강력한 날아 차기로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]强力的飞踹造成$DamageAmount$的$DamageType$伤害。
 #10347	[!Ability]공중 제비 후 두 발로 적을 가격하여 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]空翻并用双脚夹击敌人，造成$DamageAmount$的$DamageType$伤害。
-#10350	[!Ability]레서류 0식 - 심호흡	[!Ability]蕾西流0式-深呼吸
+#10350	[!Ability]레서류 0식 - 심호흡	[!Ability]蕾西流0式 - 深呼吸
 #10351	[!Ability]지정한 아군은 $ApplyBuff$ 상태가 됩니다.	[!Ability]指定的队友进入$ApplyBuff$状态。
 #10352	[!Ability]별빛 기도	[!Ability]星光祈祷
 #10353	[!Ability]범위 내의 적에게 12 차례 별빛을 무작위로 떨어뜨려 별빛 1 개당 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]随机对相应范围内的敌人造成12次的星落，每颗星星造成$DamageAmount$的$DamageType$伤害。
@@ -6633,7 +6633,7 @@
 #11285	[!Job]전투용 로봇	[!Job]战斗用机器人
 #11286	[!Job]산업용 로봇	[!Job]工业用机器人
 #11287	[!Job]학자	[!Job]学者
-#11288	[!Loading]잿빛 항구 물류창고	[!Loading]灰色港口物流仓库
+#11288	[!Loading]잿빛 항구 물류창고	[!Loading]灰港物流仓库
 #11293	[!Mastery]오늘은 무엇을 만들어 볼까?	[!Mastery]今天制作些什么好呢?
 #11294	[!Mastery]연금 가방	[!Mastery]炼金包
 #11296	[!Mastery]연료의 사용을 최소화 하는 것이 바로 산업 발전의 기본이다.	[!Mastery]将燃料的使用降到最低，是产业发展的根本。
@@ -6667,8 +6667,8 @@
 #11352	[!Profession]다양한 스프레이를 제작할 수 있습니다.	[!Profession]可制作多种喷雾器。
 #11353	[!Profession]기능성 아이템을 제작할 수 있습니다.	[!Profession]可制作功能性物品。
 #11354	[!Profession]도구 제작	[!Profession]制作工具
-#11355	[!Site]잿빛 항구 물류창고	[!Site]灰色港口物流仓库
-#11356	[!Troublebook]잿빛 항구 물류 창고	[!Troublebook]灰色港口物流仓库
+#11355	[!Site]잿빛 항구 물류창고	[!Site]灰港物流仓库
+#11356	[!Troublebook]잿빛 항구 물류 창고	[!Troublebook]灰港物流仓库
 #11357	[!TroublemakerCategory]기계	[!TroublemakerCategory]机械
 #11358	[!WordCollection][!Menu]모두 감정하기	[!WordCollection][!Menu]全部鉴定
 #11359	[!WordCollection]삭제	[!WordCollection]删除
@@ -6687,7 +6687,7 @@
 #11374	[!Ability]돌진 기동	[!Ability]突进机动
 #11375	[!Ability]스핀 핸드	[!Ability]旋转机械臂
 #11376	[!Loading]동상이몽	[!Loading]同床异梦
-#11377	[!Mission]잿빛 항구 H 물류 창고	[!Mission]灰色港口H物流仓库
+#11377	[!Mission]잿빛 항구 H 물류 창고	[!Mission]灰港H物流仓库
 #11379	[!Troublebook]레이는 카터의 야망을 막기 위해 과거 같이 활동했던 친구들을 찾아간다.	[!Troublebook]雷伊为了阻止卡特的野心而去寻找过去一起共事过的朋友们。
 #11380	[!Troublebook]빛바랜 추억	[!Troublebook]褪色的回忆
 #11381	[!Troublebook]동상이몽	[!Troublebook]同床异梦
@@ -6764,7 +6764,7 @@
 #11466	[!FieldEffect]산성 구름	[!FieldEffect]酸性云
 #11467	[!FieldEffect]회복 안개	[!FieldEffect]恢复雾霭
 #11468	[!GuideMessage]$ItemName2$ 아이템 $ItemCount2$ 개를 $ItemName$ 아이템 $ItemCount$ 개로 등가 교환되었습니다.	[!GuideMessage]以$ItemCount2$个$ItemName2$道具与$ItemCount$个$ItemName$道具进行了等价交换。
-#11469	[!Loading]까마귀골목 뒷거리	[!Loading]乌鸦巷子的后巷
+#11469	[!Loading]까마귀골목 뒷거리	[!Loading]墨鸦巷的后巷
 #11475	[!Mastery]더 멀리! 더 높이! 더 빠르게!	[!Mastery]更远！更高！更快！
 #11476	[!Mastery]하늘을 뚫어라	[!Mastery]突破天际吧
 #11478	[!Mastery]물약 강화	[!Mastery]强化药水
@@ -6823,7 +6823,7 @@
 #11563	[!ObjectInfo]패스트푸드 매니저	[!ObjectInfo]快餐店经理
 #11564	[!ObjectInfo]대형마트 점장	[!ObjectInfo]超市经理
 #11565	[!ObjectInfo]공무원 페페	[!ObjectInfo]公务员佩佩
-#11567	[!Zone]붉은산 지구	[!Zone]赤山地区
+#11567	[!Zone]붉은산 지구	[!Zone]红山地区
 #11568	[!Loading]먼지바람 톨게이트	[!Loading]沙暴收费站
 #11569	[!Loading]갈림길	[!Loading]岔路
 #11570	[!Mission]먼지바람 톨게이트	[!Mission]沙暴收费站
@@ -6856,7 +6856,7 @@
 #11607	[!Item]화염 스프레이 WD-40U	[!Item]火焰喷雾WD-40U
 #11608	[!Item]빙결 스프레이 CW-40U	[!Item]寒冰喷雾CW-40U
 #11609	[!Item]카오스 브러시 자켓	[!Item]混沌刷夹克
-#11610	[!Item]『스틸 헤드』시절부터 레이가 계속 수선하여 사용하는 자켓, 『카오스 브러시』팀을 만들면서 등 뒤에 팀 로고를 추가하였다.	[!Item]从『铁头』时代开始使用的夹克。组成『混沌刷』团队以后背面添加了一个团队标志。
+#11610	[!Item]『스틸 헤드』시절부터 레이가 계속 수선하여 사용하는 자켓, 『카오스 브러시』팀을 만들면서 등 뒤에 팀 로고를 추가하였다.	[!Item]从『铁首』时代开始使用的夹克。组成『混沌刷』团队以后背面添加了一个团队标志。
 #11612	[!NamedEvent]지금이 마지막 기회다. 보내줄 때 가라.	[!NamedEvent]现在是最后一次机会了。让你走的时候就快走吧。
 #11613	[!NamedEvent]지금 도망간다면 쫓지 않겠네.	[!NamedEvent]现在逃走的话我不会追的。
 #11614	[!NamedEvent]해체전문가 창	[!NamedEvent]拆解专家昌
@@ -6902,7 +6902,7 @@
 #11660	[!Mastery]밤의 수호자	[!Mastery]夜的守护者
 #11662	[!Mastery]모든 것은 흐름이다.	[!Mastery]一切都是流动。
 #11663	[!Mastery]파죽지세	[!Mastery]破竹之势
-#11664	[!ObjectInfo]베르케	[!ObjectInfo]伯尔克
+#11664	[!ObjectInfo]베르케	[!ObjectInfo]别儿哥
 #11665	[!Ability]일반 추출보다 40% 높은 효율로 대상의 에너지를 추출합니다.	[!Ability]以比一般提取高出40%的效率提取目标的能源。
 #11666	[!Ability]최고급 에너지 추출	[!Ability]最高级提取能量
 #11667	[!Ability]일반 추출보다 20% 높은 효율로 대상의 에너지를 추출합니다.	[!Ability]以比一般提取高出20%的效率提取目标的能源。
@@ -6937,9 +6937,9 @@
 #11701	[!Item]사이러스 자켓	[!Item]塞勒斯夹克
 #11702	[!Item]동방연합의 글로벌 군수업체 '사이러스'의 전투용 자켓.	[!Item]东方联盟的跨国军工企业'塞勒斯'的战斗用夹克。
 #11703	[!Item]자홍빛 사이러스 자켓	[!Item]紫红色塞勒斯夹克
-#11705	[!Item]드레이크 C - 200	[!Item]德雷克C - 200
-#11706	[!Item]드레이크 C - 100의 강화형 버전. 기존 버전보다 살상력이 매우 높아 가벼운 상처에도 치명적인 피해를 입힌다.	[!Item]德雷克C - 100的加强版。杀伤力比基础版本高出很多，小小的伤口也能造成致命的伤害。
-#11707	[!Item]드레이크 C - 100	[!Item]德雷克C - 100
+#11705	[!Item]드레이크 C - 200	[!Item]德雷克C-200
+#11706	[!Item]드레이크 C - 100의 강화형 버전. 기존 버전보다 살상력이 매우 높아 가벼운 상처에도 치명적인 피해를 입힌다.	[!Item]德雷克C-100的加强版。杀伤力比基础版本高出很多，小小的伤口也能造成致命的伤害。
+#11707	[!Item]드레이크 C - 100	[!Item]德雷克C-100
 #11708	[!Item]드레이크 B 시리즈보다 살상력이 강화된 기관권총	[!Item]强化了德雷克B系列杀伤力的冲锋枪
 #11709	[!Item]보나파르트 세공 반지	[!Item]波拿巴精制戒指
 #11710	[!Item]발할라의 명품 브랜드인 '보나파르트'의 보급형 세공 반지.	[!Item]巴赫拉的名牌'波拿巴'的泛用型精制戒指。
@@ -7028,7 +7028,7 @@
 #11823	[!Item]절연 보호대	[!Item]绝缘护具
 #11824	[!Item]번개 속성 이능력의 피해를 분산시켜 영향력을 줄여주는 보호대입니다.	[!Item]将闪电属性的异能伤害分散，以此降低其影响力的护具。
 #11825	[!Item]실비아의 부적	[!Item]雪尔维亚的符文
-#11827	[!Item]지병으로 먼저 세상을 떠난 베르케의 부인 '실비아'가 마지막으로 베르케에 건넨 부적. 비록 옳지 않은 폭력단의 길을 걷는 남편이지만 자신을 위해 헌신하는 그를 위해 간절한 소망을 담았다.	[!Item]因病离世的伯尔克夫人'雪尔维亚'在临终时递给伯尔克的符文。虽然其丈夫选择了不义的暴力团伙之路，但是为了这个牺牲一切的丈夫，她在符文上倾注了她真切的祝愿。
+#11827	[!Item]지병으로 먼저 세상을 떠난 베르케의 부인 '실비아'가 마지막으로 베르케에 건넨 부적. 비록 옳지 않은 폭력단의 길을 걷는 남편이지만 자신을 위해 헌신하는 그를 위해 간절한 소망을 담았다.	[!Item]因病离世的别儿哥夫人'雪尔维亚'在临终时递给别儿哥的符文。虽然其丈夫选择了不义的暴力团伙之路，但是为了这个牺牲一切的丈夫，她在符文上倾注了她真切的祝愿。
 #11829	[!Item]동방연합의 글로벌 군수업체 '사이러스'의 전투용 부츠. 전투 지속 능력을 강화한 제품이다.	[!Item]东方联盟的跨国军工企业'塞勒斯'的战斗用靴子。这是加强了战斗持久力的产品。
 #11830	[!Item]흑철 단검	[!Item]黑铁短剑
 #11831	[!Item]흑철석으로 제작된 단검. 살상력이 매우 높아 가벼운 상처에도 치명적인 피해를 입힌다.	[!Item]用黑铁石制成的短剑。其杀伤力非常高，轻伤也会造成致命的伤害。
@@ -7100,7 +7100,7 @@
 #11928	[!NamedEvent]징벌의 안드레이	[!NamedEvent]惩罚之安德烈
 #11929	[!NamedEvent]젊은 녀석들이 제법이군!	[!NamedEvent]年纪不大本领不小呢!
 #11930	[!NamedEvent]젊은 것들은 버릇이 없군!	[!NamedEvent]年纪轻轻的太没规矩了!
-#11931	[!NamedEvent]다혈질의 베르케	[!NamedEvent]爱冲动的伯尔克
+#11931	[!NamedEvent]다혈질의 베르케	[!NamedEvent]爱冲动的别儿哥
 #11932	[!NamedEvent]정복자 다리우스	[!NamedEvent]征服者大流士
 #11933	[!NamedEvent]지금은 난세.	[!NamedEvent]现在是乱世。
 #11934	[!NamedEvent]폭력의 시대다!	[!NamedEvent]暴力时代来啦!
@@ -7130,8 +7130,8 @@
 #11968	[!Equipment]보조 무기	[!Equipment]副武器
 #11969	[!Item]세계 대전 당시 카라스 연방에서 생산된 군수용 소총으로 전 세계에 가장 많이 존재하는 총기이다. 실제 일반인들도 쉽게 구할 수 있다.	[!Item]这是世界大战时期卡拉斯联邦生产的军用步枪，是全世界最常见的枪械。实际情况下，普通人也可轻易获取该物品。
 #11970	[!Item]카라스 연방에서 세계 대전 말미에 생산된 소총으로 기존 버전의 화력을 강화한 무기이다.	[!Item]这是卡拉斯联邦在世界大战末期生产出来的步枪，是较之前一个版本加强了火力的一款武器。
-#11971	[!Item]자동 소총 C - 500	[!Item]自动步枪C - 500
-#11972	[!Item]자동 소총 C - 600	[!Item]自动步枪C - 600
+#11971	[!Item]자동 소총 C - 500	[!Item]自动步枪C-500
+#11972	[!Item]자동 소총 C - 600	[!Item]自动步枪C-600
 #11973	[!ItemEquipmentPosition]보조 무기	[!ItemEquipmentPosition]副武器
 #11974	[!Mastery]정밀한 저격	[!Mastery]精密狙击
 #11976	[!NamedEvent]키에엑! 키에엑!	[!NamedEvent]咳啊啊!咳啊啊!
@@ -7141,7 +7141,7 @@
 #11980	[!NamedEvent]스콧 대장의 원수 녀석들!!	[!NamedEvent]斯科特队长的仇敌们!!
 #11981	[!NamedEvent]지독한 녀석들. 여기까지 추적해오다니...	[!NamedEvent]可恶的家伙们。都追到这儿来了…
 #11982	[!NamedEvent]증오하는 하산	[!NamedEvent]憎恶的哈山
-#11983	[!NamedEvent]전 황소파 간부	[!NamedEvent]前公牛组干部
+#11983	[!NamedEvent]전 황소파 간부	[!NamedEvent]前狂牛组干部
 #11984	[!NamedEvent]자네를 보니 가슴이 아프네.	[!NamedEvent]看到你这样，我也很心痛啊。
 #11985	[!NamedEvent]그대여! 한술을 아는가!	[!NamedEvent]你!懂得‘一勺’吗!
 #11986	[!NamedEvent]불사의 존	[!NamedEvent]不死的约翰
@@ -7221,7 +7221,7 @@
 #12090	[!ItemType]석궁	[!ItemType]石弓
 #12091	[!ItemType]장궁	[!ItemType]长弓
 #12092	[!Job]사냥꾼	[!Job]猎人
-#12093	[!Loading]하늘바람 공원	[!Loading]天空之风公园
+#12093	[!Loading]하늘바람 공원	[!Loading]天风公园
 #12094	[!Loading]과거의 잔향	[!Loading]旧日余香
 #12096	[!Mastery]선택을 강요해주지.	[!Mastery]强调你的选择。
 #12097	[!Mastery]야수 협공	[!Mastery]野兽夹攻
@@ -7238,7 +7238,7 @@
 #12114	[!Mastery]자. 이번엔 어떤 설계를 해볼까?	[!Mastery]来。这次做些怎样的设计呢?
 #12115	[!Mastery]덫 사냥꾼	[!Mastery]下套猎人
 #12117	[!MasteryType]사냥꾼	[!MasteryType]猎人
-#12118	[!Mission]하늘바람 공원	[!Mission]天空之风公园
+#12118	[!Mission]하늘바람 공원	[!Mission]天风公园
 #12120	[!MissionTemperature]추움	[!MissionTemperature]寒冷
 #12122	[!MissionTemperature]한파	[!MissionTemperature]寒流
 #12124	[!MissionTemperature]폭염	[!MissionTemperature]酷暑
@@ -7269,7 +7269,7 @@
 #12149	[!Status][!Short]초능력 공격 명중률	[!Status][!Short]超能力攻击命中率
 #12150	[!Status]물리 공격 명중률	[!Status]物理攻击命中率
 #12151	[!Status][!Short]물리 공격 명중률	[!Status][!Short]物理攻击命中率
-#12153	[!Troublebook]하늘바람 공원	[!Troublebook]天空之风公园
+#12153	[!Troublebook]하늘바람 공원	[!Troublebook]天风公园
 #12154	[!Troublebook]과거의 잔향	[!Troublebook]旧日余香
 #12155	[!WordCollection][!Menu]특성 모두 해제	[!WordCollection][!Menu]解除全部天赋
 #12158	[!Ability]전방 일직선으로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]对正前方直线方向造成$DamageAmount$的$DamageType$伤害。
@@ -7278,7 +7278,7 @@
 #12161	[!Ability]적을 쫓기 위해 $ApplyBuff$ 상태가 됩니다. $RemoveBuff$ 상태를 해제합니다.	[!Ability]为了追逐敌人而进入$ApplyBuff$状态。解除$RemoveBuff$状态。
 #12163	[!Ability]적을 제압하기 위해 $ApplyBuff$ 상태가 됩니다. $RemoveBuff$ 상태를 해제합니다.	[!Ability]为了制服敌人而进入$ApplyBuff$状态。解除$RemoveBuff$状态。
 #12167	[!FieldEffect]눈/수풀	[!FieldEffect]雪/草丛
-#12168	[!Item]사냥꾼 인장 - 세계수 지구	[!Item]猎人印章-世界树地区
+#12168	[!Item]사냥꾼 인장 - 세계수 지구	[!Item]猎人印章 - 世界树地区
 #12170	[!Item]지젤이 세계수 지구 야수 사냥 대회에서 3년 간 우승하여 영구적으로 소유하게 된 인장.	[!Item]这是吉赛尔连续3年获得世界树地区狩猎大会冠军而永久持有的印章。
 #12171	[!Item]보나파르트 털코트	[!Item]波拿巴毛皮外套
 #12172	[!Item]명품 브랜드 보나파르트에서 제작되는 겨울용 코트. 내열성과 내한성이 매우 뛰어나다.	[!Item]这是著名品牌波拿巴出品的冬用外套。耐热性和耐寒性都非常出色。
@@ -7290,7 +7290,7 @@
 #12178	[!ObjectInfo]레오	[!ObjectInfo]莱昂
 #12179	[!Tile]눈/수풀	[!Tile]雪/草丛
 #12180	[!Buff]$Blue_ON$미션 진행 중 최초 공격 피해를 무효화합니다.	[!Buff]$Blue_ON$任务进行过程中，无视受到的第一发攻击的伤害。
-#12181	[!Buff]사냥꾼 인장 - 세계수 지구	[!Buff]猎人印章-世界树地区
+#12181	[!Buff]사냥꾼 인장 - 세계수 지구	[!Buff]猎人印章 - 世界树地区
 #12184	[!Ability]얼음탄을 발사하여 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]发射冰弹，造成$DamageAmount$的$DamageType$伤害。
 #12185	[!Ability]얼음탄 발사	[!Ability]发射冰弹
 #12186	[!GuideMessage]$ItemName$ 외 $ItemCount$ 개가 분해되었습니다.	[!GuideMessage]$ItemName$外$ItemCount$个物品被分解。
@@ -7311,7 +7311,7 @@
 #12204	[!Mastery]기존사업을 과거와 같은 방식으로 지속하는 것은 앉아서 재난을 기다리는 것과 같다.	[!Mastery]用过去的方式继续做现在的事业，等同于坐以待毙。
 #12209	[!Mastery]끝없이 갈구하는 것은 이루어지기 마련이다.	[!Mastery]不断渴求，终会实现。
 #12210	[!Mastery]꿈은 이루어진다.	[!Mastery]梦想成真。
-#12213	[!ObjectInfo]모험가 도로리	[!ObjectInfo]探险者多罗利
+#12213	[!ObjectInfo]모험가 도로리	[!ObjectInfo]冒险家多罗利
 #12214	[!Mastery]이해할 수 없습니다.	[!Mastery]我无法理解的。
 #12215	[!Mastery]냉정한 거절	[!Mastery]冷漠的拒绝
 #12217	[!Mastery]포기하지 않는 자들이 기적을 만들 때 우리는 그들을 히어로라고 말한다.	[!Mastery]不抛弃不放弃的人们制造出的奇迹时，我们就叫他们为英雄。
@@ -7408,16 +7408,16 @@
 #12390	[!GuideMessage]전투를 통해 평소의 200%에 해당하는 경험치를 얻습니다.	[!GuideMessage]您可以获得2倍的经验值。
 #12392	[!OptionVideo]최대 FPS 제한	[!OptionVideo]限制最大FPS
 #12393	[!WordCollection]휴식 상태	[!WordCollection]休息状态
-#12396	[!Loading]바람장벽지구 경찰청 훈련장	[!Loading]风之墙壁地区警察厅训练场
+#12396	[!Loading]바람장벽지구 경찰청 훈련장	[!Loading]风之壁地区警察厅训练场
 #12397	[!Loading]괄목상대	[!Loading]刮目相看
 #12398	[!Mastery]결정하지 못한다면 이 방법 뿐이지.	[!Mastery]如果没法决定，就只剩这个办法了。
 #12399	[!Mastery]제비뽑기	[!Mastery]抽签
-#12400	[!Mission]바람장벽지구 경찰청 실내 훈련장	[!Mission]风之墙壁地区警察厅室内训练场
+#12400	[!Mission]바람장벽지구 경찰청 실내 훈련장	[!Mission]风之壁地区警察厅室内训练场
 #12401	[!ObjectInfo]브루스	[!ObjectInfo]布鲁斯
-#12402	[!Site]바람장벽지구 경찰청 본부	[!Site]风之墙壁地区警察厅
-#12403	[!Suggestion]제인은 바람장벽 지구 경찰청 훈련에 참여해주길 바랍니다.<br><br>[colour='FFFFFF00']제인의 제안 수락 시 시나리오 미션이 진행됩니다. 미리 장비를 점검하세요.	[!Suggestion]珍希望你参加风之墙壁地区警察厅训练。<br><br>[colour='FFFFFF00']接受珍的提议后将进行剧情任务。请提前检查装备。
+#12402	[!Site]바람장벽지구 경찰청 본부	[!Site]风之壁地区警察厅
+#12403	[!Suggestion]제인은 바람장벽 지구 경찰청 훈련에 참여해주길 바랍니다.<br><br>[colour='FFFFFF00']제인의 제안 수락 시 시나리오 미션이 진행됩니다. 미리 장비를 점검하세요.	[!Suggestion]珍希望你参加风之壁地区警察厅训练。<br><br>[colour='FFFFFF00']接受珍的提议后将进行剧情任务。请提前检查装备。
 #12404	[!Troublebook]사람들은 겨울이 오면 한 해의 일을 돌아본다. 그리고 다음을 준비한다.<br><br>[colour='FFFFAA00']- 해당 미션은 진행하는 선택지마다 보상이 주어집니다.	[!Troublebook]冬季到来时，人们会回顾过往一年的经历，并为以后做准备。<br><br>[colour='FFFFAA00']- 可在该任务的每个选项获得奖励。
-#12407	[!Troublebook]바람장벽지구 경찰청 훈련장	[!Troublebook]风之墙壁地区警察厅训练场
+#12407	[!Troublebook]바람장벽지구 경찰청 훈련장	[!Troublebook]风之壁地区警察厅训练场
 #12408	[!Troublebook]괄목상대	[!Troublebook]刮目相看
 #12409	[!Troublebook]제 5 장. 변화의 시작	[!Troublebook]第5章。变化的开始
 #12411	[!Item]서리 가죽	[!Item]霜雪皮革
@@ -7425,10 +7425,10 @@
 #12413	[!Item]섬광 가죽	[!Item]闪光皮革
 #12414	[!MissionType]범죄 사건이 아닌 훈련을 목적으로 하는 의뢰입니다.	[!MissionType]与犯罪事件无关，以训练为目的的委托。
 #12415	[!MissionType]훈련	[!MissionType]训练
-#12416	[!SystemMail][colour='FFFFE959']안녕하십니까? $CompanyName$ 담당자님.<br><br>바람장벽지구 발할라 경찰청 [colour='FFFFFFFF']동계 훈련[colour='FFFFE959']에 참여해 주셔서 감사합니다.<br><br>훈련 참여 보상을 지급합니다.<br><br>여러분의 꾸준한 활동을 바라겠습니다.	[!SystemMail][colour='FFFFE959']你好? $CompanyName$的负责人。<br><br>感谢您参加风之墙壁地区巴赫拉警察厅的[colour='FFFFFFFF']冬季训练[colour='FFFFE959']。<br><br>现发放参加训练奖励。<br><br>以资鼓励。
+#12416	[!SystemMail][colour='FFFFE959']안녕하십니까? $CompanyName$ 담당자님.<br><br>바람장벽지구 발할라 경찰청 [colour='FFFFFFFF']동계 훈련[colour='FFFFE959']에 참여해 주셔서 감사합니다.<br><br>훈련 참여 보상을 지급합니다.<br><br>여러분의 꾸준한 활동을 바라겠습니다.	[!SystemMail][colour='FFFFE959']你好? $CompanyName$的负责人。<br><br>感谢您参加风之壁地区巴赫拉警察厅的[colour='FFFFFFFF']冬季训练[colour='FFFFE959']。<br><br>现发放参加训练奖励。<br><br>以资鼓励。
 #12417	[!SystemMail]동계 훈련에 참여해주셔서 감사합니다.	[!SystemMail]感谢您参加冬季训练。
 #12418	[!SystemMessage]버전 업데이트로 인하여 진행중인 미션 데이터를 불러올 수 없습니다.<br>ErrorCode: 0026	[!SystemMessage]版本更新中,无法加载任务数据。<br>ErrorCode:0026
-#12419	[!Troublebook]세계수 지구를 떠나 바람장벽지구로 범죄자들을 사냥하기 위해 온 지젤은 오랜 친구인 바람장벽지구 경찰청 기동대 경감인 제인을 찾아가 협조를 요청한다.<br><br><br>[colour='FFFFAA00']- 해당 미션은 최초 팀 구성 선택지마다 보상이 주어집니다.	[!Troublebook]吉赛尔为了狩猎犯罪分子，离开世界树地区来到了风之墙壁地区，并向风之墙壁地区警察厅机动队的老友珍警监发出了协助请求。<br><br><br>[colour='FFFFAA00']- 会依据该任务的每个最初队伍组成所做出的选择获得奖励。
+#12419	[!Troublebook]세계수 지구를 떠나 바람장벽지구로 범죄자들을 사냥하기 위해 온 지젤은 오랜 친구인 바람장벽지구 경찰청 기동대 경감인 제인을 찾아가 협조를 요청한다.<br><br><br>[colour='FFFFAA00']- 해당 미션은 최초 팀 구성 선택지마다 보상이 주어집니다.	[!Troublebook]吉赛尔为了狩猎犯罪分子，离开世界树地区来到了风之壁地区，并向风之壁地区警察厅机动队的老友珍警监发出了协助请求。<br><br><br>[colour='FFFFAA00']- 会依据该任务的每个最初队伍组成所做出的选择获得奖励。
 #12420	[!Troublebook]수어지교	[!Troublebook]鱼水之交
 #12424	[!Item]자홍빛 사이러스 단검	[!Item]紫红色塞勒斯短剑
 #12425	[!Item]사이러스 단검의 사용성과 공격력을 강화한 단검. 살상력이 높아 가벼운 상처에도 치명적인 피해를 입힌다.	[!Item]这是加强了塞勒斯短剑实用性或攻击力的一种短剑。小小的伤口也能造成致命的伤害。
@@ -7512,7 +7512,7 @@
 #12507	[!LoadingDesc]임무를 수행하는 지역의 날씨는 전투 상황에 영향을 미칠 수 있습니다.	[!LoadingDesc]执行任务地区的天气会给战斗状况带来影响。
 #12508	[!LoadingDesc]날씨 효과	[!LoadingDesc]天气效果
 #12509	[!LoadingDesc]발할라의 국경 지대로 이주민들의 유입을 통제하기 위한 거대한 장벽이 세워져 있다.	[!LoadingDesc]是巴赫拉的国境地区,为了管制外来移民的流入而竖有巨大的墙壁。
-#12510	[!LoadingDesc]바람장벽 지구	[!LoadingDesc]风之墙壁地区
+#12510	[!LoadingDesc]바람장벽 지구	[!LoadingDesc]风之壁地区
 #12511	[!LoadingDesc]작업대를 이용하시면 장비의 분해와 강화를 할 수 있습니다.	[!LoadingDesc]使用工作台可进行装备的分解和强化。
 #12512	[!LoadingDesc]작업대	[!LoadingDesc]工作台
 #12513	[!LoadingDesc]적이 위치한 지역의 근접한 4 타일은 한 번에 이동할 수 없으므로 두 번에 나눠 이동해야 합니다.	[!LoadingDesc]敌人所处的位置临近的4格是无法一次移动的，需要分成两次进行移动。
@@ -7521,7 +7521,7 @@
 #12520	[!Mastery]지원 사격	[!Mastery]支援火力
 #12522	[!Mastery]나를 죽이지 못하는 고통은 나를 더 강하게 만든다.	[!Mastery]不能杀死我的会让我变得更强大。
 #12523	[!Mastery]고통의 황혼	[!Mastery]痛苦的黄昏
-#12524	[!Mission]먼지바람 고속도로 휴게소	[!Mission]沙尘暴高速公路休息站
+#12524	[!Mission]먼지바람 고속도로 휴게소	[!Mission]沙暴高速路休息站
 #12526	[!NamedEvent]다 받아낼테니 각오해.	[!NamedEvent]我会把你的一切都拿回来。觉悟吧。
 #12527	[!NamedEvent]다 먹고 살자고 하는 일인데 너무 한 것 아냐?	[!NamedEvent]都是为了生活，是不是太过分了啊？
 #12528	[!NamedEvent]밀수업자 브래드	[!NamedEvent]走私者布拉德
@@ -7543,7 +7543,7 @@
 #12546	[!WordCollection]장물 구입	[!WordCollection]购买赃物
 #12548	[!GuideMessage][colour='FFFFFF00']현재 페이지에 보여지는 [colour='FFFFFFFF']$ItemCount$[colour='FFFFFF00'] 개의 아이템을 분해합니다. 계속 진행하시겠습니까?<br>	[!GuideMessage]分解[colour='FFFFFF00']目前标示的[colour='FFFFFFFF']$ItemCount$[colour='FFFFFF00']个物品。你想继续吗？<br>
 #12549	[!GuideMessage][colour='FFFFFF00']현재 페이지에 보여지는 [colour='FFFFFFFF']$ItemCount$[colour='FFFFFF00'] 개의 아이템을 감정합니다. 계속 진행하시겠습니까?<br><br>총 [colour='FFFFFFFF']$Vill$[colour='FFFFFF00'] Vill이 소모됩니다.	[!GuideMessage]鉴定[colour='FFFFFF00']目前标示的[colour='FFFFFFFF']$ItemCount$[colour='FFFFFF00']个物品。你想继续吗？<br><br>总共需要[colour='FFFFFFFF']$Vill$[colour='FFFFFF00'] Vill。
-#12550	[!Mission]잿빛 항구 G 물류 창고	[!Mission]灰色港口G物流仓库
+#12550	[!Mission]잿빛 항구 G 물류 창고	[!Mission]灰港G物流仓库
 #12555	[!GuideMessage][colour='FFFF5943']더는 아이템을 소지할 수 없어 아이템 제작이 불가능합니다.	[!GuideMessage][colour='FFFF5943']由于您的库存已满，您无法再制作物品。
 #12556	[!GuideMessage][colour='FFFFFF00']해당 마스터리를 연구 시, 다음의 특성이 소모됩니다.[colour='FFFF5943']<br><tab><br>$FavoriteMasteries$<br><br>[colour='FFFFFF00']계속 진행하시겠습니까?	[!GuideMessage][colour='FFFFFF00']研究该天赋时，会消耗以下天赋。[colour='FFFF5943']<br><tab><br>$FavoriteMasteries$<br><br>[colour='FFFFFF00']你想继续吗？
 #13144	[!KeyBinding]상세 전투 정보 보기	[!KeyBinding]详细战斗信息
@@ -7556,7 +7556,7 @@
 #13152	[!Loading]뿌린 대로 거두리라	[!Loading]咎由自取
 #13155	[!Troublebook]패배자	[!Troublebook]败者
 #13156	[!Troublebook]뿌린 대로 거두리라	[!Troublebook]咎由自取
-#13157	[!Troublebook]조직을 일으키기 위해 스푼교에 의탁하였던 성난 황소파 잔당들은 백호파의 사냥을 피해 푸고 뒷골목으로 숨어 든다. 하지만 그들의 미래는 변하지 않았다.	[!Troublebook]曾经依赖勺子教的愤怒的公牛的残党们为了躲避白虎组的狩猎藏进了府谷后巷。但他们的未来没有改变。
+#13157	[!Troublebook]조직을 일으키기 위해 스푼교에 의탁하였던 성난 황소파 잔당들은 백호파의 사냥을 피해 푸고 뒷골목으로 숨어 든다. 하지만 그들의 미래는 변하지 않았다.	[!Troublebook]曾经依赖勺子教的狂牛的残党们为了躲避白虎组的狩猎藏进了府谷后巷。但他们的未来没有改变。
 #13160	[!Mastery]전설은 믿는 자에게만 그 모습을 드러낸다.	[!Mastery]相信传说的人,才能创造奇迹。
 #13161	[!Mastery]황금의 도시	[!Mastery]黄金城市
 #13163	[!Mastery]지상의 보물은 전부 모았다	[!Mastery]世上的宝物都在这儿。
@@ -7598,8 +7598,8 @@
 #13203	[!Item]마수의 가죽	[!Item]魔兽之皮
 #13204	[!Item]왕네구리 가죽	[!Item]纳古利大王的皮
 #13205	[!Item]네구리 가죽	[!Item]纳古利皮
-#13206	[!Item]저격총 RM - 358 S	[!Item]狙击步枪RM - 358S
-#13207	[!Item]저격총 RM - 358 A	[!Item]狙击步枪RM - 358A
+#13206	[!Item]저격총 RM - 358 S	[!Item]狙击步枪RM-358S
+#13207	[!Item]저격총 RM - 358 A	[!Item]狙击步枪RM-358A
 #13211	[!Item]남청빛 사이러스 블레이드	[!Item]藏蓝色塞勒斯之刃
 #13212	[!Item]자홍빛 사이러스 블레이드를 개량하여 더 높은 살상력을 보여주는 검이다.	[!Item]改良了紫红色塞勒斯之刃，使杀伤力提升的剑。
 #13213	[!Item]남청빛 펄스 블레이드	[!Item]藏蓝色脉冲之刃
@@ -7809,8 +7809,8 @@
 #13483	[!Item]자홍거리에서 유통되는 사이러스 자켓을 개량하여 강화 시킨 자켓. 뒷세계에서 매우 인기 있는 자켓이다.	[!Item]强化了紫红街流通的塞勒斯夹克。在地下世界中非常受欢迎。
 #13484	[!Item]섬광 왕네구리 자켓	[!Item]闪光纳古利大王夹克
 #13485	[!Item]왕네구리 가죽으로 만든 자켓으로 절연 기능이 매우 뛰어나다.	[!Item]以纳古利大王皮革制成的夹克，绝缘性能非常优秀。
-#13486	[!Item]베이비 A - 200	[!Item]倍比 A - 200
-#13487	[!Item]베이비 A - 100	[!Item]倍比 A - 100
+#13486	[!Item]베이비 A - 200	[!Item]倍比 A-200
+#13487	[!Item]베이비 A - 100	[!Item]倍比 A-100
 #13488	[!Item]베이비 A	[!Item]倍比 A
 #13489	[!Item]듀나메스 MPC	[!Item]杜纳梅斯 MPC
 #13490	[!Item]카라스 연방의 군수업체 '듀나메스'에서 제작한 차세대 지원형 기관권총. 뛰어난 자동 조준 기능으로 각광받고 있다.	[!Item]卡拉斯联邦的军工企业'杜纳梅斯'制作的次世代支援型冲锋枪。拥有优秀的自动瞄准功能。
@@ -8298,7 +8298,7 @@
 #14145	[!NamedEvent]슈슈슛~ 슈슈슛~	[!NamedEvent]嗖嗖嗖~嗖嗖嗖~
 #14146	[!NamedEvent]맹독 야샤	[!ObjectInfo]剧毒夜叉
 #14147	[!NamedEvent]환각의 야샤	[!NamedEvent]幻觉的夜叉
-#14148	[!Troublebook]알버스는 지젤의 충고에 따라 바람장벽지구 현장을 떠나 철의 숲의 문제들부터 해결해 나가기로 한다.	[!Troublebook]阿尔伯斯听从吉赛尔的建议，离开风之墙壁地区的现场，开始着手解决铁森林的一些麻烦。
+#14148	[!Troublebook]알버스는 지젤의 충고에 따라 바람장벽지구 현장을 떠나 철의 숲의 문제들부터 해결해 나가기로 한다.	[!Troublebook]阿尔伯斯听从吉赛尔的建议，离开风之壁地区的现场，开始着手解决铁森林的一些麻烦。
 #14149	[!Troublebook]등고자비	[!Troublebook]登高自卑
 #14150	[!Troublebook]설상가상	[!Troublebook]雪上加霜
 #14151	[!BuffGroup]중독	[!Buff]中毒
@@ -8605,13 +8605,13 @@
 #14659	[!OptionGameplay]어빌리티 전용 카메라 연출을 사용하지 않습니다.	[!OptionGameplay]不使用技能专用动画镜头。
 #14660	[!OptionGameplay]타겟팅 전용 카메라 연출을 사용하지 않습니다.	[!OptionGameplay]不使用指向镜头动画。
 #14661	[!Reputation]시민	[!Job]市民
-#14662	[!Reputation]재의 강 지역에는 잿빛 항구의 물류를 분담하기 위한 수상 물류 기지가 위치하고 있습니다.	[!Reputation]灰烬之江地区上有分担灰色港口物流的水上物流基地。
+#14662	[!Reputation]재의 강 지역에는 잿빛 항구의 물류를 분담하기 위한 수상 물류 기지가 위치하고 있습니다.	[!Reputation]烬夜江地区上有分担灰港物流的水上物流基地。
 #14663	[!Reputation]$Division$에 위치한 $AreaType$입니다.	[!Reputation]位于$Division$的$AreaType$。
 #14664	[!Reputation]노동자	[!Reputation]劳工
-#14665	[!Reputation]먼지 바람 고속도로와 잿빛 항구에 인접하여 물류 산업이 발달한 지역입니다.	[!Reputation]连着灰尘之风高速公路和灰色港口,物流产业发达的地区。
+#14665	[!Reputation]먼지 바람 고속도로와 잿빛 항구에 인접하여 물류 산업이 발달한 지역입니다.	[!Reputation]连着尘风高速路和灰港,物流产业发达的地区。
 #14666	[!Reputation]이곳에 거주하는 대부분은 발할라로 입국 심사가 허락되지 않은 이주민들과 발할라의 경찰로부터 도망친 범죄자입니다. 	[!Reputation]住在这里的居民中的大部分是属于未能获得进入巴赫拉许可的移民们,以及被巴赫拉的警察们驱逐的犯罪分子们。
 #14667	[!Reputation]$Troubleshooter$가 자신의 지역을 관할로 하는 것을 싫어합니다.	[!Reputation]$Troubleshooter$讨厌将自身的地区变成管辖。
-#14668	[!Reputation]발할라 중심부와 이어지는 고속도로를 중심으로 내수 산업의 물류들이 해당 도로를 이용하고 있습니다. 밀수꾼들과 경찰력의 충돌이 빈번합니다.	[!Reputation]这条通往巴赫拉中心地区的高速公路,是国内物流产业的主要通道。频繁出现走私犯和警察的冲突。
+#14668	[!Reputation]발할라 중심부와 이어지는 고속도로를 중심으로 내수 산업의 물류들이 해당 도로를 이용하고 있습니다. 밀수꾼들과 경찰력의 충돌이 빈번합니다.	[!Reputation]这条通往巴赫拉中心地区的高速路,是国内物流产业的主要通道。频繁出现走私犯和警察的冲突。
 #14669	[!Reputation]사건 경험이 많은 $Troubleshooter$를 선호하고 있습니다.	[!Reputation]事件经验丰富的$Troubleshooter$受到欢迎。
 #14670	[!Reputation]$WindWallArea$의 중산층들이 거주하는 지역으로 경험이 많은 $Troubleshooter$를 선호하고 있습니다.	[!Reputation]$WindWallArea$的中产阶级居住的区域，欢迎经验丰富的$Troubleshooter$。
 #14671	[!Reputation]$WindWallArea$ 내 $AreaType$ 중 가장 높은 $AllowDivisionReward$을 제공하고 있습니다.	[!Reputation]正在提供$WindWallArea$内$AreaType$中最高的$AllowDivisionReward$。
@@ -8621,9 +8621,9 @@
 #14675	[!Reputation]발할라 경찰청과 가까운만큼 평소의 치안은 높은 편이지만, 경찰청 세력과 반목하는 범죄 조직이나 반 발할라 단체들이 일으키는 대형 사건들이 끊이지 않는 지역입니다.	[!Reputation]临近巴赫拉警察厅所以平时治安良好，但同时也是和警察厅作对的犯罪组织及反巴赫拉团体制造大型事件不断发生的地区。
 #14676	[!Reputation]오랜 기간 범죄 조직 $OrganizationName$파의 세력권에 있던 지역으로 소규모 자영업자들 중심의 $AreaType$입니다.	[!Reputation]长期位于犯罪组织$OrganizationName$派势力范围的地区，是以小规模自营业者为主的$AreaType$。
 #14677	[!Reputation]$Troubleshooter$가 자신의 지역을 관할로 하는 것을 매우 꺼려합니다.	[!Reputation]$Troubleshooter$非常讨厌将该的地区变成管辖区。
-#14678	[!Reputation]오랜 기간 범죄 조직 $OrganizationName$파의 비호 아래 국경 검문소 중심으로 발달한 $AreaType$로 불법적인 환락가들이 성행하고 있는 지역입니다. 또한 바람장벽 지구 내 암거래 대부분이 이 지구에서 일어나고 있습니다.	[!Reputation]长期受犯罪组织$OrganizationName$派庇护的地区。这里是以边防检查站为中心发展的$AreaType$，也是盛行非法娱乐街的地区。风之墙壁地区内的黑市交易大部分都发生在此地。
+#14678	[!Reputation]오랜 기간 범죄 조직 $OrganizationName$파의 비호 아래 국경 검문소 중심으로 발달한 $AreaType$로 불법적인 환락가들이 성행하고 있는 지역입니다. 또한 바람장벽 지구 내 암거래 대부분이 이 지구에서 일어나고 있습니다.	[!Reputation]长期受犯罪组织$OrganizationName$派庇护的地区。这里是以边防检查站为中心发展的$AreaType$，也是盛行非法娱乐街的地区。风之壁地区内的黑市交易大部分都发生在此地。
 #14679	[!Reputation]오랜 기간 범죄 조직 $OrganizationName$파의 세력권에 있던 지역으로 $WindWallArea$의 대다수 물류, 이능석 채굴 회사의 본사가 위치한 $AreaType$입니다.	[!Reputation]长期位于犯罪组织$OrganizationName$派势力范围的地区，$WindWallArea$的大多数物流，异能石开采公司总部所在的$AreaType$。
-#14680	[!Reputation]바람장벽 지구의 외곽 지역에 위치하다 보니 범죄율이 높습니다.	[!Reputation]因位于风之墙壁地区的外围区域，所以犯罪率较高。
+#14680	[!Reputation]바람장벽 지구의 외곽 지역에 위치하다 보니 범죄율이 높습니다.	[!Reputation]因位于风之壁地区的外围区域，所以犯罪率较高。
 #14681	[!Reputation]$Troubleshooter$의 관할 구역이 되기를 희망합니다.	[!Reputation]希望成为$Troubleshooter$的管辖区。
 #14682	[!Reputation]발할라 초기 외부 위험 요소로부터 시민들을 보호하기 위하여 설치되었지만 현재는 외부 이주민들의 무차별적인 유입을 막는 역할을 하고 있습니다.	[!Reputation]在巴赫拉初期,这里是为了从外部的危险因素保护市民们而建立的,但目前它主要用于阻止外部移民的大量涌入。
 #14683	[!Reputation]대부분 근로 노동자들이 거주하는 지역이며 재개발 공사가 한창 진행 중인 지역입니다.	[!Reputation]大部分的劳工都居住在此地区，而且正在进行重新开发。
@@ -8641,7 +8641,7 @@
 #14697	[!ReputationPolicy]$Sector$의 $SectorCitizen$들의 불법적인 암거래 물품을 적발합니다.	[!ReputationPolicy]揭发$Sector$的$SectorCitizen$们的非法黑市交易物品。
 #14698	[!ReputationPolicy]암거래 적발	[!ReputationPolicy]揭发黑市交易
 #14699	[!ReputationPolicy]$Sector$ 임무 완료 시, 모든 지구의 평판이 $ApplyAmountValue$ 상승합니다.	[!ReputationPolicy]完成$Sector$的任务时，所有地区的评判上升$ApplyAmountValue$。
-#14700	[!ReputationPolicy]바람장벽 지구의 $SectorCitizen$들은 $Sector$를 통해 많은 범죄자들이 유입된다고 믿고 있습니다.	[!ReputationPolicy]风之墙壁地区的$SectorCitizen$们相信是通过$Sector$涌入大量的犯罪者。
+#14700	[!ReputationPolicy]바람장벽 지구의 $SectorCitizen$들은 $Sector$를 통해 많은 범죄자들이 유입된다고 믿고 있습니다.	[!ReputationPolicy]风之壁地区的$SectorCitizen$们相信是通过$Sector$涌入大量的犯罪者。
 #14701	[!ReputationPolicy]검문	[!ReputationPolicy]检查
 #14702	[!ReputationPolicy]$Division$ 임무 수행 시, 트러블슈터 적 정보 획득률이 $ApplyAmountValue$ 증가합니다. 또한 미니맵에 영웅 등급 이상의 적 유닛의 위치가 표시됩니다.	[!ReputationPolicy]进行$Division$的任务时，纷争终结者的敌人信息获得率将增加$ApplyAmountValue$。并且会在小地图上标记出大于英雄级别的敌人单位位置。
 #14703	[!ReputationPolicy]$Sector$의 $SectorCitizen$들은  자신들이 목격한 정보를 $Troubleshooter$에게 적극적으로 제공합니다.	[!ReputationPolicy]$Sector$的$SectorCitizen$们将给$Troubleshooter$积极提供自己目击到的信息。
@@ -8659,13 +8659,13 @@
 #14715	[!ReputationPolicy]$Sector$의 $SectorCitizen$들은 $Division$에서 일어난 사건을 해결할 때마다 사건 현장 수습을 도와줍니다.	[!ReputationPolicy]$Sector$的$SectorCitizen$们在$Division$发生的事件得到解决时帮助事件现场收尾。
 #14716	[!ReputationPolicy]현장 수습	[!ReputationPolicy]现场收尾
 #14717	[!ReputationPolicy]$Division$ 임무 완료 시, 알려진 트러블메이커 대상 중 정보가 부족한 무작위의 대상에 대한 정보를 $ApplyAmountValue$ 획득합니다.	[!ReputationPolicy]完成$Division$的时，将获得已被告知的捣乱者中，缺乏信息的随机对象的信息量$ApplyAmountValue$。
-#14718	[!ReputationPolicy]$Sector$의 $SectorCitizen$들부터 바람장벽 지구 전역의 범죄자들의 정보를 제공 받습니다.	[!ReputationPolicy]从$Sector$的$SectorCitizen$们获得风之墙壁地区犯罪者们的信息。
+#14718	[!ReputationPolicy]$Sector$의 $SectorCitizen$들부터 바람장벽 지구 전역의 범죄자들의 정보를 제공 받습니다.	[!ReputationPolicy]从$Sector$的$SectorCitizen$们获得风之壁地区犯罪者们的信息。
 #14719	[!ReputationPolicy]정보상	[!ReputationPolicy]信息商
 #14720	[!ReputationPolicy]$Division$ 임무 완료 시, 모든 산업 지구의 평판이 $ApplyAmountValue$ 상승합니다.	[!ReputationPolicy]完成$Division$的任务时，所有产业地区的评判上升$ApplyAmountValue$。
 #14721	[!ReputationPolicy]$Sector$의 $SectorCitizen$들은 $Troubleshooter$의 활동을 타 지구 노동자들에게 홍보합니다.	[!ReputationPolicy]$Sector$的$SectorCitizen$们将$Troubleshooter$的活动宣传给其他地区的劳工。
 #14722	[!ReputationPolicy]노동조합	[!ReputationPolicy]劳动组合
 #14723	[!ReputationPolicy]임무 수행 시, 미니맵에 아이템 상자의 위치가 표시됩니다. 또한 유실물이 발생하지 않습니다.	[!ReputationPolicy]进行任务时在小地图上显示道具箱的位置。而且不会发生失物。
-#14724	[!ReputationPolicy]바람장벽 지구 경찰청으로부터 바람장벽 지구 전역의 유실물 정보를 제공 받습니다.	[!ReputationPolicy]从风之墙壁地区警察厅获得风之墙壁地区全域的失物信息。
+#14724	[!ReputationPolicy]바람장벽 지구 경찰청으로부터 바람장벽 지구 전역의 유실물 정보를 제공 받습니다.	[!ReputationPolicy]从风之壁地区警察厅获得风之壁地区全域的失物信息。
 #14725	[!ReputationPolicy]유실물 정보	[!ReputationPolicy]失物信息
 #14726	[!ReputationPolicy]임무 수행 시, 미니맵에 이능석의 위치가 표시됩니다.	[!ReputationPolicy]进行任务时在小地图上显示异能石的位置。
 #14727	[!ReputationPolicy]$Sector$의 $SectorCitizen$들은 원활한 이능석 수급을 위해 $Troubleshooter$에게 이능석이 분포된 자료를 제공합니다.	[!ReputationPolicy]$Sector$的$SectorCitizen$们为了顺利的获取异能石对$Troubleshooter$提供异能石分布的信息。
@@ -8716,7 +8716,7 @@
 #14772	[!WordCollection]물품 지원	[!WordCollection]物品支援
 #14773	[!WordCollection]임무 완료 경험	[!WordCollection]任务完成经验
 #14774	[!WordCollection]트러블슈터	[!WordCollection][!Menu]纷争终结者
-#14775	[!WordCollection]바람장벽 지구	[!LoadingDesc]风之墙壁地区
+#14775	[!WordCollection]바람장벽 지구	[!LoadingDesc]风之壁地区
 #14776	[!GuideMessage]이 지역은 무법지대입니다. 시민들이 곳곳에서 도움을 바라고 있습니다.<br><br>[colour='FFFFFF00']의뢰 수행 시 지역 평판량이 10 증가합니다.<br>[colour='FFFF5943']미션 보상 금액이 25% 감소합니다.	[!GuideMessage]这个地区是枉法地带。到处都有市民们需要帮助。<br><br>[colour='FFFFFF00']执行委托时地区评判量增加10。<br>[colour='FFFF5943']任务奖励金额减少25%。
 #14777	[!GuideMessage]더 이상 두려워 할 것이 없는 범죄자들이 활개치고 있습니다. 시민들이 매우 불안해 하고 있습니다.<br><br>[colour='FFFFFF00']의뢰 수행 시 지역 평판량이 10 증가합니다.<br>[colour='FFFF5943']미션 보상 금액이 10% 감소합니다.	[!GuideMessage]无所畏惧的犯罪分子们四处横行。市民们非常不安。<br><br>[colour='FFFFFF00']执行委托时地区评判量增加10.<br>[colour='FFFF5943']任务奖励金额减少10%。
 #14778	[!WordCollection]다음 보고서까지 남은 임무	[!WordCollection]直到下一次报告书所剩的任务
@@ -8724,13 +8724,13 @@
 #14780	[!WordCollection]지원 보상 아이템	[!WordCollection]支援奖励物品
 #14781	[!WordCollection]트러블슈터 활동 평가 보상 내역	[!WordCollection]纷争终结者的活动评价奖励内容
 #14782	[!WordCollection]지원 보상금	[!WordCollection]支援奖励金
-#14784	[!Loading]먼지바람 고속도로 휴게소	[!Mission]]沙尘暴高速公路休息站
+#14784	[!Loading]먼지바람 고속도로 휴게소	[!Mission]]沙暴高速路休息站
 #14785	[!Loading]같이 걸어가기	[!Loading]一起向前走
 #14786	[!ObjectInfo]소형 바이크론	[!ObjectInfo]小型拜克伦
-#14787	[!Site]먼지바람 고속도로 휴게소	[!Mission]]沙尘暴高速公路休息站
-#14788	[!Troublebook]카터와 레톤이 바람장벽 지구로 넘어와 10개월. 레톤은 카터의 계획을 끝까지 따라가기로 한다.	[!Troublebook]卡特和莱顿来到风之墙壁地区已经10个月了。莱顿决定跟随着卡特的计划到底。
+#14787	[!Site]먼지바람 고속도로 휴게소	[!Mission]]沙暴高速路休息站
+#14788	[!Troublebook]카터와 레톤이 바람장벽 지구로 넘어와 10개월. 레톤은 카터의 계획을 끝까지 따라가기로 한다.	[!Troublebook]卡特和莱顿来到风之壁地区已经10个月了。莱顿决定跟随着卡特的计划到底。
 #14789	[!Troublebook]비가 오는 날이면...	[!Troublebook]一到下雨天...
-#14790	[!Troublebook]먼지바람 고속도로 휴게소	[!Mission]]沙尘暴高速公路休息站
+#14790	[!Troublebook]먼지바람 고속도로 휴게소	[!Mission]]沙暴高速路休息站
 #14791	[!Troublebook]같이 걸어가기	[!Troublebook]一起向前走
 #14793	[!Ability]일반 추출보다 100% 높은 효율로 대상의 에너지를 추출합니다.	[!Ability]以比一般提取高出100%的效率提取目标的能源。
 #14794	[!Ability]순도 높은 에너지 추출	[!Ability]高纯度的能量提取
@@ -8759,7 +8759,7 @@
 #14827	[!Item]자동 돌격 소총	[!Item]自动突击步枪
 #14828	[!Item]부식된 카본 복합 장갑	[!Item]腐蚀的石墨复合手套
 #14829	[!Loading]추봉도 하역장	[!Loading]秋蜂岛装卸场
-#14831	[!Loading]잿빛 항구 G 물류 창고	[!Mission]灰色港口G物流仓库
+#14831	[!Loading]잿빛 항구 G 물류 창고	[!Mission]灰港G物流仓库
 #14832	[!Loading]버릴 것은 없다.	[!Loading]没什么可扔。
 #14841	[!Mastery]미션 진행 중 최초 공격 피해를 무효화합니다.	[!Mastery]任务进行过程中，无视第一发攻击受到的伤害。
 #14848	[!Mastery]뇌공	[!Mastery]雷攻
@@ -8900,7 +8900,7 @@
 #15071	[!Mastery]원격 반응 공격	[!Mastery]远程反应攻击
 #15073	[!Mastery]에너지, 열, 일, 엔트로피와 과정의 자발성을 다루지.	[!Mastery]处理能量、热、功、熵和过程的自发性。
 #15074	[!Mastery]열역학	[!Mastery]热力学
-#15075	[!Mission]은빛 구름 시장 거리	[!Mission]银色云彩市场街
+#15075	[!Mission]은빛 구름 시장 거리	[!Mission]银云市场街
 #15076	[!Mission]외곽 도로 정비소	[!Mission]外围道路维修点
 #15077	[!MissionMemberState]작동 불능	[!MissionMemberState]启动不能
 #15078	[!MissionMemberState]치명적 파손	[!MissionMemberState]致命的破损
@@ -8917,16 +8917,16 @@
 #15093	[!PcState]양호함	[!PcState]良好
 #15094	[!PcState]심각한 파손	[!PcState]严重的破损
 #15095	[!PcState]가벼운 파손	[!PcState]轻微的破损
-#15096	[!Site]그늘 안개 거리 외곽	[!Site]阴影之雾霭街外围
-#15097	[!Site]은빛 구름 시장 거리	[!Mission]银色云彩市场街
-#15101	[!Troublebook]은빛 구름 시장 거리	[!Troublebook]银色云彩市场街
+#15096	[!Site]그늘 안개 거리 외곽	[!Site]沉雾外围区
+#15097	[!Site]은빛 구름 시장 거리	[!Mission]银云市场街
+#15101	[!Troublebook]은빛 구름 시장 거리	[!Troublebook]银云市场街
 #15104	[!GuideMessage][colour='FFFFFF00']현재 게임 진행 정보는 다음 실행 시 이어하기를 통하여 진행하실 수 있습니다.	[!GuideMessage][colour='FFFFFF00']目前进行的游戏进度可以通过下次游戏启动时连接继续进行。
 #15105	[!GuideMessage]사용할 수 있는 회사 이름입니다.	[!GuideMessage]可以使用的公司名。
 #15108	[!SystemMessage]게임 진행 중 에러가 발생했습니다.	[!SystemMessage]游戏进行中发生了错误。
 #15109	[!SystemMessage]요청이 만료되었습니다	[!SystemMessage]请求超时
 #15110	[!SystemMessage]로비로 진입하지 못했습니다.	[!SystemMessage]没能进入大厅。
 #15111	[!WordCollection]불러오는 중..	[!WordCollection]正在载入中...
-#15113	[!GuideMessage]치안도는 바람장벽 지구의 범죄 활동을 반영하는 수치입니다. <br><br>치안도는 보고서 수령 시, 사건 해결 결과에 따라 증가하며 치안도가 100%가 되면 다음 보고서까지 경험치 획득, 아이템 획득 보너스 상태가 발생합니다.<br><br>[colour='FFFFAA00']보너스 상태가 해제되면 치안도는 다시 현재의 범죄 수치를 반영해 하락됩니다.	[!GuideMessage]治安指数是反映了风之墙壁地区犯罪活动的数值。<br><br>治安指数是领取报告书时，根据事件处理的结果增加。若治安指数变为100%时，领取下一个报告书之前所获得的经验值和物品将获得额外奖励。<br><br>[colour='FFFFAA00']奖励状态结束时，治安指数将减少并再次反映当前的犯罪活动数值。
+#15113	[!GuideMessage]치안도는 바람장벽 지구의 범죄 활동을 반영하는 수치입니다. <br><br>치안도는 보고서 수령 시, 사건 해결 결과에 따라 증가하며 치안도가 100%가 되면 다음 보고서까지 경험치 획득, 아이템 획득 보너스 상태가 발생합니다.<br><br>[colour='FFFFAA00']보너스 상태가 해제되면 치안도는 다시 현재의 범죄 수치를 반영해 하락됩니다.	[!GuideMessage]治安指数是反映了风之壁地区犯罪活动的数值。<br><br>治安指数是领取报告书时，根据事件处理的结果增加。若治安指数变为100%时，领取下一个报告书之前所获得的经验值和物品将获得额外奖励。<br><br>[colour='FFFFAA00']奖励状态结束时，治安指数将减少并再次反映当前的犯罪活动数值。
 #15115	[!Notice]<br><br>$LangText$ 사용자분들에게 알려드립니다.[colour='FFFFFFFF']<br><br>[colour='FFFFFF00']현재 [colour='FFFFFFFF']$LangText$[colour='FFFFFF00']의 번역은 [colour='FFFFFFFF']$ThisUpdateDay$[colour='FFFFFF00'] 업데이트 내용까지 적용되어 있습니다. 남은  [colour='FFFFFFFF']$LangTextDetail$[colour='FFFFFF00'] 번역은  [colour='FFFFFFFF']$LangUpdateDay$[colour='FFFFFF00'] 추가 업데이트를 통해 완료될 예정입니다.<br><br>[colour='FFFFAA00']번역이 완료되지 않은 부분은 영어로 표시됩니다.<br><br>아울러 더 좋은 번역 제안 및 잘못된 번역의 수정 제안 등은 스팀의 커뮤니티를 통하여 알려주시면 적극 반영하겠습니다.	[!Notice]<br><br>通知各位使用$LangText$的玩家。[colour='FFFFFFFF']<br><br>[colour='FFFFFF00']现在的[colour='FFFFFFFF']$LangText$[colour='FFFFFF00']翻译正适用[colour='FFFFFFFF']$ThisUpdateDay$[colour='FFFFFF00']的版本。剩下的[colour='FFFFFFFF']$LangTextDetail$[colour='FFFFFF00']翻译会在[colour='FFFFFFFF']$LangUpdateDay$[colour='FFFFFF00']时另外更新。<br><br>[colour='FFFFAA00']还未翻译到的部分暂时以英语或韩语显示。<br><br>并且如果您有更怯当合适的翻译或发现错误翻译，请向我们反映，我们会积极处理的。
 #15117	[!Notice]다음 업데이트 예정 날짜는 $DayText$ 입니다.	[!Notice]下一个更新日期将会是 $DayText$。
 #15118	[!Notice]다음 업데이트 예정 날짜는 미정입니다. 다음 업데이트 날짜가 정해지는 대로 스팀 상점 페이지$Link$를 통해 알려드리도록 하겠습니다.	[!Notice]下一个更新日期未定。若下次更新日期得到确定，将会通过在STEAM商店页面的$Link$告诉大家。
@@ -8959,7 +8959,7 @@
 #15148	[!Troublebook]원칙과 결과	[!Troublebook]原则和结果
 #15149	[!Troublebook]한 걸음 물러나서...	[!Troublebook]退一步...
 #15150	[!WordCollection]동기화 재활성화 : %d 시간 후	[!WordCollection]同步重激活 ：剩余%d
-#15151	[!Loading]은빛 구름 시장 거리	[!Mission]银色云彩市场街
+#15151	[!Loading]은빛 구름 시장 거리	[!Mission]银云市场街
 #15152	[!Loading]한 걸음 물러나서...	[!Loading]退一步...
 #15154	[!Ability]지원 프로토콜	[!Ability]支援协议
 #15157	[!Ability]화염 공격 커맨드	[!Ability]火焰攻击命令
@@ -9166,9 +9166,9 @@
 #15425	[!Status][!Short]발열	[!Status][!Short]发热
 #15426	[!Status]정보 SP	[!Status]信息 SP
 #15427	[!Status][!Short]정보	[!MissionType]信息
-#15432	[!Item]강화 구동 장치 P - 01	[!Item]强化驱动设备 P - 01
-#15433	[!Item]강화 구동 장치 R - 01	[!Item]强化驱动设备 R - 01
-#15434	[!Item]강화 구동 장치 R - 02	[!Item]强化驱动设备 R - 02
+#15432	[!Item]강화 구동 장치 P - 01	[!Item]强化驱动设备 P-01
+#15433	[!Item]강화 구동 장치 R - 01	[!Item]强化驱动设备 R-01
+#15434	[!Item]강화 구동 장치 R - 02	[!Item]强化驱动设备 R-02
 #15436	[!Item]낡은 화염 방사기	[!Item]陈旧的火焰喷射器
 #15437	[!Item]낡은 냉각 레이저	[!Item]陈旧的冷却激光
 #15438	[!Item]낡은 자동 돌격 소총	[!Item]陈旧的自动突击步枪
@@ -9425,12 +9425,12 @@
 #15801	[!Item]강화 엔진 UE4 - 과열	[!Item]强化引擎 UE4 - 过热
 #15803	[!Item]강화 엔진 UE4 - 고속	[!Item]强化引擎 UE4 - 高速
 #15804	[!Item]강화 엔진 UE2	[!Item]强化引擎 UE2
-#15805	[!Item]보조 장갑 3RSYS - 01	[!Item]辅助装甲 3RSYS - 01
-#15806	[!Item]보조 장갑 3RSYS - 03	[!Item]辅助装甲 3RSYS - 03
-#15807	[!Item]보조 장갑 3RSYS - 02	[!Item]辅助装甲 3RSYS - 02
-#15808	[!Item]마그넷 코팅 U - 01	[!Item]磁场涂层 U - 01
-#15809	[!Item]마그넷 코팅 E - 01	[!Item]磁场涂层 E - 01
-#15810	[!Item]마그넷 코팅 R - 01	[!Item]磁场涂层 R - 01
+#15805	[!Item]보조 장갑 3RSYS - 01	[!Item]辅助装甲 3RSYS-01
+#15806	[!Item]보조 장갑 3RSYS - 03	[!Item]辅助装甲 3RSYS-03
+#15807	[!Item]보조 장갑 3RSYS - 02	[!Item]辅助装甲 3RSYS-02
+#15808	[!Item]마그넷 코팅 U - 01	[!Item]磁场涂层 U-01
+#15809	[!Item]마그넷 코팅 E - 01	[!Item]磁场涂层 E-01
+#15810	[!Item]마그넷 코팅 R - 01	[!Item]磁场涂层 R-01
 #15811	[!Item]나노 스킨 G1	[!Item]纳米涂层 G1
 #15812	[!Item]나노 스킨 G4	[!Item]纳米涂层 G4
 #15813	[!Item]나노 스킨 G3	[!Item]纳米涂层 G3
@@ -9439,14 +9439,14 @@
 #15816	[!Item]태양광 패널 DV4	[!Item]太阳光板 DV4
 #15817	[!Item]태양광 패널 DV3	[!Item]太阳光板 DV3
 #15818	[!Item]태양광 패널 DV2	[!Item]太阳光板 DV2
-#15819	[!Item]보조 엔진 Havoc - 01	[!Item]辅助引擎 Havoc - 01
-#15820	[!Item]보조 엔진 Havoc - 04	[!Item]辅助引擎 Havoc - 04
-#15821	[!Item]보조 엔진 Havoc - 03	[!Item]辅助引擎 Havoc - 03
-#15822	[!Item]보조 엔진 Havoc - 02	[!Item]辅助引擎 Havoc - 02
-#15823	[!Item]보조 엔진 PhysX - 01	[!Item]辅助引擎 PhysX - 01
-#15824	[!Item]보조 엔진 PhysX - 04	[!Item]辅助引擎 PhysX - 04
-#15825	[!Item]보조 엔진 PhysX - 03	[!Item]辅助引擎 PhysX - 03
-#15826	[!Item]보조 엔진 PhysX - 02	[!Item]辅助引擎 PhysX - 02
+#15819	[!Item]보조 엔진 Havoc - 01	[!Item]辅助引擎 Havoc-01
+#15820	[!Item]보조 엔진 Havoc - 04	[!Item]辅助引擎 Havoc-04
+#15821	[!Item]보조 엔진 Havoc - 03	[!Item]辅助引擎 Havoc-03
+#15822	[!Item]보조 엔진 Havoc - 02	[!Item]辅助引擎 Havoc-02
+#15823	[!Item]보조 엔진 PhysX - 01	[!Item]辅助引擎 PhysX-01
+#15824	[!Item]보조 엔진 PhysX - 04	[!Item]辅助引擎 PhysX-04
+#15825	[!Item]보조 엔진 PhysX - 03	[!Item]辅助引擎 PhysX-03
+#15826	[!Item]보조 엔진 PhysX - 02	[!Item]辅助引擎 PhysX-02
 #15827	[!ItemEquipmentPosition]지원 보조 장비	[!ItemEquipmentPosition]支援辅助装备
 #15828	[!ItemEquipmentPosition]공격 보조 장비	[!ItemEquipmentPosition]攻击辅助装备
 #15829	[!ItemType]주 장갑	[!ItemType]主装甲
@@ -9679,16 +9679,16 @@
 #16149	[!Ability]독의 덫 활성화	[!Ability]激活毒之陷井
 #16150	[!Ability]전격 기동	[!Ability]电击冲击
 #16151	[!Ability]플레임 핸드	[!Ability]火焰机械臂
-#16152	[!Item]강화 구동 장치 PF - 01	[!Item]强化驱动装备 PF - 01
-#16153	[!Item]강화 구동 장치 PI - 01	[!Item]强化驱动装备 PI - 01
-#16154	[!Item]강화 구동 장치 PL - 01	[!Item]强化驱动装备 PL - 01
+#16152	[!Item]강화 구동 장치 PF - 01	[!Item]强化驱动装备 PF-01
+#16153	[!Item]강화 구동 장치 PI - 01	[!Item]强化驱动装备 PI-01
+#16154	[!Item]강화 구동 장치 PL - 01	[!Item]强化驱动装备 PL-01
 #16155	[!Item]다중 연산장치	[!Item]多重运算装置
 #16156	[!Item]카일리가 복수의 기계를 제어하기 위해 만든 보조 연산 장치.	[!Item]凯莉为了控制多数的机器而制作的辅助运算装置。
 #16157	[!Item]개조된 크레인 핸드 - 화염 방사	[!Item]被改造的起重机械臂 - 火焰喷射
 #16158	[!Item]개조된 크레인 핸드 - 냉각 가스	[!Item]被改造的起重机械臂 - 冷气
 #16159	[!Item]개조된 크레인 핸드 - 전기 충격	[!Item]被改造的起重机械臂 - 电击
 #16160	[!LayoutKeyword]재료 도감	[!WordCollection]材料图鉴
-#16161	[!Loading]푸른 안개 G 물류센터	[!Loading]蓝色雾霭 G 物流中心
+#16161	[!Loading]푸른 안개 G 물류센터	[!Loading]蓝雾-G物流中心
 #16164	[!Mastery]작은 움직임도 놓치지 않는다.	[!Mastery]一丝不苟
 #16165	[!Mastery]자동 제압 사격	[!Mastery]自动压制射击
 #16168	[!Mastery]괴수 길들이기	[!Mastery]驯服怪兽
@@ -9700,7 +9700,7 @@
 #16177	[!ObjectInfo]제프	[!ObjectInfo]杰夫
 #16182	[!ReputationDivisionType][colour='FFFFFF00']시민 구조 시, 감사 편지의 보상이 [colour='FFFFFFFF']100%%[colour='FFFFFF00'] 증가합니다. NPC와 우호도 상승량이 [colour='FFFFFFFF']%d%%[colour='FFFFFF00'] 증가합니다.	[!ReputationDivisionType][colour='FFFFFF00']救助市民时，感谢信的奖励将增加[colour='FFFFFFFF']100%%[colour='FFFFFF00']。与NPC的友好度上升量将增加[colour='FFFFFFFF']%d%%[colour='FFFFFF00']。
 #16183	[!ReputationDivisionType]시민 구조 시, [colour='FFFFFF00']감사 편지[colour='FFFFFFFF']의 보상이 증가합니다. NPC와 우호도 상승량이 증가합니다.	[!ReputationDivisionType]救助市民时，[colour='FFFFFF00']感谢信[colour='FFFFFFFF']的奖励将会增加。与NPC的友好度上升量将会增加。
-#16184	[!Site]푸른 안개 G 물류센터	[!Site]蓝色雾霭 G 物流中心
+#16184	[!Site]푸른 안개 G 물류센터	[!Site]蓝雾 G 物流中心
 #16185	[!WordCollection]소환 중	[!WordCollection]召唤中
 #16187	[!ItemEquipmentPosition]동력 장치	[!ItemType]动力设备
 #16188	[!ItemEquipmentPosition]주 장갑	[!ItemType]主装甲
@@ -9852,7 +9852,7 @@
 #16366	[!Mastery]도망쳐서 자유롭게 살아라.	[!Mastery]逃离后过上自由自在的生活吧。
 #16367	[!Mastery]생존 모드	[!Mastery]生存模式
 #16369	[!Mastery]내풍성	[!Mastery]耐风性
-#16374	[!Mission]푸른 안개 G 물류 센터	[!Mission]蓝色雾霭 G 物流中心
+#16374	[!Mission]푸른 안개 G 물류 센터	[!Mission]蓝雾-G物流中心
 #16375	[!ObjectInfo]파이어크론	[!ObjectInfo]火焰拜克伦
 #16376	[!ObjectInfo]프로스트크론	[!ObjectInfo]冰霜拜克伦
 #16377	[!ObjectInfo]라이트닝크론	[!ObjectInfo]闪电拜克伦
@@ -9905,11 +9905,11 @@
 #16438	[!Item]거미줄 발사기 - 경량화	[!Item]蜘蛛网发射器 - 轻量化
 #16439	[!Item]거미줄 발사기	[!Item]蜘蛛网发射器
 #16440	[!Loading]메트로디움 거주구	[!Site]梅特罗迪翁居民区
-#16441	[!Loading]그림자 장벽 지하수로	[!Loading]影之墙壁地沟
+#16441	[!Loading]그림자 장벽 지하수로	[!Loading]影壁地下水道
 #16442	[!Loading]꼬리 자르기	[!Loading]断尾求生
 #16443	[!Mastery]극풍	[!Mastery]极风
 #16444	[!Mission]메트로디움 거주구	[!Site]梅特罗迪翁居民区
-#16445	[!Mission]그림자 장벽 지하수로	[!Mission]影之墙壁地沟
+#16445	[!Mission]그림자 장벽 지하수로	[!Mission]影壁地下水道
 #16446	[!ObjectInfo]거미줄 드론	[!ObjectInfo]蛛网无人机
 #16447	[!ObjectInfo]스푼교 폭풍술사	[!ObjectInfo]勺子教暴风术师
 #16450	[!Ability]제어권 해제	[!Ability]控制权解除
@@ -10243,7 +10243,7 @@
 #16842	[!GameSystemMessageFormat]남서쪽 포위망의 경찰 병력이 전멸하였습니다.	[!Sentence][!FrontMessage]西南方包围圈的警察被歼灭了。
 #16843	[!GameSystemMessageFormat]북동쪽 포위망의 경찰 병력이 전멸하였습니다.	[!Sentence][!FrontMessage]东北方包围圈的警察被歼灭了。
 #16844	[!GameSystemMessageFormat]백호파 조슈아 직속 부대가 전투 상태에 돌입하였습니다.	[!Sentence][!FrontMessage]约书亚的直属部队开始战斗了。
-#16845	[!GameSystemMessageFormat]백호파 베르케 직속 부대가 전투 상태에 돌입하였습니다.	[!Sentence][!FrontMessage]伯尔克的直属部队开始战斗了。
+#16845	[!GameSystemMessageFormat]백호파 베르케 직속 부대가 전투 상태에 돌입하였습니다.	[!Sentence][!FrontMessage]别儿哥的直属部队开始战斗了。
 #16846	[!GameSystemMessageFormat]레이와 레톤을 도와 주위의 적을 제압하면 이벤트가 발생합니다.	[!Sentence][!FrontMessage]帮助雷伊和莱顿镇压周围的敌人将会触发活动事件。
 #16847	[!GameSystemMessageFormat]레이와 레톤이 현장을 이탈하였습니다.	[!Sentence][!FrontMessage]雷伊和莱顿离开了现场。
 #16848	[!GameSystemMessageFormat]레이와 레톤이 적대 대상이 되었습니다.	[!Sentence][!FrontMessage]雷伊和莱顿变成敌对目标。
@@ -10370,15 +10370,15 @@
 #17003	[!NamedEvent]교활한 스네이크	[!NamedEvent]狡猾的斯内克
 #17004	[!NamedEvent]그냥 못 본 척 할 수 없나?	[!NamedEvent]不能装作没看见吗?
 #17005	[!NamedEvent]굳이 이렇게 시간 낭비해야겠나?	[!NamedEvent]何必这样浪费时间?
-#17006	[!ObjectInfo]탐험가 도로리	[!ObjectInfo]探险者多罗利
+#17006	[!ObjectInfo]탐험가 도로리	[!ObjectInfo]冒险家多罗利
 #17007	[!ObjectInfo]스푼교 신록술사	[!ObjectInfo]勺子教新绿术士
 #17008	[!ObjectInfo]스네이크	[!ObjectInfo]斯内克
 #17009	[!OptionGameplay]아군 목록에 턴 대기시간 표시하기	[!OptionGameplay]在队友名单上显示回合冷却时间
 #17010	[!OptionGameplay]미션 진행중에 우하단의 아군 목록에 다음 턴 대기시간을 표시합니다.	[!OptionGameplay]任务进行中，在右下端的队友目录中显示回合冷却时间
 #17011	[!AbilityDirectingEvent]지원 회복	[!AbilityDirectingEvent]支援恢复
 #17012	[!GameSystemMessageFormat]스푼교도와 밀수업자가 적대 관계가 되었습니다.	[!GameSystemMessageFormat]勺子教和走私者成为了敌对关系。
-#17013	[!GameSystemMessageFormat]모험가 도로리가 적대 관계가 되었습니다.	[!GameSystemMessageFormat]探险者多罗利成为了敌对关系。
-#17014	[!GameSystemMessageFormat]모험가 도로리가 앤을 보고 흥분합니다.	[!GameSystemMessageFormat]探险者多罗利看到安很兴奋。
+#17013	[!GameSystemMessageFormat]모험가 도로리가 적대 관계가 되었습니다.	[!GameSystemMessageFormat]冒险家多罗利成为了敌对关系。
+#17014	[!GameSystemMessageFormat]모험가 도로리가 앤을 보고 흥분합니다.	[!GameSystemMessageFormat]冒险家多罗利看到安很兴奋。
 #17015	[!GuideMessage]근접한 타일에 적대 대상이 없어야 사용 가능합니다.	[!GuideMessage]在附近的格子里没有敌对对象才可使用。
 #17016	[!GuideMessage]근접한 타일에 적대 대상이 있어 사용 불가능합니다.	[!GuideMessage]在附近的格子里有敌对对象，无法使用。
 #17017	[!GuideMessage]공격 어빌리티를 사용 할 경우, 해당 상태는 자동 해제 됩니다.	[!Buff]使用攻击技能时，该状态将自动解除。
@@ -10409,7 +10409,7 @@
 #17119	[!Item]자홍빛 티타늄 전투 장갑	[!Item]紫红色钛合金战斗手套
 #17120	[!Item]남청빛 티타늄 전투 장갑	[!Item]藏蓝色钛合金战斗手套
 #17121	[!Item]조홍의 전투 장갑	[!Item]赵洪的战斗手套
-#17122	[!Item]조홍이 황소파 간부 시절 스콧과 함께 조직을 이끌던 시기부터 쓰던 너클. 너클 내장 메모리 칩에 자신의 패배 숫자를 기록하는 습관이 있다.	[!Item]在赵洪还是公牛组干部时与斯科特一起领导着组织的时期使用过的指虎。习惯于在指虎的内置存储芯片上记录自己失败的次数。
+#17122	[!Item]조홍이 황소파 간부 시절 스콧과 함께 조직을 이끌던 시기부터 쓰던 너클. 너클 내장 메모리 칩에 자신의 패배 숫자를 기록하는 습관이 있다.	[!Item]在赵洪还是狂牛组干部时与斯科特一起领导着组织的时期使用过的指虎。习惯于在指虎的内置存储芯片上记录自己失败的次数。
 #17123	[!Item]오거 전투 장갑	[!Item]食人魔战斗手套
 #17124	[!Item]자홍빛 오거 전투 장갑	[!Item]紫红色食人魔战斗手套
 #17125	[!Item]남청빛 오거 전투 장갑	[!Item]藏蓝色食人魔战斗手套
@@ -10531,13 +10531,13 @@
 #17354	[!LobbyIdleMessage][!speaker:Albus]스푼교... 생각보다 사람들이 많아.	[!LobbyIdleMessage][!speaker:Albus]勺子教...人比想象的还多。
 #17355	[!LobbyIdleMessage][!speaker:Albus]스푼교... 도대체 원하는 게 무엇일까...	[!LobbyIdleMessage][!speaker:Albus]勺子教...到底想要得到什么...
 #17356	[!LobbyIdleMessage][!speaker:Albus]범죄 조직과 스푼교가 같이 있다니...	[!LobbyIdleMessage][!speaker:Albus]犯罪组织竟和勺子教一起出现...
-#17357	[!LobbyIdleMessage][!speaker:Albus]성난 황소파라...	[!LobbyIdleMessage][!speaker:Albus]愤怒的公牛啊...
+#17357	[!LobbyIdleMessage][!speaker:Albus]성난 황소파라...	[!LobbyIdleMessage][!speaker:Albus]狂牛啊...
 #17358	[!LobbyIdleMessage][!speaker:Albus]경찰청의 정보 제공을 받으면 시간이 많이 줄어들거야.	[!LobbyIdleMessage][!speaker:Albus]如果能得到警察厅的信息，会节省很多时间。
 #17359	[!LobbyIdleMessage][!speaker:Albus]아이린 씨의 활동 범위가 생각보다 넓어 보이네.	[!LobbyIdleMessage][!speaker:Albus]艾琳的活动范围看起来比预想的还要大啊。
 #17360	[!LobbyIdleMessage][!speaker:Albus]아이린 씨. 합류해주시려나...	[!LobbyIdleMessage][!speaker:Albus]艾琳，会与我们一起吗...
 #17361	[!LobbyIdleMessage][!speaker:Albus]시온은 아이린 씨 일에 적극적이네...	[!LobbyIdleMessage][!speaker:Albus]席翁对艾琳的事情真积极啊...
 #17362	[!LobbyIdleMessage][!speaker:Albus]이전 사건도 아이작 경감님이 아니었다면 힘들었겠지...	[!LobbyIdleMessage][!speaker:Albus]之前的事件如果不是艾萨克警监的话肯定很困难的吧...
-#17363	[!LobbyIdleMessage][!speaker:Albus]바람 장벽지구는 변두리라 큰 사건은 없는 줄 알았는데...	[!LobbyIdleMessage][!speaker:Albus]以为风之墙壁地区周围是不会有大事件的...
+#17363	[!LobbyIdleMessage][!speaker:Albus]바람 장벽지구는 변두리라 큰 사건은 없는 줄 알았는데...	[!LobbyIdleMessage][!speaker:Albus]以为风之壁地区周围是不会有大事件的...
 #17364	[!LobbyIdleMessage][!speaker:Albus]구인공고를 내볼까...	[!LobbyIdleMessage][!speaker:Albus]试试招聘公告吧...
 #17365	[!LobbyIdleMessage][!speaker:Albus]시온. 이번엔 지지 않아.	[!LobbyIdleMessage][!speaker:Albus]席翁，这次我不会输。
 #17366	[!LobbyIdleMessage][!speaker:Albus]이제는 이런 수에 넘어가지 않아.	[!LobbyIdleMessage][!speaker:Albus]现在我可不会上这种当了。
@@ -10630,7 +10630,7 @@
 #17455	[!LobbyIdleMessage][!speaker:Sion]퇴근할 때 히어로 입사 축하로 회식하자고 해야겠다...	[!LobbyIdleMessage][!speaker:Sion]下班以后就一起去聚餐为英雄开欢迎会吧...
 #17456	[!LobbyIdleMessage][!speaker:Sion]사장님. 회식 안 하나요?	[!LobbyIdleMessage][!speaker:Sion]老板，我们不聚餐吗？
 #17457	[!LobbyIdleMessage][!speaker:Sion]사장님. 내가 간식 사 올까?	[!LobbyIdleMessage][!speaker:Sion]老板，我去买吃的来吗？
-#17458	[!LobbyIdleMessage][!speaker:Sion]바람장벽 지구는 동방연합 음식이 많아서 좋아.	[!LobbyIdleMessage][!speaker:Sion]我喜欢风之墙壁地区因为那儿有很多东方联盟的美食。
+#17458	[!LobbyIdleMessage][!speaker:Sion]바람장벽 지구는 동방연합 음식이 많아서 좋아.	[!LobbyIdleMessage][!speaker:Sion]我喜欢风之壁地区因为那儿有很多东方联盟的美食。
 #17459	[!LobbyIdleMessage][!speaker:Sion]사장님. 출동하기 전에 간단하게 요기라도 하고 가는 게 어때요?	[!LobbyIdleMessage][!speaker:Sion]老板，出动前简单的充饥再走怎么样？
 #17460	[!LobbyIdleMessage][!speaker:Sion]사장님. 찹쌀로 만든 꿀호떡. 먹고 싶지 않아?	[!LobbyIdleMessage][!speaker:Sion]老板，用糯米制作的蜂蜜糖饼。想不想尝尝？
 #17461	[!LobbyIdleMessage][!speaker:Sion]사장님. 간식은 책임지기로 했잖아.	[!LobbyIdleMessage][!speaker:Sion]老板，不是说会提供零食嘛。
@@ -10651,9 +10651,9 @@
 #17476	[!LobbyIdleMessage][!speaker:Sion]이번 달 월급이 벌써... 	[!LobbyIdleMessage][!speaker:Sion]这个月的工资这么快就...
 #17477	[!LobbyIdleMessage][!speaker:Sion]오늘 들어가서는 빨래해야겠다.	[!LobbyIdleMessage][!speaker:Sion]今天回去后需要去洗衣服了。
 #17478	[!LobbyIdleMessage][!speaker:Sion]카일리 씨한테 가서 장비 수선 재료나 얻어 볼까...	[!LobbyIdleMessage][!speaker:Sion]去凯莉姐那弄点装备修补材料吧...
-#17481	[!LobbyIdleMessage][!speaker:Sion]하늘바람 포장마차거리에 가면 우동 하나 끝내주는 집이 하나 있어. 꼭 가봐.	[!LobbyIdleMessage][!speaker:Sion]去天空之风帐篷小店街的话有家超好吃的乌冬面餐馆。一定要去下。
+#17481	[!LobbyIdleMessage][!speaker:Sion]하늘바람 포장마차거리에 가면 우동 하나 끝내주는 집이 하나 있어. 꼭 가봐.	[!LobbyIdleMessage][!speaker:Sion]去天风快餐街的话有家超好吃的乌冬面餐馆。一定要去下。
 #17482	[!LobbyIdleMessage][!speaker:Sion]푸고 상점가에는 진짜 맛있는 만두 포장마차가 있어. 강력 추천이야.	[!LobbyIdleMessage][!speaker:Sion]府谷商店街有超好吃的包子帐篷小店。强烈推荐。
-#17483	[!LobbyIdleMessage][!speaker:Sion]은빛구름 상점가에 가면 꽤 괜찮은 비빔밥 집이 있어.	[!LobbyIdleMessage][!speaker:Sion]银色云彩商店街有家不错的拌饭店。
+#17483	[!LobbyIdleMessage][!speaker:Sion]은빛구름 상점가에 가면 꽤 괜찮은 비빔밥 집이 있어.	[!LobbyIdleMessage][!speaker:Sion]银云商店街有家不错的拌饭店。
 #17484	[!LobbyIdleMessage][!speaker:Sion]사장님. 생전만두라고 먹어 봤어?  바닥은 노랗게 바삭바삭! 입에 넣으면 구수한 국물이 입안에 쫙 퍼지는 게 일품이야~♡	[!LobbyIdleMessage][!speaker:Sion]老板。吃过生煎包吗？底下金黄酥脆的发出咔嚓咔嚓声音！放在嘴里，香喷喷的肉汁在嘴里散开，超级好吃~♡
 #17485	[!LobbyIdleMessage][!speaker:Sion]다음 맛집은 어디로 갈까...	[!LobbyIdleMessage][!speaker:Sion]下家美食店去哪好呢...
 #17486	[!LobbyIdleMessage][!speaker:Sion]오늘 저녁은 파에야 어때? 해산물을 듬뿍 사용한 파에야 데 마리스코~♡	[!LobbyIdleMessage][!speaker:Sion]今天晚饭吃西班牙海鲜饭怎么样？用了很多海鲜的西班牙海鲜饭~♡
@@ -10808,7 +10808,7 @@
 #17674	[!LobbyIdleMessage][!speaker:Albus]시온... 봐주는 건 아니겠지...	[!LobbyIdleMessage][!speaker:Albus]席翁...你不会是在让着我吧...
 #17675	[!LobbyIdleMessage][!speaker:Albus]한 달... 금방 가겠지...	[!LobbyIdleMessage][!speaker:Albus]一个月...转眼就要过去了...
 #17676	[!LobbyIdleMessage][!speaker:Albus]아이작 경감님의 공백은 어떻게 되려나...	[!LobbyIdleMessage][!speaker:Albus]艾萨克警监的空位会由谁来代替呢...
-#17677	[!LobbyIdleMessage][!speaker:Albus]백호파, 성난 황소파, 흑호 파는 카르텔이었을텐데...	[!LobbyIdleMessage][!speaker:Albus]白虎组、愤怒公牛组、黑虎组应该在联合垄断...
+#17677	[!LobbyIdleMessage][!speaker:Albus]백호파, 성난 황소파, 흑호 파는 카르텔이었을텐데...	[!LobbyIdleMessage][!speaker:Albus]白虎组、愤怒狂牛组、黑虎组应该在联合垄断...
 #17678	[!LobbyIdleMessage][!speaker:Albus]조용하던 백호파가 왜 이제서야 움직인거지...	[!LobbyIdleMessage][!speaker:Albus]毫无动静的白虎组为什么现在才行动...
 #17679	[!LobbyIdleMessage][!speaker:Albus]나도 모르게 동료들에게 너무 많은 일을 강요한건가...	[!LobbyIdleMessage][!speaker:Albus]是不是我在不知不觉中强迫同事做太多的事情....
 #17680	[!LobbyIdleMessage][!speaker:Albus]모집 공고를 내도 아무도 지원을 하지 않는구나...	[!LobbyIdleMessage][!speaker:Albus]发出招聘启事也没人报名啊...
@@ -10925,7 +10925,7 @@
 #17791	[!LobbyIdleMessage][!speaker:Sion]대박! 나 푸고 상점가에서 탕후루 파는 가게를 봤어~☆ 진짜 달고 맛있어서 간식으로 최고야~☆	[!LobbyIdleMessage][!speaker:Sion]哇！我在府谷商店街看到了卖糖葫芦的店呐~☆ 真的是又甜又好吃，是最好的零食了~☆
 #17792	[!LobbyIdleMessage][!speaker:Sion]평범한 사람은 속이 든든하지 않으면 예민해지지.	[!LobbyIdleMessage][!speaker:Sion]平凡的人吃不饱的话就会变得敏感。
 #17793	[!LobbyIdleMessage][!speaker:Sion]계란이 토핑된 피데 어때?	[!LobbyIdleMessage][!speaker:Sion]鸡蛋盖顶皮塔饼怎么样？
-#17794	[!LobbyIdleMessage][!speaker:Sion]지난주 하늘 바람 포장마차 거리에 철판 오징어 가게가 들어왔는데 꽤 괜찮았어.~☆	[!LobbyIdleMessage][!speaker:Sion]上周的天空之风帐篷小店街新开的铁板鱿鱼店真的很不错呐~☆
+#17794	[!LobbyIdleMessage][!speaker:Sion]지난주 하늘 바람 포장마차 거리에 철판 오징어 가게가 들어왔는데 꽤 괜찮았어.~☆	[!LobbyIdleMessage][!speaker:Sion]上周的天风快餐街新开的铁板鱿鱼店真的很不错呐~☆
 #17795	[!LobbyIdleMessage][!speaker:Sion]날씨도 쌀쌀한데 오늘 간식은 오뎅 어때?	[!LobbyIdleMessage][!speaker:Sion]天气凉凉的，今天的零食就来关东煮怎么样？
 #17796	[!LobbyIdleMessage][!speaker:Sion]오다 보니 군고구마 팔던데? 다들 OK?	[!LobbyIdleMessage][!speaker:Sion]来的路上看到卖烤地瓜的了。怎么样，都OK？
 #17797	[!LobbyIdleMessage][!speaker:Sion]마침 앞 골목에 옥수수 찐 것 팔더라. 날이 추우니 맛있어 보였어~♡	[!LobbyIdleMessage][!speaker:Sion]正好前面胡同有卖煮玉米的，这么冷的天吃起来肯定很好吃~♡
@@ -11169,7 +11169,7 @@
 #18035	[!LobbyIdleMessage][!speaker:Ray]카터는 다른 사람들에게 피해를 주면서까지 무엇을 하려는 걸까...	[!LobbyIdleMessage][!speaker:Ray]卡特给别人伤害到底是想要做什么呢...
 #18036	[!LobbyIdleMessage][!speaker:Ray]발할라는 위선적인 도시야...	[!LobbyIdleMessage][!speaker:Ray]巴赫拉是个充满伪善的城市...
 #18037	[!LobbyIdleMessage][!speaker:Ray]앨리를 떠나지 말았어야 했나...	[!LobbyIdleMessage][!speaker:Ray]是不应该离开艾丽的吗...
-#18038	[!LobbyIdleMessage][!speaker:Ray]헤이싱은 어떻게 고난의 성채를 빠져 나왔을까...	[!LobbyIdleMessage][!speaker:Ray]黑星到底是怎么离开苦难的城寨的...
+#18038	[!LobbyIdleMessage][!speaker:Ray]헤이싱은 어떻게 고난의 성채를 빠져 나왔을까...	[!LobbyIdleMessage][!speaker:Ray]黑星到底是怎么离开苦痛要塞的...
 #18039	[!LobbyIdleMessage][!speaker:Ray]레톤은 카터를 말릴 생각이 없는 건가...	[!LobbyIdleMessage][!speaker:Ray]莱顿是没想去说服卡特的吗...
 #18040	[!LobbyIdleMessage][!speaker:Ray]타인에게 상처를 주면 결국 다치는 것은 자신일텐데...	[!LobbyIdleMessage][!speaker:Ray]伤害别人最终受伤的会是自己的...
 #18041	[!LobbyIdleMessage][!speaker:Ray]나는 언제나 지켜봐야만 하는 걸까...	[!LobbyIdleMessage][!speaker:Ray]我得一直盯着的吗...
@@ -12022,7 +12022,7 @@
 #19114	[!Help]$RaidMission$ 미션은 미션 내 존재하는 $RaidMissionTarget$를 처치할 때마다 $/$임무를 계속 이어갈 것인지$/$ 혹은 $/$물러날 것인지$/$를 선택할 수 있는 체포 미션입니다.<br><br>임무 도중 $/$귀환$/$을 선택하면 퇴각 준비를 위해 일정 시간을 생존해야 하며 귀환이 성공한 경우 승리합니다.<br><br>$Note$현재 자신의 팀의 상태를 확인하여 임무 속행 여부를 결정해주세요.	[!Help]$RaidMission$该类型任务中每击退$RaidMissionTarget$时会询问$/$是否继续任务$/$还是$/$结束任务$/$的逮捕类的任务。<br><br>任务进行过程中若选择了$/$返回$/$，则需要为了准备撤退而在一定时间内幸存下来，成功返回将被判定为胜利。<br><br>$Note$请确认自身队伍的状态，并决定是否继续任务吧。
 #19115	[!Help]$RaidMission2$ 미션은 미션 내 존재하는 $RaidMissionTarget2$를 처치하거나 $Word_PsionicStone$의 에너지를 추출하여 해당 지역 내 초과된 에너지를 해제하는 사냥 미션입니다. 해당 지역의 초과된 에너지를 해제하면 $/$임무를 계속 이어갈 것인지$/$ 혹은 $/$물러날 것인지$/$를 선택할 수 있습니다.<br><br>임무 도중 $/$귀환$/$을 선택하면 퇴각 준비를 위해 일정 시간을 생존해야 하며 귀환이 성공한 경우 승리합니다.<br><br>$Note$현재 자신의 팀의 상태를 확인하여 임무 속행 여부를 결정해주세요.	[!Help]$RaidMission2$该类型任务需处理任务中存在的$RaidMissionTarget2$同时可以提取$Word_PsionicStone$能量的任务。如果释放了该地区的多余能量，你可以选择是$/$继续任务$/$还是$/$结束任务$/$。<br><br>任务进行过程中选择了$/$返回$/$，则需要为了准备撤退而在一定时间内幸存下来，成功返回将被判定为胜利。<br><br>$Note$请确认自身队伍的状态，并决定是否继续任务吧。
 #19116	[!Help]인간인 유닛은 임무 시작 전 의욕 상태가 $Percent$ 이하일 시 $Buff_Fatigue$ 상태가 됩니다.	[!Help]人类单位在任务开始前意志状态为$Percent$以下时，将进入$Buff_Fatigue$状态。
-#19121	[!Help]고난의 성채	[!Sector]苦难的城寨
+#19121	[!Help]고난의 성채	[!Sector]苦痛要塞
 #19123	[!HelpCategory]백과사전	[!HelpCategory]百科全书
 #19124	[!HelpKeyword]치안 확보	[!HelpKeyword]确保治安
 #19125	[!HelpKeyword]보스 몬스터	[!HelpKeyword]首领怪
@@ -12037,7 +12037,7 @@
 #19134	[!HelpSubCategory]국가	[!WorldScaleInfo][!地区标志]国家
 #19137	[!PcState]정상 작동 가능한 상태입니다.	[!PcState]正常运转状态。
 #19138	[!Sector]역사	[!Sector]历史
-#19139	[!Sector]원래 이 지역은 3대 열강의 국경이 접하는 지역으로 세계 대전 이전까지는 아테르 제국이 실효 지배를 하고 있었으며 고난의 성채와 가까운 위치로 무력 충돌이 빈번한 지역이었다. 세계 대전 발발 후 강대국이 차례로 해당 지역을 점거하는 혼전의 상태를 겪었다. <br><br>종전 후, 세계 대전으로 급랭한 세계 경제를 빠르게 회복하기 위해 3국의 수뇌부들은 자국의 정치 상황에 휘둘리지 않는 중립적인 경제적 완충 지역을 원했다. 그 결과 AE 782년, 세계 3대 열강인 아테르 제국, 카라스 연방, 동방 연합의 발할라 조약의 승인으로 자유 무역 도시국가 발할라가 탄생한다.	[!Sector]原本该地区是三大列强接壤的国境交界处，世界大战前由阿泰尔帝国实际控制着，因靠近苦难的城寨而导致武装冲突频繁。世界大战爆发后，各强国依次占领该地区因此最终陷入混战状态。<br><br>战后，为了迅速恢复因世界大战而急剧下降的世界经济，三国领导都希望有一个不受本国政治局势干扰的中立的经济缓冲区。最终，在AE782年，世界三大列强的阿泰尔帝国、卡拉斯联邦和东方联盟所共同签署的巴赫拉条约的批准下，自由贸易国家巴赫拉由此诞生。
+#19139	[!Sector]원래 이 지역은 3대 열강의 국경이 접하는 지역으로 세계 대전 이전까지는 아테르 제국이 실효 지배를 하고 있었으며 고난의 성채와 가까운 위치로 무력 충돌이 빈번한 지역이었다. 세계 대전 발발 후 강대국이 차례로 해당 지역을 점거하는 혼전의 상태를 겪었다. <br><br>종전 후, 세계 대전으로 급랭한 세계 경제를 빠르게 회복하기 위해 3국의 수뇌부들은 자국의 정치 상황에 휘둘리지 않는 중립적인 경제적 완충 지역을 원했다. 그 결과 AE 782년, 세계 3대 열강인 아테르 제국, 카라스 연방, 동방 연합의 발할라 조약의 승인으로 자유 무역 도시국가 발할라가 탄생한다.	[!Sector]原本该地区是三大列强接壤的国境交界处，世界大战前由阿泰尔帝国实际控制着，因靠近苦痛要塞而导致武装冲突频繁。世界大战爆发后，各强国依次占领该地区因此最终陷入混战状态。<br><br>战后，为了迅速恢复因世界大战而急剧下降的世界经济，三国领导都希望有一个不受本国政治局势干扰的中立的经济缓冲区。最终，在AE782年，世界三大列强的阿泰尔帝国、卡拉斯联邦和东方联盟所共同签署的巴赫拉条约的批准下，自由贸易国家巴赫拉由此诞生。
 #19140	[!Sector]인구	[!Sector]人口
 #19141	[!Sector]발할라의 인구의 구성은 발할라 건국과 함께 전세계에서 이주해 온 이주민이 90%를 차지하는 다민족 국가이다.	[!Sector]巴赫拉的人口构成是从巴赫拉建国开始持续地从世界各地移居过来的移民占90%的多民族国家。
 #19142	[!Sector]행정 구역	[!Sector]行政区域
@@ -12186,17 +12186,17 @@
 #19293	[!Item]남청빛 흑철 수호 장갑	[!Item]藏蓝色黑铁守护手套
 #19294	[!Item]연사 속도에 최대한 중점을 둔 드레이크 시리즈의 경량화 브랜드.	[!Item]以连射速度为中心的德雷克系列轻量化品牌。
 #19295	[!Item]베이비 A의 연사 공격 시, 반동을 최대한 줄여 재연사 시 부담을 줄였다.	[!Item]减少[ 倍比 A ]连射时的反冲力。
-#19296	[!Item]베이비 A - 100의 부족한 살상력을 보강한 기관권총.	[!Item]强化[ 倍比 A - 100] 所不足的杀伤力的冲锋枪。
-#19297	[!Item]기관권총 RMS - 233	[!Item]]冲锋枪 RMS - 233
+#19296	[!Item]베이비 A - 100의 부족한 살상력을 보강한 기관권총.	[!Item]强化[ 倍比 A-100] 所不足的杀伤力的冲锋枪。
+#19297	[!Item]기관권총 RMS - 233	[!Item]]冲锋枪 RMS-233
 #19298	[!Item]동방연합의 RM 모델을 이어 군에 납품되고 있는 신형 총기 브랜드.	[!Item]东方联盟新一代RM型号新型枪支品牌。
-#19299	[!Item]기관권총 RMS - 233 A	[!Item]冲锋枪 RMS - 233 A
+#19299	[!Item]기관권총 RMS - 233 A	[!Item]冲锋枪 RMS-233 A
 #19300	[!Item]RMS - 233 제작 라인에서 성능이 우수한 기관권총. 최근 밀수업자들에 의해 발할라에 유통되기 시작했다.	[!Item]RMS - 233生产线上筛选出来的冲锋枪。最近走私分子开始在巴赫拉流通。
-#19301	[!Item]기관권총 RMS - 233 S	[!Item]冲锋枪 RMS - 233 S
+#19301	[!Item]기관권총 RMS - 233 S	[!Item]冲锋枪 RMS-233 S
 #19302	[!Item]RMS - 233 제작 라인에서 생상된 최상급 성능의 기관권총.	[!Item]RMS - 233生产线上生产的性能最高级的冲锋枪。
-#19303	[!Item]저격총 RMS - 233	[!Item]狙击步枪 RMS - 233
-#19304	[!Item]저격총 RMS - 233 A	[!Item]狙击步枪 RMS - 233 A
+#19303	[!Item]저격총 RMS - 233	[!Item]狙击步枪 RMS-233
+#19304	[!Item]저격총 RMS - 233 A	[!Item]狙击步枪 RMS-233 A
 #19305	[!Item]RMS - 233 제작 라인에서 성능이 우수한 저격총. 최근 밀수업자들에 의해 발할라에 유통되기 시작했다.	[!Item]RMS - 233生产线上筛选出来的狙击步枪。最近走私分子开始在巴赫拉流通。
-#19306	[!Item]저격총 RMS - 233 S	[!Item]狙击步枪 RMS - 233 S
+#19306	[!Item]저격총 RMS - 233 S	[!Item]狙击步枪 RMS-233 S
 #19307	[!Item]RMS - 233 제작 라인에서 생상된 최상급 성능의 저격총.	[!Item]RMS - 233生产线上生产的性能最高级的狙击步枪。
 #19308	[!Mastery]갈음질	[!Mastery]磨刀
 #19309	[!Mastery]칼은 무뎌지기 마련이다.	[!Mastery]刀是会钝化的。
@@ -12751,7 +12751,7 @@
 #19999	[!QuestType]수색	[!MissionType]搜查
 #20000	[!QuestType]잠입	[!QuestType]潜入
 #20001	[!Upgrade]전체	[!WordCollection]全体
-#20002	[!Waypoint]사수 거리는 발할라 바람장벽 지구의 상점 거리입니다.	[!Waypoint]射手街是巴赫拉风之墙壁地区的商店街。
+#20002	[!Waypoint]사수 거리는 발할라 바람장벽 지구의 상점 거리입니다.	[!Waypoint]射手街是巴赫拉风之壁地区的商店街。
 #20003	[!WordCollection]회사 경험치	[!WordCollection]公司经验值
 #20004	[!WordCollection]숙련도	[!WordCollection]熟练度
 #20005	[!WordCollection]우호도	[!WordCollection]友好度
@@ -12854,7 +12854,7 @@
 #20212	[!QuestAcceptForm]의뢰를 보류합니다.	[!QuestAcceptForm]保留委托。
 #20213	[!QuestAcceptForm]의뢰를 완료합니다.	[!QuestAcceptForm]完成委托。
 #20217	[!QuestType]대결	[!QuestType]对决
-#20218	[!SystemMail][colour='FFFFE959']안녕하십니까. 발할라 제 13 지구. 바람장벽지구의 사무관 [colour='FFFFFFFF']하비에르[colour='FFFFE959']입니다.<br><br>$CompanyName$의 바람장벽 지구 트러블슈터 등록 신청에 따라 관할 구역이 '은빛 구름' 지역으로 배정되었음을 알려드립니다.<br><br>더 나은 미래를 위해 많은 도전을 해주시길 바랍니다.<br><br>[colour='FFFFFFFF']바람장벽 지구 사무관 하비에르	[!SystemMail][colour='FFFFE959']你们好，我是巴赫拉第13区风之墙壁地区的事务官[colour='FFFFFFFF']哈维尔[colour='FFFFE959']。<br><br>根据风之墙壁地区的纷争终结者登记申请，$CompanyName$的管辖区现分配到了'银色云彩'地区。<br><br>为了更美好的未来，愿你踊跃挑战。<br><br>[colour='FFFFFFFF']风之墙壁地区事务官哈维尔敬上。
+#20218	[!SystemMail][colour='FFFFE959']안녕하십니까. 발할라 제 13 지구. 바람장벽지구의 사무관 [colour='FFFFFFFF']하비에르[colour='FFFFE959']입니다.<br><br>$CompanyName$의 바람장벽 지구 트러블슈터 등록 신청에 따라 관할 구역이 '은빛 구름' 지역으로 배정되었음을 알려드립니다.<br><br>더 나은 미래를 위해 많은 도전을 해주시길 바랍니다.<br><br>[colour='FFFFFFFF']바람장벽 지구 사무관 하비에르	[!SystemMail][colour='FFFFE959']你们好，我是巴赫拉第13区风之壁地区的事务官[colour='FFFFFFFF']哈维尔[colour='FFFFE959']。<br><br>根据风之壁地区的纷争终结者登记申请，$CompanyName$的管辖区现分配到了'银云'地区。<br><br>为了更美好的未来，愿你踊跃挑战。<br><br>[colour='FFFFFFFF']风之壁地区事务官哈维尔敬上。
 #20219	[!WordCollection]모두 선택하기	[!WordCollection]选择全部
 #20220	[!WordCollection]주문서	[!WordCollection]订单
 #20221	[!WordCollection]제작 가능한 아이템의 숙련도	[!WordCollection]可制作的物品熟练度
@@ -12923,7 +12923,7 @@
 #20292	[!LobbyMenu]미니맵	[!BattleMenu]小地图
 #20294	[!Mastery]교묘한 낚시꾼	[!Mastery]狡猾的钓鱼人
 #20295	[!Mastery]시선을 잠시 분산시키면 무슨 일이 일어났는지 아무도 알 수 없다.	[!Mastery]暂时分散视线，就不会知道发生了什么事。
-#20297	[!Mission]은빛 구름 고물 처리장	[!Mission]银色云彩旧货处理厂
+#20297	[!Mission]은빛 구름 고물 처리장	[!Mission]银云旧货处理厂
 #20298	[!NamedEvent]외톨이 야샤	[!NamedEvent]孤零零的夜叉
 #20299	[!NamedEvent]회색 야샤	[!NamedEvent]灰色夜叉
 #20300	[!NamedEvent]히이익~ 히이익~	[!NamedEvent]咿咿~咿咿~
@@ -12932,7 +12932,7 @@
 #20303	[!PcState]적재량이 초과되어 전투에 참여할 수 없습니다.	[!PcState]因超载而无法参与战斗
 #20304	[!PcState]출력 부족	[!PcState]功率不足
 #20305	[!PcState]출력이 부족하여 전투에 참여할 수 없습니다.	[!PcState]因功率不足而无法参与战斗
-#20318	[!Site]은빛 구름 고물 처리장	[!Site]银色云彩旧货处理厂
+#20318	[!Site]은빛 구름 고물 처리장	[!Site]银云旧货处理厂
 #20319	[!WordCollection]상품 목록	[!WordCollection]商品目录
 #20320	[!WordCollection]판매 목록	[!WordCollection]已销售目录
 #20321	[!WordCollection]유실물 목록	[!WordCollection]遗失物目录
@@ -12959,7 +12959,7 @@
 #20344	[!ItemSet]전문 무두장이	[!ItemSet]制革工匠
 #20345	[!Loading]실력 테스트	[!Quest]实力测试
 #20346	[!Loading]사수거리 공원	[!Mission]射手街公园
-#20348	[!Loading]은빛 구름 고물 처리장	[!Loading]银色云彩旧货处理厂
+#20348	[!Loading]은빛 구름 고물 처리장	[!Loading]银云旧货处理厂
 #20349	[!Loading]화물 속의 불청객	[!Loading]货物中的不速之客
 #20351	[!Mastery]전문 무두장이 - 2 세트	[!Mastery]制革工匠 - 2 套装
 #20352	[!Mastery]전문 무두장이 - 3 세트	[!Mastery]制革工匠 - 3 套装
@@ -12968,7 +12968,7 @@
 #20371	[!ObjectInfo]화물 상자	[!ObjectInfo]货物箱子
 #20372	[!Quest]화물 속의 불청객	[!Quest]货物中的不速之客。
 #20373	[!Quest]삼청 마을에 나타난 야샤를 처리하시오.	[!Quest]处理在三清村出现的夜叉。
-#20377	[!Site]푸른 안개 거주구	[!Site]蓝色雾霭居民区
+#20377	[!Site]푸른 안개 거주구	[!Site]蓝雾居民区
 #20378	[!WordCollection]%d%% 할인 판매	[!WordCollection]%d%%打折销售
 #20384	[!Ability]조사	[!Ability]调查
 #20386	[!GuideMessage]$MasteryBuffGroup$, $MasterySubBuffGroup$ 계열 상태 이상에 걸리지 않습니다.	[!GuideMessage]不会受到$MasteryBuffGroup$，$MasterySubBuffGroup$系的异常状态。
@@ -13020,11 +13020,11 @@
 #20454	[!Mission]은빛 중심가 지하 주차장	[!Mission]银色中央大街地下停车场
 #20456	[!Quest]어둠 속의 불청객	[!Quest]黑暗中的不速之客
 #20457	[!Quest]지하 주차장의 야샤를 처리하시오.	[!Quest]处理地下停车场的夜叉。
-#20462	[!QuestDesc]$Person(Roberto)$[은] 은빛 구름 지하 주차장에 나타난 $Job(Yasha)$를 처리하는 데 협력해달라고 요청한다.	[!QuestDesc]$Person(Roberto)$请求协助处理银色云彩地下停车场出现的$Job(Yasha)$。
+#20462	[!QuestDesc]$Person(Roberto)$[은] 은빛 구름 지하 주차장에 나타난 $Job(Yasha)$를 처리하는 데 협력해달라고 요청한다.	[!QuestDesc]$Person(Roberto)$请求协助处理银云地下停车场出现的$Job(Yasha)$。
 #20463	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Magma)$의 불타는 용암 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求从铁森林栖息的$Monster(Beast_Tima_Magma)$身上采取燃烧的熔岩皮革。
 #20464	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Spark)$의 빛나는 번개 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求从铁森林栖息的$Monster(Beast_Tima_Spark)$身上采取明亮的闪电皮革。
 #20465	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Glacier)$의 온전한 얼음 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求从铁森林栖息的$Monster(Beast_Tima_Glacier)$身上采取完整的寒冰甲。
-#20466	[!Site]은빛 구름 지하주차장	[!Site]银色云彩地下停车场
+#20466	[!Site]은빛 구름 지하주차장	[!Site]银云地下停车场
 #20467	[!Ability]바람의 힘을 이용해 원하는 지점으로 빠르게 이동합니다.	[!Ability]利用风之力迅速移动到目标地点。
 #20468	[!Ability]번개가 되어 원하는 지점으로 순간 이동합니다.	[!Ability]]化作闪电瞬间移动至想要去的地点。
 #20469	[!Ability]다리에 힘을 집중하여 순간적으로 목표 지점까지 빠른 이동을 합니다. 이동 시 비전투 상태 적의 대기, 순찰, 감시 등의 상태의 적에게 발각되어도 적은 회피 이동을 할 수 없습니다.	[!Ability]汇聚风的力量,瞬间快速移动到目标地点。移动过程中，就算被等待、巡逻、监视状态中的非战斗状态敌人发现，对方也不能进行闪避移动。
@@ -13076,11 +13076,11 @@
 #20518	[!Item]전문 수집업자들이 사용하는 가방입니다.	[!Item]收藏专家所使用的包。
 #20521	[!ItemSet]전문 수집업자	[!ItemSet]收藏专家
 #20522	[!Loading]자신이 원하는 길	[!Loading]自己想要走的路
-#20523	[!Loading]잿빛 항구 외곽 주유소	[!Loading]灰色港口外围加油站
+#20523	[!Loading]잿빛 항구 외곽 주유소	[!Loading]灰港外围加油站
 #20532	[!Mastery]전문 수집업자 - 2 세트	[!Mastery]收藏专家 - 2 套装
 #20533	[!Mastery]전문 수집업자 - 3 세트	[!Mastery]收藏专家 - 3 套装
-#20534	[!Mission]잿빛 항구 외곽 주유소	[!Mission]灰色港口外围加油站
-#20535	[!Mission]까마귀골목 뒷거리	[!Site]乌鸦巷子的后巷
+#20534	[!Mission]잿빛 항구 외곽 주유소	[!Mission]灰港外围加油站
+#20535	[!Mission]까마귀골목 뒷거리	[!Site]墨鸦巷的后巷
 #20540	[!ObjectInfo]미술품 상자	[!ObjectInfo]美术品箱
 #20541	[!ObjectInfo]미술품 중개인	[!ObjectInfo]美术品中介者
 #20542	[!ObjectInfo]마일즈	[!ObjectInfo]迈尔斯
@@ -13103,7 +13103,7 @@
 #20562	[!QuestType_CollectItem_Kill]빛나는 번개 가죽	[!QuestType_CollectItem_Kill]明亮的闪电皮革。
 #20563	[!QuestType_CollectItem_Kill]온전한 얼음 가죽	[!QuestType_CollectItem_Kill]完整的寒冰甲
 #20564	[!QuestType_CollectItem_Kill]빼앗긴 회중시계	[!QuestType_CollectItem_Kill]被抢走的怀表
-#20566	[!Site]잿빛 항구 외곽 주유소	[!Site]灰色港口外围加油站
+#20566	[!Site]잿빛 항구 외곽 주유소	[!Site]灰港外围加油站
 #20567	[!SystemMessage]추가 범위 정보 없음	[!SystemMessage]没有追加的范围信息
 #20568	[!ArrestSet]$Unit$[이] 현장을 이탈합니다.	[!ArrestSet]$Unit$离开现场。
 #20569	[!CollectItemSet]해당 화물 근처에서 미술품 회수를 하면 미술품을 회수 할 수 있습니다.	[!CollectItemSet]在相关货物附近使用美术品回收既可回收。
@@ -14214,7 +14214,7 @@
 #21843	[!OrganizationType]공공기관	[!OrganizationType]公共机关
 #21844	[!OrganizationType]트러블슈터	[!ObjectInfo]纷争终结者
 #21845	[!OrganizationType]범죄 조직	[!OrganizationType]犯罪团伙
-#21847	[!QuestDesc]$JPerson(Oleg)$[는] 그늘 안개 슬럼가로 흘러 들어간 자신의 화물을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Oleg)$请求回收流入阴影之雾霭贫民区的自己的货物。
+#21847	[!QuestDesc]$JPerson(Oleg)$[는] 그늘 안개 슬럼가로 흘러 들어간 자신의 화물을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Oleg)$请求回收流入沉雾贫民区的自己的货物。
 #21848	[!QuestDesc]$JPerson(Camila)$[는] $TargetItem$ $TargetCount$개를 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(Camila)$拜托拿到$TargetCount$个$TargetItem$。
 #21850	[!SPCondition]과충전	[!Mastery]过充电
 #21851	[!Status]공격력	[!Status]攻击力
@@ -14428,10 +14428,10 @@
 #22067	[!Mastery]자신의 공격으로 $Dead$으로 만든 적 $Value$명 당 $Buff$ 상태가 $Value$ 증가합니다.	[!Mastery]每$Value$个以自己的攻击导致$Dead$的敌人，将增加$Buff$状态$Value$。
 #22068	[!Mastery]시야 내 $Dead$이 된 적 $Value$명 당 $Buff$ 상태가 $Value$ 증가합니다.	[!Mastery]每$Value$个视野内$Dead$的敌人，将增加$Buff$状态$Value$。
 #22069	[!Mastery]시야 내 $Dead$이 된 적 $Value$명 당 $Vigor$을 $Value2$ 회복합니다.	[!Mastery]每$Value$个视野内$Dead$的敌人，将恢复$Value2$的$Vigor$。
-#22070	[!NamedEvent]황소파 보스	[!NamedEvent]公牛组首领
+#22070	[!NamedEvent]황소파 보스	[!NamedEvent]狂牛组首领
 #22071	[!NamedEvent]불굴의 스콧	[!NamedEvent]不屈的斯科特
 #22072	[!NamedEvent]네 녀석들. 날 우습게 보는구나!!	[!NamedEvent]你们几个。这是在小看我吗!!
-#22073	[!NamedEvent]성난 황소는 멈추지 않는다!!	[!NamedEvent]愤怒的公牛是不会停住的!!
+#22073	[!NamedEvent]성난 황소는 멈추지 않는다!!	[!NamedEvent]狂牛是不会停住的!!
 #22074	[!NamedEvent]뒷세계 정보원	[!NamedEvent]地下世界的情报员
 #22075	[!NamedEvent]바람돌이 제이슨	[!NamedEvent]旋风杰森
 #22076	[!NamedEvent]아씨!!!!!!!!	[!NamedEvent]该死!!!!!!!!
@@ -14684,7 +14684,7 @@
 #22349	[!NamedEvent]알선업자	[!NamedEvent]代理人
 #22350	[!ObjectInfo]스컬 피어스	[!ObjectInfo]骷髅戳穿者
 #22351	[!ObjectInfo]스컬 청소부	[!ObjectInfo]骷髅清洁工
-#22354	[!Site]그늘 안개 상점가	[!Site]阴影之雾霭商店街
+#22354	[!Site]그늘 안개 상점가	[!Site]沉雾商店街
 #22355	[!GuideMessage]첨부할 Vill의 수량을 정하세요.	[!GuideMessage]请输入要添附的Vill数量。
 #22356	[!GuideMessage]청구할 Vill의 수량을 정하세요.	[!GuideMessage]请输入要请求的Vill数量。
 #22357	[!GuideMessage]청구된 금액을 지불할 수 없습니다.	[!GuideMessage]无法支付所请求的金额。
@@ -14702,7 +14702,7 @@
 #22369	[!GuideMessage]메일을 받을 대상이 존재하지 않습니다.	[!GuideMessage]收取邮件的对象不存在。
 #22370	[!GuideMessage]메일을 받을 대상의 우편함이 가득 차서 메일을 보낼 수 없습니다.	[!GuideMessage]收取邮件对象的邮箱已满，无法发送邮件。
 #22371	[!Item]지옥불에게는 화염을 잘 다루는 것과 화염으로부터 고통을 받지 않는 것은 별개의 영역이었다. 현장의 일선에서 많은 화상으로 고통을 겪었던 지옥불은 탈옥과 함께 가장 먼저 불꽃으로부터 자유로울 수 있도록 고도의 방염 처리된 부츠를 제작한다.	[!Item]对地狱火来说，控制火焰和受到烧伤是两码事。在案发现场，因烧伤而饱受痛苦的地狱火在越狱后立即制作了高度防火处理的靴子。
-#22372	[!Item]단 한번의 실수로 동료들을 잿더미로 만든 지옥불은 동료 살해범으로 법정에 서서 자신이 팔찌의 출력을 보조하는 이 반지를 해제한 이유를 설명해야 했다. 하지만 그 누구도 그가 범죄의 신속한 제압을 위해 선택한 결정을 존중하지 않았다.	[!Item]地狱焱仅仅一次的失误，让同伴们化为灰烬，使他作为杀人犯站在法庭上，并且得解释为什么不得不将这只辅助火焰输出的戒指拿掉。但是为了迅速制服犯罪而做出的决定却没有得到任何人的尊重。
+#22372	[!Item]단 한번의 실수로 동료들을 잿더미로 만든 지옥불은 동료 살해범으로 법정에 서서 자신이 팔찌의 출력을 보조하는 이 반지를 해제한 이유를 설명해야 했다. 하지만 그 누구도 그가 범죄의 신속한 제압을 위해 선택한 결정을 존중하지 않았다.	[!Item]地狱火仅仅一次的失误，让同伴们化为灰烬，使他作为杀人犯站在法庭上，并且得解释为什么不得不将这只辅助火焰输出的戒指拿掉。但是为了迅速制服犯罪而做出的决定却没有得到任何人的尊重。
 #22373	[!Item]해골 반지	[!Item]骷髅戒指
 #22374	[!Item]스컬 로드로부터 새로운 이름을 부여받는 간부는 자신의 이름의 위명에 어울리는 업적을 달성해야 한다. 그리고 그 업적을 달성하면 진정한 간부의 자격인 해골 반지가 부여한다.	[!Item]被骷髅大人赋予新名字的干部需要完成符合自己名称的业绩。而且完成这一业绩，就将被赋予象征着成为了真正的干部的骷髅戒指。
 #22375	[!Item]해골 활동복	[!Item]骷髅活动服
@@ -14711,7 +14711,7 @@
 #22379	[!Item]해골 코트	[!Item]骷髅外套
 #22380	[!Item]엘리게이터 블레이드 SS	[!Item]短吻鳄剑SS
 #22381	[!Item]스컬 슬래셔는 자신의 새로운 이름에 어울리는 업적의 재물로 구룡회의 살수였던 료 류자키를 선택한다. 하지만 승부는 슬래셔의 검날이 료의 검에 의해 부러지면서 슬래셔의 뼈아픈 패배가 되었다. 이후 슬래셔는 두 번 다시 이런 일이 벌어지지 않도록 내구성이 높은 엘리게이터 블레이드를 개조하여 사용하게 된다.	[!Item]骷髅砍杀者选择了曾经是九龙会杀手的亮·龙崎为自己新名字的祭物。但由于砍杀者的剑被亮打断，而品尝到了刻骨的败北感。之后，砍杀者为了不再发生类似事件，改造了耐久性高的短吻鳄剑。
-#22382	[!Item]자동 소총 C - 700	[!Item]自动步枪C - 701
+#22382	[!Item]자동 소총 C - 700	[!Item]自动步枪C-701
 #22383	[!Item]케이퍼 X	[!Item]凯尔佛X
 #22384	[!Item]케이퍼 X - 스컬 피어스	[!Item]凯尔佛X - 骷髅戳穿者
 #22385	[!Item]난폭한 트롤 장갑	[!Item]粗暴的巨怪手套
@@ -14828,7 +14828,7 @@
 #22496	[!ObjectInfo]버려진 강화 드론	[!ObjectInfo]被抛弃的强化无人机
 #22497	[!ObjectInfo]폐기된 강화 드론	[!ObjectInfo]被废弃的强化无人机
 #22498	[!OptionInterface]로비 이동	[!OptionInterface]移动至大厅
-#22499	[!Quest]약탈당한 화물 - 그늘 안개 슬럼가	[!Quest]被掠夺的货物 - 阴影之雾霭贫民区
+#22499	[!Quest]약탈당한 화물 - 그늘 안개 슬럼가	[!Quest]被掠夺的货物 - 沉雾贫民区
 #22500	[!Quest]부품 회수 - $TargetItem$	[!Quest]部件回收 - $TargetItem$
 #22501	[!Quest]$TargetItem$의 부품을 회수하시오.	[!Quest]回收$TargetItem$的部件。
 #22502	[!Quest]뒤바뀐 미술품	[!Quest]被掉包的美术品
@@ -14869,7 +14869,7 @@
 #22540	[!Loading]위험한 운송업자	[!Loading]处在危险的配送人员
 #22541	[!Mastery]미션 승리 시, $LostProperty$[이] 없는 경우, 해당 미션에서 획득 가능한 $Rare$ 등급 이상의 장비 아이템을 $Value$개 획득합니다.	[!Mastery]任务胜利时，若没有$LostProperty$的情况下，将获得在该任务可获得的$Value$个$Rare$级别的装备。
 #22543	[!NamedEvent]삐뚤어진 마일즈	[!NamedEvent]性格扭曲的迈尔斯
-#22544	[!NamedEvent]난 성난 황소의 최고가 될 것이다!	[!NamedEvent]我要在愤怒公牛组当第一！
+#22544	[!NamedEvent]난 성난 황소의 최고가 될 것이다!	[!NamedEvent]我要在愤怒狂牛组当第一！
 #22545	[!NamedEvent]내 꿈을 포기하지 않는다!	[!NamedEvent]我不会放弃我的梦想！
 #22546	[!ObjectVoiceSound][!speaker:Leton]자! 마지막 공연이다	[!ObjectVoiceSound][!speaker:Leton]来！这是最后的表演
 #22547	[!ObjectVoiceSound][!speaker:Leton]피날레~!	[!ObjectVoiceSound][!speaker:Leton]最终乐章~！
@@ -15243,7 +15243,7 @@
 #22924	[!Quest]약탈당한 화물 - 메트로디움 거주구	[!Quest]被掠夺的货物 - 梅特罗迪翁居民区
 #22927	[!Quest]위험한 운송업자	[!Quest]处在危险的配送人员
 #22928	[!Quest]운송업자 리를 구출하시오.	[!Quest]救出配送人员老李。
-#22929	[!Quest]약탈당한 화물 - 푸른 안개 거리	[!Quest]被掠夺的货物 - 蓝色雾霭大街
+#22929	[!Quest]약탈당한 화물 - 푸른 안개 거리	[!Quest]被掠夺的货物 - 蓝雾大街
 #22930	[!Quest]보석 확보 요청 - $TargetItem$	[!Quest]要求确保宝石 - $TargetItem$
 #22931	[!QuestDesc]$Person(Roberto)$[은] $Person(Irene)$의 능력을 시험해 보고 싶어한다.	[!QuestDesc]$Person(Roberto)$想要测试$Person(Irene)$的实力。
 #22932	[!QuestDesc]$Person(Roberto)$[은] $Person(Anne)$의 능력을 시험해 보고 싶어한다.	[!QuestDesc]$Person(Roberto)$想要测试$Person(Anne)$的实力。
@@ -15253,12 +15253,12 @@
 #22941	[!QuestDesc]$JPerson(Hundred)$[는] 자홍 거리에 방치된 폐기된 강화 드론의 부품을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Hundred)$要求回收放置在紫红街的被废弃的强化无人机的部件。
 #22944	[!QuestDesc]$JPerson(Dembel)$[는] $Org(Spoon)$[로] 입교한 $Org(AngryBull)$ 조직원이 가지고 있는 시곗줄을 찾아달라고 부탁한다.<br><br>목표 대상: $Monster(Gangster_SpoonFighter)$, $Monster(Gangster_SpoonSword)$, $Monster(Gangster_SpoonGun)$	[!QuestDesc]$JPerson(Dembel)$要求找到进入$Org(Spoon)$的$Org(AngryBull)$组员所拿着的表链。<br><br>目标对象: $Monster(Gangster_SpoonFighter)$, $Monster(Gangster_SpoonSword)$, $Monster(Gangster_SpoonGun)$
 #22945	[!QuestDesc]$JPerson(Dembel)$[는] 연락이 끊긴 $Person(Civil_Man_Lee)$의 신변 보호를 요청한다.	[!QuestDesc]$JPerson(Dembel)$要求保护被断开消息的$Person(Civil_Man_Lee)$。
-#22946	[!QuestDesc]$JPerson(Dembel)$[는] 푸른 안개 거리로 흘러 들어간 자신의 화물을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Dembel)$要求回收自己的流入蓝色雾霭大街的货物。
+#22946	[!QuestDesc]$JPerson(Dembel)$[는] 푸른 안개 거리로 흘러 들어간 자신의 화물을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Dembel)$要求回收自己的流入蓝雾大街的货物。
 #22947	[!QuestDesc]$JPerson(Sabana)$[는] $TargetItem$ $TargetCount$개를 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(Sabana)$要求取到$TargetCount$个$TargetItem$。
 #22948	[!QuestType_CollectItem_Kill]돌연변이 맹독 가죽	[!QuestType_CollectItem_Kill]突变剧毒皮
 #22949	[!QuestType_CollectItem_Kill]단단한 도로리 가죽	[!QuestType_CollectItem_Kill]坚硬的多罗利皮
 #22950	[!QuestType_CollectItem_Kill]오색 왕도로리 가죽	[!QuestType_CollectItem_Kill]五彩多罗利大王皮
-#22953	[!NamedEvent]황소파 조직원	[!NamedEvent]公牛组组员
+#22953	[!NamedEvent]황소파 조직원	[!NamedEvent]狂牛组组员
 #22954	[!ChatSubCategory]제작법 획득	[!ChatSubCategory]制作方法的获得
 #22955	[!GuideMessage]$Recipe$ 아이템의 제작법이 개방되었습니다.	[!GuideMessage]$Recipe$物品的制作方法已被开放。
 #22956	[!GuideMessage][colour='FFFFE959']상점 구입으로 %s %s을 지급하였습니다.	[!GuideMessage][colour='FFFFE959']在商店的购买，获得了%s %s。
@@ -15325,7 +15325,7 @@
 #23454	[!GuideMessage]시야 제한 없음	[!GuideMessage]无视野限制
 #23455	[!GuideMessage]$Count$연타 공격	[!GuideMessage]$Count$连击
 #23456	[!Help]역병 구름	[!FieldEffect]瘟疫云
-#23457	[!Loading]은빛 구름 거리 뒷골목	[!Loading]银色云彩后巷
+#23457	[!Loading]은빛 구름 거리 뒷골목	[!Loading]银云后巷
 #23458	[!Mastery]애증	[!Mastery]爱憎
 #23459	[!Mastery]나쁜 길로 빠지는 가족을 누가 그냥 둘 수 있겠는가?	[!Mastery]怎么会有人让自己的家人走上错路呢？
 #23462	[!Troublebook]비는 눈물 따라 흐르고...	[!Troublebook]雨滴随着泪水流淌...
@@ -15368,13 +15368,13 @@
 #23503	[!GuideMessage]참여하는 플레이어의 캐릭터의 최고 레벨과 미션의 권장레벨 차이만큼 적의 레벨이 상승합니다. 또한 적의 레벨 상승에 따라 추가 특성들이 랜덤으로 부여됩니다. 플레이어 캐릭터의 최고 레벨이 권장 레벨보다 낮으면 적용되지 않습니다. 트러블메이커 일람의 정보 획득량이 $Num$배 증가합니다.	[!GuideMessage]敌人的等级将以参与的玩家角色最高等级与任务的推荐等级的差异而上升。而且根据敌人的等级的上升，将随机给予附加天赋。玩家角色的最高等级低于任务的推荐等级时，将不会适用。捣乱者一览表的情报获得量将增加$Num$倍。
 #23504	[!GuideMessage]여기를 더블 클릭하시면 간소화됩니다.	[!GuideMessage]双击可简化。
 #23505	[!Item]자홍빛 케이퍼 V9	[!Item]紫红色凯尔佛V9
-#23506	[!Loading]하늘바람 상점가	[!Loading]天空之风商店街
+#23506	[!Loading]하늘바람 상점가	[!Loading]天风商店街
 #23507	[!Loading]각자의 역할	[!Loading]各自的职责
-#23508	[!Mission]하늘바람 상점가	[!Mission]天空之风商店街
-#23509	[!Site]하늘바람 거리	[!Site]天空之风街
-#23510	[!Site]하늘바람 상점가	[!Site]天空之风商店街
-#23511	[!Site]하늘바람 거주구	[!Site]天空之风居住区
-#23512	[!Troublebook]하늘바람 상점가	[!Troublebook]天空之风商店街
+#23508	[!Mission]하늘바람 상점가	[!Mission]天风商店街
+#23509	[!Site]하늘바람 거리	[!Site]天风大街
+#23510	[!Site]하늘바람 상점가	[!Site]天风商店街
+#23511	[!Site]하늘바람 거주구	[!Site]天风居住区
+#23512	[!Troublebook]하늘바람 상점가	[!Troublebook]天风商店街
 #23513	[!Troublebook]각자의 역할	[!Troublebook]各自的职责
 #23514	[!Troublebook]무거운 짐을 내려놓기.	[!Troublebook]把重担放下。
 #23515	[!Troublebook]아이작은 샤키로부터 받은 정보의 처분에 대한 고민 끝에 알버스를 만나기로 결정한다.	[!Troublebook]艾萨克为了处理从沙基那拿到的情报，最终决定与阿尔伯斯见面。
@@ -15412,12 +15412,12 @@
 #23547	[!GuideMessage][colour='FFFFFFFF']클래스 변경을 계속 진행하시면 위의 어빌리티들은 자동으로 해제되며 프리셋도 함께 갱신됩니다.	[!GuideMessage][colour='FFFFFFFF']想要变更职业继续进行时，上述技能将自动解除，预设也将同时更新。
 #23548	[!GuideMessage]어빌리티 구성의 이름을 입력하세요.	[!GuideMessage]请输入预设的名称。
 #23549	[!Loading]미워도 다시 한번...	[!Loading]就算讨厌也要再一次...
-#23550	[!Loading]자홍거리 재건축지구	[!Loading]紫红街重建地区
-#23551	[!Mission]자홍거리 재건축지구	[!Mission]紫红街重建地区
-#23552	[!Site]자홍거리 재건축지구	[!Site]紫红街重建地区
+#23550	[!Loading]자홍거리 재건축지구	[!Loading]紫红街重建区
+#23551	[!Mission]자홍거리 재건축지구	[!Mission]紫红街重建区
+#23552	[!Site]자홍거리 재건축지구	[!Site]紫红街重建区
 #23553	[!Suggestion]카일리는 알버스에게 정시 퇴근을 요청합니다.<br><br>[colour='FFFFFF00']카일리의 제안 수락 시 카일리, 헤이싱, 레톤 , 레이로 진행하는 시나리오 미션이 진행됩니다. 미리 장비를 점검하세요.	[!Suggestion]凯莉向阿尔伯斯请求准时下班。<br><br>[colour='FFFFFF00']接受凯莉要求时，将以凯莉，黑星，莱顿，雷伊进行剧情任务。请提前检查装备。
 #23554	[!Troublebook]미워도 다시 한번...	[!Troublebook]就算讨厌也要再一次...
-#23555	[!Troublebook]자홍거리 재건축지구	[!Troublebook]紫红街重建地区
+#23555	[!Troublebook]자홍거리 재건축지구	[!Troublebook]紫红街重建区
 #23556	[!Troublebook]열정과 냉정 사이	[!Troublebook]热情与冷静之间
 #23557	[!Troublebook]카일리는 자신이 과거 앨리를 붕괴시킨 구룡회 사람이라는 사실을 알게 된 레이의 분노를 담담히 받아 들인다.	[!Troublebook]凯莉平静地接受了雷伊知道她就是导致艾丽崩溃的当事人后发出的愤怒。
 #23558	[!WordCollection]정지	[!WordCollection]停止
@@ -15612,15 +15612,15 @@
 #23752	[!WordCollection]편지 쓰기	[!LayoutKeyword]写邮件
 #23753	[!GuideMessage]불편을 끼쳐드려서 죄송합니다.<br>오류 보고에는 다음의 정보가 포함된 로그 파일이 첨부되며, 이 내용은 문제 해결과 Troubleshooter의 품질을 향상시키기 위해서만 사용됩니다.<br>- 사용자 정보 (컴퓨터 이름, 스팀 ID 등)<br>- OS 정보<br>- 하드웨어 정보 (CPU, GPU, 디스플레이, 오디오, 입력 장치 등)<br>- 게임 옵션 정보 (화면 해상도, 그래픽 설정 등)	[!GuideMessage]对不起给你造成了了麻烦。<br>错误报告将附有包含下列信息的Log文件，内容仅用于解决问题和提高纷争终结者游戏质量。<br>- 使用者信息(电脑名称，Steam ID等)<br>- OS情报<br>- 硬件情报(CPU，GPU，显示，音响，输入装置等)<br>- 游戏设置情报(屏幕分辨率，画面设置等)
 #23754	[!Loading]너를 위해...	[!Loading]为了你...
-#23755	[!Loading]은빛 구름 뒷거리	[!Site]银色云彩后巷
-#23756	[!Mission]은빛 구름 뒷거리	[!Site]银色云彩后巷
+#23755	[!Loading]은빛 구름 뒷거리	[!Site]银云后巷
+#23756	[!Mission]은빛 구름 뒷거리	[!Site]银云后巷
 #23757	[!ObjectInfo]알마	[!ObjectInfo]阿尔玛
 #23758	[!ObjectInfo]녹스	[!ObjectInfo]诺克斯
 #23759	[!ObjectInfo]안나	[!ObjectInfo]安娜
 #23760	[!OptionGameplay]캐릭터 연출 시 대사 표시	[!OptionGameplay]显示角色台词
 #23761	[!OptionGameplay]캐릭터 연출 시의 음성 대사를 자막으로 표시합니다.	[!OptionGameplay]将角色的语音台词以字幕显示。
 #23762	[!SystemMessage]로그 전송이 완료되었습니다.	[!SystemMessage]已发送完Log。
-#23764	[!Troublebook]은빛 구름 뒷거리	[!Site]银色云彩后巷
+#23764	[!Troublebook]은빛 구름 뒷거리	[!Site]银云后巷
 #23767	[!WordCollection]투명도 조절	[!WordCollection]调节透明度
 #23768	[!WordCollection]당신의 e-mail	[!WordCollection]您的e-mail
 #23769	[!WordCollection]전체 로그 파일 포함	[!WordCollection]包含所有的Log文件
@@ -16122,8 +16122,8 @@
 #24283	[!ObjectVoiceSound][!speaker:Anne]천벌이에요~	[!ObjectVoiceSound][!speaker:Anne]是天罚呢~
 #24284	[!ObjectVoiceSound][!speaker:Carter]그대들을 믿네	[!ObjectVoiceSound][!speaker:Carter]就相信你们了
 #24285	[!ObjectVoiceSound][!speaker:Heissing]훗, 빗나가지 않는다.	[!ObjectVoiceSound][!speaker:Heissing]呵，不会射偏的。
-#24286	[!Site]잿빛 항구 선착장	[!Site]灰色港口码头
-#24287	[!Site]재의 강 민간 하역장	[!Site]灰烬之江民间装卸场
+#24286	[!Site]잿빛 항구 선착장	[!Site]灰港码头
+#24287	[!Site]재의 강 민간 하역장	[!Site]烬夜江民营装卸场
 #24292	[!Troublebook]모든 것은 끝난다.	[!Troublebook]一切都会结束。
 #24296	[!Loading]나를 위해..	[!Loading]为了我...
 #24297	[!Loading]자홍거리 뒷골목	[!Troublebook]紫红街后巷
@@ -16144,13 +16144,13 @@
 #24312	[!SystemMail]축하한다. 알버스.	[!SystemMail]恭喜你，阿尔伯斯。
 #24313	[!SystemMail][colour='FFFFE959']알버스.<br><br>네가 독립하겠다고 메일을 보낸 지 딱 1년이 되는구나.<br><br>처음에는 걱정이 많았지만 최근 뉴스로나마 네가 얼마나 열심히 살고 있는지 잘 보고 있단다.<br><br>겉으로 보기보다 많은 힘든 순간들이 있었을 텐데... 이렇게 건강하고 멋진 사람으로 성장해줘서 고맙다.<br><br>매번 같은 말이지만 도움이 필요하면 나에게 연락하렴.<br><br>언제든지 환영한다.<br><br>그리고 이것은 꾸준히 실망하게 하지 않고 성장한 널 보며 내가 마련한 작은 성의야.<br><br>좋은 곳에 알차게 쓰면 좋겠구나.<br><br>언젠가 웃으며 만나자.<br><br>그럼 건강하게 지내렴.	[!SystemMail][colour='FFFFE959']阿尔伯斯。<br><br>自从你跟我说要独立已经1年了呢。<br><br>虽然刚开始非常的担心你，但是最近在新闻里能看出你是多么认真地在生活着。<br><br>你肯定很辛苦吧... 看到你成长为这么健康帅气的人我很高兴。<br><br>就像我每次说的，需要帮助随时就和我联系。<br><br>什么时候都欢迎你。<br><br>而且这是为从没让我失望的你而准备的一点心意。<br><br>希望能用在需要的好地方。<br><br>总有一天我们会笑着见面吧。<br><br>那就愿你健康吧。
 #24314	[!SystemMail]존경하는 $CompanyName$ 여러분에게	[!SystemMail]向尊敬的$CompanyName$各位
-#24315	[!SystemMail]바람장벽지구 기동대 일동	[!SystemMail]风之墙壁地区行动队全体
-#24316	[!SystemMail][colour='FFFFE959']바람장벽지구 기동대를 대표하여 $CompanyName$ 여러분에게 감사 인사를 드립니다.<br><br>작년까지만 해도 바람장벽지구는 경찰 지원이 열악하여 폭력 조직과의 마찰을 두려워하며 경찰 신분으로 부끄러운 선택을 많이 할 수 밖에 없었습니다.<br><br>또한 현 지구 내 다른 트러블슈터 회사와의 사건 진압 과정에서는 한낱 소모품처럼 취급되거나, 불필요한 존재로 무시당하기 일쑤였습니다.<br><br><br>하지만 지금은 폭력조직 성난 황소파, 백호파를 해체하고 이 지구의 안정을 가져다 준 $CompanyName$[과] 함께 현장에 있었던 것을 자랑스럽게 생각합니다.<br><br>여러분이 저희에게 용기와 자부심을 되찾아 주셨습니다.<br><br>약소하지만 저희가 여러분을 위해 마련한 것입니다.<br><br>언제나 현장에서 저희와 함께 뛰어주시길 바라겠습니다.<br><br>감사합니다.<br><br>[colour='FFFFFFFF']바람장벽지구 기동대 일동	[!SystemMail][colour='FFFFE959']代表风之墙壁地区行动队，向$CompanyName$的各位表达谢意。<br><br>直到去年为止，风之墙壁地区警察的支援差劲，导致畏惧与暴力组织发生摩擦，只能以警察的身份做出很多惭愧的选择。<br><br>另外在该地区内与其他纷争终结者公司进行镇压的过程中，经常被当作是消耗品或为不必要的存在而被忽视。<br><br><br>但现在，我为解散暴力组织愤怒的公牛与白虎组和为这个地区带来安定的$CompanyName$一起在现场镇压而感到非常的骄傲。<br><br>你们为我们找回了勇气和自豪感。<br><br>虽然有点微不足道，但这是我们为你们准备的。<br><br>希望你们能够永远在现场和我们一起工作。<br><br>谢谢。<br><br>[colour='FFFFFFFF']风之墙壁地区行动队全体
+#24315	[!SystemMail]바람장벽지구 기동대 일동	[!SystemMail]风之壁地区行动队全体
+#24316	[!SystemMail][colour='FFFFE959']바람장벽지구 기동대를 대표하여 $CompanyName$ 여러분에게 감사 인사를 드립니다.<br><br>작년까지만 해도 바람장벽지구는 경찰 지원이 열악하여 폭력 조직과의 마찰을 두려워하며 경찰 신분으로 부끄러운 선택을 많이 할 수 밖에 없었습니다.<br><br>또한 현 지구 내 다른 트러블슈터 회사와의 사건 진압 과정에서는 한낱 소모품처럼 취급되거나, 불필요한 존재로 무시당하기 일쑤였습니다.<br><br><br>하지만 지금은 폭력조직 성난 황소파, 백호파를 해체하고 이 지구의 안정을 가져다 준 $CompanyName$[과] 함께 현장에 있었던 것을 자랑스럽게 생각합니다.<br><br>여러분이 저희에게 용기와 자부심을 되찾아 주셨습니다.<br><br>약소하지만 저희가 여러분을 위해 마련한 것입니다.<br><br>언제나 현장에서 저희와 함께 뛰어주시길 바라겠습니다.<br><br>감사합니다.<br><br>[colour='FFFFFFFF']바람장벽지구 기동대 일동	[!SystemMail][colour='FFFFE959']代表风之壁地区行动队，向$CompanyName$的各位表达谢意。<br><br>直到去年为止，风之壁地区警察的支援差劲，导致畏惧与暴力组织发生摩擦，只能以警察的身份做出很多惭愧的选择。<br><br>另外在该地区内与其他纷争终结者公司进行镇压的过程中，经常被当作是消耗品或为不必要的存在而被忽视。<br><br><br>但现在，我为解散暴力组织狂牛与白虎组和为这个地区带来安定的$CompanyName$一起在现场镇压而感到非常的骄傲。<br><br>你们为我们找回了勇气和自豪感。<br><br>虽然有点微不足道，但这是我们为你们准备的。<br><br>希望你们能够永远在现场和我们一起工作。<br><br>谢谢。<br><br>[colour='FFFFFFFF']风之壁地区行动队全体
 #24317	[!SystemMail]제 할아버지의 원수를 갚아주셔서 감사합니다.	[!SystemMail]谢谢你为我报了爷爷的仇。
 #24318	[!SystemMail]$CivilName$의 손녀	[!SystemMail]$CivilName$的孙女
 #24319	[!SystemMail][colour='FFFFE959']제 할아버지 $CivilName$[은] 반 년 전 달빛 거리에서 백호파 칼잡이의 검에 돌아가셨습니다.<br><br>할아버지는 언제나 제가 놀러가면 착한 일을 하고 살아야 하며 나쁜 일을 하면 벌을 받는다고 하셨어요.<br>하지만 제가 보는 세상은 전혀 그렇지 않았습니다.<br><br>할아버지는 아무 죄도 없이 세상을 떠나셨는데 백호파 자켓을 입은 아저씨들은 마냥 즐거운 듯 거리를 활보하셨습니다.<br>그리고 그 모습을 보는 사람들은 아무 말도 하지 않고 시선을 피할 뿐이었습니다. 세상이 정말 너무나도 싫었습니다.<br><br>어느날 뉴스에서 백호파를 혼내주시던 $CompanyName$의 활약을 보고 열심히 응원하였습니다.<br>그리고 어제 저는 뉴스를 보다가 울지 않을 수 없었습니다.<br><br>나쁜 녀석들이 혼날 수 있는 세상.<br><br>그런 세상을 만들어주셔서 진심으로 감사합니다.	[!SystemMail][colour='FFFFE959']我的爷爷$CivilName$是在一年前的月光大街，被白虎组的刀客夺去性命而牺牲了。<br><br>爷爷常对我说要做好事，做坏事是会受罚的。<br>但是我看到的世界完全不是这样子的。<br><br>爷爷毫无罪过却离开了人世，但是穿着白虎组夹克的人们却开心的在街上横行。<br>而且看着那个样子的人们却什么话也不说，只是在避开视线。我真的是非常厌恶这样的世界。<br><br>但是在某一天，我在新闻上看到了教训了白虎组的$CompanyName$后就开始为你们助威了。<br>而且在昨天我看着新闻忍不住流出了泪水。.<br><br>坏人们受到惩罚的世界。<br><br>真心地感谢你们创造出了这样的世界。
 #24320	[!SystemMail]발할라 시립 장례지원 센터	[!SystemMail]巴赫拉公立丧葬支援中心
-#24321	[!SystemMail][colour='FFFFE959']발할라 시립 장례지원 센터입니다.<br><br>가족 분이 없으신 $CivilName$[이] 남기신 유언장에 따라  $CivilName$의 모든 재산을 $CompanyName$에 기탁하셨습니다.<br><br>[colour='FFFFFFAA']유언장 전문 요약: <br>[colour='FFFFAA00']바람장벽지구의 백호파 보스 푸를 법의 심판을 받게 하는 자에게 내 전재산을 양도한다.[colour='FFFFE959']<br><br>해당 지원금은 발할라 민법에 따라 $CompanyName$의 소유가 되었음을 알려드리며 해당 금액을 보내드립니다.<br><br>고인의 명복을 빌어주시길 바랍니다.	[!SystemMail][colour='FFFFE959']这里是巴赫拉公立丧葬支援中心。<br><br>根据没有家人的$CivilName$所剩下的遗嘱，将把$CivilName$的所有资产捐赠给$CompanyName$。<br><br>[colour='FFFFFFAA']遗嘱的全文摘要: <br>[colour='FFFFAA00']审判风之墙壁地区的白虎组普的人将拥有我所有的财产。[colour='FFFFE959']<br><br>根据巴赫拉的民法，该财产已经成为了$CompanyName$的所有。这就是相应的金额。<br><br>愿死者安息。
+#24321	[!SystemMail][colour='FFFFE959']발할라 시립 장례지원 센터입니다.<br><br>가족 분이 없으신 $CivilName$[이] 남기신 유언장에 따라  $CivilName$의 모든 재산을 $CompanyName$에 기탁하셨습니다.<br><br>[colour='FFFFFFAA']유언장 전문 요약: <br>[colour='FFFFAA00']바람장벽지구의 백호파 보스 푸를 법의 심판을 받게 하는 자에게 내 전재산을 양도한다.[colour='FFFFE959']<br><br>해당 지원금은 발할라 민법에 따라 $CompanyName$의 소유가 되었음을 알려드리며 해당 금액을 보내드립니다.<br><br>고인의 명복을 빌어주시길 바랍니다.	[!SystemMail][colour='FFFFE959']这里是巴赫拉公立丧葬支援中心。<br><br>根据没有家人的$CivilName$所剩下的遗嘱，将把$CivilName$的所有资产捐赠给$CompanyName$。<br><br>[colour='FFFFFFAA']遗嘱的全文摘要: <br>[colour='FFFFAA00']审判风之壁地区的白虎组普的人将拥有我所有的财产。[colour='FFFFE959']<br><br>根据巴赫拉的民法，该财产已经成为了$CompanyName$的所有。这就是相应的金额。<br><br>愿死者安息。
 #24322	[!SystemMail][colour='FFFFE959']언제나 고생하시는 트러블슈터 여러분 감사합니다.<br><br>솔직히 여러분의 사건 해결 소식을 보면서도 언제나 10년 전의 악몽에 갇혀 있었습니다.<br><br>10년 전 전 이 지구에서 많은 활약을 했던 트러블슈터 회사의 팬이었습니다.<br><br>사람들에게 그 회사를 지원하고 응원하였습니다.<br><br>하지만 어느 순간부터 그 회사는 우리들의 요구에 반응을 하지 않게 되었습니다.<br><br>저희가 쓴소리를 하자 결국 문을 닫아 버렸습니다.<br><br>배신감이 너무나도 컸습니다.<br><br>그래서 $CompanyName$의 활약을 받아들이기 어려웠습니다.<br><br>하지만 지금 이 순간 전 $CompanyName$의 팬입니다.<br><br>여러분이 걸어가는 길을 응원하고 지원하겠습니다!<br><br>정말 수고하셨습니다!	[!SystemMail][colour='FFFFE959']谢谢一直辛苦无比的纷争终结者们。<br><br>说实话即使我看到了你们解决事件的消息，可我还是被关在了10年前的噩梦中。<br><br>在10年前，我是个声援着一个很活跃的纷争终结者的粉丝<br><br>我一直都在向那公司加油助威。<br><br>但不知从何时起，该公司就不再回应我们的要求了。<br><br>我们一直想向他们诉苦的，可他们最终却关了门。<br><br>当时受到的背叛感非常大。<br><br>所以就很难接受$CompanyName$的活跃表现。<br><br>但是现在这一瞬间，我成了$CompanyName$的粉丝。<br><br>将支援你们的所有一切！<br><br>真的是辛苦了！
 #24323	[!SystemMail][colour='FFFFE959'] 안녕! 난 $CivilName$ 라고 해. <br><br>엄마가 너희가 짱이래!<br><br>나도 그렇게 생각해!<br><br>힘내! 트러블슈터.	[!SystemMail][colour='FFFFE959'] 你好！我叫$CivilName$。<br><br>妈妈说你们最棒！<br><br>我也是那样想的！<br><br>加油！纷争终结者。
 #24324	[!SystemMail]$CompanyName$! 만세!	[!SystemMail]$CompanyName$！万岁！
@@ -16161,7 +16161,7 @@
 #24329	[!SystemMail]댄디라이언	[!SystemMail]丹迪瑞恩
 #24330	[!SystemMail][colour='FFFFE959']안녕하세요. 댄디라이언입니다.<br><br>저희는 $CompanyName$의 활약에 감명받아 게임으로 만들고 있는 작은 게임 개발팀입니다!<br><br>아직은 작은 회사이다보니 $CompanyName$의 활약을 어떻게 재미있게 표현할 수 있을 지 매일같이 고민하고 있습니다!<br><br>아직은 실력이 여타 개발사만큼 뛰어나지 못하지만 $CompanyName$의 성장 이야기처럼 열심히 노력하여 멋진 회사를 목표로 하고 있습니다.<br><br>$CompanyName$[이] 보여주신 멋진 활약!<br><br>누구나 즐겁게 즐길 수 있고 공감할 수 있는 게임으로 만들도록 최선을 다하겠습니다!<br><br>저희에게 이런 기회를 준 $CompanyName$[을] 언제나 응원하겠습니다!<br><br>감사합니다!	[!SystemMail][colour='FFFFE959']您好，这是丹迪瑞恩。<br><br>我们是被$CompanyName$的活跃表现所感动，正在以此用于开发游戏的开发团队！<br><br>因为还是个小公司，所以每天都在苦恼着如何才能更有趣的表达出$CompanyName$的活跃！<br><br>虽然目前实力还不及其他开发公司，但就像$CompanyName$的成长故事一样，将会努力奋斗争取， 目标是成为一个优秀的公司。<br><br>$CompanyName$展现出的精彩的作品！<br><br>我们会尽最大努力，把游戏制作成任何人都可以愉快的享受和理解的游戏！<br><br>我们会对给予了我们这样机会的$CompanyName$助威加油的！<br><br>谢谢！
 #24331	[!Troublebook]나를 위해..	[!Troublebook]为了自己...
-#24332	[!Troublebook]지난 10년, 바람장벽지구를 공포에 떨게 했던 백호파의 푸의 체포는 바람장벽지구 사람들에게 새로운 희망을 가져다준다.	[!Troublebook]过去的10年，让风之墙壁地区在恐怖中颤抖的白虎组的普被逮捕的消息，让风之墙壁地区的人们感到了新的希望。
+#24332	[!Troublebook]지난 10년, 바람장벽지구를 공포에 떨게 했던 백호파의 푸의 체포는 바람장벽지구 사람들에게 새로운 희망을 가져다준다.	[!Troublebook]过去的10年，让风之壁地区在恐怖中颤抖的白虎组的普被逮捕的消息，让风之壁地区的人们感到了新的希望。
 #24333	[!WordCollection]현재 편성 화면	[!WordCollection]目前组队画面
 #24334	[!GameSystemMessageFormat]회사 등급이 $Grade$으로 상승하였습니다	[!GameSystemMessageFormat]公司上升为$Grade$等级了。
 #24335	[!GameSystemMessageFormat]시민들로부터 $Word$[이] 도착하였습니다.	[!GameSystemMessageFormat]从市民那里收到了$Word$。
