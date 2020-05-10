@@ -599,7 +599,7 @@
 #1280	[!LayoutKeyword]비밀번호 재입력	[!LayoutKeyword]重新输入密码
 #1282	[!Loading]사수거리	[!Loading]射手街
 #1284	[!Loading]발할라의 행정 구역	[!Loading]巴赫拉的行政区域
-#1299	[!Loading]까마귀부리 정류장	[!Loading]乌鸦喙停车场
+#1299	[!Loading]까마귀부리 정류장	[!Loading]墨鸦喙停车场
 #1302	[!Loading]반딧불 공원	[!Loading]萤火虫公园
 #1321	[!Mastery]절대 영도	[!Mastery]绝对零度
 #1323	[!Mastery]풍요	[!Mastery]丰饶
@@ -5116,7 +5116,7 @@
 #8976	[!Troublebook]언젠가 같이 걸어갈 날을 위해...	[!Troublebook]为了将来有一天能一起前进…
 #8978	[!Troublebook]113번 도로	[!Troublebook]113号外城道路
 #8979	[!Troublebook]국경 외곽 도로	[!Troublebook]国境外围道路
-#8980	[!Troublebook]까마귀부리 정류장	[!Troublebook]乌鸦喙停车场
+#8980	[!Troublebook]까마귀부리 정류장	[!Troublebook]墨鸦喙停车场
 #8981	[!Troublebook]하염 없이 내리는 빗줄기	[!Troublebook]飘落不止的雨幕
 #8982	[!Troublebook]제 1 장. 트러블슈터입니다.	[!Troublebook]第一章。我是纷争终结者。
 #8984	[!Troublebook]푸고 상점가	[!Troublebook]府谷商店街
@@ -5664,7 +5664,7 @@
 #9776	[!Mission]자홍 뒷골목	[!Mission]紫红后巷
 #9777	[!Mission]그늘 안개 슬럼가	[!Mission]沉雾贫民区
 #9778	[!Mission]푸른안개 거리	[!Mission]蓝雾大街
-#9779	[!Mission]까마귀부리 정류장	[!Mission]乌鸦喙停车场
+#9779	[!Mission]까마귀부리 정류장	[!Mission]墨鸦喙停车场
 #9780	[!Mission]반딧불 공원	[!Mission]萤火虫公园
 #9781	[!Mission]잿빛 공원묘지	[!Mission]灰色公园墓地
 #9782	[!Mission]한산도 하역장	[!Mission]闲山岛装卸场
@@ -5807,9 +5807,9 @@
 #9955	[!Mission]'화염' 샘플 추출	[!Mission]提取'火焰'样本
 #9956	[!Mission]'얼음' 샘플 추출	[!Mission]提取'寒冰'样本
 #9957	[!Mission]'번개' 샘플 추출	[!Mission]提取'闪电'样本
-#9958	[!Mission]'바람' 샘플 추출	[!Mission]提取'风'样本
+#9958	[!Mission]'바람' 샘플 추출	[!Mission]提取'暴风'样本
 #9959	[!Mission]'대지' 샘플 추출	[!Mission]提取'大地'样本
-#9960	[!Mission]'물' 샘플 추출	[!Mission]提取'水'样本
+#9960	[!Mission]'물' 샘플 추출	[!Mission]提取'流水'样本
 #9961	[!Mission]지원 도착 전까지 적 최대한 처치	[!Mission]援军抵达之前最大限度地抵御敌人
 #9962	[!OptionGameplay]캐릭터 상태창 기력 표시	[!OptionGameplay]显示角色气力在状态窗
 #9963	[!Troublebook]침입자	[!Troublebook]入侵者
@@ -6030,10 +6030,10 @@
 #10272	[!Mastery]배후 습격	[!Mastery]背后袭击
 #10273	[!MasteryType]학살자	[!MasteryType]屠杀者
 #10274	[!MasteryType]백기사	[!MasteryType]白骑士
-#10275	[!Mission]철의 숲 안개 절벽	[!Mission]铁森林雾霭悬崖
+#10275	[!Mission]철의 숲 안개 절벽	[!Mission]铁森林雾见崖
 #10277	[!Mission]백호파를 소탕하시오.	[!Mission]请扫荡白虎组。
 #10278	[!OptionGameplay]아이템 획득 간략화	[!OptionGameplay]简化物品获取信息
-#10279	[!Site]철의 숲 안개 절벽	[!Site]铁森林雾霭悬崖
+#10279	[!Site]철의 숲 안개 절벽	[!Site]铁森林雾见崖
 #10280	[!WordCollection]아이템 보호	[!WordCollection]物品保护
 #10281	[!WordCollection]여러개 선택하기	[!WordCollection]多重选择
 #10282	[!WordCollection]등급 낮은 순	[!WordCollection]级别从低到高
@@ -6057,7 +6057,7 @@
 #10308	[!DamageCondition]지형효과: 물	[!DamageCondition]地形效果: 水
 #10309	[!FieldEffect]늪/수풀	[!FieldEffect]池沼/草丛
 #10310	[!FieldEffect]물/수풀	[!FieldEffect]水/草丛
-#10311	[!Loading]철의 숲 안개 절벽	[!Loading]铁森林雾霭悬崖
+#10311	[!Loading]철의 숲 안개 절벽	[!Loading]铁森林雾见崖
 #10312	[!Loading]이상 징후	[!Loading]奇怪的症状
 #10313	[!Mission]구역 내 야수를 모두 사냥하시오.	[!Mission]请制服本区域内的所有野兽。
 #10314	[!Mission]시간내에 시민 구출	[!Mission]限时营救市民

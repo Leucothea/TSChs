@@ -1306,7 +1306,7 @@
 #7970	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]축복이요?	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]祝福?
 #7971	[!Sentence][!Dialog][!speaker:Sion_Surprise]햄버거 소녀..	[!Sentence][!Dialog][!speaker:Sion_Surprise]汉堡少女…
 #7972	[!Sentence][!Dialog][!speaker:EmptySubTitle_]아이작 경감의 입에서 흘러나온 말.	[!Sentence][!Dialog]艾萨克警监的口中留出的话语。
-#7973	[!Sentence][!Title]까마귀부리 정류장	[!Sentence][!Title]乌鸦喙停车场
+#7973	[!Sentence][!Title]까마귀부리 정류장	[!Sentence][!Title]墨鸦喙停车场
 #7974	[!Sentence][!Dialog][!speaker:Irene_Normal]그럼 오늘은 믿어 보마.	[!Sentence][!Dialog][!speaker:Irene_Normal]那今天暂且信你一回。
 #7975	[!Sentence][!Dialog][!speaker:Irene_Smile]누군가 했더니... 트러블슈터 너였구나!	[!Sentence][!Dialog][!speaker:Irene_Smile]我还以为是谁呢…原来是纷争终结者你啊!
 #7976	[!Sentence][!Dialog][!speaker:Albus_Think][colour='FFFFFF00']현장 지휘권에 대해서는	[!Sentence][!Dialog][!speaker:Albus_Think][colour='FFFFFF00']关于现场指挥权
@@ -1432,7 +1432,7 @@
 #8122	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]아이 한 명이 더 있습니다.	[!Sentence][!BalloonChat][!speaker:VHPD3]还剩有一个孩子。
 #8123	[!Sentence][!BalloonChat][!speaker:Enemy3]다 왔다니까 괜한 도발하지마.	[!Sentence][!BalloonChat][!speaker:Enemy3]说快到了，不要去刺激了。
 #8124	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]알파 쓰리. 접근해야 할 것 같습니다.	[!Sentence][!BalloonChat][!speaker:VHPD4]阿尔法三号。需要更加靠近。
-#8126	[!Sentence][!Title]일주일 전, 까마귀부리 정류장	[!Sentence][!Title]一周前,乌鸦喙停车场
+#8126	[!Sentence][!Title]일주일 전, 까마귀부리 정류장	[!Sentence][!Title]一周前,墨鸦喙停车场
 #8129	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]알파 제로. 시야 내 적 확인.	[!Sentence][!BalloonChat][!speaker:VHPD1]阿尔法零号。视野内发现敌人。
 #8130	[!Sentence][!Dialog][!speaker:VHPDMale_Normal]너무 늦어...	[!Sentence][!Dialog][!speaker:VHPDMale_Normal]那太晚了…
 #8134	[!Sentence][!Dialog][!speaker:VHPD_Issac_Think]남은 목표는 둘. 충분히 제압할 수 있겠군.	[!Sentence][!BalloonChat][!speaker:VHPD1]只剩下两个目标，应该可以充分压制。
@@ -4222,7 +4222,7 @@
 #11989	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]네 녀석 입담은 여전하군.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]你这家伙口才依然很不错嘛。
 #11990	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]돌발 상황에서 트러블슈터에 의존하지 않고 대처하는 걸 뭐라 하는 것이 아니네.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]我不是在说突发情况下不依靠纷争终结者而应对事件这件事情。
 #11991	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal]고교 졸업 후 '블랙펄' 견습 트러블슈터 1년...'아르월' 견습생이라...	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal]高中毕业后在'黑珍珠'当了1年的见习纷争终结者…'阿尔月'的见习生嘛…
-#11992	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand']아이작 경감님. 까마귀부리 정류장에 인질 테러 발생입니다.	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand']艾萨克警监大人。乌鸦喙停车场发生人质劫持恐怖事件。
+#11992	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand']아이작 경감님. 까마귀부리 정류장에 인질 테러 발생입니다.	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand']艾萨克警监大人。墨鸦喙停车场发生人质劫持恐怖事件。
 #11993	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal]알파, 감마 각 분대는 최대한 빨리 람지플라자로 출동하세요!	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal]阿尔法分队、伽马分队请尽快出击，赶往蓝地广场！
 #11994	[!Sentence][!Dialog]아이작은 비 오는 날이면 퇴근 후 바로 귀가하지 않고 어김없이 이 포장마차를 찾았다.	[!Sentence][!Dialog]只要一下雨，艾萨克下班后不会马上回家去，他总会来到这个帐篷小店来。
 #11995	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal]아이작 경감님. 퇴근하십니까?	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal]艾萨克警监大人。您要下班吗？
@@ -4242,7 +4242,7 @@
 #12012	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]아무리 그들의 사건 해결 태도가 마음에 들지 않더라도	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]就算你对他们的案件处理态度有意见
 #12014	[!Sentence][!BalloonChat][!speaker:Sion]알버스. 도주하지 못하게 빠르게 돌입해서 끝내자~☆	[!Sentence][!BalloonChat][!speaker:Anne_Smile]阿尔伯斯。别让他们逃跑了，我们快冲进去吧~☆
 #12015	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]오랜만이네. 앤 메이시 양. 현장은 힘들진 않은가?	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]好久不见。安梅茜小姐。出现场不累吗？
-#12016	[!Sentence][!Dialog][!speaker:Albus_Surprise]'근처에 사건 발생? 까마귀부리 정류장?'	[!Sentence][!Dialog][!speaker:Albus_Surprise]'附近发生案件?乌鸦喙停车场？'
+#12016	[!Sentence][!Dialog][!speaker:Albus_Surprise]'근처에 사건 발생? 까마귀부리 정류장?'	[!Sentence][!Dialog][!speaker:Albus_Surprise]'附近发生案件?墨鸦喙停车场？'
 #12017	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]그리고 정작 현장에서 직접 마주친 건 한 번뿐이라면서 너무 속단하는 거 아닌가?	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]而且你真正在现场遇见他们也只有那么一回，你这样下结论是不是太武断了？
 #12018	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]자네 웬일인가?	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]你有什么事吗？
 #12019	[!Sentence][!Dialog][!speaker:Albus_Serious]경감님이 복귀하실 때까지 최선을 다하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]我会尽全力做好，等您归来。
@@ -4282,7 +4282,7 @@
 #12055	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]퇴근 후 상관을 좋아할 사람이 어딨나...	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]哪有人会喜欢在下班后面对上司的啊…
 #12056	[!Sentence][!Dialog][!speaker:Yuske_Normal]어서 오십시오! 무엇을 드릴까요!	[!Sentence][!Dialog][!speaker:Yuske_Normal]欢迎光临!您要来点什么呢!
 #12058	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]알겠습니다!	[!Sentence][!Dialog][!speaker:Roberto_Smile]明白了！
-#12059	[!Sentence][!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand']그래. 사건 현장은 까마귀부리 정류장 중간에 합류하자.	[!Sentence][!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand']好。案发现场是乌鸦喙停车场，我们就在中间碰头。
+#12059	[!Sentence][!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand']그래. 사건 현장은 까마귀부리 정류장 중간에 합류하자.	[!Sentence][!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand']好。案发现场是墨鸦喙停车场，我们就在中间碰头。
 #12061	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]제대로 된 트러블슈터라... 말이 되는 소리를 하게나.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]真正的纷争终结者吗…你在说什么呢。
 #12062	[!Sentence][!Dialog][!speaker:Joel_Normal]목표 대상이 시민을 사살하려 했기에 어쩔 수 없었습니다.	[!Sentence][!Dialog][!speaker:Joel_Normal]因为目标正打算杀死市民，我不得不这么行动。
 #12063	[!Sentence][!Dialog][!speaker:Joel_Normal]델타 분대. 조금만 더 버텨보자.	[!Sentence][!Dialog][!speaker:Joel_Normal]三角洲分队。我们再坚持一会儿。
@@ -9601,7 +9601,7 @@
 #18724	[!Sentence][!Dialog][!speaker:Giselle_Normal]선택은 네가 해.	[!Sentence][!Dialog][!speaker:Giselle_Normal]由你来选择。
 #18726	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]웬만하면 저 녀석하고는 엮이지 마.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]可以的话就别跟那小子混在一起了。
 #18727	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]모르는 게 약이야.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]无知便是福啊。
-#18728	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]이런... 바람장벽지구의 축복이 오셨군.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]啊... 风之地区的福来了啊。
+#18728	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]이런... 바람장벽지구의 축복이 오셨군.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]啊... 风之壁地区的福来了啊。
 #18729	[!Sentence][!Dialog][!speaker:Sion_Angry]사장님!!	[!Sentence][!Dialog][!speaker:Sion_Angry]老板！！
 #18730	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]난 그저 자네 정보를 자네를 찾는 자들에게 흘렸을 뿐이야.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]我只是把你的信息泄露给了找你的人。
 #18731	[!Sentence][!Dialog][!speaker:Albus_Normal]그럼 현장으로 돌입하겠습니다!	[!Sentence][!Dialog][!speaker:Albus_Normal]那我们就进入现场了!
@@ -9734,7 +9734,7 @@
 #18869	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal] 해당 업체의 거래 내역과 활동 내역의 전수조사를 실시할 것이라고 발표하였습니다.	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal] 已公布将对相关企业的交易明细和活动明细进行全数调查。
 #18870	[!Sentence][!Subtitle][!speaker:Issac_Normal]지금 중요한 것은 여러분의 소중한 가족과 친구를 지킬 힘입니다.	[!Sentence][!Subtitle][!speaker:Issac_Normal]现在最重要的是守护大家宝贵的家人和朋友的力量。
 #18871	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]해당 업체는 조직폭력배 『 흑호 』조직과 유관 관계 회사로 의심받으며 수차례 발할라 경찰청의 수사를 받았던 업체이기에 트러블슈터 업계에 큰 파장을 불러일으키고 있습니다.	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]该企业因为被怀疑是与黑社会『 黑虎 』组织相关的公司，并多次受到巴赫拉警察厅的调查。所以在纷争终结者业界掀起了轩然大波。
-#18872	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]바람장벽지구의 유통업체『 흑호 코퍼레이션 』이 업종을 보안 전문 회사로 변경한 후 정식 트러블슈터 회사로 전환 신청을 요청하였습니다.	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]风之地区的流通企业『 黑虎集团 』将行业变更为专业保安公司后，申请转换为正式纷争终结者公司。
+#18872	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]바람장벽지구의 유통업체『 흑호 코퍼레이션 』이 업종을 보안 전문 회사로 변경한 후 정식 트러블슈터 회사로 전환 신청을 요청하였습니다.	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]风之壁地区的流通企业『 黑虎集团 』将行业变更为专业保安公司后，申请转换为正式纷争终结者公司。
 #18873	[!Sentence][!Subtitle][!speaker:Issac_Normal]그 바램. 『 흑호 코퍼레이션 』이 지켜내겠습니다.	[!Sentence][!Subtitle][!speaker:Issac_Normal]那意愿，就由『 黑虎集团 』来守住。
 #18874	[!Sentence][!Subtitle][!speaker:Issac_Smile]더 이상 잃고 싶지 않습니다. 더는 잃은 슬픔을 가슴 속에 묻어두고 싶지 않습니다.	[!Sentence][!Subtitle][!speaker:Issac_Smile]我不想再失去，我不想再把失去的悲伤埋在心底。
 #18875	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]대부분의 범죄전문가들은 『 흑호 코퍼레이션 』의 트러블슈터 전환 가능성을 부정적으로 보고 있으며, 사회 치안 시스템에 대한 조롱이라고 격분하고 있습니다.	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]大部分的犯罪专家们 『 黑虎集团 』转换为正式纷争终结者公司的可能性持否定态度，认为这是对社会治安系统的嘲弄。
@@ -9785,7 +9785,7 @@
 #18930	[!Dialog][!speaker:Anne_Surprise]아. 아니네... 사무실 불 켜져 있네.	[!Dialog][!speaker:Anne_Surprise]啊。不是诶......办公室的灯还开着呢。
 #18931	[!Dialog][!speaker:Albus_Think]대략 현재 상황은 이렇다고 봅니다.	[!Dialog][!speaker:Albus_Think]现在的情况大概就是这样的。
 #18932	[!Dialog][!speaker:Giselle_Normal]성난 황소파는 모두 궤멸된 걸로 보는 건가?	[!Dialog][!speaker:Giselle_Normal]狂牛组看起来都全灭了吗?
-#18933	[!Dialog][!speaker:Albus_Serious]네. 보스 스콧과 간부였던 제이슨이 아직 행적이 묘연하지만...	[!Dialog][!speaker:Albus_Serious]是的。但是首领斯科和曾是干部的杰森则不见踪影......
+#18933	[!Dialog][!speaker:Albus_Serious]네. 보스 스콧과 간부였던 제이슨이 아직 행적이 묘연하지만...	[!Dialog][!speaker:Albus_Serious]是的。但是首领斯科特和曾是干部的杰森则不见踪影......
 #18934	[!Dialog][!speaker:Albus_Serious]남은 조직원을 이끌던 간부 조홍과 하산은 하늘 바람 공원에서 시체로 발견되었습니다.	[!Dialog][!speaker:Albus_Serious]在天风公园找到了统帅剩下的组员的干部赵洪和哈山的尸体。
 #18935	[!Dialog][!speaker:Albus_Serious]남은 잔당들은 스푼교로 모두 흡수되었기에 더는 성난 황소파의 조직적인 활동은 없다고 봐도 될 것 같습니다.	[!Dialog][!speaker:Albus_Serious]剩下的残党都被勺子教吸取了，因此可以断定狂牛组是不会有任何活动的。
 #18936	[!Dialog][!speaker:Giselle_Smile]스푼교도들은?	[!Dialog][!speaker:Giselle_Smile]勺子教徒呢？
@@ -12854,7 +12854,7 @@
 #22672	[!DialogQuest][!speaker:Irene_Smile2]$CompanyName$[은] 악당들을 처리하는 강력 사건을 처리만으로 바쁜 상황이야.	[!DialogQuest][!speaker:Irene_Smile2]$CompanyName$对处理重案足够忙碌了。
 #22673	[!DialogQuest][!speaker:AL_Normal]음... 히어로야 악당들이 최우선이겠지만...	[!DialogQuest][!speaker:AL_Normal]嗯...虽然英雄阻止恶徒是最为先的...
 #22674	[!DialogQuest][!speaker:AL_Smile]그쪽 사장님도 히어로와 같은 생각인가?	[!DialogQuest][!speaker:AL_Smile]老板也是这样想的吗？
-#22675	[!DialogQuest][!speaker:Albus_Normal]네. 아이린 씨 말씀대로 저희는 현재 바람장벽지구 내 강력 사건에 집중하고 있습니다.	[!DialogQuest][!speaker:Albus_Normal]是的。正如同艾琳所说的，我们正在集中处理风之地区的重案。
+#22675	[!DialogQuest][!speaker:Albus_Normal]네. 아이린 씨 말씀대로 저희는 현재 바람장벽지구 내 강력 사건에 집중하고 있습니다.	[!DialogQuest][!speaker:Albus_Normal]是的。正如同艾琳所说的，我们正在集中处理风之壁地区的重案。
 #22676	[!DialogQuest][!speaker:AL_Normal]그렇군. 히어로 정말 너에게 어울리는 트러블슈터 회사네.	[!DialogQuest][!speaker:AL_Normal]原来如此。是真个适合你这样的英雄的纷争终结者公司啊。
 #22677	[!DialogQuest][!speaker:Irene_Normal]당연하지. 나 히어로 아이린이 선택한 회사다.	[!DialogQuest][!speaker:Irene_Normal]当然了。是我英雄艾琳选择的公司。
 #22678	[!DialogQuest][!speaker:AL_Normal]그래. 그럼 어쩔 수 없지.	[!DialogQuest][!speaker:AL_Normal]知道了,那就没办法了。
@@ -14929,7 +14929,7 @@
 #25026	[!DialogQuest][!speaker:AL_Normal]그래. 워낙 희귀종이라 어디서 구해야 할지 난감한 상황이야.	[!DialogQuest][!speaker:AL_Normal]是啊，因为本来就是稀有品种，所以不知道在哪里能找的到。
 #25027	[!DialogQuest][!speaker:Sion_Stare]아니. 구할 수 없는 물건이면 못 구한다고 말해야지.	[!DialogQuest][!speaker:Sion_Stare]嘿哟，没法取到的东西不是该实话说出来的吗？
 #25028	[!DialogQuest][!speaker:AL_Smile]철의 숲에서 사냥을 자주하는 너희 팀이라면 혹시 알 수 있을까 했지.	[!DialogQuest][!speaker:AL_Smile]因为你们经常在铁森林打猎，所以想着你们或许能拿到。
-#25029	[!DialogQuest][!speaker:Anne_Think]안개 절벽 같은 곳이면 도로리가 많이 모이니 희귀종도 찾을 수 있지 않을까요?	[!DialogQuest][!speaker:Anne_Think]像雾霭悬崖那样的地方有很多多罗利大王出没，是否能在那里找到呢？
+#25029	[!DialogQuest][!speaker:Anne_Think]안개 절벽 같은 곳이면 도로리가 많이 모이니 희귀종도 찾을 수 있지 않을까요?	[!DialogQuest][!speaker:Anne_Think]像雾见崖那样的地方有很多多罗利大王出没，是否能在那里找到呢？
 #25030	[!DialogQuest][!speaker:Albus_Think]'일단 도로리가 많은 지역에서 사냥을 하면서 일일히 품질을 비교해야 하는 건가...'	[!DialogQuest][!speaker:Albus_Think]'得在多罗利大王经常出没的地方边打猎边一一比较的吗...'
 #25031	[!DialogQuest][!speaker:Albus_Think]'그다지 수지가 맞지 않는 의뢰인데... 거절할까...'	[!DialogQuest][!speaker:Albus_Think]'有点亏呢...还是拒绝好吗...'
 #25032	[!DialogQuest][!speaker:Irene_Surprise]다른 단서는 없어?	[!DialogQuest][!speaker:Irene_Surprise]没有别的线索吗？
