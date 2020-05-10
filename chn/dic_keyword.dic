@@ -769,7 +769,7 @@
 #1800	[!Mastery]주술사	[!Mastery]咒术师
 #1802	[!Mastery]예리한 칼날	[!Mastery]锐利的刀刃
 #1804	[!Mastery]명사수	[!Mastery]神射手
-#1807	[!Mastery]산산조각	[!Mastery]碎成碎渣
+#1807	[!Mastery]산산조각	[!Mastery]碎裂至渣
 #1810	[!Mastery]명탐정	[!Mastery]名侦探
 #1815	[!Mastery]유성	[!Mastery]流星
 #1818	[!Mastery]사격 훈련	[!Mastery]射击训练
@@ -789,7 +789,7 @@
 #1857	[!Mastery]생존 훈련	[!Mastery]生存训练
 #1859	[!Mastery]검술사	[!Mastery]剑术师
 #1862	[!Mastery]검술 훈련	[!Mastery]剑术训练
-#1865	[!Mastery]전술적 포위	[!Mastery]战略性包围
+#1865	[!Mastery]전술적 포위	[!Mastery]战略包围
 #1868	[!Mastery]전술적 감각	[!Mastery]战术触角
 #1872	[!Mastery]긴장감	[!Mastery]紧张感
 #1875	[!Mastery]위협	[!Mastery]威胁
@@ -809,7 +809,7 @@
 #1918	[!Mastery]물 내성 I	[!Mastery]水耐性(一)
 #1919	[!Mastery]물 내성 II	[!Mastery]水耐性(二)
 #1920	[!Mastery]물 내성 III	[!Mastery]水耐性(三)
-#1923	[!Mastery]무기 막기	[!Mastery]武器防御
+#1923	[!Mastery]무기 막기	[!Mastery]武器格挡
 #1926	[!Mastery]백열	[!Mastery]白热
 #1929	[!Mastery]백야	[!Mastery]白夜
 #1932	[!Mastery]야성	[!Mastery]野性
@@ -4925,7 +4925,7 @@
 #8730	[!Mastery]어디 한 눈을 파는 것이냐!	[!Mastery]可别走神呀!
 #8731	[!Mastery]응징	[!Mastery]惩戒
 #8733	[!Mastery]이미 한 번 성공한 일을 다시 해내는 것은 어렵지 않아.	[!Mastery]成功过的事情，再来一次并不会太难。
-#8734	[!Mastery]동일한 표적	[!Mastery]相同的标记
+#8734	[!Mastery]동일한 표적	[!Mastery]二次标记
 #8736	[!Mastery]남들이 보지 않을 때 일한다.	[!Mastery]别人看不到时做事情。
 #8737	[!Mastery]거미줄치기	[!Mastery]编织蜘蛛网
 #8739	[!Mastery]외줄타기 인생이여!	[!Mastery]人生就是走钢丝呀!
@@ -5235,7 +5235,7 @@
 #9116	[!Mastery]단 한발일지라도 치명적이지.	[!Mastery]就算只有一发攻击，也会是致命的。
 #9117	[!Mastery]관통 사격	[!Mastery]穿透射击
 #9119	[!Mastery]실수로부터 배운다.	[!Mastery]失误是良师。
-#9120	[!Mastery]전술적 보완	[!Mastery]战略性完善
+#9120	[!Mastery]전술적 보완	[!Mastery]完善战略
 #9123	[!Mission]고립된 경찰 분대를 구조하시오.	[!Mission]营救被孤立的警察分队。
 #9124	[!Notice][colour='FF0000FF'](링크)[colour='FFFFFFFF']	[!Notice][colour='FF0000FF'](链接)[colour='FFFFFFFF']
 #9126	[!OptionInterface]왼쪽 버튼	[!OptionInterface]左按键
@@ -5484,7 +5484,7 @@
 #9439	[!Mastery]널 신뢰하기에 솔직해질 수 있다.	[!Mastery]因为信任你才会更加坦诚。
 #9440	[!Mastery]솔직함	[!Mastery]坦诚
 #9441	[!Mastery]그대를 위한 것이요.	[!Mastery]这是为了你啊。
-#9442	[!Mastery]정중한 거절	[!Mastery]正式的拒绝
+#9442	[!Mastery]정중한 거절	[!Mastery]严正拒绝
 #9443	[!Mission]지원병력 도착 전까지 갱단 보스 체포	[!Mission]在援军抵达之前逮捕黑帮头目
 #9444	[!ObjectInfo]포장마차 김 씨	[!ObjectInfo]帐篷小店的老金
 #9445	[!ObjectInfo]백호 저격수	[!ObjectInfo]白虎狙击手
@@ -6299,7 +6299,7 @@
 #10708	[!Mastery]재생의 축복	[!Mastery]重生的祝福
 #10710	[!Mastery]너의 힘을 돌려주마.	[!Mastery]你的力量，返还给你。
 #10711	[!Mastery]차경	[!Mastery]借劲
-#10712	[!Mastery]방어구 가르기	[!Mastery]护具分开
+#10712	[!Mastery]방어구 가르기	[!Mastery]破甲
 #10714	[!Mastery]아무리 방어를 굳혀도 뚫어버리면 그만이다.	[!Mastery]防御虽固若金汤，突破就行了。
 #10715	[!Mastery]성문 돌파	[!Mastery]突破城门
 #10716	[!Mastery]너의 선택권을 빼앗아주지.	[!Mastery]你的选择权归我了。
@@ -6329,7 +6329,7 @@
 #10780	[!Mastery]네 눈으로 확인하지 않은 것을 아무리 부정하여도 존재하는 것은 사라지지 않는다. 	[!Mastery]没用你自己的双眼去确认过的东西，就算你一再否定，它的存在不会消失。
 #10781	[!Mastery]보이지 않는 검	[!Mastery]无形剑
 #10785	[!Mastery]언제나 포기할 수 없는 이유가 있습니다.	[!Mastery]总有不能放弃的理由。
-#10786	[!Mastery]구원의 빛	[!Mastery]救援的光
+#10786	[!Mastery]구원의 빛	[!Mastery]救援之光
 #10790	[!Mastery]힘은 사용하기에 따라 다른 결과를 가져오지.	[!Mastery]根据力量的用法不同，带来的结果将是不同的。
 #10793	[!Mastery]고요한 가운데 움직임이 있다.	[!Mastery]静中有动。
 #10794	[!Mastery]정중동	[!Mastery]静中动
@@ -6354,7 +6354,7 @@
 #10825	[!Mastery]잊혀진 지식은 여전히 자네의 기억에 남아있다네.	[!Mastery]被遗忘的知识依然留在你的记忆中。
 #10826	[!Mastery]마법의 서고	[!Mastery]魔法书库
 #10841	[!Mastery]백만개의 기술을 가진 자보다 백만번 기술을 연마한 자를 두려워하라.	[!Mastery]比起知晓百万种技术的人，千锤百炼同一技术的人才是更可畏的。
-#10842	[!Mastery]백만번의 단련	[!Mastery]千锤百的锻炼
+#10842	[!Mastery]백만번의 단련	[!Mastery]千锤百炼
 #10844	[!Mastery]아무도 없는 그 전장에는 주인 잃은 수많은 검들이 자리를 지키고 있을 뿐이었다.	[!Mastery]荒无人烟的战场上，只有无数柄失去了主人的剑，默默坚守在原地。
 #10845	[!Mastery]무한검	[!Mastery]无限之剑
 #10848	[!Mastery]이대로 쉽게 놓아줄 수 없습니다.	[!Mastery]不能就这样放了你。
@@ -7047,7 +7047,7 @@
 #11845	[!Item]자홍거리에서 유통되는 사이러스 손목 보호대를 개량하여 경량화 시킨 손목 보호대. 뒷세계에서 매우 인기 있는 손목 보호대이다.	[!Item]紫红街流通的轻量化改良版塞勒斯护腕。是一款在地下世界里非常有人气的护腕。
 #11846	[!Job]소매치기	[!Job]扒手
 #11848	[!Mastery]분노는 모든 것을 잊게 만들지.	[!Mastery]愤怒可以让人忘了一切。
-#11849	[!Mastery]잊혀진 고통	[!Mastery]被遗忘的痛苦
+#11849	[!Mastery]잊혀진 고통	[!Mastery]痛苦豁免
 #11851	[!Mastery]목표를 제대로 쫓지 않으면 맞출 수 없지.	[!Mastery]跟不好目标就找不准目标。
 #11852	[!Mastery]연막 이동	[!Mastery]烟幕移动
 #11854	[!Mastery]내 분노를 받아라!	[!Mastery]承受我的愤怒吧!
@@ -7204,7 +7204,7 @@
 #12066	[!Mastery]난 아프기 싫어!	[!Mastery]我不想疼!
 #12069	[!Mastery]끝없는 삶에 대한 집착이야말로 인간의 본능이다.	[!Mastery]对生活无休止的执着，才是人类的天性啊。
 #12070	[!Mastery]선혈의 기억	[!Mastery]鲜血的记忆
-#12073	[!Mastery]꼭꼭 숨어라	[!Mastery]藏好了藏好
+#12073	[!Mastery]꼭꼭 숨어라	[!Mastery]躲猫猫
 #12076	[!Mastery]돌입 준비	[!Mastery]准备突入
 #12078	[!Mastery]저에겐 충분한 휴식을 취하고 마음의 평화를 가져올 은신처가 필요해요.	[!Mastery]我需要一个能够带来足够休憩和安心的藏身之所。
 #12079	[!BattleFormulaSharedCondition]온도: $Temperature$	[!BattleFormulaSharedCondition]温度: $Temperature$
@@ -7226,7 +7226,7 @@
 #12096	[!Mastery]선택을 강요해주지.	[!Mastery]强调你的选择。
 #12097	[!Mastery]야수 협공	[!Mastery]野兽夹攻
 #12099	[!Mastery]평생 같이 지내자.	[!Mastery]一辈子要在一起哟。
-#12100	[!Mastery]야수 친구	[!Mastery]野兽朋友
+#12100	[!Mastery]야수 친구	[!Mastery]野兽之友
 #12102	[!Mastery]넌 할 수 있어.	[!Mastery]你能行的。
 #12103	[!Mastery]야수 훈련	[!Mastery]野兽训练
 #12105	[!Mastery]숨는 것이 아니라 발견하지 못하게 하는 것 이지.	[!Mastery]不是藏得好，而是不让对方发现。
@@ -8027,13 +8027,13 @@
 #13779	[!Mastery]방어를 위한 단단함은 바로 무서운 공격이 될 수 있지.	[!Mastery]因防御而练就的坚实，也会成为可怕的攻击。
 #13780	[!Mastery]바위 주먹	[!Mastery]岩石之拳
 #13782	[!Mastery]뛰는 자가 나다!	[!Mastery]跳跃者就是我！
-#13783	[!Mastery]강력한 뒷다리	[!Mastery]强力的后腿
+#13783	[!Mastery]강력한 뒷다리	[!Mastery]强力后足
 #13784	[!Mastery]한번 물고 늘어지면 끝이야.	[!Mastery]被咬住一次就完蛋了。
-#13785	[!Mastery]강력한 턱	[!Mastery]强力的下颚
+#13785	[!Mastery]강력한 턱	[!Mastery]强力下颚
 #13787	[!Mastery]미래가 없는 자들은 두려움이 없다.	[!Mastery]没有未来之人不会恐惧。
-#13788	[!Mastery]강력한 돌진	[!Mastery]强力的突进
+#13788	[!Mastery]강력한 돌진	[!Mastery]强力突进
 #13790	[!Mastery]날지 못한다고 뛰지 못하는 것이 아니다!	[!Mastery]不能飞不等于不能跑！
-#13791	[!Mastery]강력한 날갯짓	[!Mastery]强力之翼
+#13791	[!Mastery]강력한 날갯짓	[!Mastery]强力飞翼
 #13793	[!Mastery]고생한 시간만큼 성장한다.	[!Mastery]辛苦的时间等于成长的程度。
 #13794	[!Mastery]거친 가죽	[!Mastery]粗糙的皮革
 #13797	[!Mastery]너의 흐름을 망가뜨려주지.	[!Mastery]让我打断你的节奏吧。
@@ -8336,7 +8336,7 @@
 #14256	[!Ability]불꽃 물어뜯기	[!Ability]火花撕咬
 #14257	[!Ability]얼음 물어뜯기	[!Ability]寒冰撕咬
 #14259	[!Ability]거미줄 이동	[!Ability]蛛网移动
-#14260	[!Ability]강력한 거미줄 낙하	[!Ability]强力的蛛网降落
+#14260	[!Ability]강력한 거미줄 낙하	[!Ability]强效蛛网降落
 #14262	[!Ability]불꽃 갈기	[!Ability]火花鬃毛
 #14263	[!Ability]불꽃 갈기 해제	[!Ability]解除火花鬃毛
 #14264	[!Ability]분노를 끌어올려 $ApplyBuff$ 상태가 됩니다.	[!Ability]怒发冲冠进入$ApplyBuff$状态。
@@ -8804,7 +8804,7 @@
 #14894	[!Mastery]얼어 붙은 네 가슴 속에서 자라난 녀석들이다.	[!Mastery]是在你那冻僵的心中长出来的家伙们啊。
 #14895	[!Mastery]얼음 병사	[!Mastery]寒冰战士
 #14898	[!Mastery]절대 빠져나갈 수 없어.	[!Mastery]绝对逃不出。
-#14899	[!Mastery]강력한 덫	[!Mastery]强力的陷阱
+#14899	[!Mastery]강력한 덫	[!Mastery]陷阱强化
 #14905	[!ObjectInfo]자베르	[!ObjectInfo]沙威
 #14909	[!Mastery]마법사라면, 마력을 이론에 근거하여 가속시켜 적의 저항력을 무너뜨리는 강력한 힘을 낼 수 있지.	[!Mastery]如果是魔法师,就能根据理论增强魔力,获得能够破坏敌人抵抗力的强大力量。
 #14912	[!Ability]공격 프로토콜	[!Ability]攻击协议
@@ -8895,7 +8895,7 @@
 #15065	[!Mastery]적절한 힘의 분배는 강한 내구성을 강하게 하지. 반대로 힘의 균형이 무너지면 쉽게 파괴할 수 있지.	[!Mastery]适当分配力量会增强耐久性。 相反,如果力量均衡崩溃,很容易被破坏。
 #15066	[!Mastery]고체역학	[!Mastery]固体力学
 #15067	[!Mastery]출력을 최대한 올리는 거지.	[!Mastery]就是最大限度地提高功率。
-#15068	[!Mastery]강력한 주포	[!Mastery]强力的主炮
+#15068	[!Mastery]강력한 주포	[!Mastery]主炮强化
 #15070	[!Mastery]계산할 시간만 충분하면 돼	[!Mastery]只要有足够的时间计算就可以
 #15071	[!Mastery]원격 반응 공격	[!Mastery]远程反应攻击
 #15073	[!Mastery]에너지, 열, 일, 엔트로피와 과정의 자발성을 다루지.	[!Mastery]处理能量、热、功、熵和过程的自发性。
@@ -9398,7 +9398,7 @@
 #15769	[!Ability]냉각 레이저 발사	[!Ability]发射冷却激光
 #15771	[!Ability]가장 가까운 대상은 $ApplySubBuff$ 상태가 됩니다.	[!Ability]最近的目标将进入$ApplySubBuff$状态。
 #15773	[!Ability]전방으로 강력한 화염을 발사하여 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向前方发射强力的火焰，使对方受到$DamageAmount$的$DamageType$伤害。
-#15774	[!Ability]강력한 화염 방사	[!Ability]强力的火焰发射
+#15774	[!Ability]강력한 화염 방사	[!Ability]强效火焰放射
 #15775	[!Buff]정보 구축	[!Buff]信息构筑
 #15777	[!Buff]폭주	[!Buff]暴走
 #15779	[!Equipment]지원 보조 장비	[!Equipment]支援辅助装备
@@ -11434,17 +11434,17 @@
 #18391	[!Ability]목표 대상의 기력을 모두 회복하며 $RemoveBuff$ 상태를 해제합니다.	[!Ability]恢复目标的所有气力并解除$RemoveBuff$状态。
 #18392	[!Ability]강화의 물약	[!Ability]强化药水
 #18393	[!Ability]수양의 물약	[!Ability]素养药水
-#18394	[!Ability]강력한 강화의 물약	[!Ability]强力的强化药水
+#18394	[!Ability]강력한 강화의 물약	[!Ability]强效强化药水
 #18395	[!Ability]복용한 대상은 $ApplyBuff$ 상태가 되며 지속 시간이 $ApplyBuffDuration$ 턴으로 증가합니다.	[!Ability]服用的目标变成$ApplyBuff$状态，并且持续时间将增加到$ApplyBuffDuration$回合。
-#18396	[!Ability]강력한 수양의 물약	[!Ability]强力的素养药水
-#18397	[!Ability]강력한 인내의 물약	[!Ability]强力的忍受药水
-#18398	[!Ability]강력한 집중의 물약	[!Ability]强力的集中药水
+#18396	[!Ability]강력한 수양의 물약	[!Ability]强效素养药水
+#18397	[!Ability]강력한 인내의 물약	[!Ability]强效忍受药水
+#18398	[!Ability]강력한 집중의 물약	[!Ability]强效集中药水
 #18399	[!Ability]재생의 물약	[!Ability]重生药水
 #18400	[!Ability]복용한 대상은 $ApplyBuff$ 상태가 됩니다.<br><br>$Perano$낮은 확률로 부작용을 일으킵니다.$Blue_ON$	[!Ability]服用的目标变成$ApplyBuff$状态。<br><br>$Perano$很小的几率产生副作用。$Blue_ON$
 #18401	[!Ability]광분의 물약	[!Ability]疯狂药水
 #18402	[!Ability]격앙의 물약	[!Ability]激昂药水
 #18403	[!Ability]거인의 물약	[!Ability]巨人药水
-#18404	[!Ability]강력한 수면제	[!Ability]强力的安眠药
+#18404	[!Ability]강력한 수면제	[!Ability]强效安眠药
 #18405	[!Ability]복용한 대상은 $ApplyBuff$ 상태가 되며 지속 시간이 $ApplyBuffDuration$ 턴으로 증가합니다.<br><br>$Perano$낮은 확률로 부작용을 일으킵니다.$Blue_ON$	[!Ability]服用的目标变成$ApplyBuff$状态，并且持续时间将增加到$ApplyBuffDuration$回合。<br><br>$Perano$很小的几率产生副作用。$Blue_ON$
 #18406	[!Ability]불사의 물약	[!Ability]不死药水
 #18407	[!Ability]죽음의 물약	[!Ability]死亡药水
@@ -11460,10 +11460,10 @@
 #18417	[!Item]강화의 물약	[!Item]强化药水
 #18418	[!Item]수양의 물약	[!Item]素养药水
 #18419	[!Item]강력한 수면제	[!Item]强力的安眠药
-#18420	[!Item]강력한 강화의 물약	[!Item]强力的强化药水
-#18421	[!Item]강력한 수양의 물약	[!Item]强力的素养药水
-#18422	[!Item]강력한 인내의 물약	[!Item]强力的忍受药水
-#18423	[!Item]강력한 집중의 물약	[!Item]强力的集中药水
+#18420	[!Item]강력한 강화의 물약	[!Item]强效强化药水
+#18421	[!Item]강력한 수양의 물약	[!Item]强效素养药水
+#18422	[!Item]강력한 인내의 물약	[!Item]强效忍受药水
+#18423	[!Item]강력한 집중의 물약	[!Item]强效集中药水
 #18424	[!Item]재생의 물약	[!Item]重生药水
 #18425	[!Item]광분의 물약	[!Item]疯狂药水
 #18426	[!Item]격앙의 물약	[!Item]激昂药水
@@ -14722,7 +14722,7 @@
 #22390	[!Item]지옥불의 코드 네임이 새겨져 있습니다.	[!Item]刻有地狱火的代号。
 #22391	[!Item]해골 인장	[!Item]骷髅印章
 #22392	[!Item]해골 반지를 수여받는 자리에서 간부들은 이 인장을 받는다. 죽음에 이르는 맹독성 강화제 스콜지를 중화하는 효과를 가지고 있다.	[!Item]在授予骷髅戒指的同时将获得这个印章。它具有中和致死剧毒强化剂天灾的效果。
-#22393	[!Item]강력한 머리 보호대	[!Item]强力的护头帽
+#22393	[!Item]강력한 머리 보호대	[!Item]强效护头帽
 #22394	[!Item]기절을 방지하기 위한 강력한 머리 보호대입니다.	[!Item]防止晕厥的强力护头帽。
 #22395	[!LayoutKeyword]반송	[!LayoutKeyword]退回
 #22396	[!Mastery]자아성찰	[!Mastery]自我反省
