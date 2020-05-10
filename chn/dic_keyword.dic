@@ -388,7 +388,7 @@
 #792	[!Item]괴수의 뼈	[!Item]怪兽之骨
 #793	[!Item]맹수의 뼈	[!Item]猛兽之骨
 #794	[!Item]카본 부츠	[!Item]石墨靴
-#795	[!Item]까마귀 부츠	[!Item]乌鸦之靴
+#795	[!Item]까마귀 부츠	[!Item]墨鸦之靴
 #796	[!Item]지옥불 부츠	[!Item]地狱火之靴
 #797	[!Item]가죽 부츠	[!Item]皮靴
 #799	[!Item]핑크혼 부츠	[!Item]粉色角之靴
@@ -2341,7 +2341,7 @@
 #4761	[!FilteringWord]동방정공	[!FilteringWord]东方精工
 #4762	[!FilteringWord]스틸헤드	[!FilteringWord]铁头
 #4763	[!FilteringWord]어나미머스	[!FilteringWord]匿名组织
-#4764	[!FilteringWord]크로우	[!FilteringWord]乌鸦
+#4764	[!FilteringWord]크로우	[!FilteringWord]墨鸦
 #4765	[!FilteringWord]거리 불량배	[!FilteringWord]街头流氓
 #4766	[!FilteringWord]성난 황소	[!FilteringWord]狂牛
 #4767	[!FilteringWord]스노우	[!FilteringWord]斯诺
@@ -2403,8 +2403,8 @@
 #4857	[!Buff]별빛 방패	[!Buff]星光盾牌
 #4858	[!Ability]대상을 치료합니다.	[!Ability]治疗目标。
 #4861	[!Item]도살자 손도끼	[!Item]屠杀者手斧
-#4862	[!Item]케이퍼 V3 - 까마귀	[!Item]凯尔佛V3-乌鸦
-#4863	[!Item]대니로는 장벽 바깥의 리더가 되는 날 자신의 의지를 담은 까마귀 문양을 권총에 새겨 넣었다.	[!Item]丹尼罗成为墙壁外围的领袖时,将象征着自身意志的乌鸦纹样刻到了手枪上。
+#4862	[!Item]케이퍼 V3 - 까마귀	[!Item]凯尔佛V3-墨鸦
+#4863	[!Item]대니로는 장벽 바깥의 리더가 되는 날 자신의 의지를 담은 까마귀 문양을 권총에 새겨 넣었다.	[!Item]丹尼罗成为墙壁外围的领袖时,将象征着自身意志的墨鸦纹样刻到了手枪上。
 #4864	[!Mastery]단 한순간 모든 힘을 집중해라.	[!Mastery]只要一瞬就把全部力量凝聚。
 #4865	[!Mastery]집중 포화	[!Mastery]集中炮轰
 #4868	[!Ability]$DamageAmount$의 $DamageType$ 피해를 입힙니다. 피해를 입은 대상은 $ApplyBuffChance$ 확률로 $ApplyBuff$ 상태가 됩니다.	[!Ability]受到$DamageAmount$的$DamageType$伤害。受到伤害的目标有$ApplyBuffChance$几率变成$ApplyBuff$状态。
@@ -2842,7 +2842,7 @@
 #5603	[!Item]트윙클 잭이 가장 좋아하는 것은 자신을 향해 스포트라이트 되는 강한 빛이다. 강한 빛속에서 반짝이는 자신을 느낄 때 강한 만족감을 느끼기 때문이다.	[!Item]闪耀克杰最喜爱的是集中到自己身上的聚光灯的强光。因为在强烈的光亮中感受着闪耀着的自身,会让他感到强烈的满足。
 #5604	[!Item]카본 손목 보호대	[!Item]石墨护腕
 #5605	[!Item]블랙 카본 손목 보호대	[!Item]黑色石墨护腕
-#5606	[!Item]까마귀 손목 보호대	[!Item]乌鸦护腕
+#5606	[!Item]까마귀 손목 보호대	[!Item]墨鸦护腕
 #5608	[!Item]VHPD 손목 보호대	[!Item]VHPD护腕
 #5609	[!ItemCategory]도구	[!ItemCategory]工具
 #5638	[!ItemIdentifyType]돌격소총	[!ItemIdentifyType]突击步枪
@@ -3874,7 +3874,7 @@
 #7296	[!Item]단 하나의 숟가락	[!Item]唯一的勺子
 #7297	[!Item]은 숟가락	[!Item]银勺
 #7298	[!Item]나무 숟가락	[!Item]木勺
-#7300	[!Loading]은빛 구름 거리 356	[!Loading]银彩街356
+#7300	[!Loading]은빛 구름 거리 356	[!Loading]银彩街356号
 #7301	[!Loading]람지플라자	[!Loading]蓝地广场
 #7306	[!Mastery]준비가 있으면 걱정이 없다.	[!Mastery]有备则无患。
 #7307	[!Mastery]확장팩	[!Mastery]扩展包
@@ -3904,9 +3904,9 @@
 #7343	[!ObjectInfo]스푼교 화염술사	[!ObjectInfo]勺子教火焰术士
 #7344	[!ObjectInfo]스푼교 돌격병	[!ObjectInfo]勺子教突击兵
 #7345	[!ObjectInfo]전파 방해기	[!ObjectInfo]电波干扰器
-#7346	[!Office]발할라, 세계수 지구, 삐죽빼죽 거리 80 노릇노릇 통나무집 201호	[!Office]巴赫拉,世界树地区,参差街80焦黄圆木屋201号
+#7346	[!Office]발할라, 세계수 지구, 삐죽빼죽 거리 80 노릇노릇 통나무집 201호	[!Office]巴赫拉,世界树地区,参差街80号,焦黄木屋201室
 #7347	[!Office]은빛 구름 역 5분 거리<br>발할라 경찰청과 5분 거리<br>주인과 협의 후 창고 사용 가능	[!Office]离银彩站有5分钟距离<br>离巴赫拉警察厅有5分钟距离<br>使用仓库前需与主人协商
-#7348	[!Office]발할라, 바람장벽 지구, 은빛 구름 거리 356 실버라이닝 건물 102호	[!Office]巴赫拉,风之壁地区,银彩大街356沙佛莱宁楼102号
+#7348	[!Office]발할라, 바람장벽 지구, 은빛 구름 거리 356 실버라이닝 건물 102호	[!Office]巴赫拉,风之壁地区,银彩大街356号,沙佛莱宁酒吧102室
 #7349	[!Office]실버라이닝 102호	[!Office]沙佛莱宁102号
 #7351	[!Organization]스푼교	[!Organization]勺子教
 #7352	[!Rest]머리가 아플정도야...	[!Rest]头都痛了…
@@ -4754,7 +4754,7 @@
 #8497	[!Mastery]폭발하면 더 이상 멈출 수 없습니다.	[!Mastery]一旦爆炸,就不会停止的。
 #8498	[!Mastery]광란	[!Mastery]狂乱
 #8499	[!ObjectInfo]상인 피터	[!ObjectInfo]商人皮特
-#8500	[!Loading]잿빛 공원묘지	[!Loading]灰色公园墓地
+#8500	[!Loading]잿빛 공원묘지	[!Loading]灰港公墓
 #8501	[!Loading]오늘도 함께	[!Loading]今天也一起
 #8502	[!Suggestion]알버스가 하루 쉬자고 결정합니다.<br><br>[colour='FFFFFF00']알버스의 휴업 결정 시 알버스가 진행하는 시나리오 미션이 진행됩니다. 미리 장비를 점검하세요.	[!Suggestion]阿尔伯斯决定休息一天。<br><br>[colour='FFFFFF00']阿尔伯斯决定休业时，将会开启阿尔伯斯进行的剧情任务。请提前检查装备。
 #8503	[!Suggestion]1일 휴업	[!Suggestion]休业1天
@@ -5131,7 +5131,7 @@
 #8993	[!Troublebook]피리 부는 사나이	[!Troublebook]吹笛子的男人
 #8994	[!Troublebook]한산도 하역장	[!Troublebook]闲山岛装卸场
 #8995	[!Troublebook]달 밝은 밤에	[!Troublebook]月光如练的夜里
-#8996	[!Troublebook]잿빛 공원묘지	[!Troublebook]灰色公园墓地
+#8996	[!Troublebook]잿빛 공원묘지	[!Troublebook]灰港公墓
 #8997	[!Troublebook]오늘도 함께	[!Troublebook]今天也一起
 #8998	[!Troublebook]제 2 장. 균열의 시작	[!Troublebook]第二章。龟裂的开端
 #8999	[!Troublebook]잿빛 항구 A 선착장	[!Troublebook]灰港A码头
@@ -5252,7 +5252,7 @@
 #9144	[!Item]카라스연방의 주력 군이 사용하는 최신형 무기. 해당 무기가 보급된 지 1년이 체 지나지 않은 가장 수요가 많은 신상품이다.	[!Item]卡拉斯联邦主力军使用的最新型武器。这是普及还未满一年的需求量最大的新产品。
 #9146	[!Item]모험가들 사이에서 인기 있는 다양한 날씨와 환경에도 무리없는 내구성을 지닌 부츠.	[!Item]在冒险家之间享有高人气的，带有可应对多种天气和环境的耐久性靴子。
 #9147	[!Item]베기 공격을 자주 사용하는 검술사들을 위해 제작된 부츠.	[!Item]为了常用挥砍动作的剑术师而制出的靴子。
-#9148	[!Item]폭력 조직 까마귀 팀을 상징하는 까마귀가 그려진 부츠이다. 물리 피해에 대한 내구성이 매우 높은 부츠이다.	[!Item]带有暴力团伙乌鸦组的象征的乌鸦靴子。是一款对于物理伤害表现出良好耐久性的靴子。
+#9148	[!Item]폭력 조직 까마귀 팀을 상징하는 까마귀가 그려진 부츠이다. 물리 피해에 대한 내구성이 매우 높은 부츠이다.	[!Item]带有暴力团伙墨鸦组的象征的墨鸦靴子。是一款对于物理伤害表现出良好耐久性的靴子。
 #9149	[!Item]원정대 부츠	[!Item]远征队靴子
 #9150	[!Item]탐험가 부츠를 강화한 부츠. 더위와 혹한에 대한 저항력을 높인 부츠로 궂은 환경을 오랜 시간 견뎌내야 하는 원정대들에게 사랑받는 제품이다.	[!Item]探险家靴子的加强版。这款靴子提高了对炎热和恶寒的抗性，是一款深受长时间经历恶劣环境的远征队队员们喜爱的产品。
 #9151	[!Item]탐험가 부츠	[!Item]探险家靴子
@@ -5666,7 +5666,7 @@
 #9778	[!Mission]푸른안개 거리	[!Mission]蓝雾大街
 #9779	[!Mission]까마귀부리 정류장	[!Mission]墨鸦喙停车场
 #9780	[!Mission]반딧불 공원	[!Mission]萤火虫公园
-#9781	[!Mission]잿빛 공원묘지	[!Mission]灰色公园墓地
+#9781	[!Mission]잿빛 공원묘지	[!Mission]灰港公墓
 #9782	[!Mission]한산도 하역장	[!Mission]闲山岛装卸场
 #9783	[!Mission]한솔 거리	[!Mission]寒松大街
 #9784	[!Mission]잿빛 항구 A 선착장	[!Mission]灰港A码头
@@ -5797,7 +5797,7 @@
 #9938	[!Item]야샤 손목 보호대	[!Item]夜叉护腕
 #9939	[!Item]남청빛 야샤 손목 보호대	[!Item]藏蓝色夜叉护腕
 #9940	[!Item]자홍빛 야샤 손목 보호대	[!Item]紫红色夜叉护腕
-#9944	[!Loading]전사의 최후	[!Loading]战士的临终
+#9944	[!Loading]전사의 최후	[!Loading]战士之末
 #9945	[!Loading]침입자	[!Loading]入侵者
 #9947	[!Mastery]신경질쟁이	[!Mastery]坏脾气的人
 #9950	[!Mastery]야생의 분노	[!Mastery]野生之怒
@@ -10005,7 +10005,7 @@
 #16581	[!SystemMessage]%s<br>개인거래 요청이 도착했습니다.	[!SystemMessage]从%s<br>收到了物品交易申请。
 #16582	[!Job]춤꾼	[!Job]舞者
 #16584	[!KeyBinding]지역 이동 보기	[!KeyBinding]查看地区移动
-#16585	[!Loading]까마귀 폐허	[!Loading]乌鸦废墟
+#16585	[!Loading]까마귀 폐허	[!Loading]墨鸦废墟
 #16586	[!Loading]자홍거리 상점가	[!Site]紫红娱乐街
 #16587	[!LobbyMenu]야수 목록	[!LobbyMenu]野兽目录
 #16588	[!LobbyMenu]회사	[!LobbyMenu]公司
@@ -10018,12 +10018,12 @@
 #16595	[!LobbyMenu]의뢰 목록	[!LobbyMenu]委托列表
 #16596	[!LobbyMenu]사원 정보	[!LobbyMenu]员工列表
 #16597	[!LobbyMenu]지역 이동	[!LobbyMenu]地区移动
-#16598	[!Mission]까마귀 폐허	[!Mission]乌鸦废墟
+#16598	[!Mission]까마귀 폐허	[!Mission]墨鸦废墟
 #16599	[!ObjectInfo]에드워드	[!CivilRescueNameSet]爱德华
 #16600	[!ObjectInfo]페기	[!ObjectInfo]佩奇
 #16601	[!ObjectInfo]브라우닝	[!ObjectInfo]布朗尼
 #16602	[!ObjectInfo]로버트	[!CivilRescueNameSet]罗伯特
-#16606	[!Troublebook]까마귀 폐허	[!Troublebook]乌鸦废墟
+#16606	[!Troublebook]까마귀 폐허	[!Troublebook]墨鸦废墟
 #16608	[!BattleFormulaSharedCondition]엄폐	[!HitRateCondition]隐蔽
 #16609	[!Job]음유시인	[!Job]诗人
 #16611	[!Job]슈퍼스타	[!Job]超级明星
@@ -10040,7 +10040,7 @@
 #16631	[!OptionGameplay]과충전 어빌리티가 과충전 여부와 관계없이 항상 표기됩니다.	[!OptionGameplay]不管过充电与否都会一直显示技能
 #16632	[!Item]학살자 손도끼	[!Item]屠杀者的斧头
 #16633	[!Item]자홍빛 케이퍼 V8	[!Item]紫红色凯尔佛 V8
-#16634	[!Site]까마귀 폐허	[!Loading]乌鸦废墟
+#16634	[!Site]까마귀 폐허	[!Loading]墨鸦废墟
 #16635	[!Suggestion]헤이싱이 조퇴를 신청합니다.<br><br>[colour='FFFFFF00']헤이싱 제안 수락 시 헤이싱 혼자 진행하는 시나리오 미션이 진행됩니다. 미리 장비를 점검하세요.	[!Suggestion]黑星申请早退。<br><br>[colour='FFFFFF00']黑星接受提议后，将单独进行剧情任务。请提前检查装备。
 #16636	[!Troublebook]늑대와 사냥꾼	[!Troublebook]狼与猎人
 #16637	[!Troublebook]늙은 자가 바라는 것	[!Troublebook]老有所求
@@ -11266,10 +11266,10 @@
 #18154	[!Mastery]그들에게는 그저 먹잇감에 지나지 않는 것이지.	[!Mastery]对他们来讲也只不过是食物罢了。
 #18157	[!Mastery]나는 할 수 있다.	[!Mastery]我可以做到的
 #18158	[!Mastery]불가능은 누군가 해 내기 전까지의 순간의 상태를 말한다.	[!Mastery]不可能只是一种人们在做到之前的那一状态而已。
-#18164	[!Loading]까마귀폐허 도깨비굴	[!Loading]乌鸦废墟妖怪洞
-#18166	[!Mission]까마귀폐허 도깨비굴	[!Mission]乌鸦废墟妖怪洞
+#18164	[!Loading]까마귀폐허 도깨비굴	[!Loading]墨鸦废墟妖洞
+#18166	[!Mission]까마귀폐허 도깨비굴	[!Mission]墨鸦废墟妖洞
 #18167	[!ObjectInfo]보좌관	[!ObjectInfo]辅佐官
-#18168	[!Troublebook]까마귀폐허 도깨비굴	[!Troublebook]乌鸦废墟妖怪洞
+#18168	[!Troublebook]까마귀폐허 도깨비굴	[!Troublebook]墨鸦废墟妖洞
 #18169	[!Troublebook]무대의 뒷편	[!Troublebook]后台
 #18170	[!Troublebook]에드워드는 시장 칼을 설득하기 위해 집적 칼을 만난다. 	[!Troublebook]爱德华为了说服市长卡尔而亲自去见卡尔。
 #18171	[!GameSystemMessageFormat]스푼교도가 분노 상태가 되었습니다.	[!GameSystemMessageFormat]勺子教信徒进入愤怒状态。
@@ -11300,7 +11300,7 @@
 #18196	[!GuideMessage]$FieldEffectProb$ 확률로 해당 지형에 $FieldEffectName$[이] 발생합니다.	[!GuideMessage]有$FieldEffectProb$的几率在该地形上引发$FieldEffectName$。
 #18197	[!GuideMessage]최대 $FieldEffectMaxCount$칸까지 $FieldEffectName$[이] 발생합니다.	[!GuideMessage]最多在半径$FieldEffectMaxCount$格的地形上引发$FieldEffectName$。
 #18198	[!GuideMessage]$FieldEffectProb$ 확률로 최대 $FieldEffectMaxCount$칸까지 $FieldEffectName$[이] 발생합니다.	[!GuideMessage]最多再半径$FieldEffectMaxCount$格的地形上，以$FieldEffectProb$的几率引发$FieldEffectName$。
-#18199	[!Site]까마귀폐허 도깨비굴	[!Site]乌鸦废墟妖怪洞
+#18199	[!Site]까마귀폐허 도깨비굴	[!Site]墨鸦废墟妖洞
 #18200	[!Ability]서리폭풍각	[!Ability]雪霜风暴脚
 #18201	[!AbilityDirectingEvent]마무리 $Lv$	[!AbilityDirectingEvent]收尾$Lv$
 #18202	[!Buff]턴 시작 시, 해당 상태가 최대 레벨이면 해당 상태가 해제되고 $AddBuffName$ 상태가 됩니다.	[!Buff]回合开始时，若该状态达到最高等级，则该状态将会被解除并进入$AddBuffName$状态。
@@ -11316,7 +11316,7 @@
 #18215	[!GuideMessage]$BuffName$[이] $BuffLv$개 남았습니다.	[!GuideMessage]当前$BuffName$还剩$BuffLv$个。
 #18216	[!GuideMessage]$BuffName$[이] 모두 고갈되었습니다.	[!GuideMessage]$BuffName$已被消耗完。
 #18217	[!Job]음악가	[!Job]音乐家
-#18218	[!Loading]까마귀폐허 지하수로	[!Loading]乌鸦废墟地沟
+#18218	[!Loading]까마귀폐허 지하수로	[!Loading]墨鸦废墟地下水道
 #18219	[!Mastery]신기한 재주	[!Mastery]神奇的花招
 #18220	[!Mastery]인생이란 가까이서 보면 비극이고, 멀리서 보면 희극이다.	[!Mastery]人生近看是悲剧，远看是喜剧。
 #18222	[!Mastery]흥겨운 몸짓	[!Mastery]欢快的身姿
@@ -11386,7 +11386,7 @@
 #18322	[!Mastery]앙코르	[!Mastery]要求再演
 #18323	[!Mastery]공연이 끝나도 박수 소리는 멈추지 않는다.	[!Mastery]即使演出结束，掌声也不停止。
 #18325	[!MasteryType]음악가	[!MasteryType]音乐家
-#18326	[!Mission]까마귀폐허 지하수로	[!Mission]乌鸦废墟地沟
+#18326	[!Mission]까마귀폐허 지하수로	[!Mission]墨鸦废墟地下水道
 #18327	[!Performance]묘기	[!Performance]妙计
 #18328	[!Performance]춤	[!Performance]舞蹈
 #18329	[!PerformanceEffect]신기한 묘기	[!PerformanceEffect]神奇的妙技
@@ -11414,7 +11414,7 @@
 #18358	[!PerformanceGreat]두 개의 공연 효과가 교차 반복할 경우, 반경 $ApplyAmountValue$칸 내, 적은 다음 턴 대기 시간이 $ApplyAmountValue2$ 증가합니다.	[!PerformanceGreat]两个演出属性交替反复时，半径$ApplyAmountValue$格内敌人的回合冷却时间将增加$ApplyAmountValue2$。
 #18359	[!Status]공연 슬롯	[!Status]演出栏
 #18360	[!Status][!Short]공연 슬롯	[!Status]演出栏
-#18361	[!Troublebook]까마귀폐허 지하수로	[!Troublebook]乌鸦废墟地沟
+#18361	[!Troublebook]까마귀폐허 지하수로	[!Troublebook]墨鸦废墟地下水道
 #18362	[!WordCollection]공연 효과	[!WordCollection]演出效果
 #18363	[!Ability]쌍륜각	[!Ability]双轮脚
 #18364	[!Ability]서리반월각	[!Ability]雪霜半月脚
@@ -13109,7 +13109,7 @@
 #20569	[!CollectItemSet]해당 화물 근처에서 미술품 회수를 하면 미술품을 회수 할 수 있습니다.	[!CollectItemSet]在相关货物附近使用美术品回收既可回收。
 #20570	[!GameSystemMessageFormat]$Who$[가] 복구 프로세스를 가동하여 휴면 상태를 해제합니다.	[!GameSystemMessageFormat]$Who$启动了修复程序解除了休眠状态。
 #20571	[!Loading]외톨이 늑대	[!Mastery]孤狼
-#20572	[!Loading]까마귀폐허	[!Loading]乌鸦废墟
+#20572	[!Loading]까마귀폐허	[!Loading]墨鸦废墟
 #20573	[!Loading]잠들어 있는 불청객	[!Loading]休眠的的不速之客
 #20574	[!Loading]철의 숲 해체작업장	[!Loading]铁森林的拆解厂
 #20575	[!Mission]철의 숲 해체 작업장	[!Mission]铁森林的拆解厂

@@ -2791,7 +2791,7 @@
 #10278	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]여기 의뢰인들은?	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]这里的委托人呢?
 #10279	[!Sentence][!Dialog][!speaker:VHPDMale2_Normal]트러블슈터 알버스 님. 더 이상의 불량배들은 보이지 않습니다.	[!Sentence][!Dialog][!speaker:VHPDMale2_Normal]纷争终结者阿尔伯斯。已经看不到黑帮的身影了。
 #10283	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]아닙니다...	不怪她…
-#10284	[!Sentence][!Dialog][!speaker:Joel_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'] 현재 위치 은빛 구름거리 356. 델타 분대 현장 돌입합니다.	[!Sentence][!Subtitle][!speaker:Joel_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Radio']当前位置是银彩街356。三角洲分队进入现场。
+#10284	[!Sentence][!Dialog][!speaker:Joel_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'] 현재 위치 은빛 구름거리 356. 델타 분대 현장 돌입합니다.	[!Sentence][!Subtitle][!speaker:Joel_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Radio']当前位置是银彩街356号。三角洲分队进入现场。
 #10285	[!Sentence][!Dialog][!speaker:Don_Normal]알겠네. 하지만 그 정도 돈도 못 내서야 이 근처에서는 구하기 어려울 거야.	[!Sentence][!Dialog][!speaker:Don_Normal]知道了。但是出不起那个价钱的话，在这附近是不太好找地方的。
 #10286	[!Sentence][!Dialog]바람장벽 지구에 온 지 일주일... 거주지가 확정되고 정리된 알버스는 트러블슈터 사무실을 내기 위해 여기저기 돌아다녔다.	[!Sentence][!Dialog]来到风之壁地区已经过了一周…定好了住处的阿尔伯斯开始到处走走，去寻找适合纷争终结者办公室的地方。
 #10287	[!Sentence][!Dialog][!speaker:Civil_Man_Bare_Normal]브루스 씨 이거 거리 수리비 당신이 다 내야 해.	[!Sentence][!BalloonChat][!speaker:Civil04]布鲁斯,这次这条街上的维修费用都由你来掏吧。
@@ -3111,7 +3111,7 @@
 #10664	[!Sentence][!Dialog][!speaker:Albus_Serious]실망시켜 드리지 않겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]不会让你失望的。
 #10665	[!Sentence][!Dialog][!speaker:Don_Normal]어이. 어차피 이 녀석들 해결하면 네 실적이야.	喂。反正处理掉了这些家伙也都算作是你的实绩啊。
 #10666	[!Sentence][!Dialog][!speaker:Don_Serious]전파 방해기라도 설치했나 보군...	[!Sentence][!Dialog][!speaker:Don_Serious]看来是安装了电波干扰器了…
-#10667	[!Sentence][!Title]은빛 구름 거리 356	[!Sentence][!Title]银彩街356
+#10667	[!Sentence][!Title]은빛 구름 거리 356	[!Sentence][!Title]银彩街356号
 #10668	[!Sentence][!Title]실버라이닝	[!Sentence][!Title]沙佛莱宁
 #10669	[!Dialog][!speaker:VHPD_Issac_Normal]잘 지냈는가. 브루스.	[!Dialog][!speaker:VHPD_Issac_Normal]你过得怎样。布鲁斯。
 #10670	[!Dialog][!speaker:Don_Normal]경찰 경감이나 되시는 분이 이 시간에 내 가게에는 웬일인가?	[!Dialog][!speaker:Don_Normal]这个时候是什么风把警监大人吹到我的店里来啦?
@@ -3602,7 +3602,7 @@
 #11183	[!Sentence][!Dialog][!speaker:Anne_Cry]내가 지켜냈다면...	如果我能守护住的话…
 #11184	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]다시 연락해도 연락을 받지 않는 루나의 낯선 번호...	再也没有接到过露娜的陌生号码的来电…
 #11185	[!Sentence][!Dialog][!speaker:Luna_Normal]'람지플라자' 약속은 지키지 못할 것 같아. 미안해.	[!Sentence][!Dialog][!speaker:Luna_Normal]'蓝地广场'的约定我可能要失约了。对不起。
-#11186	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]사건이 종결되고 정신을 되찾은 알버스는 동료의 걱정을 뒤로하고 다시 한번 공원묘지를 찾았다.	[!Sentence][!Subtitle]事件结束,回过神来的阿尔伯斯将同伴们的担忧放在脑后,重新去往了墓地公园。
+#11186	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]사건이 종결되고 정신을 되찾은 알버스는 동료의 걱정을 뒤로하고 다시 한번 공원묘지를 찾았다.	[!Sentence][!Subtitle]事件结束,回过神来的阿尔伯斯将同伴们的担忧放在脑后,重新去往了公墓。
 #11187	[!Sentence][!Dialog][!speaker:Marco_Smile]뭐가 어찌 되었건 내가 네 보호자니까.	[!Sentence][!Dialog][!speaker:Marco_Smile]不管怎样,我是你的监护人啊。
 #11188	[!Sentence][!Dialog][!speaker:Luna_Normal]응...	[!Sentence][!Dialog][!speaker:Luna_Normal]嗯…
 #11189	[!Sentence][!Dialog][!speaker:Luna_Bored]앤이 원했던 건 널 돕는 거였어. 날 지키기 위해서...	[!Sentence][!Dialog][!speaker:Luna_Bored]安想要的是帮助你。为了保护我…
@@ -3610,12 +3610,12 @@
 #11191	[!Sentence][!Dialog][!speaker:Luna_Bored]알았어. 어차피 그만 만날 거야.	[!Sentence][!Dialog][!speaker:Luna_Bored]知道了。以后也不会再见了。
 #11192	[!Sentence][!Dialog][!speaker:Albus_Normal]당신이 무서워서가 아니라 결과적으로 당신이 나와 앤 양을 구해주셨기에 말하지 않겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]不是因为怕你,而是因为你最终是救了我和安小姐所以不会说出去的。
 #11193	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]앤 메이시는 정신이 들자마자 루나를 찾았으나...	[!Sentence][!Subtitle]安梅茜醒过来后就找露娜可是…
-#11194	[!Sentence][!Title]잿빛 공원묘지	[!Sentence][!Title]灰色公园墓地
+#11194	[!Sentence][!Title]잿빛 공원묘지	[!Sentence][!Title]灰港公墓
 #11195	[!Sentence][!Dialog][!speaker:Marco_Smile]하지만 평범한 여자아이 루나는 여기까지다.	[!Sentence][!Dialog][!speaker:Marco_Smile]但是平凡的小女孩露娜就到此为止了。
 #11196	[!Sentence][!Dialog][!speaker:Anne_Think]헤...	[!Sentence][!Dialog][!speaker:Anne_Think]嘿…
 #11197	[!Sentence][!Title]사건 종결 3일 뒤	[!Sentence][!Title]事件结束3天后
 #11198	[!Sentence][!Dialog][!speaker:Anne_Cry]내가 조금 더 강했더라면...	[!Sentence][!Dialog][!speaker:Anne_Cry]如果我要是再厉害点…
-#11199	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]사건이 종결된 이후 알버스는 다시 한번 공원묘지를 찾았다.	[!Sentence][!Subtitle]事件结束后阿尔伯斯重新来到了墓地公园。
+#11199	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]사건이 종결된 이후 알버스는 다시 한번 공원묘지를 찾았다.	[!Sentence][!Subtitle]事件结束后阿尔伯斯重新来到了公墓。
 #11200	[!Sentence][!Dialog][!speaker:EmptySubTitle_]최소한 루나를 호위하는 삼촌이나 경호원들...	[!Sentence][!Dialog]至少对于护卫着露娜的叔叔和那些警卫们…
 #11201	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]현장의 일에 대해선 대답을 회피하는 트러블슈터 오빠	[!Sentence][!Subtitle]对于现场的事情闪烁其词的纷争终结者哥哥
 #11202	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]루나의 마지막 눈빛...	[!Sentence][!Subtitle]露娜的最后的眼神…
@@ -3640,7 +3640,7 @@
 #11221	[!Sentence][!Dialog][!speaker:Anne_Sorrow]미안해. 루나. 내가 지켜내지 못했어.	[!Sentence][!Dialog][!speaker:Anne_Sorrow]对不起。露娜。我没能守住你。
 #11222	[!Sentence][!Dialog][!speaker:EmptySubTitle_]아니면... 루나...	[!Sentence][!Dialog]要么…露娜…
 #11223	[!Sentence][!Dialog][!speaker:Anne_Normal]잘 처리돼서 다행이다.	[!Sentence][!Dialog][!speaker:Anne_Normal]幸好能解决完毕。
-#11224	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]사건이 종결되고 알버스는 다시 한번 공원묘지를 찾았다.	[!Sentence][!Subtitle]事件结束后阿尔伯斯重新来到了墓地公园。
+#11224	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]사건이 종결되고 알버스는 다시 한번 공원묘지를 찾았다.	[!Sentence][!Subtitle]事件结束后阿尔伯斯重新来到了公墓。
 #11226	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Kaze_Normal]존 님이 아니었다면 우리는 이곳에 도착하지 못했지. 당연하지 않은가!	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Kaze_Normal]如果不是约翰大人,我们可到不了这里呢。不是应该的吗!
 #11227	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']민간인이 협조하는 것은 어디까지나 자신의 안전이 보장받을 수 있다는 믿음 때문이네. 그 신뢰를 지켜주게.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']市民提供协助是因为他们相信自己的安全可以得到应有的保障。不要辜负这份信任。
 #11228	[!Sentence][!BalloonChat][!speaker:Direct_Lee]지금이다. 빨리 도망가자.	[!Sentence][!BalloonChat][!speaker:Civil_Man_Lee_Normal]现在！快逃！
@@ -4037,7 +4037,7 @@
 #11749	[!Sentence][!Dialog][!speaker:Bianca_Stare]사실 생각해보면 어리석은 짓 맞았지.	[!Sentence][!Dialog][!speaker:Bianca_Stare]说实话回想起来确实做了傻事啊。
 #11750	[!Sentence][!Title]칠전팔기	[!Sentence][!Title]七倒八起
 #11751	[!Sentence][!Dialog][!speaker:VHPD_Scout_Normal]라자 하역장 출구를 봉쇄하였습니다. 제인 경감님.	[!Sentence][!Dialog][!speaker:VHPD_Scout_Normal]拉扎装卸场的出口已被封锁。珍警监。
-#11752	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]다들 '까마귀'의 대니 기억나나?	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]大家都记着'乌鸦'组的丹尼吗?
+#11752	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]다들 '까마귀'의 대니 기억나나?	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]大家都记着'墨鸦'组的丹尼吗?
 #11753	[!Sentence][!Dialog][!speaker:Bianca_Normal]아무리 할아버지가 아버지를 비난하고 욕하지만...	[!Sentence][!Dialog][!speaker:Bianca_Normal]就算爷爷怎么辱骂和挖苦父亲…
 #11754	[!Sentence][!Dialog][!speaker:Irene_Smile2]난 알버스 군의 결정에 따르겠네.	[!Sentence][!Dialog][!speaker:Irene_Smile2]我听从阿尔伯斯的决定。
 #11755	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]이 녀석 가면에 집착하던데... 혹시...	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]这家伙这么热衷于面具…难不成…
@@ -4701,7 +4701,7 @@
 #12537	[!Dialog][!speaker:Albus_Normal]다들 잘 지내시려나...	[!Dialog][!speaker:Albus_Normal]他们现在都还好吧…
 #12538	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']작업대를 통해 아이템의 '분해'와 '강화'를 진행하실 수 있습니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']可通过工作台进行物品的'分解'和'强化'。
 #12539	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']아이템의 '분해'를 통해 습득한 재료들은 다시 '강화'와 '제작'에 사용되며 분해되는 재료는 아이템의 등급, 요구 레벨, 옵션에 따라 종류와 수량이 달라집니다.	[padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']通过'分解'物品可以获得用于'强化'和'制作'的材料，获得的材料种类和数量是由物品等级、需求等级、选项等决定。
-#12542	[!Sentence][!Dialog][!speaker:Don_Serious]여긴 은빛 구름 거리 356. 다수 불량배들이 전파 방해기를 설치 후 폭력 사태를 벌이고 있습니다.	[!Sentence][!Dialog][!speaker:Don_Normal]这里是银彩街356。有大量黑帮分子安装了电波干扰器,然后开始引发暴动。
+#12542	[!Sentence][!Dialog][!speaker:Don_Serious]여긴 은빛 구름 거리 356. 다수 불량배들이 전파 방해기를 설치 후 폭력 사태를 벌이고 있습니다.	[!Sentence][!Dialog][!speaker:Don_Normal]这里是银彩街356号。有大量黑帮分子安装了电波干扰器,然后开始引发暴动。
 #12543	[!Sentence][!Dialog][!speaker:Bruna_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone'][colour='FFFFE959']  알겠습니다. 바로 출동하겠습니다. 신고하신 분의 신원을 남겨주십시오.	[!Sentence][!Dialog][!speaker:Bruna_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone'][colour='FFFFE959']  明白了。我们马上出发。请将报警人员的身份联系方式留一下吧。
 #12544	[!Sentence][!Dialog][!speaker:Bruna_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 알겠습니다. 가까운 분대 현장으로 출동합니다.	[!Sentence][!Dialog][!speaker:Bruna_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 明白了。就近的分队马上去往现场。
 #12545	[!Sentence][!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'] 불법 기기를 설치한 폭력배들이 다수 모여 있음. 지원 요청 바랍니다.	[!Sentence][!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'] 聚集着大量安装非法器械的暴力分子们。请求支援。
@@ -4710,7 +4710,7 @@
 #12548	[!Sentence][!Dialog][!speaker:Bruna_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone'][colour='FFFFE959']  네. 바람장벽 지구 발할라 경찰청입니다. 무슨 일이십니까?	[!Sentence][!Dialog][!speaker:Bruna_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone'][colour='FFFFE959']  是。这里是风之壁地区巴赫拉警察厅。有什么事吗?
 #12550	[!Sentence][!Dialog][!speaker:Albus_Normal]전 트러블슈터 알버스입니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]我是纷争终结者阿尔伯斯。
 #12552	[!Sentence][!Dialog][!speaker:Albus_Normal]불법 설치 철거 및 폭력 사태 진압을 위한 지원 병력을 요청합니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]为了拆除违建设施并镇压暴力事态请求支援。
-#12553	[!Sentence][!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'] 현재 위치 은빛 구름거리 356.	[!Sentence][!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'] 当前位置银彩街356。
+#12553	[!Sentence][!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'] 현재 위치 은빛 구름거리 356.	[!Sentence][!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'] 当前位置银彩街356号。
 #12554	[!Sentence][!Dialog][!speaker:Bruna_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone'][colour='FFFFE959']  트러블슈터 알버스 님. 지원 요청을 위한 신원 조회를 시행하겠습니다.	[!Sentence][!Dialog][!speaker:Bruna_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone'][colour='FFFFE959']  纷争终结者阿尔伯斯。为了支援请求,开始查找人员。
 #12556	[!Dialog][!speaker:Albus_Think]브루스 씨는 바 운영하면서 그런 걸 왜 가지고 계시는 거지...	[!Dialog][!speaker:Albus_Think]布鲁斯他运营酒吧为什么还会有那种东西呢…
 #12557	[!Dialog][!speaker:Albus_Normal]시온. 나갈까?	[!Dialog][!speaker:Albus_Normal]席翁。出去走走啊?
@@ -5673,7 +5673,7 @@
 #13816	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]세계 대전 이전 철의 숲 개발이 한창인 당시...	世界大战之前,铁森林的开发当时正在进行…
 #13818	[!Sentence][!Dialog][!speaker:EmptySubTitle_][colour='FFFFFF00'] 크르 크르 크르릉 카릉...	[!Sentence][!Dialog][colour='FFFFFF00']嗷呜嗷呜吼吼吼…
 #13819	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]10년 전, '성난 황소', '백호', '흑호'의 카르텔에 의하여 발할라 장벽 바깥으로 밀려났고...	十年前，由于'狂牛'、'白虎'、'黑虎'的联合垄断，被从风墙地区驱赶出去…
-#13820	[!Sentence][!Dialog]'잿빛공원묘지' 사건 이후, $CompanyName$, 그리고 자신의 포함한 구성원의 정보가 스푼교도에게 노출되어 있다는 것을 실감했었다.	'灰色公园墓地'事件之后，才意识到$CompanyName$和包括自身在内的所有成员们的信息已经暴露到了勺子教信徒那里。
+#13820	[!Sentence][!Dialog]'잿빛공원묘지' 사건 이후, $CompanyName$, 그리고 자신의 포함한 구성원의 정보가 스푼교도에게 노출되어 있다는 것을 실감했었다.	'灰港公墓'事件之后，才意识到$CompanyName$和包括自身在内的所有成员们的信息已经暴露到了勺子教信徒那里。
 #13821	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]복수에 불탄 성난 황소 조직원.	[!Sentence][!Subtitle]被复仇之焰灼烧的狂牛组的成员们。
 #13822	[!Sentence][!Dialog]경찰청에서 먼저 경찰력을 투입하여 현장 정보를 확인한 사건들이다.	警察厅会率先投入警力以了解现场情报的事件。
 #13824	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]그 이후 동방연합의 무기 상인들 밑에서 힘을 잃은 조직을 유지하며 복수의 칼날을 갈아왔다.	[!Sentence][!Subtitle]从那以后在东方联邦武器商手底下维持着失去力量的组织并卧薪尝胆。
@@ -5686,7 +5686,7 @@
 #13832	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]스푼교에 막대한 무기와 물자를 공급하는 대니 로.	给勺子教提供大量的武器和物资的丹尼罗。
 #13833	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]과거 철의 숲 개발이 한창이던 시절...	[!Sentence][!Subtitle]过去铁森林的开发如火如荼之时…
 #13834	[!Sentence][!Dialog]알버스는 그 이후 조금이라도 이상한 부분이 있는 것들에 조금 더 주의를 기울이려고 노력하고 있었다.	从此以后阿尔伯斯努力开始对任何细小的异常都保持警觉。
-#13836	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]바람장벽 지구 5대 범죄 조직 중 하나 '까마귀'의 보스.	[!Sentence][!Subtitle]风之壁地区五大犯罪团伙之一'乌鸦'组的首领。
+#13836	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]바람장벽 지구 5대 범죄 조직 중 하나 '까마귀'의 보스.	[!Sentence][!Subtitle]风之壁地区五大犯罪团伙之一'墨鸦'组的首领。
 #13837	[!Sentence][!Dialog]하지만 이번 사건은 전혀 현장 확인을 하지 않았음을 현장 출동 과정에서 알 수 있었다.	[!Sentence][!Dialog]但是本次事件是完全没做好现场确认，这一点在现场出动过程中就能明白。
 #13838	[!Sentence][!Dialog][!speaker:EmptySubTitle_]이날 푸의 선언은 오랫동안 참아온 '백호' 조직원들을 열광시킨다.	[!Sentence][!Dialog]这天普的宣言让压抑已久的'白虎'组的成员们发狂。
 #13839	[!Sentence][!Dialog][!speaker:EmptySubTitle_][colour='FFFFFF00']<br>현장을 이탈하는 캐릭터는 전투에 참여할 수 없으므로 주의하시길 바랍니다.	[!Sentence][!Dialog][colour='FFFFFF00']<br>请注意!离开现场的角色无法继续参与战斗。
@@ -8380,9 +8380,9 @@
 #16984	[!Sentence][!Dialog][!speaker:Albus_Normal]아닙니다. 지금은 포위망을 뚫는 것이 최우선입니다. 후위를 보조해 주세요.	不必了。现在最重要的突破包围圈。请后方支援火力。
 #16985	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]머트. 너만 믿는다.	麦德，我只信的过你。
 #16986	[!Sentence][!Dialog][!speaker:Irene_Serious]앤. 넌 내 뒤로 따라와.	[!Sentence][!Dialog][!speaker:Irene_Serious]安，跟我来吧。
-#16987	[!Sentence][!Dialog]잠을 설친 시민들은 분노에 차 까마귀들 울음소리가 들리는 곳을 바라본다.	没睡好觉地市民非常生气地向乌鸦聒噪的方向看去。
+#16987	[!Sentence][!Dialog]잠을 설친 시민들은 분노에 차 까마귀들 울음소리가 들리는 곳을 바라본다.	没睡好觉地市民非常生气地向墨鸦聒噪的方向看去。
 #16989	[!Sentence][!Dialog][!speaker:Sion_Stare]사장님. 같이 내려 갑시다.	[!Sentence][!Dialog][!speaker:Sion_Stare]老板，一起下去吧。
-#16990	[!Sentence][!Dialog]하늘 바람 공원 주민들은 하얗게 물든 공원 하늘에서 새벽부터 울어대는 까마귀 소리에 잠을 설친다.	天风公园的市民一大清早就被乌鸦的叫声吵醒。
+#16990	[!Sentence][!Dialog]하늘 바람 공원 주민들은 하얗게 물든 공원 하늘에서 새벽부터 울어대는 까마귀 소리에 잠을 설친다.	天风公园的市民一大清早就被墨鸦的叫声吵醒。
 #16991	[!Sentence][!Dialog][!speaker:Albus_Normal]어차피 나도 오래는 버티지 못해.	[!Sentence][!Dialog][!speaker:Albus_Normal]反正我也不能抗多久。
 #16992	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSniper_Mert_Normal]이렇게까지 하는 것은 10년 전 일 때문인가?	你计划到如此地步，是因为10年前的事?
 #16993	[!Sentence][!Dialog][!speaker:Albus_Normal]포위망이 뚫리는 것 같으면 바로 따라 붙을게.	[!Sentence][!Dialog][!speaker:Albus_Normal]只要包围圈通了，我就跟上你们。
@@ -10361,7 +10361,7 @@
 #19564	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]무슨 소리야?	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]你在说什么?
 #19565	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Black_Normal]기껏 여기까지 와 놓고 포기하다니 무슨 바보 같은 짓이야!	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Black_Normal]都到这里了才来放弃，那是多么愚蠢的啊！
 #19566	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Flame_Normal]이것이 과연 옳은 판단인가...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Flame_Normal]这果真是正确的判断吗...
-#19567	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]알버스 님! 도주하는 스푼교도들 다수가 장벽의 지하 수로로 진입한 것 같습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]阿尔伯斯！看起来逃亡的勺子教们多数都进入了墙壁地沟。
+#19567	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]알버스 님! 도주하는 스푼교도들 다수가 장벽의 지하 수로로 진입한 것 같습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]阿尔伯斯！看起来逃亡的勺子教们多数都进入了影壁地下水道。
 #19568	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]말은 바로 해.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]话要说清楚。
 #19569	[!Sentence][!Dialog][!speaker:Albus_Serious]그럼 바로 스푼교도들을 추적하겠습니다!	[!Sentence][!Dialog][!speaker:Albus_Serious]那么就立即开始追踪勺子教了！
 #19570	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]그들이 그 곳에 있지 않았다면 더 많은 동지들이 백호파 녀석들에게 사냥당했겠지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]如果不是他们在那里，更多的同志会被白虎派的家伙们猎杀。
@@ -10861,7 +10861,7 @@
 #20172	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]여기까지 온 녀석이 떼를 쓰다니...	来到这里来见我的家伙，竟然耍起赖了....
 #20173	[!Sentence][!Dialog][!speaker:Taesoo_Smile]상납금은 밀리지 마라.	[!Sentence][!Dialog][!speaker:Taesoo_Smile]别忘了上缴金。
 #20174	[!Sentence][!Dialog][!speaker:Robert_Normal]알겠습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]明白了。
-#20175	[!Sentence][!Title]까마귀 폐허	[!Sentence][!Title]乌鸦废墟
+#20175	[!Sentence][!Title]까마귀 폐허	[!Sentence][!Title]墨鸦废墟
 #20176	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]오늘은 자네의 무례를 용서하겠네.	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]今天就原谅你的无礼了。
 #20178	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]우리가『 앨리 』를 합병할 매력을 느끼게 해줬지.	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]给我们带来了与『 艾丽 』合并后的魅力。
 #20179	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]적어도 그런 자리라면 또 만나주지.	起码要有那样的价值，我才会再见你。
@@ -11147,9 +11147,9 @@
 #20502	[!Sentence][!Dialog][colour='FFFFFF00']마르코!!! 내 인형!!!	[!Sentence][!Dialog][colour='FFFFFF00']马尔科！！！我的人偶！！！
 #20503	[!Sentence][!Dialog][colour='FFFFFF00']마르코!!!	[!Sentence][!Dialog][colour='FFFFFF00']马尔科！！！
 #20504	[!Sentence][!Title]추억이 가시가 되어...	[!Sentence][!Title]回忆刺人...
-#20505	[!Sentence][!Title]6개월 전, 잿빛 공원묘지	[!Sentence][!Title]6个月前，灰色公园墓地
+#20505	[!Sentence][!Title]6개월 전, 잿빛 공원묘지	[!Sentence][!Title]6个月前，灰港公墓
 #20506	[!Sentence][!Title]아파도 아픈 줄 모르고...	[!Sentence][!Title]忘却疼痛...
-#20507	[!Sentence][!Title]잿빛 공원묘지 사건 다음날 새벽...	[!Sentence][!Title]灰色公园墓地事件的下一天凌晨...
+#20507	[!Sentence][!Title]잿빛 공원묘지 사건 다음날 새벽...	[!Sentence][!Title]灰港公墓事件的下一天凌晨...
 #20508	[!Sentence][!Dialog][colour='FFFF99FF']한동안 열심히 일처리 하길래 놔뒀더니...	[colour='FFFF99FF']此后努力工作了一段时间，所以就不追究了...
 #20509	[!Sentence][!Dialog][!speaker:Luna_Depressed]......열심히 했어.	......我努力工作了。
 #20510	[!Sentence][!Dialog][colour='FFFF99FF']후회할 거라 했지?	[!Sentence][!Dialog][colour='FFFF99FF']说过会后悔的吧？
@@ -11433,7 +11433,7 @@
 #20809	[!Sentence][!Dialog]『 트러블슈터 』	[!Sentence][!Dialog]『 纷争终结者 』
 #20810	[!Sentence][!Dialog]지금부터 내가 가야 할 길이다.	[!Sentence][!Dialog]这条路是现在的我该走的。
 #20811	[!Sentence][!Dashboard:ObjectiveMarker]아이린이 해당 지역으로 이동하면 유선 전화를 이용할 수 있습니다.	[!Sentence][!Dashboard:ObjectiveMarker]艾琳移动至该地区可以使用有线电话。
-#20812	[!Dialog]은빛 구름 거리 356	[!Sentence][!Title]银彩街356
+#20812	[!Dialog]은빛 구름 거리 356	[!Sentence][!Title]银彩街356号
 #20813	[!Dialog][!speaker:Don_Normal]여전히 퇴근이 늦구나.	[!Dialog][!speaker:Don_Normal]始终那么晚下班啊。
 #20814	[!Dialog][!speaker:Albus_Surprise]브루스 씨?	[!Dialog][!speaker:Albus_Surprise]布鲁斯？
 #20815	[!Dialog][!speaker:Albus_SurpriseStare]오늘은 이 시간까지 웬일이세요?	[!Dialog][!speaker:Albus_SurpriseStare]今天竟留到这个时候，是有什么事吗？
@@ -11582,7 +11582,7 @@
 #20959	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]자네가 나에게 찾아온 건 만용이었어.	你来找我，就是个愚蠢的选择。
 #20960	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]흑수저 샤키. 자네를 체포하겠네.	黑勺子沙基，要逮捕你了。
 #20961	[!Sentence][!Title]의심하는 자	[!Sentence][!Title]怀疑的人
-#20962	[!Sentence][!Title]도깨비굴 중앙 강당	[!Sentence][!Title]妖怪洞中央礼堂
+#20962	[!Sentence][!Title]도깨비굴 중앙 강당	[!Sentence][!Title]妖洞中央礼堂
 #20963	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]『 첫술 』의 동지들이 이어준 『 좌표 』를 통해 우리들이 이 자리에 모였습니다.	通过『 第一勺 』的同志们所连接的『 坐标 』，使得我们能够在这里聚会。
 #20964	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]그리고 이제 곧『 배부름의 땅 』으로 떠날 시간입니다.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]然后现在，将是我们前往『 饱餐之地 』的时间了。
 #20965	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]『 배부름의 땅 』갈 수는 있는 걸까...	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]『 饱餐之地 』...是真的可以去吗...
@@ -11603,7 +11603,7 @@
 #20981	[!Sentence][!Dialog][!speaker:Albus_Serious]알겠습니다. 그럼 한번 더 지하 벙커를 수색하도록 하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]知道了。那么就再次去地下地堡探索看看。
 #20982	[!Sentence][!Dialog][!speaker:Albus_Normal]이번에도 소득이 없으면 복귀하도록 하겠습니다!	[!Sentence][!Dialog][!speaker:Albus_Normal]如果这次也没有收获的话，就照常回归了！
 #20983	[!Sentence][!Title]그림자 연극	[!Sentence][!Title]影子戏
-#20984	[!Sentence][!Title]까마귀폐허 도깨비굴	[!Sentence][!Title]乌鸦废墟妖怪洞
+#20984	[!Sentence][!Title]까마귀폐허 도깨비굴	[!Sentence][!Title]墨鸦废墟妖洞
 #20985	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]제대로 찾아 왔네.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]找对地方了。
 #20986	[!Sentence][!Dialog][!speaker:Sion_Surprise]우와! 바로 위층까지만 해도 폐허였는데...	呜啊！这上面可还是废墟的呢....
 #20987	[!Sentence][!Dialog][!speaker:Anne_Surprise]폐허 아래 이런 곳이 있을 줄은 몰랐어요...	[!Sentence][!Dialog][!speaker:Anne_Surprise]没想到废墟的下面竟有这样的空间....
@@ -12019,7 +12019,7 @@
 #21425	[!Sentence][!Dialog][!speaker:Heissing_Smile]그래. 가족이지.	[!Sentence][!Dialog][!speaker:Heissing_Smile]是啊，是一家人。
 #21426	[!Sentence][!Dialog][!speaker:Leton_Smile]'가족인가...'	[!Sentence][!Dialog][!speaker:Leton_Smile]'是家族吗...'
 #21427	[!Sentence][!Title]얼음과 불	[!Sentence][!Title]火与冰
-#21428	[!Sentence][!Title]까마귀폐허 지하수로	[!Sentence][!Title]乌鸦废墟地沟
+#21428	[!Sentence][!Title]까마귀폐허 지하수로	[!Sentence][!Title]墨鸦废墟地下水道
 #21429	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Earth2_Normal]샤키님. 외람된 말씀입니다만...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Earth2_Normal]沙基大人，虽然是冒昧的话...
 #21430	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Earth2_Normal]내일이라도 당장 『 두술제 』를 열어 『 두술 』을 정하고 동지과 함께 『 배부름의 땅 』으로 나아가야 합니다.	哪怕是明天，也要马上举行『 第二勺祭 』来选择『 第二勺 』并与同志们一起前往『 饱腹之地 』。
 #21431	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun2_Normal]존 님이 이 곳에서 추적자들의 발을 묶고 있을 때가 기회입니다.	约翰大人在这里拖住追踪者的脚步，就趁这个机会吧。
@@ -13943,7 +13943,7 @@
 #23775	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]난 내 목적을 위해 이 자리에 있을 뿐...	我只是为了我的目的才获得这个身份...
 #23776	[!Sentence][!Title]마지막 인사	[!Sentence][!Title]最后的问候
 #23777	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_Normal]평소랑 조금 다르신데...	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_Normal]和平时的沙基大人气氛有点不同呢...
-#23779	[!Sentence][!Dialog] 철의 숲과 까마귀 폐허에 숨어있던 스푼교도들은 첫술의 동지들만 남긴 채 자취를 감추게 된다.	[!Sentence][!Dialog]那天以后，隐蔽在铁森林和乌鸦废墟的勺子教教徒们留下首勺的同志们后就销声匿迹了。
+#23779	[!Sentence][!Dialog] 철의 숲과 까마귀 폐허에 숨어있던 스푼교도들은 첫술의 동지들만 남긴 채 자취를 감추게 된다.	[!Sentence][!Dialog]那天以后，隐蔽在铁森林和墨鸦废墟的勺子教教徒们留下首勺的同志们后就销声匿迹了。
 #23780	[!Sentence][!Objective]폐기된 드론을 모두 파괴하시오.	[!Sentence][!VictoryCondition]破坏所有拆解厂的无人机。
 #23781	[!Sentence][!Dialog][!speaker:Drone_Rifle_Rust_Normal][colour='FFFF5943']『 경고: 외부 위협 접근 』	[!Sentence][!Dialog][!speaker:Machine_Bikron_Normal][colour='FFFF5943']『警告: 接近外部威胁』
 #23782	[!Sentence][!Dialog][!speaker:Drone_Rifle_Rust_Normal][colour='FFFF5943']『 안전을 확보하기 위하여 현장 이탈 시작하겠습니다. 』	[!Sentence][!Dialog][!speaker:Machine_Bikron_Normal][colour='FFFF5943']『 为确保安全，开始离开现场。』
@@ -15569,7 +15569,7 @@
 #25678	[!Dialog][!speaker:Giselle_Satisfying]탈진 상태니 조심해.	虚脱状态，要小心。
 #25679	[!Dialog]『 그래... 난... 분명... 』	[!Dialog]『 是啊...我...分明... 』
 #25680	[!Sentence][!Title]비는 눈물 따라 흐르고...	[!Sentence][!Title]雨滴随着泪水流淌...
-#25681	[!Sentence][!Title]하루 전, 까마귀 폐허	[!Sentence][!Title]一天前，乌鸦废墟
+#25681	[!Sentence][!Title]하루 전, 까마귀 폐허	[!Sentence][!Title]一天前，墨鸦废墟
 #25682	[!Sentence][!Dialog]헤이싱은 $CompanyName$의 활동에서 벗어나 홀로 카터를 추적한다.	[!Sentence][!Dialog]黑星离开了$CompanyName$，单独开始追寻卡特。
 #25683	[!Sentence][!Dialog]그리고 스푼교도들 사이에 섞여 카터를 찾은지 일주일...	[!Sentence][!Dialog]混在勺子教徒中寻找卡特已经过了一周...
 #25684	[!Sentence][!Dialog]스푼교도의 작은 집회에서 오랜 친구를 만날 수 있었다.	[!Sentence][!Dialog]在勺子教徒的小集会里见到了老朋友。
@@ -15597,7 +15597,7 @@
 #25706	[!Sentence][!Dialog][!speaker:Civil_Boy_Spoon2_Normal]샤키님 만세! 만세!	[!Sentence][!Dialog][!speaker:Civil_Boy_Spoon2_Normal]沙基大人万岁！万岁！
 #25707	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]그대들이 배불리 먹는 그날까지 자네들을 인도하겠소!	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]我会引导你们直到你们吃饱为止!
 #25708	[!Sentence][!Dialog][colour='FFFFFF00']『 우리는 모두 가슴에 숟가락 하나를 품고 있지!! 』	[!Sentence][!Dialog][colour='FFFFFF00']『 我们的心中都怀着一把勺子!! 』
-#25709	[!Sentence][!Dialog]번개 소리를 뚫고 스푼교도들의 외침이 까마귀 폐허에 울려 퍼졌다.	胜过闪电雷鸣的勺子教的呐喊声，在乌鸦废墟上响起。
+#25709	[!Sentence][!Dialog]번개 소리를 뚫고 스푼교도들의 외침이 까마귀 폐허에 울려 퍼졌다.	胜过闪电雷鸣的勺子教的呐喊声，在墨鸦废墟上响起。
 #25710	[!Sentence][!Dialog]갓 부모를 따라 입교한 어린 아이부터 오랜 시간 샤키를 따라 힘겨운 생활을 같이한 동지까지...	从刚刚跟随父母入教的孩子，到跟随沙基一起度过艰难生活的同志...
 #25711	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]이 여정의 끝에 우리는 더는 두려워하지 않을 것이고, 더는 불행하지 않을 것이라 선언하오.	这个旅程的最后，我们不会再感到恐惧，也不会再感到不幸。
 #25712	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]아직도 나에게 볼 일이 남았나...	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]还有事要见我吗...
