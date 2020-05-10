@@ -1572,7 +1572,7 @@
 #3591	[!Reputation]메트로디움	[!Reputation]梅特罗迪翁区
 #3593	[!Reputation]푸고 거리	[!Reputation]府谷街
 #3595	[!Reputation]자홍거리	[!Reputation]紫红街
-#3597	[!Reputation]화난 술통	[!Reputation]怒桶区
+#3597	[!Reputation]화난 술통	[!Reputation]醉火区
 #3599	[!Reputation]그늘 안개	[!Reputation]沉雾区
 #3601	[!Reputation]그림자 장벽	[!Reputation]影壁区
 #3603	[!Reputation]은빛 구름	[!Reputation]银彩区
@@ -1584,7 +1584,7 @@
 #3611	[!ReputationSectorType]특수 지구	[!ReputationSectorType]特别区
 #3612	[!Sector]아테르 제국	[!Sector]阿泰尔帝国
 #3613	[!Sector]카라스연방	[!Sector]卡拉斯联邦
-#3614	[!Sector]고난의 성채	[!Sector]苦难的城寨
+#3614	[!Sector]고난의 성채	[!Sector]苦难城寨
 #3615	[!Sector]발할라	[!Sector]巴赫拉
 #3616	[!Site]재의 강 하류	[!Site]烬夜江下游
 #3617	[!Site]가시나무 수용소	[!Site]荆棘树收容所
@@ -1617,10 +1617,10 @@
 #3648	[!Site]자홍 뒷거리	[!Site]紫红后巷
 #3649	[!Site]자홍거리 상점가	[!Site]紫红娱乐街
 #3650	[!Site]자홍거리	[!Site]紫红街
-#3651	[!Site]화난 술통 뒷거리	[!Site]怒桶后巷
-#3652	[!Site]화난 술통 중심가	[!Site]怒桶中央大街
-#3653	[!Site]화난 술통 상점가	[!Site]怒桶商店街
-#3654	[!Site]화난 술통 거리	[!Site]怒桶大街
+#3651	[!Site]화난 술통 뒷거리	[!Site]醉火后巷
+#3652	[!Site]화난 술통 중심가	[!Site]醉火中央大街
+#3653	[!Site]화난 술통 상점가	[!Site]醉火商店街
+#3654	[!Site]화난 술통 거리	[!Site]醉火大街
 #3656	[!Site]그늘 안개 거주구	[!Site]沉雾居民区
 #3657	[!Site]그늘 안개 슬럼가	[!Site]沉雾贫民区
 #3658	[!Site]그늘 안개 거리	[!Site]沉雾大街
@@ -5030,8 +5030,8 @@
 #8866	[!WordCollection]이름순	[!WordCollection]按名称排列
 #8867	[!WordCollection]비용 낮은 순	[!WordCollection]费用升序
 #8868	[!WordCollection]비용 높은 순	[!WordCollection]费用降序
-#8869	[!Mission]화난 술통 상점가 야외 주차장	[!ZoneEventGen]怒桶商店街野外停车场
-#8871	[!Loading]성난 술통 상점가	[!Loading]怒桶商店街
+#8869	[!Mission]화난 술통 상점가 야외 주차장	[!ZoneEventGen]醉火商店街野外停车场
+#8871	[!Loading]성난 술통 상점가	[!Loading]醉火商店街
 #8872	[!Loading]이 일만 끝나면...	[!Loading]只要这件事结束了…
 #8874	[!WordCollection]별점 높은 순	[!WordCollection]星点降序
 #8875	[!WordCollection]별점 낮은 순	[!WordCollection]星点升序
@@ -11169,7 +11169,7 @@
 #18035	[!LobbyIdleMessage][!speaker:Ray]카터는 다른 사람들에게 피해를 주면서까지 무엇을 하려는 걸까...	[!LobbyIdleMessage][!speaker:Ray]卡特给别人伤害到底是想要做什么呢...
 #18036	[!LobbyIdleMessage][!speaker:Ray]발할라는 위선적인 도시야...	[!LobbyIdleMessage][!speaker:Ray]巴赫拉是个充满伪善的城市...
 #18037	[!LobbyIdleMessage][!speaker:Ray]앨리를 떠나지 말았어야 했나...	[!LobbyIdleMessage][!speaker:Ray]是不应该离开艾丽的吗...
-#18038	[!LobbyIdleMessage][!speaker:Ray]헤이싱은 어떻게 고난의 성채를 빠져 나왔을까...	[!LobbyIdleMessage][!speaker:Ray]黑星到底是怎么离开苦难的城寨的...
+#18038	[!LobbyIdleMessage][!speaker:Ray]헤이싱은 어떻게 고난의 성채를 빠져 나왔을까...	[!LobbyIdleMessage][!speaker:Ray]黑星到底是怎么离开苦难城寨的...
 #18039	[!LobbyIdleMessage][!speaker:Ray]레톤은 카터를 말릴 생각이 없는 건가...	[!LobbyIdleMessage][!speaker:Ray]莱顿是没想去说服卡特的吗...
 #18040	[!LobbyIdleMessage][!speaker:Ray]타인에게 상처를 주면 결국 다치는 것은 자신일텐데...	[!LobbyIdleMessage][!speaker:Ray]伤害别人最终受伤的会是自己的...
 #18041	[!LobbyIdleMessage][!speaker:Ray]나는 언제나 지켜봐야만 하는 걸까...	[!LobbyIdleMessage][!speaker:Ray]我得一直盯着的吗...
@@ -11477,7 +11477,7 @@
 #18442	[!ObjectInfo]동네 아저씨	[!ObjectInfo]大叔
 #18443	[!PerformanceGreat]연속	[!PerformanceGreat]连续
 #18444	[!PerformanceGreat]모두 다른 공연 효과일 경우, 행동력을 $ApplyAmountValue2$개 회복합니다.	[!PerformanceGreat]都是不同的演出属性时，将恢复$ApplyAmountValue2$个行动力。
-#18445	[!PerformanceGreat]세 개의 공연 효과로 구성되어 처음과 끝이 같은 경우, 반경 $ApplyAmountValue$칸 내, 아군은 $ApplyBuffName$ 상태가 됩니다.	[!PerformanceGreat]含有三个相同的演出属性，并让头尾的演出属性相同时，半径$ApplyAmountValue$格内的队友将进入$ApplyBuffName$状态。
+#18445	[!PerformanceGreat]세 개의 공연 효과로 구성되어 처음과 끝이 같은 경우, 반경 $ApplyAmountValue$칸 내, 아군은 $ApplyBuffName$ 상태가 됩니다.	[!PerformanceGreat]含有3个不同的演出属性，并让头尾的演出属性相同时，半径$ApplyAmountValue$格内的队友将进入$ApplyBuffName$状态。
 #18446	[!Troublebook]불과 얼음	[!Troublebook]火与冰
 #18449	[!DirectDamageType]거대화	[!DirectDamageType]巨大化
 #18450	[!ObjectInfo]상인	[!Job]商人
@@ -12022,7 +12022,7 @@
 #19114	[!Help]$RaidMission$ 미션은 미션 내 존재하는 $RaidMissionTarget$를 처치할 때마다 $/$임무를 계속 이어갈 것인지$/$ 혹은 $/$물러날 것인지$/$를 선택할 수 있는 체포 미션입니다.<br><br>임무 도중 $/$귀환$/$을 선택하면 퇴각 준비를 위해 일정 시간을 생존해야 하며 귀환이 성공한 경우 승리합니다.<br><br>$Note$현재 자신의 팀의 상태를 확인하여 임무 속행 여부를 결정해주세요.	[!Help]$RaidMission$该类型任务中每击退$RaidMissionTarget$时会询问$/$是否继续任务$/$还是$/$结束任务$/$的逮捕类的任务。<br><br>任务进行过程中若选择了$/$返回$/$，则需要为了准备撤退而在一定时间内幸存下来，成功返回将被判定为胜利。<br><br>$Note$请确认自身队伍的状态，并决定是否继续任务吧。
 #19115	[!Help]$RaidMission2$ 미션은 미션 내 존재하는 $RaidMissionTarget2$를 처치하거나 $Word_PsionicStone$의 에너지를 추출하여 해당 지역 내 초과된 에너지를 해제하는 사냥 미션입니다. 해당 지역의 초과된 에너지를 해제하면 $/$임무를 계속 이어갈 것인지$/$ 혹은 $/$물러날 것인지$/$를 선택할 수 있습니다.<br><br>임무 도중 $/$귀환$/$을 선택하면 퇴각 준비를 위해 일정 시간을 생존해야 하며 귀환이 성공한 경우 승리합니다.<br><br>$Note$현재 자신의 팀의 상태를 확인하여 임무 속행 여부를 결정해주세요.	[!Help]$RaidMission2$该类型任务需处理任务中存在的$RaidMissionTarget2$同时可以提取$Word_PsionicStone$能量的任务。如果释放了该地区的多余能量，你可以选择是$/$继续任务$/$还是$/$结束任务$/$。<br><br>任务进行过程中选择了$/$返回$/$，则需要为了准备撤退而在一定时间内幸存下来，成功返回将被判定为胜利。<br><br>$Note$请确认自身队伍的状态，并决定是否继续任务吧。
 #19116	[!Help]인간인 유닛은 임무 시작 전 의욕 상태가 $Percent$ 이하일 시 $Buff_Fatigue$ 상태가 됩니다.	[!Help]人类单位在任务开始前意志状态为$Percent$以下时，将进入$Buff_Fatigue$状态。
-#19121	[!Help]고난의 성채	[!Sector]苦难的城寨
+#19121	[!Help]고난의 성채	[!Sector]苦难城寨
 #19123	[!HelpCategory]백과사전	[!HelpCategory]百科全书
 #19124	[!HelpKeyword]치안 확보	[!HelpKeyword]确保治安
 #19125	[!HelpKeyword]보스 몬스터	[!HelpKeyword]首领怪
@@ -12037,7 +12037,7 @@
 #19134	[!HelpSubCategory]국가	[!WorldScaleInfo][!地区标志]国家
 #19137	[!PcState]정상 작동 가능한 상태입니다.	[!PcState]正常运转状态。
 #19138	[!Sector]역사	[!Sector]历史
-#19139	[!Sector]원래 이 지역은 3대 열강의 국경이 접하는 지역으로 세계 대전 이전까지는 아테르 제국이 실효 지배를 하고 있었으며 고난의 성채와 가까운 위치로 무력 충돌이 빈번한 지역이었다. 세계 대전 발발 후 강대국이 차례로 해당 지역을 점거하는 혼전의 상태를 겪었다. <br><br>종전 후, 세계 대전으로 급랭한 세계 경제를 빠르게 회복하기 위해 3국의 수뇌부들은 자국의 정치 상황에 휘둘리지 않는 중립적인 경제적 완충 지역을 원했다. 그 결과 AE 782년, 세계 3대 열강인 아테르 제국, 카라스 연방, 동방 연합의 발할라 조약의 승인으로 자유 무역 도시국가 발할라가 탄생한다.	[!Sector]原本该地区是三大列强接壤的国境交界处，世界大战前由阿泰尔帝国实际控制着，因靠近苦难的城寨而导致武装冲突频繁。世界大战爆发后，各强国依次占领该地区因此最终陷入混战状态。<br><br>战后，为了迅速恢复因世界大战而急剧下降的世界经济，三国领导都希望有一个不受本国政治局势干扰的中立的经济缓冲区。最终，在AE782年，世界三大列强的阿泰尔帝国、卡拉斯联邦和东方联盟所共同签署的巴赫拉条约的批准下，自由贸易国家巴赫拉由此诞生。
+#19139	[!Sector]원래 이 지역은 3대 열강의 국경이 접하는 지역으로 세계 대전 이전까지는 아테르 제국이 실효 지배를 하고 있었으며 고난의 성채와 가까운 위치로 무력 충돌이 빈번한 지역이었다. 세계 대전 발발 후 강대국이 차례로 해당 지역을 점거하는 혼전의 상태를 겪었다. <br><br>종전 후, 세계 대전으로 급랭한 세계 경제를 빠르게 회복하기 위해 3국의 수뇌부들은 자국의 정치 상황에 휘둘리지 않는 중립적인 경제적 완충 지역을 원했다. 그 결과 AE 782년, 세계 3대 열강인 아테르 제국, 카라스 연방, 동방 연합의 발할라 조약의 승인으로 자유 무역 도시국가 발할라가 탄생한다.	[!Sector]原本该地区是三大列强接壤的国境交界处，世界大战前由阿泰尔帝国实际控制着，因靠近苦难城寨而导致武装冲突频繁。世界大战爆发后，各强国依次占领该地区因此最终陷入混战状态。<br><br>战后，为了迅速恢复因世界大战而急剧下降的世界经济，三国领导都希望有一个不受本国政治局势干扰的中立的经济缓冲区。最终，在AE782年，世界三大列强的阿泰尔帝国、卡拉斯联邦和东方联盟所共同签署的巴赫拉条约的批准下，自由贸易国家巴赫拉由此诞生。
 #19140	[!Sector]인구	[!Sector]人口
 #19141	[!Sector]발할라의 인구의 구성은 발할라 건국과 함께 전세계에서 이주해 온 이주민이 90%를 차지하는 다민족 국가이다.	[!Sector]巴赫拉的人口构成是从巴赫拉建国开始持续地从世界各地移居过来的移民占90%的多民族国家。
 #19142	[!Sector]행정 구역	[!Sector]行政区域
