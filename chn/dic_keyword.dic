@@ -670,8 +670,8 @@
 #1515	[!Mastery]불꽃 충돌	[!Mastery]火花冲突
 #1521	[!Mastery]기선 제압	[!Mastery]先发制人
 #1523	[!Mastery]서리검	[!Mastery]冰霜剑
-#1526	[!Mastery]얼어붙은 심장	[!Mastery]冻结的心脏
-#1529	[!Mastery]얼어붙은 낫	[!Mastery]冻结的镰刀
+#1526	[!Mastery]얼어붙은 심장	[!Mastery]冻结之心
+#1529	[!Mastery]얼어붙은 낫	[!Mastery]冻结之镰
 #1531	[!Mastery]얼어붙은 손길	[!Mastery]冻结之手
 #1534	[!Mastery]거인사냥꾼	[!Mastery]巨人狩猎者
 #1537	[!Mastery]법의 수호자	[!Mastery]法律守护者
@@ -7228,7 +7228,7 @@
 #12099	[!Mastery]평생 같이 지내자.	[!Mastery]一辈子要在一起哟。
 #12100	[!Mastery]야수 친구	[!Mastery]野兽之友
 #12102	[!Mastery]넌 할 수 있어.	[!Mastery]你能行的。
-#12103	[!Mastery]야수 훈련	[!Mastery]野兽训练
+#12103	[!Mastery]야수 훈련	[!Mastery]驯兽师
 #12105	[!Mastery]숨는 것이 아니라 발견하지 못하게 하는 것 이지.	[!Mastery]不是藏得好，而是不让对方发现。
 #12106	[!Mastery]위장	[!Mastery]伪装
 #12108	[!Mastery]모든 도구는 사용하는 사람에 따라 전혀 다르게 작동하지.	[!Mastery]所有的工具会根据使用者不同而出现不同的效果。
@@ -8171,9 +8171,9 @@
 #13980	[!Loading]철의 숲 오염지	[!Loading]铁森林污染的地点
 #13981	[!Loading]괴수와 사냥꾼	[!Loading]怪兽和猎人
 #13983	[!Mastery]얌전히 있으렴! 그래야 우리가 같이 있을 수 있단다.	[!Mastery]待着别动!那样我们才可以在一起。
-#13984	[!Mastery]야수 조련사	[!Mastery]野兽训练师
+#13984	[!Mastery]야수 조련사	[!Mastery]野兽饲育师
 #13988	[!Mastery]너 하나만을 위해 내가 얼마나 노력했는지 알아!	[!Mastery]为了你一个，我做了多少努力你知道吗!
-#13989	[!Mastery]괴수 조련사	[!Mastery]怪兽训练师
+#13989	[!Mastery]괴수 조련사	[!Mastery]驯兽宗师
 #13990	[!Mastery]신록	[!Mastery]葱绿
 #13992	[!Mastery]나보다 강한 자에게 굴하지 않는다.	[!Mastery]我不会屈服于强者。
 #13993	[!Mastery]저항 의지	[!Mastery]反抗意志
@@ -9691,7 +9691,7 @@
 #16161	[!Loading]푸른 안개 G 물류센터	[!Loading]蓝雾-G物流中心
 #16164	[!Mastery]작은 움직임도 놓치지 않는다.	[!Mastery]一丝不苟
 #16165	[!Mastery]자동 제압 사격	[!Mastery]自动压制射击
-#16168	[!Mastery]괴수 길들이기	[!Mastery]驯服怪兽
+#16168	[!Mastery]괴수 길들이기	[!Mastery]驯兽大师
 #16172	[!NamedEvent]물류 감독	[!NamedEvent]物流监督
 #16173	[!ObjectInfo]방어 드론	[!ObjectInfo]防御无人机
 #16174	[!ObjectInfo]불꽃 드론	[!ObjectInfo]火花无人机
@@ -9886,7 +9886,7 @@
 #16408	[!NamedEvent]절망의 레드 아이	[!NamedEvent]绝望的红眼
 #16409	[!NamedEvent]죽음을 마주하는 것은 언제나 즐겁군.	[!NamedEvent]面对死亡总是很快乐。
 #16410	[!NamedEvent]자네가 이번 사냥감인가?	[!NamedEvent]你就是这次的猎物？
-#16411	[!NamedEvent]괴수 살해의 제프	[!NamedEvent]杀害怪兽的杰夫
+#16411	[!NamedEvent]괴수 살해의 제프	[!NamedEvent]怪物猎杀者杰夫
 #16412	[!NamedEvent]괴수 사냥꾼	[!NamedEvent]怪兽猎人
 #16413	[!AbilityDirectingEvent]야수 호출	[!AbilityDirectingEvent]呼唤野兽
 #16414	[!Buff]해킹될 확률이 $ApplyAmountValue$ 감소합니다.	[!Mastery]被黑客骇入的几率将减少$ApplyAmountValue$。

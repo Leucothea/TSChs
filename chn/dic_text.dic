@@ -10300,7 +10300,7 @@
 #19493	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]보안 등급으로 인해 해당 관련 사건은 『 미스릴 』등급 이상의 트러블슈터...	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]因安全等级相关事件就归为『 秘银 』等级以上的纷争终结者...
 #19494	[!Sentence][!Title]물류 센터 창고 1번 라인	[!Sentence][!Title]物流中心仓库一号输送带
 #19495	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]그리고 입구와 마찬가지로 문이 물류 하차장 옆에 있지만 입구보다는 엄폐물이 적어 적에게 노출될 확률이 높아.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]另外与入口相同，物流卸载站旁边也有大门，只不过掩蔽物要比入口少，很容易在敌人面前暴露自己。
-#19496	[!Sentence][!Choice]주차장 후문	[!Sentence][!Choice]下停车场后门
+#19496	[!Sentence][!Choice]주차장 후문	[!Sentence][!Choice]停车场后门
 #19497	[!Sentence][!Dialog][!speaker:Gangster_Brad_Normal]'이 녀석까지 사용할 줄이야...'	[!Sentence][!Dialog][!speaker:Gangster_Brad_Normal]'连它都派上场了...'
 #19498	[!Sentence][!Dialog][!speaker:Gangster_SmugglerFat_Hans_Normal]어디 한 곳이라도 포위망이 느슨한 곳을 찾아봐!	[!Sentence][!Dialog][!speaker:Gangster_SmugglerFat_Hans_Normal]寻找一个有漏洞的地方！
 #19499	[!Sentence][!Objective]물류 센터의 밀수꾼들을 소탕하시오.	[!Sentence][!Objective]请扫荡物流中心的走私犯。
@@ -10315,7 +10315,7 @@
 #19508	[!Sentence][!Title]물류 센터 출구	[!Sentence][!Title]物流中心出口
 #19509	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]그럼 잘 부탁하네. $CompanyName$.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]那就拜托了。$CompanyName$.
 #19510	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]언덕 아래 퇴각로는 모두 봉쇄했다. $CompanyName$	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]坡下的退路都已封锁了。$CompanyName$
-#19511	[!Sentence][!Title]주차장 후문	[!Sentence][!Title]下停车场后门
+#19511	[!Sentence][!Title]주차장 후문	[!Sentence][!Title]停车场后门
 #19512	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]물류 센터 출구는 입구와 마주보고 있지.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]物流中心出口正对着入口。
 #19513	[!Sentence][!Dialog][!speaker:Gangster_Ivan_Normal]이 녀석들은 어차피 버려야 할 물건이다.	[!Sentence][!Dialog][!speaker:Gangster_Ivan_Normal]反正这些东西早晚都要扔掉的。
 #19514	[!Sentence][!Title]라이트닝크론	[!Sentence][!Title]闪电拜克伦
