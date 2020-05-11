@@ -605,7 +605,7 @@
 #1323	[!Mastery]풍요	[!Mastery]丰饶
 #1325	[!Mastery]예리함	[!Mastery]锐利
 #1328	[!Mastery]호전성	[!Mastery]好战性
-#1330	[!Mastery]날렵함	[!Mastery]敏捷
+#1330	[!Mastery]날렵함	[!Mastery]敏捷身手
 #1333	[!Mastery]알리바바	[!Mastery]阿里巴巴
 #1336	[!Mastery]기습	[!Mastery]奇袭
 #1339	[!Mastery]성난 황소	[!Mastery]愤怒的狂牛
@@ -753,7 +753,7 @@
 #1752	[!Mastery]번영	[!Mastery]繁荣
 #1757	[!Mastery]방화광	[!Mastery]纵火狂
 #1759	[!Mastery]사나운 불꽃	[!Mastery]凶猛的火花
-#1762	[!Mastery]신속한 대응	[!Mastery]迅速的应对
+#1762	[!Mastery]신속한 대응	[!Mastery]反应迅速
 #1764	[!Mastery]은둔자	[!Mastery]隐居者
 #1767	[!Mastery]분쇄	[!Mastery]粉碎
 #1772	[!Mastery]울부짖는 불길	[!Mastery]咆哮的火光
@@ -2769,7 +2769,7 @@
 #5433	[!GuideMessage][colour='FFFFE959']트러블슈터 활동에 대한 추가 보상으로 %s 특성을 수령하였습니다.	[!GuideMessage][colour='FFFFE959']获得纷争终结者活动的附加奖励%s天赋。
 #5434	[!GuideMessage][colour='FFFFE959']%s 지역이 관할 구역이 되었습니다.	[!GuideMessage][colour='FFFFE959']%s地区划入管辖区。
 #5436	[!GuideMessage][colour='FFFFE959']아이템 판매로 %s Vill을 획득하였습니다.	[!GuideMessage][colour='FFFFE959']出售物品获得%sVill。
-#5437	[!GuideMessage][colour='FFFFE959']사건을 해결하기 위해 출동합니다.	[!GuideMessage][colour='FFFFE959']出发去处理事件。
+#5437	[!GuideMessage][colour='FFFFE959']사건을 해결하기 위해 출동합니다.	[!GuideMessage][colour='FFFFE959']事件开始。
 #5438	[!Item]검은 강철	[!Item]黑色钢铁
 #5439	[!Item]검은 강철 파편	[!Item]黑色钢铁碎片
 #5527	[!OptionGameplay]턴 순서 항상 표시	[!OptionGameplay]总是显示回合顺序
@@ -6785,7 +6785,7 @@
 #11506	[!Mastery]흔들어! 흔들어!	[!Mastery]摇摆! 摇摆!
 #11508	[!Mastery]충격파	[!Mastery]冲击波
 #11509	[!Mastery]이것저것 하다 보면 다 웬만큼 할 줄 알게 돼	[!Mastery]多尝试就能知道个大概
-#11510	[!Mastery]능숙한 지원	[!Mastery]娴熟的支援
+#11510	[!Mastery]능숙한 지원	[!Mastery]专业支援
 #11515	[!Status]투척 공격 치명타 적중률	[!Status]投掷攻击暴击率
 #11516	[!Status][!Short]투척 공격 치명타 적중률	[!Status][!Short]投掷攻击暴击率
 #11517	[!Status]투척 공격 치명타 피해량	[!Status]投掷攻击暴击伤害
@@ -7313,7 +7313,7 @@
 #12210	[!Mastery]꿈은 이루어진다.	[!Mastery]梦想成真。
 #12213	[!ObjectInfo]모험가 도로리	[!ObjectInfo]冒险家多罗利
 #12214	[!Mastery]이해할 수 없습니다.	[!Mastery]我无法理解的。
-#12215	[!Mastery]냉정한 거절	[!Mastery]冷漠的拒绝
+#12215	[!Mastery]냉정한 거절	[!Mastery]冷酷拒绝
 #12217	[!Mastery]포기하지 않는 자들이 기적을 만들 때 우리는 그들을 히어로라고 말한다.	[!Mastery]不抛弃不放弃的人们制造出的奇迹时，我们就叫他们为英雄。
 #12218	[!Mastery]히어로는 포기하지 않는다.	[!Mastery]英雄永不言弃
 #12220	[!Mastery]모든 이의 아픔을 짊어지는 자를 우리는 히어로라고 말한다.	[!Mastery]背负起所有人的痛楚的人，我们称之为英雄。
@@ -8779,7 +8779,7 @@
 #14865	[!ObjectInfo]버려진 소방 드론	[!ObjectInfo]被遗弃的消防无人机
 #14866	[!ObjectInfo]이반	[!ObjectInfo]伊凡
 #14867	[!ObjectInfo]한스	[!ObjectInfo]汉斯
-#14868	[!ObjectInfo]스푼교 섬광술사	[!ObjectInfo]勺子教闪电术师
+#14868	[!ObjectInfo]스푼교 섬광술사	[!ObjectInfo]勺子教疾电术士
 #14869	[!OptionVideo]최대 FPS 제한 수치	[!OptionVideo]最大FPS上限
 #14870	[!RepairTimeCondition]기본 대기 시간	[!RepairTimeCondition]基本待机时间
 #14872	[!Loading]밟히는 꼬리	[!Loading]被抓到的线索
@@ -9911,7 +9911,7 @@
 #16444	[!Mission]메트로디움 거주구	[!Site]梅特罗迪翁居民区
 #16445	[!Mission]그림자 장벽 지하수로	[!Mission]影壁地下水道
 #16446	[!ObjectInfo]거미줄 드론	[!ObjectInfo]蛛网无人机
-#16447	[!ObjectInfo]스푼교 폭풍술사	[!ObjectInfo]勺子教暴风术师
+#16447	[!ObjectInfo]스푼교 폭풍술사	[!ObjectInfo]勺子教飓风术士
 #16450	[!Ability]제어권 해제	[!Ability]控制权解除
 #16451	[!Buff]모든 피해량에 대해 자신의 최대 체력보다 낮으면 피해를 입지 않습니다. 해당 상태가 해제되면 $Dead$이 됩니다.<br><br>$AddBuffName$$Perano$ 상태에 면역이 됩니다.	[!Buff]所有的伤害量比自己的最大体力值小的话不会受到伤害。该状态被解除时会$Dead$。<br><br>免疫$AddBuffName$$Perano$。
 #16452	[!ChatSubCategory]제작 방법 획득	[!ChatSubCategory]制作方法获得
