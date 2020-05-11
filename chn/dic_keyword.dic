@@ -8724,13 +8724,13 @@
 #14780	[!WordCollection]지원 보상 아이템	[!WordCollection]支援奖励物品
 #14781	[!WordCollection]트러블슈터 활동 평가 보상 내역	[!WordCollection]纷争终结者的活动评价奖励内容
 #14782	[!WordCollection]지원 보상금	[!WordCollection]支援奖励金
-#14784	[!Loading]먼지바람 고속도로 휴게소	[!Mission]]沙暴高速路休息站
+#14784	[!Loading]먼지바람 고속도로 휴게소	[!Mission]沙暴高速路休息站
 #14785	[!Loading]같이 걸어가기	[!Loading]一起向前走
 #14786	[!ObjectInfo]소형 바이크론	[!ObjectInfo]小型拜克伦
-#14787	[!Site]먼지바람 고속도로 휴게소	[!Mission]]沙暴高速路休息站
+#14787	[!Site]먼지바람 고속도로 휴게소	[!Mission]沙暴高速路休息站
 #14788	[!Troublebook]카터와 레톤이 바람장벽 지구로 넘어와 10개월. 레톤은 카터의 계획을 끝까지 따라가기로 한다.	[!Troublebook]卡特和莱顿来到风之壁地区已经10个月了。莱顿决定跟随着卡特的计划到底。
 #14789	[!Troublebook]비가 오는 날이면...	[!Troublebook]一到下雨天...
-#14790	[!Troublebook]먼지바람 고속도로 휴게소	[!Mission]]沙暴高速路休息站
+#14790	[!Troublebook]먼지바람 고속도로 휴게소	[!Mission]沙暴高速路休息站
 #14791	[!Troublebook]같이 걸어가기	[!Troublebook]一起向前走
 #14793	[!Ability]일반 추출보다 100% 높은 효율로 대상의 에너지를 추출합니다.	[!Ability]以比一般提取高出100%的效率提取目标的能源。
 #14794	[!Ability]순도 높은 에너지 추출	[!Ability]高纯度的能量提取
@@ -12187,7 +12187,7 @@
 #19294	[!Item]연사 속도에 최대한 중점을 둔 드레이크 시리즈의 경량화 브랜드.	[!Item]以连射速度为中心的德雷克系列轻量化品牌。
 #19295	[!Item]베이비 A의 연사 공격 시, 반동을 최대한 줄여 재연사 시 부담을 줄였다.	[!Item]减少[ 倍比 A ]连射时的反冲力。
 #19296	[!Item]베이비 A - 100의 부족한 살상력을 보강한 기관권총.	[!Item]强化[ 倍比 A-100] 所不足的杀伤力的冲锋枪。
-#19297	[!Item]기관권총 RMS - 233	[!Item]]冲锋枪 RMS-233
+#19297	[!Item]기관권총 RMS - 233	[!Item]冲锋枪 RMS-233
 #19298	[!Item]동방연합의 RM 모델을 이어 군에 납품되고 있는 신형 총기 브랜드.	[!Item]东方联盟新一代RM型号新型枪支品牌。
 #19299	[!Item]기관권총 RMS - 233 A	[!Item]冲锋枪 RMS-233 A
 #19300	[!Item]RMS - 233 제작 라인에서 성능이 우수한 기관권총. 최근 밀수업자들에 의해 발할라에 유통되기 시작했다.	[!Item]RMS - 233生产线上筛选出来的冲锋枪。最近走私分子开始在巴赫拉流通。
@@ -13026,7 +13026,7 @@
 #20465	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Glacier)$의 온전한 얼음 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求从铁森林栖息的$Monster(Beast_Tima_Glacier)$身上采取完整的寒冰甲。
 #20466	[!Site]은빛 구름 지하주차장	[!Site]银彩地下停车场
 #20467	[!Ability]바람의 힘을 이용해 원하는 지점으로 빠르게 이동합니다.	[!Ability]利用风之力迅速移动到目标地点。
-#20468	[!Ability]번개가 되어 원하는 지점으로 순간 이동합니다.	[!Ability]]化作闪电瞬间移动至想要去的地点。
+#20468	[!Ability]번개가 되어 원하는 지점으로 순간 이동합니다.	[!Ability]化作闪电瞬间移动至想要去的地点。
 #20469	[!Ability]다리에 힘을 집중하여 순간적으로 목표 지점까지 빠른 이동을 합니다. 이동 시 비전투 상태 적의 대기, 순찰, 감시 등의 상태의 적에게 발각되어도 적은 회피 이동을 할 수 없습니다.	[!Ability]汇聚风的力量,瞬间快速移动到目标地点。移动过程中，就算被等待、巡逻、监视状态中的非战斗状态敌人发现，对方也不能进行闪避移动。
 #20470	[!Ability]원하는 지점으로 덤블링하여 이동합니다.	[!Ability]空翻移动至想要去的地点。
 #20471	[!Ability]드론의 힘을 이용해 원하는 지점으로 빠르게 이동합니다.	[!Ability]利用无人机来快速移动到想要的位置。
@@ -13086,13 +13086,13 @@
 #20542	[!ObjectInfo]마일즈	[!ObjectInfo]迈尔斯
 #20543	[!OptionGraphics]눈 눈부심 방지	[!OptionGraphics]防止眩目
 #20544	[!OptionGraphics]눈 맵의 눈부심을 방지하기 위해서 라이팅 효과를 조정합니다.	[!OptionGraphics]为了防止视网膜的眩光而调整照明效果。
-#20546	[!Quest]$TargetItem$[를] 확보하시오.	[!Quest]确保$TargetItem$。
+#20546	[!Quest]$TargetItem$[를] 확보하시오.	[!Quest]收集 - $TargetItem$
 #20547	[!Quest]추억의 회중시계	[!Quest]记忆中的怀表
 #20548	[!Quest]사라진 시곗줄	[!Quest]消失的表带
 #20549	[!Quest]위기의 미술품	[!Quest]处在危机的美术品
-#20550	[!Quest]미술품을 회수하시오.	[!Quest]回收美术品。
+#20550	[!Quest]미술품을 회수하시오.	[!Quest]回收美术品
 #20551	[!Quest]도둑맞는 보석들	[!Quest]被盗的宝石
-#20552	[!Quest]자베르를 체포하시오.	[!Quest]逮捕沙威。
+#20552	[!Quest]자베르를 체포하시오.	[!Quest]逮捕沙威
 #20553	[!QuestDesc]$Org(Arwall)$의 $Person(Jean)$[은] $Person(Albus)$[가] $Zone(WindWallTown)$ 지구로 이주하여 $Word(Troubleshooter)$ 생활을 시작할 거라는 말을 듣자 명함 하나를 건네준다. 해당 명함에는 $Org(Disarming)$라는 붉은 글자에 대표 $FPerson(Roberto)$라는 이름이 금빛으로 반짝이는 글자로 새겨져 있었다.	[!QuestDesc]$Org(Arwall)$的$Person(Jean)$听到$Person(Albus)$将移动至$Zone(WindWallTown)$开始$Word(Troubleshooter)$的生活时，递过来一张名片。该名片上刻写着深红的$Org(Disarming)$和以金黄色为低的$FPerson(Roberto)$代表名。
 #20554	[!QuestDesc]$JPerson(Sam)$[는] $TargetItem$ $TargetCount$개를 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(Sam)$拜托拿到$TargetCount$个$TargetItem$。
 #20555	[!QuestDesc]$JPerson(Dembel)$[는] $Org(AngryBull)$ 조직원에게 빼앗긴 할아버지의 회중시계를 찾아달라고 부탁한다.	[!QuestDesc]$JPerson(Dembel)$拜托拿回被$Org(AngryBull)$的组员抢夺的怀表。
@@ -15244,7 +15244,7 @@
 #22927	[!Quest]위험한 운송업자	[!Quest]处在危险的配送人员
 #22928	[!Quest]운송업자 리를 구출하시오.	[!Quest]救出配送人员老李。
 #22929	[!Quest]약탈당한 화물 - 푸른 안개 거리	[!Quest]被掠夺的货物 - 蓝雾大街
-#22930	[!Quest]보석 확보 요청 - $TargetItem$	[!Quest]要求确保宝石 - $TargetItem$
+#22930	[!Quest]보석 확보 요청 - $TargetItem$	[!Quest]收集宝石 - $TargetItem$
 #22931	[!QuestDesc]$Person(Roberto)$[은] $Person(Irene)$의 능력을 시험해 보고 싶어한다.	[!QuestDesc]$Person(Roberto)$想要测试$Person(Irene)$的实力。
 #22932	[!QuestDesc]$Person(Roberto)$[은] $Person(Anne)$의 능력을 시험해 보고 싶어한다.	[!QuestDesc]$Person(Roberto)$想要测试$Person(Anne)$的实力。
 #22937	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Spider_Poison2_Mutation)$의 돌연변이 맹독 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求取到栖息在铁森林的$Monster(Beast_Spider_Poison2_Mutation)$的突变剧毒皮。
