@@ -13135,7 +13135,7 @@
 #20597	[!Buff]카리스마	[!Mastery]魄力
 #20598	[!Help]끈끈한 거미줄	[!Buff]粘稠的蛛网
 #20599	[!Help]$Buff_StickyWeb$ 상태가 되면 해당 대상 혹은 해당 대상에게 인접한 아군은 $Ability_RemoveStickyWeb$ 어빌리티가 활성화되며 해당 어빌리티의 사용으로 $Buff_StickyWeb$ 상태를 제거할 수 있습니다.	[!Help]进入$Buff_StickyWeb$状态时，该对象或临近该对象的友军将激活$Ability_RemoveStickyWeb$技能，使用该技能时会解除$Buff_StickyWeb$的状态。
-#20600	[!ObjectInfo]미미르	[!ObjectInfo]米密尔
+#20600	[!ObjectInfo]미미르	[!ObjectInfo]密米尔
 #20601	[!ObjectInfo]시스템	[!WordCollection]系统
 #20602	[!ObjectInfo]기획재정부 장관	[!ObjectInfo]财政部长官
 #20603	[!ObjectInfo]모건	[!ObjectInfo]摩根
