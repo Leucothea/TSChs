@@ -570,7 +570,7 @@
 #7209	[!Dialog][!speaker:Albus_Normal]사건 일지에 기록된 사건은 이미 확정된 사건으로 플레이어의 플레이 방법에 따라 이해도가 증가합니다.	[!Dialog][!speaker:Albus_Normal]事件日志中记载的事件时已确定事件,其理解度根据玩家的玩法而提升。
 #7210	[!Dialog][!speaker:Albus_Normal]사건에 대한 이해도가 100% 가 되면 새로운 이벤트가 열리거나 보상을 획득할 수 있습니다.	[!Dialog][!speaker:Albus_Normal]事件理解度为100%则出现新的活动或有新的奖励。
 #7211	[!Dialog][!speaker:Albus_Normal]상황판은 현재 발할라에서 일어나는 사건들을 보여주는 장치입니다.	[!Dialog][!speaker:Albus_Normal]状况板是展现当前巴赫拉发生的事件的设备。
-#7212	[!Dialog][!speaker:Albus_Normal]사건 목록에 나타난 사건들을 선택하고 의뢰 시작을 누르면 편성창으로 이동합니다.	[!Dialog][!speaker:Albus_Normal]]选择事件目录中出现的事件,并按下委托开始按钮则会移动到组队页面。
+#7212	[!Dialog][!speaker:Albus_Normal]사건 목록에 나타난 사건들을 선택하고 의뢰 시작을 누르면 편성창으로 이동합니다.	[!Dialog][!speaker:Albus_Normal]选择事件目录中出现的事件,并按下委托开始按钮则会移动到组队页面。
 #7213	[!Dialog][!speaker:Albus_Normal]편성창에서 출전할 캐릭터를 선택하신 뒤 미션 시작을 누르면 임무 지역으로 이동하실 수 있습니다.	[!Dialog][!speaker:Albus_Normal]在组队页面里选择准备出动的角色之后,按下开始任务按钮则可以移动到任务地点。
 #7214	[!Dialog][!speaker:Albus_Think]여기에는 컴퓨터를 설치하는 게 좋겠군.	[!Dialog][!speaker:Albus_Think]这里安装台电脑好了。
 #7215	[!Dialog][!speaker:Albus_Think]인터넷도 연결했고, 프린터도 연결했고... 이 유선 전화기도 연결했고...	[!Dialog][!speaker:Albus_Think]网也连上了,打印机也连上了…有线电话也连上了…
@@ -6752,7 +6752,7 @@
 #15062	[!Dialog][!speaker:Anne_Smile]네.. 앤이에요.	[!Dialog][!speaker:Anne_Smile]对.. 我是安。
 #15063	[!Dialog][!speaker:Ray_Smile]사장님한테 이야기 많이 들었어~♡	[!Dialog][!speaker:Ray_Smile]老板经常提起你~♡
 #15064	[!Dialog][!speaker:Ray_Smile2]나야말로 잘 부탁해~☆	[!Dialog][!speaker:Ray_Smile2]请多关照~☆
-#15065	[!Dialog][!speaker:Anne_Think]'알버스 오빠가 무슨 얘기를 한 걸까….'	[!Dialog][!speaker:Anne_Think]'阿尔伯斯哥哥对她说了什么呢….'
+#15065	[!Dialog][!speaker:Anne_Think]'알버스 오빠가 무슨 얘기를 한 걸까….'	[!Dialog][!speaker:Anne_Think]'阿尔伯斯哥哥对她说了什么呢…'
 #15066	[!Dialog][!speaker:Sion_Happy]레이 누나!!	[!Dialog][!speaker:Sion_Happy]雷伊姐 !!
 #15067	[!Dialog][!speaker:Ray_Normal]번개꼬마~☆	[!Dialog][!speaker:Ray_Normal]闪电小朋友~☆
 #15068	[!Dialog][!speaker:Sion_Surprise]아.. 아니...	[!Dialog][!speaker:Sion_Surprise]不.. 不是...
@@ -8770,7 +8770,7 @@
 #17405	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]트러블슈터 지젤 발렌슈타인이지.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]纷争终结吉赛尔沃伦斯坦。
 #17406	[!Sentence][!Dialog][!speaker:Giselle_Smile]그만큼 꾸준히 전략적 약점을 노출해 왔다는 거지.	[!Sentence][!Dialog][!speaker:Giselle_Smile]同时也说明一直在暴露着自身战略上的薄弱。
 #17407	[!Sentence][!Dialog]지젤은 알버스에게 편하게 다가오는 사람은 아니었다.	[!Sentence][!Dialog]这样的吉赛尔对于阿尔伯斯来说可不是可以随意对待的人。
-#17408	[!Sentence][!Dialog][!speaker:Giselle_Normal]'역시 전혀 성장하지 않았어...'	[!Sentence][!Dialog][!speaker:Giselle_Normal]'果然还没长进呢….'
+#17408	[!Sentence][!Dialog][!speaker:Giselle_Normal]'역시 전혀 성장하지 않았어...'	[!Sentence][!Dialog][!speaker:Giselle_Normal]'果然还没长进呢…'
 #17409	[!Sentence][!Dialog][!speaker:Giselle_Smile]네 녀석이 제인이 추천한 트러블슈터라는 것이 더 놀랄 일이야.	[!Sentence][!Dialog][!speaker:Giselle_Smile]更惊奇的是你这家伙是珍推荐给我的纷争终结者啊。
 #17411	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Normal]후성님. 경찰입니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Normal]老大。警察来了。
 #17412	[!Sentence][!Dialog][!speaker:Giselle_Smile]아니다. 쓸데 없는 말이다. 신경 쓰지 마.	[!Sentence][!Dialog][!speaker:Giselle_Smile]没有没有。刚才的是废话。别在意。
@@ -10269,7 +10269,7 @@
 #19462	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]바람장벽 지구 발할라 경찰청은 보안 등급 『 미스릴 』을 선언한다.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]风之壁地区巴赫拉警察厅宣布了『 秘银 』安全等级。
 #19463	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]그리고 물류 창고 후문의 제어기를 해킹할 수 있다면 바로 물류 창고로 진입 할 수 있을 거야.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]破解物流仓库的后门控制器，就可以直接进入物流仓库了。
 #19464	[!Sentence][!Dialog][!speaker:Gangster_SmugglerFat_Hans_Normal]상황은 어때?	[!Sentence][!Dialog][!speaker:Gangster_SmugglerFat_Hans_Normal]情况如何？
-#19465	[!Sentence][!Title]물류 센터 경비실	[!Sentence][!Title]]物流中心警卫室
+#19465	[!Sentence][!Title]물류 센터 경비실	[!Sentence][!Title]物流中心警卫室
 #19466	[!Sentence]물류 창고로 들어갈 수 있는 게이트의 제어기가 있습니다.엄폐물이 없어 적에게 노출될 위험이 있습니다.	[!Sentence]有一个可以进入物流仓库的大门控制器。掩蔽物较少，所以很容易在敌人面前暴露自己。
 #19467	[!Sentence][!Dialog][!speaker:Gangster_SmugglerFat_Normal]점검 완료!	[!Sentence][!Dialog][!speaker:Gangster_SmugglerFat_Normal]检查完毕！
 #19468	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand']그럼 최대한 빨리 부탁하네.	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand']那拜托你了，请尽快吧。
@@ -13551,7 +13551,7 @@
 #23370	[!DialogQuest][!speaker:Hundred_Smile]아.. 아니야. 그냥 혼잣말이야.	[!DialogQuest][!speaker:Hundred_Smile]啊... 没什么，只是在自言自语。
 #23371	[!DialogQuest][!speaker:Kylie_Normal]혼잣말은 무슨... 너 제대로 확인 안 했구나.	[!DialogQuest][!speaker:Kylie_Normal]自言自语个头啊... 看来你没有好好确认过。
 #23372	[!DialogQuest][!speaker:Hundred_Normal]카일리 너도 너무 닦달하는 것 아냐.	[!DialogQuest][!speaker:Hundred_Normal]凯莉你也不要太说什么了。
-#23373	[!DialogQuest][!speaker:Hundred_Normal]아니 그걸 어떻게 일일이 확인하나….	[!DialogQuest][!speaker:Hundred_Normal]怎么能一一确认所有的啊….
+#23373	[!DialogQuest][!speaker:Hundred_Normal]아니 그걸 어떻게 일일이 확인하나….	[!DialogQuest][!speaker:Hundred_Normal]怎么能一一确认所有的啊…
 #23374	[!DialogQuest][!speaker:Sion_Stare]억만 형. 드론 수도 수지만... 전투 가능한 드론이 있었어...	[!DialogQuest][!speaker:Sion_Stare]亿万哥。无人机的数量不重要... 只是那会有可以战斗的无人机啊...
 #23375	[!DialogQuest][!speaker:Hundred_Smile]하하하.	[!DialogQuest][!speaker:Hundred_Smile]哈哈哈。
 #23376	[!DialogQuest][!speaker:Hundred_Normal]미안하다.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]对不住了。
