@@ -4508,7 +4508,7 @@
 #12308	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]너 같은 녀석이 날 돕고 말이야.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]你这种人都来帮我忙的。
 #12309	[!Sentence]마르코 팀으로 플레이합니다.	[!Sentence]加入马尔科分队。
 #12310	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 당분간 네 조직에 대한 활동에 대해 간섭하지 않으마.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']我先暂时不干涉你对组织采取的行动了。
-#12311	[!Sentence][!Dialog][!speaker:Marco_Smile]응? 성난 황소 녀석들 아냐?	[!Sentence][!Dialog][!speaker:Marco_Smile]嗯?这不是愤怒狂牛组的吗?
+#12311	[!Sentence][!Dialog][!speaker:Marco_Smile]응? 성난 황소 녀석들 아냐?	[!Sentence][!Dialog][!speaker:Marco_Smile]嗯?这不是狂牛组的吗?
 #12312	[!Sentence][!BalloonChat][!speaker:Foo]백호에게 저항하는 자들에게 철저한 응징을!	[!Sentence][!BalloonChat][!speaker:Gangster_Foo_Normal]有人胆敢违抗白虎，就给他彻底的惩罚吧!
 #12313	[!Sentence][!Title]한 발 물러나기	[!Sentence][!Title]退一步
 #12314	[!Sentence][!Dialog][!speaker:Marco_Smile]아? 조직을 떠난 건가?	[!Sentence][!Dialog][!speaker:Marco_Smile]啊?是离开了组织吗?
@@ -4521,7 +4521,7 @@
 #12324	[!Sentence][!Title]자홍거리 7번가	[!Sentence][!Title]紫红街7号
 #12325	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]무슨 말을 해도 변명이겠지.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]到时候说什么都算是狡辩吧。
 #12328	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]'조홍'과 '하산' 녀석들을 만나면......	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]若是见到了'赵洪'和'哈山'这两个家伙的话……
-#12329	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]보스. '스푼교' 내에는 과거 '성난 황소'파의 조직원들이 다수 있습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]首领。'勺子教'里有不少是过去'愤怒狂牛'组的成员们。
+#12329	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]보스. '스푼교' 내에는 과거 '성난 황소'파의 조직원들이 다수 있습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]首领。'勺子教'里有不少是过去'狂牛'组的成员们。
 #12330	[!Sentence][!BalloonChat]구조 분대에 합류하겠습니다!	[!Sentence][!BalloonChat]我要加入营救分队!
 #12331	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 10년간의 카르텔도 여기서 끝이군.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']10年的垄断也到此为止了。
 #12333	[!Sentence][!BalloonChat][!speaker:Ralph]료 류자키. 오랜만이다.	[!Sentence][!BalloonChat][!speaker:Gangster_SpoonSword_Ralph_Normal]亮·龙崎。好久不见。
@@ -4584,7 +4584,7 @@
 #12403	[!Sentence][!BalloonChat][!speaker:Ralph]료 녀석은 여기에 잠들 것이다.	[!Sentence][!BalloonChat][!speaker:Ralph]亮这家伙会在这里长眠的。
 #12404	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Kaze_Normal]존 님을 모욕한 널 그냥 둘 수 없지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Kaze_Normal]不能轻饶了你侮辱约翰大人之罪啊。
 #12405	[!Sentence][!Dialog][!speaker:Albus_Embarrassed]아...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]啊…
-#12406	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]특히 '조홍'이나 '하산'등 성난 황소파 간부들은 아직도 다수의 조직원들에게 영향력이 분명히 있을 것입니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]特别是'赵洪'或'哈山'等这些愤怒狂牛组的干部们肯定还在大部分的组织成员那里有影响力的。
+#12406	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]특히 '조홍'이나 '하산'등 성난 황소파 간부들은 아직도 다수의 조직원들에게 영향력이 분명히 있을 것입니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]特别是'赵洪'或'哈山'等这些狂牛组的干部们肯定还在大部分的组织成员那里有影响力的。
 #12407	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]알겠습니다. 보스.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]我明白了。首领。
 #12408	[!Sentence][!BalloonChat][!speaker:Albus]다들 빠르게 현장을 이탈하겠습니다!	[!Sentence][!BalloonChat][!speaker:Albus]大家加快脚步离开现场吧!
 #12409	[!Sentence][!BalloonChat][!speaker:Ryo]저 녀석은...	[!Sentence][!BalloonChat][!speaker:Ryo]那家伙是…
@@ -6115,7 +6115,7 @@
 #14338	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]아마도 이번 불길은 쉽게 꺼지지 않을 것이다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]这次的火恐怕不会容易熄灭哦。
 #14339	[!Sentence][!Title]별빛 거리 1번가	[!Sentence][!Title]星光大街1号
 #14340	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]결국 본청으로 복귀할 수 없는 경찰 병력들은 해당 현장에 다시 투입된다.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]因此无法回到本部的警力，会重新投入到该现场中去。
-#14341	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]성난 황소를 무너뜨린 트러블슈터 회사다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]是那个瓦解了愤怒狂牛组的纷争终结公司。
+#14341	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]성난 황소를 무너뜨린 트러블슈터 회사다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]是那个瓦解了狂牛组的纷争终结公司。
 #14342	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]이 방어선마저 뚫렸다면 거리를 탈환할 기회조차 없었겠지. 생각만 해도 끔찍하군.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]这条防线都被突破的话，我们就没机会夺回这条街了。想想就觉得好惨。
 #14344	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Joshua_Normal]이 불길. 이 소리. 오랜만이군.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Joshua_Normal]这个火。这个声音。真是久违了呢。
 #14345	[!Sentence][!Dialog]백호파의 거침없는 공세에 금방이라도 무너질 것 같았던 현장 상황은 제인 경감의 분대와 트러블슈터 $CompanyName$의 참전으로 교착 상태가 되었다.	[!Sentence][!Dialog]白虎组持续不断的攻势里摇摇欲坠的现场状况，在珍警监带领的分队和纷争终结公司$CompanyName$的加入下，进入了胶着的状态。
@@ -7940,7 +7940,7 @@
 #16497	[!Sentence][!Dialog][!speaker:Ray_Smile]우리 어떻게 할까?	[!Sentence][!Dialog][!speaker:Ray_Smile]我们要怎么办?
 #16498	[!Sentence][!Dialog][!speaker:Sion_Smile]'아이린을 믿어야겠지......'	[!Sentence][!Dialog][!speaker:Sion_Smile]'只能相信艾琳了......'
 #16499	[!Sentence][!Dialog][!speaker:Sion_Normal]셋이 한 팀이니 헤이싱 형 처음 만났을 때 생각나네~	[!Sentence][!Dialog][!speaker:Sion_Normal]三人一组，想起第一次遇到黑星哥的时候了~
-#16500	[!Sentence][!Dialog][!speaker:Albus_Normal]셋이서 성난 황소파 잔당을 한창 쫓아다녔죠.	[!Sentence][!Dialog][!speaker:Albus_Normal]那时三人一起追踪愤怒狂牛组。
+#16500	[!Sentence][!Dialog][!speaker:Albus_Normal]셋이서 성난 황소파 잔당을 한창 쫓아다녔죠.	[!Sentence][!Dialog][!speaker:Albus_Normal]那时三人一起追踪狂牛组。
 #16501	[!Sentence][!Dialog][!speaker:Ray_Smile]그래. 시온 군. 그렇게 고민하지마.	[!Sentence][!Dialog][!speaker:Ray_Smile]席翁，别再那么苦恼了。
 #16502	[!Sentence][!Dialog][!speaker:Heissing_Smile]재밌군.	[!Sentence][!Dialog][!speaker:Heissing_Smile]有意思。
 #16504	[!Sentence][!Dialog][!speaker:Irene_Serious]같이 퇴근하면서도 힘들어서 가끔 울곤 했잖아.	[!Sentence][!Dialog][!speaker:Irene_Serious]偶尔一起下班时还会哭泣。
@@ -10502,7 +10502,7 @@
 #19710	[!Sentence][!Dialog]불량배들의 갈취에 나암과 터크는 경찰에 여러번 신고하였으나...	[!Sentence][!Dialog]面对恶棍的敲诈勒索，虽然图克和罗岩多次的报了警...
 #19711	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]『 스푼교 』	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]『勺子教』
 #19712	[!Sentence][!Dialog]구직을 포기하고 재래 시장에서 닭꼬치 장사를 시작했다.	[!Sentence][!Dialog]他们开始在市场贩卖鸡肉串。 
-#19713	[!Sentence][!Dialog]『성난 황소』파의 궤멸로 인한 범죄 카르텔의 붕괴.	[!Sentence][!Dialog]因『愤怒狂牛』组的溃灭而导致犯罪的贩毒集团崩溃。
+#19713	[!Sentence][!Dialog]『성난 황소』파의 궤멸로 인한 범죄 카르텔의 붕괴.	[!Sentence][!Dialog]因『狂牛』组的溃灭而导致犯罪的贩毒集团崩溃。
 #19714	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]이 시간 이후 자네들 하위 조직의 지휘는 각자에게 위임한다.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]从此刻开始，你们旗下组织的指挥就委托给你们每个人了。
 #19715	[!Sentence][!Dialog][!speaker:Patron_Woman_Normal]나암씨는 정말 불을 잘 다루는가 봐. 어디서 요리 공부 한 거야?	看来罗岩对火很了解啊。在哪里学习的料理呢？
 #19716	[!Sentence][!Dialog]강제합병으로 『앨리』의 동료들과 뿔뿔이 흩어지는 과정에서 발할라 붉은 광산 지구로 같이 이주하게 된 터크와 나암.	[!Sentence][!Dialog]与巴赫拉的『艾丽』强制合并后，图克和罗岩与同事们分开并移居到了巴赫拉红矿地区。
@@ -13238,7 +13238,7 @@
 #23056	[!DialogQuest][!speaker:Dembel_Normal]방금 말한 회중시계는 할아버지가 발할라 정착할 때부터 소중하게 간직하시던 물건이야.	[!DialogQuest][!speaker:Dembel_Normal]刚才说的怀表是爷爷在巴赫拉定居时就珍藏起来的东西。
 #23057	[!DialogQuest][!speaker:Dembel_Normal]우리 아버지가 이어받았고 아버지가 돌아가신 후 어머니가 가지고 계시다가 재작년에 이 가게를 열 때 어머니가 나에게 주셨지.	[!DialogQuest][!speaker:Dembel_Normal]爷爷给了我的父亲，父亲去世后，在我开这个店时，母亲便给了我。
 #23058	[!DialogQuest][!speaker:Dembel_Smile]가족들의 손을 거쳐 온 것이다보니 나에겐 부적같은 거였어. 왜 모두 다 그런 것 하나쯤 있잖아?	[!DialogQuest][!speaker:Dembel_Smile]因为是家传的，所以对我来说是个符咒。大家不都有一个的吗？
-#23059	[!DialogQuest][!speaker:Dembel_Sorrow]그걸 작년, 이맘때, 항구 하역장에서 시비가 붙은 성난 황소파 조직원에게 빼앗겼어.	[!DialogQuest][!speaker:Dembel_Sorrow]但是在去年这个时期，被港口装卸场的愤怒狂牛组组员抢走了。
+#23059	[!DialogQuest][!speaker:Dembel_Sorrow]그걸 작년, 이맘때, 항구 하역장에서 시비가 붙은 성난 황소파 조직원에게 빼앗겼어.	[!DialogQuest][!speaker:Dembel_Sorrow]但是在去年这个时期，被港口装卸场的狂牛组组员抢走了。
 #23060	[!DialogQuest][!speaker:Dembel_Sorrow]그 하역장이 자기 구역인데 보호비를 내지 않았다는 이유였지...	[!DialogQuest][!speaker:Dembel_Sorrow]那港口装卸场是他们的区域，但是说我没给保护费...
 #23061	[!DialogQuest][!speaker:Irene_Fury]더러운 악당 녀석들...	[!Sentence][!Dialog][!speaker:Irene_Fury]肮脏的恶徒们...
 #23062	[!DialogQuest][!speaker:Anne_Sorrow]도대체 왜 그런 짓까지 하는 거죠...	[!DialogQuest][!speaker:Anne_Sorrow]到底为什么要做那种事呢...
@@ -13248,9 +13248,9 @@
 #23066	[!DialogQuest][!speaker:Dembel_Smile]너희들이 이 동네 나타나기 전에는 그들을 신고하는 건 상상도 할 수 없었던 일이야.	[!DialogQuest][!speaker:Dembel_Smile]在你们在这里出现之前，我根本想象不到要去报警。
 #23067	[!DialogQuest][!speaker:Dembel_Sorrow]사실 지금도... 두렵긴 해. 내일이라도 당장 성난 황소파 조직원들이 가게 혹은 집 앞에 나타날까봐....	[!DialogQuest][!speaker:Dembel_Sorrow]其实现在... 也还是很怕。害怕他们来我家或店前来报仇....
 #23068	[!DialogQuest][!speaker:Albus_Serious]뎀벨 씨. 걱정마세요. 저희가 그런 일이 일어나지 않도록 최선을 다하겠습니다.	[!DialogQuest][!speaker:Albus_Serious]登布尔，不要担心。我们将竭尽全力防止类似事件的发生。
-#23069	[!DialogQuest][!speaker:Albus_Normal]그리고 아직 성난 황소파의 잔당들이 산발적으로 범죄를 일으키지만 본 세력은 궤멸되었으니 뎀벨 씨가 걱정할 일은 발생하지 않을 거에요.	[!DialogQuest][!speaker:Albus_Normal]虽然现在愤怒狂牛组的余党还在制造犯罪，但主势力已经溃败了，所以你是不用担心的。
+#23069	[!DialogQuest][!speaker:Albus_Normal]그리고 아직 성난 황소파의 잔당들이 산발적으로 범죄를 일으키지만 본 세력은 궤멸되었으니 뎀벨 씨가 걱정할 일은 발생하지 않을 거에요.	[!DialogQuest][!speaker:Albus_Normal]虽然现在狂牛组的余党还在制造犯罪，但主势力已经溃败了，所以你是不用担心的。
 #23070	[!DialogQuest][!speaker:Dembel_Smile]그래	[!DialogQuest][!speaker:Dembel_Smile]是吗...
-#23071	[!DialogQuest][!speaker:Dembel_Smile]너희들이 성난 황소파를 궤멸시키지 않았다면 난 그 시계를 되찾을 생각 따위 하지 않았을 거야.	[!DialogQuest][!speaker:Dembel_Smile]如果你们没有歼灭愤怒狂牛组的话那我根本就不会想到怀表的。
+#23071	[!DialogQuest][!speaker:Dembel_Smile]너희들이 성난 황소파를 궤멸시키지 않았다면 난 그 시계를 되찾을 생각 따위 하지 않았을 거야.	[!DialogQuest][!speaker:Dembel_Smile]如果你们没有歼灭狂牛组的话那我根本就不会想到怀表的。
 #23072	[!DialogQuest][!speaker:Anne_Strict]걱정하지 마세요. 저희가 꼭 찾아드릴게요!	[!DialogQuest][!speaker:Anne_Strict]不要担心，我一定会找到的！
 #23073	[!DialogQuest][!speaker:Kylie_Normal]그래. 덤벨. 우리가 찾아올게.	[!DialogQuest][!speaker:Kylie_Normal]好的，登布尔。我们会帮忙找回的。
 #23074	[!DialogQuest][!speaker:Irene_Normal]맡겨줘. 꼭 찾아 오겠어.	[!DialogQuest][!speaker:Irene_Normal]交给我们吧，一定会找回来的。
@@ -13267,7 +13267,7 @@
 #23085	[!DialogQuest][!speaker:Dembel_Smile]정말 고마워.	[!DialogQuest][!speaker:Dembel_Smile]谢谢了。
 #23086	[!DialogQuest][!speaker:Dembel_Smile]그 회중시계는 할아버지가 발할라 정부로부터 받은 기념품으로 알고 있어.	[!DialogQuest][!speaker:Dembel_Smile]那怀表是巴赫拉政府给爷爷的纪念品。
 #23087	[!DialogQuest][!speaker:Dembel_Normal]아마도 이주민으로 성실하게 살아온 할아버지의 모습을 인정받은 게 아닌가 생각해.	[!DialogQuest][!speaker:Dembel_Normal]这也许是作为移民而诚实生活的爷爷的形象得到了认可吧。
-#23088	[!DialogQuest][!speaker:Albus_Normal]네. 황소파 조직원에게서 획득한 물건인데 말씀하신 회중시계 같아서 가져왔습니다.	[!DialogQuest][!speaker:Albus_Normal]从愤怒狂牛组组员拿来的东西看起来像是你说的怀表，确认一下吧。
+#23088	[!DialogQuest][!speaker:Albus_Normal]네. 황소파 조직원에게서 획득한 물건인데 말씀하신 회중시계 같아서 가져왔습니다.	[!DialogQuest][!speaker:Albus_Normal]从狂牛组组员拿来的东西看起来像是你说的怀表，确认一下吧。
 #23089	[!DialogQuest][!speaker:Albus_Laugh]한번 확인하셔야 할 것 같아요.	[!DialogQuest][!speaker:Albus_Laugh]好像需要确认一下。
 #23090	[!DialogQuest]뎀벨은 알버스가 건네준 회중 시계의 뒷편을 바라보며 '시간은 금이네. 친구'를 눈으로 읽어 본다.	[!DialogQuest]登布尔确认了阿尔伯斯递给的怀表背面的'时间是金钱，朋友'。
 #23091	[!DialogQuest]그리고 이어 뎀벨은 회중 시계의 뒷 뚜껑을 열어 다음 문구를 확인한다.	[!DialogQuest]接着登布尔把怀表的里面打开后确认了内部。
@@ -13287,7 +13287,7 @@
 #23105	[!DialogQuest][!speaker:Dembel_Normal]응. 그 회중시계에는 시곗줄이 달려 있었어.	[!DialogQuest][!speaker:Dembel_Normal]嗯，那怀表原来是连着表链的。
 #23106	[!DialogQuest][!speaker:Albus_SurpriseStare]시계줄이요?	[!DialogQuest][!speaker:Albus_SurpriseStare]表链吗？
 #23107	[!DialogQuest][!speaker:Dembel_Normal]그래. 아버지가 어머니하고 연애할 때, 어머니로부터 선물 받은 시곗줄이야.	[!DialogQuest][!speaker:Dembel_Normal]是啊，那是母亲给父亲的礼物。
-#23108	[!DialogQuest][!speaker:Dembel_Normal]성난 황소파 녀석들에게 빼앗길 때는 회중시계에 달려 있었어.	[!DialogQuest][!speaker:Dembel_Normal]被愤怒狂牛组抢走的时候是在一起的。
+#23108	[!DialogQuest][!speaker:Dembel_Normal]성난 황소파 녀석들에게 빼앗길 때는 회중시계에 달려 있었어.	[!DialogQuest][!speaker:Dembel_Normal]被狂牛组抢走的时候是在一起的。
 #23109	[!DialogQuest][!speaker:Dembel_Normal]너희들이 찾아줄 때 없었던 걸로 보아... 아마도 시곗줄은 따로 팔아넘기거나 처리했겠지.	[!DialogQuest][!speaker:Dembel_Normal]你们找回的时候没有连着... 恐怕是卖掉了吧。
 #23110	[!DialogQuest][!speaker:Dembel_Smile]아냐. 너희가 왜 죄송해해. 회중시계를 찾아준 것만으로도 정말 감사하고 있어.	[!DialogQuest][!speaker:Dembel_Smile]不不，你们没必要感到抱歉。我已经很感谢你们找回了怀表的。
 #23111	[!DialogQuest][!speaker:Anne_Normal]'아... 그래서 회중시계를 찾아드렸을 때... 표정이 좋지 않으셨구나...'	[!DialogQuest][!speaker:Anne_Normal]'啊... 之所以当时找回怀表的时候... 表情并不好啊...'
@@ -13304,9 +13304,9 @@
 #23122	[!DialogQuest][!speaker:Dembel_Normal]시곗줄 끝의 집게 핀에는 어머니가 아버지에게 선물한 날짜. 12월 24일. 그리고 시곗줄 중간의 고리에는 두 분의 이름이 새겨져 있어.	[!DialogQuest][!speaker:Dembel_Normal]表链末端的夹子上刻有递送礼物的日期12.24。还有中间的夹子上写着父母的名字。
 #23123	[!DialogQuest][!speaker:Sion_SurpriseStare]'너무 튀잖아... 나같음 녹여서...'	[!DialogQuest][!speaker:Sion_SurpriseStare]'那太明显了... 如果是我，是会融化后卖掉...'
 #23124	[!DialogQuest][!speaker:Sion_Think]'아... 어차피 범죄 조직이 강하면 그냥 들고 다녀도 건들 사람이 없구나...'	[!DialogQuest][!speaker:Sion_Think]'嘛... 犯罪组员拿着的话不会有人说什么的吧...'
-#23125	[!DialogQuest][!speaker:Dembel_Normal]최근 그 물건을 팔려고 한 자는 성난 황소파 조직원이었던 자야.	[!DialogQuest][!speaker:Dembel_Normal]最近想卖那个东西的人是过去愤怒狂牛组的成员。
+#23125	[!DialogQuest][!speaker:Dembel_Normal]최근 그 물건을 팔려고 한 자는 성난 황소파 조직원이었던 자야.	[!DialogQuest][!speaker:Dembel_Normal]最近想卖那个东西的人是过去狂牛组的成员。
 #23126	[!DialogQuest][!speaker:Irene_Surprise]조직원 이었던?	[!DialogQuest][!speaker:Irene_Surprise]过去的成员？
-#23127	[!DialogQuest][!speaker:Dembel_Normal]그래. 지금은 성난 황소파 잔당들과 함께 스푼교에 합류했나봐.	[!DialogQuest][!speaker:Dembel_Normal]是啊，现在好像和剩余的愤怒狂牛组的残党加入了勺子教。
+#23127	[!DialogQuest][!speaker:Dembel_Normal]그래. 지금은 성난 황소파 잔당들과 함께 스푼교에 합류했나봐.	[!DialogQuest][!speaker:Dembel_Normal]是啊，现在好像和剩余的狂牛组的残党加入了勺子教。
 #23128	[!DialogQuest][!speaker:Irene_Fury]역시 스푼교 녀석들은...	[!DialogQuest][!speaker:Irene_Fury]勺子教...
 #23129	[!DialogQuest][!speaker:Leton_Normal]스푼교도 중에는 좋은 녀석들도 많은데 말이야~☆	[!DialogQuest][!speaker:Leton_Normal]勺子教也是有好人的~☆
 #23130	[!DialogQuest][!speaker:Ray_Serious]말도 안 되는 소리 하지 마. 레톤.	[!DialogQuest][!speaker:Ray_Serious]不要说傻话，莱顿。
@@ -13461,7 +13461,7 @@
 #23280	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun_Normal]스푼교에 입교한 조직원들 사이에 흉흉한 소문이 퍼지고 있습니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun_Normal]在入教勺子教的成员之间流传着凶恶的传闻。
 #23281	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Normal]어이... 그건...	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Normal]喂... 那是...
 #23282	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]무슨 소문이냐? 말해 봐라.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]什么传闻？
-#23283	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun_Normal]스푼교가 성난 황소파의 조직원을 쓰고 버리는 패로 사용한다는 것입니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun_Normal]勺子教把愤怒狂牛组用做弃牌。
+#23283	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun_Normal]스푼교가 성난 황소파의 조직원을 쓰고 버리는 패로 사용한다는 것입니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun_Normal]勺子教把狂牛组用做弃牌。
 #23284	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Normal]최근 몇몇 스푼교에 입교한 조직원들이 실종되는 경우도 종종있어서 더 그런 것 같습니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Normal]最近几个入教的勺子教成员失踪了，更让他们那样感觉到。
 #23285	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]이제 와 너희들에게 조직의 간부로서 강요할 생각은 없다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]我并不想作为组织的干部，强迫你们的忠实。
 #23286	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]너희들 자신이 원하는 길을 선택해라.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]你们选择走自己想要的路吧。

@@ -5157,7 +5157,7 @@
 #9020	[!Troublebook]고민하는 아이린	[!Troublebook]苦恼的艾琳
 #9021	[!Troublebook]벤데타의 마르코가 동료인 크리스의 전언을 가지고 실버라이닝 바의 돈을 찾아 온다. 자신의 경쟁자이기도 한 크리스와 연관된 돈을 본 마르코는 장난기가 발동하지 않을 수 없었다.	[!Troublebook]凡蒂塔的马尔科带着他的同事克里斯的口信，去沙佛莱宁酒吧找敦。看到了作为自己的竞争者克里斯关系密切的敦，马尔科的调皮劲又萌生了出来。
 #9022	[!Troublebook]인연의 사슬	[!Troublebook]缘分的锁链
-#9023	[!Troublebook]보스 '스콧'의 명령 아래 스푼교도를 지원하던 성난 황소 파 조직원들은 오히려 스푼교도에게 도움을 받는 처지가 된다.	[!Troublebook]根据首领'斯科特'的命令支援着勺子教信徒们的愤怒狂牛组的成员们，反而变成了需要勺子教信徒们帮助的处境。
+#9023	[!Troublebook]보스 '스콧'의 명령 아래 스푼교도를 지원하던 성난 황소 파 조직원들은 오히려 스푼교도에게 도움을 받는 처지가 된다.	[!Troublebook]根据首领'斯科特'的命令支援着勺子教信徒们的狂牛组的成员们，反而变成了需要勺子教信徒们帮助的处境。
 #9024	[!Troublebook]한솥밥	[!Troublebook]一锅饭
 #9025	[!Troublebook]계속 늘어나는 바람장벽 지구의 스푼교도들에 대한 실마리를 찾던 아이작 경감은 드디어 스푼교도들의 꼬리를 잡는다. 경찰 내부의 배신자가 있음을 인지한 아이작은 이 스푼교도들의 실마리를 잡기 위해 트러블슈터의 도움을 구하기로 결심한다.	[!Troublebook]在寻找风之壁地区源源不断地涌出的勺子教信徒们相关线索的艾萨克警监，最终抓到了勺子教信徒们的尾巴。感觉到警察内部出现了叛徒的艾萨克打算请求纷争终结者来挖掘勺子教信徒们的线索。
 #9026	[!Troublebook]추적의 실마리	[!Troublebook]追踪的线索
@@ -10808,7 +10808,7 @@
 #17674	[!LobbyIdleMessage][!speaker:Albus]시온... 봐주는 건 아니겠지...	[!LobbyIdleMessage][!speaker:Albus]席翁...你不会是在让着我吧...
 #17675	[!LobbyIdleMessage][!speaker:Albus]한 달... 금방 가겠지...	[!LobbyIdleMessage][!speaker:Albus]一个月...转眼就要过去了...
 #17676	[!LobbyIdleMessage][!speaker:Albus]아이작 경감님의 공백은 어떻게 되려나...	[!LobbyIdleMessage][!speaker:Albus]艾萨克警监的空位会由谁来代替呢...
-#17677	[!LobbyIdleMessage][!speaker:Albus]백호파, 성난 황소파, 흑호 파는 카르텔이었을텐데...	[!LobbyIdleMessage][!speaker:Albus]白虎组、愤怒狂牛组、黑虎组应该在联合垄断...
+#17677	[!LobbyIdleMessage][!speaker:Albus]백호파, 성난 황소파, 흑호 파는 카르텔이었을텐데...	[!LobbyIdleMessage][!speaker:Albus]白虎组、狂牛组、黑虎组应该在联合垄断...
 #17678	[!LobbyIdleMessage][!speaker:Albus]조용하던 백호파가 왜 이제서야 움직인거지...	[!LobbyIdleMessage][!speaker:Albus]毫无动静的白虎组为什么现在才行动...
 #17679	[!LobbyIdleMessage][!speaker:Albus]나도 모르게 동료들에게 너무 많은 일을 강요한건가...	[!LobbyIdleMessage][!speaker:Albus]是不是我在不知不觉中强迫同事做太多的事情....
 #17680	[!LobbyIdleMessage][!speaker:Albus]모집 공고를 내도 아무도 지원을 하지 않는구나...	[!LobbyIdleMessage][!speaker:Albus]发出招聘启事也没人报名啊...
@@ -14869,7 +14869,7 @@
 #22540	[!Loading]위험한 운송업자	[!Loading]处在危险的配送人员
 #22541	[!Mastery]미션 승리 시, $LostProperty$[이] 없는 경우, 해당 미션에서 획득 가능한 $Rare$ 등급 이상의 장비 아이템을 $Value$개 획득합니다.	[!Mastery]任务胜利时，若没有$LostProperty$的情况下，将获得在该任务可获得的$Value$个$Rare$级别的装备。
 #22543	[!NamedEvent]삐뚤어진 마일즈	[!NamedEvent]性格扭曲的迈尔斯
-#22544	[!NamedEvent]난 성난 황소의 최고가 될 것이다!	[!NamedEvent]我要在愤怒狂牛组当第一！
+#22544	[!NamedEvent]난 성난 황소의 최고가 될 것이다!	[!NamedEvent]我要在狂牛组当第一！
 #22545	[!NamedEvent]내 꿈을 포기하지 않는다!	[!NamedEvent]我不会放弃我的梦想！
 #22546	[!ObjectVoiceSound][!speaker:Leton]자! 마지막 공연이다	[!ObjectVoiceSound][!speaker:Leton]来！这是最后的表演
 #22547	[!ObjectVoiceSound][!speaker:Leton]피날레~!	[!ObjectVoiceSound][!speaker:Leton]最终乐章~！
