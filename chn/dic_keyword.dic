@@ -2560,7 +2560,7 @@
 #5135	[!WordCollection]현재 아이템	[!WordCollection]当前物品
 #5136	[!WordCollection]착용할 아이템	[!WordCollection]装备的物品
 #5137	[!WordCollection][!menu]특성 습득	[!WordCollection][!menu]学习天赋
-#5138	[!WordCollection][!Menu]추가 특성 효과	[!WordCollection][!Menu]附加天赋效果
+#5138	[!WordCollection][!Menu]추가 특성 효과	[!WordCollection][!Menu]组合天赋效果
 #5139	[!WordCollection][!Menu]특성 목록	[!WordCollection][!Menu]天赋列表
 #5140	[!WordCollection][!Menu]보조 특성	[!WordCollection][!Menu]辅助天赋
 #5143	[!GuideMessage]$Name$ $Exp$ 경험치를 획득하였습니다. ($Reason$)	[!GuideMessage]$Name$获得了$Exp$点经验值。($Reason$)
@@ -4527,8 +4527,8 @@
 #8154	[!GuideMessage]전기차 충전기는 공격 가능한 위험물 오브젝트입니다. 해당 오브젝트가 파괴되면 주위 반경 3 타일에 화염 피해를 입힙니다.<br><br>[colour='FFFFFF00']얼음 속성 피해를 입으면 폭발하지 않습니다.	[!GuideMessage]电动汽车充电器是可攻击的危险目标。该目标被破坏后给周围半径3格内的区域带来火焰伤害。<br><br>[colour='FFFFFF00']受到寒冰属性的伤害时不会爆炸。
 #8155	[!GuideMessage]가스 주유기는 공격 가능한 위험물 오브젝트입니다. 해당 오브젝트가 파괴되면 주위 반경 4 타일에 화염 피해를 입힙니다.<br><br>[colour='FFFFFF00']얼음 속성 피해를 입으면 폭발하지 않습니다.	[!GuideMessage]毒气加油器是可攻击的危险目标。该目标被破坏后给周围半径4格内的区域带来火焰伤害。<br><br>[colour='FFFFFF00']受到寒冰属性的伤害时不会爆炸。
 #8156	[!GuideMessage]유독물 탱크는 공격 가능한 위험물 오브젝트입니다. 해당 오브젝트가 파괴되면 주위 반경 4 타일에 화염 피해를 입힙니다. 또한 피격을 입으면 6 타일에 유독 가스가 퍼져나갑니다.<br><br>[colour='FFFFFF00']얼음 속성 피해를 입으면 폭발하지 않습니다.	[!GuideMessage]有毒物品罐是可攻击的危险目标。该目标被破坏后给周围半径4格内的区域带来火焰伤害。并且受到伤害时往6格的范围内散布毒气。<br><br>[colour='FFFFFF00']受到寒冰属性的伤害时不会爆炸。
-#8157	[!GuideMessage][colour='FFFF5943']$MasteryName$[colour='FFFFFFFF'] 특성 추가 효과가 해제되었습니다.	[!GuideMessage][colour='FFFF5943']$MasteryName$[colour='FFFFFFFF']附加天赋效果被解除。
-#8158	[!GuideMessage][colour='FFFFFF00']$MasteryName$[colour='FFFFFFFF'] 특성 추가 효과가 발동하였습니다.	[!GuideMessage][colour='FFFFFF00']$MasteryName$[colour='FFFFFFFF']附加天赋效果被启动。
+#8157	[!GuideMessage][colour='FFFF5943']$MasteryName$[colour='FFFFFFFF'] 특성 추가 효과가 해제되었습니다.	[!GuideMessage][colour='FFFF5943']$MasteryName$[colour='FFFFFFFF']组合天赋效果被解除。
+#8158	[!GuideMessage][colour='FFFFFF00']$MasteryName$[colour='FFFFFFFF'] 특성 추가 효과가 발동하였습니다.	[!GuideMessage][colour='FFFFFF00']$MasteryName$[colour='FFFFFFFF']组合天赋效果被启动。
 #8161	[!Ability]로우킥	[!Ability]扫堂腿
 #8162	[!Ability]기력을 $ApplyCost$ 회복합니다.	[!Ability]恢复$ApplyCost$气力。
 #8164	[!GuideMessage]견제 공격 어빌리티는 피격자가 공격을 회피한 경우에도 어빌리티의 턴 대기 시간을 늦출 수 있는 공격입니다.<br><br>[colour='FFFFE959']현재 어빌리티의 적 명중 시 적의 턴 대기시간 지연은 <br>[colour='FFFFFFFF']%d[colour='FFFFE959'] 이며 적 회피 시 [colour='FFFFFFFF']견제[colour='FFFFE959']로 인하여 턴 대기 지연 시간은 [colour='FFFFFFFF']%d[colour='FFFFE959'] 만큼 적용됩니다.	[!GuideMessage]这是就算牵制攻击技能的受攻击方出现了闪避也能将其技能回合冷却时间减缓的攻击技能。<br><br>[colour='FFFFE959']当前技能命中目标时对方的回合冷却时间延迟是<br>[colour='FFFFFFFF']%d[colour='FFFFE959']，目标闪避时由于[colour='FFFFFFFF']牵制[colour='FFFFE959']而其回合延迟时间适用[colour='FFFFFFFF']%d[colour='FFFFE959']。
@@ -7398,7 +7398,7 @@
 #12370	[!ObjectInfo]스노우	[!ObjectInfo]斯诺
 #12371	[!ObjectInfo]제시	[!ObjectInfo]杰西
 #12372	[!Site]철의 숲 자원개발구역	[!Site]铁森林资源管理区
-#12374	[!WordCollection]활성화된 추가 효과만 보기	[!WordCollection]只查看激活的附加天赋
+#12374	[!WordCollection]활성화된 추가 효과만 보기	[!WordCollection]只查看激活的组合天赋
 #12375	[!Mission]철의 숲 자원개발구역	[!Loading]铁森林资源管理区
 #12377	[!Buff]정신적인 상태 이상에 면역이 됩니다.	[!Buff]免疫精神异常状态。
 #12379	[!Mastery]마법 이론에 심취한 마법사는 현자가 되었고 마녀의 책에 빠진 현자는 대마녀가 되었다.	[!Mastery]对魔法理论着迷的魔法师成为了贤者，而对魔女的书着迷的贤者成为了一名大魔女。
@@ -8160,7 +8160,7 @@
 #13960	[!Ability]함께 싸워줄 야수를 소환합니다.	[!Ability]召唤可协同作战的野兽。
 #13961	[!Ability]소환 중인 야수를 해제합니다.	[!Ability]解除已在召唤中的野兽。
 #13963	[!Buff]오염수	[!Buff]污水
-#13964	[!GuideMessage]현재 고유 특성은 %s 특성입니다. 야수 진화 시, 현재 개인 고유 특성은 추가 특성으로 변경되어 교체 불가능하므로 더 나은 훈련 특성으로 교체하고 싶으시면 미리 교체하세요.	[!GuideMessage]当前的固有天赋是%s天赋。野兽进化时，当前的个体固有天赋将无法变更为附加天赋，若想变更为更适合的训练天赋，请提前进行更换。
+#13964	[!GuideMessage]현재 고유 특성은 %s 특성입니다. 야수 진화 시, 현재 개인 고유 특성은 추가 특성으로 변경되어 교체 불가능하므로 더 나은 훈련 특성으로 교체하고 싶으시면 미리 교체하세요.	[!GuideMessage]当前的固有天赋是%s天赋。野兽进化时，当前的个体固有天赋将无法变更为组合天赋，若想变更为更适合的训练天赋，请提前进行更换。
 #13965	[!GuideMessage]많은 야수를 길들인 경험이 쌓여 효과적으로 야수를 조련하는 방법을 깨달았습니다.	[!GuideMessage]通过积累驯服大量野兽的经验，领悟了驯兽的方法。
 #13966	[!GuideMessage]해당 제작을 통해 획득할 새로운 아이템 목록이 없습니다.	[!GuideMessage]通过该制作，没有可获得的新物品目录。
 #13968	[!GuideMessage]그림자란 언제나 존재하지만 의식하지 않는 한 보이지 않는 어둠의 공간이라는 것을 깨달았습니다.	[!GuideMessage]领悟到阴影是随时都存在，但却意识不到又看不见的黑暗空间。
@@ -8304,8 +8304,8 @@
 #14151	[!BuffGroup]중독	[!Buff]中毒
 #14152	[!BuffGroup]물	[!AbilitySubType]水
 #14153	[!GuideMessage]상태 계열:	[!GuideMessage]状态系列：
-#14154	[!GuideMessage]$MasteryName$ 특성 추가 효과가 해제되었습니다.	[!GuideMessage]$MasteryName$附加天赋效果被解除。
-#14155	[!GuideMessage]$MasteryName$ 특성 추가 효과가 발동하였습니다.	[!GuideMessage]$MasteryName$附加天赋效果被启动。
+#14154	[!GuideMessage]$MasteryName$ 특성 추가 효과가 해제되었습니다.	[!GuideMessage]$MasteryName$组合天赋效果被解除。
+#14155	[!GuideMessage]$MasteryName$ 특성 추가 효과가 발동하였습니다.	[!GuideMessage]$MasteryName$组合天赋效果被启动。
 #14158	[!GuideMessage]$RosterName$의 레벨이 현재 회사 동료 평균 레벨에 비례하여 $Level$ 레벨 상승합니다.	[!GuideMessage]$RosterName$的等级是根据当前公司同事们平均等级的一定比例而提高$Level$级。
 #14188	[!HelpCategory]전투 상태	[!HelpCategory]战斗状态
 #14198	[!WordCollection][!Menu]출현 지역	[!WordCollection][!Menu]出场地区
@@ -8502,8 +8502,8 @@
 #14445	[!TargetType]자신	[!WordCollection]自身
 #14446	[!Ability]산성 거미줄 낙하	[!Ability]酸性蛛网降落
 #14447	[!Ability]목표 범위 위의 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]给目标范围上的敌人造成$DamageAmount$的$DamageType$伤害。
-#14448	[!GuideMessage][colour='FFFFE959']트러블메이커 [colour='FFFFFFFF']$TroublemakerName$[colour='FFFFE959']의 정보 획득 [colour='FFFFFFFF']4[colour='FFFFE959'] 단계 보상으로 [colour='FFFFFFFF']$MasteryName$[colour='FFFFE959'] 추가 특성 효과 정보를 획득하였습니다. 	[!GuideMessage]作为[colour='FFFFE959']获得捣乱者一览[colour='FFFFFFFF']的$TroublemakerName$[colour='FFFFFFFF']4[colour='FFFFE959']级[colour='FFFFE959']信息的补偿，可获得[colour='FFFFFFFF']$MasteryName$[colour='FFFFE959']的附加天赋的信息。
-#14449	[!GuideMessage]트러블메이커 $TroublemakerName$의 정보 획득 4 단계 보상으로 $MasteryName$ 추가 특성 효과 정보를 획득하였습니다. 	[!GuideMessage]作为获得捣乱者一览的$TroublemakerName$4级信息的补偿，可获得$MasteryName$的附加天赋的信息。
+#14448	[!GuideMessage][colour='FFFFE959']트러블메이커 [colour='FFFFFFFF']$TroublemakerName$[colour='FFFFE959']의 정보 획득 [colour='FFFFFFFF']4[colour='FFFFE959'] 단계 보상으로 [colour='FFFFFFFF']$MasteryName$[colour='FFFFE959'] 추가 특성 효과 정보를 획득하였습니다. 	[!GuideMessage]作为[colour='FFFFE959']获得捣乱者一览[colour='FFFFFFFF']的$TroublemakerName$[colour='FFFFFFFF']4[colour='FFFFE959']级[colour='FFFFE959']信息的补偿，可获得[colour='FFFFFFFF']$MasteryName$[colour='FFFFE959']的组合天赋的信息。
+#14449	[!GuideMessage]트러블메이커 $TroublemakerName$의 정보 획득 4 단계 보상으로 $MasteryName$ 추가 특성 효과 정보를 획득하였습니다. 	[!GuideMessage]作为获得捣乱者一览的$TroublemakerName$4级信息的补偿，可获得$MasteryName$的组合天赋的信息。
 #14450	[!GuideMessage]근접한 적에게 받은 피해량의 %s만큼 해당 적에게 %s 속성 고정 피해를 입히며, 해당 대상이 %s 계열 상태 이상일 경우 피해량이 %s배가 됩니다.	[!GuideMessage]受到敌人的近战伤害时会返还%s的伤害量给攻击者，对其造成%s属性的固定伤害。若该目标处于%s系列异常状态时，该伤害量将变为%s倍。
 #14451	[!GuideMessage]$FieldEffectProb$ 확률로 해당 지형에 $White$산성 구름$Blue_ON$이 발생합니다.	[!GuideMessage]有$FieldEffectProb$的几率在该地形上引发$White$酸性云$Blue_ON$。
 #14452	[!GuideMessage]최대 $FieldEffectMaxCount$칸까지 $White$산성 구름$Blue_ON$이 발생합니다.	[!GuideMessage]最多会形成半径$FieldEffectMaxCount$格的$White$酸性云$Blue_ON$。
@@ -10081,7 +10081,7 @@
 #16679	[!GameSystemMessageFormat]$Menu$[가] 활성화되었습니다.	[!GameSystemMessageFormat]$Menu$被激活。
 #16680	[!GameSystemMessageFormat]게임 난이도 $Difficulty$ 난이도가 활성화되었습니다.	[!GameSystemMessageFormat]游戏难度$Difficulty$被激活。
 #16681	[!GameSystemMessageFormat]$Who$의 제안이 활성화되었습니다.	[!GameSystemMessageFormat]$Who$的提案被采纳。
-#16682	[!GameSystemMessageFormat]$MasteryWhite$ 추가 특성 효과 정보를 획득하였습니다.	[!GameSystemMessageFormat]获得了$MasteryWhite$附加天赋的信息。
+#16682	[!GameSystemMessageFormat]$MasteryWhite$ 추가 특성 효과 정보를 획득하였습니다.	[!GameSystemMessageFormat]获得了$MasteryWhite$组合天赋的信息。
 #16684	[!GameSystemMessageFormat]전원 퇴근합니다.	[!Dialog]全员下班。
 #16685	[!GameSystemMessageFormat]다음 날이 되었습니다.	[!Dialog]过了一天。
 #16686	[!GameSystemMessageFormat]창고에 작업대를 설치하실 수 있습니다.	[!Dialog]可在仓库里安装工作台。
@@ -10298,7 +10298,7 @@
 #16897	[!GuideMessage][colour='FFFFFF00']기본 능력치와 보조 능력치가 공개됩니다.[colour='FFFFFFFF']<br>해당 대상에 대한 명중률이 3% 증가합니다.	[!GuideMessage][colour='FFFFFF00']基础能力值和辅助能力值已被公开。[colour='FFFFFFFF']<br>对于该目标的命中率提升3%。
 #16898	[!GuideMessage][colour='FFFFFF00']기본 어빌리티와 공격 능력, 특성 및 전리품의 개수가 공개됩니다.[colour='FFFFFFFF']<br>해당 대상의 공격에 대한 회피율이 3% 증가합니다.	[!GuideMessage][colour='FFFFFF00']基础技能和攻击能力，天赋及战利品个数已被公开。[colour='FFFFFFFF']<br>对于该目标的攻击的闪避率提升3%。
 #16899	[!GuideMessage][colour='FFFFFF00']장비와 전리품의 등급 정보 및 방어 능력이 공개됩니다. 길들일 수 있는 야수인 경우, 클래스 특성 연구 가능 보상 정보가 공개됩니다.[colour='FFFFFFFF']<br>해당 대상에 대한 치명타 적중률이 5% 증가합니다.	[!GuideMessage][colour='FFFFFF00']装备和战利品的级别信息及防御能力已被公开。如果是野兽的话，可研究的职业天赋奖励将已被公开。[colour='FFFFFFFF']<br>对于该目标的暴击率提升5%。
-#16900	[!GuideMessage][colour='FFFFFF00']장비와 전리품 및 능력치의 정보가 모두 공개됩니다.[colour='FFFFFFFF']<br>해당 대상의 공격에 대한 방어율이 5% 증가합니다.<br>대상이 보유한 추가 특성 효과에 대한 정보를 얻습니다.	[!GuideMessage][colour='FFFFFF00']装备，战利品与能力值的信息已全部公开。[colour='FFFFFFFF']<br>对该目标的攻击的格挡增加5%。<br>可获得目标附加天赋的信息。
+#16900	[!GuideMessage][colour='FFFFFF00']장비와 전리품 및 능력치의 정보가 모두 공개됩니다.[colour='FFFFFFFF']<br>해당 대상의 공격에 대한 방어율이 5% 증가합니다.<br>대상이 보유한 추가 특성 효과에 대한 정보를 얻습니다.	[!GuideMessage][colour='FFFFFF00']装备，战利品与能力值的信息已全部公开。[colour='FFFFFFFF']<br>对该目标的攻击的格挡增加5%。<br>可获得目标组合天赋的信息。
 #16901	[!GuideMessage][colour='FFFFFF00']특성의 획득 확률이 공개됩니다.[colour='FFFFFFFF']<br>해당 대상에 대한 피해량이 5% 증가합니다.	[!GuideMessage][colour='FFFFFF00']天赋获得几率已被公开。[colour='FFFFFFFF']<br>对于该目标的伤害量提高5%。
 #16902	[!GuideMessage][colour='FFFFFF00']전리품의 획득 확률이 공개됩니다.[colour='FFFFFFFF']<br>해당 대상의 공격에 대한 피해량이 5% 감소합니다.	[!GuideMessage][colour='FFFFFF00']战利品获取几率已被公开。[colour='FFFFFFFF']<br>该目标的攻击造成的伤害量降低5%。
 #16903	[!GuideMessage][colour='FFFFFF00']출현 지역 정보가 모두 공개됩니다.[colour='FFFFFFFF']<br>보상 받기를 통하여 %s 을 입수할 수 있습니다.	[!GuideMessage][colour='FFFFFF00']可能的出场地区已被公开。[colour='FFFFFFFF']<br>可通过下方的「获取奖励」来获得%s。
@@ -15365,7 +15365,7 @@
 #23500	[!Mastery]자신에게는 적용되지 않습니다.	[!Mastery]不适用于自己。
 #23501	[!WordCollection]뒤로	[!LayoutKeyword]上一阶段
 #23502	[!WordCollection]모드 선택	[!WordCollection]选择模式
-#23503	[!GuideMessage]참여하는 플레이어의 캐릭터의 최고 레벨과 미션의 권장레벨 차이만큼 적의 레벨이 상승합니다. 또한 적의 레벨 상승에 따라 추가 특성들이 랜덤으로 부여됩니다. 플레이어 캐릭터의 최고 레벨이 권장 레벨보다 낮으면 적용되지 않습니다. 트러블메이커 일람의 정보 획득량이 $Num$배 증가합니다.	[!GuideMessage]敌人的等级将以参与的玩家角色最高等级与任务的推荐等级的差异而上升。而且根据敌人的等级的上升，将随机给予附加天赋。玩家角色的最高等级低于任务的推荐等级时，将不会适用。捣乱者一览表的情报获得量将增加$Num$倍。
+#23503	[!GuideMessage]참여하는 플레이어의 캐릭터의 최고 레벨과 미션의 권장레벨 차이만큼 적의 레벨이 상승합니다. 또한 적의 레벨 상승에 따라 추가 특성들이 랜덤으로 부여됩니다. 플레이어 캐릭터의 최고 레벨이 권장 레벨보다 낮으면 적용되지 않습니다. 트러블메이커 일람의 정보 획득량이 $Num$배 증가합니다.	[!GuideMessage]敌人的等级将以参与的玩家角色最高等级与任务的推荐等级的差异而上升。而且根据敌人的等级的上升，将随机给予组合天赋。玩家角色的最高等级低于任务的推荐等级时，将不会适用。捣乱者一览表的情报获得量将增加$Num$倍。
 #23504	[!GuideMessage]여기를 더블 클릭하시면 간소화됩니다.	[!GuideMessage]双击可简化。
 #23505	[!Item]자홍빛 케이퍼 V9	[!Item]紫红色凯尔佛V9
 #23506	[!Loading]하늘바람 상점가	[!Loading]天风商店街
@@ -15588,9 +15588,9 @@
 #23728	[!WordCollection][!Menu]캐릭터 관리	[!WordCollection][!Menu]角色管理
 #23729	[!WordCollection]장착 가능	[!WordCollection]可装备
 #23730	[!WordCollection]장착 중	[!WordCollection]已装备
-#23731	[!WordCollection]장착 가능한 추가 특성	[!WordCollection]可装备的附加天赋
-#23732	[!WordCollection]현재 장착한 추가 특성	[!WordCollection]已装备的附加天赋
-#23733	[!WordCollection]알려진 전체 추가 특성	[!WordCollection]所有已知道的附加天赋
+#23731	[!WordCollection]장착 가능한 추가 특성	[!WordCollection]可装备的组合天赋
+#23732	[!WordCollection]현재 장착한 추가 특성	[!WordCollection]已装备的组合天赋
+#23733	[!WordCollection]알려진 전체 추가 특성	[!WordCollection]已知的组合天赋
 #23734	[!WordCollection]프리셋 설정	[!LayoutKeyword]预置设置
 #23735	[!GuideMessage]대표 캐릭터는 다른 유저들과 만날 수 있는 외부 로비에서 사용되는 캐릭터입니다.	[!GuideMessage]代表角色是在外部大厅与其他用户见面时使用的角色。
 #23736	[!GuideMessage]발키리 코인은 추가 특성판 확장과 같은 편의 기능과 일반적으로 입수 불가능한 아이템을 파는 발리키 상점에서만 이용할 수 있는 화폐입니다.	[!GuideMessage]女武神硬币是在专门贩卖像追加天赋版等的便利功能和无法在一般情况下获得的物品的女武神商店中使用的。
