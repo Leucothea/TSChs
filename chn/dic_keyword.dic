@@ -858,7 +858,7 @@
 #1997	[!MasteryType]투척꾼	[!MasteryType]投手
 #1998	[!MasteryType]티마	[!MasteryType]蒂玛
 #1999	[!MasteryType]물	[!MasteryType]流水
-#2000	[!MasteryType]바람	[!MasteryType]暴风
+#2000	[!MasteryType]바람	[!MasteryType]疾风
 #2001	[!Mission]적 전멸	[!Mission]敌人全灭
 #2005	[!Mission]보급 선박 정보를 입수하여 시간 내 탈출하시오.	[!Mission]请收集补给船舶的信息后，在指定时间内逃离。
 #2006	[!Mission]전원 생존하여 탈출하시오.	[!Mission]请全员幸存状态下逃离。
@@ -1092,8 +1092,8 @@
 #2880	[!Status]야간 시야	[!Status]晚间视野
 #2882	[!Status]참격 저항	[!Status]斩击抗性
 #2884	[!Status]턴 속도	[!Status]回合速度
-#2886	[!Status]물 저항	[!Status]水抗性
-#2888	[!Status]바람 저항	[!Status]风抗性
+#2886	[!Status]물 저항	[!Status]流水抗性
+#2888	[!Status]바람 저항	[!Status]疾风抗性
 #2890	[!SystemMessage]중복 로그인을 허용하지 않습니다.	[!SystemMessage]不允许重复登录。
 #2891	[!SystemMessage]싱글 미션만 임의로 그만둘 수 있습니다.	[!SystemMessage]只有单人任务允许随意中断。
 #2892	[!SystemMessage]\[%s\]님의 인벤토리가 가득차서 거래가 불가능합니다.	[!SystemMessage]\[%s\]的背包已满，无法交易。
@@ -2288,8 +2288,8 @@
 #4702	[!Status][!Short]근접 공격 치명타 적중률	[!Status][!Short]近身攻击暴击率
 #4703	[!Status][!Short]관통 공격 치명타 적중률	[!Status][!Short]穿透攻击暴击率
 #4704	[!Status][!Short]참격 공격 치명타 적중률	[!Status][!Short]斩击攻击暴击率
-#4705	[!Status][!Short]물 공격 치명타 적중률	[!Status][!Short]水攻击暴击率
-#4706	[!Status][!Short]바람 공격 치명타 적중률	[!Status][!Short]风攻击暴击率
+#4705	[!Status][!Short]물 공격 치명타 적중률	[!Status][!Short]流水攻击暴击率
+#4706	[!Status][!Short]바람 공격 치명타 적중률	[!Status][!Short]疾风攻击暴击率
 #4707	[!Status][!Short]공격 피해량	[!Status][!Short]攻击伤害
 #4708	[!Status][!Short]타격 공격 피해량	[!Status][!Short]打击攻击伤害
 #4709	[!Status][!Short]대지 공격 피해량	[!Status][!Short]大地攻击伤害
@@ -2302,8 +2302,8 @@
 #4716	[!Status][!Short]근접 공격 피해량	[!Status][!Short]近身攻击伤害
 #4717	[!Status][!Short]관통 공격 피해량	[!Status][!Short]穿透攻击伤害
 #4718	[!Status][!Short]참격 공격 피해량	[!Status][!Short]斩击攻击伤害
-#4719	[!Status][!Short]물 공격 피해량	[!Status][!Short]水攻击伤害
-#4720	[!Status][!Short]바람 공격 피해량	[!Status][!Short]风攻击伤害
+#4719	[!Status][!Short]물 공격 피해량	[!Status][!Short]流水攻击伤害
+#4720	[!Status][!Short]바람 공격 피해량	[!Status][!Short]疾风攻击伤害
 #4721	[!Status][!Short]타격 공격 명중률	[!Status][!Short]打击攻击命中率
 #4722	[!Status][!Short]대지 공격 명중률	[!Status][!Short]大地攻击命中率
 #4723	[!Status][!Short]폭발 공격 명중률	[!Status][!Short]爆炸攻击命中率
@@ -2315,12 +2315,12 @@
 #4729	[!Status][!Short]근접 공격 명중률	[!Status][!Short]近身攻击命中率
 #4730	[!Status][!Short]관통 공격 명중률	[!Status][!Short]穿透攻击命中率
 #4731	[!Status][!Short]참격 공격 명중률	[!Status][!Short]斩击攻击命中率
-#4732	[!Status][!Short]물 공격 명중률	[!Status][!Short]水攻击命中率
-#4733	[!Status][!Short]바람 공격 명중률	[!Status][!Short]风攻击命中率
+#4732	[!Status][!Short]물 공격 명중률	[!Status][!Short]流水攻击命中率
+#4733	[!Status][!Short]바람 공격 명중률	[!Status][!Short]疾风攻击命中率
 #4734	[!Status][!Short]번개 저항	[!Status][!Short]闪电抗性
 #4737	[!Status][!Short]기력	[!Status][!Short]气力
 #4740	[!Status][!Short]체력	[!Status][!Short]体力
-#4742	[!Status][!Short]바람	[!Status][!Short]风
+#4742	[!Status][!Short]바람	[!Status][!Short]疾风
 #4743	[!Status][!Short]관통 저항	[!Status][!Short]穿透抗性
 #4745	[!Status][!Short]저항력	[!Status][!Short]抗性
 #4746	[!Status][!Short]시야	[!Status][!Short]视野
@@ -2328,8 +2328,8 @@
 #4748	[!Status][!Short]야간 시야	[!Status][!Short]夜间视野
 #4749	[!Status][!Short]참격 저항	[!Status][!Short]斩击抗性
 #4750	[!Status][!Short]턴 속도	[!Status][!Short]回合速度
-#4751	[!Status][!Short]물 저항	[!Status][!Short]水抗性
-#4752	[!Status][!Short]바람 저항	[!Status][!Short]风抗性
+#4751	[!Status][!Short]물 저항	[!Status][!Short]流水抗性
+#4752	[!Status][!Short]바람 저항	[!Status][!Short]疾风抗性
 #4753	[!FilteringWord]아르월	[!FilteringWord]阿尔月
 #4754	[!FilteringWord]무장해제	[!FilteringWord]解除武装
 #4755	[!FilteringWord]댄디라이언	[!FilteringWord]丹迪・瑞恩
@@ -3192,9 +3192,9 @@
 #6152	[!Status]참격 공격 치명타 피해량	[!Status]斩击攻击暴击伤害
 #6153	[!Status][!Short]참격 공격 치명타 피해량	[!Status][!Short]斩击攻击暴击伤害
 #6154	[!Status]물 공격 치명타 피해량	[!Status]水攻击暴击伤害
-#6155	[!Status][!Short]물 공격 치명타 피해량	[!Status][!Short]水攻击暴击伤害
+#6155	[!Status][!Short]물 공격 치명타 피해량	[!Status][!Short]流水攻击暴击伤害
 #6156	[!Status]바람 공격 치명타 피해량	[!Status]风攻击暴击伤害
-#6157	[!Status][!Short]바람 공격 치명타 피해량	[!Status][!Short]风攻击暴击伤害
+#6157	[!Status][!Short]바람 공격 치명타 피해량	[!Status][!Short]疾风攻击暴击伤害
 #6158	[!WordCollection]회사 통계	[!WordCollection]公司统计
 #6159	[!Buff]화남	[!Buff]发火
 #6168	[!GuideMessage]작성중인 메일이 있습니다. 그래도 진행합니까?	[!GuideMessage]有编辑中的邮件。还继续吗？
@@ -3210,9 +3210,9 @@
 #6197	[!Status][!Short]얼음	[!Status][!Short]寒冰
 #6198	[!Status]번개 SP	[!Status]闪电SP
 #6199	[!Status][!Short]번개	[!Status][!Short]闪电
-#6200	[!Status]물 SP	[!Status]水SP
-#6201	[!Status][!Short]물	[!Status][!Short]水
-#6202	[!Status]바람 SP	[!Status]风SP
+#6200	[!Status]물 SP	[!Status]流水SP
+#6201	[!Status][!Short]물	[!Status][!Short]流水
+#6202	[!Status]바람 SP	[!Status]疾风SP
 #6209	[!ESP]기백	[!ESP]气魄
 #6213	[!Mastery]1%의 가능성 그것이 나의 길이다.	[!Mastery]1%的可能性，那就是我的道路。
 #6214	[!Mastery]호쾌한 기백	[!Mastery]爽快的气魄
@@ -6366,7 +6366,7 @@
 #10857	[!Status][!Short]장비한 아이템의 방어력	[!Status][!Short]以装备物品的防御力
 #10858	[!Status]장비한 아이템의 공격력	[!Status]以装备物品的攻击力
 #10859	[!Status][!Short]장비한 아이템의 공격력	[!Status][!Short]以装备物品的攻击力
-#10860	[!WordCollection][!Menu]사용 가능한 클래스 특성	[!WordCollection][!Menu]可用职业天赋
+#10860	[!WordCollection][!Menu]사용 가능한 클래스 특성	[!WordCollection][!Menu]可用天赋类型
 #10861	[!Ability]레서류 6식 - 정면돌파	[!Ability]蕾西流6式 - 正面突破
 #10862	[!Ability]레서류 4식 - 화륜마차	[!Ability]蕾西流4式 - 火轮马车
 #10863	[!Ability]레서류 5식 - 낚아채기	[!Ability]蕾西流5式 - 截取
@@ -15306,8 +15306,8 @@
 #23433	[!LayoutKeyword]필요 재료 제작	[!LayoutKeyword]必要的材料制作
 #23434	[!Mastery]$Buff$ 상태인 경우 발동하지 않습니다.	[!Mastery]$Buff$状态时将不会发动这效果。
 #23435	[!QuestType_CollectItem_Kill]사라진 시곗줄	[!Quest]消失的表带
-#23436	[!WordCollection][!Menu]클래스 변경 필요 아이템	[!WordCollection][!Menu]需要的物品
-#23437	[!WordCollection][!Menu]진화 필요 아이템	[!WordCollection][!Menu]需要的物品
+#23436	[!WordCollection][!Menu]클래스 변경 필요 아이템	[!WordCollection][!Menu]需要的道具
+#23437	[!WordCollection][!Menu]진화 필요 아이템	[!WordCollection][!Menu]需要的道具
 #23438	[!GuideMessage]해당 제작은 추가 숙련도만 획득 가능합니다.	[!GuideMessage]该制作只能获得额外熟练度。
 #23439	[!GuideMessage]해당 아이템 제작으로 획득하는 제작 숙련도의 $Value$만큼 추가 숙련도를 얻습니다.	[!GuideMessage]制作该物品时将获得所获得熟练度的$Value$的额外熟练度。
 #23440	[!GuideMessage]현재 $Type$ $Level$ 전문 기술로 제작 가능한 모든 아이템의 제작 숙련도에 획득한 추가 숙련도가 균등 분배됩니다.	[!GuideMessage]当前以$Type$ $Level$专门技术可制作的所有物品的制作熟练度所获得的额外熟练度将会被均分。
