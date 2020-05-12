@@ -13129,7 +13129,7 @@
 #22947	[!DialogQuest][!speaker:Albus_Normal]네.	[!Dialog][!speaker:Anne_Normal]是的。
 #22948	[!DialogQuest][!speaker:Sion_SurpriseStare]'아... 설마?'	[!DialogQuest][!speaker:Sion_SurpriseStare]（啊...不会又？）
 #22949	[!DialogQuest][!speaker:Albus_Normal]무슨 일이신가요?	[!DialogQuest][!speaker:Albus_Normal]有什么事情呢？
-#22950	[!DialogQuest][!speaker:Sam_Smile]혹시 너희 회사에서 처분하지 못한 맹수의 뼈가 있지 않아?	[!DialogQuest][!speaker:Sam_Smile]难道你们还有没处理完而剩余的猛兽骨头吗？
+#22950	[!DialogQuest][!speaker:Sam_Smile]혹시 너희 회사에서 처분하지 못한 맹수의 뼈가 있지 않아?	[!DialogQuest][!speaker:Sam_Smile]难道你们还有没处理完而剩余的猛兽之骨吗？
 #22951	[!DialogQuest][!speaker:Albus_SurpriseStare]맹수의 뼈요?	[!DialogQuest][!speaker:Albus_SurpriseStare]猛兽的骨头吗？
 #22952	[!DialogQuest][!speaker:Sam_Smile]그래. 각종 물품 제작에 다양하게 쓰이는 재료지.	[!DialogQuest][!speaker:Sam_Smile]是啊，是用于制作各种物品的素材啊。
 #22953	[!DialogQuest][!speaker:Irene_Surprise]여기서 팔고 있는 이것이 맹수의 뼈 아닌가?	[!DialogQuest][!speaker:Irene_Surprise]在这里卖的不是猛兽的骨头吗？
@@ -14571,7 +14571,7 @@
 #24655	[!DialogQuest][!speaker:Sabana_Smile]우리같은 보석, 귀금속을 많이 다루는 업종에서 세척제로 많이 사용해.	[!DialogQuest][!speaker:Sabana_Smile]像我们这样使用宝石，贵金属的人常会使用。
 #24656	[!DialogQuest][!speaker:Anne_Smile_Surprise]세척제요?	[!DialogQuest][!speaker:Anne_Smile_Surprise]洗涤剂吗？
 #24657	[!DialogQuest][!speaker:Camila_Smile]응. 안개 이능석은 보석과 귀금속의 세척제로 많이 사용돼.	[!DialogQuest][!speaker:Camila_Smile]嗯，雾霭异能石常以洗涤剂使用。
-#24658	[!DialogQuest][!speaker:Sabana_Smile]그래서 대부분 보석 관련 가게들은 이능석 중개소와 긴밀한 관계를 유지하고 있고 웬만하면 같이 입점하는 경우가 많아.	[!DialogQuest][!speaker:Sabana_Smile]所以大部分珠宝相关店铺都与异能石中介所保持着紧密的联系。一般情况下都是一同进店。
+#24658	[!DialogQuest][!speaker:Sabana_Smile]그래서 대부분 보석 관련 가게들은 이능석 중개소와 긴밀한 관계를 유지하고 있고 웬만하면 같이 입점하는 경우가 많아.	[!DialogQuest][!speaker:Sabana_Smile]所以大部分宝石相关店铺都与异能石中介所保持着紧密的联系。一般情况下都是一同进店。
 #24659	[!DialogQuest][!speaker:Irene_Think]'아... 그래서 그런거였군.'	[!DialogQuest][!speaker:Irene_Think]（啊...原来如此。）
 #24660	[!DialogQuest][!speaker:Anne_Smile]그런 이유가 있는 줄 전혀 몰랐어요.	[!DialogQuest][!speaker:Anne_Smile]我完全不知道的呢。
 #24661	[!DialogQuest][!speaker:Sabana_Smile]나도 이 일을 하기 전까지는 전혀 몰랐단다.	[!DialogQuest][!speaker:Sabana_Smile]我也是在做这件事之前根本就没想到。

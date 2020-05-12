@@ -489,9 +489,9 @@
 #1002	[!Item]마술사 반지	[!Item]魔术师戒指
 #1003	[!Item]현자 반지	[!Item]贤者戒指
 #1004	[!Item]야수의 가죽	[!Item]野兽之皮
-#1005	[!Item]얼음 가죽	[!Item]寒冰皮革
-#1006	[!Item]용암 가죽	[!Item]熔岩皮革
-#1007	[!Item]번개 가죽	[!Item]闪电皮革
+#1005	[!Item]얼음 가죽	[!Item]寒冰之皮
+#1006	[!Item]용암 가죽	[!Item]熔岩之皮
+#1007	[!Item]번개 가죽	[!Item]闪电之皮
 #1008	[!Item]괴수의 가죽	[!Item]怪兽之皮
 #1009	[!Item]맹수의 가죽	[!Item]猛兽之皮
 #1010	[!Item]찢어진 가죽	[!Item]破损之皮
@@ -526,15 +526,15 @@
 #1184	[!ItemType]도끼	[!ItemType]斧子
 #1186	[!ItemType]팔찌	[!ItemType]手镯
 #1187	[!ItemType]단봉	[!ItemType]短棍
-#1190	[!ItemType]뼈	[!ItemType]骨头
+#1190	[!ItemType]뼈	[!ItemType]骨素材
 #1192	[!ItemType]병	[!ItemType]瓶子
 #1193	[!ItemType]손목 고리	[!ItemType]手链
 #1196	[!ItemType]절단기	[!ItemType]切割器
-#1197	[!ItemType]발톱	[!ItemType]利爪
+#1197	[!ItemType]발톱	[!ItemType]爪素材
 #1198	[!ItemType]한손 둔기	[!ItemType]单手钝器
 #1200	[!ItemType]결정체	[!ItemType]结晶体
 #1201	[!ItemType]단검	[!ItemType]短剑
-#1204	[!ItemType]송곳니	[!ItemType]尖牙
+#1204	[!ItemType]송곳니	[!ItemType]牙素材
 #1205	[!ItemType]기어	[!ItemType]齿轮
 #1206	[!ItemType]수류탄	[!ItemType]手榴弹
 #1208	[!ItemType]중화기	[!ItemType]重火器
@@ -835,7 +835,7 @@
 #1971	[!MasteryType]회사	[!MasteryType]公司
 #1972	[!MasteryType]대지	[!MasteryType]大地
 #1973	[!MasteryType]기술자	[!MasteryType]工程师
-#1975	[!MasteryType]싸움꾼	[!MasteryType]战斗专家
+#1975	[!MasteryType]싸움꾼	[!MasteryType]打手
 #1976	[!MasteryType]화염	[!MasteryType]火焰
 #1977	[!MasteryType]총잡이	[!MasteryType]枪手
 #1978	[!MasteryType]헤이싱	[!MasteryType]黑星
@@ -969,7 +969,7 @@
 #2163	[!ObjectInfo]스컬 크래셔	[!ObjectInfo]骷髅击碎者
 #2164	[!ObjectInfo]스컬 슬래셔	[!ObjectInfo]骷髅砍杀者
 #2166	[!ObjectInfo]스컬 이터	[!ObjectInfo]骷髅吞噬者
-#2167	[!ObjectInfo]거리 싸움꾼	[!ObjectInfo]街头战斗专家
+#2167	[!ObjectInfo]거리 싸움꾼	[!ObjectInfo]街头打手
 #2171	[!ObjectInfo]트레이	[!ObjectInfo]特莱
 #2172	[!ObjectInfo]트윙클 잭	[!ObjectInfo]闪耀杰克
 #2177	[!ObjectInfo]백호 도살자	[!ObjectInfo]白虎屠杀者
@@ -1006,7 +1006,7 @@
 #2236	[!ObjectInfo]스컬	[!ObjectInfo]骷髅
 #2237	[!ObjectInfo]스틸헤드 시위꾼	[!ObjectInfo]铁头示威者
 #2238	[!ObjectInfo]스틸헤드 속도광	[!ObjectInfo]铁头速度狂人
-#2239	[!ObjectInfo]스틸헤드 싸움꾼	[!ObjectInfo]铁头战斗专家
+#2239	[!ObjectInfo]스틸헤드 싸움꾼	[!ObjectInfo]铁头打手
 #2243	[!ObjectInfo]감시망	[!ObjectInfo]监视网
 #2248	[!ObjectInfo]수송 드론	[!ObjectInfo]运输无人机
 #2249	[!ObjectInfo]제인	[!ObjectInfo]珍
@@ -2368,7 +2368,7 @@
 #4794	[!Mastery]생존을 위한 마지막 발악이 광기를 만든다.	[!Mastery]为了生存而最后的挣扎会变成疯狂。
 #4795	[!Mastery]백호	[!Mastery]白虎
 #4796	[!MissionWeather]흐림	[!MissionWeather]阴天
-#4797	[!ObjectInfo]뒷거리 싸움꾼	[!ObjectInfo]后巷战斗专家
+#4797	[!ObjectInfo]뒷거리 싸움꾼	[!ObjectInfo]后巷打手
 #4798	[!ObjectInfo]뒷거리 칼잡이	[!ObjectInfo]后巷刀客
 #4799	[!ObjectInfo]뒷거리 조장	[!ObjectInfo]后巷组长
 #4800	[!ObjectInfo]뒷거리 소란꾼	[!ObjectInfo]后巷捣乱者
@@ -2495,7 +2495,7 @@
 #5022	[!WordCollection]건너뛰기	[!WordCollection]跳过
 #5024	[!SystemMessage]서버와 버젼이 맞지 않습니다.<br><br>종료 후 업데이트를 받고 다시 실행해주세요.	[!SystemMessage]和服务器的版本不同。<br><br>请更新后，重新执行游戏。
 #5025	[!SystemMessage]서버와 버젼이 맞지 않습니다.<br><br>종료 후 업데이트를 받고 다시 실행해주세요. 자동 업데이트가 안 될 시에는 무결성 검사를 실행해주세요.	[!SystemMessage]和服务器的版本不同。<br><br>请更新后，重新执行游戏。无法自动更新时请检查完整性。
-#5026	[!Job]싸움꾼	[!Job]战斗专家
+#5026	[!Job]싸움꾼	[!Job]打手
 #5027	[!Job]원소술사	[!Job]元素术士
 #5029	[!SystemMessage]경고: 회복 대상 없음	[!SystemMessage]警告：无恢复对象
 #5030	[!SystemMessage]이 행동으로 아무도 체력이 회복되지 않습니다!<br>이 행동을 계속 하시겠습니까?	[!SystemMessage]这个行为无法恢复任何人的体力！<br>还继续吗？
@@ -3016,7 +3016,7 @@
 #5958	[!ItemIdentify]강화된 %s	[!ItemIdentify]强化的%s
 #5959	[!ItemIdentify]쌍두거인의 %s	[!ItemIdentify]双头巨人的%s
 #5960	[!ItemIdentify]탐험가의 %s	[!ItemIdentify]探险家的%s
-#5961	[!ItemIdentify]싸움꾼의 %s	[!ItemIdentify]战斗专家的%s
+#5961	[!ItemIdentify]싸움꾼의 %s	[!ItemIdentify]打手的%s
 #5962	[!ItemIdentify]불꽃 화살의 %s	[!ItemIdentify]火花箭矢的%s
 #5963	[!ItemIdentify]불꽃 칼날의 %s	[!ItemIdentify]火花剑的%s
 #5964	[!ItemIdentify]불꽃 파괴자의 %s	[!ItemIdentify]火花破坏者的%s
@@ -4638,7 +4638,7 @@
 #8300	[!Loading]피리 부는 사나이	[!Loading]吹笛子的男人
 #8303	[!Mastery]파괴에 대한 욕망은 언젠가 멈추기 마련입니다.	[!Mastery]破坏的欲望总有一天会消灭的。
 #8304	[!Mastery]피의 갈증	[!Mastery]血之饥渴
-#8306	[!ObjectInfo]스푼교 싸움꾼	[!ObjectInfo]勺子教战斗专家
+#8306	[!ObjectInfo]스푼교 싸움꾼	[!ObjectInfo]勺子教打手
 #8307	[!ObjectInfo]스푼교 총잡이	[!ObjectInfo]勺子教枪手
 #8308	[!ObjectInfo]스푼교 칼잡이	[!ObjectInfo]勺子教刀客
 #8310	[!Mastery]네가 나에게 준 고통은 잊지 않는다.	[!Mastery]我不会忘了你带给我的痛苦的。
@@ -5704,7 +5704,7 @@
 #9833	[!Mastery]도망칠 수 없도록 모든 경우의 수를 봉쇄한다.	[!Mastery]为了不让其逃跑而封锁所有可能的路径。
 #9834	[!Mastery]사전계획	[!Mastery]事前计划
 #9836	[!Mastery]세상에 대한 원망은 곧 자신을 망치는 독일세	[!Mastery]对于世间的怨恨就是毁了你自己的毒药啊。
-#9837	[!Mastery]독주머니	[!Mastery]毒药包
+#9837	[!Mastery]독주머니	[!Mastery]剧毒囊
 #9838	[!ObjectInfo]검은 도로리	[!ObjectInfo]黑色多罗利
 #9839	[!ObjectInfo]검은 왕도로리	[!ObjectInfo]黑色多罗利大王
 #9840	[!ObjectInfo]용암 도로리	[!ObjectInfo]熔岩多罗利
@@ -5732,16 +5732,16 @@
 #9865	[!Item]황요석	[!Item]黄曜石
 #9866	[!Item]흠집난 황요석	[!Item]有瑕疵的黄曜石
 #9867	[!Item]온전한 황요석	[!Item]完整的黄曜石
-#9868	[!Item]독 주머니	[!Item]毒药包
-#9869	[!Item]커다란 독 주머니	[!Item]巨型毒药包
-#9870	[!Item]작은 독 주머니	[!Item]小型毒药包
+#9868	[!Item]독 주머니	[!Item]剧毒囊
+#9869	[!Item]커다란 독 주머니	[!Item]巨型剧毒囊
+#9870	[!Item]작은 독 주머니	[!Item]小型剧毒囊
 #9871	[!Item]도로리 가죽	[!Item]多罗利皮
 #9872	[!Item]왕도로리 가죽	[!Item]多罗利大王的皮
 #9873	[!Item]얇은 야샤 가죽	[!Item]轻薄的夜叉皮
 #9874	[!Item]두꺼운 야샤 가죽	[!Item]厚重的夜叉皮
 #9875	[!Item]야샤 가죽	[!Item]夜叉皮
-#9876	[!ItemType]보석	[!ItemType]珠宝
-#9877	[!ItemType]주머니	[!ItemType]包
+#9876	[!ItemType]보석	[!ItemType]宝石
+#9877	[!ItemType]주머니	[!ItemType]囊袋素材
 #9878	[!Loading]철의 숲 자원관리구역	[!Loading]铁森林资源管理区
 #9882	[!Mastery]가장 신선한 피를 원해!	[!Mastery]为了最新鲜的血液！
 #9883	[!Mastery]생기 흡수	[!Mastery]吸收活力
@@ -6050,8 +6050,8 @@
 #10300	[!Troublebook]힘겨루기	[!Troublebook]角力
 #10301	[!ChatSubCategory]전투 알림	[!ChatSubCategory]战斗信息
 #10302	[!ChatSubCategory]자막	[!ChatSubCategory]对话记录
-#10304	[!Profession]각종 보석 재료를 더 좋은 등급의 재료로 제작할 수 있습니다.	[!Profession]可将各类珠宝素材制成更高级别的珠宝素材。
-#10305	[!Profession]보석 세공	[!Profession]珠宝细工
+#10304	[!Profession]각종 보석 재료를 더 좋은 등급의 재료로 제작할 수 있습니다.	[!Profession]可将各类宝石素材制成更高级别的宝石素材。
+#10305	[!Profession]보석 세공	[!Profession]宝石细工
 #10306	[!MasteryType]암살자	[!MasteryType]暗杀者
 #10307	[!Buff]물	[!Buff]流水
 #10308	[!DamageCondition]지형효과: 물	[!DamageCondition]地形效果：水
@@ -7014,8 +7014,8 @@
 #11805	[!NamedEvent]다음 10년도 우리가 지배한다.	[!NamedEvent]往后的10年，我们也会统治。
 #11806	[!NamedEvent]이곳을 지배하는 것은 백호다.	[!NamedEvent]统治这里的是白虎。
 #11808	[!NamedEvent]백호파 저격수 리더	[!NamedEvent]白虎狙击手领队
-#11809	[!ObjectInfo]거리 협박꾼	[!ObjectInfo]大街赖汉
-#11811	[!ObjectInfo]백호 협박꾼	[!ObjectInfo]白虎赖汉
+#11809	[!ObjectInfo]거리 협박꾼	[!ObjectInfo]大街敲诈者
+#11811	[!ObjectInfo]백호 협박꾼	[!ObjectInfo]白虎敲诈者
 #11812	[!ObjectInfo]후성	[!ObjectInfo]侯成
 #11813	[!ObjectInfo]백호 불한당	[!ObjectInfo]白虎流氓
 #11814	[!ObjectInfo]다리우스	[!ObjectInfo]大流士
@@ -7368,7 +7368,7 @@
 #12314	[!Mastery]고정관념은 버려.	[!Mastery]丢掉固有观念吧。
 #12315	[!Mastery]마력 전환	[!Mastery]魔法转换
 #12317	[!Mastery]거리 싸움은 언제나 순식간이지.	[!Mastery]街头巷尾的打架斗殴总是在一瞬间分出胜负。
-#12318	[!Mastery]거리의 싸움꾼	[!Mastery]街头战斗专家
+#12318	[!Mastery]거리의 싸움꾼	[!Mastery]街头打手
 #12319	[!GuideMessage][colour='FFFFE959']회사 입사 보너스: [colour='FFFFFFFF']$RosterName$[colour='FFFFE959']의 레벨이 현재 회사 동료 평균 레벨에 비례하여 [colour='FFFFFFFF']$Level$[colour='FFFFE959'] 레벨 상승합니다.	[!GuideMessage][colour='FFFFE959']入职公司奖励：[colour='FFFFFFFF']$RosterName$[colour='FFFFE959']的等级达到了[colour='FFFFFFFF']$Level$[colour='FFFFE959']。
 #12329	[!Mastery]마력 노심	[!Mastery]魔力堆芯
 #12335	[!MissionPsionicStoneAmount]거의 없음	[!MissionPsionicStoneAmount]很少
@@ -7537,7 +7537,7 @@
 #12540	[!ObjectInfo]알비노 네구리	[!ObjectInfo]白化纳古利
 #12541	[!ObjectInfo]브래드	[!ObjectInfo]布拉德
 #12542	[!ObjectInfo]밀수 연락책	[!ObjectInfo]走私联络人
-#12543	[!ObjectInfo]밀수 폭력배	[!ObjectInfo]走私暴力狂
+#12543	[!ObjectInfo]밀수 폭력배	[!ObjectInfo]走私暴徒
 #12544	[!ObjectInfo]밀수 운반책	[!ObjectInfo]走私运送人
 #12545	[!WordCollection]유실물	[!WordCollection]失物
 #12546	[!WordCollection]장물 구입	[!WordCollection]购买赃物
@@ -7808,7 +7808,7 @@
 #13482	[!Item]자홍빛 사이러스 자켓을 개량하여 경화 시킨 자켓. 시중에 보급된 자켓 중 체력 증강 효과가 가장 뛰어난 제품이다.	[!Item]轻量化了紫红色塞勒斯夹克。在市面中普及的夹克中，体力增强效果最为优秀。
 #13483	[!Item]자홍거리에서 유통되는 사이러스 자켓을 개량하여 강화 시킨 자켓. 뒷세계에서 매우 인기 있는 자켓이다.	[!Item]强化了紫红街流通的塞勒斯夹克。在地下世界中非常受欢迎。
 #13484	[!Item]섬광 왕네구리 자켓	[!Item]闪光纳古利大王夹克
-#13485	[!Item]왕네구리 가죽으로 만든 자켓으로 절연 기능이 매우 뛰어나다.	[!Item]以纳古利大王皮革制成的夹克，绝缘性能非常优秀。
+#13485	[!Item]왕네구리 가죽으로 만든 자켓으로 절연 기능이 매우 뛰어나다.	[!Item]以纳古利大王皮制成的夹克，绝缘性能非常优秀。
 #13486	[!Item]베이비 A - 200	[!Item]倍比 A-200
 #13487	[!Item]베이비 A - 100	[!Item]倍比 A-100
 #13488	[!Item]베이비 A	[!Item]倍比 A
@@ -7825,9 +7825,9 @@
 #13499	[!Item]남청빛 보나파르트 세공 반지	[!Item]藏蓝色波拿巴精制戒指
 #13500	[!Item]자홍빛 보나파르트 세공 반지보다 흑요석의 순도가 높아 더 많은 시간 이능력을 사용할 수 있다.	[!Item]比紫红色波拿巴精制戒指的黑曜石的纯度更高，可延长异能的使用时间。
 #13502	[!Item]이능력을 제어하는 핵심 보석을 제외하고 왕네구리 가죽을 바탕으로 제작된 가죽 반지.	[!Item]保留了控制异能的核心宝石，将其他部分换为纳古利大王皮革的戒指。
-#13503	[!Item]얇은 네구리 가죽	[!Item]轻薄的纳古利皮革
+#13503	[!Item]얇은 네구리 가죽	[!Item]轻薄的纳古利皮
 #13504	[!Item]남청빛 사이러스 운동화	[!Item]藏蓝色塞勒斯运动鞋
-#13505	[!Item]자홍빛 사이러스 운동화의 안감을 네구리 가죽으로 교체한 운동화.	[!Item]将紫红色塞勒斯运动鞋的内衬换为纳古利皮革的运动鞋。
+#13505	[!Item]자홍빛 사이러스 운동화의 안감을 네구리 가죽으로 교체한 운동화.	[!Item]将紫红色塞勒斯运动鞋的内衬换为纳古利皮的运动鞋。
 #13506	[!Item]자홍거리에서 유통되는 사이러스 운동화를 개량하여 경량화 시킨 운동화. 뒷세계에서 매우 인기 있는 부츠이다.	[!Item]在紫红街流通的，经过了加工轻量化的塞勒斯运动鞋。是一款在地下世界里非常有人气的皮鞋。
 #13507	[!Item]불꽃 왕네구리 운동화	[!Item]火花纳古利大王运动鞋
 #13508	[!Item]왕네구리 가죽을 기본으로 밑창을 불꽃 가죽으로 만들어 방염 효과가 탁월한 운동화이다.	[!Item]以纳古利大王皮革作为底料，鞋底由火花皮革制成，可低于火焰效果的优秀运动鞋。
@@ -8180,9 +8180,9 @@
 #13997	[!Mastery]당신이 쫓고 있는 것은 존재하지 않는 것이다.	[!Mastery]你跟踪的是虚无之物。
 #13998	[!Mastery]그림자 저격수	[!Mastery]影子狙击手
 #14002	[!NamedEvent]네굴굴~~~!	[!NamedEvent]纳咕故～～～！
-#14003	[!NamedEvent]꼬마 네구리	[!NamedEvent]小家伙纳古利
+#14003	[!NamedEvent]꼬마 네구리	[!NamedEvent]小鬼那古利
 #14004	[!NamedEvent]장난꾸러기 네구리	[!NamedEvent]淘气包纳古利
-#14005	[!ObjectInfo]꼬마 네구리	[!ObjectInfo]小家伙纳古利
+#14005	[!ObjectInfo]꼬마 네구리	[!ObjectInfo]小鬼那古利
 #14008	[!WordCollection][!Menu]재료 획득 가능한 적 목록	[!WordCollection][!Menu]可获得素材的敌人名单
 #14009	[!WordCollection][!Menu]해당 적 출현 장소	[!WordCollection][!Menu]该敌人出现地点
 #14010	[!WordCollection][!Menu]제작 숙련도	[!WordCollection]制作熟练度
@@ -10760,7 +10760,7 @@
 #17594	[!Buff]턴 시작 시, 부정적인 모든 상태 이상을 해제합니다. 해제한 상태 $ApplyAmountValue$개 당 최대 체력의 $ApplyAmountValue2$만큼의 체력을 회복합니다.	[!Buff]回合开始时，将解除所有的负面效果。每$ApplyAmountValue$个解除的状态，将恢复最大体力值$ApplyAmountValue2$的体力。
 #17595	[!GuideMessage]어빌리티 강화 버프	[!GuideMessage]技能强化buff
 #17596	[!GuideMessage]야수를 더 이상 맡길 수 없습니다. (최대 $Value$ 마리)	[!GuideMessage]不能再托管野兽了。(最多$Value$只)
-#17597	[!Item]청소업자 부츠	[!Item]清洁工靴子
+#17597	[!Item]청소업자 부츠	[!Item]肃清者靴子
 #17598	[!Item]어린 펠릭스가 지나가는 개미 떼를 발로 밟자 줄지어 가던 개미들은 혼비백산 사방으로 퍼져 나갔다. 그 광경을 보고 있던 펠릭스는 커다란 희열감을 느꼈고 자신도 모르게 더 많은 개미들을 짓밟기 위해 움직였다. "더 빨리! 더 빨리!"	[!Item]费利克斯在小时曾踩踏过经过的蚂蚁群，并看到排成队伍的蚂蚁们惊慌失措的四处散开。在那瞬间，费利克斯感到了巨大的喜悦感，因此自身不知不觉地为践踏更多的蚂蚁而行动着。「快点！更快点！」
 #17599	[!Item]체체의 팔찌	[!Item]采采的手镯
 #17600	[!Item]체체가 유랑 서커스단의 익살꾼 시절 사용하던 묘기용 팔찌를 꾸준히 개량한 팔찌이다. 묘기를 선 보이기 위해 사용했던 팔찌라 속도와 지속성에 특화되어 있다.	[!Item]采采把在流浪杂技团时期使用的杂技手镯不断进行改良。因为是展示杂技时所使用的手镯，所以特别加强了速度和持久性。
@@ -10778,7 +10778,7 @@
 #17627	[!Mastery]독은 독으로 제압한다.	[!Mastery]以毒攻毒。
 #17631	[!Mastery]재소탕	[!Mastery]再扫荡
 #17632	[!Mastery]최선을 다하는 것이 결과를 가져 온다.	[!Mastery]尽全力才能带来结果。
-#17635	[!NamedEvent]청소업자	[!NamedEvent]清洁工
+#17635	[!NamedEvent]청소업자	[!NamedEvent]肃清者
 #17637	[!NamedEvent]너희를 만나다니 오늘 정말 재수가 없구나!	[!NamedEvent]遇到你们今天真倒霉啊！
 #17638	[!NamedEvent]너희들도 그저 쓰레기일 뿐이다!	[!NamedEvent]你们也只是些垃圾罢了！
 #17639	[!NamedEvent]중개업자	[!NamedEvent]中介者
@@ -12141,7 +12141,7 @@
 #19245	[!Item]남청빛 드라키 손목 보호대	[!Item]藏蓝色德拉基护腕
 #19246	[!Item]드라키의 가슴 비늘로 제작한 고급 손목 보호대로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]德拉基胸部鳞片所制造的护腕。因素材稀有而很难在市场见到。大部分都是自行制作。
 #19247	[!Item]드라키 뼈 반지	[!Item]德拉基骨戒
-#19248	[!Item]드라키의 뼈로 만든 반지. 이능력 증폭 능력이 탁월하다.	[!Item]以德拉基骨头制造的戒指。增幅异能优越。
+#19248	[!Item]드라키의 뼈로 만든 반지. 이능력 증폭 능력이 탁월하다.	[!Item]以德拉基之骨制造的戒指。增幅异能优越。
 #19249	[!Item]자홍빛 드라키 뼈 반지	[!Item]紫红色德拉基骨戒
 #19250	[!Item]자홍거리에서 유통되는 드라키 반지를 강화한 반지. 뒷세계에서 최상급으로 다뤄진다.	[!Item]通过改良强化紫红街流通的德拉基骨戒。是一款在地下世界里视为最高级的物品。
 #19251	[!Item]남청빛 드라키 뼈 반지	[!Item]藏蓝色德拉基骨戒
@@ -12367,7 +12367,7 @@
 #19495	[!Item]드라키의 심장	[!Item]德拉基之心
 #19496	[!Item]온전한 드라키의 심장	[!Item]完整的德拉基之心
 #19497	[!Item]빛나는 드라키의 심장	[!Item]闪耀的德拉基之心
-#19498	[!ItemType]비늘	[!ItemType]鳞片
+#19498	[!ItemType]비늘	[!ItemType]鳞素材
 #19499	[!Job]드라키	[!Job]德拉基
 #19500	[!Mastery]고결한 자아	[!Mastery]高洁的自我
 #19501	[!Mastery]그들은 고대 용의 피를 이어 받은 아종이라고 불리지.	[!Mastery]他们被称为继承古代龙血的亚种。
@@ -14675,15 +14675,15 @@
 #22340	[!NamedEvent]혹한의 스컬 슬래셔	[!NamedEvent]酷寒的骷髅砍杀者
 #22341	[!NamedEvent]일도즉참!	[!NamedEvent]一刀即砍！
 #22342	[!NamedEvent]제법 재밌는 녀석이구나.	[!NamedEvent]真是个有趣的家伙嘛。
-#22343	[!NamedEvent]속사의 스컬 피어스	[!NamedEvent]速射的骷髅戳穿者
+#22343	[!NamedEvent]속사의 스컬 피어스	[!NamedEvent]速射的骷髅穿刺者
 #22344	[!NamedEvent]총알이 아까운 녀석이군.	[!NamedEvent]对方弱的甚至有些舍不得浪费子弹。
 #22345	[!NamedEvent]다음 한 발이면 충분해	[!NamedEvent]下一发就足够杀掉了。
 #22346	[!NamedEvent]절망의 스컬 이터	[!NamedEvent]绝望的骷髅吞噬者
 #22347	[!NamedEvent]자네의 절망하는 얼굴을 보고 싶군.	[!NamedEvent]真想看看你那充满绝望的脸。
 #22348	[!NamedEvent]조금 더 절망스러운 얼굴을 보여줘.	[!NamedEvent]让我看看你那更加绝望的脸。
 #22349	[!NamedEvent]알선업자	[!NamedEvent]代理人
-#22350	[!ObjectInfo]스컬 피어스	[!ObjectInfo]骷髅戳穿者
-#22351	[!ObjectInfo]스컬 청소부	[!ObjectInfo]骷髅清洁工
+#22350	[!ObjectInfo]스컬 피어스	[!ObjectInfo]骷髅穿刺者
+#22351	[!ObjectInfo]스컬 청소부	[!ObjectInfo]骷髅肃清者
 #22354	[!Site]그늘 안개 상점가	[!Site]沉雾商店街
 #22355	[!GuideMessage]첨부할 Vill의 수량을 정하세요.	[!GuideMessage]请输入要添附的Vill数量。
 #22356	[!GuideMessage]청구할 Vill의 수량을 정하세요.	[!GuideMessage]请输入要请求的Vill数量。
@@ -14713,7 +14713,7 @@
 #22381	[!Item]스컬 슬래셔는 자신의 새로운 이름에 어울리는 업적의 재물로 구룡회의 살수였던 료 류자키를 선택한다. 하지만 승부는 슬래셔의 검날이 료의 검에 의해 부러지면서 슬래셔의 뼈아픈 패배가 되었다. 이후 슬래셔는 두 번 다시 이런 일이 벌어지지 않도록 내구성이 높은 엘리게이터 블레이드를 개조하여 사용하게 된다.	[!Item]骷髅砍杀者选择了曾经是九龙会杀手的亮・龙崎为自己新名字的祭物。但由于砍杀者的剑被亮打断，而品尝到了刻骨的败北感。之后，砍杀者为了不再发生类似事件，改造了耐久性高的短吻鳄剑。
 #22382	[!Item]자동 소총 C - 700	[!Item]自动步枪C-701
 #22383	[!Item]케이퍼 X	[!Item]凯尔佛X
-#22384	[!Item]케이퍼 X - 스컬 피어스	[!Item]凯尔佛X - 骷髅戳穿者
+#22384	[!Item]케이퍼 X - 스컬 피어스	[!Item]凯尔佛X - 骷髅穿刺者
 #22385	[!Item]난폭한 트롤 장갑	[!Item]粗暴的巨怪手套
 #22386	[!Item]스컬 크래셔의 이름을 부여받기 전 '난폭한 트롤'이라고 불리던 시절부터 사용한 전투 장갑.	[!Item]骷髅击碎者在获得这个名字之前被称为「粗暴的巨怪」时期所使用的战斗手套。
 #22387	[!Item]듀나메스 저격총 IBL - HK	[!Item]杜纳梅斯狙击枪IBL-HK
@@ -14772,7 +14772,7 @@
 #22440	[!Item]자홍빛 흑철 세공 단검	[!Item]紫红色黑铁细工短剑
 #22441	[!Loading]자홍 거리 상점가	[!Loading]紫红街商店街
 #22442	[!Mission]자홍 거리 상점가	[!Mission]紫红街商店街
-#22443	[!ObjectInfo]용병 폭력배	[!ObjectInfo]佣兵暴力狂
+#22443	[!ObjectInfo]용병 폭력배	[!ObjectInfo]佣兵暴徒
 #22444	[!ObjectInfo]용병 암살자	[!ObjectInfo]佣兵杀手
 #22445	[!ObjectInfo]용병 불한당	[!ObjectInfo]佣兵流氓
 #22446	[!ObjectInfo]용병 소란꾼	[!ObjectInfo]佣兵捣乱者
@@ -16112,7 +16112,7 @@
 #24265	[!GuideMessage]현재 소지 금액이 부족해서 계속 진행할 수 없습니다.	[!GuideMessage]因当前的Vill不够而无法继续进行。
 #24266	[!GuideMessage]현재 배치된 추가 연구 재료를 기반으로, 추가 가능한 특성 조합을 찾지 못했습니다.	[!GuideMessage]根据当前拥有的附加研究素材，无法找到可添加的天赋组合。
 #24267	[!GuideMessage]추가 연구 재료를 비우거나 변경하고 다시 시도해주세요.	[!GuideMessage]请清空或变更附加研究素材后重新尝试。
-#24276	[!ObjectInfo]백호 명사수	[!ObjectInfo]白虎名射手
+#24276	[!ObjectInfo]백호 명사수	[!ObjectInfo]白虎神射手
 #24277	[!ObjectVoiceSound][!speaker:Anne]이젠 아프지 말아요	[!ObjectVoiceSound][!speaker:Anne]不会再疼了
 #24278	[!ObjectVoiceSound][!speaker:Anne]자 맘껏 싸우세요!	[!ObjectVoiceSound][!speaker:Anne]请尽情的战斗吧！
 #24279	[!ObjectVoiceSound][!speaker:Anne]아플 거에요!	[!ObjectVoiceSound][!speaker:Anne]会很疼的！
@@ -16137,8 +16137,8 @@
 #24305	[!Mission]자홍거리 뒷골목	[!Troublebook]紫红街后巷
 #24306	[!ObjectInfo]백호 무도가	[!ObjectInfo]白虎武道家
 #24307	[!ObjectInfo]백호 반장	[!ObjectInfo]白虎组长
-#24308	[!ObjectInfo]백호 청소부	[!ObjectInfo]白虎清洁工
-#24309	[!ObjectInfo]백호 망나니	[!ObjectInfo]白虎混混
+#24308	[!ObjectInfo]백호 청소부	[!ObjectInfo]白虎肃清者
+#24309	[!ObjectInfo]백호 망나니	[!ObjectInfo]白虎斩首者
 #24310	[!SystemMail]트러블슈터 승급을 축하드립니다.	[!SystemMail]祝贺纷争终结者的等级的上升。
 #24311	[!SystemMail][colour='FFFFE959']안녕하십니까? 발할라 시장 [colour='FFFFFFFF']칼 레인[colour='FFFFE959'] 입니다.<br><br>$CompanyName$의 아이언 승격을 발할라 시민을 대표하여 진심으로 축하드립니다.<br><br>우리 발할라 시정부는 시민들의 안전과 번영을 위해 최선을 다하고 있으며 그 일환으로 우수한 트러블슈터들의 양성과 활동을 지원하고 있습니다.<br><br>시민들과 발할라를 수호하는 트러블슈터로서 앞으로의 길에 발할라의 영광이 함께 하기를 기원하겠습니다.<br><br>감사합니다.<br><br>[colour='FFFFFFFF']발할라 시장 칼 레인	[!SystemMail][colour='FFFFE959']您好吗？我是巴赫拉的市长[colour='FFFFFFFF']卡尔雷因[colour='FFFFE959']。<br><br>在此代表巴赫拉市民恭喜$CompanyName$晋升为钢铁等级。<br><br>我们巴赫拉市政府正尽全力保障市民们的安全与繁荣，而且其中的主要一环就是为优秀的纷争终结者们提供培训和活动援助。<br><br>作为一名守护着市民和巴赫拉的纷争终结者，祝愿你的前途一片光明，巴赫拉的荣光与你同在。<br><br>谢谢。<br><br>[colour='FFFFFFFF']巴赫拉市长卡尔雷因
 #24312	[!SystemMail]축하한다. 알버스.	[!SystemMail]恭喜你，阿尔伯斯。
