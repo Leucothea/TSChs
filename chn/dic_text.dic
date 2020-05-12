@@ -345,7 +345,7 @@
 #6982	[!Dialog][!speaker:Albus_Normal]자, 이제 이삿짐 정리를 해볼까.	[!Dialog][!speaker:Albus_Normal]呐，开始整理东西吧。
 #6983	[!Dialog][!speaker:Albus_Think]뭐부터 정리할까...	[!Dialog][!speaker:Albus_Think]先从哪个开始整理呢...
 #6984	[!Dialog][!speaker:Albus_Think]빨리 마무리해야지...	[!Dialog][!speaker:Albus_Think]快完事才行...
-#6985	[!Dialog][!speaker:Albus_Normal]...... 이제 가자.	[!Dialog][!speaker:Albus_Normal]…...该走了。
+#6985	[!Dialog][!speaker:Albus_Normal]...... 이제 가자.	[!Dialog][!speaker:Albus_Normal]...该走了。
 #6986	[!Dialog][!speaker:Albus_Normal]자, 이것은 이렇게 정리하고... 앗!	[!Dialog][!speaker:Albus_Normal]呐，这个要这么整理...啊！
 #6987	[!Dialog][!speaker:Albus_Surprise]이런...	[!Dialog][!speaker:Albus_Surprise]天啊...
 #6988	[!Dialog][!speaker:Albus_Smile]정신없구나. 잘 챙겨야지.	[!Dialog][!speaker:Albus_Smile]看我这脑袋。得收好了。
@@ -415,7 +415,7 @@
 #7053	[!Dialog][!speaker:Don_Smile]제 이야길 많이 하는 친구라니... 별종이군요.	[!Dialog][!speaker:Don_Smile]说我的故事的朋友么...挺另类啊。
 #7054	[!Dialog][!speaker:Marco_Smile]별종이지. 한번 떠난 조직을 떡하니 다시 들어와 잘 지내고 있으니까...	是挺另类的。已经离开了的组织，却又要回来看看这边过得如何...
 #7055	[!Dialog][!speaker:Marco_Smile]이제야 좀 진지해졌군.	[!Dialog][!speaker:Marco_Smile]这才认真了点呢。
-#7056	[!Dialog][!speaker:Don_Normal]......크리스 형님이 보냈나?	[!Dialog][!speaker:Don_Normal]…...是克里斯大哥派你来的？
+#7056	[!Dialog][!speaker:Don_Normal]......크리스 형님이 보냈나?	[!Dialog][!speaker:Don_Normal]...是克里斯大哥派你来的？
 #7057	[!Dialog][!speaker:Marco_Smile]그래. 이 동네로 간다니까 자네 안부나 확인해 달라더군.	是的。来这地方就是要让我确认下你的情况。
 #7058	[!Dialog]탁자 위의 물컵을 바닥에 떨어뜨린다.	[!Dialog]将桌上的水杯摔落到地上。
 #7059	[!Dialog]그냥 대화를 이어간다.	[!Dialog]继续对话。
@@ -648,7 +648,7 @@
 #7287	[!Dialog][!speaker:Don_Smile]호오... 알버스 군 요즘 제법 사업이 잘 되는가 보군. 예전처럼 깎아달란 소린 안 하니 참 보기 좋구나...	[!Dialog][!speaker:Don_Smile]哟呵...看来阿尔伯斯你最近生意挺好啊。不像以前似的要打折什么的，挺好哇...
 #7288	[!Dialog][!speaker:Albus_Laugh]'어차피 안 통할 걸 아니까요...'	[!Dialog][!speaker:Albus_Laugh]（知道终究是说不通的...）
 #7289	[!Dialog][!speaker:Don_Smile]기존 월 임대료에 50% 정도면 충분하지 않겠니? 대신 보증금은 필요 없단다.	[!Dialog][!speaker:Don_Smile]当前月租费的50%怎么样？相应的不需要保证金。
-#7290	[!Dialog][!speaker:Albus_SurpriseStare]'기존 월 임대료에 50%라니...고작 창고인데...폭리잖아...'	[!Dialog][!speaker:Albus_SurpriseStare]（当前月租的50%…仅仅是个仓库嘛...果然是暴利啊...）
+#7290	[!Dialog][!speaker:Albus_SurpriseStare]'기존 월 임대료에 50%라니...고작 창고인데...폭리잖아...'	[!Dialog][!speaker:Albus_SurpriseStare]（当前月租的50%...仅仅是个仓库嘛...果然是暴利啊...）
 #7291	[!Dialog][!speaker:Don_Normal]왜 얼굴이 표정이 그러지? 거래는 마음에 들지 않으면 안 하면 그만이다.	[!Dialog][!speaker:Don_Normal]你表情咋了？交易若是不合心意，结束就是了。
 #7292	[!Dialog][!speaker:Don_Normal]네가 원하는 비용이 아닌가 본 데. 알버스 군.	[!Dialog][!speaker:Don_Normal]看来这不是你心目中的价格啊。阿尔伯斯。
 #7293	[!Dialog][!speaker:Don_Normal]그렇다고 해도 금전 거래에 표정이 바뀌는 건 별로 좋지 못해.	[!Dialog][!speaker:Don_Normal]就算如此在金钱买卖里变脸可不太好。
@@ -751,7 +751,7 @@
 #7393	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]그렇게 하지 않으면 경찰들을 따돌려가며 너희들을 호위한 수지가 맞지 않아.	不然的话，甩开警察护送你们这活儿，这点钱可不够啊。
 #7394	[!Sentence][!Objective]스푼교 잔당을 소탕하시오.	[!Sentence][!Objective]请扫荡勺子教余孽吧。
 #7396	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]아니 범죄도 적당히 해 먹어야 오래 하지 그렇게 난장판을 치니 감당이 안 되잖아.	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]就算是犯罪也要有个度才能放长线钓大鱼，这么瞎胡闹能吃得消吗。
-#7397	[!Sentence][!BalloonChat][!speaker:Enemy_Jason]... 두 배다. 아니 세 배. 	[!Sentence][!BalloonChat][!speaker:Enemy_Jason]…两倍。不，是三倍。
+#7397	[!Sentence][!BalloonChat][!speaker:Enemy_Jason]... 두 배다. 아니 세 배. 	[!Sentence][!BalloonChat][!speaker:Enemy_Jason]...两倍。不，是三倍。
 #7398	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]아니 뭐가 '한술'이야! 하... 내가 돈에 미쳤지.	说什么「一勺」！哈...我这人就只认钱啊。
 #7399	[!Sentence][!BalloonChat][!speaker:EnemySpoon_02]이 자식아! 약속대로 못할 거면 돈 다시 내놔!!	[!Sentence][!BalloonChat][!speaker:EnemySpoon_02]这家伙！要是不能遵守约定就把钱都给我吐出来！！
 #7400	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Normal]이 녀석! 받을 돈은 다 처먹고 인제 와서 손을 떼겠다는 거냐!	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Normal]你这家伙！给钱的时候干什么了，现在跟我说撒手不管！
@@ -1288,7 +1288,7 @@
 #7949	[!Sentence][!BalloonChat][!speaker:Irene]저 녀석 제법이잖아!	[!Sentence][!BalloonChat][!speaker:Irene]那家伙挺能耐的嘛！
 #7950	[!Sentence][!BalloonChat][!speaker:VHPD1]이런!!	该死！！
 #7951	[!Sentence][!BalloonChat][!speaker:VHPD1]분대원!!	各小队员！！
-#7952	[!Sentence][!Dialog][!speaker:Anne_Cry]...... 뭐라는 거에요... 아직 안 끝났단 말이에요!	[!Sentence][!Dialog][!speaker:Anne_Cry]…...说什么呢...还没结束呢！
+#7952	[!Sentence][!Dialog][!speaker:Anne_Cry]...... 뭐라는 거에요... 아직 안 끝났단 말이에요!	[!Sentence][!Dialog][!speaker:Anne_Cry]...说什么呢...还没结束呢！
 #7953	[!Sentence][!Dialog][!speaker:VHPDMale2_Normal]알겠습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]明白了。
 #7954	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]메이시 양... 이미 늦은 건 어쩔 수 없어. 넌 충분히 잘해주었어.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]梅茜小姐...已经太迟了。你做得足够好了。
 #7955	[!Sentence][!Dialog][!speaker:VHPD_Issac_Think]알았네. 자네는 델타 분대 중상자들을 수습해주게.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Think]知道了。你去帮忙处理三角洲分队的伤员吧。
@@ -2030,7 +2030,7 @@
 #9258	[!Sentence][!Dialog][!speaker:Albus_Serious]부상자들을 발견하는 즉시 이송하고 저항하는 자들을 모두 제압하세요!	[!Sentence][!Dialog][!speaker:Albus_Serious]请将发现的伤员马上运送过来，抵抗势力则全部进行镇压！
 #9259	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]고맙네. 내 제안을 들어줘서.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]谢谢你。接受了我的提案。
 #9260	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]그러한 상황을 막기 위해서라도 북쪽에서도 진입하는 것이 낫다고 판단하네.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]为了防止出现那种状况，我认为从北边也需要突入的。
-#9261	[!Sentence][!Dialog][!speaker:Irene_Fury]... 난 그런 이미지인가...	[!Sentence][!Dialog][!speaker:Irene_Fury]…我是那种形象的吗...
+#9261	[!Sentence][!Dialog][!speaker:Irene_Fury]... 난 그런 이미지인가...	[!Sentence][!Dialog][!speaker:Irene_Fury]...我是那种形象的吗...
 #9262	[!Sentence][!BalloonChat][!speaker:Direct_Spoon_03]웃기지마! 이 발할라의 개들아!	[!Sentence][!BalloonChat][!speaker:Direct_Spoon_03]别开玩笑了！巴赫拉的狗腿子们！
 #9263	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]동지들. 다들 힘내게. 이제 얼마 남지 않았네.	[!Sentence][!Subtitle][!speaker:Gangster_Sharky_Rage]同志们。大家加油啊。还剩下不多了。
 #9264	[!Sentence][!Dialog][!speaker:Albus_Laugh]괜찮아.아이작 경감님도 계시니까.	[!Sentence][!Dialog][!speaker:Albus_Laugh]没关系。艾萨克警监也在呢。
@@ -2138,7 +2138,7 @@
 #9403	[!Sentence][!Dialog][!speaker:Civil_Girl_Normal]전 새콤달콤 주스요!	[!Sentence][!BalloonChat][!speaker:DirectCivil_Girl01]我要酸酸甜甜的果汁！
 #9405	[!Sentence][!Dialog][!speaker:Albus_Disappoint]부탁드립니다.	[!Sentence][!Dialog][!speaker:Albus_Disappoint]拜托了。
 #9406	[!Sentence][!Dialog][!speaker:Irene_Think]설마...	[!Sentence][!Dialog][!speaker:Anne_Think]不会吧...
-#9407	[!Sentence][!Dialog][!speaker:Bianca_Smile]......한심한 남자네.	…...真是个可悲的男人。
+#9407	[!Sentence][!Dialog][!speaker:Bianca_Smile]......한심한 남자네.	...真是个可悲的男人。
 #9408	[!Sentence][!BalloonChat][!speaker:Albus]아 이럴 수가...	[!Sentence][!BalloonChat][!speaker:Albus]啊，怎么会...
 #9410	[!Sentence][!Dialog][!speaker:Leton_Normal]강해지는 것도 좋지만 좋은 동료를 찾아.	[!Sentence][!BalloonChat][!speaker:Albus_Surprise]变强是挺好，但是找个好同伴啊。
 #9413	[!Sentence][!Dialog][!speaker:Alisa_Normal]뭐. 괜찮아. 이 정도쯤이야.	[!Sentence][!Dialog][!speaker:Alisa_Normal]嘛。没关系。这点程度。
@@ -2177,7 +2177,7 @@
 #9456	[!Sentence][!Dialog][!speaker:Ray_Smile2]레톤~ 도와달라는데?	[!Sentence][!Dialog][!speaker:Ray_Smile2]莱顿～他让我们帮忙呢？
 #9458	[!Sentence][!BalloonChat][!speaker:Bianca]다들 정말 추하군요.	[!Sentence][!BalloonChat][!speaker:Bianca]一个个的都真丑陋啊。
 #9459	[!Sentence][!Dialog][!speaker:Ray_Smile]레~에~톤~!	[!Sentence][!Dialog][!speaker:Ray_Smile]莱～爱～顿～！
-#9461	[!Sentence][!Dialog][!speaker:Albus_Embarrassed]...... 그렇군요.	[!Sentence][!Dialog][!speaker:Albus_Embarrassed]…...原来如此。
+#9461	[!Sentence][!Dialog][!speaker:Albus_Embarrassed]...... 그렇군요.	[!Sentence][!Dialog][!speaker:Albus_Embarrassed]...原来如此。
 #9462	[!Sentence][!Dialog][!speaker:Bianca_Rage]너!! 정신 차려!!	[!Sentence][!BalloonChat][!speaker:Bianca]你！！醒醒啊！！
 #9463	[!Sentence][!Dialog][!speaker:Albus_Surprise]헛, 제 이름을 어떻게?	呃，怎么知道我的名字的？
 #9464	[!Sentence][!Dialog][!speaker:Leton_Laugh]자. 이렇게 된 거 잘 부탁한다. 까만 머리.	[!Sentence][!BalloonChat][!speaker:Leton]好。这就拜托你了。黑头发。
@@ -2319,7 +2319,7 @@
 #9650	[!Sentence][!Dialog][!speaker:Irene_Smile]하하하하!	[!Sentence][!Dialog][!speaker:Irene_Smile]哈哈哈哈！
 #9651	[!Sentence][!BalloonChat][!speaker:Bianca]안돼!! 알리사!!	[!Sentence][!BalloonChat][!speaker:Bianca]不行！！艾丽莎！！
 #9652	[!Sentence][!BalloonChat][!speaker:Leton]이런 생각보다 오래 걸리는데...	[!Sentence][!BalloonChat][!speaker:Leton]比想象中的要费时间啊...
-#9654	[!Sentence][!Dialog][!speaker:Bianca_Normal]......바보야?	[!Sentence][!Dialog][!speaker:Bianca_Normal]…...你是傻的吗？
+#9654	[!Sentence][!Dialog][!speaker:Bianca_Normal]......바보야?	[!Sentence][!Dialog][!speaker:Bianca_Normal]...你是傻的吗？
 #9655	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_]우리는 모두 가슴에!	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_]我们心中都有！
 #9657	[!Sentence][!Dialog][!speaker:Irene_Rage]시끄럽다!	[!Sentence][!BalloonChat][!speaker:Irene_Normal]真吵！
 #9658	[!Sentence][!Dialog][!speaker:Leton_Smile]레이... 그냥 가자...	[!Sentence][!Dialog][!speaker:Leton_Smile]雷伊...走吧...
@@ -2782,7 +2782,7 @@
 #10264	[!Sentence][!BalloonChat][!speaker:Don]이제 통화가 되는군...	[!Sentence][!BalloonChat][!speaker:Don]现在才能通话啊...
 #10265	[!Sentence][!Dialog][!speaker:Don_Smile]제가 주인인 돈입니다. 자 방을 보러 가시죠.	[!Sentence][!Dialog][!speaker:Don_Smile]我就是店主敦，那先来看一下房间吧。
 #10267	[!Sentence][!BalloonChat][!speaker:Don]트러블슈터!	[!Sentence][!BalloonChat][!speaker:Don]纷争终结者！
-#10268	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]......정말 수지 안 맞는군.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]…...真是赔钱买卖。
+#10268	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]......정말 수지 안 맞는군.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]...真是赔钱买卖。
 #10269	[!Sentence][!Dialog][!speaker:EmptyWithPotrait_]고압적인 여성의 말에 알버스는 당황하여 어쩔 줄 몰라 하였다.	[!Sentence][!Dialog]女子严厉的问话让阿尔伯斯惊慌失措。
 #10270	[!Sentence][!Dialog][!speaker:Marco_Smile]쳇. 언제나 크리스 타령이군...	[!Sentence][!Dialog][!speaker:Marco_Normal]切。总是拿克里斯说事儿...
 #10271	[!Sentence][!Dialog][!speaker:Bianca_Stare]도대체 왜 쳐다본 거야?	[!Sentence][!Dialog][!speaker:Bianca_Smile]到底为什么盯着我？
@@ -3045,7 +3045,7 @@
 #10587	[!Sentence][!Dashboard:ObjectiveMarker]해당 대상을 전투 불능으로 만들면 팀 전체 '격앙' 상태가 됩니다.	[!Sentence][!Dashboard:ObjectiveMarker]若将该目标变成无法战斗状态，则全队进入「激昂」状态。
 #10588	[!Sentence][!Objective]샤키를 제압하시오.	[!Sentence][!Objective]请制服沙基。
 #10589	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]하하...하하하하...	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]哈哈...哈哈哈
-#10590	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]......어쩔 수 없는 거다. 스콧 녀석.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]…...没办法了。斯科特。
+#10590	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]......어쩔 수 없는 거다. 스콧 녀석.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]...没办法了。斯科特。
 #10591	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]너는 왜 거기 가만히 있는 것이냐?	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]你为什么一动不动地站在那里啊？
 #10592	[!Sentence][!Objective]스콧을 제압하시오.	[!Sentence][!Objective]请制服斯科特。
 #10594	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]고민 중이다.	我正苦恼着呢。
@@ -3401,7 +3401,7 @@
 #10966	[!Sentence][!Dialog][!speaker:Peter_Laugh]어이 꼬마 아가씨들. 이 영상 재밌지?	喂，小姑娘！这视频是不是很有意思？
 #10968	[!Sentence][!Dialog][!speaker:Peter_Normal]자네. 어디 가나? 나랑 이야기 좀 하자고!	喂。你去哪儿呢？再和我说说你想要啥样的啊！
 #10969	[!Sentence][!Dialog][!speaker:Luna_Bored]흐으음......	[!Sentence][!Dialog][!speaker:Luna_Bored]呵额嗯...
-#10970	[!Sentence][!Dialog][!speaker:Luna_Bored]...필요 없어.	…用不着。
+#10970	[!Sentence][!Dialog][!speaker:Luna_Bored]...필요 없어.	...用不着。
 #10971	[!Sentence][!Dialog][!speaker:Peter_Normal]흐음... 어디 보자...	[!Sentence][!Dialog][!speaker:Peter_Normal]呵嗯...我看看哈...
 #10972	[!Sentence][!Choice]바로 전투에 돌입한다.	[!Sentence][!Choice]马上进入战斗。
 #10973	[!Dialog][!speaker:Sion_Normal]알버스. 너 핸드폰 연락 안 된다고 아이작 경감님이 연락 달래.	[!Dialog][!speaker:Sion_Normal]阿尔伯斯。艾萨克警监打你手机打不通，让你快给他打过去。
@@ -3450,7 +3450,7 @@
 #11016	[!Dialog][!speaker:Anne_Smile]전 진짜 현장에서 활동할 수 있는 치유능력자 트러블슈터가 되고 싶어요!	[!Dialog][!speaker:Anne_Smile]我想成为一个真正能活跃在现场中的治愈型纷争终结者！
 #11017	[!Dialog][!speaker:Sion_Normal]알버스!!	[!Dialog][!speaker:Sion_Normal]阿尔伯斯！
 #11018	[!Dialog][!speaker:Irene_Normal]알버스 군. 나도 앤 양의 입사를 허락해주길 요청하네.	[!Dialog][!speaker:Irene_Normal]阿尔伯斯。我也请求你能答应安小姐的入社申请。
-#11019	[!Dialog][!speaker:Albus_Laugh]...... 그래. 앤 메이시 양. 우리 $CompanyName$과 함께 해줘.	[!Dialog][!speaker:Albus_Laugh]…...好吧，安梅茜小姐。欢迎你加入我们$CompanyName$！
+#11019	[!Dialog][!speaker:Albus_Laugh]...... 그래. 앤 메이시 양. 우리 $CompanyName$과 함께 해줘.	[!Dialog][!speaker:Albus_Laugh]...好吧，安梅茜小姐。欢迎你加入我们$CompanyName$！
 #11020	[!Dialog][!speaker:Albus_Normal]같이 하면서 부족한 부분은 우리가 채워 나갈게.	[!Dialog][!speaker:Albus_Normal]共事的过程中若有不足之处，我们会持续完善。
 #11021	[!Dialog][!speaker:Anne_Sorrow]네...	[!Dialog][!speaker:Anne_Sorrow]好吧...
 #11022	[!Dialog][!speaker:Albus_Surprise]앤 양. 왜 우는 거야...뭔가 내가 잘못 말했나...	[!Dialog][!speaker:Albus_Surprise]安小姐。你怎么哭了...我是不是说错什么了...
@@ -3498,7 +3498,7 @@
 #11065	[!Sentence][!Dialog][!speaker:Luna_Annoying]내 인형 줘. 마르코.	[!Sentence][!Dialog][!speaker:Luna_Annoying]把我的玩偶给我。马尔科。
 #11066	[!Sentence][!BalloonChat]람지플라자의 그 괴물 녀석!!	[!Sentence][!BalloonChat][!speaker:Albus_Serious]蓝地广场里那个怪物家伙！
 #11067	[!Sentence][!BalloonChat]어차피 목격자다! 해치워버려!	[!Sentence][!BalloonChat][!speaker:Albus_Serious]毕竟是个目击者！干掉！
-#11068	[!Sentence][!Dialog][!speaker:Luna_Annoying]...여기서 기다리자.	[!Sentence][!Dialog][!speaker:Luna_Annoying]…在这里等等吧。
+#11068	[!Sentence][!Dialog][!speaker:Luna_Annoying]...여기서 기다리자.	[!Sentence][!Dialog][!speaker:Luna_Annoying]...在这里等等吧。
 #11069	[!Sentence][!Dialog][!speaker:Anne_Smile]금방 다녀올게!	[!Sentence][!Dialog][!speaker:Anne_Smile]我去去就来！
 #11070	[!Sentence][!BalloonChat][!speaker:Luna]위험하다고. 저 사람 말대로 여기 있자.	[!Sentence][!BalloonChat][!speaker:Luna]很危险的。我们听那个人的话就待在这里吧。
 #11071	[!Sentence][!BalloonChat]저 여자아이는...	[!Sentence][!BalloonChat][!speaker:Albus_Serious]那个小女孩是...
@@ -3510,7 +3510,7 @@
 #11078	[!Sentence][!BalloonChat][!speaker:Anne]루나는 내가 지킬 거야...	[!Sentence][!BalloonChat][!speaker:Anne]我会守好露娜的...
 #11079	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]현재 자신이 가지고 있는 꿈과...	[!Sentence][!Subtitle]目前自己拥有的梦想和...
 #11080	[!Sentence][!BalloonChat][!speaker:Anne]안돼!!!	[!Sentence][!BalloonChat][!speaker:Anne]不行！
-#11081	[!Sentence][!Dialog][!speaker:Luna_Annoying]......제발 허락해줘.	[!Sentence][!Dialog][!speaker:Luna_Annoying]…...求求你答应我吧。
+#11081	[!Sentence][!Dialog][!speaker:Luna_Annoying]......제발 허락해줘.	[!Sentence][!Dialog][!speaker:Luna_Annoying]...求求你答应我吧。
 #11082	[!Sentence][!Dialog][!speaker:Luna_Annoying]마르코... 제발...	[!Sentence][!Dialog][!speaker:Luna_Annoying]马尔科...求你啦...
 #11083	[!Sentence][!Dialog][!speaker:Luna_Normal]응. 알았어!	[!Sentence][!Dialog][!speaker:Bianca_Happy]嗯，知道了！
 #11085	[!Sentence][!BalloonChat][!speaker:Luna]앤!!!!	[!Sentence][!BalloonChat][!speaker:Luna]安！
@@ -3899,7 +3899,7 @@
 #11580	[!Sentence][!Title]오비이락	[!Sentence][!Title]乌飞梨落
 #11582	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun_Normal]자넨!?	[!Sentence][!BalloonChat][!speaker:Gangster_SpoonSword_]你是！？
 #11583	[!Sentence][!Dialog][!speaker:Leton_Surprise]레이. 지금은 참아.	[!Sentence][!Dialog][!speaker:Leton_Surprise]雷伊。现在先忍忍吧。
-#11584	[!Sentence][!Subtitle][!speaker:Carter_Normal]... 말해보게나.	[!Sentence][!Subtitle][!speaker:Carter_Normal]…说说吧。
+#11584	[!Sentence][!Subtitle][!speaker:Carter_Normal]... 말해보게나.	[!Sentence][!Subtitle][!speaker:Carter_Normal]...说说吧。
 #11585	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]더러운 발할라! 뭐가 자유의 도시야!	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]肮脏的巴赫拉！还说什么自由之城！
 #11588	[!Sentence][!BalloonChat][!speaker:Irene]알았다! 맡겨줘!	[!Sentence][!BalloonChat][!speaker:Irene]明白了！交给我吧！
 #11589	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]그랬지. 동지들은 '앨리' 출신이라는 이유로 차별하지 않으니까!!	是啊。同志们并没有因为「艾丽」出身这一理由而歧视我们！！
@@ -4420,7 +4420,7 @@
 #12204	[!Sentence][!BalloonChat][!speaker:Marco]루나. 잠시만. 생각 중이야~	[!Sentence][!BalloonChat][!speaker:Marco_Smile]露娜。稍等。我还在思考～
 #12206	[!Sentence][!Title]자홍거리	[!Sentence][!Title]紫红街
 #12207	[!Sentence][!Dialog][!speaker:VHPD_Defender_Normal]현장 파악을 위해 투입되었던 분대들은 혼전 속에서 흩어져 고립되어 있습니다.	[!Sentence][!Dialog][!speaker:VHPD_Defender_Normal]为了调查现场状况而投入的警力都在混战中四下分散孤立开来。
-#12208	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]......보스.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]…...首领。
+#12208	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]......보스.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]...首领。
 #12209	[!Sentence][!BalloonChat][!speaker:Spoon_Ralph]동지들!	[!Sentence][!BalloonChat][!speaker:Spoon_Ralph]同志们！
 #12211	[!Sentence][!BalloonChat][!speaker:Jason]스푼교!!	[!Sentence][!BalloonChat][!speaker:Jason]勺子教！！
 #12212	[!Sentence][!Dialog][!speaker:Albus_Serious]'이럴 때일수록 내가 정신 차려야 해...'	[!Sentence][!Dialog][!speaker:Albus_Serious]（越是这种时候更需要我打起精神来...）
@@ -4671,7 +4671,7 @@
 #12504	[!Dialog][!speaker:Sion_Smile]그냥 지금처럼 지내도 돼요. 사장님.	[!Dialog][!speaker:Sion_Smile]就现在这样就可以啦。老板。
 #12505	[!Dialog][!speaker:Albus_Normal]시온. 그럼 나 먼저 들어간다. 그리고 작업대는 조만간 마련해볼게.	[!Dialog][!speaker:Albus_Normal]席翁。那我先回去了。工作台的话我想办法尽快置办下来吧。
 #12506	[!Dialog][!speaker:Sion_Normal]OK~☆ 사장님! 들어가십시오!	[!Dialog][!speaker:Sion_Normal]OK~☆老板！走好啊！
-#12508	[!Dialog][!speaker:Sion_Smile]......좋은 사장님이야.	[!Dialog][!speaker:Sion_Smile]…...老板真不错啊。
+#12508	[!Dialog][!speaker:Sion_Smile]......좋은 사장님이야.	[!Dialog][!speaker:Sion_Smile]...老板真不错啊。
 #12509	[!Dialog][!speaker:Sion_Normal]그럼 나도 퇴근해볼까.	[!Dialog][!speaker:Sion_Normal]那我也下班啦。
 #12511	[!Dialog][!speaker:Don_Normal]그래. 좋은 아침.	[!Dialog][!speaker:Don_Normal]好。早上好啊。
 #12512	[!Dialog][!speaker:Albus_Normal]브루스 씨. 혹시 전에 창고에 있던 작업대 보관하고 계시면 제가 사용해도 될까요?	[!Dialog][!speaker:Albus_Normal]布鲁斯。之前放在仓库里的那个工作台还在吗，我能用一下吗？
@@ -4795,7 +4795,7 @@
 #12650	[!Sentence][!Dialog][!speaker:Albus_Happy]어머니는 저 위에 계시고...	[!Sentence][!Dialog][!speaker:Albus_Happy]我母亲在那上面...
 #12651	[!Sentence][!Dialog][!speaker:Sion_Angry]핸드폰 줘봐. 최근 연락드린 게 언제지?	[!Sentence][!Dialog][!speaker:Sion_Angry]手机给我看看。最近一次联系家里是什么时候啊？
 #12652	[!Sentence][!Dialog][!speaker:Carter_Normal]그곳의 삶에서 벗어나고자 몸부림친 결과가 이곳이다. 레이.	就是为了摆脱那个地方的日子，才挣扎着逃出来结果到了这里啊。雷伊。
-#12653	[!Sentence][!Dialog][!speaker:Sion_Stare].... 그럼 작은 회사를 가던가. 지금 나처럼 말야.	[!Sentence][!Dialog][!speaker:Sion_Stare]…那就去小公司啊。就像现在的我一样。
+#12653	[!Sentence][!Dialog][!speaker:Sion_Stare].... 그럼 작은 회사를 가던가. 지금 나처럼 말야.	[!Sentence][!Dialog][!speaker:Sion_Stare]...那就去小公司啊。就像现在的我一样。
 #12654	[!Sentence][!Dialog][!speaker:Albus_Happy]새로운 동료.	[!Sentence][!Dialog][!speaker:Albus_Happy]新同事。
 #12655	[!Sentence][!Dialog][!speaker:Sion_Normal]형이야말로 그 친구들과 잘 지내고 있어?	[!Sentence][!Dialog][!speaker:Sion_Normal]说说哥哥你吧，和朋友们处得还好吗？
 #12656	[!Sentence][!Dialog][!speaker:Sion_Normal]화장실이라도 가셨겠지... 기다려보자.	[!Sentence][!Dialog][!speaker:Sion_Normal]估计去洗手间了吧...我们等等吧。
@@ -4831,11 +4831,11 @@
 #12687	[!Sentence][!Dialog][!speaker:Heissing_Smile]그리고 번개 꼬마. 저번의 빚은 갚았다.	还有啊闪电小子。我这就还了上回的人情了。
 #12688	[!Sentence][!Dialog][!speaker:EmptySubTitle_]자신이 스카웃을 한 시온이었지만 평범하지 않은 이력에 알버스는 조사하지 않을 수 없었다.	[!Sentence][!Dialog]虽然是自己雇佣的席翁，但是对于他那不平凡的履历，阿尔伯斯不得不进行一番调查。
 #12689	[!Sentence][!BalloonChat][!speaker:Ryo]뭣!! 뭐야!!	[!Sentence][!BalloonChat][!speaker:Gangster_ButcherRyo_Normal]什么！！什么啊！！
-#12690	[!Sentence][!Subtitle][!speaker:Heissing_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFFF55']......레이냐?	[!Sentence][!Subtitle][!speaker:Heissing_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFFF55']…...是雷伊吗？
+#12690	[!Sentence][!Subtitle][!speaker:Heissing_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFFF55']......레이냐?	[!Sentence][!Subtitle][!speaker:Heissing_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFFF55']...是雷伊吗？
 #12691	[!Sentence][!Dialog][!speaker:Sion_Normal]네 성격이면 대충 조사해봤을 거 아냐.	[!Sentence][!Dialog][!speaker:Sion_Normal]按照你的性格，你应该也已经大概调查过了吧。
 #12692	[!Sentence][!BalloonChat][!speaker:Heissing]고생 꽤나 했겠군...	[!Sentence][!BalloonChat][!speaker:Heissing]好像蛮辛苦的。
 #12693	[!Sentence][!Choice]회사에 관하여 묻는다.	[!Sentence][!Choice]询问公司相关的事情。
-#12694	[!Sentence][!Dialog][!speaker:Marco_Smile]......료. 만두는 다음이다. 돌아가자.	[!Sentence][!Dialog][!speaker:Marco_Smile]…...亮。包子就算了吧。我们回去吧。
+#12694	[!Sentence][!Dialog][!speaker:Marco_Smile]......료. 만두는 다음이다. 돌아가자.	[!Sentence][!Dialog][!speaker:Marco_Smile]...亮。包子就算了吧。我们回去吧。
 #12695	[!Sentence][!Dialog][!speaker:Albus_Normal]범죄자들이 감히 못 덤비는 그런 회사로 빨리 성장해야지.	[!Sentence][!Dialog][!speaker:Albus_Normal]要快速成长为犯罪分子们不敢轻易惹得起的那种大公司才行。
 #12696	[!Sentence][!Dialog][!speaker:Marco_Rage]네 녀석이 헤집어 놓는 판에 내가 아직 이 시골 바닥이니 신경 긁지 마라.	都因为你这家伙给搅和出的浑水，才让我困在这个穷乡僻壤的地方，所以你最好还是别惹我。
 #12697	[!Sentence][!Dialog][!speaker:Sion_Laugh]당연하지!	[!Sentence][!Dialog][!speaker:Sion_Laugh]那当然啦！
@@ -5760,7 +5760,7 @@
 #13909	[!Dialog][!speaker:Albus_Normal]네. 아이린 씨.	[!Dialog][!speaker:Albus_Normal]是的。艾琳。
 #13910	[!Dialog][!speaker:Irene_Normal]바쁜 일이 없다면 오늘 조퇴할 수 있을까?	[!Dialog][!speaker:Irene_Normal]今天若是没什么要紧事就可以早点下班吗？
 #13911	[!Dialog][!speaker:Irene_Smile]별일 아니야. 그냥 개인적인 일이 밀려서 말야.	[!Dialog][!speaker:Irene_Smile]不是什么急事。只是我个人的些许私事。
-#13912	[!Dialog][!speaker:Albus_Embarrassed]......죄송합니다. 아이린 씨.	[!Dialog][!speaker:Albus_Embarrassed]…...不好意思。艾琳。
+#13912	[!Dialog][!speaker:Albus_Embarrassed]......죄송합니다. 아이린 씨.	[!Dialog][!speaker:Albus_Embarrassed]...不好意思。艾琳。
 #13913	[!Dialog][!speaker:Albus_Embarrassed]제 욕심으로 무리하게 의뢰를 맡다 보니...	[!Dialog][!speaker:Albus_Embarrassed]是我太贪心了，一股脑揽了太多的业务才...
 #13914	[!Dialog][!speaker:Irene_Normal]괜찮아. 알버스 군. 내가 좋아서 하는 일이야.	[!Dialog][!speaker:Irene_Normal]没关系的。阿尔伯斯。我很喜欢做事的。
 #13915	[!Dialog][!speaker:Irene_Smile]바쁜 의뢰가 있다면 미뤄도 되는 일이야.	[!Dialog][!speaker:Irene_Smile]若是有紧急委托的话，我这事是可以先放着。
@@ -5972,7 +5972,7 @@
 #14168	[!Sentence][!Dialog][!speaker:Alisa_Smile]비비!	[!Sentence][!Dialog][!speaker:Alisa_Smile]比比！
 #14169	[!Sentence][!VictoryCondition]마르코 바르도를 처치하시오.	[!Sentence][!VictoryCondition]处置马尔科・巴多。
 #14170	[!Sentence][!VictoryCondition]카터 전투 불능	[!Sentence][!VictoryCondition]卡特无法战斗状态
-#14171	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]......네?	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]…...嗯？
+#14171	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]......네?	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]...嗯？
 #14173	[!Sentence][!Dialog][!speaker:Irene_Smile2]그런가?	[!Sentence][!Dialog][!speaker:Irene_Smile2]是吗？
 #14174	[!Sentence][!Dialog][!speaker:Sion_Smile]힘내! 히어로가 힘내야지. 누가 힘을 내!	[!Sentence][!Dialog][!speaker:Sion_Smile]加油啊！英雄才要加油呀。不然要指望谁呢！
 #14175	[!Sentence][!Dialog][!speaker:Irene_Fury]뭐야 왜 항상 그런 식인 거야...	[!Sentence][!Dialog][!speaker:Irene_Fury]什么嘛，你怎么总是那种语气...
@@ -6060,7 +6060,7 @@
 #14270	[!Sentence][!BalloonChat]흩어져서 각개 격파당하지 말고 북쪽으로 간다!!	[!Sentence][!BalloonChat]避免被各个击破，不要散开，直接去北边！！
 #14271	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Normal]네 녀석들을 도와준 녀석들이 누구지? 빨리 말해봐~	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Normal]是谁帮的你们？还不快说～
 #14272	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Normal]분명 종교쟁이들 중에 이 동네 녀석들도 있을 거야.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Normal]这些神棍里面肯定有这小区的居民的。
-#14273	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]......알겠습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]…...收到。
+#14273	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]......알겠습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]...收到。
 #14274	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Normal]정말 우리를 우습게 보는군.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Normal]真是看不起我们啊。
 #14275	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Normal]동지들. 내가 먼저 달려들 테니 상황을 봐 도망치시오.	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Normal]同志们。我冲上去，你们看准时机逃走。
 #14276	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Normal]호오~ 간부들이 좋아하겠군.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Normal]哟呵～干部们会很喜欢的。
@@ -6340,7 +6340,7 @@
 #14611	[!Sentence][!Title]아테르 제국 수도 '테르'	[!Sentence][!Title]阿泰尔帝国的首都「阿特」
 #14614	[!Sentence][!Subtitle]바람장벽 지구 내의 백호파와 스푼교도의 충돌은 장기화되었다.	[!Sentence][!Subtitle]但是风之壁地区白虎组和勺子教信徒之间的冲突却迟迟未见结束。
 #14616	[!Sentence][!Title]블러드워커 가	[!Sentence][!Title]血海行者家门
-#14617	[!Sentence][!Dialog][!speaker:Sion_Angry]......알버스. 앤은 바로 복귀 시키자.	[!Sentence][!Dialog][!speaker:Sion_Angry]…阿尔伯斯。让安回到办公室吧。
+#14617	[!Sentence][!Dialog][!speaker:Sion_Angry]......알버스. 앤은 바로 복귀 시키자.	[!Sentence][!Dialog][!speaker:Sion_Angry]...阿尔伯斯。让安回到办公室吧。
 #14618	[!Sentence][!Dialog][!speaker:Anne_Smile]저 아직 괜찮은데...	[!Sentence][!Dialog][!speaker:Anne_Smile]我还好...
 #14619	[!Sentence][!Dialog][!speaker:Payne_Normal]세레나. 무슨 일이야?	[!Sentence][!Dialog][!speaker:Payne_Normal]塞雷娜。发生了什么？
 #14620	[!Sentence][!Dialog][!speaker:Serena_Normal]시온이 편지를 썼어!	[!Sentence][!Dialog][!speaker:Serena_Normal]席翁的邮件！
@@ -6405,7 +6405,7 @@
 #14694	[!Sentence][!Dialog][!speaker:Gangster_DeliveryHelmet_Normal]이런 아주 급하시군. 상황이 많이 안 좋은 신가 봐?	[!Sentence][!Dialog][!speaker:Gangster_DeliveryHelmet_Normal]这么着急的吗。事情大条了吗？
 #14695	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]나암!!	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]罗岩！！
 #14696	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal]『 카오스 브러시 』는 해체됐어.	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal]「混沌刷」已经解散了。
-#14697	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]...... 빨리 현장으로 출동해야겠군.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]…...看来需要快速出击呢。
+#14697	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]...... 빨리 현장으로 출동해야겠군.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]...看来需要快速出击呢。
 #14699	[!Sentence][!Dialog][!speaker:Gangster_DeliveryHelmet_Normal]물건 1 개당 20000 Vill.	[!Sentence][!Dialog][!speaker:Gangster_DeliveryHelmet_Normal]1件货物20000Vill。
 #14700	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]진정해. 터크.	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]你冷静点。图克。
 #14701	[!Sentence][!Dialog][!speaker:Gangster_DeliveryFat_Normal]아이지아. 이녀석들 정신 못 차렸다. 우리 아니면 누가 이런 걸 배달해.	[!Sentence][!Dialog][!speaker:Gangster_DeliveryFat_Normal]爱吉亚。这些家伙们头脑有点不清醒。如果不是我们，这东西谁能送到。
@@ -6841,7 +6841,7 @@
 #15156	[!Sentence][!Dialog][!speaker:Gangster_DeliveryHelmet_Normal]워~~	[!Sentence][!Dialog][!speaker:Gangster_DeliveryHelmet_Normal]喂～～
 #15157	[!Sentence][!Dialog][!speaker:Anne_Normal]다행이에요. 큰 상처가 아니어서...	[!Sentence][!Dialog][!speaker:Anne_Normal]幸好不伤口不大...
 #15158	[!Sentence][!Dialog][!speaker:Albus_Serious]지금부터 시민 구출 임무를 변경하여 현장의 적을 제압합니다!	[!Sentence][!Dialog][!speaker:Albus_Serious]现在开始变更拯救市民的任务，开始压制现场的敌人！
-#15159	[!Sentence][!Dialog][!speaker:Ray_Serious]......헤이싱?	[!Sentence][!Dialog][!speaker:Ray_Serious]…黑星？
+#15159	[!Sentence][!Dialog][!speaker:Ray_Serious]......헤이싱?	[!Sentence][!Dialog][!speaker:Ray_Serious]...黑星？
 #15161	[!Sentence][!Dialog][!speaker:NewsCaster_Normal]이어지는 두번째, 세번째 폭발에서도 찾아볼 수 있었습니다.	在紧接着的第二，第三次爆炸中也被发现。
 #15163	[!Sentence][!BalloonChat][!speaker:Ray]얕보고 있을 때 한 방에 보내야 해.	趁他还没认真之前，得一招制服他。
 #15164	[!Sentence][!Dialog][!speaker:Albus_Serious]'이런 곳에서 계속 대치하는 건 시간 낭비야...'	[!Sentence][!Dialog][!speaker:Albus_Serious]（在这种地方一直对峙简直是浪费时间...）
@@ -6996,7 +6996,7 @@
 #15318	[!Sentence][!BalloonChat][!speaker:Enemy02_07]미친 노친네... 은퇴 안 하나...	[!Sentence][!BalloonChat][!speaker:Enemy02_07]这疯老头儿...都不退休的吗...
 #15319	[!Sentence][!Subtitle][!speaker:VHPD_Assault_Normal]별빛 사거리 백호파 다수 확인!	[!Sentence][!Subtitle][!speaker:VHPD_Assault_Normal]星光大街发现大量白虎组成员！
 #15320	[!Sentence][!Dialog][!speaker:Gangster_Shandian_Normal]그럼 저도 이 일이 빨리 끝나도록 노력해야겠군요.	[!Sentence][!Dialog][!speaker:Gangster_Shandian_Normal]那我也尽量早点搞定这件事吧。
-#15321	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]'역시 $CompanyName$.... 10년 전 '실버라이닝'의 재림인가...'	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]（果然是$CompanyName$…十年前的「沙佛莱宁」重现么...）
+#15321	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]'역시 $CompanyName$.... 10년 전 '실버라이닝'의 재림인가...'	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]（果然是$CompanyName$...十年前的「沙佛莱宁」重现么...）
 #15322	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]내가 니들 나이 때는 이미 덤프트럭을 갈아 마셨어!	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]我像你们这么大的时候，都敢把翻斗车磨了吃掉！
 #15323	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]상층부에서는 더는 경찰 병력의 소진을 막고 싶다는 것이겠지.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]意思是上头不想再看到警力的消耗。
 #15324	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]젊은 녀석들이 뭐 하는 거냐!	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]小年轻们都在做着什么！
@@ -7209,7 +7209,7 @@
 #15585	[!Sentence][!Dialog][!speaker:Kylie_Smile]불변할 것이라 믿었던 상징성이 깨진거라 뒷세계에서는 난리도 아니었지.	[!Sentence][!Dialog][!speaker:Kylie_Smile]本以为永不变的象征性被打破，在地下世界也不算什么难解的事情了。
 #15586	[!Sentence][!Dialog][!speaker:Taesoo_Smile]뭐? 아가씨??	[!Sentence][!Dialog][!speaker:Taesoo_Smile]什么？小姐？？
 #15587	[!Sentence][!Dialog][!speaker:Ray_Serious]왜 날 가두는 거야? 내가 왜 갇혀야 하지?	[!Sentence][!Dialog][!speaker:Ray_Serious]为什么要拘留我？我凭什么要被关起来？
-#15588	[!Sentence][!Dialog][!speaker:Heissing_Rage]......너 잉어냐?	[!Sentence][!Dialog][!speaker:Heissing_Rage]…...你是鲤鱼吗？
+#15588	[!Sentence][!Dialog][!speaker:Heissing_Rage]......너 잉어냐?	[!Sentence][!Dialog][!speaker:Heissing_Rage]...你是鲤鱼吗？
 #15589	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]타이수님. 아가씨 앞입니다.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]太秀大人。小姐驾到。
 #15590	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]오랜만이군. 이번엔 무슨 일인가?	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]好久不见啊。这次又是因为什么？
 #15591	[!Sentence][!Dialog][!speaker:Ray_Serious]내가 싫다고 얼마나 말했어! 내가 만지지 말랬지!	[!Sentence][!Dialog][!speaker:Ray_Serious]我说了多少遍我不愿意！我让你别碰我！
@@ -7259,7 +7259,7 @@
 #15640	[!Sentence][!Dialog][!speaker:Taesoo_Smile]헛!? 카일리 아가씨?	[!Sentence][!Dialog][!speaker:Taesoo_Smile]哈！？凯莉小姐？
 #15641	[!Sentence][!Dialog][!speaker:Ray_Serious]내 소중한 친구들을 네 필요에 따라 이용하지 말아줬으면 좋겠네.	[!Sentence][!Dialog][!speaker:Ray_Serious]请不要随意利用我重要的朋友们好吗。
 #15642	[!Sentence][!Dialog][!speaker:Giselle_Smile2]견습 시절보다 얼마나 나아졌는지 한 번 볼까?	[!Sentence][!Dialog][!speaker:Giselle_Smile2]让我见识下你比见习期成长了多少吧？
-#15643	[!Sentence][!Dialog][!speaker:Heissing_EyeClose]......쓸데없는 고민이군.	[!Sentence][!Dialog][!speaker:Heissing_EyeClose]…...瞎担心什么啊。
+#15643	[!Sentence][!Dialog][!speaker:Heissing_EyeClose]......쓸데없는 고민이군.	[!Sentence][!Dialog][!speaker:Heissing_EyeClose]...瞎担心什么啊。
 #15644	[!Sentence][!BalloonChat][!speaker:Issac]적어도 나는 막고 싶네.	[!Sentence][!BalloonChat][!speaker:Albus_Normal]至少我想制止他。
 #15645	[!Sentence][!Dialog][!speaker:Kylie_Smile]그래. 원망하지 않는다니 다행이네.	[!Sentence][!Dialog][!speaker:Kylie_Smile]好吧。你不怪我就好了。
 #15646	[!Sentence][!Dialog][!speaker:Kylie_Smile2]뭐. 결국 그 후계자가 정해지면 『 구룡회 』와 인연도 끊을 수 있겠지.	[!Sentence][!Dialog][!speaker:Kylie_Smile2]这个嘛。最终定下继承人的话，我就能断了和「九龙会」的缘分了吧。
@@ -7268,7 +7268,7 @@
 #15650	[!Sentence][!Title]1년 6개월 전, 발할라 경찰청 유치장	[!Sentence][!Title]1年半之前，巴赫拉警察厅拘留所
 #15651	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Angry]그리고 그 대상은 자네의 『 카오스 브러시 』친구들도 예외가 아닐걸세. 그들도 발할라의 시민들이니까.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Angry]这个受众里你那旧日「混沌刷」的朋友们也不能例外的不是吗。他们毕竟也算是巴赫拉的市民啊。
 #15652	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]먼지바람 톨게이트 사고.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]沙暴收费站事故。
-#15653	[!Sentence][!Dialog][!speaker:Heissing_Normal]......그럴 이유가 없다.	[!Sentence][!Dialog][!speaker:Heissing_Normal]…...没必要那样子。
+#15653	[!Sentence][!Dialog][!speaker:Heissing_Normal]......그럴 이유가 없다.	[!Sentence][!Dialog][!speaker:Heissing_Normal]...没必要那样子。
 #15655	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Think]나 역시 발할라 시민의 한명으로 미안한 마음일세.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Think]我作为巴赫拉的市民，对此表示万分的抱歉。
 #15656	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]아닐세. 저 공무원은 공무원 내규에 따라 징계를 받을 걸세.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]不是的。这个公务员会根据公务员内部条例受到相关惩戒的。
 #15658	[!Sentence][!Dialog][!speaker:Taesoo_Normal]바로 사람을 물리겠습니다.	[!Sentence][!Dialog][!speaker:Taesoo_Normal]我马上把人都交给您。
@@ -7375,7 +7375,7 @@
 #15768	[!Sentence][!Dialog][!speaker:Heissing_Normal]너 답지 않은 복잡한 소리군.	[!Sentence][!Dialog][!speaker:Heissing_Normal]说这么复杂，都不像你本人了。
 #15769	[!Sentence][!Dialog][!speaker:Irene_Lonesome]제길...	[!Sentence][!Dialog][!speaker:Irene_Lonesome]该死的...
 #15771	[!Sentence][!Dialog][!speaker:Marco_Normal]그건 귀찮아지지 않을 때 이야기지.	[!Sentence][!Dialog][!speaker:Marco_Normal]那是还没烦躁的时候好说好商量的。
-#15772	[!Sentence][!Dialog][!speaker:Taesoo_Normal]......죄송합니다. 아가씨.	[!Sentence][!Dialog][!speaker:Taesoo_Normal]…...我错了。小姐。
+#15772	[!Sentence][!Dialog][!speaker:Taesoo_Normal]......죄송합니다. 아가씨.	[!Sentence][!Dialog][!speaker:Taesoo_Normal]...我错了。小姐。
 #15773	[!Sentence][!Dialog][!speaker:Luna_Bored]너. 이 정도로는 누구 하나 제대로 구할 수 없어.	[!Sentence][!Dialog][!speaker:Luna_Bored]你啊。就这种水平谁你都救不来的。
 #15774	[!Sentence][!Dialog][!speaker:Kylie_Rage]그냥 고리타분한 어르신들의 센스에 짜증이 나는 거지.	[!Sentence][!Dialog][!speaker:Kylie_Rage]看不惯老一辈的迂腐呆板的风格而已。
 #15775	[!Sentence][!Dialog][!speaker:Giselle_Smile2]어이. 알버스. 이제 일어나.	[!Sentence][!Dialog][!speaker:Giselle_Smile2]喂。阿尔伯斯。该起床啦。
@@ -7403,7 +7403,7 @@
 #15799	[!Sentence][!Dialog][!speaker:Heissing_Smile]무리한 요구를 하는군...	[!Sentence][!Dialog][!speaker:Heissing_Smile]这个要求真过分啊...
 #15801	[!Sentence][!Dialog][!speaker:Heissing_Normal]넌 『 구룡회 』를 나온 건가?	[!Sentence][!Dialog][!speaker:Heissing_Normal]你是退出了「九龙会」吗？
 #15802	[!Sentence][!Dialog][!speaker:Giselle_Smile2]퇴사했어. 그리고 놀러왔지.	[!Sentence][!Dialog][!speaker:Giselle_Smile2]我离职了。所以就过来玩啦。
-#15803	[!Sentence][!Dialog][!speaker:Heissing_Normal]......원망하지 않는다.	[!Sentence][!Dialog][!speaker:Heissing_Normal]…...没有怪你。
+#15803	[!Sentence][!Dialog][!speaker:Heissing_Normal]......원망하지 않는다.	[!Sentence][!Dialog][!speaker:Heissing_Normal]...没有怪你。
 #15804	[!Sentence][!Dialog][!speaker:Ray_Serious]자기 일이나 잘해. 치안이나 잘 확보하라고.	[!Sentence][!Dialog][!speaker:Ray_Serious]请做好你的分内的事。管好这治安吧。
 #15805	[!Sentence][!Title]절도	[!Sentence][!Title]偷盗
 #15806	[!Sentence][!Dialog][!speaker:Kylie_Smile]헤이싱?	[!Sentence][!Dialog][!speaker:Kylie_Smile]黑星？
@@ -7655,7 +7655,7 @@
 #16155	[!Sentence][!Dialog][!speaker:VHPD_Jane_Smile]$CompanyName$. 훈련에 참여해줘서 고맙네.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Smile]$CompanyName$. 感谢参加训练。
 #16158	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]그래! '백호'와 '흑호'는 언제 오는 거냐?	正好！「白虎」和「黑虎」什么时候过来啊？
 #16159	[!Sentence][!Objective]공격팀으로 승리하시오.	[!Sentence][!Objective]请在攻击队获取胜利。
-#16160	[!Sentence][!Dialog][!speaker:Anne_Tired_Smile]......절 보호하고 지치지 않도록 하느라 다들 힘드시잖아요.	[!Sentence][!Dialog][!speaker:Anne_Tired_Smile]…为了保护我，大家都很累了吧。
+#16160	[!Sentence][!Dialog][!speaker:Anne_Tired_Smile]......절 보호하고 지치지 않도록 하느라 다들 힘드시잖아요.	[!Sentence][!Dialog][!speaker:Anne_Tired_Smile]...为了保护我，大家都很累了吧。
 #16161	[!Sentence][!Dialog][!speaker:Albus_Normal]네. 많은 수를 상대하는 것이 아닌 상황이라 그 방법이 더 효율적이라고 생각해요.	[!Sentence][!Dialog][!speaker:Albus_Normal]对，因为对手不多，我认为用那个方法更有效率。
 #16162	[!Sentence][!Dialog][!speaker:Anne_Normal2]저에게 오는 부담 줄여 주시려고 최대한 버텨주시잖아요.	[!Sentence][!Dialog][!speaker:Anne_Normal2]我知道为了减少我的负担，正在用尽全力。
 #16163	[!Sentence][!Dialog][!speaker:Sion_Normal]평상시대로 하면 돼.	[!Sentence][!Dialog][!speaker:Sion_Normal]像平常一样做就好。
@@ -7817,9 +7817,9 @@
 #16346	[!Sentence][!Dialog][!speaker:Anne_Smile]평소처럼 하면 되지 않을까요?	[!Sentence][!Dialog][!speaker:Anne_Smile]像平时一样做就行了吧？
 #16347	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]약속할 순 없지만 최대한 노력할게.	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]虽然无法承诺什么，但我会尽全力。
 #16349	[!Sentence][!Dialog][!speaker:Irene_Normal]그럼 내가 알버스 군을 맡을게.	[!Sentence][!Dialog][!speaker:Irene_Normal]那么由我来负责阿尔伯斯。
-#16351	[!Sentence][!Dialog][!speaker:Anne_Sorrow]......잠시만요.	[!Sentence][!Dialog][!speaker:Anne_Sorrow]…请稍等。
+#16351	[!Sentence][!Dialog][!speaker:Anne_Sorrow]......잠시만요.	[!Sentence][!Dialog][!speaker:Anne_Sorrow]...请稍等。
 #16352	[!Sentence][!Dialog][!speaker:Anne_Surprise]네?	[!Sentence][!Dialog][!speaker:Anne_Surprise]嗯？
-#16353	[!Sentence][!Dialog][!speaker:Anne_Sorrow]......정말 이러기에요.	[!Sentence][!Dialog][!speaker:Anne_Sorrow]…请不要这样。
+#16353	[!Sentence][!Dialog][!speaker:Anne_Sorrow]......정말 이러기에요.	[!Sentence][!Dialog][!speaker:Anne_Sorrow]...请不要这样。
 #16354	[!Sentence][!Dialog][!speaker:Ray_Normal]알버스 군. 우리 자유롭게 움직여도 돼?	[!Sentence][!Dialog][!speaker:Ray_Normal]阿尔伯斯，我们可以自由行动吗？
 #16355	[!Sentence][!Dialog][!speaker:Anne_Normal]레이 언니 덕분에 최근 정말 많이 편해졌어요.	[!Sentence][!Dialog][!speaker:Anne_Normal]因为雷伊姐最近真的轻松了很多。
 #16356	[!Sentence][!Dialog][!speaker:Ray_Smile2]왜 뭐가 궁금해?	[!Sentence][!Dialog][!speaker:Ray_Smile2]怎么了？有什么好奇的吗？
@@ -7828,7 +7828,7 @@
 #16361	[!Sentence][!Dialog][!speaker:Ray_Normal]음. 책 선물 분명히 좋아할 거야.	[!Sentence][!Dialog][!speaker:Ray_Normal]嗯，如果是书的话，一定会喜欢。
 #16362	[!Sentence][!Dialog][!speaker:Sion_Laugh]맞아. 푸고 뒷골목 건물 위로 뛰어다니느라 말도 아니었어.	[!Sentence][!Dialog][!speaker:Sion_Laugh]没错，在府谷后街房顶上飞奔，别提了。
 #16363	[!Sentence][!VictoryCondition]공격팀으로 승리하시오.	[!Sentence][!VictoryCondition]请在攻击队获取胜利。
-#16364	[!Sentence][!Dialog][!speaker:Anne_Sorrow]......뭐에요. 둘 다.	[!Sentence][!Dialog][!speaker:Anne_Sorrow]…你们两位，这算什么。
+#16364	[!Sentence][!Dialog][!speaker:Anne_Sorrow]......뭐에요. 둘 다.	[!Sentence][!Dialog][!speaker:Anne_Sorrow]...你们两位，这算什么。
 #16365	[!Sentence]공격팀으로 훈련을 진행합니다. 방어팀을 제압하거나 훈련장의 전파 방해기를 모두 파괴해야 합니다.	[!Sentence]以攻击队进行训练。压制防御队或破坏训练场的所有电波干扰器。
 #16366	[!Sentence][!Dialog][!speaker:Irene_Normal]나도 봐주지 않을 거야. 알버스 군.	[!Sentence][!Dialog][!speaker:Irene_Normal]我也不会放水的，阿尔伯斯。
 #16367	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]시온. 넌 후방에 있을 거잖아?	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]席翁，你不是会在后方吗？
@@ -7853,7 +7853,7 @@
 #16387	[!Sentence][!Dialog][!speaker:Ray_Smile]그럼 앤. 잘 부탁해. 저쪽 팀한테 우리 실력을 보여주자~☆	[!Sentence][!Dialog][!speaker:Ray_Smile]安，拜托你了。让对方瞧瞧我们的实力～☆
 #16388	[!Sentence][!Dialog][!speaker:Sion_Stare]하지만 형과 누나로 인해 그 아이들이 힘들어지면 나 형과 누나를 싫어할거야.	[!Sentence][!Dialog][!speaker:Sion_Stare]如果哥哥与姐姐让那些孩子变得困扰，我会讨厌你们的。
 #16389	[!Sentence][!Dialog][!speaker:Irene_Smile2]알버스군. 시온군.	[!Sentence][!Dialog][!speaker:Irene_Smile2]阿尔伯斯，席翁。
-#16390	[!Sentence][!Dialog][!speaker:Anne_Sorrow]......이거 반칙이에요. 제가 감사드리려고 한 거라고요.	[!Sentence][!Dialog][!speaker:Anne_Sorrow]…这不算。本来是我想表达谢意的。
+#16390	[!Sentence][!Dialog][!speaker:Anne_Sorrow]......이거 반칙이에요. 제가 감사드리려고 한 거라고요.	[!Sentence][!Dialog][!speaker:Anne_Sorrow]...这不算。本来是我想表达谢意的。
 #16391	[!Sentence][!Dialog][!speaker:Ray_Normal]최근에도 몇번 퇴근하고 혼자 서점 근처에 있는 것 봤어.	[!Sentence][!Dialog][!speaker:Ray_Normal]最近下班后有好几次都看到他在书店附近。
 #16392	[!Sentence][!Dialog][!speaker:Heissing_Smile]안타깝지만 그 녀석들은 내 가족이다.	[!Sentence][!Dialog][!speaker:Heissing_Smile]很可惜，那些家伙是我的家人。
 #16396	[!Sentence][!Dialog][!speaker:Albus_Normal]네. 여러모로 힘든 시기였는데, 아이린 씨 덕분에 많은 사건을 해결할 수 있었어요	[!Sentence][!Dialog][!speaker:Albus_Normal]嗯，本来是很困难的时期，多亏了艾琳解决了很多事件。
@@ -7877,7 +7877,7 @@
 #16417	[!Sentence][!Dialog][!speaker:Anne_Smile]네. 저도 잘 부탁해요. 레이 언니.	[!Sentence][!Dialog][!speaker:Anne_Smile]是，我也拜托啦，雷伊姐。
 #16418	[!Sentence][!Dialog][!speaker:Sion_Normal]절대 사장님, 헤이싱 형, 앤한테 지고 싶지 않으니 잘 부탁합니다!	[!Sentence][!Dialog][!speaker:Sion_Normal]绝对不想输给老板，黑星哥和安，拜托各位了！
 #16419	[!Sentence][!Dialog][!speaker:Albus_Think][colour='FFFFFF00']다음 공격팀에는 헤이싱 씨가 나을까... 시온이 나을까...	[!Sentence][!Dialog][!speaker:Albus_Think][colour='FFFFFF00']下个攻击队是黑星好还是席翁好呢...
-#16420	[!Sentence][!Dialog][!speaker:Anne_Tired_Smile]......그런가요?	[!Sentence][!Dialog][!speaker:Anne_Tired_Smile]…是那样吗？
+#16420	[!Sentence][!Dialog][!speaker:Anne_Tired_Smile]......그런가요?	[!Sentence][!Dialog][!speaker:Anne_Tired_Smile]...是那样吗？
 #16421	[!Sentence][!Dialog][!speaker:Sion_Smile]앤. 너야말로 우리의 에이스야.	[!Sentence][!Dialog][!speaker:Sion_Smile]安，你是我们队的第一位纷争终结者。
 #16422	[!Sentence][!Dialog][!speaker:Ray_Normal]아냐. 앤. 그만큼 친하다는 소리야.	[!Sentence][!Dialog][!speaker:Ray_Normal]不是的，安，是关系非常好的意思。
 #16423	[!Sentence][!Dialog][!speaker:Sion_Cry]헤이싱 형 분명히 나 먼저 노리고 올 거라고!!	[!Sentence][!Dialog][!speaker:Sion_Cry]黑星哥肯定会先以我为目标！
@@ -8155,7 +8155,7 @@
 #16743	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]항복할 생각은 없나?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]没有投降的想法吗？
 #16744	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]조홍. 하산.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]赵洪。哈山。
 #16746	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]그럼 이제 기다리면 되는 것인가?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]那么现在知道等待就可以了吗？
-#16747	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSniper_Mert_Normal]...그놈의 사나이 소리는 이제 못 듣겠군.	…再也听不到那家伙男子汉一般的声音了。
+#16747	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSniper_Mert_Normal]...그놈의 사나이 소리는 이제 못 듣겠군.	...再也听不到那家伙男子汉一般的声音了。
 #16748	[!Sentence][!Dialog][!speaker:Albus_Serious]지금부터 현장의 스푼교도들을 제압합니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]现在开始压制现场的勺子教徒们。
 #16749	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]후성. 참아.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]侯成，忍住。
 #16750	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]후성. 어차피 우리 모두 올라가봐야 협소해서 서로 불편할 뿐이다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]侯成，上面很狭小，即使我们上去了也施展不开。
@@ -8521,7 +8521,7 @@
 #17140	[!Sentence][!Dialog][!speaker:Giselle_Normal]케이트. 넌 신입 편 아니었어?	[!Sentence][!Dialog][!speaker:Giselle_Normal]凯特。你不是向着新人的吗？
 #17141	[!Sentence][!Dialog][!speaker:Albus_EyeAversion]지금이라도 늦지 않았어... 다른 회사가서 제대로 하는 거야...	[!Sentence][!Dialog][!speaker:Albus_EyeAversion]现在还为时不晚...去别的公司好好干...
 #17142	[!Sentence][!Dialog][!speaker:Giselle_Smile]끌고 가봐야 힘들 녀석들 쳐 내는 좋은 방법이지.	[!Sentence][!Dialog][!speaker:Giselle_Smile]扶不上墙的家伙们还是先甩出去再说。
-#17143	[!Sentence][!Dialog][!speaker:Albus_Embarrassed]... 아니 그건...	[!Sentence][!Dialog][!speaker:Albus_Embarrassed]…不那不是...
+#17143	[!Sentence][!Dialog][!speaker:Albus_Embarrassed]... 아니 그건...	[!Sentence][!Dialog][!speaker:Albus_Embarrassed]...不那不是...
 #17145	[!Sentence][!Title]2년 전, '블랙펄' 본사	[!Sentence][!Title]2年前，「黑珍珠」本部
 #17146	[!Sentence][!Dialog][!speaker:Kate_Normal]쌓인 것을 말했다가 떨어진 견습생들이 있대.	[!Sentence][!Dialog][!speaker:Kate_Normal]据说有见习生说出不满之处后被踢出局了。
 #17147	[!Sentence][!Title]입사 후 3개월...	[!Sentence][!Title]入职3个月...
@@ -9362,7 +9362,7 @@
 #18405	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]네 약은 어떻게든 구해.	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]你的药无论如何都会弄到。
 #18406	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]궂은 날씨에 잦은 출동으로 피곤할텐데 먼저 복귀하도록 해.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]在这种天气下，出动的还这么频繁，应该很累。先回归吧。
 #18407	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]네 이능력이야말로 우리에게 필요한 능력이야!	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]你的能力才是我们需要的啊！
-#18408	[!Sentence][!Dialog][!speaker:Carter_Normal]...레톤. 빠져나가자.	[!Sentence][!Dialog][!speaker:Carter_Normal]…莱顿。离开吧。
+#18408	[!Sentence][!Dialog][!speaker:Carter_Normal]...레톤. 빠져나가자.	[!Sentence][!Dialog][!speaker:Carter_Normal]...莱顿。离开吧。
 #18409	[!Sentence][!Subtitle][!speaker:Gangster_Brad_Normal]충분해. 돈값은 충분히 했어.	[!Sentence][!Subtitle][!speaker:Gangster_Brad_Normal]够了。钱足够了。
 #18410	[!Sentence][!Dialog][!speaker:Carter_Normal]'미안하다. 레이'	[!Sentence][!Dialog][!speaker:Carter_Normal]“对不起，雷伊。“
 #18411	[!Sentence][!Title]모두를 위해	[!Sentence][!Title]为了大家
@@ -9402,7 +9402,7 @@
 #18445	[!Sentence][!Dialog][!speaker:Heissing_EyeClose]'말하지 않아도 충분히 이해해.'	[!Sentence][!Dialog][!speaker:Heissing_EyeClose]「不用说我也能充分理解。」
 #18446	[!Sentence][!Dialog][!speaker:Heissing_Normal]그런가?	[!Sentence][!Dialog][!speaker:Irene_Smile2]是吗？
 #18447	[!Sentence][!Dialog][!speaker:Heissing_Smile]카터와 레톤이 있었다.	[!Sentence][!Dialog][!speaker:Heissing_Smile]卡特和莱顿在这里过。
-#18448	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]...역시	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]…果然
+#18448	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]...역시	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]...果然
 #18449	[!Sentence][!Dialog][!speaker:Heissing_Smile]좋은 생각이다.	[!Sentence][!Dialog][!speaker:Heissing_Smile]好想法。
 #18450	[!Sentence][!Dialog][!speaker:Heissing_Smile]그랬군.	[!Sentence][!Dialog][!speaker:Heissing_Smile]原来如此。
 #18451	[!Sentence][!Dialog][!speaker:Heissing_Smile]즐거운 추억이 되겠군.	[!Sentence][!Dialog][!speaker:Heissing_Smile]看来会成为愉快的回忆啊。
@@ -9668,7 +9668,7 @@
 #18794	[!Sentence][!Dialog][!speaker:Irene_Surprise]아이작 경감...	[!Sentence][!Dialog][!speaker:Irene_Surprise]艾萨克警监...
 #18795	[!Sentence][!VictoryCondition]현장의 적을 모두 제압하시오.	[!Sentence][!VictoryCondition]请制服现场的所有敌人。
 #18796	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]자네가 하도 훈방해버려서 진짜 짜증 났었지.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]你训话太多了，真的是烦人的啊。
-#18797	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]...이런 『 스컬 』을 망가뜨린 녀석인가... 	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]…什么，是毁掉「骷髅」的家伙吗...
+#18797	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]...이런 『 스컬 』을 망가뜨린 녀석인가... 	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]...什么，是毁掉「骷髅」的家伙吗...
 #18798	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]이런 아이작... 화가 난 건가?	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]哎呀，艾萨克...生气了吗？
 #18799	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]정신 사납게 벽에 낙서하던 녀석들의 리더 녀석이군.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]是那群在墙上涂鸦的厌烦的家伙们的领导啊。
 #18800	[!Sentence][!Dialog][!speaker:Anne_Surprise]아이작 경감님...	[!Sentence][!Dialog][!speaker:Anne_Surprise]艾萨克警监...
@@ -9938,7 +9938,7 @@
 #19099	[!Sentence][!Dialog][!speaker:Student_Science01_Normal]까약!! 카일리 선배잖아~♡	[!Sentence][!Dialog][!speaker:Student_Science01_Normal]呀！！是凯莉前辈哎～♡
 #19100	[!Sentence][!Dialog][!speaker:Longchuan_Normal_Young2]그 선택이 현재 아가씨의 실력입니다.	[!Sentence][!Dialog][!speaker:Longchuan_Normal_Young2]那个选择就是小姐当前的实力。
 #19101	[!Sentence][!Dialog][!speaker:Kylie_Normal]너라면 와 줄거라 생각했지.	[!Sentence][!Dialog][!speaker:Kylie_Normal]我就知道如果是你，一定会来。
-#19102	[!Sentence][!Dialog][!speaker:Kylie_Embarrasing_Girl2]......당연하잖아.	…那当然了啊。
+#19102	[!Sentence][!Dialog][!speaker:Kylie_Embarrasing_Girl2]......당연하잖아.	...那当然了啊。
 #19103	[!Sentence][!Dialog][!speaker:Longchuan_Normal_Young4]이제는 아스카 님과 아가씨를 대신하여 지부 관리에 전념하겠습니다.	[!Sentence][!Dialog][!speaker:Longchuan_Normal_Young4]从现在开始我将代替明日香大人和小姐来全力管理支部。
 #19104	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]옷장 안에서 먼지 쌓이는 것보다는 이렇게라도 사용하는 것이 낫지 않겠습니까.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]比起在衣柜里积满灰尘，还不如像这样使用一下吧。
 #19105	[!Sentence][!Dialog][!speaker:Heissing_Smile]생각의 근본은 변하지 않는가 보군.	[!Sentence][!Dialog][!speaker:Heissing_Smile]看来思想的本质是不会改变的。
@@ -10428,7 +10428,7 @@
 #19634	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]안타깝게도 기동대가 지금 출동 중이지만 도착까지 30분 이상 걸릴거야.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]虽然现在机动队已经出动，但到达需要30多分钟以上。
 #19635	[!Sentence][!Dialog]하지만 터크와 나암은 자신의 새로운 삶의 터전인 가게를 팔 생각이 없었기에 정중히 거절하였고...	[!Sentence][!Dialog]但是因为图克和罗岩不想卖掉展开新生活的店铺，所以郑重地拒绝了...
 #19636	[!Sentence][!BalloonChat][!speaker:Naam]함정이다!! 다들 조심해!!	[!Sentence][!BalloonChat][!speaker:Naam]是陷阱！！都小心点！
-#19637	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Joshua_Normal]......알겠습니다. 보스.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Joshua_Normal]…首领，明白了。
+#19637	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Joshua_Normal]......알겠습니다. 보스.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Joshua_Normal]...首领，明白了。
 #19638	[!Sentence][!Dialog]『앨리』출신이라는 이유로 거절당하거나 많은 차별을 받아야 했다.	[!Sentence][!Dialog]仅仅只是因为出身于「艾丽」，而被拒绝并受到了很多歧视。
 #19639	[!Sentence][!Title]2년 전, 붉은 광산 지구	[!Sentence][!Title]两年前，红矿地区
 #19640	[!Sentence][!Dialog]제인은 이전 복무지였던 발할라의 중심부인 오딘 지구의 경찰 병력 상황을 잘 알고 있었다.	[!Sentence][!Dialog]珍非常了解以前服役过的巴赫拉中心部奥丁地区的警察兵力情况。
@@ -10480,7 +10480,7 @@
 #19688	[!Sentence][!BalloonChat][!speaker:Direct_Darius]네. 보스.	是！首领！
 #19689	[!Sentence][!Dialog]똑같은 일을 해도 발할라 출신 사람들보다 반도 안되는 급여.	[!Sentence][!Dialog]即使从事同样的工作，拿到的工资却是巴赫拉人一半也不够...
 #19690	[!Sentence][!Dialog][!speaker:Patron_Girl_Normal]아저씨! 닭꼬치 하나 주세요!	[!Sentence][!Dialog][!speaker:Patron_Girl_Normal]大叔！来一份鸡肉串吧！
-#19691	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Hurted_Young2]...터크 괜찮냐?	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Hurted_Young2]…图克没事吗？
+#19691	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Hurted_Young2]...터크 괜찮냐?	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Hurted_Young2]...图克没事吗？
 #19692	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Smile_Young2]진작... 이렇게 했어야 했어.	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Smile_Young2]早就该这样了。
 #19693	[!Sentence][!BalloonChat][!speaker:Turk]자! 바로 돌입한다!	[!Sentence][!BalloonChat][!speaker:Turk]好！那就立马突进吧！
 #19694	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]그래. 힘들다. 힘들어...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]是啊。累死了...
@@ -10726,7 +10726,7 @@
 #19986	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]상점가 외곽으로 포위망을 구축하는 것이 최선이겠지.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]以商店街外围构筑包围圈是最好的。
 #19987	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]알파 투. 시민 구조 완료.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]阿尔法二号，市民营救完毕。
 #19990	[!Sentence][!BalloonChat][!speaker:VHPD3]생존한 시민이 있습니다!!	[!Sentence][!BalloonChat][!speaker:VHPD3]有幸存的市民！
-#19992	[!Sentence][!Dialog][!speaker:VHPD_Issac_Think]...알았다.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Think]…明白了。
+#19992	[!Sentence][!Dialog][!speaker:VHPD_Issac_Think]...알았다.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Think]...明白了。
 #19996	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]각 분대원 아이 주위 적부터 배제해라.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]各自扫除孩子周围的敌人。
 #20005	[!Sentence][!BalloonChat][!speaker:Enemy4]오지마! 이자식들아!	[!Sentence][!BalloonChat][!speaker:Enemy4]别过来！
 #20012	[!Sentence][!BalloonChat][!speaker:VHPD3]전방. 적 다수! 발각당했다!	[!Sentence][!BalloonChat][!speaker:VHPD3]前方有多数的敌人！我被发现了！
@@ -10815,7 +10815,7 @@
 #20125	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]네가 살아가는 이 세상은 네가 쌓아 올린 것이 아니야.	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]你生活的这个世界可不是你积累的。
 #20126	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]응 그래.	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]嗯，是的。
 #20127	[!Sentence][!Dialog][!speaker:Carter_Normal_Young_Band2]죄송합니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]对不起。
-#20128	[!Sentence][!Dialog][!speaker:Carter_Normal_Young]......하지 말아주십시오.	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]…请不要伤害到他们。
+#20128	[!Sentence][!Dialog][!speaker:Carter_Normal_Young]......하지 말아주십시오.	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]...请不要伤害到他们。
 #20129	[!Sentence][!Dialog][!speaker:Peggy_Normal]알겠습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]明白了。
 #20130	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]그런데 전혀 입질이 오지 않는구만...	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]但是根本就没有鱼上钩呢啊...
 #20131	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]미안하네. 그만하지.	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]就说到这里吧。
@@ -11139,10 +11139,10 @@
 #20493	[!Sentence][!Dialog][!speaker:Luna_Annoying]나 2주에 하루... 하루만 자유 시간 주면 안 돼?	[!Sentence][!Dialog][!speaker:Luna_Annoying]两个星期就一天...就给我一天的自由时间好不好？
 #20494	[!Sentence][!Dialog][!speaker:Luna_Annoying]물론. 일 없을 때. 그리고 나 진짜 말 잘 들을게.	[!Sentence][!Dialog][!speaker:Luna_Annoying]当然。是在没有工作的时候。还有我会好好听话的。
 #20495	[!Sentence][!Dialog][!speaker:Luna_Happy]응?	[!Sentence][!Dialog][!speaker:Anne_Smile]嗯？
-#20496	[!Sentence][!Dialog][!speaker:Marco_Smile]......말이 되는 소리를 해.	[!Sentence][!Dialog][!speaker:Marco_Smile]…说些像话的话。
+#20496	[!Sentence][!Dialog][!speaker:Marco_Smile]......말이 되는 소리를 해.	[!Sentence][!Dialog][!speaker:Marco_Smile]...说些像话的话。
 #20498	[!Sentence][!Dialog][!speaker:Luna_Annoying]다 망쳐 버릴 거야...	让你下不来台...
 #20499	[!Sentence][!Dialog][!speaker:Marco_Smile]루나. 너 후회할 거야.	[!Sentence][!Dialog][!speaker:Marco_Smile]露娜。你会后悔的。
-#20500	[!Sentence][!Dialog][!speaker:Luna_Annoying]......후회 안해.	[!Sentence][!Dialog][!speaker:Luna_Annoying]…我不会的。
+#20500	[!Sentence][!Dialog][!speaker:Luna_Annoying]......후회 안해.	[!Sentence][!Dialog][!speaker:Luna_Annoying]...我不会的。
 #20501	[!Sentence][!Dialog][!speaker:Marco_Smile]'14살인가... '	[!Sentence][!Dialog][!speaker:Marco_Smile]（哈...14岁嘛... ）
 #20502	[!Sentence][!Dialog][colour='FFFFFF00']마르코!!! 내 인형!!!	[!Sentence][!Dialog][colour='FFFFFF00']马尔科！！！我的人偶！！！
 #20503	[!Sentence][!Dialog][colour='FFFFFF00']마르코!!!	[!Sentence][!Dialog][colour='FFFFFF00']马尔科！！！
@@ -11151,7 +11151,7 @@
 #20506	[!Sentence][!Title]아파도 아픈 줄 모르고...	[!Sentence][!Title]忘却疼痛...
 #20507	[!Sentence][!Title]잿빛 공원묘지 사건 다음날 새벽...	[!Sentence][!Title]灰港公墓事件的下一天凌晨...
 #20508	[!Sentence][!Dialog][colour='FFFF99FF']한동안 열심히 일처리 하길래 놔뒀더니...	[colour='FFFF99FF']此后努力工作了一段时间，所以就不追究了...
-#20509	[!Sentence][!Dialog][!speaker:Luna_Depressed]......열심히 했어.	…我努力工作了。
+#20509	[!Sentence][!Dialog][!speaker:Luna_Depressed]......열심히 했어.	...我努力工作了。
 #20510	[!Sentence][!Dialog][colour='FFFF99FF']후회할 거라 했지?	[!Sentence][!Dialog][colour='FFFF99FF']说过会后悔的吧？
 #20511	[!Sentence][!Dialog][!speaker:Luna_Depressed]후회 안 해...	[!Sentence][!Dialog][!speaker:Luna_Depressed]我不后悔...
 #20512	[!Sentence][!Dialog][colour='FFFF99FF']이대로 일이 잘 풀리면 이번 달에 본부로 복귀한다.	[!Sentence][!Dialog][colour='FFFF99FF']如果事情能顺利解决，本月就会回到本部。
@@ -11252,7 +11252,7 @@
 #20611	[!Sentence][!Dialog][!speaker:Anne_Strict]당연히 도와야죠.	[!Sentence][!Dialog][!speaker:Anne_Strict]当然要帮忙了。
 #20612	[!Sentence][!Dialog][!speaker:Anne_Smile]다 큰 어른들이 우리 같은 아이들을 때리는데 그걸 어떻게 참고 보고 있어요!	[!Sentence][!Dialog][!speaker:Anne_Smile]都是成年的大人竟打像我们这样的孩子，我怎么能容忍下去！
 #20613	[!Sentence][!Dialog][!speaker:Marco_Smile]이제 저 아이 곁에는 좋은 동료들이 많아.	[!Sentence][!Dialog][!speaker:Marco_Smile]现在，那个孩子身边有很多好的同事。
-#20614	[!Sentence][!Dialog][!speaker:Luna_Depressed].......나도 알아.	[!Sentence][!Dialog][!speaker:Luna_Depressed]…我也知道。
+#20614	[!Sentence][!Dialog][!speaker:Luna_Depressed].......나도 알아.	[!Sentence][!Dialog][!speaker:Luna_Depressed]...我也知道。
 #20615	[!Sentence][!Dialog][!speaker:Marco_Smile]이제 일이 마무리되는 대로 이 곳을 떠날 거다.	[!Sentence][!Dialog][!speaker:Marco_Smile]现在随着事情的完结，就会离开这里。
 #20616	[!Sentence][!Dialog][!speaker:Marco_Smile]그러니 이제 지켜보는 것도 끝내라.	所以就别再暗中观察了。
 #20617	[!Sentence][!Dialog][!speaker:Marco_Smile]약속 했지. 네가 역할을 제대로 안하면...	我们可是有约定的。但是如果你不守约的话...
@@ -11536,7 +11536,7 @@
 #20913	[!Sentence][!Dialog][!speaker:Karl_Smile]그들에게 모든 정보를 통제하여 왜곡된 세상을 보여준 것은 당신들입니다.	进行信息管控，并给他们塑造一种扭曲的认知观的，不正是你们这些人吗。
 #20914	[!Sentence][!Dialog][!speaker:Edward_Normal2]보여준다 한들 감당하고 싶지 않아하며 버티지 못하는 자들에게 보여줄 필요가 있나?	[!Sentence][!Dialog][!speaker:Edward_Normal2]即使他们看到真相，你觉得他们能承受得了吗？
 #20915	[!Sentence][!Dialog][!speaker:Karl_Think]못 보여줄 것도 없지 않습니까? 언젠가 결국 다 알려질 것입니다.	[!Sentence][!Dialog][!speaker:Karl_Think]有必要故意去隐瞒吗？反正总有一天会知道的。
-#20916	[!Sentence][!Dialog][!speaker:Edward_Normal2]...그래서 자네의 선택은 무엇인가?	…所以你的选择是什么？
+#20916	[!Sentence][!Dialog][!speaker:Edward_Normal2]...그래서 자네의 선택은 무엇인가?	...所以你的选择是什么？
 #20917	[!Sentence][!Dialog][!speaker:Karl_Normal]아직 휴일입니다. 조금 더 생각해 보겠습니다.	至少现在还是假期，我还要再考虑一下。
 #20918	[!Sentence][!Dialog][!speaker:MayorSecretary_Normal]부르셨습니까?	您叫我？
 #20919	[!Sentence][!Dialog][!speaker:Karl_Normal]현재 지지율은?	现在的支持率如何？
@@ -11695,7 +11695,7 @@
 #21073	[!Sentence][!Dialog][!speaker:Tana_Normal]왜요?  또 그 상태인가요?	[!Sentence][!Dialog][!speaker:Tana_Normal]怎么了？又是那状态吗？
 #21074	[!Sentence][!Dialog][!speaker:AlleyWoman_Normal]네... 어르신이 없으면 전혀 능력을 쓰지 않아요.	[!Sentence][!Dialog][!speaker:AlleyWoman_Normal]是的...大夫不在，就不去使用任何能力。
 #21075	[!Sentence][!Dialog][!speaker:AlleyWoman_Normal]그 아이 나름대로 이유가 있는 건 알지만...	[!Sentence][!Dialog][!speaker:AlleyWoman_Normal]虽然知道那个孩子有自己的理由...
-#21076	[!Sentence][!Dialog][!speaker:Tana_Sorrow]......애가 클수록 매정하네요.	[!Sentence][!Dialog][!speaker:Tana_Sorrow]…孩子越大越无情啊。
+#21076	[!Sentence][!Dialog][!speaker:Tana_Sorrow]......애가 클수록 매정하네요.	[!Sentence][!Dialog][!speaker:Tana_Sorrow]...孩子越大越无情啊。
 #21077	[!Sentence][!Dialog][!speaker:AlleyWoman_Normal]타나씨. 듣겠어요...	[!Sentence][!Dialog][!speaker:AlleyWoman_Normal]塔娜，会听到的...
 #21079	[!Sentence][!Dialog][!speaker:Tana_Normal]조금만 참아요. 곧 발할라에서 의료 봉사단이 올 시기에요.	再忍一忍吧。这时期的话，医疗服务团会从巴赫拉派过来的。
 #21080	[!Sentence][!Dialog][!speaker:EmptySubTitle_][colour='FFFFFF00']타인에게 의존해서 살면서 돕지 않는 다는 이유로 비난한다.	[colour='FFFFFF00']那些依靠别人才活下来的人，一旦得不到帮助，就开始指责别人。
@@ -11723,7 +11723,7 @@
 #21104	[!Sentence][!Dialog][!speaker:Visha_Smile_Young]난 그저 네 안전 확보하는 것이 일이니까.	我只是确保你的安全。
 #21105	[!Sentence][!Dialog][!speaker:Visha_Normal_Young]그래도 잘 참았구나.	即使如此，忍受住了呢。
 #21109	[!Sentence][!Dialog][!speaker:Ray_Surprise_Girl]레톤... 괜찮은 걸까?	[!Sentence][!Dialog][!speaker:Ray_Surprise_Girl]莱顿...会没事吗？
-#21110	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]...괜찮을 거야. 일단 기다려 보자.	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]…会没事的。先等等吧。
+#21110	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]...괜찮을 거야. 일단 기다려 보자.	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]...会没事的。先等等吧。
 #21111	[!Sentence][!Title]첫번째 선택	[!Sentence][!Title]第一次的选择
 #21112	[!Sentence][!Title]15년 전, 임시 의료 봉사단 기지	[!Sentence][!Title]15年前，临时医疗服务团基地
 #21113	[!Sentence][!Dialog][!speaker:Lily_Normal_Young]얼굴을 보니 그동안 잘 참고 지냈구나.	[!Sentence][!Dialog][!speaker:Lily_Normal_Young]看样子这段时间都忍住了嘛。
@@ -11736,7 +11736,7 @@
 #21121	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]그건 네 선택에 달렸단다.	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]那取决于你的选择。
 #21122	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]넌 어떻게 하고 싶니?	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]你想怎么做呢？
 #21123	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]우리랑 같이 돌아가면 추위나 배고픔의 고통은 더는 없을 거야.	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]和我们一起回去的话，是不会再有寒冷和饥饿的痛苦了。
-#21125	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]......정말 그래도 되는 건가요?	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]…真的可以那样吗？
+#21125	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]......정말 그래도 되는 건가요?	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]...真的可以那样吗？
 #21129	[!Sentence][!Dialog][!speaker:Visha_Normal_Young]알겠습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]明白了。
 #21133	[!Sentence][!Dialog][!speaker:Tana_Angry]들으라죠. 잘난 이능력 한 번 쓴다고 당장 죽는 것도 아닐텐데...	那就让他去听到吧。使用那异能又不是马上就会导致他死...
 #21134	[!Sentence][!Dialog][!speaker:Leton_Serious_Boy]'꽥꽥꽥... 진짜 시끄럽네...'	[!Sentence][!Dialog][!speaker:Leton_Serious_Boy]（嘎嘎嘎的...真是吵死人了...）
@@ -11751,7 +11751,7 @@
 #21145	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]굳이 아버지라고 말씀 안 하셔도 돼요.	没必要非得叫他爸爸。
 #21146	[!Sentence][!Dialog][!speaker:Lily_Stare_Young]발할라에서 오는 의료 봉사 지원은 이번이 마지막이야.	这是医疗服务团最后一次从巴赫拉来。
 #21147	[!Sentence][!Dialog][!speaker:Lily_Normal_Young]발할라 시민들은 더 이상 전쟁 난민들에게 헛된 돈을 사용하고 싶지 않다고 난리지.	巴赫拉市民不想再白白的为战争后的难民花钱。
-#21148	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]......전 실험체가 되는 건가요?	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]…那我就是实验体吗？
+#21148	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]......전 실험체가 되는 건가요?	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]...那我就是实验体吗？
 #21149	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]남 박사님이 생각보다 입이 가벼우셨나 보네.	看来楠博士告诉了你很多呢。
 #21150	[!Sentence][!Dialog][!speaker:Leton_Hurt_Boy]박사님은 언제나 진실되세요. 그렇게 말하지 마세요.	博士都是跟我实言相告，不许你那么说他。
 #21151	[!Sentence][!Dialog][!speaker:Lily_Normal_Young]두렵니?	[!Sentence][!Dialog][!speaker:Lily_Normal_Young]害怕吗？
@@ -11795,7 +11795,7 @@
 #21189	[!Sentence][!Dialog][!speaker:EmptySubTitle_][colour='FFFFFF00']하지만 세상 일은 절대 순탄하지 않다.	[!Sentence][!Dialog][!speaker:EmptySubTitle_][colour='FFFFFF00']但是世上的事情绝对不是一帆风顺的。
 #21190	[!Sentence][!Dialog][!speaker:EmptySubTitle_][colour='FFFFFF00']한 번 부서지기 시작한 행복의 조각은...	[colour='FFFFFF00']一旦开始出现龟裂，幸福的碎片...
 #21191	[!Sentence][!Dialog][!speaker:EmptySubTitle_][colour='FFFFFF00']움켜쥐려고 할수록 많은 상처를 남긴다.	[colour='FFFFFF00']越想握住它，就越会产生更多的伤痕。
-#21192	[!Sentence][!Dialog][!speaker:Leton_Smile_Young]...고마워. 카터.	[!Sentence][!Dialog][!speaker:Leton_Smile_Young]…谢谢了，卡特。
+#21192	[!Sentence][!Dialog][!speaker:Leton_Smile_Young]...고마워. 카터.	[!Sentence][!Dialog][!speaker:Leton_Smile_Young]...谢谢了，卡特。
 #21193	[!Sentence][!Dialog][!speaker:EmptySubTitle_][colour='FFFFFF00']아직은...	[!Sentence][!Dialog][!speaker:EmptySubTitle_][colour='FFFFFF00']还...
 #21194	[!Sentence][!Dialog][!speaker:EmptySubTitle_][colour='FFFFFF00']죽고 싶지 않다.	[!Sentence][!Dialog][!speaker:EmptySubTitle_][colour='FFFFFF00']不想死。
 #21195	[!Sentence][!Title]두번째 선택	[!Sentence][!Title]第二次的选择
@@ -11808,11 +11808,11 @@
 #21202	[!Sentence][!Dialog][!speaker:Lily_Normal]아직도 많이 두렵다면 그냥 쭉 걸어가.	如果还感到恐惧的话，那就继续走下去吧。
 #21203	[!Sentence][!Dialog][!speaker:Lily_Smile]한 시간 쯤 걸어가면 마을 버스가 있어. 그럼 넌 자유야.	走一个小时左右，就有村里公交车。那你就自由了。
 #21204	[!Sentence][!Dialog][!speaker:Lily_Normal]그리고 우리는 두 번 다시 볼 일은 없을 거야.	[!Sentence][!Dialog][!speaker:Lily_Normal]而且我们不会再相见了。
-#21205	[!Sentence][!Dialog][!speaker:Leton_Smile]......처분인가요?	[!Sentence][!Dialog][!speaker:Leton_Smile]…是要把我处理掉吗？
+#21205	[!Sentence][!Dialog][!speaker:Leton_Smile]......처분인가요?	[!Sentence][!Dialog][!speaker:Leton_Smile]...是要把我处理掉吗？
 #21206	[!Sentence][!Dialog][!speaker:Lily_Normal]이 제안도 마지막이야.	这是最后一次提议了。
 #21207	[!Sentence][!Dialog][!speaker:Lily_Normal]발할라는 그동안 자신들이 진행한 프로젝트들이 민간에 알려지길 꺼려해.	[!Sentence][!Dialog][!speaker:Lily_Normal]巴赫拉不怎么想把自己所进行的计划被民众发现。
 #21208	[!Sentence][!Dialog][!speaker:Lily_Smile]불필요한 오해를 불러 일으키는 것들은 다 청소 중이지.	正在处理那些会引起不必要的误会的事。
-#21209	[!Sentence][!Dialog][!speaker:Leton_Smile]......여전히 실험체인가요? 일상적 생활은 가능해요?	[!Sentence][!Dialog][!speaker:Leton_Smile]…我依旧是实验体吗？可以过日常的生活吗？
+#21209	[!Sentence][!Dialog][!speaker:Leton_Smile]......여전히 실험체인가요? 일상적 생활은 가능해요?	[!Sentence][!Dialog][!speaker:Leton_Smile]...我依旧是实验体吗？可以过日常的生活吗？
 #21210	[!Sentence][!Dialog][!speaker:Lily_Smile]걱정하지 마. 남 박사의 프로젝트는 모두 파기됐어.	[!Sentence][!Dialog][!speaker:Lily_Smile]不要担心。楠博士的计划都已被废除了。
 #21211	[!Sentence][!Dialog][!speaker:Lily_Smile]그리고 이미 발할라 정부는 불치병의 완치보다 지속적인 항동결 수액의 판매가 더 낫다고 생각해.	[!Sentence][!Dialog][!speaker:Lily_Smile]而且，巴赫拉政府认为，比起不治之症的痊愈，持续贩卖抗冻结液体带来的利益更大。
 #21212	[!Sentence][!Dialog][!speaker:Leton_Normal]이제는 제 존재 가치가 없어졌군요.	[!Sentence][!Dialog][!speaker:Leton_Normal]那现在我是失去了存在的价值了吧。
@@ -11937,7 +11937,7 @@
 #21343	[!Dialog][!speaker:Leton_Think]알버스 군. 난 범죄를 저지른 적이 없는 것 같아...	[!Dialog][!speaker:Leton_Think]阿尔伯斯。我貌似从没做出过犯法行为的...
 #21344	[!Dialog][!speaker:Albus_SurpriseStare]'말이 되는 소리를 해야지...'	[!Dialog][!speaker:Albus_SurpriseStare]（说像话的话吧...）
 #21345	[!Dialog][!speaker:Leton_Normal]나보다는 경찰청에 물어봐야 하지 않을까?	[!Dialog][!speaker:Leton_Normal]比起问我不应该问警察厅吗？
-#21346	[!Dialog][!speaker:Albus_Laugh]......알겠습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]…...收到。
+#21346	[!Dialog][!speaker:Albus_Laugh]......알겠습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]...收到。
 #21347	[!Dialog][!speaker:Albus_Serious]하지만 솔직히 바로 대답하기 애매하네요.	[!Dialog][!speaker:Albus_Serious]但真的是很难立马回答出来。
 #21348	[!Dialog][!speaker:Leton_Normal]충분히 이해해. 직원을 뽑으려면 꼼꼼히 살펴 봐야지.	[!Dialog][!speaker:Leton_Normal]我充分能够理解。招聘员工是需要仔细了解的。
 #21349	[!Dialog][!speaker:Leton_Smile]그리고 선택은 네가 하는 거야. 내가 부족하다고 생각하면 거절해.	[!Dialog][!speaker:Leton_Smile]还有做选择的是你。觉得我不够就拒绝吧。
@@ -11970,18 +11970,18 @@
 #21376	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']'활동을 위한 거짓 신원 정보라...'	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']（为活动而拿到的虚假身份啊...）
 #21377	[!Dialog][!speaker:Albus_Think][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']'가능성 있어 보이지만... 정부 요원이 먼지바람 톨게이트 사건을 방치했을까...'	[!Dialog][!speaker:Albus_Think][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']（虽然是有可能性...但是是政府人员的话会放置尘风收费站事件不管吗...）
 #21378	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']세번째는 정부 혹은 경찰청과의 사법 거래.	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']第三个就是和政府或警察厅的司法交易。
-#21379	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'].......사법 거래요?	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']…司法交易吗？
+#21379	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'].......사법 거래요?	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']...司法交易吗？
 #21380	[!Dialog][!speaker:Giselle_Satisfying_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']뭘 모른 척이야?	[!Dialog][!speaker:Giselle_Satisfying_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']干嘛装作不知道呐？
 #21381	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']아이린의 수십 여건의 경범죄 기록.	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']艾琳的数十个犯罪记录。
 #21382	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']레이의 밀수 관련 기록.	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']雷伊的走私关联记录。
-#21383	[!Dialog][!speaker:Albus_Embarrassed][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']......죄송합니다.	[!Dialog][!speaker:Albus_Embarrassed][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']…真是很抱歉。
+#21383	[!Dialog][!speaker:Albus_Embarrassed][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']......죄송합니다.	[!Dialog][!speaker:Albus_Embarrassed][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']...真是很抱歉。
 #21384	[!Dialog][!speaker:Giselle_Satisfying_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']뭘 죄송해해? 나도 케이트나 카일리 같은 녀석들 때문에 시도 때도 없이 했어.	[!Dialog][!speaker:Giselle_Satisfying_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']有什么好抱歉的？我也是因为像凯特和凯莉那样的家伙们而经常做过呢。
 #21385	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']네가 네 직원에게 특혜를 준 것이 아니라면 가슴을 당당히 펴.	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']如果不是你给你的员工特惠，那你就挺起胸膛来吧。
 #21386	[!Dialog][!speaker:Giselle_Satisfying_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']어차피 사법 거래는 경찰청이나 정부가 너의 제안이 가치 있다고 판단했기에 가능했던 거야.	[!Dialog][!speaker:Giselle_Satisfying_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']反正司法交易是警察厅和政府认为你的建议有价值才可能办到的。
 #21387	[!Dialog][!speaker:Giselle_Smile_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']적어도 발할라 정부는 그 거래를 부당하다고 생각하지 않아.	[!Dialog][!speaker:Giselle_Smile_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']至少巴赫拉政府不认为这笔交易是不正当的。
 #21388	[!Dialog][!speaker:Albus_Embarrassed][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']'아이작 경감님, 제인 경감님도 그렇게 생각하실까...'	[!Dialog][!speaker:Albus_Embarrassed][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']（艾萨克警监和珍警监也会那样想吗...）
 #21389	[!Dialog][!speaker:Giselle_Satisfying_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']너무 늦었다. 알버스. 이만 끊자.	[!Dialog][!speaker:Giselle_Satisfying_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']太晚了，阿尔伯斯。就聊到这里吧。
-#21390	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']......알겠습니다.	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']…知道了。
+#21390	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']......알겠습니다.	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']...知道了。
 #21391	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']늦은 시간 감사합니다.	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']这么晚谢谢你。
 #21392	[!Dialog][!speaker:Giselle_Smile_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']그래. 난 어떤 결정이든 상관없으니까 잘 고민해서 결정해. $CompanyName$[은] 네 회사야.	[!Dialog][!speaker:Giselle_Smile_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']嗯，不管你做出怎样的决定，我都不会管的。 $CompanyName$是你的公司。
 #21393	[!Dialog][!speaker:Sion_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']알버스. 무슨 일이야?	[!Dialog][!speaker:Sion_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']阿尔伯斯，有什么事吗？
@@ -13960,7 +13960,7 @@
 #23836	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning_Normal]자네들은 '약속의 땅'에 도달하게나!	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning_Normal]你们快去往「约定之地」吧！
 #23837	[!Sentence][!BalloonChat][!speaker:DirectVHPD02]섣부른 행동 하지 마! 마지막 경고다!	这是最后的警告！别轻举妄动！
 #23838	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning_Normal]동지들. 자네들 덕분에 즐거웠네.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning_Normal]同志们，托你们的福，我过的很开心。
-#23839	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Normal]...자네의 첫술이 우릴 배부르게 할 걸세.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Normal]…你的第一勺会喂饱我们的。
+#23839	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Normal]...자네의 첫술이 우릴 배부르게 할 걸세.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Normal]...你的第一勺会喂饱我们的。
 #23840	[!Sentence][!BalloonChat][!speaker:DirectVHPD02]전원 발포!	[!Sentence][!BalloonChat][!speaker:DirectVHPD02]全员开火！
 #23859	[!Sentence][!Dialog][!speaker:Leton_Normal]레이. 이제 할 일을 하러 가야지.	[!Sentence][!Dialog][!speaker:Leton_Normal]雷伊。我们该去办我们的事了。
 #23860	[!Sentence][!Dialog][!speaker:Ray_Normal]그래.	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]嗯。
@@ -16607,7 +16607,7 @@
 #26924	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]응.	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]没有。
 #26925	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]그럼 된 거 아냐?	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]那不就是了？
 #26926	[!Sentence][!Dialog][!speaker:Giselle_Smile]그리고 카일리가 사사건건 나 싫어하는 것 잘 알지?	[!Sentence][!Dialog][!speaker:Giselle_Smile]还有你也知道凯莉不喜欢我的作为是吗？
-#26927	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]...어.	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]…嗯。
+#26927	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]...어.	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]...嗯。
 #26928	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]카일리에 대한 내 조언은 무의미 하지 않겠니?	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]那你就能知道向我问道凯莉是没有意义的吧？
 #26929	[!Sentence][!Objective]제한 시간까지 지젤을 보호하시오.	[!Sentence][!Objective]限制时间内保护吉赛尔。
 #26930	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]일단 위험한 순간은 넘겼어.	目前已经度过了最危险的时期。
