@@ -452,33 +452,33 @@
 #961	[!Item]선인의 약	[!Item]仙人药
 #963	[!Item]최상급 회복약	[!Item]最高级恢复药
 #965	[!Item]상급 회복약	[!Item]高级恢复药
-#967	[!Item]스콜지	[!Item]天灾
-#969	[!Item]불꽃 핵	[!Item]火花之核
+#967	[!Item]스콜지	[!Item]剧毒强化剂 - 天灾
+#969	[!Item]불꽃 핵	[!Item]火花核心
 #970	[!Item]불꽃 결정	[!Item]火花结晶
 #971	[!Item]불꽃 가루	[!Item]火花粉末
 #972	[!Item]불꽃 원소	[!Item]火花元素
 #973	[!Item]불꽃 파편	[!Item]火花碎片
-#974	[!Item]섬광 핵	[!Item]闪光之核
+#974	[!Item]섬광 핵	[!Item]闪光核心
 #975	[!Item]섬광 결정	[!Item]闪光结晶
 #976	[!Item]섬광 가루	[!Item]闪光粉末
 #977	[!Item]섬광 원소	[!Item]闪光元素
 #978	[!Item]섬광 파편	[!Item]闪光碎片
-#979	[!Item]서리 핵	[!Item]霜雪之核
+#979	[!Item]서리 핵	[!Item]霜雪核心
 #980	[!Item]서리 결정	[!Item]霜雪结晶
 #981	[!Item]서리 가루	[!Item]霜雪粉末
 #982	[!Item]서리 원소	[!Item]霜雪元素
 #983	[!Item]서리 파편	[!Item]霜雪碎片
-#984	[!Item]안개 핵	[!Item]雾霭之核
+#984	[!Item]안개 핵	[!Item]雾霭核心
 #985	[!Item]안개 결정	[!Item]雾霭结晶
 #986	[!Item]안개 가루	[!Item]雾霭粉末
 #987	[!Item]안개 원소	[!Item]雾霭元素
 #988	[!Item]안개 파편	[!Item]雾霭碎片
-#989	[!Item]폭풍 핵	[!Item]暴风之核
+#989	[!Item]폭풍 핵	[!Item]暴风核心
 #990	[!Item]폭풍 결정	[!Item]暴风结晶
 #991	[!Item]폭풍 가루	[!Item]暴风粉末
 #992	[!Item]폭풍 원소	[!Item]暴风元素
 #993	[!Item]폭풍 파편	[!Item]暴风碎片
-#994	[!Item]신록 핵	[!Item]新绿之核
+#994	[!Item]신록 핵	[!Item]新绿核心
 #995	[!Item]신록 결정	[!Item]新绿结晶
 #996	[!Item]신록 가루	[!Item]新绿粉末
 #997	[!Item]신록 원소	[!Item]新绿元素
@@ -3231,7 +3231,7 @@
 #6254	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Rank_Elite'] 으로 표시된 적은 [colour='FFFFFF00']정예[colour='FFCCCCCC'] 등급의 적입니다.<br><br>이들은 일반 적들보다 강력한 전투 능력을 보유하고 있습니다. 조심하시길 바랍니다.	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Rank_Elite']标记的目标是[colour='FFFFFF00']精英[colour='FFCCCCCC']级别的。<br><br>他们拥有比普通目标更加强大的战斗力。请多加留意。
 #6256	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Injured'][colour='FFFFFF00'] 부상 당한 시민[colour='FFCCCCCC']은 피해를 입어 움직이지 못하는 [colour='FFFFFFFF']시민[colour='FFCCCCCC']입니다. 해당 [colour='FFFFFFFF']시민[colour='FFCCCCCC']은 부상으로 인하여 매 턴 시작 시 자신의 [colour='FFFFFF00']최대 체력[colour='FFCCCCCC']의 [colour='FFFFFFFF']10%[colour='FFCCCCCC']의 피해를 입습니다.<br><br>해당 [colour='FFFFFFFF']시민[colour='FFCCCCCC']을 구출하기 위해서는 근접하여 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/Cure'] [colour='FFFFFF00']응급 처치[colour='FFCCCCCC'] 어빌리티를 사용하여야 합니다.<br><br>[colour='FFFF5943']응급 처치는 모든 행동력을 소모하므로 주의하셔야 합니다.	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Injured'][colour='FFFFFF00']受伤的市民[colour='FFCCCCCC']是因为伤势而无法移动的[colour='FFFFFFFF']市民[colour='FFCCCCCC']。该[colour='FFFFFFFF']市民[colour='FFCCCCCC']因为伤势而在每一回合开始时受到自身[colour='FFFFFF00']最大体力[colour='FFCCCCCC']的[colour='FFFFFFFF']10%[colour='FFCCCCCC']的伤害。<br><br>为了营救该[colour='FFFFFFFF']市民[colour='FFCCCCCC']需要你近身并使用[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/Cure'][colour='FFFFFF00']急救措施[colour='FFCCCCCC']技能。<br><br>[colour='FFFF5943']急救措施将消耗你所有的行动力，请多加留意。
 #6259	[!GuideMessage][colour='FFFFFF00']중립 유닛[colour='FFCCCCCC']은 해당 임무의 [colour='FFFF5943']적[colour='FFCCCCCC'] 세력과 [colour='FFFFAA00']적대 관계[colour='FFCCCCCC']이지만 플레이어와는 아무런 관계가 없는 [colour='FFFFFFFF']유닛[colour='FFCCCCCC']을 말합니다.<br><br>해당 [colour='FFFFFFFF']유닛[colour='FFCCCCCC']은 유닛 상태창의 체력 바의 색깔이 [colour='FFFFFF00']노란색[colour='FFCCCCCC']으로 표시됩니다.	[!GuideMessage][colour='FFFFFF00']中立单位[colour='FFCCCCCC']指的是和当前任务的[colour='FFFF5943']敌对[colour='FFCCCCCC']势力是[colour='FFFFAA00']敌对关系[colour='FFCCCCCC']但和玩家毫无关系的[colour='FFFFFFFF']单位[colour='FFCCCCCC']。<br><br>该[colour='FFFFFFFF']单位[colour='FFCCCCCC']的单位状态窗的体力条的颜色是[colour='FFFFFF00']黄色[colour='FFCCCCCC']的。
-#6261	[!GuideMessage]임무 수행 중 발견되는 [colour='FFFFFFFF']이능석[colour='FFCCCCCC']의 에너지를 추출하여 [colour='FFFFAA00']아이템 제작[colour='FFCCCCCC'] 혹은 [colour='FFFFAA00']아이템 강화[colour='FFCCCCCC']에 필요한 [colour='FF00FF00']재료[colour='FFCCCCCC']를 획득할 수 있습니다.<br><br>[colour='FFFFFFFF']이능석[colour='FFCCCCCC']의 에너지를 추출하기 위해서는 근접하여 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/InvestigatePsionicStone'] [colour='FFFFFF00']에너지 추출[colour='FFCCCCCC'] 어빌리티를 사용해야 합니다. [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/InvestigatePsionicStone'] [colour='FFFFFF00']에너지 추출[colour='FFCCCCCC'] 어빌리티는 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Item/Gear'] [colour='FF00FFFF']에너지 추출기[colour='FFCCCCCC']를 장비하고 있어야 활성화 됩니다.<br><br>[colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/InvestigatePsionicStone'] [colour='FFFFFF00']에너지 추출[colour='FFCCCCCC'] 어빌리티는 [colour='FFFFE959']행동력[colour='FFFFFFFF'] 1[colour='FFCCCCCC']을 소모합니다. 따라서 해당 어빌리티 사용 후 [colour='FF00FF00']이동[colour='FFCCCCCC'] 혹은 [colour='FFFF8000']공격[colour='FFCCCCCC'] 어빌리티 사용이 가능합니다.	[!GuideMessage]提取执行任务过程中发现的[colour='FFFFFFFF']异能石[colour='FFCCCCCC']的能量可获得[colour='FFFFAA00']物品制作[colour='FFCCCCCC']或者[colour='FFFFAA00']物品强化[colour='FFCCCCCC']所需的[colour='FF00FF00']素材[colour='FFCCCCCC']。<br><br>[colour='FFFFFFFF']异能石[colour='FFCCCCCC']能量是需要接近并使用[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/InvestigatePsionicStone'][colour='FFFFFF00']能量提取[colour='FFCCCCCC']技能才能提取到的。[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/InvestigatePsionicStone'][colour='FFFFFF00']能量提取[colour='FFCCCCCC']技能是需要装备有[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Item/Gear'][colour='FF00FFFF']能量提取器[colour='FFCCCCCC']才能被激活的。<br><br>[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/InvestigatePsionicStone'][colour='FFFFFF00']能量提取[colour='FFCCCCCC']技能消耗[colour='FFFFE959']行动力[colour='FFFFFFFF']1[colour='FFCCCCCC']点。并且使用该技能后可以使用[colour='FF00FF00']移动[colour='FFCCCCCC']或者[colour='FFFF8000']攻击[colour='FFCCCCCC']技能。
+#6261	[!GuideMessage]임무 수행 중 발견되는 [colour='FFFFFFFF']이능석[colour='FFCCCCCC']의 에너지를 추출하여 [colour='FFFFAA00']아이템 제작[colour='FFCCCCCC'] 혹은 [colour='FFFFAA00']아이템 강화[colour='FFCCCCCC']에 필요한 [colour='FF00FF00']재료[colour='FFCCCCCC']를 획득할 수 있습니다.<br><br>[colour='FFFFFFFF']이능석[colour='FFCCCCCC']의 에너지를 추출하기 위해서는 근접하여 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/InvestigatePsionicStone'] [colour='FFFFFF00']에너지 추출[colour='FFCCCCCC'] 어빌리티를 사용해야 합니다. [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/InvestigatePsionicStone'] [colour='FFFFFF00']에너지 추출[colour='FFCCCCCC'] 어빌리티는 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Item/Gear'] [colour='FF00FFFF']에너지 추출기[colour='FFCCCCCC']를 장비하고 있어야 활성화 됩니다.<br><br>[colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/InvestigatePsionicStone'] [colour='FFFFFF00']에너지 추출[colour='FFCCCCCC'] 어빌리티는 [colour='FFFFE959']행동력[colour='FFFFFFFF'] 1[colour='FFCCCCCC']을 소모합니다. 따라서 해당 어빌리티 사용 후 [colour='FF00FF00']이동[colour='FFCCCCCC'] 혹은 [colour='FFFF8000']공격[colour='FFCCCCCC'] 어빌리티 사용이 가능합니다.	[!GuideMessage]提取执行任务过程中发现的[colour='FFFFFFFF']异能石[colour='FFCCCCCC']的能量可获得[colour='FFFFAA00']物品制作[colour='FFCCCCCC']或者[colour='FFFFAA00']物品强化[colour='FFCCCCCC']所需的[colour='FF00FF00']素材[colour='FFCCCCCC']。<br><br>[colour='FFFFFFFF']异能石[colour='FFCCCCCC']能量是需要接近并使用[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/InvestigatePsionicStone'][colour='FFFFFF00']异能提取[colour='FFCCCCCC']技能才能提取到的。[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/InvestigatePsionicStone'][colour='FFFFFF00']异能提取[colour='FFCCCCCC']技能是需要装备有[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Item/Gear'][colour='FF00FFFF']异能提取仪[colour='FFCCCCCC']才能被激活的。<br><br>[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/InvestigatePsionicStone'][colour='FFFFFF00']异能提取[colour='FFCCCCCC']技能消耗[colour='FFFFE959']行动力[colour='FFFFFFFF']1[colour='FFCCCCCC']点。并且使用该技能后可以使用[colour='FF00FF00']移动[colour='FFCCCCCC']或者[colour='FFFF8000']攻击[colour='FFCCCCCC']技能。
 #6262	[!GuideMessage][colour='FFFFFF00']제 3세력 유닛[colour='FFCCCCCC']은 해당 임무의 [colour='FFFF5943']적[colour='FFCCCCCC'] 세력과 플레이어 팀 모두에게 [colour='FFFFAA00']적대 관계[colour='FFCCCCCC']인 [colour='FFFFFFFF']유닛[colour='FFCCCCCC']을 말합니다.<br><br>해당 [colour='FFFFFFFF']유닛[colour='FFCCCCCC']은 유닛 상태창의 체력 바의 색깔이 [colour='FFFF186F']자홍색[colour='FFCCCCCC']으로 표시됩니다.	[!GuideMessage][colour='FFFFFF00']第三方势力单位[colour='FFCCCCCC']指的是和该任务的[colour='FFFF5943']敌对[colour='FFCCCCCC']势力和玩家队伍都存在[colour='FFFFAA00']敌对关系[colour='FFCCCCCC']的[colour='FFFFFFFF']单位[colour='FFCCCCCC']。<br><br>该[colour='FFFFFFFF']单位[colour='FFCCCCCC']的单位状态窗的体力条的颜色是[colour='FFFF186F']紫红色[colour='FFCCCCCC']的。
 #6264	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Unrest'][colour='FFFFAA00'] 불안한 시민[colour='FFCCCCCC']은 위험에 대한 공포에 스스로 도망치지 못하는 [colour='FFFFFFFF']시민[colour='FFCCCCCC']입니다.<br><br>해당 [colour='FFFFFFFF']시민[colour='FFCCCCCC']을 구출하기 위해서는 근접하여 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/Comfort'] [colour='FFFFFF00']안정[colour='FFCCCCCC'] 어빌리티를 사용하여 진정시켜야 합니다.<br><br>해당 어빌리티로 불안감을 해소한 시민은 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Stable'][colour='FFFFFF00'] 안정된 시민[colour='FFCCCCCC']이 되며 플레이어가 조작할 수 있습니다.<br><br>[colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Stable'][colour='FFFFFF00'] 안정된 시민[colour='FFCCCCCC']은 [colour='FFFFFFFF']3[colour='FFCCCCCC']턴 동안 플레이어가 조작할 수 있으며 맵 상에 위치한 [colour='FFF00F00']안전한 탈출 지역[colour='FFCCCCCC']까지 이동시켜야 구조가 완료됩니다.<br><br>안정된 상태가 해제되면 다시 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Unrest'][colour='FFFFAA00'] 불안한 시민[colour='FFCCCCCC']으로 되돌아갑니다.	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Unrest'][colour='FFFFAA00']不安的市民[colour='FFCCCCCC']是指由于对危险的恐惧而未能逃走的[colour='FFFFFFFF']市民[colour='FFCCCCCC']。<br><br>为了营救该[colour='FFFFFFFF']市民[colour='FFCCCCCC']需要你近身并使用[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/Comfort'][colour='FFFFFF00']安抚[colour='FFCCCCCC']技能使其镇定下来。<br><br>受到该技能并解除了不安感的市民成为[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Stable'][colour='FFFFFF00']平静的市民[colour='FFCCCCCC']，此时玩家可以对其进行操作。<br><br>[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Stable'][colour='FFFFFF00']平静的市民[colour='FFCCCCCC']可进行[colour='FFFFFFFF']3[colour='FFCCCCCC']回合的操作并移动到地图上的[colour='FFF00F00']安全地区[colour='FFCCCCCC']才能完成营救。<br><br>平静的状态被解除时重新回到[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Unrest'][colour='FFFFAA00']不安的市民[colour='FFCCCCCC']状态。
 #6265	[!GuideMessage][colour='FFCCCCCC']전투 중 [colour='FFFFFF00']체력[colour='FFCCCCCC']이 [colour='FFFFFFFF']0[colour='FFCCCCCC'] 이 된 유닛은 [colour='FFFFAA00']전투 불능[colour='FFCCCCCC']이 됩니다. [colour='FFFFAA00']전투 불능[colour='FFCCCCCC']이 되면 더 이상 해당 임무에 참여할 수 없습니다.<br><br>또한 임무 종료 혹은 패배시 추가적으로 [colour='FFFFFF00']의욕[colour='FFFFFFFF']이 감소하므로 조심하시길 바랍니다.	[!GuideMessage][colour='FFCCCCCC']战斗中[colour='FFFFFF00']体力[colour='FFCCCCCC']变成[colour='FFFFFFFF']0[colour='FFCCCCCC']的角色是[colour='FFFFAA00']无法战斗[colour='FFCCCCCC']的。[colour='FFFFAA00']无法战斗[colour='FFCCCCCC']状态下是无法继续参与任务的。<br><br>并且在任务结束或失败时会有额外的[colour='FFFFFF00']意志[colour='FFFFFFFF']的消耗，请多加留意。
@@ -3242,7 +3242,7 @@
 #6271	[!GuideMessage][colour='FFFFE959']SP가 최대치를 넘으면 [colour='FFFFFFFF']과충전[colour='FFFFE959'] 상태가 됩니다. 해당 상태는 [colour='FFFFFFFF']%d[colour='FFFFE959'] 턴간 유지되며 상태 해제 시 SP는 초기화 됩니다.	[!GuideMessage][colour='FFFFE959']SP超过最大值时变成[colour='FFFFFFFF']过充电[colour='FFFFE959']状态。该状态维持[colour='FFFFFFFF']%d[colour='FFFFE959']回合，解除状态时SP被初始化。
 #6272	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Fatigue'] [colour='FFFFFF00']피로[colour='FFCCCCCC'] 상태는 임무 시작 전 의욕 상태가 [colour='FFFFFFFF']30%[colour='FFCCCCCC'] 이하일 시 활성화 됩니다.<br><br>해당 상태는 임무 시작 후 [colour='FFFFFFFF']9[colour='FFCCCCCC'] 턴간 유지되며 [colour='FF00FFFF']기력 회복량[colour='FFCCCCCC']이 [colour='FFFFFFFF']1[colour='FFCCCCCC'] 감소합니다.	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Fatigue'][colour='FFFFFF00']疲劳[colour='FFCCCCCC']状态是在任务开始之前的意志状态为[colour='FFFFFFFF']30%[colour='FFCCCCCC']以下时被激活的。<br><br>该状态会在任务开始之后维持[colour='FFFFFFFF']9[colour='FFCCCCCC']回合，[colour='FF00FFFF']气力恢复量[colour='FFCCCCCC']降低[colour='FFFFFFFF']1[colour='FFCCCCCC']点。
 #6273	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'] [colour='FFFFFF00']활기[colour='FFCCCCCC'] 상태는 임무 시작 전 의욕 상태가 [colour='FFFFFFFF']80%[colour='FFCCCCCC'] 이상일 시 활성화 됩니다.<br><br>해당 상태는 임무 시작 후 [colour='FFFFFFFF']9[colour='FFCCCCCC'] 턴간 유지되며 [colour='FF00FFFF']기력 회복량[colour='FFCCCCCC']이 [colour='FFFFFFFF']3[colour='FFCCCCCC'] 증가합니다.	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][colour='FFFFFF00']活力[colour='FFCCCCCC']状态是在任务开始之前意志状态为[colour='FFFFFFFF']80%[colour='FFCCCCCC']以上时被激活的。<br><br>该状态会在任务开始之后维持[colour='FFFFFFFF']9[colour='FFCCCCCC']回合，[colour='FF00FFFF']气力恢复量[colour='FFCCCCCC']提升[colour='FFFFFFFF']3[colour='FFCCCCCC']点。
-#6276	[!Item]에너지 추출기	[!Item]能量提取器
+#6276	[!Item]에너지 추출기	[!Item]异能提取仪
 #6277	[!Item]이능석에서 에너지를 추출하기 위한 도구입니다.	[!Item]这是提取异能石的能量的工具。
 #6278	[!Item]발할라 경찰들에게 시민들을 탈출시키는 지역을 알려주는 도구입니다.	[!Item]这是向巴赫拉的警察们提醒市民们逃往的地区的工具。
 #6279	[!Mastery]이동이 가능하다면 위험 요소가 주위에 있으면 해당 위험으로부터 멀어지려고 합니다.	[!Mastery]若可以移动，若周围存在危险因素则试图远离危险。
@@ -4272,8 +4272,8 @@
 #7755	[!SystemMessage]사용 불가: 아이 피해 발생	[!SystemMessage]不可用：儿童受害
 #7756	[!SystemMessage]아이가 공격 범위내에 포함됩니다.<br>사용할 수 없습니다.	[!SystemMessage]攻击范围内有儿童。<br>无法使用。
 #7757	[!WordCollection]지원 병력	[!WordCollection]支援部队
-#7758	[!WordCollection]음료를 주문한다.	[!WordCollection]点饮料。
-#7759	[!WordCollection]요리를 주문한다.	[!WordCollection]点菜品。
+#7758	[!WordCollection]음료를 주문한다.	[!WordCollection]点饮料
+#7759	[!WordCollection]요리를 주문한다.	[!WordCollection]点菜品
 #7760	[!WordCollection][!Menu]보증금	[!WordCollection][!Menu]保证金
 #7761	[!WordCollection]아이	[!WordCollection]儿童
 #7762	[!WordCollection][!Menu]소재지	[!WordCollection][!Menu]所在地
@@ -4505,14 +4505,14 @@
 #8119	[!Ability]번개 대포	[!Ability]闪电炮
 #8121	[!Ability]번개 채찍	[!Ability]闪电之鞭
 #8123	[!Ability]기력 회복약	[!Ability]气力恢复药
-#8124	[!Ability]활기의 약	[!Ability]活力之药
+#8124	[!Ability]활기의 약	[!Ability]活力药水
 #8125	[!Ability]최상급 기력 회복약	[!Ability]最高级气力恢复药
 #8126	[!Ability]상급 기력 회복약	[!Ability]高级气力恢复药
 #8130	[!Buff]번개 장막	[!Buff]闪电帷幕
 #8131	[!GuideMessage]$MonName$ 합류하였습니다.	[!GuideMessage]引到了$MonName$。
 #8132	[!GuideMessage]$ItemType$ 아이템을 인벤토리에 보관합니다.	[!GuideMessage]$ItemType$物品存入背包中。
 #8135	[!Item]기력 회복약	[!Item]气力恢复药
-#8136	[!Item]활기의 약	[!Item]活力之药
+#8136	[!Item]활기의 약	[!Item]活力药水
 #8137	[!Item]최상급 기력 회복약	[!Item]最高级气力恢复药
 #8138	[!Item]상급 기력 회복약	[!Item]高级气力恢复药
 #8140	[!Mastery]가랑비에 옷 젖는다.	[!Mastery]毛毛雨湿了衣。
@@ -4733,10 +4733,10 @@
 #8467	[!SystemMail]자네들의 노력에 경의를 표하네.	[!SystemMail]为你们的努力表示敬意。
 #8469	[!Equipment]의상	[!Equipment]服装
 #8470	[!GuideMessage]이동 공격 가능	[!GuideMessage]可移动攻击
-#8471	[!Item]알버스의 백설 의상	[!Item]阿尔伯斯的白雪服
-#8472	[!Item]앤의 백설 의상	[!Item]安的白雪服
-#8473	[!Item]아이린의 백설 의상	[!Item]艾琳的白雪服
-#8474	[!Item]시온의 백설 의상	[!Item]席翁的白雪服
+#8471	[!Item]알버스의 백설 의상	[!Item]阿尔伯斯的白雪衣装
+#8472	[!Item]앤의 백설 의상	[!Item]安的白雪衣装
+#8473	[!Item]아이린의 백설 의상	[!Item]艾琳的白雪衣装
+#8474	[!Item]시온의 백설 의상	[!Item]席翁的白雪衣装
 #8475	[!ItemEquipmentPosition]의상	[!ItemEquipmentPosition]服装
 #8476	[!ItemType]알버스 의상	[!ItemType]阿尔伯斯服
 #8477	[!ItemType]알리사 의상	[!ItemType]艾丽莎服
@@ -5612,7 +5612,7 @@
 #9694	[!ObjectInfo]전격 야샤	[!ObjectInfo]闪电夜叉
 #9695	[!Status]명중률	[!Status]命中率
 #9696	[!Status][!Short]명중률	[!Status][!Short]命中率
-#9697	[!Item]스틸헤드 장식	[!Item]铁头的装饰
+#9697	[!Item]스틸헤드 장식	[!Item]铁头饰物
 #9698	[!Item]팀 스틸헤드의 상징물입니다.	[!Item]铁头队的标志。
 #9699	[!Item]이능석으로 만들어진 은빛 해골 머리 장식입니다.	[!Item]用异能石制成的银色的骷髅装饰。
 #9701	[!Mastery]그대에게 베푸는 최대의 관용일세. 단 한발.	[!Mastery]这是我给你的最大的宽容。只一枪。
@@ -5844,7 +5844,7 @@
 #10012	[!Item]카라스연방 영웅 팔찌	[!Item]卡拉斯联邦英雄手镯
 #10013	[!Item]남청빛 파수꾼 코트	[!Item]藏蓝色守备军外套
 #10014	[!Item]자홍빛 파수꾼 코트의 강화 버전. 장시간 전투를 위해 기력 강화 처리가 추가된 버전이다.	[!Item]紫红色守备军外套的加强版。这是为了长时间的战斗而进行了加强气力处理的版本。
-#10015	[!Item]헤이싱의 백설 의상	[!Item]黑星的白雪服
+#10015	[!Item]헤이싱의 백설 의상	[!Item]黑星的白雪衣装
 #10016	[!Item]도로리의 가죽과 실로 만든 구두. 내구성이 매우 높은 것이 특징이다.	[!Item]使用多罗利的皮和线制成的皮鞋。其特点是耐久性非常高超。
 #10017	[!Item]도로리의 질긴 가죽과 실로 제작한 고급 구두로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用多罗利的韧皮和线制成的高级皮鞋，由于其原素材的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原素材来进行制作才行。
 #10018	[!Item]자홍거리에서 유통되는 도로리 구두를 개량하여 경량화 시킨 구두. 뒷세계에서 매우 인기 있는 구두이다.	[!Item]紫红街流通的多罗利皮鞋的轻量化改良版。是一款在地下世界里非常有人气的皮鞋。
@@ -6621,8 +6621,8 @@
 #11270	[!Item]화염 스프레이 WD-40R	[!Item]火焰喷雾WD-40R
 #11271	[!Item]빙결 스프레이 CW-40S	[!Item]寒冰喷雾CW-40S
 #11272	[!Item]빙결 스프레이 CW-40R	[!Item]寒冰喷雾CW-40R
-#11274	[!Item]최고급 에너지 추출기	[!Item]最高级能源提取仪
-#11275	[!Item]고급 에너지 추출기	[!Item]高级能量提取仪
+#11274	[!Item]최고급 에너지 추출기	[!Item]最高级异能提取仪
+#11275	[!Item]고급 에너지 추출기	[!Item]高级异能提取仪
 #11276	[!Item]크레인 핸드	[!Item]起重机械臂
 #11277	[!Item]케이퍼 V7	[!Item]凯尔佛V7
 #11279	[!Item]흑철 복합 장갑	[!Item]黑铁复合装甲
@@ -6885,7 +6885,7 @@
 #11637	[!Ability]얼음 안개	[!Ability]寒冰雾霭
 #11638	[!FieldEffect]얼음 안개	[!FieldEffect]寒冰雾霭
 #11639	[!GuideMessage]해당 지형에 $White$얼음 안개$Blue_ON$가 발생합니다.	[!GuideMessage]在该地形上引发$White$寒冰雾霭$Blue_ON$。
-#11640	[!Item]레이의 백설 의상	[!Item]雷伊的白雪服
+#11640	[!Item]레이의 백설 의상	[!Item]雷伊的白雪衣装
 #11641	[!Buff]승기	[!Buff]胜利之息
 #11642	[!GuideMessage]회사 이름과 회사 특성을 결정해야 수락이 가능합니다	[!GuideMessage]要决定公司名称与公司天赋后才能接受。
 #11643	[!GuideMessage]기본 특성을 결정해야 수락이 가능합니다	[!GuideMessage]要决定基础天赋才能接受。
@@ -7064,7 +7064,7 @@
 #11878	[!WordCollection]추출 가능한 최대 개수	[!WordCollection]可抽取的最大值
 #11879	[!Item]반짝이는 충격 보호대	[!Item]闪耀的冲击吸收具
 #11881	[!Item]트윙클 잭은 자신의 우승을 위해 꾸준한 투자를 하였고 그의 장비의 효과는 중요한 순간에서 빛을 발하였다. 세간에서는 이런 트윙클 잭을 보며 레슬링의 기본 정신을 모독한다고 비난하였지만 그는 이러한 장비 개선을 멈추지 않았다.	[!Item]闪耀杰克为了自身能够获胜而持续地在他的装备上投入，在关键时刻能发出刺眼的闪光。世人们见到这样的特温克杰，鄙视他亵渎了摔跤的基础精神。然而他并未停下装备改善的脚步。
-#11883	[!Item]살수의 인장	[!Item]杀手的印章
+#11883	[!Item]살수의 인장	[!Item]杀手印章
 #11885	[!Item]구룡회를 떠나 발할라로 가기로 결심한 료는 자신의 후임 샨띠엔에게 조직으로부터 받은 살수의 인장을 넘겨주며 말한다. "맡겨두는 거다. 잘 간직해라."	[!Item]打算离开九龙会去往巴赫拉的亮，一边将组织颁发的杀手印章交给自己的继任者闪电一边说道。「只是暂时存放在你这的。你收好吧。」
 #11886	[!Item]전직 프로레슬러였던 트윙클 잭은 자신을 의도적으로 따돌리는 동료들에게 분노하여 복수를 다짐한다. 동료들이 경기를 끝나고 집에 돌아가는 길 트윙클은 그들에게 묻는다. "내가 지금 반짝이고 있는가?	[!Item]全职职业摔跤手闪耀杰克发现同伴们故意疏远他，于是他怒而下决心进行报复。同伴们结束比赛后回家的路上闪耀杰克问到他们。「我现在是在发光吗？」
 #11887	[!Item]자홍빛 보나파르트 금빛 손목 고리	[!Item]紫红色波拿巴金色腕带
@@ -7333,7 +7333,7 @@
 #12248	[!Troublebook]겨울이 온다.	[!Troublebook]凛冬将至。
 #12249	[!GuideMessage][colour='FFFFE959']총 [colour='FFFFFFFF']$Number$[colour='FFFFE959'] 명의 플레이어 중 [colour='FFFFFFFF']$Percent$%[colour='FFFFE959'] 가 해당 선택지를 선택하였습니다.	[!GuideMessage][colour='FFFFE959'][colour='FFFFFFFF']$Number$[colour='FFFFE959']名玩家中有[colour='FFFFFFFF']$Percent$%[colour='FFFFE959']的玩家选择了该选项。
 #12250	[!SystemMail][colour='FFFFE959']알버스. <br><br>난 너를 무척 아낀단다.<br><br>그래서 당연히 네가 '블랙펄'로 돌아온다면 내 팀에 종속시킬려고 했는데 도망가서 아쉬웠다.<br><br>네 녀석이 '블랙펄'로 돌아오면 주려고 챙겨두었던 물건이다.<br><br>아직은 현장에서 직접 뛰어야 하는 사장님일테니 여전히 이런 것들이 많이 필요하겠지.<br><br>어차피 네가 '블랙펄'로 복귀했다면 주었을 물건이니 잘 쓰도록 해라.<br><br>[colour='FFFFFFFF']너를 트러블슈터 세계로 인도한 단 한명의 선배<br><br>지젤 발렌슈타인	[!SystemMail][colour='FFFFE959']阿尔伯斯。<br><br>我很看好你的。<br><br>你是第一个在我手下默默地忍受我的怪脾气长达一年之久的家伙呢，所以我非常非常看好你哟。<br><br>所以我本打算在你回到「黑珍珠」就把你拉到我的门下的，但你小子却就这么逃跑了，给留下了遗憾啊。<br><br>这是原想在你回归「黑珍珠」时送你的东西。<br><br>你作为还需要亲自跑现场的老板，应该是很需要这些东西的。<br><br>原本就是当初你回归「黑珍珠」打算送你的东西，所以你就好好使用吧。<br><br>[colour='FFFFFFFF']将你引向纷争终结世界的你唯一的前辈<br><br>吉赛尔・沃伦斯坦。
-#12251	[!SystemMail][colour='FFFFE959']$CompanyName$. 다들 잘 지내고 있어?<br><br>너희들 덕분에 요즘 이능석 시세도 안정되고 출동 횟수도 줄어들어 개인 작업에 열중할 수 있게 되었어.<br><br>하지만 자원 관리 구역의 에너지가 크게 줄지 않는 것으로 보아 자원 관리 구역에 영향을 줄 수 있는 철의 숲 내부에 문제가 생긴 것 같긴 해.<br><br>언제 시간이 된다면 숲 내부로 같이 이능석 채취 작업을 가는 것은 어때? <br><br>내부에는 당연히 더 귀찮은 녀석들이 많지만 그만큼 더 많은 자원을 빠르게 획득할 수 있지.<br><br>내가 보낸 물건들은 그 때를 위해 시험 제작한 추출기들이야. 이 도구들이 너희들 에너지 추출 작업도 수월하게 해줄거야.<br><br>많이 추출해서 시세 좀 떨어뜨려. 그래야 내가 마음 편하게 제작에 몰두하지.<br><br>그럼 다음 번 임무에서 또 보자.<br><br>[colour='FFFFFFFF']엔지니어 카일리	[!SystemMail][colour='FFFFE959']$CompanyName$。大家过得好吗？<br><br>托你们的福，最近异能石的状态也趋于稳定，出勤次数也降了下来，因此我也就可以集中到个人作业中了。<br><br>然而资源管理区的能量却不见降低多少，所以我认为好像问题是出在可以影响资源管理区的铁森林内部。<br><br>有空陪我一起去森林内部开采异能石好不好？<br><br>里面肯定有很多烦人的东西，但是与之匹配的是能更迅速地得到更多的资源啊。<br><br>我发过去的东西是为了到时候使用而实验制作的提取仪。这些工具会让你们的能量提取作业更加简单上手。<br><br>希望你们多多开采，让这势头多降下去点。这样我也能更安心做好自己的发明创作了。<br><br>那下次任务我们再会吧。<br><br>[colour='FFFFFFFF']工程师凯莉。
+#12251	[!SystemMail][colour='FFFFE959']$CompanyName$. 다들 잘 지내고 있어?<br><br>너희들 덕분에 요즘 이능석 시세도 안정되고 출동 횟수도 줄어들어 개인 작업에 열중할 수 있게 되었어.<br><br>하지만 자원 관리 구역의 에너지가 크게 줄지 않는 것으로 보아 자원 관리 구역에 영향을 줄 수 있는 철의 숲 내부에 문제가 생긴 것 같긴 해.<br><br>언제 시간이 된다면 숲 내부로 같이 이능석 채취 작업을 가는 것은 어때? <br><br>내부에는 당연히 더 귀찮은 녀석들이 많지만 그만큼 더 많은 자원을 빠르게 획득할 수 있지.<br><br>내가 보낸 물건들은 그 때를 위해 시험 제작한 추출기들이야. 이 도구들이 너희들 에너지 추출 작업도 수월하게 해줄거야.<br><br>많이 추출해서 시세 좀 떨어뜨려. 그래야 내가 마음 편하게 제작에 몰두하지.<br><br>그럼 다음 번 임무에서 또 보자.<br><br>[colour='FFFFFFFF']엔지니어 카일리	[!SystemMail][colour='FFFFE959']$CompanyName$。大家过得好吗？<br><br>托你们的福，最近异能石的状态也趋于稳定，出勤次数也降了下来，因此我也就可以集中到个人作业中了。<br><br>然而资源管理区的能量却不见降低多少，所以我认为好像问题是出在可以影响资源管理区的铁森林内部。<br><br>有空陪我一起去森林内部开采异能石好不好？<br><br>里面肯定有很多烦人的东西，但是与之匹配的是能更迅速地得到更多的资源啊。<br><br>我发过去的东西是为了到时候使用而实验制作的提取仪。这些工具会让你们的异能提取作业更加简单上手。<br><br>希望你们多多开采，让这势头多降下去点。这样我也能更安心做好自己的发明创作了。<br><br>那下次任务我们再会吧。<br><br>[colour='FFFFFFFF']工程师凯莉。
 #12253	[!Ability]화염의 덫	[!Ability]火焰陷阱
 #12255	[!Ability]얼음의 덫	[!Ability]寒冰陷阱
 #12257	[!Ability]번개의 덫	[!Ability]闪电陷阱
@@ -7800,8 +7800,8 @@
 #13474	[!Item]남청빛 사이러스 코트	[!Item]藏蓝色塞勒斯外套
 #13475	[!Item]자홍빛 사이러스 코트의 기력 보존 능력을 끌어올린 코트로 시중에 보급된 코트 중 가장 뛰어난 기력 회복력을 자랑한다.	[!Item]提升了紫红色塞勒斯大衣的气力保存能力，是市面上流通的大衣中，气力恢复力最为优秀。
 #13476	[!Item]자홍거리에서 유통되는 사이러스 코트를 강화한 코트. 뒷세계에서 매우 인기 있는 코트다.	[!Item]强化了紫红街流通的塞勒斯大衣。是地下世界非常受欢迎的大衣。
-#13477	[!Item]지젤의 백설 의상	[!Item]吉赛尔的白雪服
-#13478	[!Item]카일리의 백설 의상	[!Item]凯莉的白雪服
+#13477	[!Item]지젤의 백설 의상	[!Item]吉赛尔的白雪衣装
+#13478	[!Item]카일리의 백설 의상	[!Item]凯莉的白雪衣装
 #13479	[!Item]남청빛 보나파르트 세공 구두	[!Item]藏蓝色波拿巴精制皮鞋
 #13480	[!Item]자홍빛 보나파르트 세공 구두보다 질이 더 높은 가죽을 사용하여 개선한 구두.	[!Item]该皮鞋使用了比紫红色波拿巴精制皮鞋更高级的皮革。
 #13481	[!Item]남청빛 사이러스 자켓	[!Item]藏蓝色塞勒斯夹克
@@ -8673,9 +8673,9 @@
 #14729	[!ReputationPolicy]$Division$ 임무 완료 시, 모든 상업 지구의 평판이 $ApplyAmountValue$ 상승합니다.	[!ReputationPolicy]完成$Division$的任务时，所有商业地区的评判上升$ApplyAmountValue$。
 #14730	[!ReputationPolicy]$Sector$의 $SectorCitizen$들은 $Troubleshooter$의 활동을 타 지구 상인들에게 홍보합니다.	[!ReputationPolicy]$Sector$的$SectorCitizen$们对其他地区的商人宣传$Troubleshooter$的活动。
 #14731	[!ReputationPolicy]상인조합	[!ReputationPolicy]商人组合
-#14732	[!ReputationPolicy]$Division$ 임무 완료 시, $Rare$ 등급 이상의 에너지 추출기을 $ApplyAmountValue$개 지급합니다.	[!ReputationPolicy]完成$Division$的任务时，获得$ApplyAmountValue$个$Rare$级别以上的能量提取仪。
+#14732	[!ReputationPolicy]$Division$ 임무 완료 시, $Rare$ 등급 이상의 에너지 추출기을 $ApplyAmountValue$개 지급합니다.	[!ReputationPolicy]完成$Division$的任务时，获得$ApplyAmountValue$个$Rare$级别以上的异能提取仪。
 #14733	[!ReputationPolicy]$Sector$의 $SectorCitizen$들은 $Division$에서 일어난 사건을 해결할 때마다 자신들의 장비를 지원합니다.	[!ReputationPolicy]$Sector$的$SectorCitizen$们在$Division$发生的事件得到解决时将支援自己的装备。
-#14734	[!ReputationPolicy]$SupportItem$ 에너지 추출기	[!ReputationPolicy]$SupportItem$能量提取仪
+#14734	[!ReputationPolicy]$SupportItem$ 에너지 추출기	[!ReputationPolicy]$SupportItem$异能提取仪
 #14735	[!ReputationPolicy]$Division$ 임무 완료 시, $Rare$ 등급 이상의 물약을 $ApplyAmountValue$개 지급합니다.	[!ReputationPolicy]完成$Division$的任务时，获得$ApplyAmountValue$个$Rare$级别以上的药水。
 #14736	[!ReputationPolicy]$Sector$의 $SectorCitizen$들은 $Division$에서 일어난 사건을 해결할 때마다 자신들의 상품을 지원합니다.	[!ReputationPolicy]$Sector$的$SectorCitizen$们在$Division$发生的事件得到解决时支援自己的商品。
 #14737	[!ReputationPolicy]$SupportItem$ 회복약	[!ReputationPolicy]$SupportItem$恢复药
@@ -8733,8 +8733,8 @@
 #14790	[!Troublebook]먼지바람 고속도로 휴게소	[!Mission]沙暴高速路休息站
 #14791	[!Troublebook]같이 걸어가기	[!Troublebook]一起向前走
 #14793	[!Ability]일반 추출보다 100% 높은 효율로 대상의 에너지를 추출합니다.	[!Ability]以比一般提取高出100%的效率提取目标的能源。
-#14794	[!Ability]순도 높은 에너지 추출	[!Ability]高纯度的能量提取
-#14795	[!Item]순도 높은 에너지 추출기	[!Item]高纯度的能量提取仪
+#14794	[!Ability]순도 높은 에너지 추출	[!Ability]强效异能提取
+#14795	[!Item]순도 높은 에너지 추출기	[!Item]强效异能提取仪
 #14796	[!Item]보나파르트 손목 고리 리미티드 에디션	[!Item]波拿巴手链LE
 #14797	[!Item]뒷거리에서 도적질로 살아가던 브래드는 자신을 보고 경멸하는 귀족 여성을 만나 모멸감을 느끼고 그 자리에서 바로 손목 고리를 차고 있던 귀족의 손목을 잘라버리고 이 손목 고리를 취한다.	[!Item]后巷小偷布拉德遇到了一位蔑视他的贵族女士，他感到羞辱。一怒之下他当场就切断了她的手腕，并抢走了她的手链。
 #14800	[!Mastery]하늘은 스스로 돕는 자를 돕는다.	[!Mastery]自助者天助之
@@ -8949,7 +8949,7 @@
 #15137	[!Ability]유탄 발사	[!Ability]榴弹发射
 #15138	[!Ability]전방의 목표물에게 무작위로 12 차례의 사격을 하여 각 사격 당 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]随机对前方的目标随机造成12次的轰击，每次将造成 $DamageAmount$的 $DamageType$ 伤害。
 #15139	[!Ability]건 핸드	[!Ability]机枪机械臂
-#15140	[!ObjectInfo]개조된 바이크론	[!ObjectInfo]被改造的拜克伦
+#15140	[!ObjectInfo]개조된 바이크론	[!ObjectInfo]改装拜克伦
 #15141	[!SystemMessage]파일 오류로 클라이언트가 종료됩니다.<br>재실행 후 스팀 클라이언트에서 업데이트를 받아 파일 무결성 검사를 수행해주세요.<br>이용에 불편을 드려 죄송합니다.<br>해당 사항이 지속적으로 해결되시지 않으시면 system@dandylion.co.kr로 문의 부탁드립니다	[!SystemMessage]因文件错误终止客户端。<br>请重新开启Steam下载游戏更新并验证游戏文件的完整性。<br>对于给您带来的不便，我们深表歉意。<br>如该问题持续无法解决时，请向system@dandylion.co.kr发送咨询。
 #15143	[!Mastery]바람의 변화를 전혀 고려하지 않고 똑같이 항해하는 선장은 결코 항구에 들어가지 못하는 법이다.	[!Mastery]完全不顾风的变化，持续航行的船长是绝对不能进入港口的。
 #15144	[!Mastery]융통성	[!Mastery]灵活性
@@ -9104,12 +9104,12 @@
 #15323	[!Item]카일리가 이동 시간이 아까워서 만든 이동 보조 장치. 성능이 일정하지 않다.	[!Item]因凯莉觉得移动时间太浪费而制作的移动辅助器。性能不稳定。
 #15324	[!Item]자홍거리에서 유통되는 흑철 세공 전투화에 질긴 네구리 가죽을 추가하여 사용성을 개선한 전투화. 뒷세계에서 매우 인기 있는 전투화이다.	[!Item]将紫红街流黑铁加工战靴换成了纳古利皮革而改善的战靴。在地下世界非常受欢迎。
 #15325	[!Item]자홍거리에서 유통되는 흑철 세공 구두에 질긴 네구리 가죽을 추가하여 사용성을 개선한 구두. 뒷세계에서 매우 인기 있는 구두다.	[!Item]将紫红街流通黑铁细工皮鞋换成了纳古利皮革而改善的皮鞋。在地下世界非常受欢迎。
-#15326	[!Item]모노앤비비 M2	[!Item]莫诺和菲菲 M2
-#15327	[!Item]모노앤비비 M3	[!Item]莫诺和菲菲 M3
-#15328	[!Item]모노앤비비 M4	[!Item]莫诺和菲菲 M4
-#15329	[!Item]모노앤비비 V2	[!Item]莫诺和菲菲 V2
-#15330	[!Item]모노앤비비 V3	[!Item]莫诺和菲菲 V3
-#15331	[!Item]모노앤비비 V4	[!Item]莫诺和菲菲 V4
+#15326	[!Item]모노앤비비 M2	[!Item]莫诺和菲菲M-2
+#15327	[!Item]모노앤비비 M3	[!Item]莫诺和菲菲M-3
+#15328	[!Item]모노앤비비 M4	[!Item]莫诺和菲菲M-4
+#15329	[!Item]모노앤비비 V2	[!Item]莫诺和菲菲V-2
+#15330	[!Item]모노앤비비 V3	[!Item]莫诺和菲菲V-3
+#15331	[!Item]모노앤비비 V4	[!Item]莫诺和菲菲V-4
 #15332	[!Item]연막 생성기	[!Item]烟雾形成器
 #15333	[!Item]카일리가 연막탄을 일일히 던지는 것이 귀찮아 만든 장치. 가끔 고장난다.	[!Item]因凯莉懒得一个个地扔烟雾弹而制作的装备。偶尔出故障。
 #15334	[!Item]야간 투시경	[!Item]夜间透视镜
@@ -9132,9 +9132,9 @@
 #15363	[!ESP]정보	[!MissionType]信息
 #15364	[!GuideMessage]사용 불가 대상: $ImmuneRace$	[!GuideMessage]不可使用对象：$ImmuneRace$
 #15365	[!GuideMessage]제작으로 이동	[!GuideMessage]移动至制作目录
-#15366	[!Item]모노앤비비 V1	[!Item]莫诺和菲菲 V1
+#15366	[!Item]모노앤비비 V1	[!Item]莫诺和菲菲V-1
 #15367	[!Item]카일리가 직접 제작한 공격, 지원, 방어, 해킹 단말기로 사용되는 다목적 지원 장치인 부유형 드론이다. 강력한 음성 인식 기능을 바탕으로 명령을 수행하며 추가적인 코드 입력을 통하여 특수한 행동을 수행할 수 있다.	[!Item]是凯莉为了用于攻击、支援、防御、黑客终端的具有多功能支援的浮游型无人机设备。以强大的语音识别功能为基础执行命令，并通过追加代码的输入，可以执行特殊行动。
-#15369	[!Item]모노앤비비 V0	[!Item]莫诺和菲菲 V0
+#15369	[!Item]모노앤비비 V0	[!Item]莫诺和菲菲V-0
 #15375	[!Item]제작서	[!Item]设计图
 #15376	[!Item]기계의 구조 정보를 기록하는 문서.	[!Item]记录机器构造情报的文件。
 #15377	[!Item]모듈 해제를 위한 소모품입니다. 	[!Item]解除模块时所消耗的物品。
@@ -9172,12 +9172,12 @@
 #15436	[!Item]낡은 화염 방사기	[!Item]陈旧的火焰喷射器
 #15437	[!Item]낡은 냉각 레이저	[!Item]陈旧的冷却激光
 #15438	[!Item]낡은 자동 돌격 소총	[!Item]陈旧的自动突击步枪
-#15439	[!Item]개조된 크레인 핸드	[!Item]被改造的起重机械臂
-#15440	[!Item]강화형 자동 돌격 소총	[!Item]强化型自动突击步枪
-#15441	[!Item]흑철 강화 중장갑	[!Item]黑铁强化的重装甲
-#15442	[!Item]흑철 강화 장갑	[!Item]黑铁强化的装甲
-#15443	[!Item]카본 강화 중장갑	[!Item]石墨强化的重装甲
-#15444	[!Item]카본 강화 장갑	[!Item]石墨强化的装甲
+#15439	[!Item]개조된 크레인 핸드	[!Item]改装起重机械臂
+#15440	[!Item]강화형 자동 돌격 소총	[!Item]强化自动突击步枪
+#15441	[!Item]흑철 강화 중장갑	[!Item]黑铁强化重装甲
+#15442	[!Item]흑철 강화 장갑	[!Item]黑铁强化装甲
+#15443	[!Item]카본 강화 중장갑	[!Item]石墨强化重装甲
+#15444	[!Item]카본 강화 장갑	[!Item]石墨强化装甲
 #15445	[!Item]티타늄 복합 장갑	[!Item]钛合金复合装甲
 #15446	[!Item]티타늄 강화 중장갑	[!Item]钛合金强化重装甲
 #15447	[!Item]티타늄 강화 장갑	[!Item]钛合金强化装甲
@@ -9343,7 +9343,7 @@
 #15675	[!CostType]$Blue_ON$연료 보급 관련 어빌리티, 특성, 모듈을 통해서만 회복 가능 합니다.	[!CostType]$Blue_ON$只能通过关于燃料供给的技能、天赋、模块来恢复。
 #15676	[!Equipment]보조 기어	[!Equipment]辅助齿轮
 #15679	[!GuideMessage]%s 모듈 슬롯이 %s 증가합니다.	[!GuideMessage]%s模块栏数增加%s。
-#15680	[!Item]레톤의 백설 의상	[!Item]莱顿的白雪服
+#15680	[!Item]레톤의 백설 의상	[!Item]莱顿的白雪衣装
 #15681	[!ItemEquipmentPosition]보조 기어	[!ItemEquipmentPosition]辅助齿轮
 #15684	[!ItemType]레톤 의상	[!ItemType]莱顿的服
 #15687	[!Mastery]해답에 도달하는 방식이지.	[!Mastery]求解的方式。
@@ -9412,33 +9412,33 @@
 #15788	[!GuideMessage]기계를 구성하는 각 부분의 부품을 추가합니다. 부품의 총량은 기체의 최대 적재량을 초과할 수 없습니다. [colour='FFFFFF00']추후 기체 변경으로 변경이 가능합니다.	[!GuideMessage]添加各个部位的部件。部件合计不得超过机体的最大载重量。[colour='FFFFFF00']机体变更时可更改。
 #15789	[!GuideMessage]기계를 구동할 SP 종류를 결정합니다. [colour='FFFFAA00']기체 제작 후 변경이 불가능합니다.	[!GuideMessage]决定驱动机械的SP类型。[colour='FFFFAA00']机体制作后便无法更改。
 #15790	[!Item]티타늄 개량 장갑	[!Item]钛合金改良装甲
-#15791	[!Item]공격 조준 장치 C01	[!Item]攻击瞄准装置 C01
-#15792	[!Item]공격 조준 장치 E01	[!Item]攻击瞄准装置 E01
-#15793	[!Item]공격 조준 장치 R01	[!Item]攻击瞄准装置 R01
-#15794	[!Item]공격 조준 장치 U01	[!Item]攻击瞄准装置 U01
-#15795	[!Item]공격 강화 장치 C01	[!Item]攻击强化装置 C01
-#15796	[!Item]공격 강화 장치 E01	[!Item]攻击强化装置 E01
-#15797	[!Item]공격 강화 장치 R01	[!Item]攻击强化装置 R01
-#15798	[!Item]공격 강화 장치 U01	[!Item]攻击强化装置 U01
-#15799	[!Item]강화 엔진 UE1	[!Item]强化引擎 UE1
-#15800	[!Item]강화 엔진 UE3	[!Item]强化引擎 UE3
-#15801	[!Item]강화 엔진 UE4 - 과열	[!Item]强化引擎 UE4 - 过热
-#15803	[!Item]강화 엔진 UE4 - 고속	[!Item]强化引擎 UE4 - 高速
-#15804	[!Item]강화 엔진 UE2	[!Item]强化引擎 UE2
+#15791	[!Item]공격 조준 장치 C01	[!Item]攻击瞄准装置 C0-1
+#15792	[!Item]공격 조준 장치 E01	[!Item]攻击瞄准装置 E0-1
+#15793	[!Item]공격 조준 장치 R01	[!Item]攻击瞄准装置 R0-1
+#15794	[!Item]공격 조준 장치 U01	[!Item]攻击瞄准装置 U0-1
+#15795	[!Item]공격 강화 장치 C01	[!Item]攻击强化装置 C0-1
+#15796	[!Item]공격 강화 장치 E01	[!Item]攻击强化装置 E0-1
+#15797	[!Item]공격 강화 장치 R01	[!Item]攻击强化装置 R0-1
+#15798	[!Item]공격 강화 장치 U01	[!Item]攻击强化装置 U0-1
+#15799	[!Item]강화 엔진 UE1	[!Item]强化引擎 UE-1
+#15800	[!Item]강화 엔진 UE3	[!Item]强化引擎 UE-3
+#15801	[!Item]강화 엔진 UE4 - 과열	[!Item]强化引擎 UE-4 - 过热
+#15803	[!Item]강화 엔진 UE4 - 고속	[!Item]强化引擎 UE-4 - 高速
+#15804	[!Item]강화 엔진 UE2	[!Item]强化引擎 UE-2
 #15805	[!Item]보조 장갑 3RSYS - 01	[!Item]辅助装甲 3RSYS-01
 #15806	[!Item]보조 장갑 3RSYS - 03	[!Item]辅助装甲 3RSYS-03
 #15807	[!Item]보조 장갑 3RSYS - 02	[!Item]辅助装甲 3RSYS-02
 #15808	[!Item]마그넷 코팅 U - 01	[!Item]磁场涂层 U-01
 #15809	[!Item]마그넷 코팅 E - 01	[!Item]磁场涂层 E-01
 #15810	[!Item]마그넷 코팅 R - 01	[!Item]磁场涂层 R-01
-#15811	[!Item]나노 스킨 G1	[!Item]纳米涂层 G1
-#15812	[!Item]나노 스킨 G4	[!Item]纳米涂层 G4
-#15813	[!Item]나노 스킨 G3	[!Item]纳米涂层 G3
-#15814	[!Item]나노 스킨 G2	[!Item]纳米涂层 G2
-#15815	[!Item]태양광 패널 DV1	[!Item]太阳光板 DV1
-#15816	[!Item]태양광 패널 DV4	[!Item]太阳光板 DV4
-#15817	[!Item]태양광 패널 DV3	[!Item]太阳光板 DV3
-#15818	[!Item]태양광 패널 DV2	[!Item]太阳光板 DV2
+#15811	[!Item]나노 스킨 G1	[!Item]纳米涂层 G-1
+#15812	[!Item]나노 스킨 G4	[!Item]纳米涂层 G-4
+#15813	[!Item]나노 스킨 G3	[!Item]纳米涂层 G-3
+#15814	[!Item]나노 스킨 G2	[!Item]纳米涂层 G-2
+#15815	[!Item]태양광 패널 DV1	[!Item]太阳光板 DV-1
+#15816	[!Item]태양광 패널 DV4	[!Item]太阳光板 DV-4
+#15817	[!Item]태양광 패널 DV3	[!Item]太阳光板 DV-3
+#15818	[!Item]태양광 패널 DV2	[!Item]太阳光板 DV-2
 #15819	[!Item]보조 엔진 Havoc - 01	[!Item]辅助引擎 Havoc-01
 #15820	[!Item]보조 엔진 Havoc - 04	[!Item]辅助引擎 Havoc-04
 #15821	[!Item]보조 엔진 Havoc - 03	[!Item]辅助引擎 Havoc-03
@@ -9504,13 +9504,13 @@
 #15897	[!Mastery]강화된 기체	[!Mastery]强化的机体
 #15898	[!Mastery]호버 추진기	[!Mastery]盘旋推进器
 #15900	[!Mastery]하얗게 불태웠는가?	[!Mastery]全都燃烧殆尽了吗？
-#15901	[!Mastery]강화된 화염 방사기	[!Mastery]强化的火焰发射器
+#15901	[!Mastery]강화된 화염 방사기	[!Mastery]强化火焰发射器
 #15903	[!Mastery]모든 부분의 합은 전체보다 크다.	[!Mastery]部分的总和比整体大。
 #15904	[!Mastery]기체 제어 프로그램	[!Mastery]机体控制程序
 #15906	[!Mastery]특수 장갑	[!Mastery]特殊装甲
 #15908	[!Mastery]고속 주행 프로그램	[!Mastery]高速行驶程序
 #15910	[!Mastery]그렇게 평생을 지내.	[!Mastery]就那样活一辈子吧～
-#15911	[!Mastery]강화된 냉각 레이저	[!Mastery]强化的冷却激光器
+#15911	[!Mastery]강화된 냉각 레이저	[!Mastery]强化冷却激光器
 #15913	[!Mastery]피하면 그만이다.	[!Mastery]躲开就是了。
 #15914	[!Mastery]자동 회피 반응	[!Mastery]自动闪避反应
 #15916	[!Mastery]엉덩이가 무거우면 성공한다.	[!Mastery]沉得住性子的人才能成功
@@ -9684,9 +9684,9 @@
 #16154	[!Item]강화 구동 장치 PL - 01	[!Item]强化驱动装备 PL-01
 #16155	[!Item]다중 연산장치	[!Item]多重运算装置
 #16156	[!Item]카일리가 복수의 기계를 제어하기 위해 만든 보조 연산 장치.	[!Item]凯莉为了控制多数的机器而制作的辅助运算装置。
-#16157	[!Item]개조된 크레인 핸드 - 화염 방사	[!Item]被改造的起重机械臂 - 火焰喷射
-#16158	[!Item]개조된 크레인 핸드 - 냉각 가스	[!Item]被改造的起重机械臂 - 冷气
-#16159	[!Item]개조된 크레인 핸드 - 전기 충격	[!Item]被改造的起重机械臂 - 电击
+#16157	[!Item]개조된 크레인 핸드 - 화염 방사	[!Item]改装起重机械臂 - 火焰喷射
+#16158	[!Item]개조된 크레인 핸드 - 냉각 가스	[!Item]改装起重机械臂 - 冷气
+#16159	[!Item]개조된 크레인 핸드 - 전기 충격	[!Item]改装起重机械臂 - 电击
 #16160	[!LayoutKeyword]재료 도감	[!WordCollection]素材图鉴
 #16161	[!Loading]푸른 안개 G 물류센터	[!Loading]蓝雾-G物流中心
 #16164	[!Mastery]작은 움직임도 놓치지 않는다.	[!Mastery]一丝不苟
@@ -9833,7 +9833,7 @@
 #16336	[!Item]전문 사냥꾼의 부츠	[!Item]专业猎人的靴子
 #16337	[!Item]제프는 사냥 대회 참가를 위해 자신의 전재산을 털어 자신만의 부츠를 제작한다. 다른 사냥꾼 동료들은 그런 제프를 보며 쓸데없는 짓이라고 비아냥거렸지만 그 해 붉은 광산 지구 사냥 대회 우승자는 제프였다.	[!Item]杰夫为了参加狩猎大会拿出自己的全部财产制作了自己的靴子。虽然被其他的猎人都嘲笑这并没有什么用，但他还是夺得了那一年红矿地区狩猎大会冠军。
 #16339	[!Item]낡은 산업용 소형 연료통	[!Item]旧工业用小型燃料桶
-#16340	[!Item]강화된 크레인 핸드	[!Item]强化的起重机械臂
+#16340	[!Item]강화된 크레인 핸드	[!Item]强化起重机械臂
 #16341	[!Item]낡은 강화 엔진 UE1	[!Item]旧强化引擎 UE1
 #16348	[!Mastery]지금 점검하지 않으면 내일 후회한다.	[!Mastery]现在不检查，明天会后悔。
 #16349	[!Mastery]공격 균형 제어 장치	[!Mastery]攻击平衡控制装置
@@ -9871,13 +9871,13 @@
 #16393	[!NamedEvent]『 경고: 적 발견 』	[!NamedEvent]「警告：发现敌人」
 #16394	[!NamedEvent]『 목표 설정: 적 배제 』	[!NamedEvent]「设定目标：消除敌人」
 #16395	[!NamedEvent]불꽃 드론	[!ObjectInfo]火花无人机
-#16396	[!NamedEvent]개조된 드론	[!NamedEvent]被改造的无人机
+#16396	[!NamedEvent]개조된 드론	[!NamedEvent]改装无人机
 #16397	[!NamedEvent]잠입 드론	[!ObjectInfo]暗潜无人机
 #16398	[!NamedEvent]냉각 드론	[!ObjectInfo]冷气无人机
 #16399	[!NamedEvent]『 경고: 외부 위협 접근 』	[!NamedEvent]「警告：外部威胁接近」
 #16400	[!NamedEvent]『 위협 대상을 소각합니다. 』	[!NamedEvent]「摧毁威胁对象。」
 #16401	[!NamedEvent]극염의 파이어크론	[!NamedEvent]极炎的火焰拜克伦
-#16402	[!NamedEvent]개조된 바이크론	[!ObjectInfo]被改造的拜克伦
+#16402	[!NamedEvent]개조된 바이크론	[!ObjectInfo]改装拜克伦
 #16403	[!NamedEvent]『 위협 대상을 동결합니다. 』	[!NamedEvent]「冻结威胁对象。」
 #16404	[!NamedEvent]극한의 프로스트크론	[!NamedEvent]极寒的冰霜拜克伦
 #16405	[!NamedEvent]『 모든 적을 섬멸합니다. 』	[!NamedEvent]「歼灭所有敌人。」
@@ -9926,7 +9926,7 @@
 #16462	[!Ability]지면 내려치기	[!Ability]猛击地面
 #16464	[!Ability]대쉬 어퍼컷	[!Ability]冲击上勾拳
 #16465	[!GuideMessage]%s[이] 수리되었습니다.	[!GuideMessage]已修理%s。
-#16466	[!Item]백호의 인장	[!Item]白虎的印章
+#16466	[!Item]백호의 인장	[!Item]白虎印章
 #16467	[!Item]백호파의 상징이 새겨져 있습니다.	[!Item]刻有白虎派的象征标志。
 #16468	[!Item]백호의 이빨	[!Item]白虎之牙
 #16469	[!Item]백호의 발톱	[!Item]白虎之爪
@@ -10257,8 +10257,8 @@
 #16856	[!GameSystemMessageFormat]야수들이 전자망 제어기를 적대 대상으로 인지하였습니다.	[!Sentence][!FrontMessage]野兽们把电网控制仪认定为敌对目标了。
 #16857	[!GameSystemMessageFormat]섬광 왕네구리가 현장에 난입하였습니다.	[!Sentence][!FrontMessage]闪光纳古利大王闯入了现场。
 #16858	[!GameSystemMessageFormat]전자망 제어기가 파괴되어 전자망을 복구할 수 없습니다.	[!Sentence][!FrontMessage]电网控制仪被破坏，无法修复。
-#16859	[!GameSystemMessageFormat]더 이상 이능석 표본을 확보할 '에너지 추출기'가 없습니다.	[!Sentence][!FrontMessage]没有多余的「能量提取仪」去提取异能石样本。
-#16860	[!GameSystemMessageFormat]이능석 표본을 확보할 '에너지 추출기'가 부족합니다.	[!Sentence][!FrontMessage]能量提取仪不足。
+#16859	[!GameSystemMessageFormat]더 이상 이능석 표본을 확보할 '에너지 추출기'가 없습니다.	[!Sentence][!FrontMessage]没有多余的「异能提取仪」去提取异能石样本。
+#16860	[!GameSystemMessageFormat]이능석 표본을 확보할 '에너지 추출기'가 부족합니다.	[!Sentence][!FrontMessage]异能提取仪不足。
 #16861	[!GameSystemMessageFormat]헤이싱이 아군 캐릭터가 되었습니다.	[!Sentence][!FrontMessage]黑星成为了友军角色。
 #16862	[!GameSystemMessageFormat]이제부터 방어선 주위에서 티마의 공격을 방어합니다.	[!Sentence][!FrontMessage]从现在起开始在防线周围抵御蒂玛的攻击。
 #16863	[!GameSystemMessageFormat]불안한 시민을 이동시키려면 다가가 안정시켜야 합니다.	[!Sentence][!FrontMessage]想要移动不安的市民，需要走近他们并进行安抚。
@@ -11430,7 +11430,7 @@
 #18386	[!Ability]서리 외장	[!Ability]霜雪外甲
 #18387	[!Ability]서리 외장 해제	[!Ability]解除霜雪外甲
 #18388	[!Ability]백 덤블링	[!Ability]后空翻
-#18390	[!Ability]원기의 약	[!Ability]元气之药
+#18390	[!Ability]원기의 약	[!Ability]元气药水
 #18391	[!Ability]목표 대상의 기력을 모두 회복하며 $RemoveBuff$ 상태를 해제합니다.	[!Ability]恢复目标的所有气力并解除$RemoveBuff$状态。
 #18392	[!Ability]강화의 물약	[!Ability]强化药水
 #18393	[!Ability]수양의 물약	[!Ability]素养药水
@@ -11459,7 +11459,7 @@
 #18416	[!GuideMessage]$Yellow$기본효과:$White$ 공연$Blue_ON$<br>$PerformanceType$ 속성이 부여된 어빌리티 사용 시, 비어 있는 공연 슬롯에 순차적으로 해당 효과가 적용됩니다.<br><br>$Yellow$추가효과:$White$ 멋짐$Blue_ON$<br>연속된 $White$4$Blue_ON$개의 공연 슬롯에 다음과 같이 공연 효과가 배치될 경우, $White$멋짐$Blue_ON$ 효과가 발생합니다.<br><br>$PerformanceGreatList$<br><br>$White$멋짐$Blue_ON$ 효과가 발생 후, 해당 슬롯의 공연 효과는 사라집니다.<br><br>$Yellow$추가효과:$White$ 마무리$Blue_ON$<br>공연 슬롯이 가득 차면, 누적된 $White$멋짐$Blue_ON$ 횟수에 따라 다음과 같은 $White$마무리$Blue_ON$ 효과가 발생합니다.<br><br>$PerformanceFinishList$<br><br>$White$마무리$Blue_ON$ 효과가 발생 후, 모든 공연 슬롯과 $White$멋짐$Blue_ON$ 수치가 초기화됩니다.	[!GuideMessage]$Yellow$基本效果：$White$演出$Blue_ON$<br>$PerformanceType$ 使用赋予演出属性的技能时，将赋予的演出属性依次罗列于该栏。<br><br>$Yellow$追加效果：$White$ 帅气$Blue_ON$<br>连续$White$4$Blue_ON$个的演出属性若满足如下组合将会产生组合效果，同时生成一次$White$帅气$Blue_ON$。<br><br>$PerformanceGreatList$<br><br>$White$帅气$Blue_ON$效果发生后，该栏的演出效果将清空。<br><br>$Yellow$追加效果：$White$ 收尾$Blue_ON$<br>演出栏被填满时，将根据累积的$White$帅气$Blue_ON$个数，产生如下的$White$收尾$Blue_ON$效果。<br><br>$PerformanceFinishList$<br><br>$White$收尾$Blue_ON$效果发生后，所有的演出栏和$White$帅气$Blue_ON$值将重归为零。
 #18417	[!Item]강화의 물약	[!Item]强化药水
 #18418	[!Item]수양의 물약	[!Item]素养药水
-#18419	[!Item]강력한 수면제	[!Item]强力的安眠药
+#18419	[!Item]강력한 수면제	[!Item]强效安眠药
 #18420	[!Item]강력한 강화의 물약	[!Item]强效强化药水
 #18421	[!Item]강력한 수양의 물약	[!Item]强效素养药水
 #18422	[!Item]강력한 인내의 물약	[!Item]强效忍受药水
@@ -11520,7 +11520,7 @@
 #18489	[!Suggestion]레톤이 입사 지원에 대한 답변을 기다립니다.<br><br>[colour='FFFFFF00']레톤 제안 수락 시 레톤이 회사에 합류합니다.	[!Suggestion]莱顿正在等待入职申请的答复。<br><br>[colour='FFFFFF00']接受提案时，莱顿将加入公司。
 #18490	[!ObjectInfo]비	[!MissionWeather]蜂
 #18491	[!ObjectInfo]리사	[!CivilRescueNameSet]丽萨
-#18492	[!Item]원기의 약	[!Ability]元气之药
+#18492	[!Item]원기의 약	[!Ability]元气药水
 #18493	[!MasteryType]익살꾼	[!Job]丑角
 #18494	[!Ability]야수를 길들입니다. 야수를 길들이는 동안 다른 행동을 할 수 없습니다. 길들이는데 성공하거나, 도중에 실패하면 다시 행동이 가능해집니다. 해당 야수는 시전자에 대해 $CancelBuff$ 상태가 됩니다.<br><br>$White$$Grade$$Perano$ 등급의 야수까지 길들일 수 있습니다.<br>$CancelBuff$$Tomato$ 상태의 야수는 길들일 수 없습니다.<br>	[!Ability]驯服野兽。驯服野兽的同时无法执行其他的行动。成功驯服或中途驯服失败时才可重新行动。施法者会对该野兽产生$CancelBuff$效果。<br><br>可以驯服$White$$Grade$$Perano$级别以内的野兽。<br>无法对已拥有$CancelBuff$$Tomato$状态的野兽释放。<br>
 #18495	[!Buff]해당 상태에서 피격 시, 방어율과 회피율이 적용되지 않습니다.	[!Buff]在该状态下被击中时，格挡和回避率将无法适用。
@@ -12863,7 +12863,7 @@
 #20224	[!WordCollection]메뉴판	[!WordCollection]菜单
 #20225	[!WordCollection]현재 소지금	[!WordCollection]拥有金额
 #20226	[!WordCollection]주문	[!WordCollection]点菜
-#20227	[!WordCollection]주문한다.	[!WordCollection]点菜。
+#20227	[!WordCollection]주문한다.	[!WordCollection]点菜
 #20228	[!WordCollection]주문 비용	[!WordCollection]点菜费用
 #20229	[!WordCollection]주문 인원	[!WordCollection]点菜人数
 #20230	[!WordCollection]주문 목록	[!WordCollection]点菜目录
@@ -14553,8 +14553,8 @@
 #22194	[!Item]가스 스프레이 QHD-40U	[!Item]毒气喷雾QHD-40U
 #22195	[!Item]가스 스프레이 QHD-40R	[!Item]毒气喷雾QHD-40R
 #22196	[!Item]가스 스프레이 QHD-40S	[!Item]毒气喷雾QHD-40S
-#22197	[!Item]모노앤비비 V5	[!Item]莫诺和菲菲V6
-#22198	[!Item]모노앤비비 M5	[!Item]莫诺和菲菲M6
+#22197	[!Item]모노앤비비 V5	[!Item]莫诺和菲菲V-5
+#22198	[!Item]모노앤비비 M5	[!Item]莫诺和菲菲M-5
 #22199	[!Item]듀나메스 MPIBC	[!Item]杜纳梅斯MPIBC
 #22200	[!Item]카라스 연방의 군수업체 '듀나메스'에서 제작한 차세대 공격형 기관권총. 뛰어난 관통력으로 각광받고 있다.	[!Item]卡拉斯联邦的军工企业「杜纳梅斯」制作的次世代攻击型冲锋枪。拥有优秀的穿透力。
 #22201	[!Item]듀나메스 MPIBR	[!Item]杜纳梅斯MPIBR
@@ -14721,7 +14721,7 @@
 #22389	[!Item]지옥불 인장	[!Item]地狱火印章
 #22390	[!Item]지옥불의 코드 네임이 새겨져 있습니다.	[!Item]刻有地狱火的代号。
 #22391	[!Item]해골 인장	[!Item]骷髅印章
-#22392	[!Item]해골 반지를 수여받는 자리에서 간부들은 이 인장을 받는다. 죽음에 이르는 맹독성 강화제 스콜지를 중화하는 효과를 가지고 있다.	[!Item]在授予骷髅戒指的同时将获得这个印章，它具有中和致死剧毒强化剂天灾的效果。
+#22392	[!Item]해골 반지를 수여받는 자리에서 간부들은 이 인장을 받는다. 죽음에 이르는 맹독성 강화제 스콜지를 중화하는 효과를 가지고 있다.	[!Item]在授予骷髅戒指的同时将获得这个印章，它具有中和致死剧毒强化剂「天灾」的效果。
 #22393	[!Item]강력한 머리 보호대	[!Item]强效护头帽
 #22394	[!Item]기절을 방지하기 위한 강력한 머리 보호대입니다.	[!Item]防止晕厥的强力护头帽。
 #22395	[!LayoutKeyword]반송	[!LayoutKeyword]退回
@@ -14814,15 +14814,15 @@
 #22482	[!CollectItemSet]폐기된 수송 드론	[!CollectItemSet]被废弃的运输无人机
 #22483	[!CollectItemSet]해당 드론 근처에서 부품 회수를 하면 부품을 회수 할 수 있습니다.	[!CollectItemSet]在该无人机附近回收部件可回收部件。
 #22484	[!CollectItemSet]폐기된 강화 드론	[!CollectItemSet]被废弃的强化无人机
-#22485	[!Item]알버스의 흑홍 의상	[!Item]阿尔伯斯黑红衣装
-#22486	[!Item]시온의 흑홍 의상	[!Item]席翁黑红衣装
-#22487	[!Item]아이린의 흑홍 의상	[!Item]艾琳黑红衣装
-#22488	[!Item]앤의 흑홍 의상	[!Item]安黑红衣装
-#22489	[!Item]헤이싱의 흑홍 의상	[!Item]黑星黑红衣装
-#22490	[!Item]레이의 흑홍 의상	[!Item]雷伊黑红衣装
-#22491	[!Item]지젤의 흑홍 의상	[!Item]吉赛尔黑红衣装
-#22492	[!Item]카일리의 흑홍 의상	[!Item]凯莉黑红衣装
-#22493	[!Item]레톤의 흑홍 의상	[!Item]莱顿黑红衣装
+#22485	[!Item]알버스의 흑홍 의상	[!Item]阿尔伯斯的黑红衣装
+#22486	[!Item]시온의 흑홍 의상	[!Item]席翁的黑红衣装
+#22487	[!Item]아이린의 흑홍 의상	[!Item]艾琳的黑红衣装
+#22488	[!Item]앤의 흑홍 의상	[!Item]安的黑红衣装
+#22489	[!Item]헤이싱의 흑홍 의상	[!Item]黑星的黑红衣装
+#22490	[!Item]레이의 흑홍 의상	[!Item]雷伊的黑红衣装
+#22491	[!Item]지젤의 흑홍 의상	[!Item]吉赛尔的黑红衣装
+#22492	[!Item]카일리의 흑홍 의상	[!Item]凯莉的黑红衣装
+#22493	[!Item]레톤의 흑홍 의상	[!Item]莱顿的黑红衣装
 #22494	[!ObjectInfo]버려진 수송 드론	[!ObjectInfo]被抛弃的运输无人机
 #22495	[!ObjectInfo]폐기된 수송 드론	[!ObjectInfo]被废弃的运输无人机
 #22496	[!ObjectInfo]버려진 강화 드론	[!ObjectInfo]被抛弃的强化无人机
@@ -14833,20 +14833,20 @@
 #22501	[!Quest]$TargetItem$의 부품을 회수하시오.	[!Quest]回收$TargetItem$的部件。
 #22502	[!Quest]뒤바뀐 미술품	[!Quest]被掉包的美术品
 #22503	[!QuestDesc]$JPerson(Hundred)$[는] 철의 숲에 방치된 폐기된 수송 드론의 부품을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Hundred)$请求回收遗弃在铁森林的运输无人机部件。
-#22504	[!Ability]강화된 순도 높은 에너지 추출	[!Ability]强化的高纯度的能量提取
+#22504	[!Ability]강화된 순도 높은 에너지 추출	[!Ability]极效异能提取
 #22505	[!Ability]일반 추출보다 200% 높은 효율로 대상의 에너지를 추출합니다.	[!Ability]以比一般提取高200%的效率提取对象的能量。
 #22506	[!Item]추출업자 부츠	[!Item]提炼家靴子
 #22507	[!Item]추출업자 반지	[!Item]提炼家戒指
-#22508	[!Item]전문 추출업자들이 에너지 추출 순도를 높이기 위해 사용하던 반지.	[!Item]提炼专家为了提高高纯度的能量提取而使用的戒指。
+#22508	[!Item]전문 추출업자들이 에너지 추출 순도를 높이기 위해 사용하던 반지.	[!Item]提炼专家为了提高高纯度的异能提取而使用的戒指。
 #22509	[!Item]추출업자 코트	[!Item]提炼家外套
-#22510	[!Item]강화된 순도 높은 에너지 추출기	[!Item]强化的高纯度的能量提取仪
-#22511	[!Item]불의 인장	[!Item]火之印章
+#22510	[!Item]강화된 순도 높은 에너지 추출기	[!Item]极效异能提取仪
+#22511	[!Item]불의 인장	[!Item]火焰印章
 #22512	[!Item]이능력 사용자의 힘을 증폭시키는 효과를 지니는 인장입니다.	[!Item]拥有异能者力量增强效果的印章。
-#22513	[!Item]얼음의 인장	[!Item]寒冰之印章
-#22514	[!Item]번개의 인장	[!Item]闪电之印章
-#22515	[!Item]바람의 인장	[!Item]风之印章
-#22516	[!Item]대지의 인장	[!Item]大地之印章
-#22517	[!Item]물의 인장	[!Item]水之印章
+#22513	[!Item]얼음의 인장	[!Item]寒冰印章
+#22514	[!Item]번개의 인장	[!Item]闪电印章
+#22515	[!Item]바람의 인장	[!Item]疾风印章
+#22516	[!Item]대지의 인장	[!Item]大地印章
+#22517	[!Item]물의 인장	[!Item]流水印章
 #22518	[!ItemSet]전문 추출업자 - 대용량	[!ItemSet]提炼专家 - 大容量
 #22519	[!ItemSet]전문 추출업자 - 정제	[!ItemSet]提炼专家 - 精制
 #22520	[!Mastery]모든 적의 시야에 노출되지 않은 상태에서 $Mastery$ 발동 시, $ActionPoint$을 $Value$ 회복합니다.	[!Mastery]未暴露在敌人视野的状态下发动$Mastery$攻击时，将恢复$Value$的$ActionPoint$。

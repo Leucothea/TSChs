@@ -5413,12 +5413,12 @@
 #13491	[!Sentence][!Objective]구역 내 초과된 에너지를 해제하시오.	[!Sentence][!Objective]请去除管理区内过量的能量。
 #13495	[!Sentence][!Dialog][!speaker:Kylie_Normal]그렇지 않고서야 이렇게 빨리 증가할 리가 없어.	[!Sentence][!Dialog][!speaker:Kylie_Normal]否则不可能如此快速增长。
 #13496	[!Sentence][!Dialog][!speaker:Anne_Smile]안전하게 뒤에서 따라가면서 놓치지 않고 잘 해낼게요.	[!Sentence][!Dialog][!speaker:Anne_Smile]我会好好跟在你们后面，一个不落地好好做的。
-#13497	[!Sentence]시온에게 '에너지 추출기'를 줍니다. 하의 주머니에 착용한 기존 착용 장비는 사용할 수 없습니다.	[!Sentence]将「能量提取仪」递给席翁。在裤兜里的原装备将无法使用。
+#13497	[!Sentence]시온에게 '에너지 추출기'를 줍니다. 하의 주머니에 착용한 기존 착용 장비는 사용할 수 없습니다.	[!Sentence]将「异能提取仪」递给席翁。在裤兜里的原装备将无法使用。
 #13500	[!Sentence][!Dialog][!speaker:Kylie_Normal]요즘 스푼교다 백호파다 온통 난리다 보니 제작할 재료 물량이 넉넉지 못해.	[!Sentence][!Dialog][!speaker:Kylie_Normal]最近又是勺子教又是白虎组的各种生事，所以没有多余的素材来制作它。
 #13501	[!Sentence][!Objective]'번개' 에너지 표본 추출하기	[!Sentence][!Objective]提取「闪电」能量样本
 #13502	[!Sentence][!Dialog][!speaker:Kylie_Rage]하아... 어느새 이 지경인 거야...	[!Sentence][!Dialog][!speaker:Kylie_Normal]哈啊...怎么到这种地步了...
 #13503	[!Sentence][!Dialog][!speaker:Albus_Laugh]앤 양. 잘 부탁해.	[!Sentence][!Dialog][!speaker:Albus_Laugh]小安。拜托了。
-#13505	[!Sentence][!Dialog][!speaker:Kylie_Smile]『에너지 추출기』는 사용 횟수가 정해져 있으니 적절하게 사용해줘.	[!Sentence][!Dialog][!speaker:Kylie_Normal]「能量提取仪」有使用次数限制，所以请记得适量使用。
+#13505	[!Sentence][!Dialog][!speaker:Kylie_Smile]『에너지 추출기』는 사용 횟수가 정해져 있으니 적절하게 사용해줘.	[!Sentence][!Dialog][!speaker:Kylie_Normal]「异能提取仪」有使用次数限制，所以请记得适量使用。
 #13506	[!Sentence][!Choice]앤	[!Sentence][!Choice]安
 #13507	[!Sentence][!BalloonChat][!speaker:Heissing]보기만 해도 질리는군...	[!Sentence][!BalloonChat][!speaker:Heissing]只看一眼就觉得够够的。
 #13508	[!Sentence][!Dialog][!speaker:Kylie_Rage]별로 좋지 않아. 분명 지난주에는 이 정도까지는 아니었는데...	[!Sentence][!Dialog][!speaker:Kylie_Normal]情况不太好。上周明明还没到这种地步。
@@ -5431,16 +5431,16 @@
 #13522	[!Sentence][!Dialog][!speaker:Albus_Think][colour='FFFFFF00']'내가 하나 가져가고 나머지 두개는 누굴 줘야 할까...'	[!Sentence][!Dialog][!speaker:Albus_Think][colour='FFFFFF00']（我拿走一个，剩下两个该给谁呢...）
 #13523	[!Sentence][!Dialog][!speaker:Irene_Smile]걱정 마라. 알버스 군.	[!Sentence][!Dialog][!speaker:Irene_Smile]你就放心吧。阿尔伯斯。
 #13524	[!Sentence][!Dialog][!speaker:Albus_Laugh]알겠습니다. 카일리 씨.	[!Sentence][!Dialog][!speaker:Albus_Laugh]明白啦。凯莉。
-#13527	[!Sentence]앤에게 '에너지 추출기'를 줍니다. 하의 주머니에 착용한 기존 착용 장비는 사용할 수 없습니다.	[!Sentence]将「能量提取仪」递给安。在裤兜里的原装备将无法使用。
+#13527	[!Sentence]앤에게 '에너지 추출기'를 줍니다. 하의 주머니에 착용한 기존 착용 장비는 사용할 수 없습니다.	[!Sentence]将「异能提取仪」递给安。在裤兜里的原装备将无法使用。
 #13530	[!Sentence][!Choice]아이린	[!Sentence][!Choice]艾琳
 #13532	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]야간이라고 특정할 수 있는 뭔가 있는 건가요?	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]你特指夜里的理由是什么呢？
 #13533	[!Sentence][!Dialog][!speaker:Heissing_Smile]따라서 5가지 속성의 정보만 있으면 나머지 속성의 수치를 충분히 유추할 수 있지.	[!Sentence][!Dialog][!speaker:Heissing_Smile]所以只要有了其中5种信息就可以推断出剩余那一种数据了。
 #13534	[!Sentence][!Dialog][!speaker:Albus_Think][colour='FFFFFF00']'마지막 하나는 누구에게 맡기지...'	[!Sentence][!Dialog][!speaker:Albus_Think][colour='FFFFFF00']（最后一个该交给谁呢...）
 #13537	[!Sentence][!Dialog][!speaker:Heissing_Smile]'여기까지 와서 이런 일을 하게 될 줄이야.... 삶도 각박하군.'	[!Sentence][!Dialog][!speaker:Heissing_Smile]（我竟然沦落到这里来做这种事...生活不易啊。）
 #13541	[!Sentence][!Objective]'얼음' 에너지 표본 추출하기	[!Sentence][!Objective]提取「寒冰」能量样本
-#13542	[!Sentence][!Dialog][!speaker:Irene_Surprise]에너지 추출량을 늘리면 되지 않는가?	[!Sentence][!Dialog][!speaker:Irene_Surprise]加大能量提取效率不就可以了吗？
+#13542	[!Sentence][!Dialog][!speaker:Irene_Surprise]에너지 추출량을 늘리면 되지 않는가?	[!Sentence][!Dialog][!speaker:Irene_Surprise]加大异能提取效率不就可以了吗？
 #13543	[!Sentence][!Dialog][!speaker:Kylie_Normal]이 구역은 낮과 밤의 출몰하는 개체가 다른 편이야. 현재 개체 수에 비해 높은 축적량이 보인다면 당연히 밤인 거지.	[!Sentence][!Dialog][!speaker:Kylie_Normal]这地区白天黑夜出没的个体是有差别的。若是按照现在的个体数量，检测出了更高的储蓄量的话，那当然是夜里的那些了。
-#13544	[!Sentence]헤이싱에게 '에너지 추출기'를 줍니다. 하의 주머니에 착용한 기존 착용 장비는 사용할 수 없습니다.	[!Sentence]将「能量提取仪」递给黑星。在裤兜里的原装备将无法使用。
+#13544	[!Sentence]헤이싱에게 '에너지 추출기'를 줍니다. 하의 주머니에 착용한 기존 착용 장비는 사용할 수 없습니다.	[!Sentence]将「异能提取仪」递给黑星。在裤兜里的原装备将无法使用。
 #13545	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]갑자기 이렇게 된 원인을 알 수 있을까요?	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]知道是因为什么才会突然变成这样的吗？
 #13546	[!Sentence][!Dialog][!speaker:Albus_Normal]시온. 야수들은 최대한 피해서 에너지 추출에 집중하자.	[!Sentence][!Dialog][!speaker:Albus_Normal]席翁。我们尽量避开野兽去提取能量吧。
 #13547	[!Sentence][!Objective]'대지' 에너지 표본 추출하기	[!Sentence][!Objective]提取「大地」能量样本
@@ -5464,16 +5464,16 @@
 #13574	[!Sentence][!Dialog][!speaker:Irene_Think]음... 	[!Sentence][!Dialog][!speaker:Irene_Think]哦...
 #13575	[!Sentence][!Objective]'물' 에너지 표본 추출하기	[!Sentence][!Objective]提取「水」能量样本
 #13576	[!Sentence][!VictoryCondition]서로 다른 이능석 표본 5개를 확보하시오.	[!Sentence][!VictoryCondition]请带来5种不同类别的异能石样本。
-#13577	[!Sentence][!Dialog][!speaker:Albus_Normal]아이린 씨. 잘 부탁합니다. 이 에너지 추출기는 아이린 씨에게 맡길게요.	[!Sentence][!Dialog][!speaker:Albus_Normal]艾琳。拜托了。这台能量提取仪就交给艾琳你了。
+#13577	[!Sentence][!Dialog][!speaker:Albus_Normal]아이린 씨. 잘 부탁합니다. 이 에너지 추출기는 아이린 씨에게 맡길게요.	[!Sentence][!Dialog][!speaker:Albus_Normal]艾琳。拜托了。这台异能提取仪就交给艾琳你了。
 #13578	[!Sentence][!Dialog][!speaker:Anne_Smile]'헤이싱 씨... 진짜 보기와 다르구나.'	[!Sentence][!Dialog][!speaker:Anne_Smile]（黑星...真的是人不可貌相呢。）
 #13581	[!Sentence][!Dialog][!speaker:Irene_Surprise]이능석은 총 6타입이 아닌가?	[!Sentence][!Dialog][!speaker:Irene_Surprise]异能石总共有6种不是吗？
-#13582	[!Sentence][!Dialog][!speaker:Kylie_Normal]현재 내가 가져온『에너지 추출기』는 총 4개야.	[!Sentence][!Dialog][!speaker:Kylie_Normal]目前我带来的「能量提取仪」总共有4个。
+#13582	[!Sentence][!Dialog][!speaker:Kylie_Normal]현재 내가 가져온『에너지 추출기』는 총 4개야.	[!Sentence][!Dialog][!speaker:Kylie_Normal]目前我带来的「异能提取仪」总共有4个。
 #13584	[!Sentence][!Dialog][!speaker:Kylie_Normal]현재 이 지역의 에너지 축적 상태를 파악하려면 최소한 5개의 다른 타입의 이능석으로부터 추출된 에너지가 필요해.	[!Sentence][!Dialog][!speaker:Kylie_Normal]想要探明当前这一地区的能量储存状态，至少需要5种不同类别的异能石中提取的能量。
 #13587	[!Sentence][!Dialog][!speaker:Kylie_Normal]그럼 하나는 내가 가져갈 테니 나머지 사람에게 나눠줘.	[!Sentence][!Dialog][!speaker:Kylie_Normal]那我带走一个，剩下的你分给大家吧。
-#13588	[!Sentence][!VictoryCondition]이능석 표본 확보를 위한 에너지 추출기 부족 시	[!Sentence][!VictoryCondition]没有提取异能石样本的能量提取仪时
+#13588	[!Sentence][!VictoryCondition]이능석 표본 확보를 위한 에너지 추출기 부족 시	[!Sentence][!VictoryCondition]没有提取异能石样本的异能提取仪时
 #13589	[!Sentence][!Dialog][!speaker:Heissing_Normal]약속대로 도와주마.	[!Sentence][!Dialog][!speaker:Heissing_Normal]说好了要帮你的。
 #13591	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]그렇군요...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]原来如此啊...
-#13592	[!Sentence]아이린에게 '에너지 추출기'를 줍니다. 하의 주머니에 착용한 기존 착용 장비는 사용할 수 없습니다.	[!Sentence]将「能量提取仪」递给艾琳。在裤兜里的原装备将无法使用。
+#13592	[!Sentence]아이린에게 '에너지 추출기'를 줍니다. 하의 주머니에 착용한 기존 착용 장비는 사용할 수 없습니다.	[!Sentence]将「异能提取仪」递给艾琳。在裤兜里的原装备将无法使用。
 #13593	[!Sentence][!Dialog][!speaker:Irene_Smile2]'이 구역이면 야샤와 도로리인가...'	[!Sentence][!Dialog][!speaker:Irene_Smile2]（这地方的话除了夜叉就是多罗利大王吗...）
 #13596	[!Sentence][!Dialog][!speaker:Irene_Think]'도대체... 어떻게 아는 거지... 공부할 타입이 절대 아닌데...'	[!Sentence][!Dialog][!speaker:Irene_Think]（到底是...怎么知道这些的呢...看起来也不是个爱学习的样子啊...）
 #13597	[!Sentence][!Dialog][!speaker:Kylie_Normal]방금 같이 돌아다녔으니 하는 말이야. 그 정도 개체 수로 이렇게 증가할 리가 없어.	[!Sentence][!Dialog][!speaker:Kylie_Normal]刚才咱们也一起见识过了。仅凭那些个体数量，不可能骤增成现在这种地步的。
@@ -5487,7 +5487,7 @@
 #13618	[!Sentence][!Choice]구역 내 야수를 모두 제압하시오.	[!Sentence][!Choice]制服地盘里的野兽。
 #13620	[!Sentence][!Objective]야수 우두머리를 제압하시오.	[!Sentence][!Objective]制服野兽头领。
 #13621	[!Sentence][!Dashboard:Counter]남은 야샤 수	[!Sentence][!Dashboard:Counter]剩余夜叉数
-#13625	[!Sentence][!Dashboard:Counter]에너지 추출 가능 횟수	[!Sentence][!Dashboard:Counter]能量提取使用次数
+#13625	[!Sentence][!Dashboard:Counter]에너지 추출 가능 횟수	[!Sentence][!Dashboard:Counter]异能提取使用次数
 #13626	[!Sentence][!Dialog][!speaker:Heissing_Normal]훗...	[!Sentence][!Dialog][!speaker:Heissing_Normal]呼...
 #13628	[!Sentence][!Dialog][!speaker:Heissing_EyeClose]죽기 딱 좋은 날이로군.	[!Sentence][!Dialog][!speaker:Heissing_EyeClose]今天是去死的好日子啊。
 #13630	[!Sentence][!Dialog][!speaker:Gangster_SpoonAssualt_Normal]죄가 없다니... 발할라에 기대어 그냥 살아가는 자들입니다.	没有罪啊...他们只是依靠巴赫拉生活的人们罢了。
@@ -5723,7 +5723,7 @@
 #13870	[!Sentence][!Dialog][!speaker:EmptySubTitle_]생명체의 유전자 정보에 의한 발현으로 유전자 이식을 통해 타인에게 부여할 수 있음이 증명된다.	[!Sentence][!Dialog]据研究，根据生命体的遗传信息触发的超能力，是可以通过基因移植转给他人的。
 #13871	[!Sentence][!Dialog][!speaker:EmptySubTitle_]이러한 관념은 오래전부터 이어져 대제국 '아테르'의 사회 제도에도 반영되어 있었다.	这种观念从很久之前就开始流传，如今已经反映到了「阿泰尔」帝国的社会制度当中。
 #13872	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]해당 구역에서의 야수 사냥 시 얻은 자원들과 재료들을	[!Sentence][!Subtitle]允许将该地区狩猎所得的资源和原素材
-#13873	[!Sentence][!Dialog][!speaker:EmptySubTitle_]에너지 추출 과정의 간편화와 추출 장비의 휴대성이 강화되면서...	[!Sentence][!Dialog]随着能量提取流程的简便化和提取设备的可携带性加强...
+#13873	[!Sentence][!Dialog][!speaker:EmptySubTitle_]에너지 추출 과정의 간편화와 추출 장비의 휴대성이 강화되면서...	[!Sentence][!Dialog]随着异能提取流程的简便化和提取设备的可携带性加强...
 #13874	[!Sentence][!Dialog][!speaker:EmptySubTitle_]근대에 들어 '『이능력』 = 『에너지』' 라는 것이 증명된다.	[!Sentence][!Dialog]最近，「异能=能量」这一理论被论证了出来。
 #13875	[!Sentence][!Dialog][!speaker:EmptySubTitle_]『힘의 공명』은 과도하게 사물에 축적된 에너지가 서로 공명하여 축적된 에너지가 증폭되는 현상으로	[!Sentence][!Dialog]「力量的共鸣」是指物体中积累的过量的能量，相互引起共鸣，使其放大的现象，
 #13876	[!Sentence][!Dialog][!speaker:EmptySubTitle_]『이능석』의 발견은 부족한 자원 확보 경쟁으로 지친 세계에 새로운 대체 에너지로 주목받으며 『이능력의 자원화』 연구는 다시 한번 많은 지원을 받는다.	[!Sentence][!Dialog]「异能石」的发现让这个饱受资源竞争影响的世界看到了新能源的可能，「异能的资源化」研究重新受到了广泛的关注和支持。
@@ -5751,7 +5751,7 @@
 #13898	[!Sentence][!Dialog][!speaker:EmptySubTitle_]얼마 지나지 않아 인류는 『이능석』으로부터 사용 가능한 에너지로 추출하는 데 성공하였고...	[!Sentence][!Dialog]没过多久，人类成功从「异能」中提取出了可用的能量...
 #13899	[!Sentence][!Dialog][!speaker:EmptySubTitle_]1. 이능력을 축적할 수 있는 광물들이 밀집한 장소	[!Sentence][!Dialog]1. 可储存异能的矿物密集地点
 #13900	[!Sentence][!Dialog][!speaker:EmptySubTitle_]『리치 베인』에서는 다수의 『이능석』이 꾸준히 출현한다.	[!Sentence][!Dialog]「富矿」中持续产出大量的「异能石」。
-#13901	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]결과에 따라 이능석이 과도하게 밀집되면 광석의 에너지 추출을 늘리거나	[!Sentence][!Subtitle]根据检查结果，要么提高异能石过度密集区的矿石能量提取力度
+#13901	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]결과에 따라 이능석이 과도하게 밀집되면 광석의 에너지 추출을 늘리거나	[!Sentence][!Subtitle]根据检查结果，要么提高异能石过度密集区的矿石异能提取力度
 #13904	[!Dialog][!speaker:Albus_Think]다들 한동안 정신없이 임무 수행하느라 힘들었을 텐데...	[!Dialog][!speaker:Albus_Think]大家这段时间不间断地做事都辛苦了...
 #13905	[!Dialog]아이린의 제안을 수락한다.	[!Dialog]接受艾琳的提案。
 #13906	[!Dialog]아이린의 제안을 거절한다.	[!Dialog]拒绝艾琳的提案。
@@ -14674,8 +14674,8 @@
 #24758	[!DialogQuest][!speaker:Albus_Normal]개인이 발급받으려면 각 지구에서 열리는 공식 사냥 대회에서 입상 기록이 있어야 해요.	[!DialogQuest][!speaker:Albus_Normal]个人想要签发的话是需要在各个地区的狩猎大赛上获得记录。
 #24759	[!DialogQuest][!speaker:Camila_Smile]그런 거구나.	[!DialogQuest][!speaker:Camila_Smile]原来如此。
 #24760	[!DialogQuest][!speaker:Albus_Normal]네. 그런데 '사냥 허가증' 이야기는 왜 갑자기 하신 건가요?	[!DialogQuest][!speaker:Albus_Normal]是的。但是为什么突然提起「狩猎许可证」呢？
-#24761	[!DialogQuest][!speaker:Camila_Smile]아... 최근 중개소에 이능석 핵을 원하는 요청이 몇몇 들어와서 그래.	[!DialogQuest][!speaker:Camila_Smile]啊...最近在中介所上有几个要异能石之核的请求。
-#24762	[!DialogQuest][!speaker:Albus_Surprise]이능석 핵이요?	[!DialogQuest][!speaker:Albus_Surprise]异能石之核吗？
+#24761	[!DialogQuest][!speaker:Camila_Smile]아... 최근 중개소에 이능석 핵을 원하는 요청이 몇몇 들어와서 그래.	[!DialogQuest][!speaker:Camila_Smile]啊...最近在中介所上有几个要异能石核心的请求。
+#24762	[!DialogQuest][!speaker:Albus_Surprise]이능석 핵이요?	[!DialogQuest][!speaker:Albus_Surprise]异能石核心吗？
 #24763	[!DialogQuest][!speaker:Camila_Normal]그래. 보통 그 정도 순도의 이능석 에너지를 추출하려면 철의 숲 안으로 더 들어가야 하는데...	[!DialogQuest][!speaker:Camila_Normal]是啊，想要提取出那种纯度的异能石能量是需要在更深一步的进入铁的森林中的...
 #24764	[!DialogQuest][!speaker:Camila_Smile]너도 알다시피 이 동네 트러블슈터분들은 진입조차 못 하는 현실이라 물어봤어.	[!DialogQuest][!speaker:Camila_Smile]你也知道这里的纷争终结者连进入都不能，所以就问问看看的。
 #24765	[!DialogQuest][!speaker:Camila_Normal]그런데 너희들같이 유능한 팀도 못 들어간다니 아쉽네.	[!DialogQuest][!speaker:Camila_Normal]但是没想到像你们这么优秀的队伍都无法进入。
@@ -14684,7 +14684,7 @@
 #24768	[!DialogQuest][!speaker:Camila_Normal]'사냥 허가증'이 없으면 철의 숲 내부로 들어가면 안 돼. 불법이야.	[!DialogQuest][!speaker:Camila_Normal]没有「狩猎许可证」是不能进去的，那是违法的。
 #24769	[!DialogQuest][!speaker:Albus_Normal]이번에 절 가르쳐주시던 트러블슈터 선배님이 잠시 저희 회사에 합류하셨어요.	[!DialogQuest][!speaker:Albus_Normal]教导我的纷争终结者前辈暂时进入了我们的公司。
 #24770	[!DialogQuest][!speaker:Albus_Laugh]그분이 '사냥 허가증'을 보유하고 계세요. 그래서 가능합니다.	[!DialogQuest][!speaker:Albus_Laugh]他有「狩猎许可证」，所以是可以进入的。
-#24771	[!DialogQuest][!speaker:Camila_Normal]그래? 잘 됐다. 그럼 불꽃 핵도 가능할까?	[!DialogQuest][!speaker:Camila_Normal]是吗？那正好呢。那么能采取火花之核吗？
+#24771	[!DialogQuest][!speaker:Camila_Normal]그래? 잘 됐다. 그럼 불꽃 핵도 가능할까?	[!DialogQuest][!speaker:Camila_Normal]是吗？那正好呢。那么能采取火花核心吗？
 #24772	[!DialogQuest][!speaker:Albus_Normal]네. 저희야 언제나 보수만 확실하다면 괜찮습니다.	[!DialogQuest][!speaker:Albus_Normal]是的，只要给我们合适的报酬就可以了。
 #24773	[!DialogQuest][!speaker:Camila_Smile]그래. 보수는 이렇게 줄게. 어때?	[!DialogQuest][!speaker:Camila_Smile]好的。这多的报酬怎么样？
 #24774	[!DialogQuest][!speaker:Camila_Normal]알버스 군. 요즘 너한테 도는 안 좋은 소문이 있는 것 알아?	[!DialogQuest][!speaker:Camila_Normal]阿尔伯斯，你知道最近有和你有关的不好的传闻吗？
@@ -14706,7 +14706,7 @@
 #24790	[!DialogQuest][!speaker:Albus_Disappoint]사실 여러 이유로 같이하시는 분들 월급도 많이 못 드리고 야근도 많이 하셔서 죄송할 뿐인데...	[!DialogQuest][!speaker:Albus_Disappoint]事实上连一起工作的人的工资都没能充分的给，并且让他们加班，对他们很抱歉呢...
 #24791	[!DialogQuest][!speaker:Camila_Smile]너희를 싫어하는 사람들은 그런 건 관심 없겠지.	[!DialogQuest][!speaker:Camila_Smile]讨厌你们的人不会关心这些的。
 #24792	[!DialogQuest][!speaker:Camila_Normal]내가 괜한 말을 했네.	[!DialogQuest][!speaker:Camila_Normal]看来我说了没用的话。
-#24793	[!DialogQuest][!speaker:Camila_Normal]일단 일 이야기로 돌아갈까? 이번 일은 서리 핵을 가져다 줬으면 해.	[!DialogQuest][!speaker:Camila_Normal]先回到工作的事吧？这次的委托是要霜雪之核。
+#24793	[!DialogQuest][!speaker:Camila_Normal]일단 일 이야기로 돌아갈까? 이번 일은 서리 핵을 가져다 줬으면 해.	[!DialogQuest][!speaker:Camila_Normal]先回到工作的事吧？这次的委托是要霜雪核心。
 #24794	[!DialogQuest][!speaker:Camila_Smile]내가 꺼낸 말이지만 너무 신경 쓰지 마. 어차피 다 지나가는 소문일 뿐이야.	[!DialogQuest][!speaker:Camila_Smile]虽然是我提起来的，但不要太在意了。反正这些传闻都会过去的。
 #24795	[!DialogQuest][!speaker:Camila_Smile]자. 보수는 이렇게 줄게. 어때?	[!DialogQuest][!speaker:Camila_Smile]来，这次给这多的报酬怎么样？
 #24796	[!DialogQuest][!speaker:Camila_Normal]시온. 너 요즘 남자랑 사귀니?	[!DialogQuest][!speaker:Camila_Normal]席翁，你最近也在和男人见面吗？
@@ -14729,14 +14729,14 @@
 #24813	[!DialogQuest][!speaker:Camila_Smile]그래. 먹보 시온 님의 말씀 잘 알겠습니다.	[!DialogQuest][!speaker:Camila_Smile]知道了，席翁你个贪吃鬼～
 #24814	[!DialogQuest][!speaker:Sabana_Smile]그러니까 바쁘더라도 가끔 놀러 와. 한동안 잘 놀러 오다가 안 오면 누구나 섭섭해진다.	[!DialogQuest][!speaker:Sabana_Smile]所以即使很忙也偶尔来玩吧。好一阵子没来，都变得失落了。
 #24815	[!DialogQuest][!speaker:Sion_Normal]알았어. 그럼 또 귀염둥이 시온이 놀러 와 드리지요! 누님들!	[!DialogQuest][!speaker:Sion_Normal]知道了。那么可爱的席翁就经常来驾到吧！大姐们！
-#24816	[!DialogQuest][!speaker:Camila_Smile]그래. 그리고 다음에 올 때는 섬광 핵을 부탁해!	[!DialogQuest][!speaker:Camila_Smile]嗯嗯。还有下次来的时候别忘了闪光之核！
-#24817	[!DialogQuest][!speaker:Sion_Surprise]섬광 핵??	[!DialogQuest][!speaker:Sion_Surprise]闪光之核？？
-#24818	[!DialogQuest][!speaker:Camila_Smile]그래. 너희 사장님이 이제 이능석 핵 등급 의뢰를 받겠다고 하셨어.	[!DialogQuest][!speaker:Camila_Smile]是啊，你们的老板说能接异能石之核的委托了的。
+#24816	[!DialogQuest][!speaker:Camila_Smile]그래. 그리고 다음에 올 때는 섬광 핵을 부탁해!	[!DialogQuest][!speaker:Camila_Smile]嗯嗯。还有下次来的时候别忘了闪光核心！
+#24817	[!DialogQuest][!speaker:Sion_Surprise]섬광 핵??	[!DialogQuest][!speaker:Sion_Surprise]闪光核心？？
+#24818	[!DialogQuest][!speaker:Camila_Smile]그래. 너희 사장님이 이제 이능석 핵 등급 의뢰를 받겠다고 하셨어.	[!DialogQuest][!speaker:Camila_Smile]是啊，你们的老板说能接异能石核心的委托了的。
 #24819	[!DialogQuest][!speaker:Sion_Stare]'알버스 녀석... 의뢰를 줄일 생각은 하지 않고...'	[!DialogQuest][!speaker:Sion_Stare]（阿尔伯斯那家伙...竟然不想着去减少委托...）
 #24820	[!DialogQuest][!speaker:Camila_Smile]불만이 있으면 자기가 직접 회사 사장님에게 말하기~	[!DialogQuest][!speaker:Camila_Smile]如果有不满，就去跟公司老板说吧～
 #24821	[!DialogQuest][!speaker:Sion_Laugh]불만은 무슨~ 사장님이 하라면 해야지.	[!DialogQuest][!speaker:Sion_Laugh]怎么会有呢～老板说去做就要去做了的。
 #24822	[!DialogQuest][!speaker:Camila_Smile]그래. 그럼 이번 보수는 이렇게 할게.	[!DialogQuest][!speaker:Camila_Smile]好吧，那这次的报酬就这样了。
-#24823	[!DialogQuest][!speaker:Camila_Normal]이번 요청 물품은 안개 핵. 괜찮겠지?	[!DialogQuest][!speaker:Camila_Normal]这次想要委托的是雾霭之核，没关系吧？
+#24823	[!DialogQuest][!speaker:Camila_Normal]이번 요청 물품은 안개 핵. 괜찮겠지?	[!DialogQuest][!speaker:Camila_Normal]这次想要委托的是雾霭核心，没关系吧？
 #24824	[!DialogQuest][!speaker:Albus_Normal]네. 물품이 확보되는 대로 다시 찾아뵙겠습니다.	[!DialogQuest][!speaker:Albus_Normal]没问题，获取了物品就来找你。
 #24825	[!DialogQuest][!speaker:Camila_Normal]아이린. 요즘도 회사는 다닐 만해?	[!DialogQuest][!speaker:Camila_Normal]艾琳。最近公司怎么样？
 #24826	[!DialogQuest][!speaker:Irene_Normal]응. 꽤 익숙해졌어.	[!DialogQuest][!speaker:Irene_Normal]熟悉很多了。
@@ -14755,7 +14755,7 @@
 #24839	[!DialogQuest][!speaker:Camila_Smile]전에 네가 날 구해줬던 것 잊지 않아.	[!DialogQuest][!speaker:Camila_Smile]我是不会忘记之前你所救助我的那个事实。
 #24840	[!DialogQuest][!speaker:Camila_Smile]그리고 정식 트러블슈터가 되어도 날 구해줄 거잖아. 난 그런 널 히어로라고 부를 거야.	[!DialogQuest][!speaker:Camila_Smile]并且尽管你成为了纷争终结者，你还是会来救我的不是吗？我会一直叫你为英雄的。
 #24841	[!DialogQuest][!speaker:Irene_Smile]고마워. 까밀라.	[!DialogQuest][!speaker:Irene_Smile]谢谢了。卡米拉。
-#24842	[!DialogQuest][!speaker:Camila_Normal]자. 그럼 히어로 아이린. 중개소는 폭풍 핵이 필요해. 그러니 잘 부탁해.	[!DialogQuest][!speaker:Camila_Normal]所以英雄艾琳，中介所需要暴风之核。那就拜托了。
+#24842	[!DialogQuest][!speaker:Camila_Normal]자. 그럼 히어로 아이린. 중개소는 폭풍 핵이 필요해. 그러니 잘 부탁해.	[!DialogQuest][!speaker:Camila_Normal]所以英雄艾琳，中介所需要暴风核心。那就拜托了。
 #24843	[!DialogQuest][!speaker:Irene_Normal]응. 맡겨줘.	[!DialogQuest][!speaker:Irene_Normal]嗯，交给我吧。
 #24844	[!DialogQuest][!speaker:Camila_Normal]레이 언니. 오랜만~☆	[!DialogQuest][!speaker:Camila_Normal]雷伊姐姐，好久不见～☆
 #24845	[!DialogQuest][!speaker:Ray_Normal]까밀라. 잘 지냈어?	[!DialogQuest][!speaker:Ray_Normal]卡米拉，过得好吗？
@@ -14778,7 +14778,7 @@
 #24862	[!DialogQuest][!speaker:Ray_Smile]이런... 일 맡아 온다고 말하고 시간이 벌써 이렇게 지났네.	[!DialogQuest][!speaker:Ray_Smile]真的是...时间过了这么久了呢。
 #24863	[!DialogQuest][!speaker:Ray_Smile2]까밀라. 이번 의뢰 설명해 줄래?	[!DialogQuest][!speaker:Ray_Smile2]卡米拉，能给我说明这次的委托吗？
 #24864	[!DialogQuest][!speaker:Camila_Surprise]아...	[!DialogQuest][!speaker:Sion_Surprise]啊...
-#24865	[!DialogQuest][!speaker:Camila_Normal]이번 요청 물품은 신록 핵이야.	[!DialogQuest][!speaker:Camila_Normal]这次的委托物品是新绿之核。
+#24865	[!DialogQuest][!speaker:Camila_Normal]이번 요청 물품은 신록 핵이야.	[!DialogQuest][!speaker:Camila_Normal]这次的委托物品是新绿核心。
 #24866	[!DialogQuest][!speaker:Camila_Smile]잘 부탁해. 레이 언니.	[!DialogQuest][!speaker:Camila_Smile]那就拜托了，雷伊姐姐。
 #24867	[!DialogQuest][!speaker:Sabana_Normal]언제나 $CompanyName$의 번영을 바랄게.	[!DialogQuest][!speaker:Sabana_Normal]不管何时都愿$CompanyName$的繁荣。
 #24868	[!DialogQuest][!speaker:Sabana_Normal]$CompanyName$! 의뢰 받을 수 있어?	[!DialogQuest][!speaker:Sabana_Normal]$CompanyName$！能接委托吗？
