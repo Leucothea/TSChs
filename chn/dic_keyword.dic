@@ -1002,7 +1002,7 @@
 #2227	[!ObjectInfo]정보상인	[!ObjectInfo]信息商人
 #2228	[!ObjectInfo]로빈	[!ObjectInfo]罗宾
 #2232	[!ObjectInfo]서버	[!ObjectInfo]服务器
-#2235	[!ObjectInfo]시온	[!ObjectInfo]���翁
+#2235	[!ObjectInfo]시온	[!ObjectInfo]席翁
 #2236	[!ObjectInfo]스컬	[!ObjectInfo]骷髅
 #2237	[!ObjectInfo]스틸헤드 시위꾼	[!ObjectInfo]铁头示威者
 #2238	[!ObjectInfo]스틸헤드 속도광	[!ObjectInfo]铁头速度狂人
@@ -1869,7 +1869,7 @@
 #4127	[!GuideMessage]$RosterName$ - 리더가 되었습니다.	[!GuideMessage]$RosterName$ - 成为队长。
 #4128	[!GuideMessage]$Vill$ Vill 을 소모하였습니다.	[!GuideMessage]花费了$Vill$Vill。
 #4129	[!Status]타격 공격 치명타 적중률	[!Status]打击攻击暴击率
-#4130	[!Status]대지 ���격 치명타 적중률	[!Status]大地攻击暴击率
+#4130	[!Status]대지 공격 치명타 적중률	[!Status]大地攻击暴击率
 #4131	[!Status]폭발 공격 치명타 적중률	[!Status]爆炸攻击暴击率
 #4132	[!Status]낙하 공격 치명타 적중률	[!Status]降落攻击暴击率
 #4133	[!Status]화염 공격 치명타 적중률	[!Status]火焰攻击暴击率
@@ -2502,7 +2502,7 @@
 #5031	[!SystemMessage]이 행동은 아군에게 피해를 줄 수 있습니다.!<br>이 행동을 계속 하시겠습니까?	[!SystemMessage]这个行为可伤害到队友！<br>还继续吗？
 #5032	[!SystemMessage]경고: 적군 회복 가능	[!SystemMessage]警告：可恢复敌人
 #5033	[!SystemMessage]이 행동은 적대 대상에게 피해를 줄 수 있습니다!<br>이 행동을 계속 하시겠습니까?	[!SystemMessage]这个行为可伤害敌对目标！<br>还继续吗？
-#5034	[!SystemMessage]이 행동으로 영향 받는 대상이 없습니다!<br>이 행���을 계속 하시겠습니까?	[!SystemMessage]这个行为无影响目标！<br>还继续吗？
+#5034	[!SystemMessage]이 행동으로 영향 받는 대상이 없습니다!<br>이 행동을 계속 하시겠습니까?	[!SystemMessage]这个行为无影响目标！<br>还继续吗？
 #5035	[!GuideMessage]어빌리티 사용	[!GuideMessage]使用技能
 #5036	[!GuideMessage]해당 어빌리티는 남은 행동력을 모두 소모합니다.	[!GuideMessage]该技能消耗所有剩余行动力。
 #5039	[!WordCollection]공격 가능 대상	[!WordCollection]可攻击的目标
@@ -3455,7 +3455,7 @@
 #6851	[!NpcVisitMessage][!speaker:Oleg]편히 둘러보시죠.	[!Npc]随便看看。
 #6852	[!NpcVisitMessage][!speaker:Pierto]최선의 방어는 공격이지.	[!Npc]最佳防御即为攻击。
 #6853	[!NpcVisitMessage][!speaker:Roberto]발할라의 트러블슈터. 로베르토다.	[!Npc]我是巴赫拉的纷争终结者。我叫罗伯托。
-#6854	[!NpcVisitMessage][!speaker:Roubaozi]먹는 ��� 남는 거다.	[!Npc]吃到嘴里的就是盈余。
+#6854	[!NpcVisitMessage][!speaker:Roubaozi]먹는 게 남는 거다.	[!Npc]吃到嘴里的就是盈余。
 #6856	[!NpcVisitMessage][!speaker:Sam]무슨 볼일 이라도?	[!Npc]有什么事情吗？
 #6857	[!NpcVisitMessage][!speaker:VHPD_ShooterStreet01]근무중 이상무	[!NpcVisitMessage][!speaker:VHPD_ShooterStreet02]执勤中，无异常
 #6858	[!NpcVisitMessage][!speaker:VHPD_ShooterStreet01]관련자만 출입가능합니다.	[!NpcVisitMessage][!speaker:VHPD_ShooterStreet02]只有相关人员才可以出入。
@@ -4524,7 +4524,7 @@
 #8149	[!WordCollection]획득한 아이템	[!WordCollection]获得的物品
 #8152	[!Ability]번개의 힘을 자신에게 부여하여 $ApplyBuff$ 상태가 됩니다.	[!Ability]将闪电之力赋予自己，变成$ApplyBuff$状态。
 #8153	[!Buff]복용하면 해당 상태 해제시 전투 불능이 됩니다.	[!Buff]服用后在该状态解除时变成无法战斗状态。
-#8154	[!GuideMessage]전기차 충전기는 공격 가능한 위험물 오브젝트입니다. 해당 오브젝트가 파괴되면 주위 반경 3 타일에 화염 피해를 입힙니다.<br><br>[colour='FFFFFF00']얼음 속성 피해를 입으면 폭발하지 않습���다.	[!GuideMessage]电动汽车充电器是可攻击的危险目标。该目标被破坏后给周围半径3格内的区域带来火焰伤害。<br><br>[colour='FFFFFF00']受到寒冰属性的伤害时不会爆炸。
+#8154	[!GuideMessage]전기차 충전기는 공격 가능한 위험물 오브젝트입니다. 해당 오브젝트가 파괴되면 주위 반경 3 타일에 화염 피해를 입힙니다.<br><br>[colour='FFFFFF00']얼음 속성 피해를 입으면 폭발하지 않습니다.	[!GuideMessage]电动汽车充电器是可攻击的危险目标。该目标被破坏后给周围半径3格内的区域带来火焰伤害。<br><br>[colour='FFFFFF00']受到寒冰属性的伤害时不会爆炸。
 #8155	[!GuideMessage]가스 주유기는 공격 가능한 위험물 오브젝트입니다. 해당 오브젝트가 파괴되면 주위 반경 4 타일에 화염 피해를 입힙니다.<br><br>[colour='FFFFFF00']얼음 속성 피해를 입으면 폭발하지 않습니다.	[!GuideMessage]毒气加油器是可攻击的危险目标。该目标被破坏后给周围半径4格内的区域带来火焰伤害。<br><br>[colour='FFFFFF00']受到寒冰属性的伤害时不会爆炸。
 #8156	[!GuideMessage]유독물 탱크는 공격 가능한 위험물 오브젝트입니다. 해당 오브젝트가 파괴되면 주위 반경 4 타일에 화염 피해를 입힙니다. 또한 피격을 입으면 6 타일에 유독 가스가 퍼져나갑니다.<br><br>[colour='FFFFFF00']얼음 속성 피해를 입으면 폭발하지 않습니다.	[!GuideMessage]有毒物品罐是可攻击的危险目标。该目标被破坏后给周围半径4格内的区域带来火焰伤害。并且受到伤害时往6格的范围内散布毒气。<br><br>[colour='FFFFFF00']受到寒冰属性的伤害时不会爆炸。
 #8157	[!GuideMessage][colour='FFFF5943']$MasteryName$[colour='FFFFFFFF'] 특성 추가 효과가 해제되었습니다.	[!GuideMessage][colour='FFFF5943']$MasteryName$[colour='FFFFFFFF']组合天赋效果被解除。
@@ -6108,7 +6108,7 @@
 #10382	[!DamageCondition]$Ability$(무방비 노출)	[!DamageCondition]$Ability$(无防备暴露)
 #10383	[!GuideMessage][colour='FFFFFFFF']어빌리티 변경[colour='FFFFE959']을 하기 위해서는 [colour='FFFFFFFF']추가 어빌리티[colour='FFFFE959']를 획득해야 합니다.<br><br>[colour='FFFFFFFF']추가 어빌리티[colour='FFFFE959']는 현재 클래스 혹은 상위 클래스의 [colour='FFFFFFFF']클래스 레벨[colour='FFFFE959']을 성장시켜 획득할 수 있습니다.	[!GuideMessage]为了进行[colour='FFFFFFFF']技能变更[colour='FFFFE959']，需要获得可变更的[colour='FFFFFFFF']附加技能[colour='FFFFE959']。<br><br>[colour='FFFFFFFF']附加技能[colour='FFFFE959']是根据[colour='FFFFFFFF']等级[colour='FFFFE959']的成长而逐步获取的。
 #10384	[!GuideMessage]%s 슬롯이 증가합니다.<br><br>어빌리티 편성은 캐릭터 정보창의 어빌리티 편성을 이용하셔야 합니다.	[!GuideMessage]增加%s栏。<br><br>请在角色信息界面使用技能调整功能来调整您的技能。
-#10385	[!GuideMessage]명중 ��, 적의 기력을 $CostBurnRatio$ 태우고, $CostBurnDamage$ 만큼 추가 피해를 줍니다.	[!GuideMessage]命中时，消耗敌人气力$CostBurnRatio$，并造成$CostBurnDamage$的额外伤害。
+#10385	[!GuideMessage]명중 시, 적의 기력을 $CostBurnRatio$ 태우고, $CostBurnDamage$ 만큼 추가 피해를 줍니다.	[!GuideMessage]命中时，消耗敌人气力$CostBurnRatio$，并造成$CostBurnDamage$的额外伤害。
 #10386	[!GuideMessage]목표 대상과의 거리가 멀어질수록 $White$1$Blue_ON$ 타일 당 적에게 입히는 피해량이 $DistanceAttackApplyAmountRatio$ 증가합니다.	[!GuideMessage]与目标对象之间的距离越远，每$White$1$Blue_ON$格对应的对敌人造成的伤害量增加$DistanceAttackApplyAmountRatio$。
 #10387	[!GuideMessage]무방비 노출 상태의 대상에게 입히는 피해량이 $NoCoverAttackApplyAmountRatio$ 증가합니다.	[!GuideMessage]对完全暴露状态下的目标造成的伤害量将会增加$NoCoverAttackApplyAmountRatio$。
 #10388	[!GuideMessage]명중 시 방어 불가	[!GuideMessage]命中时无法格挡
@@ -6811,7 +6811,7 @@
 #11550	[!Equipment]척탄 가방	[!Equipment]掷弹包
 #11551	[!GuideMessage]해당 지형에 $White$산성 구름$Blue_ON$이 발생합니다.	[!GuideMessage]在该地形上引发$White$酸性云$Blue_ON$。
 #11552	[!GuideMessage]해당 지형에 $White$회복 안개$Blue_ON$가 발생합니다.	[!GuideMessage]在该地形上引发$White$恢复雾霭$Blue_ON$。
-#11553	[!GuideMessage]대상이 이미 과충전 상태입니다.	[!GuideMessage]对方已经��充电状态。
+#11553	[!GuideMessage]대상이 이미 과충전 상태입니다.	[!GuideMessage]对方已经过充电状态。
 #11554	[!ItemEquipmentPosition]연금 가방	[!ItemEquipmentPosition]炼金包
 #11555	[!ItemEquipmentPosition]척탄 가방	[!ItemEquipmentPosition]掷弹包
 #11557	[!MasteryType]연금술사	[!MasteryType]炼金术士
@@ -7977,7 +7977,7 @@
 #13705	[!Mastery]얼음술사	[!Mastery]霜雪术士
 #13706	[!Mastery]세대를 거듭한 흉폭성의 집합체이지.	[!Mastery]世世代代重复的残暴集合体。
 #13707	[!Mastery]계승된 분노	[!Mastery]被继承的愤怒
-#13709	[!Mastery]살아남는 자가 승리한다.	[!Mastery]活下来的就是胜利��。
+#13709	[!Mastery]살아남는 자가 승리한다.	[!Mastery]活下来的就是胜利者。
 #13710	[!Mastery]강철 갑옷	[!Mastery]钢铁盔甲
 #13711	[!Mastery]헤드샷에 면역이 됩니다.	[!Mastery]免疫爆头。
 #13712	[!Mastery]닫혀 버린 마음은 힘으로 열 수 없다.	[!Mastery]紧闭的心灵无法用力量开启。
@@ -8940,7 +8940,7 @@
 #15127	[!WordCollection]온라인 모드	[!WordCollection]在线模式
 #15129	[!SystemNotice]$ZoneName$의 치안도가 100% 달성되었습니다.<br>아이템, 특성 획득 확률이 100% 증가합니다.<br>남은 미션 성공 횟수: $LeftMissionCount$	[!SystemNotice]$ZoneName$的治安指数达到100%。<br>物品、天赋的获得几率提高100%。<br>剩余任务成功次数：$LeftMissionCount$
 #15130	[!GuideMessage][colour='FFFFFF00']오프라인 모드로 게임을 진행합니다.[colour='FFFFFFFF']<br><br>해당 모드는 인터넷 연결이 원활하지 않은 유저를 위한 모드입니다. 따라서 온라인 모드와는 일정 부분에서 컨텐츠 구성의 차이가 있습니다.<br>인터넷 연결이 원활하지만 PC 사양이 낮은 유저의 경우, 온라인 모드보다 지연이 생길 수 있습니다. 따라서 인터넷 연결이 원활하고 부담이 되지 않는 플레이어 분들은 온라인 사용을 권장드립니다.<br><br><br>[colour='FFF3B0A8']스팀 인증 절차가 필요합니다.[colour='FFFFFFFF']<br>게임 진행 시, 인터넷 연결은 필요하지 않으나 최근 스팀 클라이언트 로그인 기록이 있는 PC 환경이어야 합니다. 따라서 스팀 계정이 로그 아웃될 경우, 스팀 로그인을 통한 인증이 필요합니다.<br><br>[colour='FFF3B0A8']온라인과 오프라인 호환에 관하여[colour='FFFFFFFF']<br>오프라인 모드에서 생성한 회사는 온라인 모드에서는 사용할 수 없습니다. 온라인 모드에서 생성한 회사는 온라인 모드의 회사 변경을 통하여 1회에 한해 오프라인으로 가져올 수 있습니다.<br><br>[colour='FFFFAA00']참고: 오프라인 모드를 원하지 않을 경우, 게임 시작화면에서 온라인 모드로 변경 가능합니다.	[!GuideMessage][colour='FFFFFF00']开始离线模式进行游戏。[colour='FFFFFFFF']<br><br>该模式适用于网络不佳的玩家。因此会在内容的构成上与在线模式有些差异。 <br>网络虽流畅但性能低的电脑有可能不会像在线模式那么流畅。因此建议网络既流畅，电脑性能又不低的玩家使用在线模式。<br><br><br>[colour='FFF3B0A8']需要Steam的认证。[colour='FFFFFFFF']<br>进行游戏时，虽然不需要网络的连接，但至少需要记录了最近登录过Stean的PC要求。所以Steam账户登出的情况下，需要再次登入Steam来进行认证。<br><br>[colour='FFF3B0A8']关于在线模式和离线模式的互换[colour='FFFFFFFF']<br>在离线模式生成的公司无法在在线模式使用。在线模式中制作的公司可通过在线模式的公司变更，仅限一次同步复制至离线模式。<br><br>[colour='FFFFAA00']参考：不希望使用离线模式时，可在游戏开始界面中变更为在线模式。
-#15131	[!GuideMessage][colour='FFFFFF00']온라인 모드로 게임을 진행합니다.[colour='FFFFFFFF']<br><br>온라인 모드는 장기적으로 유저 커뮤니티, 협력, 경쟁 컨텐츠를 제공 하기 위하여 제공되는 모드입니다.<br>해당 모드를 사용할 경우, 개발팀의 꾸준한 개선 내용과 버그 수정을 빠르게 적용 받으실 수 있습��다.<br><br>[colour='FFF3B0A8']인터넷 연결이 필요합니다.[colour='FFFFFFFF']<br>온라인 모드는 인터넷 연결을 항상 요구합니다. 현재 접속 서버를 자신의 지역과 가까운 서버로 선택해 주십시오.<br><br>각 서버간의 정보는 공유되지 않습니다.<br><br>[colour='FFF3B0A8']온라인과 오프라인 호환에 관하여[colour='FFFFFFFF']<br>온라인 모드에서 생성한 회사는 1회에 한해 오프라인으로 동기화 가능합니다.<br><br>[colour='FFFFAA00']참고: 온라인 모드를 원하지 않을 경우, 게임 시작화면에서 오프라인 모드로 변경 가능합니다.	[!GuideMessage][colour='FFFFFF00']开始在线模式进行游戏。[colour='FFFFFFFF']<br><br>在线模式是长期的为玩家提供用户社区、合作、竞争内容而提供的模式。<br>使用该模式时，可快速适用开发组不断改善的内容和修改的缺陷。<br><br>[colour='FFF3B0A8']需要网络连接。[colour='FFFFFFFF']<br>在线模式将不断地要求网路的连接。请选择与本区域较近的服务器为当前连接服务器。<br><br>各服务器间的情报将不会被共享。<br><br>[colour='FFF3B0A8']关于在线模式和离线模式的互换[colour='FFFFFFFF']<br>在离线模式生成的公司无法在在线模式使用。在线模式中制作的公司可通过在线模式的公司变更，仅限一次同步复制至离线模式。<br><br>[colour='FFFFAA00']参考：不希望使用在线模式时，可在游戏开始界面中变更为离线模式。
+#15131	[!GuideMessage][colour='FFFFFF00']온라인 모드로 게임을 진행합니다.[colour='FFFFFFFF']<br><br>온라인 모드는 장기적으로 유저 커뮤니티, 협력, 경쟁 컨텐츠를 제공 하기 위하여 제공되는 모드입니다.<br>해당 모드를 사용할 경우, 개발팀의 꾸준한 개선 내용과 버그 수정을 빠르게 적용 받으실 수 있습니다.<br><br>[colour='FFF3B0A8']인터넷 연결이 필요합니다.[colour='FFFFFFFF']<br>온라인 모드는 인터넷 연결을 항상 요구합니다. 현재 접속 서버를 자신의 지역과 가까운 서버로 선택해 주십시오.<br><br>각 서버간의 정보는 공유되지 않습니다.<br><br>[colour='FFF3B0A8']온라인과 오프라인 호환에 관하여[colour='FFFFFFFF']<br>온라인 모드에서 생성한 회사는 1회에 한해 오프라인으로 동기화 가능합니다.<br><br>[colour='FFFFAA00']참고: 온라인 모드를 원하지 않을 경우, 게임 시작화면에서 오프라인 모드로 변경 가능합니다.	[!GuideMessage][colour='FFFFFF00']开始在线模式进行游戏。[colour='FFFFFFFF']<br><br>在线模式是长期的为玩家提供用户社区、合作、竞争内容而提供的模式。<br>使用该模式时，可快速适用开发组不断改善的内容和修改的缺陷。<br><br>[colour='FFF3B0A8']需要网络连接。[colour='FFFFFFFF']<br>在线模式将不断地要求网路的连接。请选择与本区域较近的服务器为当前连接服务器。<br><br>各服务器间的情报将不会被共享。<br><br>[colour='FFF3B0A8']关于在线模式和离线模式的互换[colour='FFFFFFFF']<br>在离线模式生成的公司无法在在线模式使用。在线模式中制作的公司可通过在线模式的公司变更，仅限一次同步复制至离线模式。<br><br>[colour='FFFFAA00']参考：不希望使用在线模式时，可在游戏开始界面中变更为离线模式。
 #15132	[!SystemMessage]로컬 세이브 파일의 회사 슬롯이 가득 찼습니다.	[!SystemMessage]没有足够的离线模式的公司栏位。
 #15133	[!GuideMessage]해당 상태에서 오랜 시간 게임 진행이 되지 않는 유저분들은 스팀 커뮤니티(링크,버그게시판 버그제보토론글) 혹은 system@dandylion.co.kr 를 통해 알려주세요.<br>혹은 다음의 링크를 눌러 로그를 전송해 주십시오. 문제 상황을 빠르게 수정할 수 있도록 도움을 드리겠습니다. \[$SendLog$\]	[!GuideMessage]若玩家们持续发生目前状况并无法正常进行游戏时，请在Steam论坛(网址，bug上报论坛) 或者通过 system@dandylion.co.kr 邮箱告诉我们。<br>或者请通过以下网址发送Log日志。我们将努力尽快修复该错误。\[$SendLog$\]
 #15134	[!WordCollection]로그 전송	[!WordCollection]发送Log日志。
@@ -10634,7 +10634,7 @@
 #17459	[!LobbyIdleMessage][!speaker:Sion]사장님. 출동하기 전에 간단하게 요기라도 하고 가는 게 어때요?	[!LobbyIdleMessage][!speaker:Sion]老板，出动前简单的充饥再走怎么样？
 #17460	[!LobbyIdleMessage][!speaker:Sion]사장님. 찹쌀로 만든 꿀호떡. 먹고 싶지 않아?	[!LobbyIdleMessage][!speaker:Sion]老板，用糯米制作的蜂蜜糖饼。想不想尝尝？
 #17461	[!LobbyIdleMessage][!speaker:Sion]사장님. 간식은 책임지기로 했잖아.	[!LobbyIdleMessage][!speaker:Sion]老板，不是说会提供零食嘛。
-#17462	[!LobbyIdleMessage][!speaker:Sion]시원한 ��모밀 국수는 어때?	[!LobbyIdleMessage][!speaker:Sion]凉快的食物怎么样？
+#17462	[!LobbyIdleMessage][!speaker:Sion]시원한 냉모밀 국수는 어때?	[!LobbyIdleMessage][!speaker:Sion]凉快的食物怎么样？
 #17463	[!LobbyIdleMessage][!speaker:Sion]야근하게 되면 치킨시켜 먹자.	[!LobbyIdleMessage][!speaker:Sion]要上夜班的话，就吃炸鸡吧。
 #17464	[!LobbyIdleMessage][!speaker:Sion]이 정도로는 어림없습니다. 사장님.	[!LobbyIdleMessage][!speaker:Sion]这还不算什么。老板。
 #17465	[!LobbyIdleMessage][!speaker:Sion]사장님. 오늘도 잘 부탁해.	[!LobbyIdleMessage][!speaker:Sion]老板，今天也拜托了。
@@ -11025,7 +11025,7 @@
 #17891	[!LobbyIdleMessage][!speaker:Anne]이능석 합성을 연습하면 회사에 도움이 되겠지?	[!LobbyIdleMessage][!speaker:Anne]练习异能石合成的话是可以对公司有所帮助的吧？
 #17892	[!LobbyIdleMessage][!speaker:Anne]언제나 언니 오빠들에게 도움을 받고 있어...	[!LobbyIdleMessage][!speaker:Anne]每次都是哥哥姐姐们帮助我的...
 #17893	[!LobbyIdleMessage][!speaker:Anne]밀린 숙제는 언제 하지...	[!LobbyIdleMessage][!speaker:Anne]堆积的作业什么时候做呢...
-#17894	[!LobbyIdleMessage][!speaker:Anne]거주구 습격이라니 너무해...	[!LobbyIdleMessage][!speaker:Anne]袭击居���区也太过分了...
+#17894	[!LobbyIdleMessage][!speaker:Anne]거주구 습격이라니 너무해...	[!LobbyIdleMessage][!speaker:Anne]袭击居住区也太过分了...
 #17895	[!LobbyIdleMessage][!speaker:Anne]왜 모든 것을 폭력으로 해결하려고 할까...	[!LobbyIdleMessage][!speaker:Anne]为什么想要以暴力解决所有的事呢...
 #17896	[!LobbyIdleMessage][!speaker:Anne]나쁜 사람들은 혼나야 해.	[!LobbyIdleMessage][!speaker:Anne]坏人是应该受到教训的。
 #17897	[!LobbyIdleMessage][!speaker:Anne]너무 많은 사람들이 다치니 조금 지친다...	[!LobbyIdleMessage][!speaker:Anne]受到了伤害的人太多了，开始感觉疲劳了...
@@ -12277,7 +12277,7 @@
 #19402	[!Ability]작은 역병 숨결	[!Ability]小型瘟疫之气息
 #19403	[!Ability]대지 숨결을 날려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]喷吐瘟疫造成$DamageAmount$的$DamageType$伤害。
 #19404	[!Ability]작은 바람 숨결	[!Ability]小型风之气息
-#19405	[!Ability]바람 숨결을 날려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]喷吐强风造成$DamageAmount$��$DamageType$伤害。
+#19405	[!Ability]바람 숨결을 날려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]喷吐强风造成$DamageAmount$的$DamageType$伤害。
 #19406	[!Ability]작은 어둠 숨결	[!Ability]小型暗影之气息
 #19407	[!Ability]어둠 숨결을 날려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]喷吐黑暗造成$DamageAmount$的$DamageType$伤害。
 #19408	[!Ability]화염 숨결	[!Ability]火焰之气息
@@ -14148,7 +14148,7 @@
 #21766	[!Mastery]참격 속성 근접 공격 어빌리티	[!Mastery]斩击属性近身攻击技能
 #21767	[!Mastery]적을 공격하여 $Dead$으로 만들면, 반경 $Value$칸 내 아군은 $Buff$ 상태가 됩니다.	[!Mastery]攻击使敌人$Dead$时，半径$Value$格内的友军将触发$Buff$状态。
 #21768	[!Mastery]$Finish$ 효과가 발동하면, 누적된 $Great$ 횟수만큼 이전 공연 슬롯 효과를 다시 생성합니다.	[!Mastery]$Finish$效果发动时，根据累积的$Great$次数，重新生成等量的之前的演出效果。
-#21769	[!Mastery]생성되는 공연 효���는 최대 공연 슬롯 개수보다 $Value$개 적게 생성합니다.	[!Mastery]生成的演出效果比演出栏上限个数少$Value$个。
+#21769	[!Mastery]생성되는 공연 효과는 최대 공연 슬롯 개수보다 $Value$개 적게 생성합니다.	[!Mastery]生成的演出效果比演出栏上限个数少$Value$个。
 #21770	[!Mastery]이전 자신의 공격이 적중했던 적을 공격할 경우, $Stat$[이] $Value$ 상승하며 자신이 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]攻击之前自己攻击过的敌人时，$Stat$将增加$Value$且造成的伤害量将增加$Value2$。
 #21771	[!Mastery]$Ability$ 사용 시, 대상은 $Buff$ 상태가 됩니다.	[!Mastery]使用$Ability$时，对象将进入$Buff$状态。
 #21772	[!Mastery]적에게 공격을 적중시키면, 해당 적의 상태 효과를 모두 해제합니다.	[!Mastery]攻击击中敌人时，该敌人的状态效果将全部解除。
@@ -14572,7 +14572,7 @@
 #22214	[!Item]흑철 서리 가죽	[!Item]黑铁霜雪皮革
 #22216	[!Item]흑철 불꽃 가죽	[!Item]黑铁火花皮革
 #22218	[!Item]흑철 섬광 가죽	[!Item]黑铁闪光皮革
-#22219	[!Mastery]$Ability$로 $Machine$ 혹은 $HeavyArmored$인 적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]用$Ability$攻击$Machine$或$HeavyArmored$的敌���时，敌人的$Stat$将减少$Value$。
+#22219	[!Mastery]$Ability$로 $Machine$ 혹은 $HeavyArmored$인 적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]用$Ability$攻击$Machine$或$HeavyArmored$的敌人时，敌人的$Stat$将减少$Value$。
 #22239	[!Mastery]$Ability$의 사용 제한 횟수가 $Value$ 증가합니다.	[!Mastery]$Ability$的限制使用次数将增加$Value$。
 #22240	[!Mastery]공격 프로토콜 어빌리티	[!Mastery]攻击协议技能
 #22241	[!Mastery]지원 프로토콜 어빌리티	[!Mastery]支援协议技能
