@@ -6932,14 +6932,14 @@
 #15254	[!Sentence][!Title]난도질의 후성	[!Sentence][!Title]乱刀之侯成
 #15255	[!Sentence][!Dialog][!speaker:Gangster_Shandian_Normal]알겠습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]明白了。
 #15256	[!Sentence][!Title]동쪽 진입로	[!Sentence][!Title]东部入口
-#15257	[!Sentence][!Title]별빛 사거리 쉼터	[!Sentence][!Title]星光十字路口休息区
+#15257	[!Sentence][!Title]별빛 사거리 쉼터	[!Sentence][!Title]星光广场路口休息区
 #15258	[!Sentence][!Title]반짝이는 트윙클 잭	[!Sentence][!Title]晶亮的特温克杰
 #15259	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]그리고 장기전이 되면 이미 출동한 많은 분대는 어쩔 수 없이 우회로를 선택해 복귀하도록 명령이 내려질 예정이다.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]一旦进入持久战，就会出现让已出动的警队不得不选择迂回撤退的命令。
 #15260	[!Sentence]시장 골목과 거주구에 가까움	[!Sentence]离市场胡同和居民区近
-#15261	[!Sentence][!Title]별빛 사거리 주택가 골목	[!Sentence][!Title]星光十字路口住宅区胡同
+#15261	[!Sentence][!Title]별빛 사거리 주택가 골목	[!Sentence][!Title]星光广场路口住宅区胡同
 #15262	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Andrei_Normal]음. 이젠 두 번 다시 경찰에 연락하지 않겠군.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Andrei_Normal]嗯。这样你就再也不会报警了。
 #15263	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]후성. 참아. 네 녀석이 조직에 얼마나 열심인지 다 안다고.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]侯成你忍忍。你对组织有多上心，大家都有目共睹的。
-#15264	[!Sentence][!Title]별빛 사거리 고급 주택가	[!Sentence][!Title]星光十字路口高级住宅区
+#15264	[!Sentence][!Title]별빛 사거리 고급 주택가	[!Sentence][!Title]星光广场路口高级住宅区
 #15265	[!Sentence][!Title]그림자 샨띠엔	[!Sentence][!Title]影子闪电
 #15266	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Rage]'백호파 녀석들... 10년 전의 반복인가...'	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Rage]（白虎组的家伙们...这难道是要重复十年前的行径吗...）
 #15267	[!Sentence][!Dialog][!speaker:Albus_Think][colour='FFFFFF00']'현장 상황을 모르니 어디로 진입하는 것이 좋은지 알 수가 없구나...'	[!Sentence][!Dialog][!speaker:Albus_Think][colour='FFFFFF00']（不清楚现场状况，不知道该从哪里进入会比较好...）
@@ -6947,9 +6947,9 @@
 #15269	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]이곳을 빨리 탈환하지 않으면 장기전이 될 거다.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]若不能早日夺回此地，这将变成持久战。
 #15270	[!Sentence][!Title]서쪽 진입로	[!Sentence][!Title]西部入口
 #15271	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]현재 병력 분단을 피하기 위해 사거리 진입로에서 합류하는 것이 어떤가?	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]为了当前警力不再分散，在十字路口那里汇合，你看怎样？
-#15272	[!Sentence][!Title]별빛 사거리	[!Sentence][!Title]星光十字路口
+#15272	[!Sentence][!Title]별빛 사거리	[!Sentence][!Title]星光广场路口
 #15273	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]물론입니다. 보스는 '구룡회'와 계속 좋은 관계를 원하십니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]那当然了。我们首领还想和「九龙会」保持良好的关系呢。
-#15274	[!Sentence][!Title]별빛 사거리 거주구 옥상	[!Sentence][!Title]星光十字路口居民区屋顶
+#15274	[!Sentence][!Title]별빛 사거리 거주구 옥상	[!Sentence][!Title]星光广场路口居民区屋顶
 #15275	[!Sentence][!Dialog][!speaker:Albus_Serious]동의합니다. 제인 경감님. 현장의 합류 지점 정보를 부탁드립니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]我同意。珍警监。请你告知现场会合地点信息。
 #15276	[!Sentence][!Choice]서쪽 진입로	[!Sentence][!Choice]西部入口
 #15277	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]현장 상황이 급박하다. $CompanyName$	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]现在情况非常危急。$CompanyName$
@@ -8488,7 +8488,7 @@
 #17105	[!Dialog][!speaker:Don_Normal]다 지난 일입니다.	那都是过去的事了。
 #17107	[!Dialog][!speaker:Giselle_Smile]제가 무례했군요.	[!Dialog][!speaker:Giselle_Smile]是我失礼了。
 #17108	[!Dialog]지젤의 말이 끝나자 정적이 흘렀다.	[!Dialog]吉赛尔的话之后是一阵沉默。
-#17110	[!Dialog][!speaker:NewsCaster_Normal]오늘 저녁 7시, 별빛 사거리에서 발생한 백호파의 거리 점거는 트러블슈터 $CompanyName$와 경찰의 활약으로 현재는 정상화 되었습니다.	今晚7时，星光十字路口发生的白虎组占领大街的事件，在纷争终结公司$CompanyName$和警察的活跃下目前以渐渐平息下去。
+#17110	[!Dialog][!speaker:NewsCaster_Normal]오늘 저녁 7시, 별빛 사거리에서 발생한 백호파의 거리 점거는 트러블슈터 $CompanyName$와 경찰의 활약으로 현재는 정상화 되었습니다.	今晚7时，星光广场路口发生的白虎组占领大街的事件，在纷争终结公司$CompanyName$和警察的活跃下目前以渐渐平息下去。
 #17111	[!Dialog][!speaker:NewsCaster_Normal]발할라 경찰청은 시민들에게 최대한 백호파 조직원들과의 접촉을 피하고 발견 즉시 신고를 부탁하였습니다.	巴赫拉警察厅告诫广大市民们，尽量减少和白虎组成员们的接触，一旦发现该组织的行踪请立即通知警察厅。
 #17112	[!Dialog][!speaker:Giselle_Normal]중요 사건마다 $CompanyName$[가] 나오네요.	哪里有重要案件发生，就会有$CompanyName$[的]身影呢。
 #17113	[!Dialog][!speaker:Don_Smile]바로 맞은 편 사무실입니다.	你说的就是对面那个事务所。
@@ -10341,14 +10341,14 @@
 #19537	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Normal]그러다가 경찰들이 이 곳으로 집중되면 긁어 부스럼이야.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Normal]如果警察集中在这里就麻烦了。
 #19538	[!Sentence][!Objective]백호파를 제압하시오.	[!Sentence][!Objective]制服白虎组。
 #19539	[!Sentence][!Title]하늘 바람 거주구	[!Sentence][!Title]天风居民区
-#19540	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Normal]별빛 사거리는 계속 혼전이군.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Normal]星光十字路口还在持续混战中啊。
+#19540	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Normal]별빛 사거리는 계속 혼전이군.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Normal]星光广场路口还在持续混战中啊。
 #19543	[!Sentence][!Dialog][!speaker:Albus_Serious]경찰 분대는 방어선을 지켜주세요.	[!Sentence][!Dialog][!speaker:Albus_Serious]警察分队就请守护这防线吧。
 #19547	[!Sentence][!Dialog][!speaker:Albus_Serious]현재 현장 상황은 어떻습니까?	[!Sentence][!Dialog][!speaker:Albus_Serious]现在现场状态如何？
 #19550	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]적지 않은 백호파 조직원들이 쉼터 위주로 다수 배치되어 있습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]不少的白虎派成员被安排在休息区。
 #19551	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_Normal]우리가 숫자도 압도적인데 저 녀석들 밟아 버려도 되지 않나?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_Normal]我们的人数压倒性的多，直接攻击他们不就是了吗？
 #19552	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Normal]뭐. 간부들과 그 밑에 있는 녀석들이 알아서 하겠지.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Normal]嘛，干部和其下的小伙子们应该会看着办的吧。
 #19553	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Normal]방심하지 마. 경찰이 방어선을 구축하고 있다. 언제든 경찰들이 돌입할 가능성이 있다라는 거지.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Normal]别掉以轻心，警察正在建立防线。那说明警察随时都有可能突进。
-#19554	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_Normal]쳇. 이럴 줄 알았으면 별빛 사거리 쪽으로 지원했어야 했는데...	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_Normal]切。早知如此，我就去支援星光十字路口了。
+#19554	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_Normal]쳇. 이럴 줄 알았으면 별빛 사거리 쪽으로 지원했어야 했는데...	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_Normal]切。早知如此，我就去支援星光广场路口了。
 #19555	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Normal]우린 명령대로 경찰들이 이 곳을 통과하지 못하게 발목만 잡고 있으면 그만이야.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Normal]我们只需按照命令，妨碍警察无法通过这里就是了。
 #19556	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Normal]그냥 지금 상태가 서로에게 좋은 상황이겠지.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Normal]还是持续现在这个状态对双方都是好的。
 #19557	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_Normal]차라리 그랬으면 좋겠군. 가만히 있는 것도 지겨우니까.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_Normal]干脆那样就好了。闲着也腻烦了。
