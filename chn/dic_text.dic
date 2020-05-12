@@ -178,9 +178,9 @@
 #3271	[!Dialog]임금 지급을 잠시 미룬다.	[!Dialog]暂时推迟发放工资。
 #3281	[!Dialog]사무실 계약서	[!Dialog]办公室合同书
 #3300	[!Dialog]알버스는 돈이 건넨 음료를 마셨습니다.	[!Dialog]阿尔伯斯喝了敦递过来的饮料。
-#3305	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']현재 선택한 특성을 연구하기 위해서는 [colour='FFFFFFFF']고정 연구 재료[colour='FFFFE959']에 등록된 특성이 필요합니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']为了研究当前选定的属性需要登记在[colour='FFFFFFFF']固定的研究材料[colour='FFFFE959']中的属性。
-#3306	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']또한 [colour='FFFFFFFF']추가 연구 재료[colour='FFFFE959']의 슬롯에 추가 가능한 특성들을 추가하여 [colour='FFFFFFFF']필요 연구 점수[colour='FFFFE959']를 만족해야 합니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']并且在[colour='FFFFFFFF']附加研究材料[colour='FFFFE959']的栏上得添加属性以满足[colour='FFFFFFFF']所需的研究点数[colour='FFFFE959']。
-#3308	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']트러블메이커 일람은 발할라에서 사건 사고를 일으키는 자들의 정보를 모아 놓은 곳입니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']捣乱者一览表是汇总了巴赫拉的捣乱者信息的地方。
+#3305	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']현재 선택한 특성을 연구하기 위해서는 [colour='FFFFFFFF']고정 연구 재료[colour='FFFFE959']에 등록된 특성이 필요합니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']为了研究当前选定的属性需要登记在[colour='FFFFFFFF']固定的研究素材[colour='FFFFE959']中的属性。
+#3306	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']또한 [colour='FFFFFFFF']추가 연구 재료[colour='FFFFE959']의 슬롯에 추가 가능한 특성들을 추가하여 [colour='FFFFFFFF']필요 연구 점수[colour='FFFFE959']를 만족해야 합니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']并且在[colour='FFFFFFFF']附加研究素材[colour='FFFFE959']的栏上得添加属性以满足[colour='FFFFFFFF']所需的研究点数[colour='FFFFE959']。
+#3308	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']트러블메이커 일람은 발할라에서 사건 사고를 일으키는 자들의 정보를 모아 놓은 곳입니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']纷争制造者图鉴是汇总了巴赫拉的纷争制造者信息的地方。
 #3309	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']임무 중 적을 전투 불능 시키면 해당 적에 대한 정보를 획득하며 정보의 단계에 따라 고유의 전투 보너스가 주어집니다. 	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']任务过程中让敌人变成无法战斗的状态时，可获得该目标的信息，根据信息的阶层带来固有的战斗奖励。
 #3310	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']적의 정보 수집 100%를 달성할 경우 특별 보상을 받을 수 있습니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']收集敌人信息达到100%时可获得特殊的奖励。
 #3311	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']각 정보 단계에 따른 세부 사항은 상단 게이지의 단계 표시에서 확인 가능합니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']根据各信息阶层相关的详细信息可在上端的标尺阶段标志中进行确认。
@@ -194,9 +194,9 @@
 #3361	[!Dialog]당시에는 많은 언론들이 그를 예언가로 소개하기도 하였지만, 세월이 지나자 단지 우연이 만들어낸 해프닝이라고 여겨졌다.	[!Dialog]当时有很多媒体把他描述成了预言家，但是过了些时日之后，大家都开始认为这只是偶然发生的巧合。
 #3362	[!Dialog]하지만 한번 인기를 얻은 람지스트는 순식간에 엄청난 부를 소유하게 되었고 그의 그림은 '신의 계시'라고 불리며 비싼 값에 거래되었다.	[!Dialog]然而获得了人气的蓝地斯特瞬间就拥有了登天的身价，他的画作以「神启」之名，以高价流通。
 #3370	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']회사 통계에서는 회사의 정보와 소속된 트러블슈터들의 활동 내용을 확인할 수 있습니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']公司统计中可以确认到公司的信息和旗下纷争终结者们的活动内容。
-#3371	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']연구 재료로 사용한 특성들은 모두 소모되니 주의하시기 바랍니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']用作研究材料的属性都会被消耗，敬请留意。
+#3371	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']연구 재료로 사용한 특성들은 모두 소모되니 주의하시기 바랍니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']用作研究素材的属性都会被消耗，敬请留意。
 #3372	[!Dialog]알버스는 그간 경험한 사건, 사고에 관련된 사람들에 대한 자료들을 꺼내 책장에 정리하였다.	[!Dialog]阿尔伯斯将他经历过的案件，事故相关人员的资料整理到了书柜上。
-#3373	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']트러블메이커 일람을 통해서 사건 사고에 관련된 인물들의 정보를 볼 수 있습니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']通过捣乱者一览表可以查看事件事故相关的人物信息。
+#3373	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']트러블메이커 일람을 통해서 사건 사고에 관련된 인물들의 정보를 볼 수 있습니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']通过纷争制造者图鉴可以查看事件事故相关的人物信息。
 #3374	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']해당 인물 정보 수집을 100% 달성하면 보상을 획득할 수 있습니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']该人物信息的收集达到100%则可以获得奖励。
 #3376	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']상황판은 발할라 경찰청에서 보내주는 범죄 발생 상황을 보여주는 디스플레이 장치입니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']状况板是显示巴赫拉警察厅发送的犯罪现况的显示设备。
 #3377	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']상황판을 통해 다양한 임무를 진행할 수 있습니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']通过状况板可以进行多种任务。
@@ -282,7 +282,7 @@
 #5726	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']창고를 계약하면 인벤토리 최대 공간이 증가합니다. 또한 추후 아이템 제작 기능을 추가하실 수 있습니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']签约合同后仓储空间上限将会提升。并且可以在日后添加物品制作，鉴定等便利功能。
 #6203	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]꿋꿋이 발할라와 함께 성장한 바람장벽지구의 그림자...	顽强地和巴赫拉一起成长起来的风之壁的影子...
 #6207	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]그들이 가는 곳곳마다 나타나는 발할라 경찰들과 트러블슈터들에 의해 몸은 피로해지고 마음은 꺾여나갔다.	他们去往的每一处都会出现的巴赫拉警察和纷争终结者，这让他们的身体俱疲。
-#6210	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]그는 자신의 입지를 굳히기 위해 같은 처지의 푸와 트레이를 찾는다.	[!Sentence][!Subtitle]他为了巩固自己的立场而去找处在同样境地的普和特洛伊。
+#6210	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]그는 자신의 입지를 굳히기 위해 같은 처지의 푸와 트레이를 찾는다.	[!Sentence][!Subtitle]他为了巩固自己的立场而去找处在同样境地的普和特莱。
 #6211	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]지난 몇 년간 발할라 경찰청은 끊임없이 범죄자들을 이 지역에서 몰아냈다.	[!Sentence][!Subtitle]在过去的几年间巴赫拉警察厅不断地把犯罪分子们驱赶出这个区域。
 #6220	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]대부분의 조직이 거대한 중앙 조직에 흡수되는 범죄의 기업화 시대에...	大多数组织被巨大的主流组织吸收，形成犯罪企业化的时代中...
 #6224	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]바람장벽지구 성난 황소파.	[!Sentence][!Subtitle]风之壁地区狂牛组。
@@ -294,7 +294,7 @@
 #6277	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]'실버라이닝'이라는 트러블슈터 회사에 의해 검거되어 중앙 지구의 교도소에 수감된다.	[!Sentence][!Subtitle]被一个名叫「沙佛莱宁」的纷争终结者公司检举并被关进了中央地区的监狱中。
 #6281	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]세 조직의 젊은 보스들의 굳건한 관계는 거대 범죄 카르텔로 이어진다.	[!Sentence][!Subtitle]三个组织年轻的首领们的稳健的关系发展成了巨大的犯罪垄断组织。
 #6288	[!Sentence][!Dialog]밥그릇을 잃어버린 자는 현세에 있는 한 영원히 고통받는다고 한다.	[!Sentence][!Subtitle]据说失去了饭碗的人在现世会受到永远的痛苦。
-#6291	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]'백호'파의 푸, '흑호' 파의 트레이.	[!Sentence][!Subtitle]「白虎」组的普，「黑虎」组的特洛伊。
+#6291	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]'백호'파의 푸, '흑호' 파의 트레이.	[!Sentence][!Subtitle]「白虎」组的普，「黑虎」组的特莱。
 #6292	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]『깊고 어두운 범죄 시대의 개막』	[!Sentence][!Subtitle]「幽深黑暗的犯罪时代的开幕」
 #6300	[!Sentence][!Dialog]스푼교는 교도들에게 '첫술'을 권한다.	勺子教向他们的信徒们劝告「一勺」的教义。
 #6304	[!Sentence][!Dialog]현장을 지휘하고 있던 아이작 경감은 이미 실력을 검증받은 $CompanyName$의 도착과 함께 지휘권을 바로 넘긴다.	指挥着现场的艾萨克警监看到实力早已受到了证实的$CompanyName$的到来，就马上将指挥权移交了过去。
@@ -2938,7 +2938,7 @@
 #10450	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning_Normal]당분간 지낼 물자와 무기는 우리 형제들이 최선을 다해 공급하겠네.	暂时，我们的弟兄会尽全力为你们提供物资和武器。
 #10451	[!Sentence][!Dialog][!speaker:Sion_Cry]이건 아냐... 왜 편한 길을 두고...	[!Sentence][!Dialog][!speaker:Sion_Cry]不是这样子的...为什么放着好走的路不走偏要...
 #10452	[!Sentence][!Dialog][!speaker:Gangster_BullThin_Normal]그건 나도 반대다. 소문에 의하면 그 녀석들 우릴 버렸어.	我也反对那个提案。根据传闻就是那帮家伙抛弃了我们。
-#10453	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]일단 보스의 맹우였던 '백호'의 푸 님이나 '흑호'의 트레이 님을 찾아가자.	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]先去找首领的盟友「白虎」的普大哥，或者「黑虎」的特洛伊大哥。
+#10453	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]일단 보스의 맹우였던 '백호'의 푸 님이나 '흑호'의 트레이 님을 찾아가자.	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]先去找首领的盟友「白虎」的普大哥，或者「黑虎」的特莱大哥。
 #10454	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]일반 사회로부터 도망쳐 강력한 범죄 조직이라는 심리적 버팀목에 기대어 살아왔던 대부분의 조직원은...	[!Sentence][!Subtitle]从社会中逃避出去，将那所谓的强大的犯罪组织当成心灵支柱来过活的大多数的成员们...
 #10455	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Normal]자네들이 우리를 도왔으니 이번엔 우리가 자네들을 도울 차례네.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Normal]你们帮过我们，所以这回该是由我们来帮助你们了。
 #10456	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning_Normal]어쩔 수 없는 일이겠지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning_Normal]这是没办法的事情呀。
@@ -3050,7 +3050,7 @@
 #10592	[!Sentence][!Objective]스콧을 제압하시오.	[!Sentence][!Objective]请制服斯科特。
 #10594	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]고민 중이다.	我正苦恼着呢。
 #10595	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]네가 들어간다면 우리도 들어간다.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]你要是进去，我们也跟着进去。
-#10596	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]트레이. 어떻게 할 거냐?	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]特洛伊。你打算怎么办？
+#10596	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]트레이. 어떻게 할 거냐?	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]特莱。你打算怎么办？
 #10597	[!Sentence][!Objective]제이슨을 제압하시오.	[!Sentence][!Objective]请制服杰森。
 #10598	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]왜 네 조직의 결정을 나에게 의존하나?	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]你的组织的决定，为什么要靠我？
 #10599	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]의존? 아니 내 뒤를 너에게 보일 수 없을 뿐이야.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]靠你？不是啊，只是不能把后背暴露给你而已。
@@ -3272,7 +3272,7 @@
 #10830	[!Sentence][!Subtitle][!speaker:Kylie_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']약속한 보수나 준비해.	[!Sentence][!Subtitle][!speaker:Kylie_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']你就准备好约好的报酬就可以了。
 #10831	[!Sentence][!Subtitle][!speaker:VHPD_Issac_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']그렇군. 그럼 이쪽은 마중 준비를 하겠네.	[!Sentence][!Subtitle][!speaker:VHPD_Issac_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']好的，那我们就做迎接准备。
 #10832	[!Sentence][!Dialog][!speaker:Kylie_Normal]내 작업장에는 트러블슈터들에게 의뢰할 만한 일들은 언제나 산더미야.	[!Sentence][!Dialog][!speaker:Kylie_Normal]我的工作中有一大堆事情要委托纷争终结者的呢。
-#10833	[!Sentence][!Dialog][!speaker:Kylie_Normal]단순한 재료 구하기부터 이능석 채취 그런 일들이지.	[!Sentence][!Dialog][!speaker:Kylie_Normal]从采集简单的材料到采集异能石等诸如此类的活儿了。
+#10833	[!Sentence][!Dialog][!speaker:Kylie_Normal]단순한 재료 구하기부터 이능석 채취 그런 일들이지.	[!Sentence][!Dialog][!speaker:Kylie_Normal]从采集简单的素材到采集异能石等诸如此类的活儿了。
 #10834	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]의뢰요?	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]委托吗？
 #10835	[!Sentence][!Dialog][!speaker:Albus_Normal]이 정보로 스푼교도들의 테러도 줄어들었으면 하네요.	[!Sentence][!Dialog][!speaker:Albus_Normal]希望这份情报能减少勺子教信徒们的恐怖活动呢。
 #10836	[!Sentence][!Dialog][!speaker:Kylie_Normal]보수는 납득할 만큼 줄 테니 찾아오기만 해.	[!Sentence][!Dialog][!speaker:Kylie_Normal]我肯定给你们可以接受的报酬的，只要你们来找我。
@@ -3746,7 +3746,7 @@
 #11362	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]그건 저희도... 범인들은 일단 지구 이탈자들이 대부분이긴 합니다.	哪方面我们也还...总之犯罪者中的绝大多数都是其他地区非法离境人员。
 #11363	[!Sentence][!BalloonChat][!speaker:Chang]진정해. 랄프.	[!Sentence][!BalloonChat][!speaker:Chang]冷静啊。拉尔夫。
 #11365	[!Sentence][!BalloonChat]티마!! 티마다!!	[!Sentence][!BalloonChat]蒂玛！！是蒂玛！！
-#11366	[!Sentence][!Title]철의 숲 버려진 물류 캠프	[!Sentence][!Title]铁森林被遗弃的物流基地
+#11366	[!Sentence][!Title]철의 숲 버려진 물류 캠프	[!Sentence][!Title]铁森林废弃物流基地
 #11367	[!Sentence][!BalloonChat][!speaker:Ralph]블랙펄? 세계수 지구 '블랙펄'?	[!Sentence][!BalloonChat][!speaker:Ralph]黑珍珠？世界树地区的「黑珍珠」？
 #11368	[!Sentence][!BalloonChat][!speaker:Kaze]쳇. 내가 최정예를 상대하느라 너희들이 편했던 거라고!	[!Sentence][!BalloonChat][!speaker:Kaze]切。还不是因为我对付超级精英，你们才安稳成这样的！
 #11370	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]브론즈 등급 트러블슈터한테 털리다니! 네 녀석 정신 상태가 썩어빠졌어!	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]竟然吃了个青铜等级纷争终结者的亏！你这家伙精神不好吧！
@@ -4567,7 +4567,7 @@
 #12384	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]너 도대체 누굴 달고 온 거냐?	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]你到底是带着谁来的？
 #12385	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]지금 우리에게 필요한 건 뼈에 사무치는 『공포』다.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]现在我们需要的是彻骨的「恐惧」。
 #12386	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]네 녀석이 그렇게 강하다며?	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]听说你这家伙还挺厉害的？
-#12387	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 트레이~ 트레이~ 나의 친구 트레이여.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']特洛伊～特洛伊～我的朋友特洛伊呀。
+#12387	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 트레이~ 트레이~ 나의 친구 트레이여.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']特莱～特莱～我的朋友特莱呀。
 #12388	[!Sentence][!BalloonChat]현 분대, 구조 분대와 합류합니다!	[!Sentence][!BalloonChat]当前分队加入到营救分队中！
 #12389	[!Sentence][!BalloonChat][!speaker:Chang]료. 조직부터 이어진 질긴 연은 오늘 끊어버리자.	[!Sentence][!BalloonChat][!speaker:Marco_Smile]亮。从在组织时就延续至今的恩怨就在今天做个了断吧。
 #12391	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]바보 같은 녀석. 호들갑 떨지 마. 다 알고 있으니까.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]愚蠢的家伙。别一惊一乍的了。我都了解。
@@ -4700,7 +4700,7 @@
 #12536	[!Dialog][!speaker:Albus_Laugh]'블랙펄' 시절에도 매일같이 지젤 씨 밑에서 '분해'하고 '강화'하고 정신없었는데...	[!Dialog][!speaker:Albus_Laugh]在「黑珍珠」时期也每天跟着吉赛尔不停地「分解」，「强化」之类的...
 #12537	[!Dialog][!speaker:Albus_Normal]다들 잘 지내시려나...	[!Dialog][!speaker:Albus_Normal]他们现在都还好吧...
 #12538	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']작업대를 통해 아이템의 '분해'와 '강화'를 진행하실 수 있습니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']可通过工作台进行物品的「分解」和「强化」。
-#12539	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']아이템의 '분해'를 통해 습득한 재료들은 다시 '강화'와 '제작'에 사용되며 분해되는 재료는 아이템의 등급, 요구 레벨, 옵션에 따라 종류와 수량이 달라집니다.	[padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']通过「分解」物品可以获得用于「强化」和「制作」的材料，获得的材料种类和数量是由物品等级、需求等级、选项等决定。
+#12539	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']아이템의 '분해'를 통해 습득한 재료들은 다시 '강화'와 '제작'에 사용되며 분해되는 재료는 아이템의 등급, 요구 레벨, 옵션에 따라 종류와 수량이 달라집니다.	[padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']通过「分解」物品可以获得用于「强化」和「制作」的素材，获得的素材种类和数量是由物品等级、需求等级、选项等决定。
 #12542	[!Sentence][!Dialog][!speaker:Don_Serious]여긴 은빛 구름 거리 356. 다수 불량배들이 전파 방해기를 설치 후 폭력 사태를 벌이고 있습니다.	[!Sentence][!Dialog][!speaker:Don_Normal]这里是银彩街356号。有大量黑帮分子安装了电波干扰器，然后开始引发暴动。
 #12543	[!Sentence][!Dialog][!speaker:Bruna_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone'][colour='FFFFE959']  알겠습니다. 바로 출동하겠습니다. 신고하신 분의 신원을 남겨주십시오.	[!Sentence][!Dialog][!speaker:Bruna_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone'][colour='FFFFE959']明白了。我们马上出发。请将报警人员的身份联系方式留一下吧。
 #12544	[!Sentence][!Dialog][!speaker:Bruna_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 알겠습니다. 가까운 분대 현장으로 출동합니다.	[!Sentence][!Dialog][!speaker:Bruna_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']明白了。就近的分队马上去往现场。
@@ -5414,7 +5414,7 @@
 #13495	[!Sentence][!Dialog][!speaker:Kylie_Normal]그렇지 않고서야 이렇게 빨리 증가할 리가 없어.	[!Sentence][!Dialog][!speaker:Kylie_Normal]否则不可能如此快速增长。
 #13496	[!Sentence][!Dialog][!speaker:Anne_Smile]안전하게 뒤에서 따라가면서 놓치지 않고 잘 해낼게요.	[!Sentence][!Dialog][!speaker:Anne_Smile]我会好好跟在你们后面，一个不落地好好做的。
 #13497	[!Sentence]시온에게 '에너지 추출기'를 줍니다. 하의 주머니에 착용한 기존 착용 장비는 사용할 수 없습니다.	[!Sentence]将「能量提取仪」递给席翁。在裤兜里的原装备将无法使用。
-#13500	[!Sentence][!Dialog][!speaker:Kylie_Normal]요즘 스푼교다 백호파다 온통 난리다 보니 제작할 재료 물량이 넉넉지 못해.	[!Sentence][!Dialog][!speaker:Kylie_Normal]最近又是勺子教又是白虎组的各种生事，所以没有多余的材料来制作它。
+#13500	[!Sentence][!Dialog][!speaker:Kylie_Normal]요즘 스푼교다 백호파다 온통 난리다 보니 제작할 재료 물량이 넉넉지 못해.	[!Sentence][!Dialog][!speaker:Kylie_Normal]最近又是勺子教又是白虎组的各种生事，所以没有多余的素材来制作它。
 #13501	[!Sentence][!Objective]'번개' 에너지 표본 추출하기	[!Sentence][!Objective]提取「闪电」能量样本
 #13502	[!Sentence][!Dialog][!speaker:Kylie_Rage]하아... 어느새 이 지경인 거야...	[!Sentence][!Dialog][!speaker:Kylie_Normal]哈啊...怎么到这种地步了...
 #13503	[!Sentence][!Dialog][!speaker:Albus_Laugh]앤 양. 잘 부탁해.	[!Sentence][!Dialog][!speaker:Albus_Laugh]小安。拜托了。
@@ -5722,7 +5722,7 @@
 #13869	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]이러한 관리는 오랜 시간 큰 문제 없이 유지되어 왔으나	[!Sentence][!Subtitle]这种管理虽然长期以来并未出现什么问题
 #13870	[!Sentence][!Dialog][!speaker:EmptySubTitle_]생명체의 유전자 정보에 의한 발현으로 유전자 이식을 통해 타인에게 부여할 수 있음이 증명된다.	[!Sentence][!Dialog]据研究，根据生命体的遗传信息触发的超能力，是可以通过基因移植转给他人的。
 #13871	[!Sentence][!Dialog][!speaker:EmptySubTitle_]이러한 관념은 오래전부터 이어져 대제국 '아테르'의 사회 제도에도 반영되어 있었다.	这种观念从很久之前就开始流传，如今已经反映到了「阿泰尔」帝国的社会制度当中。
-#13872	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]해당 구역에서의 야수 사냥 시 얻은 자원들과 재료들을	[!Sentence][!Subtitle]允许将该地区狩猎所得的资源和原材料
+#13872	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]해당 구역에서의 야수 사냥 시 얻은 자원들과 재료들을	[!Sentence][!Subtitle]允许将该地区狩猎所得的资源和原素材
 #13873	[!Sentence][!Dialog][!speaker:EmptySubTitle_]에너지 추출 과정의 간편화와 추출 장비의 휴대성이 강화되면서...	[!Sentence][!Dialog]随着能量提取流程的简便化和提取设备的可携带性加强...
 #13874	[!Sentence][!Dialog][!speaker:EmptySubTitle_]근대에 들어 '『이능력』 = 『에너지』' 라는 것이 증명된다.	[!Sentence][!Dialog]最近，「异能=能量」这一理论被论证了出来。
 #13875	[!Sentence][!Dialog][!speaker:EmptySubTitle_]『힘의 공명』은 과도하게 사물에 축적된 에너지가 서로 공명하여 축적된 에너지가 증폭되는 현상으로	[!Sentence][!Dialog]「力量的共鸣」是指物体中积累的过量的能量，相互引起共鸣，使其放大的现象，
@@ -6711,7 +6711,7 @@
 #15021	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]성이 이게 뭐야? 이거 장난인가?	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]这是什么姓？在开玩笑吗？
 #15022	[!Sentence][!Title]홀로 남아...	[!Sentence][!Title]独自一人...
 #15023	[!Sentence][!Title]지금부터...	[!Sentence][!Title]现在开始...
-#15024	[!Sentence][!Dialog]그렇기 때문에 타인과 충돌을 피해 자연히 뒷거리의 버려진 장벽, 집, 건물들에 작업을 하게 되었고...	[!Sentence][!Dialog]因此，为了不与他人起冲突，工作地点自然地转向了后街被遗弃的墙壁，民居，建筑物...
+#15024	[!Sentence][!Dialog]그렇기 때문에 타인과 충돌을 피해 자연히 뒷거리의 버려진 장벽, 집, 건물들에 작업을 하게 되었고...	[!Sentence][!Dialog]因此，为了不与他人起冲突，工作地点自然地转向了后街废弃的墙壁，民居，建筑物...
 #15025	[!Sentence][!Dialog]처음 울분을 토해낸 래커칠은 감정을 뿜어낸 낙서에 지나지 않았다.	[!Sentence][!Dialog]最初的涂鸦只不过是发泄感情的乱涂乱画。
 #15026	[!Sentence][!Title]발할라 이주 1년 6개월	[!Sentence][!Title]移居巴赫拉1年6个月
 #15027	[!Sentence][!Title]발할라 이주 2년	[!Sentence][!Title]移居巴赫拉2年
@@ -7541,7 +7541,7 @@
 #15974	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]이 동네 요즘 사냥감이 넘치잖아. 세계수는 요즘 지겹거든.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]这里最近猎物喷发啊。世界树那边最近有点无聊的。
 #15975	[!Sentence][!BalloonChat][!speaker:Ray]도대체 왜 이렇게 됐을까...	[!Sentence][!BalloonChat][!speaker:Albus_Normal]为什么事情结果是这样的...
 #15976	[!Sentence][!Objective]공원에 풀린 야수를 모두 제압하시오.	[!Sentence][!Objective]请将公园里四散的野兽全部制服。
-#15978	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]'푸, 트레이 녀석... 조직만 재정비되면 카르텔이고 뭐고 니들 먼저 조져주마.'	（普，特洛伊这两个家伙...等我收拾好我的组织，管你是联合垄断不垄断的，先从你们开刀。）
+#15978	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]'푸, 트레이 녀석... 조직만 재정비되면 카르텔이고 뭐고 니들 먼저 조져주마.'	（普，特莱这两个家伙...等我收拾好我的组织，管你是联合垄断不垄断的，先从你们开刀。）
 #15979	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]대장... 설마 우리 버림받은 건가?	队长...我们不会是被抛弃了吧？
 #15980	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]'결국 구경만 하겠다는 거군...'	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]（意思是眼睁睁地看着是吗...）
 #15981	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]현재 상황은 어떤가?	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]现在的情况如何？
@@ -7553,7 +7553,7 @@
 #15987	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Normal]경찰 녀석들은 몇 차례 교전 이후 재정비에 들어간 듯합니다.	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Normal]警察经过几次交战后好像在整队呢。
 #15988	[!Sentence][!Dialog][!speaker:Gangster_BullThin_Normal]아직 연락이 없습니다.	[!Sentence][!Dialog][!speaker:Gangster_BullThin_Normal]还没有联系。
 #15989	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]아니 안 온다는 건 아닌데... 바깥에서 소동을 일으켜 경찰들을 분산시키겠대...	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]不是说不来...说是在外头弄出点动静来扰乱警察...
-#15990	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]푸와 트레이에게 간 제이슨 녀석은 아직 안왔나?	去找普和特洛伊的杰森还没回来吗？
+#15990	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]푸와 트레이에게 간 제이슨 녀석은 아직 안왔나?	去找普和特莱的杰森还没回来吗？
 #15991	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]지금이면 경찰들을 앞뒤로 쳐서 일거에 소탕할 수 있는데!	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]现在过来就可以对警察进行前后夹击一举扫荡殆尽的！
 #15993	[!Sentence][!Dialog][!speaker:Alisa_Serious]비앙카. 조심해!	[!Sentence][!Dialog][!speaker:Alisa_Serious]比安科。小心啊！
 #15994	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Normal]자매님들 가슴엔 스푼 하나가 있으십니까?	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Normal]姐妹们，你们心有一把勺子吗？
@@ -8965,14 +8965,14 @@
 #17942	[!Dialog]한번 미루면 언제 다시 할지 모르는 업무...	[!Dialog]一拖再拖，不知何时再做的工作...
 #17943	[!Dialog]알버스는 아무 말 없이 밀린 업무를 처리해 나갔다.	[!Dialog]阿尔伯斯一句话也不说，默默地继续处理他的工作了。
 #17944	[!Dialog]그렇게 한참을 지나...	[!Dialog]就这样过了很久...
-#17945	[!Dialog][!speaker:Albus_Normal]전리품 정보 중 재료 부분은 다 정리한건가...	[!Dialog][!speaker:Albus_Normal]战利品情报中的材料部分都整理好了吗...
+#17945	[!Dialog][!speaker:Albus_Normal]전리품 정보 중 재료 부분은 다 정리한건가...	[!Dialog][!speaker:Albus_Normal]战利品情报中的素材部分都整理好了吗...
 #17946	[!Dialog][!speaker:Albus_Laugh]정말 밀린 업무는 힘들구나...	[!Dialog][!speaker:Albus_Laugh]积压的工作真的是好累啊...
 #17948	[!Dialog][!speaker:Albus_Normal]다음부터는 밀리는 일 없도록 트러블메이커 목록 정리할 때 같이 정리 해야겠어..	[!Dialog][!speaker:Albus_Normal]从下次开始一定要注意不要再让业务拖延了...
 #17949	[!Dialog][!speaker:Albus_Normal]이젠 매일 퇴근 시간이 이 시간이구나...	[!Dialog][!speaker:Albus_Normal]看来从今天开始下班的时间大概都会是这个时候了吧...
 #17950	[!Dialog][!speaker:Albus_Disappoint]하아... 한동안은 계속 이럴 텐데...	[!Dialog][!speaker:Albus_Disappoint]哈啊...我看这会持续一段时间...
 #17951	[!Dialog][!speaker:Albus_Serious]안돼... 정신 차려야지...	[!Dialog][!speaker:Albus_Serious]哦...不行...我得打起精神来...
-#17952	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']재료 도감은 현장 업무의 정보를 종합하여 각 재료 아이템의 획득처를 정리해 둔 목록입니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']材料图鉴是从综合现场任务的情报来记录各个材料物品的所得地的目录。
-#17953	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']해당 정보는 사건 해결 정보를 토대로 트러블메이커 목록과 제작 가능 목록 정보에 의해 자동으로 업데이트 됩니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']相关的信息是根据事件的完成情报为基础并依据捣乱者一览和可制作目录来自动更新的。
+#17952	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']재료 도감은 현장 업무의 정보를 종합하여 각 재료 아이템의 획득처를 정리해 둔 목록입니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']素材图鉴是从综合现场任务的情报来记录各个素材物品的所得地的目录。
+#17953	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']해당 정보는 사건 해결 정보를 토대로 트러블메이커 목록과 제작 가능 목록 정보에 의해 자동으로 업데이트 됩니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']相关的信息是根据事件的完成情报为基础并依据纷争制造者图鉴和可制作目录来自动更新的。
 #17965	[!Sentence][!Dialog][colour='FFFFE959']전투 불능된 적으로부터 특성 획득은 가능하나 경험치와 아이템 획득은 불가능합니다.	[!Sentence][!Dialog][colour='FFFFE959']虽然可以从无法战斗的敌人中获取天赋，但是却无法得到经验值和物品。
 #17966	[!Sentence][!Dialog][colour='FFFFE959']해당 전투는 시나리오에 등장하는 [colour='FFFFFFFF']NPC[colour='FFFFE959']로 진행하는 전투입니다.	"
 #17967	[!Sentence][!Dialog][colour='FFFFFFFF']사건 일지[colour='FFFFE959']로 미션 반복 플레이 시 생략이 가능합니다.	以后通过「事件日志」来反复进行该剧情时，可以跳过敌军之间的战斗过程。
@@ -9490,7 +9490,7 @@
 #18555	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]그만 해라. 케빈.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]停下来吧，凯文。
 #18556	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]알겠습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]明白了。
 #18557	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young]조슈아. 보스를 데리고 올라가.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_。Kevin_Normal]约书亚，带首领上去。
-#18558	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal_Young]내가 여기를 맡겠다. 트레이 넌 빨리 가서 저녀석을 끌고 올라와!	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]这里就由我来防守。特洛伊，你快去那家伙拉上来。
+#18558	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal_Young]내가 여기를 맡겠다. 트레이 넌 빨리 가서 저녀석을 끌고 올라와!	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]这里就由我来防守。特莱，你快去那家伙拉上来。
 #18561	[!Sentence][!Dialog][!speaker:Chris_Normal_Young]경찰과 연계? 그게 더 힘들 것 같은데?	[!Sentence][!Dialog][!speaker:Chris_Normal]和警察联合？不觉得那更困难吗？
 #18562	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young]네. 보스만 있다면 가능합니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]是。只要有首领你在的话是充分可能的。
 #18563	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]네 산하 조직의 이권은 모두 후성과 다리우스에게 넘겨라.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]你的手下组织的握权都转让给侯成和大流士吧。
@@ -9509,7 +9509,7 @@
 #18584	[!Sentence][!Dialog][!speaker:Chris_Normal_Young]돈. 잡졸은 버려. 보스만 잡는다.	敦，不要管杂兵，只抓首领啊。
 #18585	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]지금 같은 시기에 여행이라니요??	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]在这样的情况下叫我去旅行吗？？
 #18589	[!Sentence][!Title]10년 전, 자홍 뒷거리	[!Sentence][!Title]十年前，紫红后巷
-#18590	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal_Young]트레이. 난 이 상황을 극복하고 재기할 생각이다.	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]特洛伊。我一定会克服这个情况并东山再起的。
+#18590	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal_Young]트레이. 난 이 상황을 극복하고 재기할 생각이다.	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]特莱。我一定会克服这个情况并东山再起的。
 #18591	[!Sentence][!Title]은빛 구름 시장 거리	[!Sentence][!Title]银彩市场街
 #18592	[!Sentence][!Dialog][!speaker:Chris_Normal_Young]돈! 저 큰 녀석부터 잡아!	敦！先抓那大的家伙！
 #18593	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]보스??	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]首领？？
@@ -9538,14 +9538,14 @@
 #18621	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]네가 열심히 시민들에게 공포를 심어줄 때지. 	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]当你正视图向市民制造恐慌时，我呢没忽视这机会拿到了这个区域。
 #18622	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]누군지 기필코 찾아내라.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]一定要找出是谁。
 #18623	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]당분간 조직을 떠나 여행이나 다녀와라.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]暂时离开组织去旅旅行吧。
-#18624	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal_Young]트레이 녀석...	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal_Young]特洛伊，你这家伙...
+#18624	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal_Young]트레이 녀석...	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal_Young]特莱，你这家伙...
 #18626	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal_Young]스콧! 푸 녀석 안 오면 버려!	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal_Young]斯科特，普那家伙不来的话就丢下吧！
 #18627	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young]하지만 보스가 없는 조직은 『 백호 』가 아닙니다.	但是没有首领的组织不可能再被称为「白虎」啊。
 #18628	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Andrei_Normal]보스. 이대로는 건너편 녀석들과 충돌이 생길 것 같습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Andrei_Normal]首领，照这样下去可能会和对面的家伙发生冲突。
 #18629	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal_Young]우리 『 백호 』는 이 곳을 사수한다.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal_Young]我们「白虎」要死守这里。
 #18630	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young]보스만 있다면 『 백호 』는 언제든지 재기합니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young]只要有首领你在的话「白虎」何时都能东山再起。
 #18631	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]됐다. 따지 말고 이리 줘.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]算了，不要开封直接给我。
-#18632	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]트레이. 물러나.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]特洛伊，退下来。
+#18632	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]트레이. 물러나.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]特莱，退下来。
 #18633	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]그리고 케빈 와인 한 병 가져와.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]凯文，去拿一瓶葡萄酒过来。
 #18634	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]물러나라니? 엄연히 여긴 내 구역이야.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]叫我退下？这可是我的区域呐？
 #18636	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]보스. 한 잔 따르겠습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]首领，让我来倒一杯给你吧。
@@ -9573,7 +9573,7 @@
 #18696	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]나 역시 친한 사이가 아니네.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]我的关系也没那么好。
 #18697	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]난 법대로 처리했을 뿐이네.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]我只是依法办事。
 #18698	[!Sentence][!Dialog]현장으로 돌입하려던 동료들의 시선은 일제히 알버스를 향하였다.	[!Sentence][!Dialog]准备进入现场的同事们的目光一致投向阿尔伯斯。
-#18699	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]어이가 없군. 트레이 네 짓이냐?	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]真是无奈啊，是特洛伊你做的吗？
+#18699	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]어이가 없군. 트레이 네 짓이냐?	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]真是无奈啊，是特莱你做的吗？
 #18700	[!Sentence][!Dialog][!speaker:Sion_Surprise]'지젤 누나의 영향인가...'	[!Sentence][!Dialog][!speaker:Sion_Surprise]（是吉赛尔姐的影响吗...）
 #18701	[!Sentence][!Dialog][!speaker:Albus_Laugh]그러니까 내가 현장 정보를 파악하기 위해 정찰을 가 볼게. 그러고나서 돌입하면...	[!Sentence][!Dialog][!speaker:Albus_Laugh]所以我会去侦察，以便掌握现场信息。然后再冲进去的话...
 #18702	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]저 여자 내 타입인데? 자네 저 여자 알고 있나?	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]那妞正是我的喜好诶？你知道那女人吗？
@@ -9682,7 +9682,7 @@
 #18808	[!Sentence][!Dialog][!speaker:Albus_EyeAversion]'아...이런 거 진짜 힘들다...'	[!Sentence][!Dialog][!speaker:Albus_EyeAversion]（啊...这样的真是累人啊...）
 #18809	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]설마... 이런 연출은 내 성격에 맞지 않아.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]... 这样的演出根本不适合我的性格。
 #18811	[!Sentence][!Dialog][!speaker:Albus_Normal]앤 양, 레이 씨. 전방의 저와 아이린을 잘 부탁합니다!	[!Sentence][!Dialog][!speaker:Albus_Normal]安，雷伊。前方的我和艾琳就拜托了！
-#18812	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]트레이...	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]特洛伊...
+#18812	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]트레이...	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]特莱...
 #18813	[!Sentence][!Dialog][!speaker:Giselle_Normal]지금 돌입하면 혼전으로 번진다.	[!Sentence][!Dialog][!speaker:Giselle_Normal]如果现在进入，就会演变成混战。
 #18814	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Andrei_Normal]보스. 일단 자리를 피하십시오.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Andrei_Normal]首领，先逃离这里吧。
 #18815	[!Sentence][!Dialog]알버스 역시 동료들의 성향을 알고 있기에 피해가 증가할 것을 뻔히 알면서 팀의 전력을 아끼려고 사건 현장을 방치하겠다는 말을 차마 할 수가 없었다.	[!Sentence][!Dialog]阿尔伯斯也知道队友们的倾向，他显然知道损失会增加。但为了节省队的战斗力，他不忍心说要放置案发现场。
@@ -10212,10 +10212,10 @@
 #19403	[!Dialog][!speaker:Kylie_Smile]'누군지 몰라도 꾸준히 야무지게도 썼군...'	[!Dialog][!speaker:Kylie_Smile]（不知是谁用的真是精明强干...）
 #19404	[!Dialog][!speaker:Kylie_Satisfying]'정리하면 충분히 작업은 가능하겠네...'	[!Dialog][!speaker:Kylie_Satisfying]（整理一下就足够可以工作了...）
 #19405	[!Dialog][!speaker:Kylie_Normal]모듈은 기계의 특성이라고 이해하면 편해. 특성이 경험으로부터 배운다면 모듈은 어디까지나 프로그램, 부품이라는 부분이 다르지.	[!Dialog][!speaker:Kylie_Normal]把模块看成是机械的天赋，就理解起来更方便。要说天赋是从经验中学到的话，模块只不过是需要装备的零件。
-#19406	[!Dialog][!speaker:Kylie_Smile]재료만 충분히 있으면 내가 제작 가능한 모듈은 다 제작할 수 있어.	[!Dialog][!speaker:Kylie_Smile]只要材料够用，我所能制作的模块都可以做。
-#19407	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']현재 선택한 모듈을 연구하기 위해서는 [colour='FFFFFFFF']고정 연구 재료[colour='FFFFE959']에 등록된 아이템이 필요합니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']为了研究现在所选择的模块，需要在[colour='FFFFFFFF']固定的研究材料[colour='FFFFE959']中登入的物品。
-#19408	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']또한 [colour='FFFFFFFF']추가 연구 재료[colour='FFFFE959']가 필요한 경우, [colour='FFFFFFFF']필요 연구 점수[colour='FFFFE959']에 해당하는 모듈이 필요합니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']并且需要[colour='FFFFFFFF']附加研究材料[colour='FFFFE959']时，需要[colour='FFFFFFFF']所需的研究点数[colour='FFFFE959']所相应的模块。
-#19409	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']연구 재료로 사용한 아이템, 모듈은 모두 소모되니 주의하시기 바랍니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']请注意以研究材料所使用的物品和模块将会被消耗。
+#19406	[!Dialog][!speaker:Kylie_Smile]재료만 충분히 있으면 내가 제작 가능한 모듈은 다 제작할 수 있어.	[!Dialog][!speaker:Kylie_Smile]只要素材够用，我所能制作的模块都可以做。
+#19407	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']현재 선택한 모듈을 연구하기 위해서는 [colour='FFFFFFFF']고정 연구 재료[colour='FFFFE959']에 등록된 아이템이 필요합니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']为了研究现在所选择的模块，需要在[colour='FFFFFFFF']固定的研究素材[colour='FFFFE959']中登入的物品。
+#19408	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']또한 [colour='FFFFFFFF']추가 연구 재료[colour='FFFFE959']가 필요한 경우, [colour='FFFFFFFF']필요 연구 점수[colour='FFFFE959']에 해당하는 모듈이 필요합니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']并且需要[colour='FFFFFFFF']附加研究素材[colour='FFFFE959']时，需要[colour='FFFFFFFF']所需的研究点数[colour='FFFFE959']所相应的模块。
+#19409	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']연구 재료로 사용한 아이템, 모듈은 모두 소모되니 주의하시기 바랍니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']请注意以研究素材所使用的物品和模块将会被消耗。
 #19410	[!Sentence][!Subtitle][!speaker:Kylie_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']전에 말한 제안 아직도 유효한가?	[!Sentence][!Subtitle][!speaker:Kylie_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']之前说的提案仍然有效吗？
 #19411	[!Sentence][!Subtitle][!speaker:Kylie_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']충분한 보수만 준다면 합류하도록 할게.	[!Sentence][!Subtitle][!speaker:Kylie_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']只要给予足够的报酬，我就加入。
 #19412	[!Dialog][!speaker:Albus_Normal]오늘은 카일리씨 급여일이네.	[!Dialog][!speaker:Albus_Normal]今天是凯莉的发薪日。
@@ -10247,7 +10247,7 @@
 #19440	[!Dialog]같은 가치만큼 돈을 지불해.	[!Dialog]来付同样价值的钱。
 #19441	[!Dialog]너에게 필요한 것이라면 무엇이든 구해보지.	[!Dialog]若是你需要的，我就去取。
 #19442	[!Dialog]연금술이란 믿는 자에게만 보상을 가져다주지.	[!Dialog]炼金术只会给信任的人带来补偿。
-#19443	[!Dialog]이런 재료를 취급하는 사람은 나 뿐이야.	[!Dialog]只有我把这东西当真的材料。
+#19443	[!Dialog]이런 재료를 취급하는 사람은 나 뿐이야.	[!Dialog]只有我把这东西当做真的素材。
 #19444	[!Sentence][!Dialog][!speaker:Gangster_SmugglerThin_Normal]경찰이 모든 진입로를 봉쇄했습니다.	[!Sentence][!Dialog][!speaker:Gangster_SmugglerThin_Normal]警察封锁了所有的路口。
 #19445	[!Sentence][!Choice]물류 센터 출구	[!Sentence][!Choice]物流中心出口
 #19446	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]어디까지나 30분 전 까지 파악된 상황이야.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]这只是半小时之前所了解的状况。
@@ -11199,7 +11199,7 @@
 #20556	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]매우 신중하고 영리한 녀석입니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]是个非常慎重且聪明的家伙。
 #20557	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]혹시 『 흑호 』쪽의 동향은?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]或许...「黑虎」那边的动向呢？
 #20558	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]그녀석들... 진심으로 트러블슈터가 되려는 지 모든 마찰을 회피하고 있습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]那群家伙们...貌似真心想成为纷争终结者，正在避开所有的冲突。
-#20559	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]트레이 녀석의 속 마음은 모르겠지만 적어도 이렇게 노출될 일을 진행할 자는 아니겠죠.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]虽然不知道特洛伊那家伙所想的，但是他不会做这样容易暴露的举动得。
+#20559	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]트레이 녀석의 속 마음은 모르겠지만 적어도 이렇게 노출될 일을 진행할 자는 아니겠죠.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]虽然不知道特莱那家伙所想的，但是他不会做这样容易暴露的举动得。
 #20560	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]그럼 역시 『 블랙펄 』의 그 여자인가...	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]那么果然是「黑珍珠」那女的吗...
 #20561	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]적어도 세계수 지구의 그 강대한『 스컬 』이 공중분해 된 소문이 사실이라면...	至少世界树地区的那强大的「骷髅」被解体的传闻属实的话...
 #20562	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]가능성 충분히 있습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]有充分的可能性。
@@ -11476,7 +11476,7 @@
 #20852	[!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']더 나아가 그들의 가족, 혈육 모두를 목표로 하고 있다.	[!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']不仅如此，他们的家人也已注定为目标了呢。
 #20853	[!Dialog][!speaker:Gangster_Foo_Blood_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']케빈. 쓸데 없는 짓 하지 말고 임무나 수행해.	[!Dialog][!speaker:Gangster_Foo_Blood_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']凯文，不要做没用的事，快去执行任务。
 #20854	[!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']죄송합니다. 보스.	[!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']首领，我错了。
-#20855	[!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']보스와 상의없이 보스를 살리기 위해 스콧님과 트레이님의 동의도 확보했습니다.	[!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']为了救出首领，已经得到了斯科特和特洛伊的同意。
+#20855	[!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']보스와 상의없이 보스를 살리기 위해 스콧님과 트레이님의 동의도 확보했습니다.	[!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']为了救出首领，已经得到了斯科特和特莱的同意。
 #20856	[!Dialog][!speaker:Gangster_Foo_Blood_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']케빈. 그 녀석들에게 빚을 만들지 말고 그냥 날 버려라. 그리고 네가 백호파를 이끌어라.	[!Dialog][!speaker:Gangster_Foo_Blood_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']凯文。不要欠他们情，把我丢下吧。以后就由你来带领白虎组了。
 #20857	[!Dialog][!speaker:Don_Blood_Young]네 녀석. 가만히 있어!	[!Dialog][!speaker:Don_Blood_Young]你给我等着！
 #20858	[!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']돈 브루스. 네가 원하는 것이 정의인지 네 주변인들의 행복인지 모르겠지만...	[!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']敦・布鲁斯。虽然不知道你想要的到底是正义还是周围人们的幸福...
@@ -11758,7 +11758,7 @@
 #21152	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]네...	[!Sentence][!Dialog][!speaker:Albus_Disappoint]是...
 #21153	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]여기 남고 싶다면 남아도 돼.	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]但是想要留在这里的话，也可以留下来。
 #21154	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]너 항동결 수액은 보충할 수 있니?	你能补充抗冻结液体吗？
-#21155	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]네. 박사님으로부터 배웠어요. AFL 항생제만 있다면...	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]是的。从楠博士那里学到了。只要有材料的话...
+#21155	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]네. 박사님으로부터 배웠어요. AFL 항생제만 있다면...	[!Sentence][!Dialog][!speaker:Leton_Hurt_Serious_Boy]是的。从楠博士那里学到了。只要有素材的话...
 #21156	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]비샤 씨. 남는 AFL 항생제 박스 좀  부탁해요.	比沙，拜托把剩下的AFL箱子拿来。
 #21157	[!Sentence][!Dialog][!speaker:Lily_Normal_Young]자. 이건 항동결 수액에 들어가는 AFL 항상제 제조법이야.	[!Sentence][!Dialog][!speaker:Lily_Normal_Young]来，这是含有抗冻结液体的AFL抗生素制造法。
 #21158	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]만약을 위해서야.	[!Sentence][!Dialog][!speaker:Lily_Smile_Young]为了以防万一。
@@ -12161,7 +12161,7 @@
 #21569	[!Sentence][!Dashboard:Counter]남은 드라키 수	[!Sentence][!Dashboard:Counter]所剩的德拉基个数
 #21570	[!Sentence][!Objective]드라키 우두머리를 제압하시오.	[!Sentence][!Objective]请制服德拉基首领。
 #21571	[!Sentence][!Title]최상위 포식자	[!Sentence][!Title]顶级捕食者
-#21572	[!Sentence][!Title]철의 숲 버려진 동굴	[!Sentence][!Title]铁森林被遗弃的洞穴
+#21572	[!Sentence][!Title]철의 숲 버려진 동굴	[!Sentence][!Title]铁森林废弃洞穴
 #21573	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]이 괴물들은 지난 가을보다 진짜 많이 늘었네요...	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]这些家伙们比过去的秋天变得更多了呢...
 #21574	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]왕네굴 씨. 우리 살아나갈 수 있을까요?	[!Sentence][!Dialog][!speaker:Beast_Frog_Fire2_Normal]纳古利王，我们能够存活下来吗？
 #21575	[!Sentence][!Dialog][!speaker:Beast_Frog_Normal3_Normal]미안하다. 괜히 여기 오자고 해서...	[!Sentence][!Dialog][!speaker:Beast_Frog_Normal3_Normal]这是抱歉，带你们来这里...
@@ -12224,7 +12224,7 @@
 #21636	[!Sentence][!Dialog][!speaker:Albus_Surprise]드라키??	[!Sentence][!Dialog][!speaker:Albus_Surprise]德拉基？？
 #21637	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]도대체... 이런 곳에 왜 드라키가...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]到底...为什么这有德拉基在...
 #21641	[!Sentence][!Title]일족의 지배자	[!Sentence][!Title]一族的支配者
-#21642	[!Sentence][!Title]드라키 둥지 보물 창고	[!Sentence][!Title]德拉基巢宝物仓库
+#21642	[!Sentence][!Title]드라키 둥지 보물 창고	[!Sentence][!Title]德拉基巢穴宝物仓库
 #21643	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black3_Ground_Normal]도대체 진화를 시킨 보람이 없는 녀석이군.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black3_Ground_Normal]真的是没有使它进化的意义啊。
 #21644	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Normal]죄송합니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]对不起。
 #21645	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]죄송합니다. 대왕님.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Frost3_Ground_Normal]大王，我错了。
@@ -12232,7 +12232,7 @@
 #21647	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black3_Ground_Normal]그리고 부화장의 아이들의 안전을 최우선으로 한다!	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black3_Ground_Normal]并且以孵化场孩子们的安全为先！
 #21648	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black2_Ground_Normal]알겠습니다!	[!Sentence][!Dialog][!speaker:Roberto_Smile]明白了！
 #21649	[!Sentence][!Title]일족의 어머니	[!Sentence][!Title]一族之母
-#21650	[!Sentence][!Title]드라키 둥지 부화장	[!Sentence][!Title]德拉基巢孵化场
+#21650	[!Sentence][!Title]드라키 둥지 부화장	[!Sentence][!Title]德拉基巢穴孵化场
 #21651	[!Sentence][!Dialog][!speaker:Beast_Dragon_White3_Normal]어머니. 칩입자가 올 수 있다니 조심하세요.	[!Sentence][!Dialog][!speaker:Beast_Dragon_White3_Normal]妈妈，入侵者有可能会来，请小心。
 #21652	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black3_Normal]걱정마. 어머니는 내가 지킨다.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black3_Normal]不要担心，妈妈由我来守护。
 #21653	[!Sentence][!Dialog][!speaker:Beast_Dragon_White3_Ground_Normal]고맙구나. 둘 다.	[!Sentence][!Dialog][!speaker:Beast_Dragon_White3_Ground_Normal]谢谢你们。
@@ -12240,14 +12240,14 @@
 #21655	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black3_Normal]네. 걱정 마세요!	[!Sentence][!Dialog][!speaker:Anne_Smile]嗯！不要担心！
 #21656	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black3_Normal]동생들은 저희가 꼭 지켜낼 거에요.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black3_Normal]我们一定会守护好弟弟妹妹们的。
 #21657	[!Sentence][!Title]환상의 드라키	[!Sentence][!Title]幻想的德拉基
-#21658	[!Sentence][!Title]드라키 둥지 순찰로	[!Sentence][!Title]德拉基巢巡查路
+#21658	[!Sentence][!Title]드라키 둥지 순찰로	[!Sentence][!Title]德拉基巢穴巡查路
 #21659	[!Sentence][!Dialog][!speaker:Beast_Dragon_Water3_Normal]이번 순찰조는 너희들인가?	[!Sentence][!Dialog][!speaker:Beast_Dragon_Water3_Normal]这次的巡逻是你们吗？
 #21660	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black2_Ground_Normal]네. 맹독 남작님.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black2_Ground_Normal]是的，猛毒男爵大人。
 #21661	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black2_Ground_Normal]저를 포함해 이 아이들이 이번 순찰조입니다.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Black2_Ground_Normal]巡逻组由我和这群孩子组成。
 #21662	[!Sentence][!Dialog][!speaker:Beast_Dragon_Water3_Normal]그래. 부화장을 지나 지상으로 나가는 동굴 입구까지 부탁한다.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Water3_Normal]嗯。那经过孵化场至洞穴的入口就拜托你了。
 #21663	[!Sentence][!Dialog][!speaker:Beast_Dragon_Water3_Ground_Normal]부화장을 지나갈 때는 아이들이 깨지 않도록 조용히 지나가렴.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Water3_Ground_Normal]经过孵化场时，小心不要让孩子们弄醒了。
 #21664	[!Sentence][!Title]광란의 드라키	[!Sentence][!Title]狂乱的德拉基
-#21665	[!Sentence][!Title]드라키 둥지 용광로	[!Sentence][!Title]德拉基巢高炉
+#21665	[!Sentence][!Title]드라키 둥지 용광로	[!Sentence][!Title]德拉基巢穴高炉
 #21666	[!Sentence][!Dialog][!speaker:Beast_Dragon_Flame3_Ground_Normal]현재 용광로의 온도는?	[!Sentence][!Dialog][!speaker:Beast_Dragon_Flame3_Ground_Normal]当前高炉的温度是？
 #21667	[!Sentence][!Dialog][!speaker:Beast_Dragon_Flame3_Normal]한 숨결에 기본 비늘 1000개를 태울 화력입니다.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Flame3_Normal]气息一次可以烧掉1000个基本鳞片。
 #21668	[!Sentence][!Dialog][!speaker:Beast_Dragon_Flame3_Ground_Normal]조금 부족하군. 권속들에게 불꽃을 조금 더 뽑아내라고 해라!	[!Sentence][!Dialog][!speaker:Beast_Dragon_Flame3_Ground_Normal]嗯，还是有点不足。叫同志们在增加点火力！
@@ -12258,7 +12258,7 @@
 #21673	[!Sentence][!Dialog][!speaker:Beast_Dragon_Flame3_Ground_Normal]가장 많은 사랑을 받은 우리 파벌이 어머니와 동생들을 춥게 만들어서야 면목이 서겠는가!	[!Sentence][!Dialog][!speaker:Beast_Dragon_Flame3_Ground_Normal]绝对不能让母亲和后代们着凉。
 #21674	[!Sentence][!Dialog][!speaker:Beast_Dragon_Flame3_Normal]군주님의 뜻 받들겠습니다!	[!Sentence][!Dialog][!speaker:Beast_Dragon_Flame3_Normal]奉君旨意！
 #21675	[!Sentence][!Title]신속의 드라키	[!Sentence][!Title]迅速的德拉基
-#21676	[!Sentence][!Title]드라키 둥지 쉼터	[!Sentence][!Title]德拉基巢休息区
+#21676	[!Sentence][!Title]드라키 둥지 쉼터	[!Sentence][!Title]德拉基巢穴休息区
 #21677	[!Sentence][!Dialog][!speaker:Beast_Dragon_Lightning3_Normal]다들 깨진 비늘은 서로 확인하여 걷어 내고, 부상자는 빨리 치료를 받아라!	[!Sentence][!Dialog][!speaker:Beast_Dragon_Lightning3_Normal]互相帮忙确认对方的鳞片，伤者则快速去接受治疗！
 #21678	[!Sentence][!Dialog][!speaker:Beast_Dragon_Lightning3_Ground_Normal]남작. 다시 재정비하는 시간은 얼마나 걸리겠나?	[!Sentence][!Dialog][!speaker:Beast_Dragon_Lightning3_Ground_Normal]男爵，重新再整备需要多久？
 #21679	[!Sentence][!Dialog][!speaker:Beast_Dragon_Lightning3_Normal]일단 깨진 비늘을 걷어 내고 발톱이나 이빨을 다시 가는 정도라면 열 숨결 내 끝날 것 같습니다.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Lightning3_Normal]首先把破损的鳞片弄下并重新整备爪子和牙齿的话是需要10次的气息。
@@ -12268,15 +12268,15 @@
 #21683	[!Sentence][!Dialog][!speaker:Beast_Dragon_Lightning3_Normal]최대한 독촉하여 바로 전열을 정비하도록 하겠습니다.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Lightning3_Normal]我尽量去把阵列整好的。
 #21684	[!Sentence][!Dialog][!speaker:Beast_Dragon_Lightning3_Ground_Normal]그래. 잘 부탁한다.	[!Sentence][!Dialog][!speaker:Kylie_Normal_Girl3]是啊，多多指教。
 #21685	[!Sentence][!Title]불굴의 드라키	[!Sentence][!Title]不屈德拉基
-#21686	[!Sentence][!Title]드라키 둥지 초소	[!Sentence][!Title]德拉基巢哨所
+#21686	[!Sentence][!Title]드라키 둥지 초소	[!Sentence][!Title]德拉基巢穴哨所
 #21687	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Ground_Normal]칩입자는 강하다.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Ground_Normal]侵入者很强的。
 #21688	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Ground_Normal]절대 인간이라고 얕보지 마라.	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Ground_Normal]绝对不要小看人类。
 #21689	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]넵! 알겠습니다!	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Normal]是的！知道了！
 #21690	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Ground_Normal]그리고 언제나 우리의 최우선 순위는 부화장의 어머니이다!	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Ground_Normal]不要忘记，我们第一位不管何时，都是孵化场的母亲！
 #21691	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Ground_Normal]자신이 어머니의 일부에 지나지 않음을 자각하고 자신의 모든 것을 던져라!	[!Sentence][!Dialog][!speaker:Beast_Dragon_Earth3_Ground_Normal]母亲是我们的一切，赌上自己所有的，去保护她！
-#21692	[!Sentence][!Dialog]철의 숲 버려진 동굴에서 찾아낸 드라키의 둥지로 이어지는 통로.	[!Sentence][!Dialog]吉赛尔在铁森林被遗弃的洞穴里找到的德拉基巢。
-#21693	[!Sentence][!Dialog]사무실로 복귀한 지젤은 동굴의 지도를 찾아 드라키 둥지를 유추해낸다.	[!Sentence][!Dialog]回到办公室后，吉赛尔在洞穴的地图基础上，将德拉基巢的位置进行了类推。
-#21694	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]돌연변이 드라키 둥지라니... 기가 차는 군.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]突变的德拉基巢啊...真是没想到。
+#21692	[!Sentence][!Dialog]철의 숲 버려진 동굴에서 찾아낸 드라키의 둥지로 이어지는 통로.	[!Sentence][!Dialog]吉赛尔在铁森林废弃洞穴里找到的德拉基巢穴。
+#21693	[!Sentence][!Dialog]사무실로 복귀한 지젤은 동굴의 지도를 찾아 드라키 둥지를 유추해낸다.	[!Sentence][!Dialog]回到办公室后，吉赛尔在洞穴的地图基础上，将德拉基巢穴的位置进行了类推。
+#21694	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]돌연변이 드라키 둥지라니... 기가 차는 군.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]突变的德拉基巢穴啊...真是没想到。
 #21695	[!Sentence][!Dialog][!speaker:Giselle_Normal]자원 관리 구역에만 몰두하는데 알 리가 있나.	[!Sentence][!Dialog][!speaker:Giselle_Normal]只关心资源管理区域，怎么会知道呐。
 #21696	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]네 보고서를 받은 정부에서는 철의 숲의 드라키를 1급 생태계 교란종으로 지정했어.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]接到你报告的政府把铁森林的德拉基指定为一级生态扰乱物种。
 #21697	[!Sentence][!Dialog][!speaker:Giselle_Smile2]많이 급하네~	[!Sentence][!Dialog][!speaker:Giselle_Smile2]看来很急啊～
@@ -12292,7 +12292,7 @@
 #21707	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]리치 베인이 사라지면 지구 전체가 흔들린다.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]富矿消失的话地区的经济平衡就会从根本倒塌。
 #21708	[!Sentence][!Dialog][!speaker:Giselle_Smile]그래. 즐거운 일은 언제나 환영이야.	[!Sentence][!Dialog][!speaker:Giselle_Smile]是啊，愉快的事总是欢迎的。
 #21709	[!Sentence][!Title]생태계 파괴자	[!Sentence][!Title]生态破坏者
-#21710	[!Sentence][!Title]드라키 둥지	[!Sentence][!Title]德拉基巢
+#21710	[!Sentence][!Title]드라키 둥지	[!Sentence][!Title]德拉基巢穴
 #21711	[!Sentence][!Dialog][!speaker:Giselle_Smile2]둥지가 제법 크네. 시간 좀 걸리겠어~	[!Sentence][!Dialog][!speaker:Giselle_Smile2]巢够大了，要调查需要花点时间～
 #21712	[!Sentence][!Dialog][!speaker:Giselle_Smile]'각인 전의 아이를 만날 수 있으려나...'	[!Sentence][!Dialog][!speaker:Giselle_Smile]（可以看到刻印前的孩子呐...）
 #21713	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]'이 녀석들은 정말 내 취향인데 말야...'	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]（那才是我的喜好呐...）
@@ -12711,7 +12711,7 @@
 #22524	[!DialogQuest][!speaker:Oleg_Smile]그래. 오늘도 괜찮은 무기가 있나 보러 온 건가?	[!DialogQuest][!speaker:Oleg_Smile]知道了。今天也是来看有没有不错的武器吗？
 #22525	[!DialogQuest][!speaker:Albus_Normal]네. 괜찮은 상품들이 들어왔나요?	[!DialogQuest][!speaker:Albus_Normal]是的。有不错的物品进货了吗？
 #22526	[!DialogQuest][!speaker:Kylie_Surprise]알버스. 무기가 필요한 거야?	[!DialogQuest][!speaker:Kylie_Surprise]阿尔伯斯，需要武器吗？
-#22527	[!DialogQuest][!speaker:Kylie_Smile]재료만 가져와. 내가 제작해 줄게.	[!DialogQuest][!speaker:Kylie_Smile]拿材料来，我亲自给你做。
+#22527	[!DialogQuest][!speaker:Kylie_Smile]재료만 가져와. 내가 제작해 줄게.	[!DialogQuest][!speaker:Kylie_Smile]拿素材来，我亲自给你做。
 #22528	[!DialogQuest][!speaker:Oleg_Normal]카일리 누님. 그러시면 안 되죠.	[!DialogQuest][!speaker:Oleg_Normal]凯莉大姐，不应该的。
 #22529	[!DialogQuest][!speaker:Kylie_Smile]올레그. 억울한가?	[!DialogQuest][!speaker:Kylie_Smile]奥列格，冤枉吗？
 #22530	[!DialogQuest][!speaker:Kylie_Satisfying]그럼 내가 제작할 필요도 없는 최상급 좋은 무기들을 들여와.	[!DialogQuest][!speaker:Kylie_Satisfying]那就拿来卖我无法制造地优秀的武器啊。
@@ -13131,7 +13131,7 @@
 #22949	[!DialogQuest][!speaker:Albus_Normal]무슨 일이신가요?	[!DialogQuest][!speaker:Albus_Normal]有什么事情呢？
 #22950	[!DialogQuest][!speaker:Sam_Smile]혹시 너희 회사에서 처분하지 못한 맹수의 뼈가 있지 않아?	[!DialogQuest][!speaker:Sam_Smile]难道你们还有没处理完而剩余的猛兽骨头吗？
 #22951	[!DialogQuest][!speaker:Albus_SurpriseStare]맹수의 뼈요?	[!DialogQuest][!speaker:Albus_SurpriseStare]猛兽的骨头吗？
-#22952	[!DialogQuest][!speaker:Sam_Smile]그래. 각종 물품 제작에 다양하게 쓰이는 재료지.	[!DialogQuest][!speaker:Sam_Smile]是啊，是用于制作各种物品的材料啊。
+#22952	[!DialogQuest][!speaker:Sam_Smile]그래. 각종 물품 제작에 다양하게 쓰이는 재료지.	[!DialogQuest][!speaker:Sam_Smile]是啊，是用于制作各种物品的素材啊。
 #22953	[!DialogQuest][!speaker:Irene_Surprise]여기서 팔고 있는 이것이 맹수의 뼈 아닌가?	[!DialogQuest][!speaker:Irene_Surprise]在这里卖的不是猛兽的骨头吗？
 #22954	[!DialogQuest][!speaker:Anne_Normal]아이린 언니. 그거 맹수의 뼈 맞아요.	[!DialogQuest][!speaker:Anne_Normal]艾琳姐姐。那就是猛兽的骨头。
 #22955	[!DialogQuest][!speaker:Sam_Normal]그래. 바로 이거야. 전리품 중에 이 물건들 남은 것 있지 않나?	[!DialogQuest][!speaker:Sam_Normal]是啊，就是那个。战利品中不是有很多吗？
@@ -13139,7 +13139,7 @@
 #22957	[!DialogQuest][!speaker:Albus_Normal]아마 회사 창고에 찾아보면 남는 것이 있을 것 같습니다.	[!DialogQuest][!speaker:Albus_Normal]看来公司仓库里可能还有剩余的。
 #22958	[!DialogQuest][!speaker:Sam_Smile]그래. 잘 됐군. 너희들에게 달리 쓸 용도가 없다면 $Count$개 정도 나에게 넘기겠나?	[!DialogQuest][!speaker:Sam_Smile]啊，那正好。那能给我$Count$个左右吗？
 #22959	[!DialogQuest][!speaker:Irene_Surprise]여기 이렇게 많이 팔고 있으면서 원하는 건가?	[!DialogQuest][!speaker:Irene_Surprise]这里已经在出售这么多了，还需要吗？
-#22960	[!DialogQuest][!speaker:Sam_Smile]이런 재료 수급은 언제나 꾸준한 물량을 확보하기 힘들어.	[!DialogQuest][!speaker:Sam_Smile]这种材料无法每次都确保这么多。
+#22960	[!DialogQuest][!speaker:Sam_Smile]이런 재료 수급은 언제나 꾸준한 물량을 확보하기 힘들어.	[!DialogQuest][!speaker:Sam_Smile]这种素材无法每次都确保这么多。
 #22961	[!DialogQuest][!speaker:Sam_Smile]$CompanyName$의 활동이 왕성하니 전리품도 많겠다 싶어 물어 본거야.	[!DialogQuest][!speaker:Sam_Smile]$CompanyName$活动很旺盛，觉得战利品也因此会很多才问问的。
 #22962	[!DialogQuest][!speaker:Albus_Think]'나쁘지 않은 제안 같은데... 거래 차익이 얼마나 될려나...'	[!DialogQuest][!speaker:Albus_Think]（貌似这个提案很不错...利益会是多少呢...）
 #22963	[!DialogQuest][!speaker:Albus_Normal]개당 얼마나 쳐 주실 건가요?	[!DialogQuest][!speaker:Albus_Normal]要多少钱购买呢？
@@ -13169,10 +13169,10 @@
 #22987	[!DialogQuest][!speaker:Albus_Normal]이번에 필요하신 물건은 무엇인가요?	[!DialogQuest][!speaker:Albus_Normal]这次需要的东西是什么呢？
 #22988	[!DialogQuest][!speaker:Sam_Smile]이번에 확보하려는 물품은 맹수의 발톱이야.	[!DialogQuest][!speaker:Sam_Smile]这次想要获取的是猛兽之爪。
 #22989	[!DialogQuest][!speaker:Sam_Smile]어때?	[!DialogQuest][!speaker:Sam_Smile]怎样？
-#22990	[!DialogQuest][!speaker:Sam_Normal]평소에 제작 작업에 관심이 없으면 여러 재료가 창고에 남기 마련이지.	[!DialogQuest][!speaker:Sam_Normal]平时对制作不感兴趣的话，各种材料都会留在仓库里的。
+#22990	[!DialogQuest][!speaker:Sam_Normal]평소에 제작 작업에 관심이 없으면 여러 재료가 창고에 남기 마련이지.	[!DialogQuest][!speaker:Sam_Normal]平时对制作不感兴趣的话，各种素材都会留在仓库里的。
 #22991	[!DialogQuest][!speaker:Sam_Normal]회사 인력이 기본적인 장비 제작을 할 수 있다면 회사 운영에 많은 도움이 될 거야.	[!DialogQuest][!speaker:Sam_Normal]如果公司的职员能做一些基本的设备制造的话，对公司的运营会有很大的帮助的。
 #22992	[!DialogQuest][!speaker:Sam_Smile]그리고 그 과정에서 우리 가게 상품이 많이 필요할 거니 자주 찾아주면 좋지.	[!DialogQuest][!speaker:Sam_Smile]而且在这个过程中，会非常需要我们店的商品，所以经常来找我就好了。
-#22993	[!DialogQuest][!speaker:Sam_Smile]그래. 이런 재료는 또 금방 구할 수 있을 거야.	[!DialogQuest][!speaker:Sam_Smile]是啊，这样的材料很快就能取到的。
+#22993	[!DialogQuest][!speaker:Sam_Smile]그래. 이런 재료는 또 금방 구할 수 있을 거야.	[!DialogQuest][!speaker:Sam_Smile]是啊，这样的素材很快就能取到的。
 #22994	[!DialogQuest][!speaker:Sam_Smile]모든 물건은 그 순간 필요한 사람에게 있는 것이 좋은 거지.	[!DialogQuest][!speaker:Sam_Smile]所有的东西在那一瞬间，能在最需要的人的身旁是最好的。
 #22995	[!DialogQuest][!speaker:Sam_Normal]잘 왔어. 혹시 맹수의 송곳니 남는 거 있나?	[!DialogQuest][!speaker:Sam_Normal]来得正好，你们有剩下的猛兽的尖牙吗？
 #22996	[!DialogQuest][!speaker:Albus_Normal]맹수의 송곳니인가요?	[!DialogQuest][!speaker:Albus_Normal]猛兽的尖牙吗？
@@ -13188,7 +13188,7 @@
 #23006	[!DialogQuest][!speaker:Sam_Smile]좋은 물품 거래해줘서 고마워.	[!DialogQuest][!speaker:Sam_Smile]谢谢交易。
 #23007	[!DialogQuest][!speaker:Sam_Normal]괴수의 발톱 남는 거 있나?	[!DialogQuest][!speaker:Sam_Normal]有剩下的怪兽之爪吗？
 #23008	[!DialogQuest][!speaker:Albus_Normal]괴수의 발톱인가요?	[!DialogQuest][!speaker:Albus_Normal]怪兽之爪吗？
-#23009	[!DialogQuest][!speaker:Sam_Normal]상급 재료들을 확보할 수 있으니 숨통이 탁 트이는 것 같아.	[!DialogQuest][!speaker:Sam_Normal]能确保到上级材料了，感觉松了一口气。
+#23009	[!DialogQuest][!speaker:Sam_Normal]상급 재료들을 확보할 수 있으니 숨통이 탁 트이는 것 같아.	[!DialogQuest][!speaker:Sam_Normal]能收集到上级素材了，感觉松了一口气。
 #23010	[!DialogQuest][!speaker:Sam_Normal]지금처럼 잘 부탁한다.	[!DialogQuest][!speaker:Sam_Normal]就像这样继续拜托你们了。
 #23011	[!DialogQuest][!speaker:Sam_Smile]고생했어. 그리고 언제나 고맙다.	[!DialogQuest][!speaker:Sam_Smile]辛苦了。一直都很谢谢你。
 #23012	[!DialogQuest][!speaker:Sam_Normal]잘 왔어. 혹시 괴수의 송곳니 남는 거 있나?	[!DialogQuest][!speaker:Sam_Normal]来得好。是否有剩下的怪兽的尖牙吗？
@@ -13487,12 +13487,12 @@
 #23306	[!DialogQuest][!speaker:Ray_Normal]목적은 숟가락이 아니라 숟가락에 포함된 구리를 팔려는 거지.	[!DialogQuest][!speaker:Ray_Normal]目的不是卖勺子，而是卖勺子中的铜啊。
 #23307	[!DialogQuest][!speaker:Sion_Surprise]구리?	[!DialogQuest][!speaker:Sion_Surprise]铜？
 #23308	[!DialogQuest][!speaker:Ray_Normal]그래. 이 동네 요즘 한창 재건축 붐이 일고 있잖아?	[!DialogQuest][!speaker:Ray_Normal]是啊。最近这地区不是掀起新开发热潮了吗？
-#23309	[!DialogQuest][!speaker:Ray_Normal]그에 비해 치안은 불안하니 공사 현장의 자재들은 빠르게 들어오지 못해 다들 답답하겠지.	[!DialogQuest][!speaker:Ray_Normal]但是因为治安不稳定，因此不能及时引进工程现场所需的材料。
-#23310	[!DialogQuest][!speaker:Ray_Normal]그러니 이리저리 고물들을 모아 필요한 자재들을 충당하려고 하겠지.	[!DialogQuest][!speaker:Ray_Normal]所以会从各地收集一些旧物作为材料。
+#23309	[!DialogQuest][!speaker:Ray_Normal]그에 비해 치안은 불안하니 공사 현장의 자재들은 빠르게 들어오지 못해 다들 답답하겠지.	[!DialogQuest][!speaker:Ray_Normal]但是因为治安不稳定，因此不能及时引进工程现场所需的素材。
+#23310	[!DialogQuest][!speaker:Ray_Normal]그러니 이리저리 고물들을 모아 필요한 자재들을 충당하려고 하겠지.	[!DialogQuest][!speaker:Ray_Normal]所以会从各地收集一些旧物作为素材。
 #23311	[!DialogQuest][!speaker:Ray_Smile]아마 그런 용도 아닐까?	[!DialogQuest][!speaker:Ray_Smile]大概是为了那种用途吧？
 #23312	[!DialogQuest][!speaker:Anne_Surprise]'레이 언니... 어떻게 저런 걸 다 아시지...'	[!DialogQuest][!speaker:Anne_Surprise]（雷伊姐姐...怎么能知道那样的事呢...）
 #23313	[!DialogQuest][!speaker:Hundred_Normal]'역시 공사 현장에서 구른 경험이 있는 자는 다르군.'	[!DialogQuest][!speaker:Hundred_Normal]（在工地做过事的人果然不一样。）
-#23314	[!DialogQuest][!speaker:Hundred_Normal]일단 청동 숟가락이 고물로 수집할 가치가 있는지 견본을 구해서 녹여 보려고 구해달라는 것이야.	[!DialogQuest][!speaker:Hundred_Normal]为了了解青铜勺子作为材料的价值，所以要请他帮忙。
+#23314	[!DialogQuest][!speaker:Hundred_Normal]일단 청동 숟가락이 고물로 수집할 가치가 있는지 견본을 구해서 녹여 보려고 구해달라는 것이야.	[!DialogQuest][!speaker:Hundred_Normal]为了了解青铜勺子作为素材的价值，所以要请他帮忙。
 #23315	[!DialogQuest][!speaker:Hundred_Normal]구리 함유율이 높다면 도매 자재 상인들이 매입해줄 테니까 말이야.	[!DialogQuest][!speaker:Hundred_Normal]铜的含量高的话批发商们会购买的。
 #23316	[!DialogQuest][!speaker:Sion_SurpriseStare]만약 함유율이 낮으면?	[!DialogQuest][!speaker:Sion_SurpriseStare]那如果含量不高的话呢？
 #23317	[!DialogQuest][!speaker:Hundred_Normal]쓰레기인거지.	[!DialogQuest][!speaker:Hundred_Normal]那是垃圾。
@@ -14506,7 +14506,7 @@
 #24590	[!DialogQuest][!speaker:Albus_SurpriseStare]지금요?	[!DialogQuest][!speaker:Albus_SurpriseStare]现在吗？
 #24591	[!DialogQuest][!speaker:Camila_Normal]응. 자원관리구역이 트러블슈터들에게 전면 개방되었으니 이제 중개소도 바빠질테니까.	[!DialogQuest][!speaker:Camila_Normal]嗯。随着资源管理区为纷争终结者全面开放，中介所也就跟着忙碌了。
 #24592	[!DialogQuest][!speaker:Albus_Normal]그럼 어떤 이능석을 추출해오면 될까요?	[!DialogQuest][!speaker:Albus_Normal]那么提取什么样的异能石来呢？
-#24593	[!DialogQuest][!speaker:Camila_Normal]차근차근 기본 물량부터 확보해보자. 일단 가장 많이 거래되는 불꽃 파편부터 부탁해.	[!DialogQuest][!speaker:Camila_Normal]一步步从确保基本数量开始吧。首先拜托一下交易最多的火花碎片。
+#24593	[!DialogQuest][!speaker:Camila_Normal]차근차근 기본 물량부터 확보해보자. 일단 가장 많이 거래되는 불꽃 파편부터 부탁해.	[!DialogQuest][!speaker:Camila_Normal]一步步从收集基本数量开始吧。首先拜托一下交易最多的火花碎片。
 #24594	[!DialogQuest][!speaker:Camila_Smile]보상은 이 정도로 생각하고 있어.	[!DialogQuest][!speaker:Camila_Smile]报酬是这么多。
 #24595	[!DialogQuest][!speaker:Camila_Normal]한동안 자원관리구역에는 채굴 전문 회사만 접근하고 있었어.	[!DialogQuest][!speaker:Camila_Normal]原来只有采掘专业公司找资源管理区的。
 #24596	[!DialogQuest][!speaker:Camila_Normal]하지만 이젠 트러블슈터 회사들이 많이 참여하니까 한동안 이능석 거래가 활발해지겠지.	[!DialogQuest][!speaker:Camila_Normal]但是现在有很多纷争终结者公司参与，所以异能石的交易暂时会非常活跃。
@@ -14519,7 +14519,7 @@
 #24603	[!DialogQuest][!speaker:Camila_Smile]이번 의뢰에 관심이 생기면 언제든지 찾아와.	[!DialogQuest][!speaker:Camila_Smile]对这次的委托感兴趣的话，随时来找我。
 #24604	[!DialogQuest][!speaker:Camila_Normal]이 의뢰가 부담되지 않았으면 해.	[!DialogQuest][!speaker:Camila_Normal]希望这委托不会让你感到负担。
 #24605	[!DialogQuest][!speaker:Camila_Smile]계속 꾸준한 거래 부탁해.	[!DialogQuest][!speaker:Camila_Smile]要继续坚持交易的。
-#24606	[!DialogQuest][!speaker:Camila_Normal]이번에 확보하려는 이능석은 불꽃 원소야.	[!DialogQuest][!speaker:Camila_Normal]这次要确保的异能石是火花元素。
+#24606	[!DialogQuest][!speaker:Camila_Normal]이번에 확보하려는 이능석은 불꽃 원소야.	[!DialogQuest][!speaker:Camila_Normal]这次想要收集的异能石是火花元素。
 #24607	[!DialogQuest][!speaker:Albus_Laugh]의뢰로 요청하실 이능석을 저희가 미리 알 수 있을까요?	[!DialogQuest][!speaker:Albus_Laugh]我们能提前知道想要委托的异能石吗？
 #24608	[!DialogQuest][!speaker:Camila_Surprise]응? 왜?	[!DialogQuest][!speaker:Camila_Surprise]嗯？为什么？
 #24609	[!DialogQuest][!speaker:Albus_Normal]수요가 미리 예측된다면 평소에 틈틈이 준비할 수 있을 것 같습니다.	[!DialogQuest][!speaker:Albus_Normal]如果能提前知道需求，那在平时有空时可以随时去准备的。
@@ -14529,10 +14529,10 @@
 #24613	[!DialogQuest][!speaker:Albus_Laugh]그렇군요.	[!DialogQuest][!speaker:Albus_Normal]嗯。
 #24614	[!DialogQuest][!speaker:Albus_Think]'예측할 수 없다면 미리 다양한 이능석을 여분 보유하고 있는게 편하겠네...'	[!DialogQuest][!speaker:Albus_Think]（如果无法预测，那么提前采取各种异能石也不错吧...）
 #24615	[!DialogQuest][!speaker:Camila_Smile]이 의뢰 보상은 이렇게 책정되었어. 어때?	[!DialogQuest][!speaker:Camila_Smile]这委托的报酬是这么多。怎么样？
-#24616	[!DialogQuest][!speaker:Albus_Normal]아직은 다 채우지 못했습니다.	[!DialogQuest][!speaker:Albus_Normal]还没确保完。
+#24616	[!DialogQuest][!speaker:Albus_Normal]아직은 다 채우지 못했습니다.	[!DialogQuest][!speaker:Albus_Normal]还没收集完。
 #24617	[!DialogQuest][!speaker:Camila_Normal]그래. 우리도 다양한 매입 경로를 확장하고 있으니 무리하지 마.	[!DialogQuest][!speaker:Camila_Normal]好吧，我们也在以各种方式扩张交易径路，所以不要太担心了。
 #24618	[!DialogQuest][!speaker:Camila_Normal]너희들은 할 일도 많잖아.	[!DialogQuest][!speaker:Camila_Normal]知道你们很忙碌的。
-#24619	[!DialogQuest][!speaker:Camila_Normal]이번에 확보하려는 이능석은 서리 원소야.	[!DialogQuest][!speaker:Camila_Normal]这次想要确保的异能石是霜雪元素。
+#24619	[!DialogQuest][!speaker:Camila_Normal]이번에 확보하려는 이능석은 서리 원소야.	[!DialogQuest][!speaker:Camila_Normal]这次想要收集的异能石是霜雪元素。
 #24620	[!DialogQuest][!speaker:Sion_Surprise]생각보다 이능석의 소량 거래가 많네요?	[!DialogQuest][!speaker:Sion_Surprise]异能石的小交易比起想象的还更多呐。
 #24621	[!DialogQuest][!speaker:Camila_Normal]이능석은 왠만한 화석 연료보다 에너지원으로 효율이 좋아 인기가 있어.	[!DialogQuest][!speaker:Camila_Normal]异能石比化石燃料的能源效率更好，因此很有人气。
 #24622	[!DialogQuest][!speaker:Sion_SurpriseStare]그렇게 사용할 곳이 많나요?	[!DialogQuest][!speaker:Sion_SurpriseStare]那么多地方要用吗？
@@ -14545,8 +14545,8 @@
 #24629	[!DialogQuest][!speaker:Sion_Normal]열심히 추출하고 있습니다~☆	[!DialogQuest][!speaker:Sion_Normal]我会努力的～☆
 #24630	[!DialogQuest][!speaker:Camila_Normal]그래. 무리하지는 마.	[!DialogQuest][!speaker:Camila_Normal]嗯，不要太勉强。
 #24631	[!DialogQuest][!speaker:Camila_Normal]적어도 난 너희들의 주 업무가 에너지 추출 업무가 되는 것을 바라지 않아.	[!DialogQuest][!speaker:Camila_Normal]起码我不希望你们的主任务变为采取能源。
-#24632	[!DialogQuest][!speaker:Camila_Normal]이번에 확보하려는 이능석은 섬광 원소야.	[!DialogQuest][!speaker:Camila_Normal]这次想要确保的异能石是闪光元素。
-#24633	[!DialogQuest][!speaker:Albus_SurpriseStare]생각보다 다양한 이능석을 확보하시네요.	[!DialogQuest][!speaker:Albus_SurpriseStare]比想象要确保更加多样的异能石呢。
+#24632	[!DialogQuest][!speaker:Camila_Normal]이번에 확보하려는 이능석은 섬광 원소야.	[!DialogQuest][!speaker:Camila_Normal]这次想要收集的异能石是闪光元素。
+#24633	[!DialogQuest][!speaker:Albus_SurpriseStare]생각보다 다양한 이능석을 확보하시네요.	[!DialogQuest][!speaker:Albus_SurpriseStare]比想象要收集更加多样的异能石呢。
 #24634	[!DialogQuest][!speaker:Camila_Smile]규모가 작아서 그래.	[!DialogQuest][!speaker:Camila_Smile]因为规模较小。
 #24635	[!DialogQuest][!speaker:Camila_Normal]대형 창고를 보유하는 대형 중개소에서는 이렇게 다양하게 요청하지는 않을 거야.	[!DialogQuest][!speaker:Camila_Normal]拥有大型仓库的大型交易所是不会要求这么多样的异能石的。
 #24636	[!DialogQuest][!speaker:Albus_Normal]저희가 도움은 되시나요?	[!DialogQuest][!speaker:Albus_Normal]我们有所帮助吗？
@@ -14557,7 +14557,7 @@
 #24641	[!DialogQuest][!speaker:Albus_Embarrassed]감사합니다.	[!DialogQuest][!speaker:Albus_Normal]谢谢。
 #24642	[!DialogQuest][!speaker:Albus_Normal]네. 곧 마무리 될 거예요	[!DialogQuest][!speaker:Albus_Normal]嗯，马上就能做完的。
 #24643	[!DialogQuest][!speaker:Camila_Normal]응. 그래. 좋은 소식 기다릴게.	[!DialogQuest][!speaker:Camila_Normal]好的，我期待着好消息。
-#24644	[!DialogQuest][!speaker:Camila_Normal]이번에 확보하려는 이능석은 안개 원소야.	[!DialogQuest][!speaker:Camila_Normal]这次想要确保的异能石是雾霭元素。
+#24644	[!DialogQuest][!speaker:Camila_Normal]이번에 확보하려는 이능석은 안개 원소야.	[!DialogQuest][!speaker:Camila_Normal]这次想要收集的异能石是雾霭元素。
 #24645	[!DialogQuest][!speaker:Anne_Normal]저기. 까밀라 언니.	[!DialogQuest][!speaker:Anne_Normal]那个...卡米拉姐姐。
 #24646	[!DialogQuest][!speaker:Camila_Smile]응?	[!DialogQuest][!speaker:Roberto_Smile]嗯？
 #24647	[!DialogQuest][!speaker:Anne_Think]안개 이능석은 다른 속성의 이능석보다 에너지 효율이 별로 좋지 않다고 배웠는데...	[!DialogQuest][!speaker:Anne_Think]听说雾霭元素比起别属性的异能石效率并不好的...
@@ -14580,7 +14580,7 @@
 #24664	[!DialogQuest][!speaker:Anne_Smile]생각보다 다양하게 쓰이네요.	[!DialogQuest][!speaker:Anne_Smile]用处比想象的更加广泛呐。
 #24665	[!DialogQuest][!speaker:Camila_Normal]맞아. 이능석의 가격이 화석 연료보다 비싼 이유이기도 해.	[!DialogQuest][!speaker:Camila_Normal]没错。这也是为什么异能石的价格比化石燃料贵的原因。
 #24666	[!DialogQuest][!speaker:Camila_Smile]자. 이번 의뢰 보상은 이렇게 책정하려고 해. 괜찮겠어?	[!DialogQuest][!speaker:Camila_Smile]来，这次给这多的报酬怎么样？
-#24667	[!DialogQuest][!speaker:Camila_Normal]이번에 확보하려는 이능석은 폭풍 원소야.	[!DialogQuest][!speaker:Camila_Normal]这次想要确保的异能石是暴风元素。
+#24667	[!DialogQuest][!speaker:Camila_Normal]이번에 확보하려는 이능석은 폭풍 원소야.	[!DialogQuest][!speaker:Camila_Normal]这次想要收集的异能石是暴风元素。
 #24668	[!DialogQuest][!speaker:Albus_Normal]가장 쓰임이 많은 이능석인데도 왜 요청 안 하시나 했습니다.	[!DialogQuest][!speaker:Albus_Normal]恰好在好奇为什么不委托最常用的异能石呢。
 #24669	[!DialogQuest][!speaker:Camila_Smile]말 그대로 가장 사용 용도가 많고 그만큼 수요도 많기 때문이야.	[!DialogQuest][!speaker:Camila_Smile]正是因为需求很多。
 #24670	[!DialogQuest][!speaker:Albus_Surprise]수요가 많다면 더 빨리 부족해지는 것 아닌가요?	[!DialogQuest][!speaker:Albus_Surprise]需求很多不就意味着很快就不足的吗？
@@ -14590,11 +14590,11 @@
 #24674	[!DialogQuest][!speaker:Albus_Laugh]그런 면은 상상도 못 했네요. 전 그저 수요가 많을 텐데 바로 요청이 오지 않아서 이상하게 생각하고 있었어요	[!DialogQuest][!speaker:Albus_Laugh]没想到会有这样的一面呢。我一直好奇着需求那么多，却没有马上提出委托。
 #24675	[!DialogQuest][!speaker:Camila_Normal]당연히 그렇게 생각할 수 있다고 봐.	[!DialogQuest][!speaker:Camila_Normal]当然可以这样想。
 #24676	[!DialogQuest][!speaker:Camila_Smile]자. 이번 의뢰 보상은 이렇게 책정되었어. 괜찮니?	[!DialogQuest][!speaker:Camila_Smile]来，这次给这多的报酬怎么样？
-#24677	[!DialogQuest][!speaker:Camila_Normal]이번에 확보하려는 이능석은 신록 원소야.	[!DialogQuest][!speaker:Camila_Normal]这次想要确保的异能石是新绿元素。
+#24677	[!DialogQuest][!speaker:Camila_Normal]이번에 확보하려는 이능석은 신록 원소야.	[!DialogQuest][!speaker:Camila_Normal]这次想要收集的异能石是新绿元素。
 #24678	[!DialogQuest][!speaker:Albus_Laugh]결국 모든 계열 이능석 요청이 들어오네요.	[!DialogQuest][!speaker:Albus_Laugh]最终所有系列的异能石都被委托了呢。
 #24679	[!DialogQuest][!speaker:Camila_Smile]그래. 이 정도 중개소 규모에서는 어쩔 수 없는 부분이기도 해.	[!DialogQuest][!speaker:Camila_Smile]是啊。这规模的中介所是没办法的。
-#24680	[!DialogQuest][!speaker:Camila_Normal]그리고 어느 정도는 너희들 물품 확보 능력을 확인하는 과정이기도 해.	[!DialogQuest][!speaker:Camila_Normal]而且在一定程度上，也是在确认你们物品确保能力的过程。
-#24681	[!DialogQuest][!speaker:Camila_Smile]너희 팀이 어떤 물품의 확보를 잘하는지 알면 우리도 그에 맞춰 의뢰할 수 있으니까.	[!DialogQuest][!speaker:Camila_Smile]因为要知道你们的确保能力，我们才可以配合着来委托。
+#24680	[!DialogQuest][!speaker:Camila_Normal]그리고 어느 정도는 너희들 물품 확보 능력을 확인하는 과정이기도 해.	[!DialogQuest][!speaker:Camila_Normal]而且在一定程度上，也是在确认你们物品收集能力的过程。
+#24681	[!DialogQuest][!speaker:Camila_Smile]너희 팀이 어떤 물품의 확보를 잘하는지 알면 우리도 그에 맞춰 의뢰할 수 있으니까.	[!DialogQuest][!speaker:Camila_Smile]因为要知道你们的能力，我们才可以配合着来委托。
 #24682	[!DialogQuest][!speaker:Camila_Normal]그런데 지켜보니까 너희 팀은 딱히 큰 편향성은 없는 것 같네.	[!DialogQuest][!speaker:Camila_Normal]但是看来你们没问题的。
 #24683	[!DialogQuest][!speaker:Camila_Smile]다른 트러블슈터 회사는 자원관리구역 사냥을 나가도 꼭 자신들이 조금이라도 빠르게 사냥 가능한 지역에서만 에너지 추출을 하려는 경향이 강해.	[!DialogQuest][!speaker:Camila_Smile]别的纷争终结者公司都偏向于使用自己更容易采取的能源。
 #24684	[!DialogQuest][!speaker:Camila_Smile]그리고 이능석은 군집해서 생성되는 경향이 있으니 특정 이능석만 쌓이게 되지.	[!DialogQuest][!speaker:Camila_Smile]并且异能石有群集生成的倾向，所以特定的异能石将会增多。
@@ -15086,7 +15086,7 @@
 #25183	[!DialogQuest][!speaker:Sion_Surprise]뭐!? 진짜!?	[!DialogQuest][!speaker:Sion_Surprise]什么！？真的吗！？
 #25184	[!DialogQuest][!speaker:Anne_Surprise]'설마...'	（莫非...）
 #25185	[!DialogQuest][!speaker:Sabana_Surprise]아니야. 이번 의뢰는 자베르가 아니야.	[!DialogQuest][!speaker:Sabana_Surprise]不是的。这次的委托不是因为沙威。
-#25186	[!DialogQuest][!speaker:Sabana_Smile]오늘 의뢰는 우리 지점에서도 물품 확보를 부탁하려고 해.	[!DialogQuest][!speaker:Sabana_Smile]我们店也想来委托确保物品。
+#25186	[!DialogQuest][!speaker:Sabana_Smile]오늘 의뢰는 우리 지점에서도 물품 확보를 부탁하려고 해.	[!DialogQuest][!speaker:Sabana_Smile]我们店也想来委托收集物品。
 #25187	[!DialogQuest][!speaker:Albus_SurpriseStare]어떤 물품을 원하시는 가요?	[!DialogQuest][!speaker:Albus_SurpriseStare]想要什么物品呢？
 #25188	[!DialogQuest][!speaker:Sabana_Normal]회사 전리품 중에 온전한 흑요석이 있다면 우리에게 넘겨 줄 수 있겠니?	[!DialogQuest][!speaker:Sabana_Normal]如果你们公司有完整的黑曜石的话，能卖给我们吗？
 #25189	[!DialogQuest][!speaker:Sabana_Smile]우리 지점이랑 거래하는 보석 세공사가 개인적으로 구해달라고 요청이 왔어.	[!DialogQuest][!speaker:Sabana_Smile]跟我们分公司有往来的宝石细工师有来要求我们。
@@ -15116,7 +15116,7 @@
 #25213	[!DialogQuest][!speaker:Sabana_Smile]이번 의뢰도 보석 세공사의 개인 의뢰야. 온전한 적요석을 부탁하셨어.	[!DialogQuest][!speaker:Sabana_Smile]这次的委托也是宝石细工师的。要求拿到完整的赤曜石。
 #25214	[!DialogQuest][!speaker:Sabana_Normal]보상은 이렇게 주신다고 하셔.	[!DialogQuest][!speaker:Sabana_Normal]说是要给这么多的报酬。
 #25215	[!DialogQuest][!speaker:Sabana_Normal]필요한 악세서리가 있다면 언제든지 찾아와.	[!DialogQuest][!speaker:Sabana_Normal]有需要的饰品的话，随时来找。
-#25216	[!DialogQuest][!speaker:Sabana_Smile]좋은 상품들을 많이 확보해 둘게.	[!DialogQuest][!speaker:Sabana_Smile]会确保到很多好商品的。
+#25216	[!DialogQuest][!speaker:Sabana_Smile]좋은 상품들을 많이 확보해 둘게.	[!DialogQuest][!speaker:Sabana_Smile]会收集到很多好商品的。
 #25217	[!DialogQuest][!speaker:Albus_Normal]말씀하신 온전한 적요석 입니다.	[!DialogQuest][!speaker:Albus_Normal]这是委托的完整的赤曜石。
 #25218	[!DialogQuest][!speaker:Sabana_Normal]역시 너희들은 대단해. 차라리 재료 공급상으로 전향하면 부자가 될 것 같아.	[!DialogQuest][!speaker:Sabana_Normal]你们果然了不起。倒不如转向材料供应商，肯定会变得很富裕的吧。
 #25219	[!DialogQuest][!speaker:Albus_Normal]아니에요. 어디까지나 남는 여분에 지나지 않는 걸요.	[!DialogQuest][!speaker:Albus_Normal]不是的，只是剩有多余的而已。
@@ -16045,7 +16045,7 @@
 #26346	[!Sentence][!Dialog][!speaker:Issac_Normal]아닐세. 나로 인한 일이네.	[!Sentence][!Dialog][!speaker:Issac_Normal]不，是因为我。
 #26347	[!Sentence][!Dialog][!speaker:Issac_Smile]흑호파가 양지로 올라가는 것을 바라지 않는 자들이 있지.	有些人不希望黑虎组走向阳道。
 #26348	[!Sentence][!Dialog][!speaker:Issac_Smile]그리고 그 자들에겐 난 그 변화를 일으킨 장본인이니 어떤 수단이든 제거하고 싶겠지.	[!Sentence][!Dialog][!speaker:Issac_Smile]而且对于那些人来说，我是引起变化的罪魁祸首。所以不管是何种手段，都想铲除掉我。
-#26349	[!Sentence][!Dialog][!speaker:Gangster_BlackTigerFat_Normal]이건 엄연히 트레이님에 대한 반역입니다.	[!Sentence][!Dialog][!speaker:Gangster_BlackTigerFat_Normal]这分明是对特洛伊大人的叛逆。
+#26349	[!Sentence][!Dialog][!speaker:Gangster_BlackTigerFat_Normal]이건 엄연히 트레이님에 대한 반역입니다.	[!Sentence][!Dialog][!speaker:Gangster_BlackTigerFat_Normal]这分明是对特莱大人的叛逆。
 #26350	[!Sentence][!Dialog][!speaker:Gangster_BlackTigerNormal_Normal]누군지 밝혀내서 처벌해야죠.	[!Sentence][!Dialog][!speaker:Gangster_BlackTigerNormal_Normal]应该查出是谁，来进行处罚。
 #26351	[!Sentence][!Dialog][!speaker:Issac_Normal]어차피 흑호파 자체를 배신하기 싫으니 매번 용병들을 고용해 보내는 것이다.	[!Sentence][!Dialog][!speaker:Issac_Normal]反正本身是不想背叛黑虎组，所以每次都在雇佣佣兵。
 #26352	[!Sentence][!Dialog][!speaker:Issac_Normal]평소처럼 대응하는 것으로 한다.	[!Sentence][!Dialog][!speaker:Issac_Normal]像平时那样应对吧。
@@ -17332,7 +17332,7 @@
 #27769	[!Sentence][!Title]떠나간 자리	[!Sentence][!Title]离开的位置
 #27770	[!Sentence][!Dialog][!speaker:Gangster_Foo_Blood_Young][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']케빈. 쓸데 없는 짓 하지 말고 임무나 수행해.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Blood_Young][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']凯文，不要做没用的事，快去执行任务。
 #27771	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']죄송합니다. 보스.	[image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']对不起，老大。
-#27772	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']보스와 상의없이 보스를 살리기 위해 스콧님과 트레이님의 동의도 확보했습니다.	[image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']在没和您商量的情况下，为了救出老大我已经取得了斯科特和特洛伊的同意。
+#27772	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal_Young][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']보스와 상의없이 보스를 살리기 위해 스콧님과 트레이님의 동의도 확보했습니다.	[image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']在没和您商量的情况下，为了救出老大我已经取得了斯科特和特莱的同意。
 #27773	[!Sentence][!Dialog][!speaker:Gangster_Foo_Blood_Young][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']케빈. 그 녀석들에게 빚을 만들지 말고 그냥 날 버려라. 그리고 네가 백호파를 이끌어라.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Blood_Young][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']凯文。不要欠他们情，把我丢下吧。以后就由你来带领白虎组了。
 #27778	[!Sentence][!Title]끝을 알리는 빗소리	[!Sentence][!Title]通知最后的雨声
 #27779	[!Sentence][!Title]9개월 전, 자홍 뒷거리	[!Sentence][!Title]9个月前，紫红后巷

@@ -92,7 +92,7 @@
 #214	[!Ability]눈속임	[!Ability]障眼法
 #215	[!Ability]트위스터	[!Ability]扭转
 #216	[!Ability]어퍼컷	[!Ability]上勾拳
-#221	[!Ability]물대포	[!Ability]水大炮
+#221	[!Ability]물대포	[!Ability]水炮
 #222	[!Ability]풍압탄	[!Ability]风压弹
 #223	[!AbilityApplyTargetType]연쇄	[!AbilityApplyTargetType]连环
 #224	[!AbilityApplyTargetType]다수	[!AbilityApplyTargetType]多数
@@ -111,8 +111,8 @@
 #259	[!AbilitySubType]번개	[!AbilitySubType]闪电
 #260	[!AbilitySubType]관통	[!AbilitySubType]穿透
 #261	[!AbilitySubType]참격	[!AbilitySubType]斩击
-#262	[!AbilitySubType]물	[!AbilitySubType]水
-#263	[!AbilitySubType]바람	[!AbilitySubType]风
+#262	[!AbilitySubType]물	[!AbilitySubType]流水
+#263	[!AbilitySubType]바람	[!AbilitySubType]疾风
 #264	[!AbilityType]지원 어빌리티	[!AbilityType]支援技能
 #265	[!AbilityType]공격 어빌리티	[!AbilityType]攻击技能
 #266	[!AbilityType]개발 어빌리티	[!AbilityType]开发技能
@@ -232,8 +232,8 @@
 #585	[!ESP]화염	[!ESP]火焰
 #586	[!ESP]얼음	[!ESP]寒冰
 #587	[!ESP]번개	[!ESP]闪电
-#588	[!ESP]물	[!ESP]水
-#589	[!ESP]바람	[!ESP]风
+#588	[!ESP]물	[!ESP]流水
+#589	[!ESP]바람	[!ESP]疾风
 #590	[!Equipment]몸통	[!Equipment]身躯
 #591	[!Equipment]손	[!Equipment]手
 #592	[!Equipment]상의 주머니	[!Equipment]上衣兜
@@ -288,7 +288,7 @@
 #650	[!GuideMessage]제작 가능한 아이템이 %d 개 있습니다.	[!GuideMessage]有%d个可制作的物品。
 #651	[!GuideMessage]제작 진행 중인 아이템이 %d 개 있습니다.	[!GuideMessage]正在制作中的物品有%d个。
 #652	[!GuideMessage]제작이 실패하였습니다.	[!GuideMessage]制作失败。
-#653	[!GuideMessage]아이템 제작을 취소하면 사용된 재료 아이템이 소실됩니다.	[!GuideMessage]取消物品制作，则投入的材料物品将会消失。
+#653	[!GuideMessage]아이템 제작을 취소하면 사용된 재료 아이템이 소실됩니다.	[!GuideMessage]取消物品制作，则投入的素材物品将会消失。
 #654	[!GuideMessage]해당 아이템 제작을 취소하시겠습니까?	[!GuideMessage]请问你要取消该物品的制作吗？
 #655	[!GuideMessage]내용물이 파괴되었습니다.	[!GuideMessage]内含物品已破坏。
 #657	[!GuideMessage]첨부 물품을 수령하지 않은 메일은 삭제할 수 없습니다.	[!GuideMessage]包含未领取附件的邮件无法删除。
@@ -316,7 +316,7 @@
 #692	[!GuideMessage]해당 특성은 추출이 불가능합니다.	[!GuideMessage]该天赋无法提取。
 #693	[!GuideMessage]필요 훈련 점수 %d	[!GuideMessage]需要%d个训练点数
 #694	[!GuideMessage]$MasteryAbility$ 어빌리티를 습득할 수 있습니다.	[!GuideMessage]可习得$MasteryAbility$技能。
-#695	[!GuideMessage]아이템 강화 시, 아이템 구성 소재를 개수만큼 소모하고 아이템 추출 시에는 아이템 구성 소재를 개수만큼 획득합니다. 추출 대상 아이템은 소실됩니다.	[!GuideMessage]强化物品时，会消耗一定数量的物品构成材料，提取物品时会获得一定数量的物品构成材料。被提取的物品对象将会消失。
+#695	[!GuideMessage]아이템 강화 시, 아이템 구성 소재를 개수만큼 소모하고 아이템 추출 시에는 아이템 구성 소재를 개수만큼 획득합니다. 추출 대상 아이템은 소실됩니다.	[!GuideMessage]强化物品时，会消耗一定数量的物品构成素材，提取物品时会获得一定数量的物品构成素材。被提取的物品对象将会消失。
 #696	[!GuideMessage]새로운 멤버 추가	[!GuideMessage]添加新成员
 #697	[!GuideMessage]미션을 종료하고 로비로 돌아갑니까?<br>현재 미션은 실패로 기록됩니다.	[!GuideMessage]结束任务，返回大厅吗？<br>当前任务将会记录为失败。
 #698	[!GuideMessage]\[%s\] 지역으로 이동하시겠습니까?	[!GuideMessage]请问你要移动到\[%s\]地区吗？
@@ -378,7 +378,7 @@
 #774	[!Item]자동 소총 C	[!Item]自动步枪C
 #775	[!Item]자동 소총 C - 100	[!Item]自动步枪C-100
 #776	[!Item]VHPD 자동소총	[!Item]VHPD自动步枪
-#778	[!Item]살육자 손도끼	[!Item]屠杀者手斧
+#778	[!Item]살육자 손도끼	[!Item]屠弑者手斧
 #779	[!Item]카본 팔찌	[!Item]石墨手镯
 #780	[!Item]블루 카본 팔찌	[!Item]蓝色石墨手镯
 #781	[!Item]지옥불 팔찌	[!Item]地狱火手镯
@@ -510,7 +510,7 @@
 #1058	[!ItemCategory]악세서리	[!ItemCategory]首饰
 #1059	[!ItemCategory]소모품	[!ItemCategory]消耗品
 #1060	[!ItemCategory]기타	[!ItemCategory]其他
-#1061	[!ItemCategory]소재	[!ItemCategory]材料
+#1061	[!ItemCategory]소재	[!ItemCategory]素材
 #1063	[!ItemCategory]무기	[!ItemCategory]武器
 #1066	[!ItemEquipmentPosition]상의 주머니	[!ItemEquipmentPosition]上衣兜
 #1067	[!ItemEquipmentPosition]하의 주머니	[!ItemEquipmentPosition]下衣兜
@@ -552,7 +552,7 @@
 #1227	[!ItemType]장창	[!ItemType]长枪
 #1228	[!ItemType]양손 대검	[!ItemType]双手大剑
 #1229	[!ItemType]손목 보호대	[!ItemType]护腕
-#1230	[!Job]기술자	[!Job]技术人员
+#1230	[!Job]기술자	[!Job]工程师
 #1232	[!Job]총잡이	[!Job]枪手
 #1234	[!Job]약탈꾼	[!Job]掠夺者
 #1235	[!Job]성직자	[!Job]圣职者
@@ -834,7 +834,7 @@
 #1970	[!MasteryType]카터	[!MasteryType]卡特
 #1971	[!MasteryType]회사	[!MasteryType]公司
 #1972	[!MasteryType]대지	[!MasteryType]大地
-#1973	[!MasteryType]기술자	[!MasteryType]技术人员
+#1973	[!MasteryType]기술자	[!MasteryType]工程师
 #1975	[!MasteryType]싸움꾼	[!MasteryType]战斗专家
 #1976	[!MasteryType]화염	[!MasteryType]火焰
 #1977	[!MasteryType]총잡이	[!MasteryType]枪手
@@ -970,7 +970,7 @@
 #2164	[!ObjectInfo]스컬 슬래셔	[!ObjectInfo]骷髅砍杀者
 #2166	[!ObjectInfo]스컬 이터	[!ObjectInfo]骷髅吞噬者
 #2167	[!ObjectInfo]거리 싸움꾼	[!ObjectInfo]街头战斗专家
-#2171	[!ObjectInfo]트레이	[!ObjectInfo]特洛伊
+#2171	[!ObjectInfo]트레이	[!ObjectInfo]特莱
 #2172	[!ObjectInfo]트윙클 잭	[!ObjectInfo]闪耀杰克
 #2177	[!ObjectInfo]백호 도살자	[!ObjectInfo]白虎屠杀者
 #2180	[!ObjectInfo]방황하는 소녀	[!ObjectInfo]彷徨的少女
@@ -1242,10 +1242,10 @@
 #3070	[!WordCollection]내면의 불꽃	[!WordCollection]内心的火花
 #3071	[!WordCollection]인터페이스	[!WordCollection]界面
 #3072	[!WordCollection]물품 목록	[!WordCollection]物品列表
-#3074	[!WordCollection]아이템 구성 소재	[!WordCollection]物品构成材料
+#3074	[!WordCollection]아이템 구성 소재	[!WordCollection]物品构成素材
 #3075	[!WordCollection]아이템 개수	[!WordCollection]物品个数
 #3076	[!WordCollection]아이템 분해	[!WordCollection]物品分解
-#3077	[!WordCollection]추출 시 획득 재료	[!WordCollection]提取时获得材料
+#3077	[!WordCollection]추출 시 획득 재료	[!WordCollection]提取时获得素材
 #3078	[!WordCollection]아이템 레벨	[!WordCollection]物品等级
 #3079	[!WordCollection]아이템 이름	[!WordCollection]物品名称
 #3080	[!WordCollection]아이템 승급	[!WordCollection]物品升级
@@ -1263,7 +1263,7 @@
 #3094	[!WordCollection]특성 목록	[!WordCollection]天赋列表
 #3095	[!WordCollection]특성 점수	[!WordCollection]天赋点数
 #3096	[!WordCollection]특성 초기화	[!WordCollection]天赋初始化
-#3097	[!WordCollection]재료	[!WordCollection]材料
+#3097	[!WordCollection]재료	[!WordCollection]素材
 #3098	[!WordCollection]창고 수용량	[!WordCollection]仓库容量
 #3099	[!WordCollection]정신계면역	[!WordCollection]精神系免疫
 #3100	[!WordCollection]사건	[!WordCollection]事件
@@ -1321,7 +1321,7 @@
 #3155	[!WordCollection]구조 실패	[!WordCollection]救助失败
 #3156	[!WordCollection]구조 성공	[!WordCollection]救助成功
 #3157	[!WordCollection]연구	[!WordCollection]研究
-#3158	[!WordCollection]연구 재료	[!WordCollection]研究材料
+#3158	[!WordCollection]연구 재료	[!WordCollection]研究素材
 #3159	[!WordCollection]연구 점수	[!WordCollection]研究点数
 #3161	[!WordCollection]연구 중	[!WordCollection]研究中
 #3162	[!WordCollection]초기화	[!WordCollection]初始化
@@ -1473,7 +1473,7 @@
 #3437	[!Mastery]책임감	[!Mastery]责任感
 #3440	[!Mastery]정의감	[!Mastery]正义感
 #3442	[!Mastery]성실	[!Mastery]诚实
-#3444	[!Mastery]바람의 검	[!Mastery]风之剑
+#3444	[!Mastery]바람의 검	[!Mastery]疾风之剑
 #3445	[!MasteryCategory]시스템	[!MasteryCategory]系统
 #3446	[!MasteryType]조직	[!MasteryType]组织
 #3447	[!Mission]공사장을 불법 점거하고 있는 불량배들을 쫓아내시오.	[!Mission]请赶走非法占据施工现场的地痞流氓们。
@@ -1509,7 +1509,7 @@
 #3495	[!ObjectInfo]거리 불량배	[!ObjectInfo]街头流氓
 #3496	[!ObjectInfo]거리 조장	[!ObjectInfo]街头组长
 #3497	[!ObjectInfo]거리 소란꾼	[!ObjectInfo]街头捣乱者
-#3498	[!ObjectInfo]파이	[!ObjectInfo]派
+#3498	[!ObjectInfo]파이	[!ObjectInfo]帕伊
 #3502	[!ObjectInfo]백호 조장	[!ObjectInfo]白虎组长
 #3503	[!ObjectInfo]백호 소란꾼	[!ObjectInfo]白虎捣乱者
 #3504	[!ObjectInfo]앨리	[!ObjectInfo]艾利
@@ -1981,7 +1981,7 @@
 #4250	[!Mastery]냉정하다고 말하기 전에 네가 한 일을 돌아보라	[!Mastery]在说冷酷之前先回想一下你的所作所为。
 #4251	[!Mastery]자 수확의 시간이다.	[!Mastery]是时候收获一波了。
 #4252	[!Mastery]제 손을 잡아주시겠어요. 당신을 제 수집품에 추가 하고 싶네요	[!Mastery]能抓住我的手吗。想把你添加到我的藏品当中去。
-#4253	[!Mastery]거인은 영웅을 위한 소재일 뿐이다.	[!Mastery]巨人只是为了英雄准备的材料而已。
+#4253	[!Mastery]거인은 영웅을 위한 소재일 뿐이다.	[!Mastery]巨人只是为了英雄准备的垫脚石而已。
 #4254	[!Mastery]모두를 위한 합의, 그것이 바로 법이다.	[!Mastery]为所有人而制定的公约，即为法律。
 #4258	[!Mastery]매는 사냥감을 노릴 뿐이다.	[!Mastery]鹰只会注视着猎物。
 #4259	[!Mastery]어차피 노릴 거면 고통없게 내 머리를 노려주게나.	[!Mastery]反正都要瞄准，那就瞄准我的头让我没有痛苦。
@@ -2579,7 +2579,7 @@
 #5158	[!WordCollection]정보 획득 진행도	[!WordCollection]信息获得进行图
 #5159	[!WordCollection]알려진	[!WordCollection]已知的
 #5160	[!WordCollection]이전	[!WordCollection]上一个
-#5161	[!WordCollection][!Menu]트러블메이커 일람	[!WordCollection][!Menu]捣乱者一览
+#5161	[!WordCollection][!Menu]트러블메이커 일람	[!WordCollection][!Menu]纷争制造者图鉴
 #5165	[!CriticalStrikeChanceCondition]익숙한 대상	[!CriticalStrikeChanceCondition]熟悉的目标
 #5166	[!CriticalStrikeDealCondition]익숙한 대상	[!CriticalStrikeDealCondition]熟悉的目标
 #5167	[!DamageCondition]익숙한 대상	[!DamageCondition]熟悉的目标
@@ -2618,7 +2618,7 @@
 #5218	[!WordCollection][!Menu]제작 아이템	[!WordCollection][!Menu]制作物品
 #5219	[!WordCollection][!Menu]제작하기	[!WordCollection][!Menu]制作
 #5220	[!WordCollection][!Menu]착용 가능 캐릭터	[!WordCollection][!Menu]可装备的角色
-#5221	[!WordCollection][!Menu]재료 아이템	[!WordCollection][!Menu]材料物品
+#5221	[!WordCollection][!Menu]재료 아이템	[!WordCollection][!Menu]素材物品
 #5222	[!WordCollection]감정되지 않은	[!WordCollection]未鉴定的
 #5223	[!WordCollection][!Menu]정보 획득 완료	[!WordCollection][!Menu]完成信息获得
 #5224	[!GuideMessage]숙련도 레벨이 올라가면 제작할 수 있는 아이템이 증가합니다.	[!GuideMessage]熟练度等级提升，可制作的物品增加。
@@ -2635,12 +2635,12 @@
 #5240	[!WordCollection][!Menu]강화하기	[!WordCollection][!Menu]强化
 #5241	[!WordCollection]강화 대기 중	[!WordCollection]等待强化中
 #5242	[!GuideMessage]강화 레벨이 최대입니다.	[!GuideMessage]强化等级达到最高。
-#5243	[!GuideMessage]강화 재료가 모자랍니다.	[!GuideMessage]强化材料不足。
+#5243	[!GuideMessage]강화 재료가 모자랍니다.	[!GuideMessage]强化素材不足。
 #5244	[!GuideMessage]강화를 위한 제작 숙련도가 부족합니다.	[!GuideMessage]强化所需的制作熟练度不足。
 #5245	[!GuideMessage]강화를 할 수 없는 아이템입니다.	[!GuideMessage]该物品无法强化。
 #5246	[!WordCollection]강화 불가	[!WordCollection]无法强化
 #5247	[!WordCollection]강화 가능	[!WordCollection]可强化
-#5248	[!GuideMessage]최소 제작 재료가 모자랍니다.	[!GuideMessage]最少制作材料不足。
+#5248	[!GuideMessage]최소 제작 재료가 모자랍니다.	[!GuideMessage]制作素材不足。
 #5250	[!GuideMessage]아이템 강화에 실패하였습니다.	[!GuideMessage]物品强化失败。
 #5251	[!WordCollection]제작 중...	[!WordCollection]制作进行中...
 #5252	[!WordCollection]회사를 삭제하겠습니다	[!WordCollection]删除公司
@@ -2675,7 +2675,7 @@
 #5304	[!WordCollection]어빌리티 특성 슬롯	[!WordCollection]技能天赋栏位
 #5305	[!WordCollection]접근 가능한	[!WordCollection]可访问的
 #5306	[!WordCollection]접근 가능한 사건 정보	[!WordCollection]可访问的事件信息
-#5308	[!WordCollection]추가 연구 재료	[!WordCollection]附加研究材料
+#5308	[!WordCollection]추가 연구 재료	[!WordCollection]附加研究素材
 #5309	[!WordCollection]공격 특성 슬롯	[!WordCollection]攻击天赋栏位
 #5311	[!WordCollection]사건 난이도	[!WordCollection]事件难度
 #5312	[!WordCollection]정보를 불러오는 중...	[!WordCollection]正在加载信息...
@@ -2707,10 +2707,10 @@
 #5339	[!WordCollection][!menu]사건 재구성	[!WordCollection][!menu]事件重现
 #5340	[!WordCollection]사건 재구성 중...	[!WordCollection]事件重现进行中...
 #5341	[!WordCollection]사건 재구성 대기 중	[!WordCollection]等待事件重现中
-#5342	[!WordCollection]고정 연구 재료	[!WordCollection]固定研究材料
+#5342	[!WordCollection]고정 연구 재료	[!WordCollection]固定研究素材
 #5343	[!WordCollection]연구 필요 조건	[!WordCollection]研究必要条件
 #5344	[!WordCollection]연구 중...	[!WordCollection]研究进行中...
-#5345	[!WordCollection]연구 재료 수집	[!WordCollection]收集研究材料
+#5345	[!WordCollection]연구 재료 수집	[!WordCollection]收集研究素材
 #5346	[!WordCollection]연구 대기 중	[!WordCollection]等待研究中
 #5348	[!WordCollection]보조 특성 슬롯	[!WordCollection]辅助天赋栏位
 #5349	[!WordCollection][!Menu]특성 추가	[!WordCollection][!Menu]天赋附加
@@ -2763,7 +2763,7 @@
 #5427	[!LayoutKeyword][!이미지]MORALE	MORALE
 #5428	[!WordCollection]현재 상태 정보	[!WordCollection]当前状态信息
 #5429	[!WordCollection]다음 레벨까지 경험치	[!WordCollection]下一个等级为止剩余的经验值
-#5430	[!Craft]재료	[!Craft]材料
+#5430	[!Craft]재료	[!Craft]素材
 #5431	[!GuideMessage][colour='FFFFE959']트러블슈터 활동에 대한 보상금으로 [colour='FFFFFFFF']%s[colour='FFFFE959'] Vill을 수령하였습니다.	[!GuideMessage][colour='FFFFE959']获得纷争终结者活动的奖励金[colour='FFFFFFFF']%s[colour='FFFFE959']Vill。
 #5432	[!GuideMessage][colour='FFFFE959']트러블슈터 활동에 대한 추가 보상으로 %s 아이템을 수령하였습니다.	[!GuideMessage][colour='FFFFE959']获得纷争终结者活动的附加奖励%s物品。
 #5433	[!GuideMessage][colour='FFFFE959']트러블슈터 활동에 대한 추가 보상으로 %s 특성을 수령하였습니다.	[!GuideMessage][colour='FFFFE959']获得纷争终结者活动的附加奖励%s天赋。
@@ -2912,7 +2912,7 @@
 #5787	[!Item]팔찌의 내구성과 경량화를 통하여 활동성의 제약이 거의 없다.	[!Item]手镯的内部结构和轻型化设计，对活动性的限制几乎为零。
 #5788	[!Item]정령 팔찌	[!Item]精灵手镯
 #5789	[!Item]발할라의 이능력 사용자들에게 가장 많이 보급되어 있는 보급형 이능력 증폭기이다. 기본적으로 사용자의 건강 보조기구 역활을 동시에 한다.	[!Item]巴赫拉的异能者使用的最普遍的泛用型异能增幅器。同时带有基础性的用户健康辅助功能。
-#5794	[!Item]폭력 조직 흑호의 리더 트레이를 위해 특별 제작된 집회복이다. 원거리 난전을 대비해 이능력 저항력과 방탄 효과를 강화하는데 집중하였다.	[!Item]为暴力团伙黑虎组的首领特洛伊特别制作的集会服。为了应对远程混战而重点加强了异能抗性和防弹效果。
+#5794	[!Item]폭력 조직 흑호의 리더 트레이를 위해 특별 제작된 집회복이다. 원거리 난전을 대비해 이능력 저항력과 방탄 효과를 강화하는데 집중하였다.	[!Item]为暴力团伙黑虎组的首领特莱特别制作的集会服。为了应对远程混战而重点加强了异能抗性和防弹效果。
 #5795	[!Item]검은 밤송이 자켓	[!Item]黑色毛栗夹克
 #5796	[!Item]발할라의 초등학교 아이들에게 인기였던 애니메이션 '여우씨, 안녕하세요'의 악당. '검은 밤송이'를 프린팅한 수제 코트. 대니는 검고 가시가 나있단 이유로 숲속의 동물로부터 차별받아야 했던 검은 밤송이를 자신의 모습이라고 생각한다.	[!Item]受巴赫拉小学生们追捧的动画片「你好啊，狐狸」中的恶徒。印有「黑色毛栗」的手工外套。丹尼认为，仅仅因为黢黑而长着毛刺就被森林中的动物们歧视的黑色毛栗就是他自己的样子。
 #5797	[!Item]화염 속성의 이능력자임에도 불구하고 VHPD 초능력 진압대 시절 자신을 가장 고통스럽게 만든 것은 전신을 휘감는 화상의 고통이었다.	[!Item]虽然身为火焰属性的异能者，VHPD异能防暴队时期让自己最为痛苦的却是环绕全身的烧伤之痛。
@@ -3231,7 +3231,7 @@
 #6254	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Rank_Elite'] 으로 표시된 적은 [colour='FFFFFF00']정예[colour='FFCCCCCC'] 등급의 적입니다.<br><br>이들은 일반 적들보다 강력한 전투 능력을 보유하고 있습니다. 조심하시길 바랍니다.	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Rank_Elite']标记的目标是[colour='FFFFFF00']精英[colour='FFCCCCCC']级别的。<br><br>他们拥有比普通目标更加强大的战斗力。请多加留意。
 #6256	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Injured'][colour='FFFFFF00'] 부상 당한 시민[colour='FFCCCCCC']은 피해를 입어 움직이지 못하는 [colour='FFFFFFFF']시민[colour='FFCCCCCC']입니다. 해당 [colour='FFFFFFFF']시민[colour='FFCCCCCC']은 부상으로 인하여 매 턴 시작 시 자신의 [colour='FFFFFF00']최대 체력[colour='FFCCCCCC']의 [colour='FFFFFFFF']10%[colour='FFCCCCCC']의 피해를 입습니다.<br><br>해당 [colour='FFFFFFFF']시민[colour='FFCCCCCC']을 구출하기 위해서는 근접하여 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/Cure'] [colour='FFFFFF00']응급 처치[colour='FFCCCCCC'] 어빌리티를 사용하여야 합니다.<br><br>[colour='FFFF5943']응급 처치는 모든 행동력을 소모하므로 주의하셔야 합니다.	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Injured'][colour='FFFFFF00']受伤的市民[colour='FFCCCCCC']是因为伤势而无法移动的[colour='FFFFFFFF']市民[colour='FFCCCCCC']。该[colour='FFFFFFFF']市民[colour='FFCCCCCC']因为伤势而在每一回合开始时受到自身[colour='FFFFFF00']最大体力[colour='FFCCCCCC']的[colour='FFFFFFFF']10%[colour='FFCCCCCC']的伤害。<br><br>为了营救该[colour='FFFFFFFF']市民[colour='FFCCCCCC']需要你近身并使用[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/Cure'][colour='FFFFFF00']急救措施[colour='FFCCCCCC']技能。<br><br>[colour='FFFF5943']急救措施将消耗你所有的行动力，请多加留意。
 #6259	[!GuideMessage][colour='FFFFFF00']중립 유닛[colour='FFCCCCCC']은 해당 임무의 [colour='FFFF5943']적[colour='FFCCCCCC'] 세력과 [colour='FFFFAA00']적대 관계[colour='FFCCCCCC']이지만 플레이어와는 아무런 관계가 없는 [colour='FFFFFFFF']유닛[colour='FFCCCCCC']을 말합니다.<br><br>해당 [colour='FFFFFFFF']유닛[colour='FFCCCCCC']은 유닛 상태창의 체력 바의 색깔이 [colour='FFFFFF00']노란색[colour='FFCCCCCC']으로 표시됩니다.	[!GuideMessage][colour='FFFFFF00']中立单位[colour='FFCCCCCC']指的是和当前任务的[colour='FFFF5943']敌对[colour='FFCCCCCC']势力是[colour='FFFFAA00']敌对关系[colour='FFCCCCCC']但和玩家毫无关系的[colour='FFFFFFFF']单位[colour='FFCCCCCC']。<br><br>该[colour='FFFFFFFF']单位[colour='FFCCCCCC']的单位状态窗的体力条的颜色是[colour='FFFFFF00']黄色[colour='FFCCCCCC']的。
-#6261	[!GuideMessage]임무 수행 중 발견되는 [colour='FFFFFFFF']이능석[colour='FFCCCCCC']의 에너지를 추출하여 [colour='FFFFAA00']아이템 제작[colour='FFCCCCCC'] 혹은 [colour='FFFFAA00']아이템 강화[colour='FFCCCCCC']에 필요한 [colour='FF00FF00']재료[colour='FFCCCCCC']를 획득할 수 있습니다.<br><br>[colour='FFFFFFFF']이능석[colour='FFCCCCCC']의 에너지를 추출하기 위해서는 근접하여 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/InvestigatePsionicStone'] [colour='FFFFFF00']에너지 추출[colour='FFCCCCCC'] 어빌리티를 사용해야 합니다. [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/InvestigatePsionicStone'] [colour='FFFFFF00']에너지 추출[colour='FFCCCCCC'] 어빌리티는 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Item/Gear'] [colour='FF00FFFF']에너지 추출기[colour='FFCCCCCC']를 장비하고 있어야 활성화 됩니다.<br><br>[colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/InvestigatePsionicStone'] [colour='FFFFFF00']에너지 추출[colour='FFCCCCCC'] 어빌리티는 [colour='FFFFE959']행동력[colour='FFFFFFFF'] 1[colour='FFCCCCCC']을 소모합니다. 따라서 해당 어빌리티 사용 후 [colour='FF00FF00']이동[colour='FFCCCCCC'] 혹은 [colour='FFFF8000']공격[colour='FFCCCCCC'] 어빌리티 사용이 가능합니다.	[!GuideMessage]提取执行任务过程中发现的[colour='FFFFFFFF']异能石[colour='FFCCCCCC']的能量可获得[colour='FFFFAA00']物品制作[colour='FFCCCCCC']或者[colour='FFFFAA00']物品强化[colour='FFCCCCCC']所需的[colour='FF00FF00']材料[colour='FFCCCCCC']。<br><br>[colour='FFFFFFFF']异能石[colour='FFCCCCCC']能量是需要接近并使用[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/InvestigatePsionicStone'][colour='FFFFFF00']能量提取[colour='FFCCCCCC']技能才能提取到的。[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/InvestigatePsionicStone'][colour='FFFFFF00']能量提取[colour='FFCCCCCC']技能是需要装备有[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Item/Gear'][colour='FF00FFFF']能量提取器[colour='FFCCCCCC']才能被激活的。<br><br>[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/InvestigatePsionicStone'][colour='FFFFFF00']能量提取[colour='FFCCCCCC']技能消耗[colour='FFFFE959']行动力[colour='FFFFFFFF']1[colour='FFCCCCCC']点。并且使用该技能后可以使用[colour='FF00FF00']移动[colour='FFCCCCCC']或者[colour='FFFF8000']攻击[colour='FFCCCCCC']技能。
+#6261	[!GuideMessage]임무 수행 중 발견되는 [colour='FFFFFFFF']이능석[colour='FFCCCCCC']의 에너지를 추출하여 [colour='FFFFAA00']아이템 제작[colour='FFCCCCCC'] 혹은 [colour='FFFFAA00']아이템 강화[colour='FFCCCCCC']에 필요한 [colour='FF00FF00']재료[colour='FFCCCCCC']를 획득할 수 있습니다.<br><br>[colour='FFFFFFFF']이능석[colour='FFCCCCCC']의 에너지를 추출하기 위해서는 근접하여 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/InvestigatePsionicStone'] [colour='FFFFFF00']에너지 추출[colour='FFCCCCCC'] 어빌리티를 사용해야 합니다. [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/InvestigatePsionicStone'] [colour='FFFFFF00']에너지 추출[colour='FFCCCCCC'] 어빌리티는 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Item/Gear'] [colour='FF00FFFF']에너지 추출기[colour='FFCCCCCC']를 장비하고 있어야 활성화 됩니다.<br><br>[colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/InvestigatePsionicStone'] [colour='FFFFFF00']에너지 추출[colour='FFCCCCCC'] 어빌리티는 [colour='FFFFE959']행동력[colour='FFFFFFFF'] 1[colour='FFCCCCCC']을 소모합니다. 따라서 해당 어빌리티 사용 후 [colour='FF00FF00']이동[colour='FFCCCCCC'] 혹은 [colour='FFFF8000']공격[colour='FFCCCCCC'] 어빌리티 사용이 가능합니다.	[!GuideMessage]提取执行任务过程中发现的[colour='FFFFFFFF']异能石[colour='FFCCCCCC']的能量可获得[colour='FFFFAA00']物品制作[colour='FFCCCCCC']或者[colour='FFFFAA00']物品强化[colour='FFCCCCCC']所需的[colour='FF00FF00']素材[colour='FFCCCCCC']。<br><br>[colour='FFFFFFFF']异能石[colour='FFCCCCCC']能量是需要接近并使用[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/InvestigatePsionicStone'][colour='FFFFFF00']能量提取[colour='FFCCCCCC']技能才能提取到的。[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/InvestigatePsionicStone'][colour='FFFFFF00']能量提取[colour='FFCCCCCC']技能是需要装备有[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Item/Gear'][colour='FF00FFFF']能量提取器[colour='FFCCCCCC']才能被激活的。<br><br>[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/InvestigatePsionicStone'][colour='FFFFFF00']能量提取[colour='FFCCCCCC']技能消耗[colour='FFFFE959']行动力[colour='FFFFFFFF']1[colour='FFCCCCCC']点。并且使用该技能后可以使用[colour='FF00FF00']移动[colour='FFCCCCCC']或者[colour='FFFF8000']攻击[colour='FFCCCCCC']技能。
 #6262	[!GuideMessage][colour='FFFFFF00']제 3세력 유닛[colour='FFCCCCCC']은 해당 임무의 [colour='FFFF5943']적[colour='FFCCCCCC'] 세력과 플레이어 팀 모두에게 [colour='FFFFAA00']적대 관계[colour='FFCCCCCC']인 [colour='FFFFFFFF']유닛[colour='FFCCCCCC']을 말합니다.<br><br>해당 [colour='FFFFFFFF']유닛[colour='FFCCCCCC']은 유닛 상태창의 체력 바의 색깔이 [colour='FFFF186F']자홍색[colour='FFCCCCCC']으로 표시됩니다.	[!GuideMessage][colour='FFFFFF00']第三方势力单位[colour='FFCCCCCC']指的是和该任务的[colour='FFFF5943']敌对[colour='FFCCCCCC']势力和玩家队伍都存在[colour='FFFFAA00']敌对关系[colour='FFCCCCCC']的[colour='FFFFFFFF']单位[colour='FFCCCCCC']。<br><br>该[colour='FFFFFFFF']单位[colour='FFCCCCCC']的单位状态窗的体力条的颜色是[colour='FFFF186F']紫红色[colour='FFCCCCCC']的。
 #6264	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Unrest'][colour='FFFFAA00'] 불안한 시민[colour='FFCCCCCC']은 위험에 대한 공포에 스스로 도망치지 못하는 [colour='FFFFFFFF']시민[colour='FFCCCCCC']입니다.<br><br>해당 [colour='FFFFFFFF']시민[colour='FFCCCCCC']을 구출하기 위해서는 근접하여 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Ability/Comfort'] [colour='FFFFFF00']안정[colour='FFCCCCCC'] 어빌리티를 사용하여 진정시켜야 합니다.<br><br>해당 어빌리티로 불안감을 해소한 시민은 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Stable'][colour='FFFFFF00'] 안정된 시민[colour='FFCCCCCC']이 되며 플레이어가 조작할 수 있습니다.<br><br>[colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Stable'][colour='FFFFFF00'] 안정된 시민[colour='FFCCCCCC']은 [colour='FFFFFFFF']3[colour='FFCCCCCC']턴 동안 플레이어가 조작할 수 있으며 맵 상에 위치한 [colour='FFF00F00']안전한 탈출 지역[colour='FFCCCCCC']까지 이동시켜야 구조가 완료됩니다.<br><br>안정된 상태가 해제되면 다시 [colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Unrest'][colour='FFFFAA00'] 불안한 시민[colour='FFCCCCCC']으로 되돌아갑니다.	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Unrest'][colour='FFFFAA00']不安的市民[colour='FFCCCCCC']是指由于对危险的恐惧而未能逃走的[colour='FFFFFFFF']市民[colour='FFCCCCCC']。<br><br>为了营救该[colour='FFFFFFFF']市民[colour='FFCCCCCC']需要你近身并使用[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Ability/Comfort'][colour='FFFFFF00']安抚[colour='FFCCCCCC']技能使其镇定下来。<br><br>受到该技能并解除了不安感的市民成为[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Stable'][colour='FFFFFF00']平静的市民[colour='FFCCCCCC']，此时玩家可以对其进行操作。<br><br>[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Stable'][colour='FFFFFF00']平静的市民[colour='FFCCCCCC']可进行[colour='FFFFFFFF']3[colour='FFCCCCCC']回合的操作并移动到地图上的[colour='FFF00F00']安全地区[colour='FFCCCCCC']才能完成营救。<br><br>平静的状态被解除时重新回到[colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Unrest'][colour='FFFFAA00']不安的市民[colour='FFCCCCCC']状态。
 #6265	[!GuideMessage][colour='FFCCCCCC']전투 중 [colour='FFFFFF00']체력[colour='FFCCCCCC']이 [colour='FFFFFFFF']0[colour='FFCCCCCC'] 이 된 유닛은 [colour='FFFFAA00']전투 불능[colour='FFCCCCCC']이 됩니다. [colour='FFFFAA00']전투 불능[colour='FFCCCCCC']이 되면 더 이상 해당 임무에 참여할 수 없습니다.<br><br>또한 임무 종료 혹은 패배시 추가적으로 [colour='FFFFFF00']의욕[colour='FFFFFFFF']이 감소하므로 조심하시길 바랍니다.	[!GuideMessage][colour='FFCCCCCC']战斗中[colour='FFFFFF00']体力[colour='FFCCCCCC']变成[colour='FFFFFFFF']0[colour='FFCCCCCC']的角色是[colour='FFFFAA00']无法战斗[colour='FFCCCCCC']的。[colour='FFFFAA00']无法战斗[colour='FFCCCCCC']状态下是无法继续参与任务的。<br><br>并且在任务结束或失败时会有额外的[colour='FFFFFF00']意志[colour='FFFFFFFF']的消耗，请多加留意。
@@ -3900,7 +3900,7 @@
 #7339	[!MissionAssistProgress]지원 병력 임무 수행 중	[!MissionAssistProgress]执行支援部队任务中
 #7340	[!MissionAssistProgress]지원 병력 출동 중	[!MissionAssistProgress]支援部队出击中
 #7341	[!MissionAssistProgress]지원 병력 대기 중	[!MissionAssistProgress]支援部队等待中
-#7342	[!ObjectInfo]스푼교 무도가	[!ObjectInfo]勺子教武术家
+#7342	[!ObjectInfo]스푼교 무도가	[!ObjectInfo]勺子教武道家
 #7343	[!ObjectInfo]스푼교 화염술사	[!ObjectInfo]勺子教火焰术士
 #7344	[!ObjectInfo]스푼교 돌격병	[!ObjectInfo]勺子教突击兵
 #7345	[!ObjectInfo]전파 방해기	[!ObjectInfo]电波干扰器
@@ -4949,8 +4949,8 @@
 #8765	[!ObjectInfo]작은 맹독 야샤	[!ObjectInfo]小型剧毒夜叉
 #8766	[!ObjectInfo]맹독 야샤	[!ObjectInfo]剧毒夜叉
 #8768	[!ObjectInfo]실버	[!ObjectInfo]白银
-#8769	[!ObjectInfo]스푼교 타격대	[!ObjectInfo]勺子教突击队
-#8770	[!ObjectInfo]스푼교 투척꾼	[!ObjectInfo]勺子教投掷手
+#8769	[!ObjectInfo]스푼교 타격대	[!ObjectInfo]勺子教突击兵
+#8770	[!ObjectInfo]스푼교 투척꾼	[!ObjectInfo]勺子教投手
 #8771	[!ObjectInfo]나암	[!ObjectInfo]罗岩
 #8772	[!Site]철의 숲 간이역	[!Site]铁森林临时站点
 #8774	[!WordCollection]다음 상품 입고 시간	[!WordCollection]下一商品入库时间
@@ -4986,8 +4986,8 @@
 #8808	[!Buff]후퇴	[!Buff]后退
 #8809	[!Buff]전황이 확인 되지 않은 지역을 적극적으로 탐색합니다.	[!Buff]积极探索未确认战况的区域。
 #8810	[!Buff]탐색	[!Buff]探索
-#8812	[!GuideMessage]추가 연구 재료는 필요 연구 점수를 채우기 위해 소모하는 특성을 말합니다.	[!GuideMessage]附加研究材料指的是为了满足所需的研究点数而消耗的天赋。
-#8813	[!GuideMessage]고정 연구 재료는 특성 연구를 하기 위한 필수 재료를 말합니다.	[!GuideMessage]固定研究材料指的是天赋研究所需的必要材料。
+#8812	[!GuideMessage]추가 연구 재료는 필요 연구 점수를 채우기 위해 소모하는 특성을 말합니다.	[!GuideMessage]附加研究素材指的是为了满足所需的研究点数而消耗的天赋。
+#8813	[!GuideMessage]고정 연구 재료는 특성 연구를 하기 위한 필수 재료를 말합니다.	[!GuideMessage]固定研究素材指的是天赋研究所需的必要素材。
 #8815	[!GuideMessage]해당 적이 보유한 특성을 연구할 수 있습니다.	[!GuideMessage]可以研究该怪物拥有的天赋了。
 #8816	[!GuideMessage]이미 해당 적이 보유한 모든 특성을 연구할 수 있습니다.	[!GuideMessage]已经可以研究该怪物拥有的所有天赋了。
 #8817	[!GuideMessage]$Unit$ 현장을 이탈합니다.	[!GuideMessage]$Unit$离开现场。
@@ -4995,7 +4995,7 @@
 #8821	[!WordCollection]정보 완료 보상: 발키리 코인	[!WordCollection]信息完成奖励：女武神币
 #8822	[!WordCollection]정보 완료 보상: 연구 가능 특성 발견	[!WordCollection]信息完成奖励：发现可研究的天赋
 #8823	[!GuideMessage]특성판에서 캐릭터가 습득한 특성을 해제시 사용되는 아이템입니다.	[!GuideMessage]这是在属性板中移除角色学到的天赋时使用的物品。
-#8824	[!GuideMessage]연구를 통해 결과물을 획득하기 위해서는 [colour='FFFF5500']고정 연구 재료[colour='FFFFFFFF']에 해당하는 특성을 회사가 소유하고 있어야 하며 [colour='FFFFFF55']필요 연구 점수[colour='FFFFFFFF']를 회사가 보유한 특성을 [colour='FF00AAFF']추가 연구 재료[colour='FFFFFFFF']에 추가하여 충족시켜야 합니다.<br><br>[colour='FFFFFF00']필요 연구 점수가 만족되면 특성 연구 버튼이 활성화됩니다.	[!GuideMessage]为了通过研究获得结果，公司应该拥有[colour='FFFF5500']固定的研究材料[colour='FFFFFFFF']相应的天赋，并且将公司拥有的且满足[colour='FFFFFF55']所需的研究点数[colour='FFFFFFFF']的天赋填充到的[colour='FF00AAFF']附加研究材料[colour='FFFFFFFF']中去并满足要求。<br><br>[colour='FFFFFF00']所需研究点数充足后，天赋研究按钮将会被激活。
+#8824	[!GuideMessage]연구를 통해 결과물을 획득하기 위해서는 [colour='FFFF5500']고정 연구 재료[colour='FFFFFFFF']에 해당하는 특성을 회사가 소유하고 있어야 하며 [colour='FFFFFF55']필요 연구 점수[colour='FFFFFFFF']를 회사가 보유한 특성을 [colour='FF00AAFF']추가 연구 재료[colour='FFFFFFFF']에 추가하여 충족시켜야 합니다.<br><br>[colour='FFFFFF00']필요 연구 점수가 만족되면 특성 연구 버튼이 활성화됩니다.	[!GuideMessage]为了通过研究获得结果，公司应该拥有[colour='FFFF5500']固定的研究素材[colour='FFFFFFFF']相应的天赋，并且将公司拥有的且满足[colour='FFFFFF55']所需的研究点数[colour='FFFFFFFF']的天赋填充到的[colour='FF00AAFF']附加研究素材[colour='FFFFFFFF']中去并满足要求。<br><br>[colour='FFFFFF00']所需研究点数充足后，天赋研究按钮将会被激活。
 #8826	[!Mastery]누구나 자신의 길을 간다.	[!Mastery]人是要走自己的阳关道。
 #8828	[!MasteryType]훈련서	[!MasteryType]训练书
 #8829	[!TechniqueCategory]기타 연구	[!TechniqueCategory]其他研究
@@ -5206,8 +5206,8 @@
 #9078	[!WordCollection]체크포인트	[!WordCollection]检查点
 #9079	[!WordCollection]이동 중 넉백	[!WordCollection]移动中击退
 #9080	[!WordCollection]체크포인트로 귀환	[!WordCollection]返回检查点
-#9082	[!GuideMessage]대상을 [colour='FFFFAA00']전투 불능[colour='FFCCCCCC']시키는 공격 시 대상의 [colour='FFFFFFFF']남은 체력을 초과한 피해량[colour='FFCCCCCC']이 적의 [colour='FFFFFFFF']최대 체력의 30%[colour='FFCCCCCC']를 넘는 경우 [colour='FFFFFF00']오버킬[colour='FFCCCCCC']을 달성할 수 있습니다.<br><br>[colour='FFFFFF00']오버킬[colour='FFCCCCCC']을 달성하면 다음과 같은 효과가 적용됩니다.<br><br>- 획득한 경험치의 100%만큼 추가 경험치를 획득합니다.<br>- 고급 이상 아이템의 획득 확률이 증가합니다.<br>- 특성의 획득 확률이 증가합니다.<br>- 트러블메이커 일람의 정보 획득량이 2배 증가합니다.	[!GuideMessage]当目标[colour='FFFFAA00']无法战斗[colour='FFCCCCCC']时，如果[colour='FFFFFFFF']超过目标剩余体力部分的伤害[colour='FFCCCCCC']超过敌人[colour='FFFFFFFF']最大体力值的30％[colour='FFCCCCCC']，可以触发[colour='FFFFFF00']过度击杀[colour='FFCCCCCC']。<br><br>触发[colour='FFFFFF00']过度击杀[colour='FFCCCCCC']时，会产生以下效果。<br><br>- 获得100%的额外经验值。<br>- 高级及以上的物品的获得概率增加。<br>- 天赋的获得概率增加。<br>- 捣乱者一览的信息量增加为两倍。
-#9083	[!GuideMessage]대상을 [colour='FFFFAA00']전투 불능[colour='FFCCCCCC']시키는 공격 시 대상의 체력이 [colour='FFFFFFFF']최대 체력[colour='FFCCCCCC']인 경우 [colour='FFFFFF00']일격 필살[colour='FFCCCCCC']을 달성할 수 있습니다.<br><br>[colour='FFFFFF00']일격 필살[colour='FFCCCCCC']을 달성하면 다음과 같은 효과가 적용됩니다.<br><br>- 획득한 경험치의 100%만큼 추가 경험치를 획득합니다.<br>- 고급 이상 아이템의 획득 확률이 증가합니다.<br>- 특성의 획득 확률이 증가합니다.<br>- 트러블 메이커 일람의 정보 획득량이 2배 증가합니다.	[!GuideMessage]当目标[colour='FFFFAA00']无法战斗[colour='FFCCCCCC']时，如果目标的体力是[colour='FFFFFFFF']最大的体力[colour='FFCCCCCC']，可以触发[colour='FFFFFF00']一击必杀[colour='FFCCCCCC']。<br><br>触发[colour='FFFFFF00']一击必杀[colour='FFCCCCCC']时，会产生以下效果。<br><br>- 获得100%的额外经验值。<br>- 高级及以上的物品的获得概率增加。<br>- 天赋的获得概率增加。<br>- 捣乱者一览的信息量增加为两倍。
+#9082	[!GuideMessage]대상을 [colour='FFFFAA00']전투 불능[colour='FFCCCCCC']시키는 공격 시 대상의 [colour='FFFFFFFF']남은 체력을 초과한 피해량[colour='FFCCCCCC']이 적의 [colour='FFFFFFFF']최대 체력의 30%[colour='FFCCCCCC']를 넘는 경우 [colour='FFFFFF00']오버킬[colour='FFCCCCCC']을 달성할 수 있습니다.<br><br>[colour='FFFFFF00']오버킬[colour='FFCCCCCC']을 달성하면 다음과 같은 효과가 적용됩니다.<br><br>- 획득한 경험치의 100%만큼 추가 경험치를 획득합니다.<br>- 고급 이상 아이템의 획득 확률이 증가합니다.<br>- 특성의 획득 확률이 증가합니다.<br>- 트러블메이커 일람의 정보 획득량이 2배 증가합니다.	[!GuideMessage]当目标[colour='FFFFAA00']无法战斗[colour='FFCCCCCC']时，如果[colour='FFFFFFFF']超过目标剩余体力部分的伤害[colour='FFCCCCCC']超过敌人[colour='FFFFFFFF']最大体力值的30％[colour='FFCCCCCC']，可以触发[colour='FFFFFF00']过度击杀[colour='FFCCCCCC']。<br><br>触发[colour='FFFFFF00']过度击杀[colour='FFCCCCCC']时，会产生以下效果。<br><br>- 获得100%的额外经验值。<br>- 高级及以上的物品的获得概率增加。<br>- 天赋的获得概率增加。<br>- 纷争制造者图鉴的信息量增加为两倍。
+#9083	[!GuideMessage]대상을 [colour='FFFFAA00']전투 불능[colour='FFCCCCCC']시키는 공격 시 대상의 체력이 [colour='FFFFFFFF']최대 체력[colour='FFCCCCCC']인 경우 [colour='FFFFFF00']일격 필살[colour='FFCCCCCC']을 달성할 수 있습니다.<br><br>[colour='FFFFFF00']일격 필살[colour='FFCCCCCC']을 달성하면 다음과 같은 효과가 적용됩니다.<br><br>- 획득한 경험치의 100%만큼 추가 경험치를 획득합니다.<br>- 고급 이상 아이템의 획득 확률이 증가합니다.<br>- 특성의 획득 확률이 증가합니다.<br>- 트러블 메이커 일람의 정보 획득량이 2배 증가합니다.	[!GuideMessage]当目标[colour='FFFFAA00']无法战斗[colour='FFCCCCCC']时，如果目标的体力是[colour='FFFFFFFF']最大的体力[colour='FFCCCCCC']，可以触发[colour='FFFFFF00']一击必杀[colour='FFCCCCCC']。<br><br>触发[colour='FFFFFF00']一击必杀[colour='FFCCCCCC']时，会产生以下效果。<br><br>- 获得100%的额外经验值。<br>- 高级及以上的物品的获得概率增加。<br>- 天赋的获得概率增加。<br>- 纷争制造者图鉴的信息量增加为两倍。
 #9085	[!Buff]거미줄 타기	[!Buff]翻蛛网
 #9086	[!GuideMessage]$Buff$ 상태가 아닙니다.	[!GuideMessage]不是$Buff$状态。
 #9087	[!Loading]엉켜버린 실타래	[!Loading]扭结的线团
@@ -5261,7 +5261,7 @@
 #9157	[!Item]야샤 부츠	[!Item]夜叉靴子
 #9158	[!Item]야샤의 가죽과 실로 만든 부츠. 이능력 저항력이 매우 높은 것이 특징이다.	[!Item]使用夜叉的皮和线制成的靴子。其特点是异能抗性特别强。
 #9159	[!Item]남청빛 야샤 부츠	[!Item]藏蓝色夜叉靴子
-#9160	[!Item]야샤의 질긴 가죽과 실로 제작한 고급 부츠로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用夜叉的硬皮和线制成的高级靴子，是一款由于其原材料的稀有而几乎没在市场中流通的产品。多数情况下是直接带来原材料进行独立制作。
+#9160	[!Item]야샤의 질긴 가죽과 실로 제작한 고급 부츠로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用夜叉的硬皮和线制成的高级靴子，是一款由于其原素材的稀有而几乎没在市场中流通的产品。多数情况下是直接带来原素材进行独立制作。
 #9161	[!Item]자홍빛 야샤 부츠	[!Item]紫红色夜叉靴子
 #9162	[!Item]자홍거리에서 유통되는 야사 부츠를 개량하여 경량화 시킨 부츠. 뒷세계에서 매우 인기 있는 부츠이다.	[!Item]将紫红街流通的夜叉靴子进行改良并轻量化的靴子。是一款在地下世界里非常有人气的靴子。
 #9163	[!Item]미스릴 손목 고리	[!Item]秘银手链
@@ -5458,7 +5458,7 @@
 #9404	[!WordCollection]작업대 설치하기	[!WordCollection]安装工作台
 #9405	[!WordCollection][!Menu]단축키 설정	[!WordCollection][!Menu]设置快捷键
 #9406	[!WordCollection][!Menu]강화 내역	[!WordCollection][!Menu]强化内容
-#9407	[!WordCollection][!Menu]필요 재료	[!WordCollection][!Menu]所需材料
+#9407	[!WordCollection][!Menu]필요 재료	[!WordCollection][!Menu]所需素材
 #9409	[!Job]저격수	[!Job]狙击手
 #9414	[!SystemMail]안녕하세요. 트러블슈터 개발팀입니다.<br><tab><br>유저분들의 원활한 플레이를 위해 임의로 아이템을 지급해 드립니다.<br><tab><br>더욱 분발하는 트러블슈터 개발팀이 되겠습니다.<br><tab><br>감사합니다.<br><tab>	[!SystemMail]你好。这里是纷争终结者开发团队。<br><tab><br><tab>为了用户们的游戏体验，现发放任意的物品。<br><tab><br><tab>我们纷争终结者开发团队将会加倍奋发努力的。<br><tab><br><tab>谢谢。<br><tab>
 #9415	[!WordCollection][!Menu]아이템 분해	[!WordCollection]物品分解
@@ -5768,7 +5768,7 @@
 #9908	[!Item]도로리 부츠	[!Item]多罗利靴子
 #9909	[!Item]도로리의 가죽과 실로 만든 부츠. 내구성이 매우 높은 것이 특징이다.	[!Item]使用多罗利的皮和线制成的靴子。其特点是耐久性非常高超。
 #9910	[!Item]남청빛 도로리 부츠	[!Item]藏蓝色多罗利靴子
-#9911	[!Item]도로리의 질긴 가죽과 실로 제작한 고급 부츠로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用多罗利的韧皮和线制成的高级靴子，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
+#9911	[!Item]도로리의 질긴 가죽과 실로 제작한 고급 부츠로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用多罗利的韧皮和线制成的高级靴子，由于其原素材的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原素材来进行制作才行。
 #9912	[!Item]자홍빛 도로리 부츠	[!Item]紫红色多罗利靴子
 #9913	[!Item]자홍거리에서 유통되는 도로리 부츠를 개량하여 경량화 시킨 부츠. 뒷세계에서 매우 인기 있는 부츠이다.	[!Item]紫红街流通的多罗利靴子的改良版。是一款在地下世界里非常有人气的靴子。
 #9914	[!Item]아크 손목 고리	[!Item]弧光手链
@@ -5846,10 +5846,10 @@
 #10014	[!Item]자홍빛 파수꾼 코트의 강화 버전. 장시간 전투를 위해 기력 강화 처리가 추가된 버전이다.	[!Item]紫红色守备军外套的加强版。这是为了长时间的战斗而进行了加强气力处理的版本。
 #10015	[!Item]헤이싱의 백설 의상	[!Item]黑星的白雪服
 #10016	[!Item]도로리의 가죽과 실로 만든 구두. 내구성이 매우 높은 것이 특징이다.	[!Item]使用多罗利的皮和线制成的皮鞋。其特点是耐久性非常高超。
-#10017	[!Item]도로리의 질긴 가죽과 실로 제작한 고급 구두로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用多罗利的韧皮和线制成的高级皮鞋，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
+#10017	[!Item]도로리의 질긴 가죽과 실로 제작한 고급 구두로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用多罗利的韧皮和线制成的高级皮鞋，由于其原素材的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原素材来进行制作才行。
 #10018	[!Item]자홍거리에서 유통되는 도로리 구두를 개량하여 경량화 시킨 구두. 뒷세계에서 매우 인기 있는 구두이다.	[!Item]紫红街流通的多罗利皮鞋的轻量化改良版。是一款在地下世界里非常有人气的皮鞋。
 #10019	[!Item]야샤의 가죽과 실로 만든 구두. 이능력 저항력이 매우 높은 것이 특징이다.	[!Item]使用夜叉的皮和线制作的皮鞋。其特点是异能抗性非常高。
-#10020	[!Item]야샤의 질긴 가죽과 실로 제작한 고급 구두로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用夜叉的韧皮和线制作的高级皮鞋，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
+#10020	[!Item]야샤의 질긴 가죽과 실로 제작한 고급 구두로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用夜叉的韧皮和线制作的高级皮鞋，由于其原素材的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原素材来进行制作才行。
 #10021	[!Item]자홍거리에서 유통되는 야사 구두를 개량하여 경량화 시킨 부츠. 뒷세계에서 매우 인기 있는 부츠이다.	[!Item]紫红街流通的夜叉皮鞋的轻量化改良版。是一款在地下世界里非常有人气的皮鞋。
 #10022	[!Item]남청빛 파수꾼 자켓	[!Item]藏蓝色守备军夹克
 #10023	[!Item]파수꾼 자켓의 강화된 버전. 이능력에 대한 저항 처리가 탁월하다.	[!Item]守备军夹克的加强版。异能抗性尤为卓越。
@@ -5865,19 +5865,19 @@
 #10033	[!Item]드레이크 B - 100	[!Item]德雷克B-100
 #10034	[!Item]드레이크 A 시리즈보다 사용성이 강화되어 더 빠른 연사가 가능하다.	[!Item]比德雷克A系列的实用性更加突出，可进行更快速的连射。
 #10035	[!Item]남청빛 티마 가죽 운동화	[!Item]藏蓝色蒂玛皮运动鞋
-#10036	[!Item]티마의 단단한 가죽으로 제작한 고급 운동화로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用蒂玛的韧皮制作的高级靴子，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
+#10036	[!Item]티마의 단단한 가죽으로 제작한 고급 운동화로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用蒂玛的韧皮制作的高级靴子，由于其原素材的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原素材来进行制作才行。
 #10037	[!Item]자홍빛 티마 가죽 운동화	[!Item]紫红色蒂玛皮运动鞋
 #10038	[!Item]철의 숲에 서식하는 야수 티마의 가죽을 이용하여 만든 운동화. 착용감이 좋아 중심을 잡기 유용하다.	[!Item]使用栖息在铁森林中的野兽蒂玛的皮制作的运动鞋。脚感很棒，利于掌握重心平衡。
 #10039	[!Item]야샤의 가죽과 실로 만든 운동화. 착욤감이 좋아 사용자의 행동에 부담을 주지 않는다.	[!Item]使用夜叉的皮和线制作的运动鞋。很合脚，不会给用户的动作造成负担。
 #10040	[!Item]남청빛 야샤 운동화	[!Item]藏蓝色夜叉运动鞋
-#10041	[!Item]야샤의 질긴 가죽과 실로 제작한 고급 운동화로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用夜叉的韧皮和线制作的高级运动鞋，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
+#10041	[!Item]야샤의 질긴 가죽과 실로 제작한 고급 운동화로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用夜叉的韧皮和线制作的高级运动鞋，由于其原素材的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原素材来进行制作才行。
 #10042	[!Item]자홍거리에서 유통되는 야사 운동화를 개량하여 경량화 시킨 운동화. 뒷세계에서 매우 인기 있는 운동화이다.	[!Item]紫红街流通的夜叉运动鞋的轻量化改良版。是一款在地下世界里非常有人气的靴子。
 #10043	[!Item]남청빛 티마 손목 보호대	[!Item]藏蓝色蒂玛护腕
-#10044	[!Item]티마의 단단한 가죽으로 제작한 고급 손목 보호대로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用蒂玛的韧皮制作的高级护腕，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
+#10044	[!Item]티마의 단단한 가죽으로 제작한 고급 손목 보호대로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用蒂玛的韧皮制作的高级护腕，由于其原素材的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原素材来进行制作才行。
 #10045	[!Item]자홍빛 티마 손목 보호대	[!Item]紫红色蒂玛护腕
 #10046	[!Item]자홍거리에서 유통되는 손목 보호대. 일반 보호대보다 착용감이 좋은 보호대이다.	[!Item]紫红街流通的护腕。比一般的护腕，实用性更加优越。
 #10047	[!Item]야샤의 질긴 가죽으로 제작한 손목 보호대. 이능력 저항력이 탁월하다.	[!Item]使用夜叉的韧皮制作的高级护腕。其特点是异能抗性特别强。
-#10048	[!Item]야샤의 질긴 가죽과 실로 제작한 고급 손목 보호대로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用夜叉的韧皮和线制作的高级护腕，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
+#10048	[!Item]야샤의 질긴 가죽과 실로 제작한 고급 손목 보호대로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用夜叉的韧皮和线制作的高级护腕，由于其原素材的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原素材来进行制作才行。
 #10049	[!Item]자홍거리에서 유통되는 야샤 손목보호대의 강화된 버전. 뒷세계에서 매우 인기 있는 손목 보호대이다.	[!Item]紫红街流通的夜叉护腕的轻量化改良版。是一款在地下世界里非常有人气的靴子。
 #10050	[!Loading]철의 숲 마라 늪	[!Loading]铁森林马拉沼泽
 #10051	[!Loading]벌어지는 틈새	[!Loading]裂开的缝隙
@@ -5898,8 +5898,8 @@
 #10067	[!Profession]가죽 세공	[!Profession]制皮工坊
 #10068	[!Profession]기관 권총을 제작할 수 있습니다.	[!Profession]可制作冲锋枪。
 #10069	[!Profession]기관권총 제작	[!Profession]制作冲锋枪
-#10070	[!Profession]각종 제작 재료를 더 좋은 등급의 재료로 제작할 수 있습니다.	[!Profession]可将各类制作材料制成更高级别的材料。
-#10071	[!Profession]재료 강화	[!Profession]材料加强
+#10070	[!Profession]각종 제작 재료를 더 좋은 등급의 재료로 제작할 수 있습니다.	[!Profession]可将各类制作素材制成更高级别的素材。
+#10071	[!Profession]재료 강화	[!Profession]素材加强
 #10072	[!Profession]사용 가능한 약물을 제조할 수 있습니다.	[!Profession]制作出可用的药水。
 #10073	[!Profession]약물 제조	[!Profession]制造药水
 #10074	[!Profession]이능석을 더욱 강력한 이능석으로 합성할 수 있습니다.	[!Profession]可以将异能石合成为更加强大的异能石。
@@ -5918,13 +5918,13 @@
 #10097	[!Mastery]같은 도구를 사용해도 사용자의 능숙함에 따라 결과는 천차만별이지.	[!Mastery]就算使用同样的工具，也会根据使用者的熟练度出现千差万别的结果。
 #10098	[!Mastery]대량 추출	[!Mastery]大量提取
 #10100	[!Mastery]이 세상에 필요없는 것이란 없지.	[!Mastery]这世上没有什么是没必要的。
-#10101	[!Mastery]재료 수집가	[!Mastery]材料收集者
+#10101	[!Mastery]재료 수집가	[!Mastery]素材收集者
 #10104	[!ObjectInfo]백호 칼잡이	[!ObjectInfo]白虎刀客
 #10105	[!Tile]늪/수풀	[!Tile]池沼/草丛
 #10106	[!Tile]물	[!Tile]水
 #10107	[!Tile]물/수풀	[!Tile]水/草丛
 #10115	[!Job]검호	[!Job]剑豪
-#10117	[!Job]무도가	[!Job]武斗家
+#10117	[!Job]무도가	[!Job]武道家
 #10118	[!Job]순찰자	[!Job]游击兵
 #10119	[!Job]청소부	[!Job]清道夫
 #10120	[!Job]마검사	[!Job]魔剑士
@@ -5974,7 +5974,7 @@
 #10207	[!Mastery]소탕	[!Mastery]扫荡
 #10210	[!MasteryType]검투사	[!MasteryType]剑斗士
 #10211	[!MasteryType]검호	[!MasteryType]剑豪
-#10213	[!MasteryType]무도가	[!MasteryType]武斗家
+#10213	[!MasteryType]무도가	[!MasteryType]武道家
 #10214	[!MasteryType]청소부	[!MasteryType]清道夫
 #10215	[!MasteryType]마검사	[!MasteryType]魔剑士
 #10216	[!MasteryType]마녀	[!MasteryType]魔女
@@ -6050,10 +6050,10 @@
 #10300	[!Troublebook]힘겨루기	[!Troublebook]角力
 #10301	[!ChatSubCategory]전투 알림	[!ChatSubCategory]战斗信息
 #10302	[!ChatSubCategory]자막	[!ChatSubCategory]对话记录
-#10304	[!Profession]각종 보석 재료를 더 좋은 등급의 재료로 제작할 수 있습니다.	[!Profession]可将各类珠宝材料制成更高级别的珠宝材料。
+#10304	[!Profession]각종 보석 재료를 더 좋은 등급의 재료로 제작할 수 있습니다.	[!Profession]可将各类珠宝素材制成更高级别的珠宝素材。
 #10305	[!Profession]보석 세공	[!Profession]珠宝细工
 #10306	[!MasteryType]암살자	[!MasteryType]暗杀者
-#10307	[!Buff]물	[!Buff]水
+#10307	[!Buff]물	[!Buff]流水
 #10308	[!DamageCondition]지형효과: 물	[!DamageCondition]地形效果：水
 #10309	[!FieldEffect]늪/수풀	[!FieldEffect]池沼/草丛
 #10310	[!FieldEffect]물/수풀	[!FieldEffect]水/草丛
@@ -6247,7 +6247,7 @@
 #10650	[!BuffGroup]공황	[!BuffGroup]恐慌
 #10652	[!BuffGroup]분노	[!BuffGroup]愤怒
 #10653	[!BuffGroup]수면	[!BuffGroup]催眠
-#10654	[!BuffGroup]바람	[!BuffGroup]风
+#10654	[!BuffGroup]바람	[!BuffGroup]疾风
 #10655	[!Buff_Negative]전투의 외침	[!Buff_Negative]战斗的呐喊
 #10656	[!Buff_Negative]출혈	[!Buff_Negative]流血
 #10657	[!Buff_Negative]실명	[!Buff_Negative]致盲
@@ -6301,7 +6301,7 @@
 #10711	[!Mastery]차경	[!Mastery]借劲
 #10712	[!Mastery]방어구 가르기	[!Mastery]破甲
 #10714	[!Mastery]아무리 방어를 굳혀도 뚫어버리면 그만이다.	[!Mastery]防御虽固若金汤，突破就行了。
-#10715	[!Mastery]성문 돌파	[!Mastery]破城而入
+#10715	[!Mastery]성문 돌파	[!Mastery]破城
 #10716	[!Mastery]너의 선택권을 빼앗아주지.	[!Mastery]你的选择权归我了。
 #10717	[!Mastery]무기 무력화	[!Mastery]削弱武器
 #10720	[!Mastery]반동을 제어하는 것이 빠른 사격의 지름길이지.	[!Mastery]控制后坐力是快速射击的捷径。
@@ -6342,7 +6342,7 @@
 #10805	[!Mastery]적이 알아채지 못하는 곳에서 시작한다.	[!Mastery]从敌人未察觉的地方开始。
 #10806	[!Mastery]재빠른 손놀림	[!Mastery]灵活之手
 #10808	[!Mastery]흐르는 피의 댓가를 잊지마라.	[!Mastery]别忘了流血的代价。
-#10809	[!Mastery]붉은 가시 검	[!Mastery]红刺剑
+#10809	[!Mastery]붉은 가시 검	[!Mastery]红棘之刃
 #10813	[!Mastery]하늘의 뜻과 함께 하기 위해 왔소.	[!Mastery]我是为了共享天意而来。
 #10814	[!Mastery]성자	[!Mastery]圣人
 #10816	[!Mastery]목표가 많으면 일일이 조준할 필요가 없지.	[!Mastery]若目标较多，就没必要每一个都要瞄准。
@@ -6909,7 +6909,7 @@
 #11668	[!Ability]고급 에너지 추출	[!Ability]高级提取能量
 #11669	[!GuideMessage]치안도는 서버 단위의 모든 플레이어가 공유하는 수치입니다. 치안도는 사건 해결 시 증가하며 시간이 흐름에 따라 감소합니다. <br><br>[colour='FFFFAA00']따라서 서버에서 활동하는 플레이어의 미션 활동 수가 적으면 감소할 수 있습니다.	[!GuideMessage]治安指数是以服务器为单位，所有玩家共享的数值。治安指数会在解决事件时增加，也会随着时间的流逝减少。<br><br>[colour='FFFFAA00']因此，如果服务器内玩家的任务活动数量不足，数值就会减少。
 #11670	[!WordCollection]현재 진행 가능한 임무	[!WordCollection]当前可进行的任务
-#11671	[!Extract]재료	[!Extract]材料
+#11671	[!Extract]재료	[!Extract]素材
 #11672	[!GuideMessage]시민 한명이 플레이어를 불신합니다.	[!GuideMessage]一名市民失去了对玩家的信任。
 #11673	[!GuideMessage]시민이 다시 플레이어를 신뢰하기 시작했습니다.	[!GuideMessage]玩家重新获得了市民的信任。
 #11674	[!GuideMessage]훈련서가 부족하여 해제할 수 없습니다.	[!GuideMessage]训练书不足，无法解除。
@@ -6929,7 +6929,7 @@
 #11692	[!Item]자홍빛 사이러스 코트	[!Item]紫红色塞勒斯外套
 #11693	[!Item]자홍거리에서 유통되는 사이러스 활동복을 개량하여 경량화 시킨 활동복. 뒷세계에서 매우 인기 있는 활동복이다.	[!Item]紫红街流通的塞勒斯外套的改良版。是一款在地下世界里非常有人气的外套。
 #11694	[!Item]야샤의 질긴 가죽으로 제작한 코트.	[!Item]使用夜叉的坚韧皮革制成的外套。
-#11695	[!Item]야샤의 질긴 가죽과 실로 제작한 고급 활동복으로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用夜叉的韧皮和线制作的高级大衣，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
+#11695	[!Item]야샤의 질긴 가죽과 실로 제작한 고급 활동복으로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用夜叉的韧皮和线制作的高级大衣，由于其原素材的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
 #11696	[!Item]자홍거리에서 유통되는 야샤 코트의 강화된 버전. 뒷세계에서 매우 인기 있는 코트이다.	[!Item]紫红街流通的夜叉外套的改良版。是一款在地下世界里非常有人气的外套。
 #11697	[!Item]보나파르트 세공 구두	[!Item]波拿巴精制皮鞋
 #11699	[!Item]자홍빛 보나파르트 세공 구두	[!Item]紫红色波拿巴精制皮鞋
@@ -6963,7 +6963,7 @@
 #11734	[!WordCollection][!Menu]추출 결과물	[!WordCollection][!Menu]抽取结果
 #11735	[!WordCollection][!Menu]추출 대상	[!WordCollection][!Menu]抽取目标
 #11736	[!WordCollection][!Menu]추출하기	[!WordCollection][!Menu]进行抽取
-#11737	[!WordCollection][!Menu]재료 추출	[!WordCollection][!Menu]材料抽取
+#11737	[!WordCollection][!Menu]재료 추출	[!WordCollection][!Menu]素材抽取
 #11738	[!WordCollection]추출 가능한 장비만 보기	[!WordCollection]只查看可抽取的装备
 #11739	[!WordCollection]아이템 추출 완료	[!WordCollection]道具抽取完成
 #11740	[!KeyBinding]카메라 정보	[!KeyBinding]镜头信息
@@ -7112,7 +7112,7 @@
 #11940	[!Item]집중의 물약	[!Item]集中药水
 #11941	[!Item]인내의 물약	[!Item]忍受药水
 #11942	[!GuideMessage]회피 불가	[!GuideMessage]无法闪避
-#11943	[!GuideMessage]고정 연구 재료의 마스터리를 %s 두번 클릭하시면 해당 마스터리를 바로 열람하실 수 있습니다.	[!GuideMessage]双击固定研究材料中的天赋 %s，您可以直接看到天赋。
+#11943	[!GuideMessage]고정 연구 재료의 마스터리를 %s 두번 클릭하시면 해당 마스터리를 바로 열람하실 수 있습니다.	[!GuideMessage]双击固定研究素材中的天赋 %s，您可以直接看到天赋。
 #11944	[!GuideMessage]검색할 키워드를 입력하세요.	[!GuideMessage]输入要搜索的关键字。
 #11945	[!WordCollection]열람 기록	[!WordCollection]阅览记录
 #11946	[!GuideMessage]현재 해당 마스터리는 획득하거나 연구 방법을 습득한 적이 없어 제작할 수 없습니다	[!GuideMessage]未获得该天赋或未曾学习研究方法，因此无法制作。
@@ -7385,8 +7385,8 @@
 #12346	[!MissionPsionicStoneType]폭풍	[!MissionPsionicStoneType]暴风
 #12347	[!MissionPsionicStoneType]신록	[!MissionPsionicStoneType]新绿
 #12349	[!GuideMessage]아이템 하단의 숙련도 수치는 해당 아이템을 제작할 때마다 증가합니다. 숙련도가 최대가 되면 새로운 아이템을 제작할 수 있습니다.	[!GuideMessage]当您制作该物品时，该物品下的熟练度值会增加。当熟练度达到最大值时，您可以制作新物品。
-#12350	[!GuideMessage]장비를 분해하여 강화와 제작에 필요한 재료를 획득할 수 있습니다.	[!GuideMessage]您可以通过分解装备获得可用于升级和制作物品的材料。
-#12351	[!GuideMessage]재료 추출을 하려면 해당 아이템의 제작이 가능해야 합니다.	[!GuideMessage]做抽取材料的话，您须要可制作该物品。
+#12350	[!GuideMessage]장비를 분해하여 강화와 제작에 필요한 재료를 획득할 수 있습니다.	[!GuideMessage]您可以通过分解装备获得可用于升级和制作物品的素材。
+#12351	[!GuideMessage]재료 추출을 하려면 해당 아이템의 제작이 가능해야 합니다.	[!GuideMessage]做抽取素材的话，您须要可制作该物品。
 #12352	[!GuideMessage]아이템 강화는 최대 9 단계까지 가능하며 아이템의 주 능력치가 상승합니다.	[!GuideMessage]物品最多可升级9级，并提高物品的主能力值。
 #12354	[!Help]자동 위임 기능	[!Help]自动委任行动功能
 #12356	[!Help]이동 경로 사용자 지정	[!Help]用户指定移动路径
@@ -7485,7 +7485,7 @@
 #12479	[!LoadingDesc]플레이어 캐릭터 정보 보기	[!LoadingDesc]查看玩家角色信息
 #12480	[!LoadingDesc]트러블슈터 회사에 근무하며 트러블슈터들의 활동을 보조하는 사람들을 말한다.	[!LoadingDesc]是指在纷争终结者公司上班，对纷争终结者的行动进行辅助的人们。
 #12481	[!LoadingDesc]견습 트러블슈터	[!LoadingDesc]见习纷争终结者
-#12482	[!LoadingDesc]이능석의 에너지를 추출하여 [colour='FFFFAA00']아이템 제작[colour='FFCCCCCC'] 혹은 [colour='FFFFAA00']아이템 강화[colour='FFCCCCCC']에 필요한 [colour='FF00FF00']재료[colour='FFCCCCCC']를 획득할 수 있습니다.	[!LoadingDesc]提取异能石的能量可获得[colour='FFFFAA00']物品制作[colour='FFCCCCCC']或[colour='FFFFAA00']物品强化[colour='FFCCCCCC']所需的[colour='FF00FF00']材料[colour='FFCCCCCC']。
+#12482	[!LoadingDesc]이능석의 에너지를 추출하여 [colour='FFFFAA00']아이템 제작[colour='FFCCCCCC'] 혹은 [colour='FFFFAA00']아이템 강화[colour='FFCCCCCC']에 필요한 [colour='FF00FF00']재료[colour='FFCCCCCC']를 획득할 수 있습니다.	[!LoadingDesc]提取异能石的能量可获得[colour='FFFFAA00']物品制作[colour='FFCCCCCC']或[colour='FFFFAA00']物品强化[colour='FFCCCCCC']所需的[colour='FF00FF00']素材[colour='FFCCCCCC']。
 #12483	[!LoadingDesc]이능석	[!LoadingDesc]异能石
 #12484	[!LoadingDesc]발할라는 각 지구 내 이주는 자유로우나 타 지구로의 이주는 엄격히 제한되어 있다.	[!LoadingDesc]巴赫拉各地区的区内移居是自由的，但是移居到其他区却被严令限制。
 #12485	[!LoadingDesc]발할라의 거주권	[!LoadingDesc]巴赫拉的居住圈
@@ -8183,15 +8183,15 @@
 #14003	[!NamedEvent]꼬마 네구리	[!NamedEvent]小家伙纳古利
 #14004	[!NamedEvent]장난꾸러기 네구리	[!NamedEvent]淘气包纳古利
 #14005	[!ObjectInfo]꼬마 네구리	[!ObjectInfo]小家伙纳古利
-#14008	[!WordCollection][!Menu]재료 획득 가능한 적 목록	[!WordCollection][!Menu]可获得材料的敌人名单
+#14008	[!WordCollection][!Menu]재료 획득 가능한 적 목록	[!WordCollection][!Menu]可获得素材的敌人名单
 #14009	[!WordCollection][!Menu]해당 적 출현 장소	[!WordCollection][!Menu]该敌人出现地点
 #14010	[!WordCollection][!Menu]제작 숙련도	[!WordCollection]制作熟练度
 #14011	[!WordCollection][!Menu]다음 제작 가능 아이템	[!WordCollection][!Menu]可制作下一个物品
 #14012	[!WordCollection][!Menu]필요 요구량	[!WordCollection][!Menu]需求量
 #14013	[!WordCollection][!Menu]제작 가능 아이템	[!WordCollection][!Menu]可制作物品
-#14014	[!WordCollection]재료 도감	[!WordCollection]材料图鉴
-#14015	[!WordCollection][!Menu]재료 도감	[!WordCollection][!Menu]材料图鉴
-#14016	[!WordCollection][!Menu]해당 필요 재료	[!WordCollection][!Menu]必需的材料
+#14014	[!WordCollection]재료 도감	[!WordCollection]素材图鉴
+#14015	[!WordCollection][!Menu]재료 도감	[!WordCollection][!Menu]素材图鉴
+#14016	[!WordCollection][!Menu]해당 필요 재료	[!WordCollection][!Menu]必需的素材
 #14017	[!GuideMessage]이미 습득한 특성입니다.	[!GuideMessage]已经学到的天赋。
 #14018	[!GuideMessage]특성 슬롯이 부족합니다.	[!GuideMessage]天赋栏不足。
 #14019	[!GuideMessage]특성 보유 개수가 충분하지 않습니다.	[!GuideMessage]天赋持有数量不足。
@@ -8302,7 +8302,7 @@
 #14149	[!Troublebook]등고자비	[!Troublebook]登高自卑
 #14150	[!Troublebook]설상가상	[!Troublebook]雪上加霜
 #14151	[!BuffGroup]중독	[!Buff]中毒
-#14152	[!BuffGroup]물	[!AbilitySubType]水
+#14152	[!BuffGroup]물	[!AbilitySubType]流水
 #14153	[!GuideMessage]상태 계열:	[!GuideMessage]状态系列：
 #14154	[!GuideMessage]$MasteryName$ 특성 추가 효과가 해제되었습니다.	[!GuideMessage]$MasteryName$组合天赋效果被解除。
 #14155	[!GuideMessage]$MasteryName$ 특성 추가 효과가 발동하였습니다.	[!GuideMessage]$MasteryName$组合天赋效果被启动。
@@ -8502,8 +8502,8 @@
 #14445	[!TargetType]자신	[!WordCollection]自身
 #14446	[!Ability]산성 거미줄 낙하	[!Ability]酸性蛛网降落
 #14447	[!Ability]목표 범위 위의 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]给目标范围上的敌人造成$DamageAmount$的$DamageType$伤害。
-#14448	[!GuideMessage][colour='FFFFE959']트러블메이커 [colour='FFFFFFFF']$TroublemakerName$[colour='FFFFE959']의 정보 획득 [colour='FFFFFFFF']4[colour='FFFFE959'] 단계 보상으로 [colour='FFFFFFFF']$MasteryName$[colour='FFFFE959'] 추가 특성 효과 정보를 획득하였습니다. 	[!GuideMessage]作为[colour='FFFFE959']获得捣乱者一览[colour='FFFFFFFF']的$TroublemakerName$[colour='FFFFFFFF']4[colour='FFFFE959']级[colour='FFFFE959']信息的补偿，可获得[colour='FFFFFFFF']$MasteryName$[colour='FFFFE959']的组合天赋的信息。
-#14449	[!GuideMessage]트러블메이커 $TroublemakerName$의 정보 획득 4 단계 보상으로 $MasteryName$ 추가 특성 효과 정보를 획득하였습니다. 	[!GuideMessage]作为获得捣乱者一览的$TroublemakerName$4级信息的补偿，可获得$MasteryName$的组合天赋的信息。
+#14448	[!GuideMessage][colour='FFFFE959']트러블메이커 [colour='FFFFFFFF']$TroublemakerName$[colour='FFFFE959']의 정보 획득 [colour='FFFFFFFF']4[colour='FFFFE959'] 단계 보상으로 [colour='FFFFFFFF']$MasteryName$[colour='FFFFE959'] 추가 특성 효과 정보를 획득하였습니다. 	[!GuideMessage]作为[colour='FFFFE959']获得纷争制造者[colour='FFFFFFFF']$TroublemakerName$的[colour='FFFFFFFF']4[colour='FFFFE959']级[colour='FFFFE959']信息的补偿，可获得[colour='FFFFFFFF']$MasteryName$[colour='FFFFE959']的组合天赋的信息。
+#14449	[!GuideMessage]트러블메이커 $TroublemakerName$의 정보 획득 4 단계 보상으로 $MasteryName$ 추가 특성 효과 정보를 획득하였습니다. 	[!GuideMessage]作为获得纷争制造者$TroublemakerName$的4级信息的补偿，可获得$MasteryName$的组合天赋的信息。
 #14450	[!GuideMessage]근접한 적에게 받은 피해량의 %s만큼 해당 적에게 %s 속성 고정 피해를 입히며, 해당 대상이 %s 계열 상태 이상일 경우 피해량이 %s배가 됩니다.	[!GuideMessage]受到敌人的近战伤害时会返还%s的伤害量给攻击者，对其造成%s属性的固定伤害。若该目标处于%s系列异常状态时，该伤害量将变为%s倍。
 #14451	[!GuideMessage]$FieldEffectProb$ 확률로 해당 지형에 $White$산성 구름$Blue_ON$이 발생합니다.	[!GuideMessage]有$FieldEffectProb$的几率在该地形上引发$White$酸性云$Blue_ON$。
 #14452	[!GuideMessage]최대 $FieldEffectMaxCount$칸까지 $White$산성 구름$Blue_ON$이 발생합니다.	[!GuideMessage]最多会形成半径$FieldEffectMaxCount$格的$White$酸性云$Blue_ON$。
@@ -8635,8 +8635,8 @@
 #14689	[!ReputationDivisionType][colour='FFFFFF00']관할 구역 지원금[colour='FFFFFFFF']이 증가합니다.	[!ReputationDivisionType][colour='FFFFFF00']管辖区支援进增加[colour='FFFFFFFF']。
 #14690	[!ReputationDivisionType][colour='FFFFFF00']트러블슈터 활동 평가 시, 하락하는 평판이 [colour='FFFFFFFF']%d%%[colour='FFFFFF00'] 감소합니다.	[!ReputationDivisionType][colour='FFFFFF00']评价纷争终结者活动时，下降的评判减少 [colour='FFFFFFFF']%d%%[colour='FFFFFF00']。
 #14691	[!ReputationDivisionType]트러블슈터 활동 평가 시, 하락하는 [colour='FFFFFF00']평판[colour='FFFFFFFF']이 감소합니다.	[!ReputationDivisionType]评价纷争终结者活动时，减少下降的[colour='FFFFFF00']评判[colour='FFFFFFFF']。
-#14694	[!ReputationDivisionType][colour='FFFFFF00']트러블메이커의 정보 획득량이 [colour='FFFFFFFF']%d%%[colour='FFFFFF00'] 증가합니다.	[!ReputationDivisionType][colour='FFFFFF00']捣乱者的信息获得量增加[colour='FFFFFFFF']%d%%[colour='FFFFFF00']。
-#14695	[!ReputationDivisionType]트러블메이커의 [colour='FFFFFF00']정보 획득량[colour='FFFFFFFF'] 이 증가합니다.	[!ReputationDivisionType]捣乱者的[colour='FFFFFF00']信息获得量[colour='FFFFFFFF']增加。
+#14694	[!ReputationDivisionType][colour='FFFFFF00']트러블메이커의 정보 획득량이 [colour='FFFFFFFF']%d%%[colour='FFFFFF00'] 증가합니다.	[!ReputationDivisionType][colour='FFFFFF00']纷争制造者的信息获得量增加[colour='FFFFFFFF']%d%%[colour='FFFFFF00']。
+#14695	[!ReputationDivisionType]트러블메이커의 [colour='FFFFFF00']정보 획득량[colour='FFFFFFFF'] 이 증가합니다.	[!ReputationDivisionType]纷争制造者的[colour='FFFFFF00']信息获得量[colour='FFFFFFFF']增加。
 #14696	[!ReputationPolicy]$Division$ 임무 완료 시, $Rare$ 등급 이상의 아이템을 $ApplyAmountValue$개 지급합니다. 해당 지구 평판이 $ApplyAmountValue2$ 감소하며 타 상업 지구의 평판이 $ApplyAmountValue2$ 상승합니다.	[!ReputationPolicy]完成$Division$的任务时，获得$ApplyAmountValue$个$Rare$级别以上的道具。该地区评判减少$ApplyAmountValue2$，其他商业地区的评判上升$ApplyAmountValue2$。
 #14697	[!ReputationPolicy]$Sector$의 $SectorCitizen$들의 불법적인 암거래 물품을 적발합니다.	[!ReputationPolicy]揭发$Sector$的$SectorCitizen$们的非法黑市交易物品。
 #14698	[!ReputationPolicy]암거래 적발	[!ReputationPolicy]揭发黑市交易
@@ -8658,7 +8658,7 @@
 #14714	[!ReputationPolicy]$Division$ 임무 완료 시, 해당 임무에서 획득 가능한 $Rare$ 등급 이상의 장비 아이템을 $ApplyAmountValue$개 지급합니다.	[!ReputationPolicy]完成$Division$的任务时，获得$ApplyAmountValue$个该任务可以获得的$Rare$级别以上的装备道具。
 #14715	[!ReputationPolicy]$Sector$의 $SectorCitizen$들은 $Division$에서 일어난 사건을 해결할 때마다 사건 현장 수습을 도와줍니다.	[!ReputationPolicy]$Sector$的$SectorCitizen$们在$Division$发生的事件得到解决时帮助事件现场收尾。
 #14716	[!ReputationPolicy]현장 수습	[!ReputationPolicy]现场收尾
-#14717	[!ReputationPolicy]$Division$ 임무 완료 시, 알려진 트러블메이커 대상 중 정보가 부족한 무작위의 대상에 대한 정보를 $ApplyAmountValue$ 획득합니다.	[!ReputationPolicy]完成$Division$的时，将获得已被告知的捣乱者中，缺乏信息的随机对象的信息量$ApplyAmountValue$。
+#14717	[!ReputationPolicy]$Division$ 임무 완료 시, 알려진 트러블메이커 대상 중 정보가 부족한 무작위의 대상에 대한 정보를 $ApplyAmountValue$ 획득합니다.	[!ReputationPolicy]完成$Division$的时，将获得已被告知的纷争制造者中，缺乏信息的随机对象的信息量$ApplyAmountValue$。
 #14718	[!ReputationPolicy]$Sector$의 $SectorCitizen$들부터 바람장벽 지구 전역의 범죄자들의 정보를 제공 받습니다.	[!ReputationPolicy]从$Sector$的$SectorCitizen$们获得风之壁地区犯罪者们的信息。
 #14719	[!ReputationPolicy]정보상	[!ReputationPolicy]信息商
 #14720	[!ReputationPolicy]$Division$ 임무 완료 시, 모든 산업 지구의 평판이 $ApplyAmountValue$ 상승합니다.	[!ReputationPolicy]完成$Division$的任务时，所有产业地区的评判上升$ApplyAmountValue$。
@@ -8688,8 +8688,8 @@
 #14744	[!ReputationPolicy]$SupportItem$ 희귀 방어구	[!ReputationPolicy]$SupportItem$稀有防具
 #14745	[!ReputationPolicy]$Division$ 임무 완료 시, $Rare$ 등급 이상의 장비 아이템을 $ApplyAmountValue$개 지급합니다.	[!ReputationPolicy]完成$Division$的任务时，获得$ApplyAmountValue$个$Rare$级别以上的装备。
 #14746	[!ReputationPolicy]$SupportItem$ 희귀 장비	[!ReputationPolicy]$SupportItem$稀有装备
-#14747	[!ReputationPolicy]$Division$ 임무 완료 시, $Rare$ 등급 이상의 소재 아이템을 $ApplyAmountValue$개 지급합니다.	[!ReputationPolicy]完成$Division$的任务时，获得$ApplyAmountValue$个$Rare$级别以上的材料。
-#14748	[!ReputationPolicy]$SupportItem$ 희귀 소재	[!ReputationPolicy]$SupportItem$稀有材料
+#14747	[!ReputationPolicy]$Division$ 임무 완료 시, $Rare$ 등급 이상의 소재 아이템을 $ApplyAmountValue$개 지급합니다.	[!ReputationPolicy]完成$Division$的任务时，获得$ApplyAmountValue$个$Rare$级别以上的素材。
+#14748	[!ReputationPolicy]$SupportItem$ 희귀 소재	[!ReputationPolicy]$SupportItem$稀有素材
 #14749	[!ReputationPolicy]$Division$ 임무 완료 시, $Rare$ 등급 이상의 무기 아이템을 $ApplyAmountValue$개 지급합니다.	[!ReputationPolicy]完成$Division$的任务时，获得$ApplyAmountValue$个$Rare$级别以上的武器。
 #14750	[!ReputationPolicy]$SupportItem$ 희귀 무기	[!ReputationPolicy]$SupportItem$稀有武器
 #14751	[!ReputationPolicy]$Division$ 임무 완료 시, 무작위의 제작 가능한 아이템의 숙련도가 $ApplyAmountValue$ 상승합니다.	[!ReputationPolicy]完成$Division$的任务时，随机提升可制作的道具$ApplyAmountValue$点熟练度。
@@ -8774,9 +8774,9 @@
 #14860	[!NamedEvent]약삭빠른 이반	[!NamedEvent]狡猾的伊凡
 #14861	[!NamedEvent]처리업자	[!NamedEvent]处理商
 #14862	[!ObjectInfo]소각 드론	[!ObjectInfo]喷火无人机
-#14863	[!ObjectInfo]버려진 소각 드론	[!ObjectInfo]被遗弃的喷火无人机
-#14864	[!ObjectInfo]버려진 정찰 드론	[!ObjectInfo]被遗弃的侦察无人机
-#14865	[!ObjectInfo]버려진 소방 드론	[!ObjectInfo]被遗弃的消防无人机
+#14863	[!ObjectInfo]버려진 소각 드론	[!ObjectInfo]废弃喷火无人机
+#14864	[!ObjectInfo]버려진 정찰 드론	[!ObjectInfo]废弃侦察无人机
+#14865	[!ObjectInfo]버려진 소방 드론	[!ObjectInfo]废弃消防无人机
 #14866	[!ObjectInfo]이반	[!ObjectInfo]伊凡
 #14867	[!ObjectInfo]한스	[!ObjectInfo]汉斯
 #14868	[!ObjectInfo]스푼교 섬광술사	[!ObjectInfo]勺子教疾电术士
@@ -9049,7 +9049,7 @@
 #15255	[!Item]자홍빛 흑철 세공 운동화보다 질이 더 높은 가죽을 사용하여 개선한 운동화.	[!Item]用比紫红色黑铁细工运动鞋质量更高的皮革改进的运动鞋。
 #15256	[!Item]자홍빛 흑철 운동화	[!Item]紫红色黑铁运动鞋
 #15257	[!Item]자홍거리에서 유통되는 흑철 세공 운동화에 질긴 네구리 가죽을 추가하여 사용성을 개선한 부츠. 뒷세계에서 매우 인기 있는 운동화다.	[!Item]将紫红街流通黑铁细工运动鞋换成了纳古利皮革而改善的靴子。在地下世界非常受欢迎。
-#15258	[!Item]듀나메스 저격총 A의 강화형 버전. 기존 버전보다 가벼운 소재로 구성되어 사용성이 증가되었다.	[!Item]杜纳梅斯狙击枪 A的加强版。使用了比原版本更轻的材料，使得实用性能提升。
+#15258	[!Item]듀나메스 저격총 A의 강화형 버전. 기존 버전보다 가벼운 소재로 구성되어 사용성이 증가되었다.	[!Item]杜纳梅斯狙击枪 A的加强版。使用了比原版本更轻的素材，使得实用性能提升。
 #15259	[!Item]듀나메스 저격총의 사용성을 강화하고 살상력을 강화시킨 저격총.	[!Item]强化了杜纳梅斯狙击枪的实用性并强化了杀伤力的狙击枪。
 #15260	[!Item]카라스 연방의 군수업체 '듀나메스'에서 제작한 차세대 지원형 저격총. 뛰어난 자동 조준 기능으로 각광받고 있다.	[!Item]卡拉斯联邦的军工企业「杜纳梅斯」 制作的次世代支援型狙击枪。拥有优秀的自动瞄准功能。
 #15261	[!Item]흑철 세공 검	[!Item]黑铁细工剑
@@ -9560,7 +9560,7 @@
 #15981	[!Extract]기계	[!MasteryType]机械
 #15982	[!GuideMessage][colour='FFFFE959']기계 제작 중 [colour='FFFFFFFF']%s [colour='FFFFE959']특성이 추가되었습니다.	[!GuideMessage][colour='FFFFE959']机械制作过程中增加了[colour='FFFFFFFF']%s [colour='FFFFE959']天赋。
 #15983	[!GuideMessage]기계 제작이 완료되었습니다.	[!GuideMessage]机械的制作已完成。
-#15984	[!GuideMessage]기계를 정말 폐기하겠습니까? 착용 중인 모듈은 해제되고, 장비는 재료가 추출되고 사라집니다.	[!GuideMessage]真的要报废吗机械吗？正装备的模块会被解除，装备会被提取材料并消失。
+#15984	[!GuideMessage]기계를 정말 폐기하겠습니까? 착용 중인 모듈은 해제되고, 장비는 재료가 추출되고 사라집니다.	[!GuideMessage]真的要报废吗机械吗？正装备的模块会被解除，装备会被提取素材并消失。
 #15985	[!GuideMessage]변경할 기계의 이름을 입력하세요.	[!GuideMessage]请输入要变更的机械的名字。
 #15986	[!GuideMessage]소지 금액이 부족해서 계속 진행할 수 없습니다.	[!GuideMessage]持有金额不足，无法继续进行。
 #15987	[!GuideMessage][colour='FFFFFFFF']%s[colour='FFFFE959'][이] 수리되었습니다.	[!GuideMessage][colour='FFFFFFFF']%s[colour='FFFFE959']已修理。
@@ -9614,7 +9614,7 @@
 #16072	[!WordCollection]기체 모듈 슬롯	[!WordCollection]机体模块栏
 #16073	[!WordCollection]기체 변경	[!WordCollection]机体变更
 #16074	[!Ability]연료를 가득 채웁니다.	[!Ability]填充燃料。
-#16075	[!GuideMessage]모듈 제작의 고정 재료 아이템이 제작 가능 한 경우, %s 두번 클릭하시면 해당 아이템의 제작으로 이동 하실 수 있습니다.	[!GuideMessage]制作模块所需的固定材料在可制造时，点击两次%s可移动至该物品的制作窗口。
+#16075	[!GuideMessage]모듈 제작의 고정 재료 아이템이 제작 가능 한 경우, %s 두번 클릭하시면 해당 아이템의 제작으로 이동 하실 수 있습니다.	[!GuideMessage]制作模块所需的固定素材在可制造时，点击两次%s可移动至该物品的制作窗口。
 #16078	[!Office]창고 사용 가능<br>인벤토리 공간 350 추가	[!Office]可使用地下仓库<br>仓储空间增加 350
 #16079	[!Rest]온도가 2도쯤 낮았으면 좋겠는데...	[!Rest]要是温度低2度就好了...
 #16080	[!Rest]따듯한것을 마실걸 그랬나...	[!Rest]应该喝点热的就好了...
@@ -9641,8 +9641,8 @@
 #16108	[!Craft_Machine]무기	[!Equipment]武器
 #16109	[!GuideMessage]해당 적이 보유한 모듈을 연구할 수 있습니다.	[!GuideMessage]可以开始研究该机体所拥有的模块。
 #16110	[!GuideMessage]이미 해당 적이 보유한 모든 모듈을 연구할 수 있습니다.	[!GuideMessage]已经可以研究该机体所拥有的所有模块了。
-#16111	[!GuideMessage]추가 재료 모듈은 필요 출력을 채우기 위해 소모하는 모듈을 말합니다.	[!GuideMessage]附加材料模块是为满足所需功率而消耗的必要模块。
-#16112	[!GuideMessage]고정 제작 재료는 모듈 제작을 하기 위한 필수 재료를 말합니다.	[!GuideMessage]固定制作材料是为制作模块而必要的材料。
+#16111	[!GuideMessage]추가 재료 모듈은 필요 출력을 채우기 위해 소모하는 모듈을 말합니다.	[!GuideMessage]附加素材模块是为满足所需功率而消耗的必要模块。
+#16112	[!GuideMessage]고정 제작 재료는 모듈 제작을 하기 위한 필수 재료를 말합니다.	[!GuideMessage]固定制作素材是为制作模块而必要的素材。
 #16116	[!ObjectInfo]악세서리 상인	[!ObjectInfo]饰品商
 #16117	[!ObjectInfo]이능석 중개인	[!ObjectInfo]异能石中介者
 #16118	[!ObjectInfo]천	[!Tile]千
@@ -9650,13 +9650,13 @@
 #16120	[!Shop]악세서리 상점	[!Shop]饰品店
 #16121	[!Shop]연금 상점	[!Shop]炼金店
 #16122	[!Shop]이능석 상점	[!Shop]异能石店
-#16123	[!WordCollection]추가 재료 모듈	[!WordCollection]附加材料模块
+#16123	[!WordCollection]추가 재료 모듈	[!WordCollection]附加素材模块
 #16124	[!WordCollection][!Menu]기계 제작	[!Profession]制作机械
 #16125	[!WordCollection]제작 가능한 모듈만 보기	[!WordCollection]只显示可制作的模块
 #16126	[!WordCollection]관심 모듈 등록	[!WordCollection]登录关心模块
 #16127	[!WordCollection]모듈 획득 확률	[!WordCollection]模块获得几率
 #16128	[!WordCollection]정보 완료 보상: 연구 가능 모듈 발견	[!WordCollection]信息完成奖励：发现可研究的模块
-#16129	[!WordCollection]고정 제작 재료	[!WordCollection]固定制作材料
+#16129	[!WordCollection]고정 제작 재료	[!WordCollection]固定制作素材
 #16130	[!WordCollection]필요 출력	[!WordCollection]必要功率
 #16131	[!WordCollection][!Menu]모듈 추가	[!WordCollection][!Menu]添加模块
 #16132	[!WordCollection][!Menu]모듈 제작	[!WordCollection][!menu]制作模块
@@ -9687,7 +9687,7 @@
 #16157	[!Item]개조된 크레인 핸드 - 화염 방사	[!Item]被改造的起重机械臂 - 火焰喷射
 #16158	[!Item]개조된 크레인 핸드 - 냉각 가스	[!Item]被改造的起重机械臂 - 冷气
 #16159	[!Item]개조된 크레인 핸드 - 전기 충격	[!Item]被改造的起重机械臂 - 电击
-#16160	[!LayoutKeyword]재료 도감	[!WordCollection]材料图鉴
+#16160	[!LayoutKeyword]재료 도감	[!WordCollection]素材图鉴
 #16161	[!Loading]푸른 안개 G 물류센터	[!Loading]蓝雾-G物流中心
 #16164	[!Mastery]작은 움직임도 놓치지 않는다.	[!Mastery]一丝不苟
 #16165	[!Mastery]자동 제압 사격	[!Mastery]自动压制射击
@@ -10277,7 +10277,7 @@
 #16876	[!GameSystemMessageFormat]적에게 방어선이 돌파당하였습니다.	[!Sentence][!FrontMessage]被敌人突破了防线。
 #16877	[!GameSystemMessageFormat]백호파의 공세가 거세집니다.	[!Sentence][!FrontMessage]白虎组的攻势愈发猛烈。
 #16878	[!GameSystemMessageMenu]사건 일지	[!WordCollection]事件日志
-#16879	[!GameSystemMessageMenu]재료 도감	[!WordCollection]材料图鉴
+#16879	[!GameSystemMessageMenu]재료 도감	[!WordCollection]素材图鉴
 #16880	[!GameSystemMessageMenu]지역 이동	[!WordCollection]地区移动
 #16881	[!GameSystemMessageObject]전자망	[!GameSystemMessageObject]电网
 #16882	[!GameSystemMessageObject]북쪽 전자망	[!Sentence][!Title]北部电网
@@ -10482,7 +10482,7 @@
 #17282	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']현재 사용중인 특성판의 특성 중 개인 특성 변경 시 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告：天赋版的天赋将会解除<br><br>[colour='FFFFFFFF']现在所使用的天赋版的天赋中存在更改个人天赋后无法使用的天赋。
 #17283	[!GuideMessage][colour='FFFF5943']현재 $ItemName$ 개수가 부족하여 해당 특성으로 변경이 불가능합니다.	[!GuideMessage][colour='FFFF5943']因$ItemName$不足而无法更改天赋。
 #17284	[!GuideMessage][colour='FFFFFFFF']개인 특성 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거되며, 해당 과정을 위해 $ItemName$ $ItemCount$ 개가 추가 소모됩니다.	[!GuideMessage][colour='FFFFFFFF']若继续进行个人天赋的变更，以上天赋将从天赋版解除。需要$ItemName$ $ItemCount$个。
-#17285	[!GuideMessage]관심 특성 등록된 특성만을 보여줍니다. 관심 특성으로 등록된 특성이 특성 연구로 소모될 경우, 경고 메시지로 해당 특성의 소모를 알려줍니다.	[!GuideMessage]只显示在关心天赋上登录的天赋。若已登录的天赋将用于天赋研究材料时，会收到警告通知。
+#17285	[!GuideMessage]관심 특성 등록된 특성만을 보여줍니다. 관심 특성으로 등록된 특성이 특성 연구로 소모될 경우, 경고 메시지로 해당 특성의 소모를 알려줍니다.	[!GuideMessage]只显示在关心天赋上登录的天赋。若已登录的天赋将用于天赋研究素材时，会收到警告通知。
 #17288	[!Help]최대 턴 대기 시간	[!Help]最大回合冷却时间
 #17293	[!Item]자홍거리에서 유통되는 흑철 세공 손목 고리에 질긴 네구리 가죽을 추가하여 사용성을 개선한 손목 고리. 뒷세계에서 매우 인기 있는 손목 고리다.	[!Item]将紫红街流通黑铁细工腕带换成了纳古利皮革而改善的腕带。在地下世界非常受欢迎。
 #17294	[!Item]천선의 약	[!Item]天上仙人药
@@ -10650,7 +10650,7 @@
 #17475	[!LobbyIdleMessage][!speaker:Sion]앤. 오빠가 있으니 너무 무리하지 마.	[!LobbyIdleMessage][!speaker:Sion]安，有哥哥在，不要太过勉强。
 #17476	[!LobbyIdleMessage][!speaker:Sion]이번 달 월급이 벌써... 	[!LobbyIdleMessage][!speaker:Sion]这个月的工资这么快就...
 #17477	[!LobbyIdleMessage][!speaker:Sion]오늘 들어가서는 빨래해야겠다.	[!LobbyIdleMessage][!speaker:Sion]今天回去后需要去洗衣服了。
-#17478	[!LobbyIdleMessage][!speaker:Sion]카일리 씨한테 가서 장비 수선 재료나 얻어 볼까...	[!LobbyIdleMessage][!speaker:Sion]去凯莉姐那弄点装备修补材料吧...
+#17478	[!LobbyIdleMessage][!speaker:Sion]카일리 씨한테 가서 장비 수선 재료나 얻어 볼까...	[!LobbyIdleMessage][!speaker:Sion]去凯莉姐那弄点装备修补素材吧...
 #17481	[!LobbyIdleMessage][!speaker:Sion]하늘바람 포장마차거리에 가면 우동 하나 끝내주는 집이 하나 있어. 꼭 가봐.	[!LobbyIdleMessage][!speaker:Sion]去天风快餐街的话有家超好吃的乌冬面餐馆。一定要去下。
 #17482	[!LobbyIdleMessage][!speaker:Sion]푸고 상점가에는 진짜 맛있는 만두 포장마차가 있어. 강력 추천이야.	[!LobbyIdleMessage][!speaker:Sion]府谷商店街有超好吃的包子帐篷小店。强烈推荐。
 #17483	[!LobbyIdleMessage][!speaker:Sion]은빛구름 상점가에 가면 꽤 괜찮은 비빔밥 집이 있어.	[!LobbyIdleMessage][!speaker:Sion]银彩商店街有家不错的拌饭店。
@@ -11214,7 +11214,7 @@
 #18080	[!LobbyIdleMessage][!speaker:Kylie]정찰용 드론의 기동성을 확보하려면 역시 경량화인가...	[!LobbyIdleMessage][!speaker:Kylie]要获得侦察用无人机的机动性的话果然是要轻量化吗...
 #18081	[!LobbyIdleMessage][!speaker:Kylie]전방으로 적의 공격을 받아낼려면 조금 더 강력한 외장이 필요해...	[!LobbyIdleMessage][!speaker:Kylie]要想从正面承受敌人的攻击的话，需要更强力的外甲...
 #18082	[!LobbyIdleMessage][!speaker:Kylie]출력 중심인가... 하중 중심인가...	[!LobbyIdleMessage][!speaker:Kylie]是以功率为中心...还是以载荷为中心...
-#18083	[!LobbyIdleMessage][!speaker:Kylie]재료는 알버스에게 요청해야 하나...	[!LobbyIdleMessage][!speaker:Kylie]材料是要向阿尔伯斯要吗...
+#18083	[!LobbyIdleMessage][!speaker:Kylie]재료는 알버스에게 요청해야 하나...	[!LobbyIdleMessage][!speaker:Kylie]素材是要向阿尔伯斯要吗...
 #18084	[!Mastery]훈련서 - 30개	[!Mastery]训练书 - 30个
 #18085	[!Mastery]제작서 - 30개	[!Mastery]设计图 - 30个
 #18091	[!ObjectInfo]주크박스	[!ObjectInfo]自动电唱机
@@ -11516,7 +11516,7 @@
 #18483	[!Mastery]익숙한 무기만큼 좋은 무기는 없지.	[!Mastery]没有比顺手的武器更好的武器了。
 #18485	[!Mastery]고무	[!Mastery]鼓舞
 #18486	[!Mastery]우어어어어!!!!	[!Mastery]唔啊啊啊啊啊啊！！！！
-#18488	[!ObjectInfo]스푼교 기동대	[!ObjectInfo]勺子教行动队
+#18488	[!ObjectInfo]스푼교 기동대	[!ObjectInfo]勺子教特战兵
 #18489	[!Suggestion]레톤이 입사 지원에 대한 답변을 기다립니다.<br><br>[colour='FFFFFF00']레톤 제안 수락 시 레톤이 회사에 합류합니다.	[!Suggestion]莱顿正在等待入职申请的答复。<br><br>[colour='FFFFFF00']接受提案时，莱顿将加入公司。
 #18490	[!ObjectInfo]비	[!MissionWeather]蜂
 #18491	[!ObjectInfo]리사	[!CivilRescueNameSet]丽萨
@@ -11712,7 +11712,7 @@
 #18767	[!Help]향	[!Help]香味
 #18768	[!Help]화염	[!Help]火焰
 #18769	[!Help]얼음	[!Help]寒冰
-#18770	[!Help]바람	[!Help]风
+#18770	[!Help]바람	[!Help]疾风
 #18771	[!Help]대지	[!Help]大地
 #18772	[!Help]번개	[!Help]闪电
 #18773	[!Help]출혈	[!Help]流血
@@ -11889,7 +11889,7 @@
 #18974	[!Help]$ChildCivil$는 근처에 다가가 주위의 안전을 확보하면 스스로 도망칩니다.	[!Help]$ChildCivil$靠近附近并确保周围安全，会自行逃脱。
 #18975	[!Help]전원 장치의 전원을 내리면 실내 공간의 유닛들은 $Buff_Blackout$ 상태가 됩니다.	[!Help]放下电源后，室内空间的单位将处于$Buff_Blackout$状态。
 #18976	[!Help]임무 수행 중 발견되는 상자에는 다양한 아이템이 들어있습니다. 상자를 열기 위해서는 근접하여 $Ability_InvestigateChest$ 어빌리티를 사용해야 합니다.	[!Help]执行任务时发现的箱子里装有多种物品。靠近箱子后使用$Ability_InvestigateChest$技能即可打开。
-#18977	[!Help]임무 수행 중 발견되는 $ItemType_Extractor$의 에너지를 추출하여 $ItemCraft$에 필요한 재료를 획득할 수 있습니다.<br><br>$ItemType_Extractor$의 에너지를 추출하기 위해서는 근접하여 $Ability_InvestPsiStone$ 어빌리티를 사용해야 합니다.<br><br>$Ability_InvestPsiStone$ 어빌리티는 $Item_Extractor$를 장비하고 있어야 활성화 됩니다.	[!Help]提取执行任务过程中发现的$ItemType_Extractor$的能量可获得$ItemCraft$所需的材料。<br><br>为了提取$ItemType_Extractor$的能量需要靠近使用$Ability_InvestPsiStone$技能。<br><br>$Ability_InvestPsiStone$技能是需要装备$Item_Extractor$才能激活。
+#18977	[!Help]임무 수행 중 발견되는 $ItemType_Extractor$의 에너지를 추출하여 $ItemCraft$에 필요한 재료를 획득할 수 있습니다.<br><br>$ItemType_Extractor$의 에너지를 추출하기 위해서는 근접하여 $Ability_InvestPsiStone$ 어빌리티를 사용해야 합니다.<br><br>$Ability_InvestPsiStone$ 어빌리티는 $Item_Extractor$를 장비하고 있어야 활성화 됩니다.	[!Help]提取执行任务过程中发现的$ItemType_Extractor$的能量可获得$ItemCraft$所需的素材。<br><br>为了提取$ItemType_Extractor$的能量需要靠近使用$Ability_InvestPsiStone$技能。<br><br>$Ability_InvestPsiStone$技能是需要装备$Item_Extractor$才能激活。
 #18978	[!Help]전파 방해기는 해당 지역의 무선 통신을 방해하는 $IllegalObject$입니다.	[!Help]电波干扰器是妨碍该区域无线通信的$IllegalObject$。
 #18979	[!Help]발할라 경찰청에서는 해당 설치물을 파괴할 때마다 철거 비용을 추가로 지원하고 있습니다.	[!Help]巴赫拉警察厅会根据被破坏的电波干扰器的数量追加拆除奖金。
 #18980	[!Help]전기차 충전기는 공격 가능한 위험물 오브젝트입니다. 해당 오브젝트가 파괴되면 주위 반경 3 타일에 화염 피해를 입힙니다.	[!Help]电动汽车充电器是个可攻击的危险目标。该目标被破坏后，会给周围半径3格内的区域带来火焰伤害。
@@ -11984,7 +11984,7 @@
 #19076	[!GuideMessage]발생한 $FieldEffect$[은] 날씨와 지형에 따라 지속 시간이 증가 혹은 감소할 수 있습니다.	[!GuideMessage]$FieldEffect$是当前的天气状态，天气和地形会对持续时间增加或减少产生影响。
 #19077	[!GuideMessage]$ImmuneRace$인 적에게는 적용되지 않습니다.	[!GuideMessage]对于$ImmuneRace$的敌人不会产生效果。
 #19078	[!Help]대상을 $Word_OutOfAction$시키는 공격 시 대상의 [colour='FFFFAA00']남은 체력을 초과한 피해량[colour='FFFFFFFF']이 적의 [colour='FFFFAA00']최대 체력의 $OverKillRatio$[colour='FFFFFFFF']를 넘는 경우 $OverKill$을 달성할 수 있습니다.<br><br>$OverKill$을 달성하면 다음과 같은 효과가 적용됩니다.	[!Help][!Help]造成对象$Word_OutOfAction$的攻击伤害量，如果超过对象[colour='FFFFAA00']剩下的体力[colour='FFFFFFFF']的部分达到敌人[colour='FFFFAA00']最大体力的$OverKillRatio$[colour='FFFFFFFF']以上时会达成$OverKill$。<br><br>达成$OverKill$时将产生以下效果。
-#19079	[!Help]- 획득한 경험치의 $PfKill_Exp$만큼 추가 경험치를 획득합니다.<br>- $PfKill_ItemGrade$ 이상 아이템의 획득 확률이 증가합니다.<br>- 특성의 획득 확률이 증가합니다.<br>- 트러블 메이커 일람의 정보 획득량이 $PfKill_Troublemaker$배 증가합니다.	[!Help]- 获得$PfKill_Exp$的额外经验值。<br>- $PfKill_ItemGrade$以上的物品的获得概率增加。<br>- 天赋的获得概率增加。<br>- 捣乱者一览的信息获取量增加$PfKill_Troublemaker$倍。
+#19079	[!Help]- 획득한 경험치의 $PfKill_Exp$만큼 추가 경험치를 획득합니다.<br>- $PfKill_ItemGrade$ 이상 아이템의 획득 확률이 증가합니다.<br>- 특성의 획득 확률이 증가합니다.<br>- 트러블 메이커 일람의 정보 획득량이 $PfKill_Troublemaker$배 증가합니다.	[!Help]- 获得$PfKill_Exp$的额外经验值。<br>- $PfKill_ItemGrade$以上的物品的获得概率增加。<br>- 天赋的获得概率增加。<br>- 纷争制造者的信息获取量增加$PfKill_Troublemaker$倍。
 #19080	[!Help]대상을 $Word_OutOfAction$시키는 공격 시 대상의 체력이 $Status_MaxHP$인 경우 $PerfectKill$을 달성할 수 있습니다.<br><br>$PerfectKill$을 달성하면 다음과 같은 효과가 적용됩니다.	[!Help]造成对象$Word_OutOfAction$时，对象的当前体力是$Status_MaxHP$的情况下将达成$PerfectKill$。<br><br>达成$PerfectKill$后将产生如下效果。
 #19081	[!Help]의욕	[!PcStatus]意志
 #19082	[!Help]인간은 현재 의욕에 따라 다음과 같은 효과가 발생합니다.	[!Help]人类角色根据当前意志而产生如下效果。
@@ -12125,11 +12125,11 @@
 #19225	[!Item]자홍빛 드라키 부츠	[!Item]紫红色德拉基靴子
 #19226	[!Item]자홍거리에서 유통되는 드라키 부츠를 개량하여 강화한 부츠. 뒷세계에서 최상급으로 다뤄진다.	[!Item]通过改良强化紫红街流通的德拉基靴子。是一款在地下世界里视为最高级的物品。
 #19227	[!Item]남청빛 드라키 부츠	[!Item]藏蓝色德拉基靴子
-#19228	[!Item]드라키의 가슴 비늘로 제작된 고급 부츠로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]德拉基胸部鳞片所制造的靴子。因材料稀有而很难在市场见到。大部分都是自行制作。
+#19228	[!Item]드라키의 가슴 비늘로 제작된 고급 부츠로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]德拉基胸部鳞片所制造的靴子。因素材稀有而很难在市场见到。大部分都是自行制作。
 #19229	[!Item]드라키 비늘 구두	[!Item]德拉基鳞皮鞋
 #19230	[!Item]드라키의 비늘로 만든 구두. 내구성이 매우 높은 것이 특징이다.	[!Item]德拉基鳞片所制造的皮鞋。耐久性优越。
 #19232	[!Item]자홍거리에서 유통되는 드라키 구두를 개량하여 강화한 구두. 뒷세계에서 최상급으로 다뤄진다.	[!Item]通过改良强化紫红街流通的德拉基皮鞋。是一款在地下世界里视为最高级的物品。
-#19234	[!Item]드라키의 가슴 비늘로 제작한 고급 구두로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]德拉基胸部鳞片所制造的皮鞋。因材料稀有而很难在市场见到。大部分都是自行制作。
+#19234	[!Item]드라키의 가슴 비늘로 제작한 고급 구두로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]德拉基胸部鳞片所制造的皮鞋。因素材稀有而很难在市场见到。大部分都是自行制作。
 #19235	[!Item]드라키 운동화	[!Item]德拉基运动鞋
 #19237	[!Item]자홍빛 드라키 운동화	[!Item]紫红色德拉基运动鞋
 #19238	[!Item]자홍거리에서 유통되는 드라키 운동화를 개량하여 강화한 구두. 뒷세계에서 최상급으로 다뤄진다.	[!Item]通过改良强化紫红街流通的德拉基运动鞋。是一款在地下世界里视为最高级的物品。
@@ -12139,7 +12139,7 @@
 #19243	[!Item]자홍빛 드라키 손목 보호대	[!Item]紫红色德拉基护腕
 #19244	[!Item]자홍거리에서 유통되는 드라키 손목보호대의 강화된 버전. 뒷세계에서 최상급으로 다뤄진다.	[!Item]通过改良强化紫红街流通的德拉基护腕。是一款在地下世界里视为最高级的物品。
 #19245	[!Item]남청빛 드라키 손목 보호대	[!Item]藏蓝色德拉基护腕
-#19246	[!Item]드라키의 가슴 비늘로 제작한 고급 손목 보호대로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]德拉基胸部鳞片所制造的护腕。因材料稀有而很难在市场见到。大部分都是自行制作。
+#19246	[!Item]드라키의 가슴 비늘로 제작한 고급 손목 보호대로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]德拉基胸部鳞片所制造的护腕。因素材稀有而很难在市场见到。大部分都是自行制作。
 #19247	[!Item]드라키 뼈 반지	[!Item]德拉基骨戒
 #19248	[!Item]드라키의 뼈로 만든 반지. 이능력 증폭 능력이 탁월하다.	[!Item]以德拉基骨头制造的戒指。增幅异能优越。
 #19249	[!Item]자홍빛 드라키 뼈 반지	[!Item]紫红色德拉基骨戒
@@ -12206,7 +12206,7 @@
 #19315	[!Mastery]흘려 버린 피의 댓가를 치뤄야지.	[!Mastery]要为留下的血液付出代价。
 #19317	[!Mastery]날카로운 기백	[!Mastery]锐利的气魄
 #19318	[!Mastery]단 한 번의 주저함이 모든 것을 망친다.	[!Mastery]一次迟疑会毁掉一切。
-#19332	[!ObjectInfo]스푼교 살육자	[!ObjectInfo]勺子教杀戮者
+#19332	[!ObjectInfo]스푼교 살육자	[!ObjectInfo]勺子教屠弑者
 #19333	[!StatsInfo]평균 치명타 적중률	[!StatsInfo]平均暴击率
 #19334	[!Ability]즉흥적인 마무리	[!Ability]即兴的收尾
 #19335	[!Buff]즉흥적인 마무리	[!Buff]即兴的收尾
@@ -12451,7 +12451,7 @@
 #19611	[!NamedEvent]그르릉~	[!NamedEvent]嗷呜呜～
 #19616	[!NamedEvent]그류류~	[!NamedEvent]啊呜～
 #19617	[!ObjectInfo]드라키의 알	[!ObjectInfo]德拉基的蛋
-#19618	[!ObjectInfo]알 껍질의 새끼 드라키	[!ObjectInfo]破蛋的幼生德拉基
+#19618	[!ObjectInfo]알 껍질의 새끼 드라키	[!ObjectInfo]破壳的幼生德拉基
 #19619	[!ObjectInfo]암석 새끼 드라키	[!ObjectInfo]幼生岩石德拉基
 #19620	[!ObjectInfo]불꽃 새끼 드라키	[!ObjectInfo]幼生火花德拉基
 #19621	[!ObjectInfo]섬광 새끼 드라키	[!ObjectInfo]幼生闪光德拉基
@@ -12528,7 +12528,7 @@
 #19695	[!Help]유닛 확인	[!Help]单位确认
 #19696	[!Help]시야에 보이는 유닛을 클릭하면 대상의 정보를 확인할 수 있습니다. 유닛 확인중에는 해당 유닛의 이동 범위가 표시되며 아군 유닛의 경우 왼쪽 아래의 $/$현재 캐릭터 정보$/$ 창에, 그 외의 유닛은 상단의 $/$유닛 정보$/$ 창에 정보가 표시됩니다. <br><tab><tab><br>$KeyBindImage_Escape$ 를 누르거나 $/$턴 대기열$/$에서 가장 윗쪽의 캐릭터를 클릭하면 현재 턴을 가지고 있는 캐릭터가 다시 선택됩니다.	[!Help]点击进入视野内的单位可确认该对象的情报。确认单位时，将显示该单位的移动范围。若是友军，则会在左下方的$/$现在角色情报$/$窗显示，其他的对象将在上方的$/$目标情报$/$窗显示。 <br><tab><tab><br>按$KeyBindImage_Escape$或点击在$/$回合等待序列$/$中最上方的角色的话可以重新回到当前顺序的角色。
 #19697	[!Item]드라키의 얇은 가죽으로 만든 운동화. 내구성이 매우 높은 것이 특징이다.	[!Item]德拉基薄皮所制造的运动鞋。耐久性优越。
-#19698	[!Item]드라키의 가죽으로 제작한 고급 운동화로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]德拉基皮所制造的高级运动鞋。因材料稀有而很难在市场见到。大部分都是自行制作。
+#19698	[!Item]드라키의 가죽으로 제작한 고급 운동화로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]德拉基皮所制造的高级运动鞋。因素材稀有而很难在市场见到。大部分都是自行制作。
 #19699	[!Item]드라키 비늘 운동화	[!Item]德拉基鳞运动鞋
 #19701	[!Item]드라키 비늘 손목 보호대	[!Item]德拉基鳞护腕
 #19703	[!Item]드라키 비늘 자켓	[!Item]德拉基鳞夹克
@@ -12634,9 +12634,9 @@
 #19847	[!Buff]달빛 흩뜨리기	[!Buff]弄乱月光
 #19848	[!Help]$Chain_Fracture$은 $Img_LavaField$용암 지형 효과 상태의 대상이 $/$얼음$/$ 속성 치명타 피해를 입을 때 발생합니다.	[!Help]$Chain_Fracture$是$Img_LavaField$向在熔岩地形状态的对象给予$/$寒冰$/$属性暴击伤害时产生。
 #19849	[!Loading]최상위 포식자	[!Loading]顶级捕食者
-#19850	[!Loading]철의 숲 버려진 동굴	[!Loading]铁森林被遗弃的洞穴
+#19850	[!Loading]철의 숲 버려진 동굴	[!Loading]铁森林废弃洞穴
 #19852	[!Loading]드라키의 둥지	[!Loading]德拉基巢穴
-#19856	[!Mission]철의 숲 버려진 동굴	[!Mission]铁森林被遗弃的洞穴
+#19856	[!Mission]철의 숲 버려진 동굴	[!Mission]铁森林废弃洞穴
 #19857	[!Mission]드라키의 둥지	[!Mission]德拉基巢穴
 #19858	[!Ability]항동결 수액	[!Mastery]抗冻结输液
 #19859	[!Ability]$ApplyBuff$ $ApplyTargetBuffLv$개가 추가 됩니다.	[!Ability]将增加$ApplyBuff$ $ApplyTargetBuffLv$个。
@@ -12697,8 +12697,8 @@
 #19931	[!Rest]상대를 먼저 존중 하는 법을 모르는군.	[!Rest]不懂得要先尊重对方吗。
 #19932	[!Rest]다음부터는 그냥 피하자.	[!Rest]下次就直接避开吧。
 #19933	[!Rest]공연 준비 OK!	[!Rest]演出准备OK！
-#19934	[!Site]철의 숲 버려진 동굴	[!Site]铁森林被遗弃的洞穴
-#19935	[!Site]철의 숲 드라키 둥지	[!Site]铁森林德拉基巢
+#19934	[!Site]철의 숲 버려진 동굴	[!Site]铁森林废弃洞穴
+#19935	[!Site]철의 숲 드라키 둥지	[!Site]铁森林德拉基巢穴
 #19936	[!Loading]생태계 파괴자	[!Loading]生态破坏者
 #19937	[!NamedEvent]불굴의 드라키	[!NamedEvent]不屈的德拉基
 #19938	[!NamedEvent]철벽의 드라키	[!NamedEvent]铁壁的德拉基
@@ -12824,8 +12824,8 @@
 #20105	[!GuideMessage]나가기	[!LayoutKeyword]退出
 #20106	[!GuideMessage]제작 가능한 아이템 중 무작위로 선택된 아이템의 숙련도가 증가합니다.	[!GuideMessage]在可制作的物品中，随机选择一项增加制作熟练度。
 #20107	[!GuideMessage]제작 가능한 $Category$ 아이템 중 무작위로 선택된 아이템의 숙련도가 증가합니다.	[!GuideMessage]在$Category$里的可制作的的物品中，随机选择一项物品提升制作熟练度。
-#20108	[!GuideMessage]현재 알려진 적 중 무작위로 선택된 적의 정보를 획득합니다.	[!GuideMessage]将获得随机的目前已知的捣乱者情报。
-#20109	[!GuideMessage]현재 알려진 $Troublemaker$ 중 무작위로 선택된 적의 정보를 획득합니다.	[!GuideMessage]将获得随机的目前已知的捣乱者中$Troublemaker$的情报。
+#20108	[!GuideMessage]현재 알려진 적 중 무작위로 선택된 적의 정보를 획득합니다.	[!GuideMessage]将获得随机的目前已知的纷争制造者的情报。
+#20109	[!GuideMessage]현재 알려진 $Troublemaker$ 중 무작위로 선택된 적의 정보를 획득합니다.	[!GuideMessage]将获得随机的目前已知的纷争制造者$Troublemaker$的情报。
 #20110	[!GuideMessage]원하는 보상을 선택하세요.	[!GuideMessage]请选择想要的奖励。
 #20111	[!GuideMessage]트러블메이커 $Troublemaker$에 대한 정보를 $Amount$ 획득했습니다.	[!GuideMessage]获得了有关$Troublemaker$的情报量$Amount$点。
 #20112	[!GuideMessage]이미 획득했거나 더 이상 얻을 수 없는 보상입니다.	[!GuideMessage]是已经获得或无法再获得的奖励。
@@ -12916,7 +12916,7 @@
 #20285	[!WordCollection]초기화 중..	[!WordCollection]初始化中...
 #20286	[!GuideMessage]OS변경에 필요한 제작서가 모자랍니다.	[!GuideMessage]OS变更所需的设计图不足。
 #20287	[!GuideMessage]OS변경에 따라 기존에 설정된 고유 특성들이 초기화 됩니다. 또한 기존에 설정된 고유 특성들의 초기화를 위해 제작서가 소모됩니다. 계속 진행하시겠습니까?<br><tab><br>OS변경을 위해 필요한 제작서: [colour='FFFFE959']%s[colour='FFFFFFFF']개	[!GuideMessage]OS变更将初始化设定的固有特性，并且需要消耗设计图来进行初始化。要继续进行吗？<br><tab><br>需要的设计图数量：[colour='FFFFE959']%s[colour='FFFFFFFF']个。
-#20288	[!GuideMessage]OS변경에 따라 기존에 설정된 고유 특성들이 초기화 되고 제작서가 소모됩니다. 추가로 기존에 사용중인 기계 부품들은 재료가 추출되고 사라집니다. 계속 진행하시겠습니까?<br><tab><br>OS변경을 위해 필요한 제작서: [colour='FFFFE959']%s[colour='FFFFFFFF']개<br><br>대상 기계 부품:<br>[colour='FFFFE959']%s[colour='FFFFFFFF']	[!GuideMessage]OS变更将初始化设定的固有特性，需要消耗设计图。另外还会提取现有的机体各配件并变为材料，被提取的机体配件会消失。要继续进行吗？<br><tab><br>需要的设计图数量：[colour='FFFFE959']%s[colour='FFFFFFFF']个<br><br>对象机械配件：<br>[colour='FFFFE959']%s[colour='FFFFFFFF']个
+#20288	[!GuideMessage]OS변경에 따라 기존에 설정된 고유 특성들이 초기화 되고 제작서가 소모됩니다. 추가로 기존에 사용중인 기계 부품들은 재료가 추출되고 사라집니다. 계속 진행하시겠습니까?<br><tab><br>OS변경을 위해 필요한 제작서: [colour='FFFFE959']%s[colour='FFFFFFFF']개<br><br>대상 기계 부품:<br>[colour='FFFFE959']%s[colour='FFFFFFFF']	[!GuideMessage]OS变更将初始化设定的固有特性，需要消耗设计图。另外还会提取现有的机体各配件并变为素材，被提取的机体配件会消失。要继续进行吗？<br><tab><br>需要的设计图数量：[colour='FFFFE959']%s[colour='FFFFFFFF']个<br><br>对象机械配件：<br>[colour='FFFFE959']%s[colour='FFFFFFFF']个
 #20289	[!GuideMessage]설치된 OS를 변경합니다. [colour='FFFFFF00']AI강화 수준에 따라 제작서가 필요합니다.	[!GuideMessage]变更已设定好的OS。[colour='FFFFFF00']根据AI的强化水准，需要设计图。
 #20290	[!GuideMessage]기계를 구동할 SP 종류입니다. [colour='FFFFAA00']변경이 불가능합니다.	[!GuideMessage]决定驱动机械的SP类型。[colour='FFFFAA00']机体制作后便无法更改。
 #20291	[!HelpSubCategory]기계	[!MasteryType]机械
@@ -13187,7 +13187,7 @@
 #20659	[!Mastery]전문 추출업자 - 2 세트	[!Mastery]提炼专家 - 2 套装
 #20660	[!Mastery]전문 추출업자 - 3 세트	[!Mastery]提炼专家 - 3 套装
 #20662	[!ObjectGuideType]$Title$[은] 다양한 아이템이 들어있는 오브젝트입니다. 상자의 아이템을 획득하기 위해서는 $UseAbility$ 어빌리티를 사용해야 합니다.	[!ObjectGuideType]$Title$是含有各种物品的东西。为了获得箱子内的物品是需要使用$UseAbility$的技能。
-#20663	[!ObjectGuideType]$Title$[은] 아이템 제작 혹은 아이템 강화에 필요한 이능석 재료를 추출할 수 있는 오브젝트입니다. 이능석을 추출하기 위해서는 근접하여 $UseAbility$ 어빌리티를 사용해야 합니다.	[!ObjectGuideType]$Title$是可提取商品制作或强化商品所需的异能石材料的东西。为提取异能石，需近距离的使用$UseAbility$技能。
+#20663	[!ObjectGuideType]$Title$[은] 아이템 제작 혹은 아이템 강화에 필요한 이능석 재료를 추출할 수 있는 오브젝트입니다. 이능석을 추출하기 위해서는 근접하여 $UseAbility$ 어빌리티를 사용해야 합니다.	[!ObjectGuideType]$Title$是可提取商品制作或强化商品所需的异能石素材的东西。为提取异能石，需近距离的使用$UseAbility$技能。
 #20664	[!SystemMessage]미션 서버에 접속하지 못했습니다.	[!SystemMessage]连接任务服务器失败。
 #20665	[!SystemMessage]미션에 진입하지 못했습니다.	[!SystemMessage]没能进入任务。
 #20666	[!Ability]거미줄 타기	[!Buff]翻蛛网
@@ -13408,7 +13408,7 @@
 #20907	[!Mastery]반경 $Value$칸 내의 대상은 $Buff$ 상태가 됩니다.	[!Mastery]半径$Value$格内的对象将变为$Buff$状态。
 #20908	[!Mastery]최대 훈련 점수를 $Value$ 증가시킵니다.	[!Mastery]提高$Value$点最大训练点数。
 #20909	[!Mastery]$Time$, $Time2$, $Time3$에서 $Stat$, $Stat2$, $Stat3$, $Stat4$[이] $Value$ 증가합니다.	[!Mastery]在$Time$、$Time2$、$Time3$下$Stat$，$Stat2$, $Stat3$, $Stat4$将增加$Value$。
-#20910	[!Mastery]재료 아이템의 획득량이 $Value$ 증가합니다.	[!Mastery]材料物品的获得量将增加$Value$。
+#20910	[!Mastery]재료 아이템의 획득량이 $Value$ 증가합니다.	[!Mastery]素材物品的获得量将增加$Value$。
 #20911	[!Mastery]자신이 받는 피해량이 자신의 체력의 $Value$를 초과하면, 자신의 체력의 $Value2$에 해당하는 피해만 받습니다.	[!Mastery]自身所受到的伤害量超过了自己体力的$Value$的话，只会受到自己体力的$Value2$的伤害。
 #20912	[!Mastery]$Stat$, $Stat2$, $Stat3$, $Stat4$[이] 현재 사용하고 있는 $Type$ 특성 $Value$개 당 $Value2$ 증가합니다.	[!Mastery]$Stat$, $Stat2$, $Stat3$, $Stat4$根据现在所使用的每$Value$的$Type$天赋将增加$Value2$。
 #20913	[!Mastery]반경 $Value$칸 내의 적에게 상태 효과가 발생하면, 자신에게도 동일한 상태 효과가 발생합니다.	[!Mastery]半径$Value$格内的敌人发生良性状态效果时，自身也会产生相同的良性状态效果。
@@ -14560,13 +14560,13 @@
 #22201	[!Item]듀나메스 MPIBR	[!Item]杜纳梅斯MPIBR
 #22202	[!Item]듀나메스 MPIBC의 사용성을 강화하고 살상력을 강화시킨 기관권총.	[!Item]强化了杜纳梅斯 MPIBC的实用性和杀伤力的冲锋枪。
 #22203	[!Item]듀나메스 MPIBE	[!Item]杜纳梅斯MPIBE
-#22204	[!Item]듀나메스 MPIBE의 강화형 버전. 기존 버전보다 가벼운 소재로 구성되어 사용성이 증가되었다.	[!Item]杜纳梅斯 MPIBE的加强版。使用了比基础版本更轻的材料，使得实用性能提升。
+#22204	[!Item]듀나메스 MPIBE의 강화형 버전. 기존 버전보다 가벼운 소재로 구성되어 사용성이 증가되었다.	[!Item]杜纳梅斯 MPIBE的加强版。使用了比基础版本更轻的素材，使得实用性能提升。
 #22205	[!Item]듀나메스 저격총 IB	[!Item]杜纳梅斯狙击枪IB
 #22206	[!Item]카라스 연방의 군수업체 '듀나메스'에서 제작한 차세대 공격형 저격총. 뛰어난 관통력으로 각광받고 있다.	[!Item]卡拉斯联邦的军工企业「杜纳梅斯」制作的次世代攻击型狙击枪。拥有优秀的穿透力。
 #22207	[!Item]듀나메스 저격총 IBA	[!Item]杜纳梅斯狙击枪IBA
 #22208	[!Item]듀나메스 저격총 IB의 사용성을 강화하고 살상력을 강화시킨 저격총.	[!Item]强化了杜纳梅斯狙击枪 IB的实用性和杀伤力的狙击枪。
 #22209	[!Item]듀나메스 저격총 IBS	[!Item]杜纳梅斯狙击枪IBS
-#22210	[!Item]듀나메스 저격총 IBA의 강화형 버전. 기존 버전보다 가벼운 소재로 구성되어 사용성이 증가되었다.	[!Item]杜纳梅斯狙击枪 IBA的加强版。使用了比原版本更轻的材料，使得实用性能提升。
+#22210	[!Item]듀나메스 저격총 IBA의 강화형 버전. 기존 버전보다 가벼운 소재로 구성되어 사용성이 증가되었다.	[!Item]杜纳梅斯狙击枪 IBA的加强版。使用了比原版本更轻的素材，使得实用性能提升。
 #22211	[!Item]흑철 가죽	[!Item]黑铁皮革
 #22212	[!Item]흑철 강화 가죽	[!Item]黑铁强化皮革
 #22214	[!Item]흑철 서리 가죽	[!Item]黑铁霜雪皮革
@@ -15303,7 +15303,7 @@
 #23430	[!KeyBinding]선택지 2(우상단)	[!KeyBinding]选项 2(右上角)
 #23431	[!KeyBinding]선택지 3(좌하단)	[!KeyBinding]选项 3(左下角)
 #23432	[!KeyBinding]선택지 4(우하단)	[!KeyBinding]选项 4(右下角)
-#23433	[!LayoutKeyword]필요 재료 제작	[!LayoutKeyword]必要的材料制作
+#23433	[!LayoutKeyword]필요 재료 제작	[!LayoutKeyword]必要的素材制作
 #23434	[!Mastery]$Buff$ 상태인 경우 발동하지 않습니다.	[!Mastery]$Buff$状态时将不会发动这效果。
 #23435	[!QuestType_CollectItem_Kill]사라진 시곗줄	[!Quest]消失的表带
 #23436	[!WordCollection][!Menu]클래스 변경 필요 아이템	[!WordCollection][!Menu]需要的道具
@@ -15365,7 +15365,7 @@
 #23500	[!Mastery]자신에게는 적용되지 않습니다.	[!Mastery]不适用于自己。
 #23501	[!WordCollection]뒤로	[!LayoutKeyword]上一阶段
 #23502	[!WordCollection]모드 선택	[!WordCollection]选择模式
-#23503	[!GuideMessage]참여하는 플레이어의 캐릭터의 최고 레벨과 미션의 권장레벨 차이만큼 적의 레벨이 상승합니다. 또한 적의 레벨 상승에 따라 추가 특성들이 랜덤으로 부여됩니다. 플레이어 캐릭터의 최고 레벨이 권장 레벨보다 낮으면 적용되지 않습니다. 트러블메이커 일람의 정보 획득량이 $Num$배 증가합니다.	[!GuideMessage]敌人的等级将以参与的玩家角色最高等级与任务的推荐等级的差异而上升。而且根据敌人的等级的上升，将随机给予组合天赋。玩家角色的最高等级低于任务的推荐等级时，将不会适用。捣乱者一览表的情报获得量将增加$Num$倍。
+#23503	[!GuideMessage]참여하는 플레이어의 캐릭터의 최고 레벨과 미션의 권장레벨 차이만큼 적의 레벨이 상승합니다. 또한 적의 레벨 상승에 따라 추가 특성들이 랜덤으로 부여됩니다. 플레이어 캐릭터의 최고 레벨이 권장 레벨보다 낮으면 적용되지 않습니다. 트러블메이커 일람의 정보 획득량이 $Num$배 증가합니다.	[!GuideMessage]敌人的等级将以参与的玩家角色最高等级与任务的推荐等级的差异而上升。而且根据敌人的等级的上升，将随机给予组合天赋。玩家角色的最高等级低于任务的推荐等级时，将不会适用。纷争制造者图鉴的情报获得量将增加$Num$倍。
 #23504	[!GuideMessage]여기를 더블 클릭하시면 간소화됩니다.	[!GuideMessage]双击可简化。
 #23505	[!Item]자홍빛 케이퍼 V9	[!Item]紫红色凯尔佛V9
 #23506	[!Loading]하늘바람 상점가	[!Loading]天风商店街
@@ -16110,8 +16110,8 @@
 #24263	[!GuideMessage]$ItemName$[이] 부족해서 계속 진행할 수 없습니다.	[!GuideMessage]$ItemName$不足，无法继续进行。
 #24264	[!GuideMessage]현재 캐릭터의 급여 조건을 변경하려면, 이전 급여 조건에 따라 $NeedVill$ Vill을 지급해야 합니다.	[!GuideMessage]想改变当前角色的工资条件，需要根据之前的工资条件来支付$NeedVill$Vill。
 #24265	[!GuideMessage]현재 소지 금액이 부족해서 계속 진행할 수 없습니다.	[!GuideMessage]因当前的Vill不够而无法继续进行。
-#24266	[!GuideMessage]현재 배치된 추가 연구 재료를 기반으로, 추가 가능한 특성 조합을 찾지 못했습니다.	[!GuideMessage]根据当前拥有的附加研究材料，无法找到可添加的天赋组合。
-#24267	[!GuideMessage]추가 연구 재료를 비우거나 변경하고 다시 시도해주세요.	[!GuideMessage]请清空或变更附加研究材料后重新尝试。
+#24266	[!GuideMessage]현재 배치된 추가 연구 재료를 기반으로, 추가 가능한 특성 조합을 찾지 못했습니다.	[!GuideMessage]根据当前拥有的附加研究素材，无法找到可添加的天赋组合。
+#24267	[!GuideMessage]추가 연구 재료를 비우거나 변경하고 다시 시도해주세요.	[!GuideMessage]请清空或变更附加研究素材后重新尝试。
 #24276	[!ObjectInfo]백호 명사수	[!ObjectInfo]白虎名射手
 #24277	[!ObjectVoiceSound][!speaker:Anne]이젠 아프지 말아요	[!ObjectVoiceSound][!speaker:Anne]不会再疼了
 #24278	[!ObjectVoiceSound][!speaker:Anne]자 맘껏 싸우세요!	[!ObjectVoiceSound][!speaker:Anne]请尽情的战斗吧！
@@ -16135,7 +16135,7 @@
 #24303	[!LobbyEvent]제 6 장. 진심	[!Troublebook]第6章，真心。
 #24304	[!LobbyEvent]그 외 이야기	[!LobbyEvent]以外的故事
 #24305	[!Mission]자홍거리 뒷골목	[!Troublebook]紫红街后巷
-#24306	[!ObjectInfo]백호 무도가	[!ObjectInfo]白虎武斗家
+#24306	[!ObjectInfo]백호 무도가	[!ObjectInfo]白虎武道家
 #24307	[!ObjectInfo]백호 반장	[!ObjectInfo]白虎组长
 #24308	[!ObjectInfo]백호 청소부	[!ObjectInfo]白虎清洁工
 #24309	[!ObjectInfo]백호 망나니	[!ObjectInfo]白虎混混
@@ -16206,7 +16206,7 @@
 #24374	[!LobbyEvent]모든 것은 끝난다.	[!Troublebook]一切都会结束。
 #24375	[!LobbyEvent]유실물	[!WordCollection]失物
 #24376	[!LobbyEvent]사수 거리	[!Waypoint]射手街
-#24377	[!LobbyEvent]재료 도감	[!WordCollection]材料图鉴
+#24377	[!LobbyEvent]재료 도감	[!WordCollection]素材图鉴
 #24378	[!LobbyEvent]쥬크박스	[!WordCollection]点唱机
 #24379	[!ObjectVoiceSound][!speaker:Anne]제가 지켜드려요	[!ObjectVoiceSound][!speaker:Anne]我来守护你
 #24380	[!ObjectVoiceSound][!speaker:Anne]제대로 맞설 거에요	[!ObjectVoiceSound][!speaker:Anne]会好好对抗的
@@ -16253,7 +16253,7 @@
 #24421	[!License]트러블슈터 정식 자격증	[!License]正式的纷争终结者资格证
 #24422	[!License]트러블슈터 회사에서 견습 트러블슈터로 1년 이상 활동한 자 중 발할라 경찰청이 인증하는 정규 시험을 통과하고, 트러블슈터 회사에서 3개월 간 현장 실습을 이수한 사람에게 주어지는 자격증이다.	[!License]在纷争终结者公司以见习纷争终结者的身份活动了1年以上的人中，通过了巴赫拉警察厅认证的正规考试，并在纷争终结者公司实习3个月的人才能获得的资格证。
 #24423	[!License]국가 마이스터 자격증	[!License]国家硕士学历资格证
-#24424	[!License]기계, 화학, 전기, 토목, 재료, 컴퓨터 공학 중 최소 3개 이상의 분야에서 석사 이상의 학위를 소지한 자 중 발할라 교육부가 인증하는 실기 과정을 이수하고, 정규 시험을 통과한 사람에게 주어지는 자격증이다.	[!License]机械、化学、电气、土木、材料、电脑工程中至少得在3个以上的领域上拥有硕士以上学位的考生中受到了巴赫拉教育部认证的实习过程，通过了正规考试的人才能获得的资格证。
+#24424	[!License]기계, 화학, 전기, 토목, 재료, 컴퓨터 공학 중 최소 3개 이상의 분야에서 석사 이상의 학위를 소지한 자 중 발할라 교육부가 인증하는 실기 과정을 이수하고, 정규 시험을 통과한 사람에게 주어지는 자격증이다.	[!License]机械、化学、电气、土木、素材、电脑工程中至少得在3个以上的领域上拥有硕士以上学位的考生中受到了巴赫拉教育部认证的实习过程，通过了正规考试的人才能获得的资格证。
 #24425	[!License]사냥 허가증	[!License]狩猎许可证
 #24426	[!License]정식 트러블슈터로 1년 이상 활동한 자 혹은 사냥대회 입상자 중 발할라 경찰청이 인증하는 실기 과정을 이수하고, 정규 시험을 통과한 사람에게 주어지는 자격증이다.	[!License]以正式的纷争终结者活动1年以上的人或在狩猎大赛获奖人中受到了巴赫拉警察厅认证的实习课程后，通过了正规考试的人才能获得的资格证。
 #24427	[!WordCollection]기본 관할 구역	[!WordCollection]基本管辖区
