@@ -3002,13 +3002,13 @@
 #5944	[!ItemIdentify]도살자의 %s	[!ItemIdentify]屠杀者的%s
 #5945	[!ItemIdentify]추적자의 %s	[!ItemIdentify]追踪者的%s
 #5946	[!ItemIdentify]광대의 %s	[!ItemIdentify]小丑的%s
-#5947	[!ItemIdentify]수집가의 %s	[!ItemIdentify]收藏家的%s
+#5947	[!ItemIdentify]수집가의 %s	[!ItemIdentify]收藏者的%s
 #5948	[!ItemIdentify]정복자의 %s	[!ItemIdentify]征服者的%s
 #5949	[!ItemIdentify]악어의 %s	[!ItemIdentify]鳄鱼的%s
 #5950	[!ItemIdentify]외눈거인의 %s	[!ItemIdentify]独眼巨人的%s
 #5951	[!ItemIdentify]어둠 추적자의 %s	[!ItemIdentify]暗影追踪者的%s
-#5952	[!ItemIdentify]어둠 수집가의 %s	[!ItemIdentify]暗影收藏家的%s
-#5953	[!ItemIdentify]어둠 인도자의 %s	[!ItemIdentify]暗影领路者的%s
+#5952	[!ItemIdentify]어둠 수집가의 %s	[!ItemIdentify]暗影收藏者的%s
+#5953	[!ItemIdentify]어둠 인도자의 %s	[!ItemIdentify]暗影引导者的%s
 #5954	[!ItemIdentify]일격 필살의 %s	[!ItemIdentify]一击必杀的%s
 #5955	[!ItemIdentify]운명의 %s	[!ItemIdentify]命运的%s
 #5956	[!ItemIdentify]코끼리의 %s	[!ItemIdentify]大象的%s
@@ -3020,18 +3020,18 @@
 #5962	[!ItemIdentify]불꽃 화살의 %s	[!ItemIdentify]火花箭矢的%s
 #5963	[!ItemIdentify]불꽃 칼날의 %s	[!ItemIdentify]火花剑的%s
 #5964	[!ItemIdentify]불꽃 파괴자의 %s	[!ItemIdentify]火花破坏者的%s
-#5965	[!ItemIdentify]불꽃 광신도의 %s	[!ItemIdentify]火花狂热信徒的%s
+#5965	[!ItemIdentify]불꽃 광신도의 %s	[!ItemIdentify]火花狂信徒的%s
 #5966	[!ItemIdentify]불꽃 수호자의 %s	[!ItemIdentify]火花守护者的%s
 #5967	[!ItemIdentify]불꽃 술사의 %s	[!ItemIdentify]火花术士的%s
 #5968	[!ItemIdentify]불꽃 지배자의 %s	[!ItemIdentify]火花支配者的%s
 #5969	[!ItemIdentify]불꽃 정찰병의 %s	[!ItemIdentify]火花侦察兵的%s
-#5970	[!ItemIdentify]불꽃 감시병의 %s	[!ItemIdentify]火花监视兵的%s
+#5970	[!ItemIdentify]불꽃 감시병의 %s	[!ItemIdentify]火花监视者的%s
 #5971	[!ItemIdentify]불꽃 방패의 %s	[!ItemIdentify]火花盾牌的%s
 #5972	[!ItemIdentify]불꽃 병사의 %s	[!ItemIdentify]火花士兵的%s
 #5973	[!ItemIdentify]불꽃 장벽의 %s	[!ItemIdentify]火花墙壁的%s
 #5975	[!ItemIdentify]섬광 칼날의 %s	[!ItemIdentify]闪光剑的%s
 #5976	[!ItemIdentify]섬광 파괴자의 %s	[!ItemIdentify]闪光破坏者的%s
-#5977	[!ItemIdentify]섬광 광신도의 %s	[!ItemIdentify]闪光狂热信徒的%s
+#5977	[!ItemIdentify]섬광 광신도의 %s	[!ItemIdentify]闪光狂信徒的%s
 #5979	[!ItemIdentify]섬광 술사의 %s	[!ItemIdentify]闪光术士的%s
 #5980	[!ItemIdentify]섬광 지배자의 %s	[!ItemIdentify]闪光支配者的%s
 #5984	[!ItemIdentify]섬광 병사의 %s	[!ItemIdentify]闪光士兵的%s
@@ -3039,26 +3039,26 @@
 #5987	[!ItemIdentify]여우의 %s	[!ItemIdentify]狐狸的%s
 #5989	[!ItemIdentify]서리 칼날의 %s	[!ItemIdentify]霜雪剑的%s
 #5990	[!ItemIdentify]서리 파괴자의 %s	[!ItemIdentify]霜雪破坏者的%s
-#5991	[!ItemIdentify]서리 광신도의 %s	[!ItemIdentify]霜雪狂热信徒的%s
+#5991	[!ItemIdentify]서리 광신도의 %s	[!ItemIdentify]霜雪狂信徒的%s
 #5992	[!ItemIdentify]서리 수호자의 %s	[!ItemIdentify]霜雪守护者的%s
 #5993	[!ItemIdentify]서리 술사의 %s	[!ItemIdentify]霜雪术士的%s
 #5994	[!ItemIdentify]서리 지배자의 %s	[!ItemIdentify]霜雪支配者的%s
 #5995	[!ItemIdentify]서리 정찰병의 %s	[!ItemIdentify]霜雪侦察兵的%s
-#5996	[!ItemIdentify]서리 감시병의 %s	[!ItemIdentify]霜雪监视兵的%s
+#5996	[!ItemIdentify]서리 감시병의 %s	[!ItemIdentify]霜雪监视者的%s
 #5997	[!ItemIdentify]서리 방패의 %s	[!ItemIdentify]霜雪盾牌的%s
 #5998	[!ItemIdentify]서리 병사의 %s	[!ItemIdentify]霜雪士兵的%s
 #5999	[!ItemIdentify]서리 장벽의 %s	[!ItemIdentify]霜雪墙壁的%s
 #6000	[!ItemIdentify]거인의 %s	[!ItemIdentify]巨人的%s
 #6001	[!ItemIdentify]고릴라의 %s	[!ItemIdentify]猩猩的%s
-#6002	[!ItemIdentify]인도자의 %s	[!ItemIdentify]领路人的%s
+#6002	[!ItemIdentify]인도자의 %s	[!ItemIdentify]引导者的%s
 #6003	[!ItemIdentify]총잡이의 %s	[!ItemIdentify]枪手的%s
 #6004	[!ItemIdentify]영웅의 %s	[!ItemIdentify]英雄的%s
 #6005	[!ItemIdentify]하마의 %s	[!ItemIdentify]河马的%s
 #6006	[!ItemIdentify]사냥꾼의 %s	[!ItemIdentify]猎人的%s
 #6007	[!ItemIdentify]불굴의 %s	[!ItemIdentify]不屈的%s
-#6008	[!ItemIdentify]백발 백중의 %s	[!ItemIdentify]百发百中的%s
+#6008	[!ItemIdentify]백발 백중의 %s	[!ItemIdentify]必中的%s
 #6009	[!ItemIdentify]철벽의 %s	[!ItemIdentify]铁壁的%s
-#6010	[!ItemIdentify]왕의 %s	[!ItemIdentify]王的%s
+#6010	[!ItemIdentify]왕의 %s	[!ItemIdentify]王者的%s
 #6011	[!ItemIdentify]기사의 %s	[!ItemIdentify]骑士的%s
 #6012	[!ItemIdentify]사자의 %s	[!ItemIdentify]狮子的%s
 #6013	[!ItemIdentify]약탈자의 %s	[!ItemIdentify]掠夺者的%s
@@ -3067,7 +3067,7 @@
 #6016	[!ItemIdentify]구세주의 %s	[!ItemIdentify]救世主的%s
 #6017	[!ItemIdentify]유성 수호자의 %s	[!ItemIdentify]流星守护者的%s
 #6018	[!ItemIdentify]유성 정찰병의 %s	[!ItemIdentify]流星侦察兵的%s
-#6019	[!ItemIdentify]유성 감시병의 %s	[!ItemIdentify]流星监视兵的%s
+#6019	[!ItemIdentify]유성 감시병의 %s	[!ItemIdentify]流星监视者的%s
 #6020	[!ItemIdentify]유성 방패의 %s	[!ItemIdentify]流星盾牌的%s
 #6021	[!ItemIdentify]유성 장벽의 %s	[!ItemIdentify]流星墙壁的%s
 #6022	[!ItemIdentify]기적의 %s	[!ItemIdentify]奇迹的%s
@@ -3075,19 +3075,19 @@
 #6024	[!ItemIdentify]안개 화살의 %s	[!ItemIdentify]雾霭箭矢的%s
 #6025	[!ItemIdentify]안개 칼날의 %s	[!ItemIdentify]雾霭剑的%s
 #6026	[!ItemIdentify]안개 파괴자의 %s	[!ItemIdentify]雾霭破坏者的%s
-#6027	[!ItemIdentify]안개 광신도의 %s	[!ItemIdentify]雾霭狂热信徒的%s
+#6027	[!ItemIdentify]안개 광신도의 %s	[!ItemIdentify]雾霭狂信徒的%s
 #6028	[!ItemIdentify]신록 수호자의 %s	[!ItemIdentify]新绿守护者的%s
 #6029	[!ItemIdentify]안개 술사의 %s	[!ItemIdentify]雾霭术士的%s
 #6030	[!ItemIdentify]안개 지배자의 %s	[!ItemIdentify]雾霭支配者的%s
 #6031	[!ItemIdentify]안개 정찰병의 %s	[!ItemIdentify]雾霭侦察兵的%s
-#6032	[!ItemIdentify]안개 감시병의 %s	[!ItemIdentify]雾霭监视兵的%s
+#6032	[!ItemIdentify]안개 감시병의 %s	[!ItemIdentify]雾霭监视者的%s
 #6033	[!ItemIdentify]안개 방패의 %s	[!ItemIdentify]雾霭盾牌的%s
 #6034	[!ItemIdentify]안개 병사의 %s	[!ItemIdentify]雾霭士兵的%s
 #6035	[!ItemIdentify]안개 장벽의 %s	[!ItemIdentify]雾墙壁的%s
 #6036	[!ItemIdentify]원숭이의 %s	[!ItemIdentify]猴子的%s
 #6037	[!ItemIdentify]달빛 수호자의 %s	[!ItemIdentify]月光守护者的%s
 #6038	[!ItemIdentify]달빛 정찰병의 %s	[!ItemIdentify]月光侦察兵的%s
-#6039	[!ItemIdentify]달빛 감시병의 %s	[!ItemIdentify]月光监视兵的%s
+#6039	[!ItemIdentify]달빛 감시병의 %s	[!ItemIdentify]月光监视者的%s
 #6040	[!ItemIdentify]달빛 방패의 %s	[!ItemIdentify]月光盾牌的%s
 #6041	[!ItemIdentify]달빛 장벽의 %s	[!ItemIdentify]月光墙壁的%s
 #6042	[!ItemIdentify]오래된 %s	[!ItemIdentify]老旧的%s
@@ -3096,32 +3096,32 @@
 #6045	[!ItemIdentify]예언자의 %s	[!ItemIdentify]预言者的%s
 #6046	[!ItemIdentify]현자의 %s	[!ItemIdentify]贤者的%s
 #6047	[!ItemIdentify]정찰병의 %s	[!ItemIdentify]侦察兵的%s
-#6048	[!ItemIdentify]감시병의 %s	[!ItemIdentify]监视兵的%s
+#6048	[!ItemIdentify]감시병의 %s	[!ItemIdentify]监视者的%s
 #6049	[!ItemIdentify]필연의 %s	[!ItemIdentify]必然的%s
 #6050	[!ItemIdentify]정착민의 %s	[!ItemIdentify]定居者的%s
 #6051	[!ItemIdentify]명사수의 %s	[!ItemIdentify]神射手的%s
 #6052	[!ItemIdentify]저격수의 %s	[!ItemIdentify]狙击手的%s
 #6053	[!ItemIdentify]영혼의 %s	[!ItemIdentify]灵魂的%s
 #6054	[!ItemIdentify]영혼 추적자의 %s	[!ItemIdentify]灵魂追踪者的%s
-#6055	[!ItemIdentify]영혼 수집가의 %s	[!ItemIdentify]灵魂收藏家的%s
+#6055	[!ItemIdentify]영혼 수집가의 %s	[!ItemIdentify]灵魂收藏者的%s
 #6056	[!ItemIdentify]영혼 수호자의 %s	[!ItemIdentify]灵魂守护者的%s
-#6057	[!ItemIdentify]영혼 인도자의 %s	[!ItemIdentify]灵魂领路人的%s
+#6057	[!ItemIdentify]영혼 인도자의 %s	[!ItemIdentify]灵魂引导者的%s
 #6058	[!ItemIdentify]정령의 %s	[!ItemIdentify]精灵的%s
 #6059	[!ItemIdentify]정령 수호자의 %s	[!ItemIdentify]精灵守护者的%s
 #6060	[!ItemIdentify]별빛 수호자의 %s	[!ItemIdentify]星光守护者的%s
 #6061	[!ItemIdentify]별빛 정찰병의 %s	[!ItemIdentify]星光侦察兵的%s
-#6062	[!ItemIdentify]별빛 감시병의 %s	[!ItemIdentify]星光监视兵的%s
+#6062	[!ItemIdentify]별빛 감시병의 %s	[!ItemIdentify]星光监视者的%s
 #6063	[!ItemIdentify]별빛 방패의 %s	[!ItemIdentify]星光盾牌的%s
 #6064	[!ItemIdentify]별빛 장벽의 %s	[!ItemIdentify]星光墙壁的%s
 #6065	[!ItemIdentify]폭풍 화살의 %s	[!ItemIdentify]暴风箭矢的%s
 #6066	[!ItemIdentify]폭풍 칼날의 %s	[!ItemIdentify]暴风剑的%s
 #6067	[!ItemIdentify]폭풍 파괴자의 %s	[!ItemIdentify]暴风破坏者的%s
-#6068	[!ItemIdentify]폭풍 광신도의 %s	[!ItemIdentify]暴风狂热信徒的%s
+#6068	[!ItemIdentify]폭풍 광신도의 %s	[!ItemIdentify]暴风狂信徒的%s
 #6069	[!ItemIdentify]안개 수호자의 %s	[!ItemIdentify]雾霭守护者的%s
 #6070	[!ItemIdentify]폭풍 술사의 %s	[!ItemIdentify]暴风术士的%s
 #6071	[!ItemIdentify]폭풍 지배자의 %s	[!ItemIdentify]暴风支配者的%s
 #6072	[!ItemIdentify]폭풍 정찰병의 %s	[!ItemIdentify]暴风侦察兵的%s
-#6073	[!ItemIdentify]폭풍 감시병의 %s	[!ItemIdentify]暴风监视兵的%s
+#6073	[!ItemIdentify]폭풍 감시병의 %s	[!ItemIdentify]暴风监视者的%s
 #6074	[!ItemIdentify]폭풍 방패의 %s	[!ItemIdentify]暴风盾牌的%s
 #6075	[!ItemIdentify]폭풍 병사의 %s	[!ItemIdentify]暴风士兵的%s
 #6076	[!ItemIdentify]폭풍 장벽의 %s	[!ItemIdentify]暴风墙壁的%s
@@ -3132,17 +3132,17 @@
 #6081	[!ItemIdentify]나그네의 %s	[!ItemIdentify]旅人的%s
 #6082	[!ItemIdentify]거북이의 %s	[!ItemIdentify]乌龟的%s
 #6083	[!ItemIdentify]황혼 추적자의 %s	[!ItemIdentify]黄昏追踪者的%s
-#6084	[!ItemIdentify]황혼 수집가의 %s	[!ItemIdentify]黄昏收藏家的%s
-#6085	[!ItemIdentify]황혼 인도자의 %s	[!ItemIdentify]黄昏领路人的%s
+#6084	[!ItemIdentify]황혼 수집가의 %s	[!ItemIdentify]黄昏收藏者的%s
+#6085	[!ItemIdentify]황혼 인도자의 %s	[!ItemIdentify]黄昏引导者的%s
 #6086	[!ItemIdentify]신록 화살의 %s	[!ItemIdentify]新绿箭矢的%s
 #6087	[!ItemIdentify]신록 칼날의 %s	[!ItemIdentify]新绿剑的%s
 #6088	[!ItemIdentify]신록 파괴자의 %s	[!ItemIdentify]新绿破坏者的%s
-#6089	[!ItemIdentify]신록 광신도의 %s	[!ItemIdentify]新绿狂热信徒的%s
+#6089	[!ItemIdentify]신록 광신도의 %s	[!ItemIdentify]新绿狂信徒的%s
 #6090	[!ItemIdentify]폭풍 수호자의 %s	[!ItemIdentify]暴风守护者的%s
 #6091	[!ItemIdentify]신록 술사의 %s	[!ItemIdentify]新绿术士的%s
 #6092	[!ItemIdentify]신록 지배자의 %s	[!ItemIdentify]新绿支配者的%s
 #6093	[!ItemIdentify]신록 정찰병의 %s	[!ItemIdentify]新绿侦察兵的%s
-#6094	[!ItemIdentify]신록 감시병의 %s	[!ItemIdentify]新绿监视兵的%s
+#6094	[!ItemIdentify]신록 감시병의 %s	[!ItemIdentify]新绿监视者的%s
 #6095	[!ItemIdentify]신록 방패의 %s	[!ItemIdentify]新绿盾牌的%s
 #6096	[!ItemIdentify]신록 병사의 %s	[!ItemIdentify]新绿士兵的%s
 #6097	[!ItemIdentify]신록 장벽의 %s	[!ItemIdentify]新绿墙壁的%s
@@ -9856,7 +9856,7 @@
 #16375	[!ObjectInfo]파이어크론	[!ObjectInfo]火焰拜克伦
 #16376	[!ObjectInfo]프로스트크론	[!ObjectInfo]冰霜拜克伦
 #16377	[!ObjectInfo]라이트닝크론	[!ObjectInfo]闪电拜克伦
-#16378	[!ObjectInfo]레드 아이	[!ObjectInfo]红眼
+#16378	[!ObjectInfo]레드 아이	[!ObjectInfo]赤眼
 #16379	[!WordCollection]제어 불가	[!WordCollection]不可控制
 #16381	[!Ability]$ApplyBuff$ 상태가 됩니다. <br><br>$Corn$연쇄 효과 - 눈부심: $White$암흑$Corn$ 상태의 대상은 $White$혼란$Corn$ 상태가 됩니다.	[!Ability]进入$ApplyBuff$状态。<br><br>$Corn$连锁效果 - 眩光：$White$暗黑$Corn$状态的对象进入$White$混乱$Corn$状态。
 #16382	[!Ability]다연발 유탄 발사	[!Ability]连发榴弹
@@ -10486,8 +10486,8 @@
 #17288	[!Help]최대 턴 대기 시간	[!Help]最大回合冷却时间
 #17293	[!Item]자홍거리에서 유통되는 흑철 세공 손목 고리에 질긴 네구리 가죽을 추가하여 사용성을 개선한 손목 고리. 뒷세계에서 매우 인기 있는 손목 고리다.	[!Item]将紫红街流通黑铁细工腕带换成了纳古利皮革而改善的腕带。在地下世界非常受欢迎。
 #17294	[!Item]천선의 약	[!Item]天上仙人药
-#17296	[!ItemIdentify]절정의 %s	[!ItemIdentify]高潮之%s
-#17297	[!ItemIdentify]각성의 %s	[!ItemIdentify]觉醒之%s
+#17296	[!ItemIdentify]절정의 %s	[!ItemIdentify]高潮的%s
+#17297	[!ItemIdentify]각성의 %s	[!ItemIdentify]觉醒的%s
 #17298	[!KeyBinding]어빌리티 범위 고정	[!KeyBinding]固定技能范围
 #17299	[!Loading]만나고 헤어지고...	[!Loading]见面，分手...
 #17300	[!Loading]푸고 번화가	[!Loading]府谷繁华街
