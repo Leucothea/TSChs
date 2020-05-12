@@ -1603,7 +1603,7 @@
 #8720	[!Sentence][!Dialog][!speaker:Sion_Cry]도와줘... 헤이싱 형...	[!Sentence][!Dialog][!speaker:Sion_Cry]帮帮我...黑星哥...
 #8721	[!Sentence][!Dialog][!speaker:Leton_Smile]싱겁군...	真无聊...
 #8722	[!Sentence][!Dialog][!speaker:Ray_Surprise]방금 뭐라고 했어? 레톤!	[!Sentence][!Dialog][!speaker:Ray_Surprise]你刚才说什么？莱顿！
-#8723	[!Sentence][!Dialog][!speaker:Gangster_BullThin_Normal]보스!! 구역 내 '앨리' 들이 침입했습니다!!	[!Sentence][!Dialog][!speaker:Gangster_BullThin_Normal]首领！！「艾丽」们侵入到这一地区了！！
+#8723	[!Sentence][!Dialog][!speaker:Gangster_BullThin_Normal]보스!! 구역 내 '앨리' 들이 침입했습니다!!	[!Sentence][!Dialog][!speaker:Gangster_BullThin_Normal]首领！！「艾利」们侵入到这一地区了！！
 #8724	[!Sentence][!Dialog][!speaker:Leton_Smile]레이. 고맙다.	[!Sentence][!Dialog][!speaker:Leton_Smile]雷伊。谢谢你。
 #8725	[!Sentence][!Dialog][!speaker:Heissing_Rage]이봐 주인장.	[!Sentence][!Subtitle][!speaker:Heissing_Rage]喂，老板。
 #8728	[!Sentence][!BalloonChat][!speaker:Heissing]훗. 편한 대로 해라.	[!Sentence][!BalloonChat][!speaker:Heissing]呵，你爱怎么样就怎么样吧。
@@ -1662,7 +1662,7 @@
 #8796	[!Sentence][!Dialog][!speaker:Sion_Happy]아저씨! 만두 한 판 주세요!	大叔！再来一屉包子！
 #8797	[!Sentence][!Objective]마르코 바르도를 처치하시오.	[!Sentence][!Objective]处置马尔科・巴多。
 #8799	[!Sentence][!Title]조각 맞추기	[!Sentence][!Title]拼图
-#8801	[!Sentence][!Dialog][!speaker:Carter_Rage]우리가 '앨리' 출신이라고 무시하는 건가!	[!Sentence][!Dialog][!speaker:Carter_Rage]就因为我们是「艾丽」出身所以在无视我们吗！
+#8801	[!Sentence][!Dialog][!speaker:Carter_Rage]우리가 '앨리' 출신이라고 무시하는 건가!	[!Sentence][!Dialog][!speaker:Carter_Rage]就因为我们是「艾利」出身所以在无视我们吗！
 #8802	[!Sentence][!BalloonChat][!speaker:Marco]그냥 지나칠까...	那我过去了...
 #8806	[!Sentence][!Dialog][!speaker:Heissing_Smile]훗. 당연하지 않나?	[!Sentence][!Dialog][!speaker:Heissing_Smile]呵。这不理所应当的吗？
 #8808	[!Sentence][!VictoryCondition]레이 전투 불능	[!Sentence][!VictoryCondition]雷伊无法战斗
@@ -1687,7 +1687,7 @@
 #8829	[!Sentence][!Dialog][!speaker:Heissing_Smile]거기서 싸우면 피해가 가지 않느냐.	在那里打架会造成伤害。
 #8830	[!Sentence][!Objective]미션 승리	[!Sentence][!Objective]任务成功
 #8831	[!Sentence][!Dialog][!speaker:Heissing_Smile]알았다. 자초지종은 나중에 듣도록 하지.	[!Sentence][!Dialog][!speaker:Heissing_Smile]知道了。来龙去脉留到后面再听吧。
-#8832	[!Sentence][!Title]레이 앨리	[!Sentence][!Title]雷伊・艾丽
+#8832	[!Sentence][!Title]레이 앨리	[!Sentence][!Title]雷伊・艾利
 #8833	[!Sentence][!Objective]주변의 적을 전멸시키시오.	[!Sentence][!Objective]歼灭周围的敌人吧。
 #8834	[!Sentence][!Dialog][!speaker:Marco_Smile]그건 그렇고	算了，那都无所谓。
 #8835	[!Sentence][!Dialog][!speaker:Leton_Normal]저 녀석 뭐 하는 녀석이지? 낯이 익는데...	[!Sentence][!Dialog][!speaker:Leton_Normal]那家伙是干什么的？挺眼熟啊...
@@ -1723,14 +1723,14 @@
 #8871	[!Sentence][!Dialog][!speaker:Heissing_Smile]그러니 주위 잔챙이들은 너무 신경 쓰지 마.	[!Sentence][!Dialog][!speaker:Heissing_Smile]所以不要太在意周围的小喽啰们了。
 #8872	[!Sentence][!Dialog][!speaker:Ray_Normal]그래. 알았어.	[!Sentence][!Dialog][!speaker:Ray_Normal]好。我知道了。
 #8873	[!Sentence][!Dialog][!speaker:Civil_Man_Boss_Green_Kim_Normal]됐네. 신경끄고 다 먹었으면 갈 길 가게.	[!Sentence][!Subtitle][!speaker:Civil_Man_Boss_Green_Normal]行了。别在意了，吃完就从哪儿来回哪儿去吧。
-#8876	[!Sentence][!BalloonChat][!speaker:Enemy_Carter_01]저 녀석!! '앨리'의 리더 녀석이다!	[!Sentence][!BalloonChat][!speaker:Enemy_Carter_01]那家伙！！就是「艾丽」的首领！
+#8876	[!Sentence][!BalloonChat][!speaker:Enemy_Carter_01]저 녀석!! '앨리'의 리더 녀석이다!	[!Sentence][!BalloonChat][!speaker:Enemy_Carter_01]那家伙！！就是「艾利」的首领！
 #8877	[!Sentence][!Dialog][!speaker:Carter_Normal]저 길로는 살아서 못 나갈걸세.	[!Sentence][!Dialog][!speaker:Carter_Normal]那条路是没法活着出去的。
 #8878	[!Sentence][!Dialog][!speaker:Civil_Man_Boss_Green_Kim_Smile]네~ 손님. 한 판 더 드릴까요?	[!Sentence][!Subtitle][!speaker:Civil_Man_Boss_Green_Normal]好的～客人。再来一份是吗？
 #8879	[!Sentence][!Dialog][!speaker:Sion_Stare]그건 내가 아니고 우리 사장님이었어.	[!Sentence][!Subtitle][!speaker:Sion_Stare]那不是我，是我们老板。
 #8880	[!Sentence][!Dialog][!speaker:Civil_Man_Lee_Smile]저번 달에도 올렸잖아. 이거 좀 너무 하는 거 아냐?	[!Sentence][!BalloonChat][!speaker:Civil_Man_Lee_Normal]上个月也涨了的啊。这是不是有点太过分了？
 #8881	[!Sentence][!Dialog][!speaker:Gangster_WhiteHelmet_Normal]구역 내 형제들은 도대체 다 어디 간거야?	[!Sentence][!Dialog][!speaker:Gangster_WhiteHelmet_Normal]地盘里的兄弟们都去哪儿了？
 #8883	[!Sentence][!Dialog][!speaker:Heissing_Normal]오늘 처음이다.	[!Sentence][!Subtitle][!speaker:Heissing_Smile]今天是第一次。
-#8885	[!Sentence][!Title]헤이싱 앨리	[!Sentence][!Title]黑星・艾丽
+#8885	[!Sentence][!Title]헤이싱 앨리	[!Sentence][!Title]黑星・艾利
 #8886	[!Sentence][!Dialog][!speaker:Sion_Smile]OK~☆ 헤이싱 형이 도와준다면 충분하지~!!!	[!Sentence][!Dialog][!speaker:Sion_Smile]OK~☆黑星哥帮忙就够了～！！！
 #8887	[!Sentence][!BalloonChat][!speaker:Sion]형 어디가! 나도 같이 가!	[!Sentence][!BalloonChat][!speaker:Sion]哥你去哪儿！我也要去！
 #8888	[!Sentence][!Dialog][!speaker:Heissing_Normal]두 번 만난 사이다. 트러블슈터라는 것 말고는 잘 알지 못한다.	[!Sentence][!Dialog][!speaker:Heissing_]只见过两次。除了是纷争终结者这个身份之外其余的都不是太熟悉。
@@ -1749,11 +1749,11 @@
 #8905	[!Sentence][!Dialog][!speaker:Leton_Serious]아까 그 흰 코트...	刚才那个穿白色外套的...
 #8907	[!Sentence][!BalloonChat][!speaker:Leton]이야~ 레이!!!	[!Sentence][!BalloonChat][!speaker:Leton_Smile]咿呀～雷伊！！！
 #8909	[!Sentence][!Title]네 번째 조각	[!Sentence][!Title]第四块拼图
-#8910	[!Sentence][!Title]레톤 앨리	[!Sentence][!Title]莱顿・艾丽
+#8910	[!Sentence][!Title]레톤 앨리	[!Sentence][!Title]莱顿・艾利
 #8911	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]그런데 헤이싱 이젠 정말 우리랑 같이 지내는 거야?	[!Sentence][!Dialog][!speaker:Ray_]但是黑星真的要和我们一起住吗？
 #8913	[!Sentence][!BalloonChat][!speaker:Direct_Albus]시온?	[!Sentence][!BalloonChat][!speaker:Direct_Albus]席翁？
 #8914	[!Sentence][!Dialog][!speaker:Sion_Happy]우와! 감사합니다!!	[!Sentence][!Subtitle][!speaker:Sion_Happy]呜哇！谢谢！！
-#8915	[!Sentence][!BalloonChat][!speaker:Enemy_Leton_04]아니 '앨리' 놈들이잖아!	[!Sentence][!BalloonChat][!speaker:Leton_Normal]是「艾丽」的家伙们啊！
+#8915	[!Sentence][!BalloonChat][!speaker:Enemy_Leton_04]아니 '앨리' 놈들이잖아!	[!Sentence][!BalloonChat][!speaker:Leton_Normal]是「艾利」的家伙们啊！
 #8916	[!Sentence][!Dialog][!speaker:Sion_Normal]날 필요로 해주니 기분 좋네.	[!Sentence][!Dialog][!speaker:Sion_Normal]能被你需要我真是心情愉悦啊。
 #8917	[!Sentence][!Dialog][!speaker:Ray_Normal]근처에 레톤과 카터도 있어.	[!Sentence][!Dialog][!speaker:Ray_Normal]附近还有莱顿和卡特。
 #8918	[!Sentence][!Dialog][!speaker:Ray_Smile2]벌써 다 끝났네~☆	[!Sentence][!Dialog][!speaker:Ray_Smile2]已经结束了呢～☆
@@ -1802,7 +1802,7 @@
 #8979	[!Sentence][!Title]두 번째 조각	[!Sentence][!Title]第二块拼图
 #8980	[!Sentence][!Dialog][!speaker:Civil_Man_Boss_Green_Kim_Smile]맛있는 만두가 왔어요~~ 한입에 꿀꺽! 만두가 왔어요~!	好吃的包子来了～～满口肉汁的包子！包子来了～！
 #8981	[!Sentence][!Dialog][!speaker:Heissing_Smile]마음대로 하게. 그럼 난 이만.	[!Sentence][!Subtitle][!speaker:Heissing_Smile]你随便吧。我告辞了。
-#8985	[!Sentence][!Dialog][!speaker:Gangster_StreetThin_Normal]진입로에 '엘리' 의 리더 녀석이 나타났습니다!	[!Sentence][!Dialog][!speaker:Gangster_StreetThin_Normal]入口处出现了「艾丽」的首领！
+#8985	[!Sentence][!Dialog][!speaker:Gangster_StreetThin_Normal]진입로에 '엘리' 의 리더 녀석이 나타났습니다!	[!Sentence][!Dialog][!speaker:Gangster_StreetThin_Normal]入口处出现了「艾利」的首领！
 #8986	[!Sentence][!Dialog][!speaker:Gangster_StreetThin_Normal]비상사태다! 애들 소집해!	[!Sentence][!BalloonChat][!speaker:Civil_Man_Boss_Green_Normal]紧急情况！把弟兄们都集结起来！
 #8987	[!Sentence][!Dialog][!speaker:Civil_Man_Boss_Green_Kim_Surprise]뭐. 자네 트러블슈터인가!! 이런 젠장...	[!Sentence][!BalloonChat][!speaker:Civil_Man_Boss_Green_Normal]啥。你是纷争终结者吗！！这该死的...
 #8990	[!Sentence][!Dialog][!speaker:Gangster_WhiteHelmet_Normal]역시 김 씨 가게는 장사가 참 잘돼!	[!Sentence][!Subtitle][!speaker:Gangster_WhiteHelmet_Normal]果然老金家的生意依然红火呀！
@@ -1828,7 +1828,7 @@
 #9024	[!Sentence][!Objective]황소파 대장 스콧을 처치하시오.	[!Sentence][!Objective]处理狂牛组队长斯科特。
 #9025	[!Sentence][!Title]푸고 상점가 또 다른 옥상	[!Sentence][!Title]府谷商店街另一处屋顶
 #9026	[!Sentence][!Dialog][!speaker:Gangster_StreetHelmet_Normal]임마! 이제 도망칠 곳도 없어!	[!Sentence][!BalloonChat][!speaker:Direct_Enemy15]小子！现在也没地方可逃了！
-#9028	[!Sentence][!Title]카터 앨리	[!Sentence][!Title]卡特・艾丽
+#9028	[!Sentence][!Title]카터 앨리	[!Sentence][!Title]卡特・艾利
 #9029	[!Sentence][!Dialog][!speaker:Ray_Surprise]헤이싱??	[!Sentence][!Dialog][!speaker:Ray_Surprise]黑星？
 #9030	[!Sentence][!BalloonChat][!speaker:Leton]역시!!	[!Sentence][!BalloonChat][!speaker:Ray_Normal]果然是！
 #9031	[!Sentence][!Dialog][!speaker:Civil_Man_Boss_Green_Kim_Normal]에이~ 평소랑 똑같죠 뭐.	[!Sentence][!BalloonChat][!speaker:Direct_Boss]拉倒吧～和平时一样的嘛。
@@ -1848,7 +1848,7 @@
 #9049	[!Sentence][!Dialog][!speaker:Albus_Normal]시온 왜 그래? 그리고 어떻게 알고 온 거야?	[!Sentence][!Dialog][!speaker:Albus_Normal]席翁你怎么了？你怎么会来这里？
 #9050	[!Sentence][!Dialog][!speaker:Marco_Normal]알았어. 알아. 그러니 다른 길로 갈 거야. 다음에 보자.	[!Sentence][!Dialog][!speaker:Marco_Normal]知道了。知道了嘛。所以从别的地方走。下次再会。
 #9051	[!Sentence][!Dialog][!speaker:Gangster_StreetThin_Normal]그 녀석들 돈 좀 받겠다고 호위니 지원이니 하다가 형제들 엄청 잡혀갔잖아.	[!Sentence][!BalloonChat][!speaker:Direct_Enemy05]为了收取那些家伙的钱，又是警卫又是支援啥的，白白让他们抓走了不少弟兄啊。
-#9052	[!Sentence][!BalloonChat][!speaker:Enemy_Leton_08]여기도 '앨리' 녀석이다!	[!Sentence][!BalloonChat][!speaker:Leton_Normal]这里也有「艾丽」的！
+#9052	[!Sentence][!BalloonChat][!speaker:Enemy_Leton_08]여기도 '앨리' 녀석이다!	[!Sentence][!BalloonChat][!speaker:Leton_Normal]这里也有「艾利」的！
 #9053	[!Sentence][!Objective]선택 목표 1: 레이를 탈출시키시오	[!Sentence][!Objective]选项1：让雷伊逃出
 #9054	[!Sentence][!Title]마지막 조각	[!Sentence][!Title]最后一块拼图
 #9055	[!Sentence][!Dialog][!speaker:Marco_Smile]넌 한 지역 대장이 할 일도 없냐? 뭔 매일 마중이냐.	[!Sentence][!BalloonChat][!speaker:Marco]你作为这地区的队长成天没事干的吗？天天出来迎接的吗。
@@ -3394,7 +3394,7 @@
 #10959	[!Sentence][!Dialog][!speaker:Peter_Laugh]어린 꼬마 아가씨들이라면 꼭 하나씩은 있어야 한다! 아니면 유행에 뒤처진다고~!	[!Sentence][!Dialog][!speaker:Peter_Laugh]小姑娘们呐，你们得人手一部才行呀！否则就赶不上潮流啦～！
 #10960	[!Sentence][!Dialog][!speaker:Anne_Think]아...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]啊...
 #10961	[!Sentence][!Dialog][!speaker:Luna_Bored]그런가...	[!Sentence][!Dialog][!speaker:Luna_Bored]是吗...
-#10962	[!Sentence][!Dialog]푸고 상점가가 앨리 출신들로 인해 들썩이던 날...	府谷商店街被艾丽出身的人搞得天翻地覆的那一天...
+#10962	[!Sentence][!Dialog]푸고 상점가가 앨리 출신들로 인해 들썩이던 날...	府谷商店街被艾利出身的人搞得天翻地覆的那一天...
 #10963	[!Sentence][!Dialog][!speaker:Anne_Surprise]스푼교!!	[!Sentence][!Dialog][!speaker:Anne_Surprise]勺子教！！
 #10964	[!Sentence][!Dialog][!speaker:Anne_Think]저 아이 루나만 쳐다보네!	[!Sentence][!Dialog][!speaker:Anne_Think]那孩子只盯着露娜呢！
 #10965	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Normal]자 다들 방심하지 말고 확실하게 포위해!	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Normal]大家都别掉以轻心，好好包围起来！
@@ -3902,7 +3902,7 @@
 #11584	[!Sentence][!Subtitle][!speaker:Carter_Normal]... 말해보게나.	[!Sentence][!Subtitle][!speaker:Carter_Normal]...说说吧。
 #11585	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]더러운 발할라! 뭐가 자유의 도시야!	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]肮脏的巴赫拉！还说什么自由之城！
 #11588	[!Sentence][!BalloonChat][!speaker:Irene]알았다! 맡겨줘!	[!Sentence][!BalloonChat][!speaker:Irene]明白了！交给我吧！
-#11589	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]그랬지. 동지들은 '앨리' 출신이라는 이유로 차별하지 않으니까!!	是啊。同志们并没有因为「艾丽」出身这一理由而歧视我们！！
+#11589	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]그랬지. 동지들은 '앨리' 출신이라는 이유로 차별하지 않으니까!!	是啊。同志们并没有因为「艾利」出身这一理由而歧视我们！！
 #11590	[!Sentence][!BalloonChat][!speaker:Tima04_1]끄릉???	[!Sentence][!BalloonChat][!speaker:Tima04_1]吼？？？
 #11591	[!Sentence][!BalloonChat][!speaker:Anne]실버!!!	[!Sentence][!BalloonChat][!speaker:Anne]白银！！！
 #11592	[!Sentence][!Title]어리석은 자의 최후	[!Sentence][!Title]愚者的最终
@@ -3915,7 +3915,7 @@
 #11601	[!Sentence][!Dialog][!speaker:Leton_Serious]카터가 직접 말해줄 거다.	[!Sentence][!Dialog][!speaker:Leton_Serious]卡特会亲自和你讲的。
 #11602	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]우리 임무는 이 물건들을 동지들에게 전달하는 거다.	我们的任务是把这些物资送达给同志们。
 #11603	[!Sentence][!Objective]모든 적을 제압하시오.	[!Sentence][!Objective]请制服所有敌人。
-#11604	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]네 녀석 '앨리' 시절 생각하면 헛웃음이 다 나오는군.	一想到你这家伙「艾丽」时期的事情，简直让我哭笑不得。
+#11604	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]네 녀석 '앨리' 시절 생각하면 헛웃음이 다 나오는군.	一想到你这家伙「艾利」时期的事情，简直让我哭笑不得。
 #11606	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_Normal]이 철의 숲에 있는 한 어쩔 수 없는 생존 싸움이다.	[!Sentence][!BalloonChat][!speaker:Gangster_SpoonNormal_Wind_Normal]这是生活在铁森林就不得不卷进去的生存斗争。
 #11608	[!Sentence][!Choice]크릉...	[!Sentence][!Choice]吼...
 #11609	[!Sentence][!Title]성난 티마 무리	[!Sentence][!Title]愤怒的蒂玛群
@@ -3932,7 +3932,7 @@
 #11625	[!Sentence][!Title]침입자 몰아내기	[!Sentence][!Title]驱赶入侵者
 #11626	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]제길... 다 두들겨 패주겠어!	妈的...全都打死好了！
 #11627	[!Sentence][!Objective]침입자를 모두 제거하시오.	[!Sentence][!Objective]请消灭所有入侵者。
-#11628	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]그렇게 그 시절이 그리우면 다시 '앨리'로 돌아가든가!	那么怀念那个时期，那你就滚回「艾丽」去吧！
+#11628	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]그렇게 그 시절이 그리우면 다시 '앨리'로 돌아가든가!	那么怀念那个时期，那你就滚回「艾利」去吧！
 #11629	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun_Normal]쓸데없는 소리! 이미 상황 다 파악됐어!	你不用废话了！我现在全都明白了！
 #11630	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]트러블슈터 알버스 씨. 현장 제압 완료하였습니다.	[!Sentence][!Dialog][!speaker:VHPD_Guard_Normal]纷争终结者阿尔伯斯。现场镇压已完成。
 #11631	[!Sentence][!VictoryCondition]제한 시간 동안 방어선을 지켜내시오.	[!Sentence][!VictoryCondition]请在限定时间内守住防线。
@@ -4962,7 +4962,7 @@
 #12824	[!Sentence][!Dialog][!speaker:Sion_Laugh]형과 나 사이에 무슨 빚이야~☆ 형 일이면 당연히 도와야지.	[!Sentence][!Dialog][!speaker:Sion_Laugh]哥，你和我之间谈什么债不债的～☆你的事儿就是我的事儿啊。
 #12825	[!Sentence][!Dialog][!speaker:Sion_Angry]지금 넌 우리가 무리해서라도 사건을 해결해주길 바라고 있지.	[!Sentence][!Dialog][!speaker:Sion_Angry]现在的你是不是希望我们就算再累点也紧着解决案件啊。
 #12826	[!Sentence][!Dialog][!speaker:Albus_Laugh]난 $CompanyName$의 시온이면 충분하지.	[!Sentence][!Dialog][!speaker:Albus_Laugh]我只要$CompanyName$的席翁就够了。
-#12827	[!Sentence][!Dialog][!speaker:Ray_Serious]그래!! 돌아갈 수 있어! 앨리로!!	[!Sentence][!Dialog][!speaker:Ray_Serious]是的！！可以回去！回到艾丽！！
+#12827	[!Sentence][!Dialog][!speaker:Ray_Serious]그래!! 돌아갈 수 있어! 앨리로!!	[!Sentence][!Dialog][!speaker:Ray_Serious]是的！！可以回去！回到艾利！！
 #12828	[!Sentence][!Dialog][!speaker:Irene_Smile]앤. 네 걱정보다는 사이좋아 보이네.	[!Sentence][!Dialog][!speaker:Irene_Smile]安。你的担心是多余的，看起来他俩关系不错啊。
 #12829	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]김 씨 아저씨?	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]金叔？
 #12830	[!Sentence][!Dialog][!speaker:EmptySubTitle_]동료이자 친구 시온. 릴리 고모 이후 날 꾸준히 걱정해주는 사람.	[!Sentence][!Dialog]既是同事又是朋友的席翁。继莉莉姑姑之后，关心着我的一个人。
@@ -5134,9 +5134,9 @@
 #13007	[!Sentence][!Dialog][!speaker:Karen_Normal]차라리 계속 가난했으면 더 나았을 텐데...	[!Sentence][!Dialog][!speaker:Karen_Normal]干脆继续贫穷会更好的吧...
 #13009	[!Sentence][!Dialog][!speaker:Alley_Boy01_Normal]더러운 잡종 녀석!! 어딜 쳐다보는 거야!	[!Sentence][!Dialog][!speaker:Alley_Boy01_Normal]肮脏的杂种！！你瞅哪儿呢！
 #13016	[!Sentence][!Title]팀 스틸헤드	[!Sentence][!Title]铁头组
-#13017	[!Sentence][!Title]15년 전 빈민가 앨리	[!Sentence][!Title]15年前的贫民窟艾丽
+#13017	[!Sentence][!Title]15년 전 빈민가 앨리	[!Sentence][!Title]15年前的贫民窟艾利
 #13024	[!Sentence][!Dialog][!speaker:Alley_Boy02_Normal]이 하얀 머리카락 오늘 다 뽑히고 싶니? 아니면 태워줄까?	[!Sentence][!Dialog][!speaker:Alley_Boy02_Normal]这一撮白头发要不要全都给你拔了啊？要么给你烧掉啊？
-#13025	[!Sentence][!Title]6년 전 빈민가 앨리	[!Sentence][!Title]6年前的贫民窟艾丽
+#13025	[!Sentence][!Title]6년 전 빈민가 앨리	[!Sentence][!Title]6年前的贫民窟艾利
 #13026	[!Sentence][!Dialog][!speaker:Hwangrang_Normal]타이수 대장. 너무 그러지 말라고. 그 녀석 분해 미칠 지경이잖아. 크크	[!Sentence][!Dialog][!speaker:Hwangrang_Normal]太秀队长。别太过分了。那家伙都快气疯了呢。嘻嘻。
 #13028	[!Sentence][!Dialog][!speaker:Karen_Normal]'저 녀석들... 또 뭘 훔치려고...'	[!Sentence][!Dialog][!speaker:Karen_Normal]（这些家伙们...又想偷什么...）
 #13030	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal_Boy]엄마가 안 와...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal_Boy]我妈怎么还不回来啊...
@@ -5150,7 +5150,7 @@
 #13059	[!Sentence][!Dialog][!speaker:Taesoo_Normal]정말 탐스럽게 익었어. 어린 녀석들이 제법이야.	[!Sentence][!Dialog][!speaker:Taesoo_Normal]熟透了真是诱人啊。小家伙们能成事了。
 #13061	[!Sentence][!Dialog][!speaker:Tana_Normal]이렇게 많이 주다니. 언제나 고맙구나.	[!Sentence][!Dialog][!speaker:Tana_Normal]给这么多啊。老是麻烦你们。
 #13063	[!Sentence][!Dialog][!speaker:Taesoo_Normal]더 놔두면 버릇이 없어질 테고... 어쩔 수 없군.	[!Sentence][!Dialog][!speaker:Taesoo_Normal]再放任不管就没了规矩了...没办法了。
-#13064	[!Sentence][!Title]4년 전 빈민가 앨리 외곽	[!Sentence][!Title]4年前贫民窟艾丽的外郊
+#13064	[!Sentence][!Title]4년 전 빈민가 앨리 외곽	[!Sentence][!Title]4年前贫民窟艾利的外郊
 #13065	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]걱정 마. 나암. 당분간 나랑 지내자.	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]别担心。罗岩。你先跟着我过吧。
 #13069	[!Sentence][!Dialog][!speaker:Alley_Boy01_Normal]야! 도망가! 카터야! 카터!	[!Sentence][!Dialog][!speaker:Alley_Boy01_Normal]喂！快跑！卡特来啦！卡特！
 #13070	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]나암 좀 참아. 내가 감자 좀 구해올게.	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]罗岩你再忍忍。我去找点土豆来。
@@ -5164,9 +5164,9 @@
 #13102	[!Sentence][!Dialog][!speaker:Alley_Boy02_Normal]아. 저 괴물 새끼. 왜 꼭 참견질이야...	[!Sentence][!Dialog][!speaker:Alley_Boy02_Normal]哎。这只怪物。为什么偏要多管闲事呢...
 #13103	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]헤이싱. 우리 팀에 들어와라.	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]黑星。加入我们队吧。
 #13106	[!Sentence][!Title]선택의 기로	[!Sentence][!Title]选择的分岔路口
-#13108	[!Sentence][!Title]10년 전 빈민가 앨리	[!Sentence][!Title]10年前的贫民窟艾丽
+#13108	[!Sentence][!Title]10년 전 빈민가 앨리	[!Sentence][!Title]10年前的贫民窟艾利
 #13109	[!Sentence][!Dialog][!speaker:Ray_Smile_Young]아주머니 이거 받으세요.	[!Sentence][!Dialog][!speaker:Ray_Smile_Young]大婶，这个给你。
-#13112	[!Sentence][!Title]앨리원더러	[!Sentence][!Title]艾丽文德乐
+#13112	[!Sentence][!Title]앨리원더러	[!Sentence][!Title]艾利文德乐
 #13115	[!Sentence][!Dialog][!speaker:Albus_Think]'아이린하고 앤도 타겟이 될 수 있으니 주의하라고 해야겠어...'	[!Sentence][!Dialog][!speaker:Albus_Think]（艾琳和安也有可能成为攻击目标，得提醒她们俩才行...）
 #13116	[!Dialog][!speaker:Albus_Laugh]특권이 휴가를 위한 거라니...	[!Dialog][!speaker:Albus_Laugh]特权竟然是为了休假的...
 #13117	[!Dialog][!speaker:Albus_Laugh]여전히 헤이싱 씨를 이해하는 것은 어렵네요.	[!Dialog][!speaker:Albus_Laugh]想了解黑星你这个人果然还是不轻松啊。
@@ -5225,13 +5225,13 @@
 #13174	[!Sentence][!Dialog][!speaker:Heissing_Smile]가족을 만들고 이별시키더니...	[!Sentence][!Dialog][!speaker:Heissing_Smile]曾经结成一家人后又来个离别的...
 #13175	[!Sentence][!Dialog][!speaker:Heissing_Normal]못된 아이가 되었군.	[!Sentence][!Dialog][!speaker:Heissing_Normal]长成了坏孩子而已。
 #13177	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]언제나 빚지고 사는 것 같았는데 후련하네.	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]总觉得欠了很多人情，现在能还上已经觉得轻松了。
-#13179	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]지금 이 순간도 나는 내가 『앨리원더러』의 일원이라는데 자부심을 가져.	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]此时此刻我也会因为自己是「艾丽文德乐」的成员而感到自豪呢。
+#13179	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]지금 이 순간도 나는 내가 『앨리원더러』의 일원이라는데 자부심을 가져.	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]此时此刻我也会因为自己是「艾利文德乐」的成员而感到自豪呢。
 #13189	[!Sentence][!Dialog][!speaker:Carter_Normal]죽음은 모든 것을 정지시키지.	[!Sentence][!Dialog][!speaker:Carter_Normal]死亡会终止一切的。
 #13192	[!Sentence][!Dialog][!speaker:Heissing_Normal]아무리 생각해도 널 멈출 방법이 생각나지 않는군.	[!Sentence][!Dialog][!speaker:Heissing_Normal]我冥思苦想都没想出可以阻止你的方法啊。
 #13193	[!Sentence][!Dialog][!speaker:Heissing_Smile]잔인하군...	[!Sentence][!Dialog][!speaker:Heissing_Smile]好残忍哦...
-#13196	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]앨리?	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]艾丽？
+#13196	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]앨리?	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]艾利？
 #13198	[!Sentence][!Dialog][!speaker:Heissing_Smile]다시 찾으니 영원히 이별하라는 거냐?	[!Sentence][!Dialog][!speaker:Heissing_Smile]好不容易重逢了你却让我来个永别是吗？
-#13200	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]『앨리원더러』	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]「艾丽文德乐」
+#13200	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]『앨리원더러』	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]「艾利文德乐」
 #13201	[!Sentence][!Dialog][!speaker:Carter_Normal]모두 스스로 선택할 뿐이다.	[!Sentence][!Dialog][!speaker:Carter_Normal]这一切都是各自的选择而已。
 #13202	[!Sentence][!Dialog][!speaker:Heissing_Smile]많이 변했군.	[!Sentence][!Dialog][!speaker:Heissing_Smile]你变了好多呢。
 #13205	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]너희들 덕분에 즐거운 시간이었어.	[!Sentence][!Dialog][!speaker:Heissing_Smile_Young]托你们的福，我度过了快乐的日子啊。
@@ -5361,9 +5361,9 @@
 #13341	[!Sentence][!Dialog][!speaker:Heissing_Smile2_Young]너희들에게 은혜를 갚을 기회를 줘서 고마워.	[!Sentence][!Dialog][!speaker:Heissing_Smile2_Young]谢谢你们给了我偿还你们恩情的机会。
 #13342	[!Sentence][!Dialog][!speaker:Ray_Surprise_Girl]카터! 여기야!!	卡特！在这儿！！
 #13343	[!Sentence][!Dialog][!speaker:Taesoo_Smile]호오. 이 녀석 봐라. 눈을 베어도 꼼짝을 안 하네. 지독한 녀석.	[!Sentence][!Dialog][!speaker:Taesoo_Smile]哟呵。你这家伙真是。割了眼睛都不会动一下的是吧。真是狠毒啊。
-#13344	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]그리고 나는 카터 앨리.	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]我呢就叫卡特・艾丽。
-#13345	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]그래. 헤이싱 앨리.	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]是的。黑星・艾丽。
-#13346	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]헤이싱 앨리.	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]黑星・艾丽。
+#13344	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]그리고 나는 카터 앨리.	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]我呢就叫卡特・艾利。
+#13345	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]그래. 헤이싱 앨리.	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]是的。黑星・艾利。
+#13346	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]헤이싱 앨리.	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]黑星・艾利。
 #13347	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]헤이싱.	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]黑星。
 #13348	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]그것이 이제부터 우리의 성이고 너는 내 가족이다.	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]从现在起这就是我们的姓，你就是我的家人。
 #13349	[!Dialog][!speaker:Sion_Surprise]'알버스... 정말로 헤이싱 형을 데려왔잖아...'	[!Dialog][!speaker:Sion_Surprise]（阿尔伯斯...真的招来了黑星哥啊...）
@@ -5574,49 +5574,49 @@
 #13717	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]하지만 이미 흘러내린 물을 주워 담을 수 없듯이...	[!Sentence][!Subtitle]但是就像泼出去的水无法收回来...
 #13718	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]람지플라자 사건 이후 꾸준히 이어졌던 '스푼교'의 활동은	[!Sentence][!Subtitle]蓝地广场事件之后持续不断的「勺子教」的活动
 #13719	[!Sentence][!Dialog][!speaker:EmptySubTitle_]트러블슈터 $CompanyName$ 은 아이작의 의뢰를 수행하기 위해 경찰 정보원들의 도움을 받아 바람장벽지구 재의 강 하류의 '한산도'에 도착한다.	纷争终结者公司$CompanyName$为了执行艾萨克的委托，在警方情报员的协助下抵达了风之壁地区烬夜江下游的「闲山岛」。
-#13720	[!Sentence][!Dialog][!speaker:EmptySubTitle_]앨리를 실질적으로 이끌던 리더 '카터'에게 굳이 팔아넘길 사람을 정하라는 요구.	[!Sentence][!Dialog]对于艾丽名副其实的领袖「卡特」提出的，硬是要选个人来出卖的要求。
+#13720	[!Sentence][!Dialog][!speaker:EmptySubTitle_]앨리를 실질적으로 이끌던 리더 '카터'에게 굳이 팔아넘길 사람을 정하라는 요구.	[!Sentence][!Dialog]对于艾利名副其实的领袖「卡特」提出的，硬是要选个人来出卖的要求。
 #13721	[!Sentence][!Dialog][!speaker:EmptySubTitle_]거리 아이들에게는 자신들과 다른 헤이싱은 좋은 스트레스 해소 대상이었다.	[!Sentence][!Dialog]对于街上的孩子们来说，这样一个和他们不一样的黑星是个很好的消遣对象。
-#13722	[!Sentence][!Dialog][!speaker:EmptySubTitle_]그 과정에서 동갑내기 친구 '레이, '레톤', '카터' 역시 자신들만의 팀『앨리원더러』를 만들게 된다.	[!Sentence][!Dialog]其间，同龄的「雷伊」、「莱顿」、「卡特」联合起来建立起了自己的组织「艾丽文德乐」。
-#13723	[!Sentence][!Dialog][!speaker:EmptySubTitle_]카터는 그렇게 획득한 부를 아낌없이 앨리의 사람들과 함께 나눴다.	[!Sentence][!Dialog]卡特将如此聚集起来的财富，慷慨地和艾丽众人分享。
+#13722	[!Sentence][!Dialog][!speaker:EmptySubTitle_]그 과정에서 동갑내기 친구 '레이, '레톤', '카터' 역시 자신들만의 팀『앨리원더러』를 만들게 된다.	[!Sentence][!Dialog]其间，同龄的「雷伊」、「莱顿」、「卡特」联合起来建立起了自己的组织「艾利文德乐」。
+#13723	[!Sentence][!Dialog][!speaker:EmptySubTitle_]카터는 그렇게 획득한 부를 아낌없이 앨리의 사람들과 함께 나눴다.	[!Sentence][!Dialog]卡特将如此聚集起来的财富，慷慨地和艾利众人分享。
 #13724	[!Sentence][!Dialog][!speaker:EmptySubTitle_]『스틸헤드』는 카라스연방과 동방연합 간의 무역을 하는 상인들에게 고용되어 호송 업무를 맡거나...	[!Sentence][!Dialog]「铁头」组被卡拉斯联邦和东方联邦间做生意的商人们雇佣，承担起护送业务...
 #13725	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]유능한 트러블슈터 회사로 이름이 알려지기 시작했으나...	[!Sentence][!Subtitle]虽然已经开始以纷争终结公司名声在外了...
 #13726	[!Sentence][!Dialog][!speaker:EmptySubTitle_]카라스연방과 동방연합 그리고 발할라가 난민의 수용에 대한 부담을 서로 미루면서 이 지역의 관리를 포기하면서이다.	[!Sentence][!Dialog]卡拉斯联邦和东方联邦还有巴赫拉互相推卸着收容难民的责任，从而开始放弃了该地区的管理。
 #13727	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]알버스가 낸 직원 모집 공고에는 아무도 지원하지 않는다.	[!Sentence][!Subtitle]可阿尔伯斯发布的招人公告却石沉大海。
-#13728	[!Sentence][!Dialog][!speaker:EmptySubTitle_]이미 오래전부터 앨리지역민으로부터 보호세 명목으로 꾸준한 갈취를 하고 있었다.	[!Sentence][!Dialog]他从很久之前就开始以保护费的名目不断地榨取艾丽的居民。
+#13728	[!Sentence][!Dialog][!speaker:EmptySubTitle_]이미 오래전부터 앨리지역민으로부터 보호세 명목으로 꾸준한 갈취를 하고 있었다.	[!Sentence][!Dialog]他从很久之前就开始以保护费的名目不断地榨取艾利的居民。
 #13729	[!Sentence][!Dialog][!speaker:EmptySubTitle_]이 지역을 관할하는 구룡회의 간부 '타이수'	[!Sentence][!Dialog]管辖着这一地区的九龙会干部「太秀」
-#13730	[!Sentence][!Dialog][!speaker:EmptySubTitle_]하지만 헤이싱과 같은 약자를 차별하지 않고 모두 받아들이고 책임지는 『앨리원더러』의 팀 가치는...	[!Sentence][!Dialog]但是无差别地接收黑星这样的弱者，负责的「艾丽文德乐」组织的价值观...
+#13730	[!Sentence][!Dialog][!speaker:EmptySubTitle_]하지만 헤이싱과 같은 약자를 차별하지 않고 모두 받아들이고 책임지는 『앨리원더러』의 팀 가치는...	[!Sentence][!Dialog]但是无差别地接收黑星这样的弱者，负责的「艾利文德乐」组织的价值观...
 #13731	[!Sentence][!Dialog][!speaker:EmptySubTitle_]각자 상황이 다른 아이들이 하나의 팀으로 통합되는 과정에서 많은 잡음이 생겼다.	[!Sentence][!Dialog]在把这些各自情况千差万别的孩子们统一到一个组织的过程中，出现了许多不满。
 #13732	[!Sentence][!Dialog][!speaker:EmptySubTitle_]거리 아이들과 다르게 책을 손에서 놓지 않는 특이한 취미.	[!Sentence][!Dialog]和街上的孩子们不同，手里总是拿本书在读的特殊兴趣。
 #13733	[!Sentence][!Dialog][!speaker:EmptySubTitle_]같은 처지의 아이들은 자연스럽게 삼삼오오 무리를 짓게 되었고...	[!Sentence][!Dialog]有着相似境遇的孩子们自然而然地三五成群的聚在了一起...
-#13734	[!Sentence][!Dialog][!speaker:EmptySubTitle_]이것이 앨리에서의 나의 마지막 추억이다.	[!Sentence][!Dialog]这就是我在艾丽的最后的记忆了。
+#13734	[!Sentence][!Dialog][!speaker:EmptySubTitle_]이것이 앨리에서의 나의 마지막 추억이다.	[!Sentence][!Dialog]这就是我在艾利的最后的记忆了。
 #13735	[!Sentence][!Dialog][!speaker:EmptySubTitle_]플레이를 원하시는 캐릭터를 선택하세요.	[!Sentence][!Dialog]请选择使用的角色。
 #13736	[!Sentence][!Dialog][!speaker:EmptySubTitle_]모든 것은 카터와 그를 따르던 아이들이 가져온 불행이었다.	[!Sentence][!Dialog]这一切都是卡特和跟随他的孩子们带来的不幸。
-#13737	[!Sentence][!Dialog][!speaker:EmptySubTitle_]하지만 대부분 일자리는 모자랐으며 마땅한 일이 없으면 앨리의 부모들은 일거리를 찾아 국경을 넘는 일도 마다하지 않았다.	[!Sentence][!Dialog]然而僧多粥少，其中的大多数人找不到工作，从而找不到合适工作的艾丽父母就会不惜以身犯险地去越过国境线。
+#13737	[!Sentence][!Dialog][!speaker:EmptySubTitle_]하지만 대부분 일자리는 모자랐으며 마땅한 일이 없으면 앨리의 부모들은 일거리를 찾아 국경을 넘는 일도 마다하지 않았다.	[!Sentence][!Dialog]然而僧多粥少，其中的大多数人找不到工作，从而找不到合适工作的艾利父母就会不惜以身犯险地去越过国境线。
 #13738	[!Sentence][!Dialog][!speaker:EmptySubTitle_]국경 경비대의 정기 순찰을 피하고자... 혹은 밀린 임금을 고용주로부터 받아내기 위해...	[!Sentence][!Dialog]为了避开国境警卫队的定期巡逻...或是为了向雇主讨要拖欠的工钱...
 #13739	[!Sentence][!Dialog][!speaker:EmptySubTitle_]부모가 남겨둔 먹을 것이 떨어지고 배고픔이 시작되면 아이들은 굶주림을 면하기 위해 거리를 배회한다.	[!Sentence][!Dialog]父母们留下来的食物吃光后，饥饿的孩子们为了吃到东西而在街上徘徊。
-#13740	[!Sentence][!Dialog][!speaker:EmptySubTitle_]세계 대전 당시 전쟁 난민들이 모여들어 탄생한 빈민가『앨리』	[!Sentence][!Dialog]世界大战时的战争难民们聚集在一起，从而诞生出的贫民窟「艾丽」
-#13741	[!Sentence][!Dialog][!speaker:EmptySubTitle_]카터는 『앨리원더러』의 일원 중 일정 나이 이상의 건장한 동료들을 모아 다시 팀 『스틸헤드』를 구성한다.	[!Sentence][!Dialog]卡特在「艾丽文德乐」成员中选取一定年龄以上的身体健壮的同伴们来组成「铁头」组。
-#13742	[!Sentence][!Dialog][!speaker:EmptySubTitle_]그는 오래전부터 카터의 『앨리원더러』를 유심하게 지켜 보고 있었으며...	[!Sentence][!Dialog]他从之前就开始默默地看着卡特建立起来的「艾丽文德乐」...
+#13740	[!Sentence][!Dialog][!speaker:EmptySubTitle_]세계 대전 당시 전쟁 난민들이 모여들어 탄생한 빈민가『앨리』	[!Sentence][!Dialog]世界大战时的战争难民们聚集在一起，从而诞生出的贫民窟「艾利」
+#13741	[!Sentence][!Dialog][!speaker:EmptySubTitle_]카터는 『앨리원더러』의 일원 중 일정 나이 이상의 건장한 동료들을 모아 다시 팀 『스틸헤드』를 구성한다.	[!Sentence][!Dialog]卡特在「艾利文德乐」成员中选取一定年龄以上的身体健壮的同伴们来组成「铁头」组。
+#13742	[!Sentence][!Dialog][!speaker:EmptySubTitle_]그는 오래전부터 카터의 『앨리원더러』를 유심하게 지켜 보고 있었으며...	[!Sentence][!Dialog]他从之前就开始默默地看着卡特建立起来的「艾利文德乐」...
 #13743	[!Sentence][!Dialog][!speaker:EmptySubTitle_]빈민가의 사창가에서 태어난 아이.	[!Sentence][!Dialog]在贫民窟花街柳巷出生的孩子。
 #13744	[!Sentence][!Dialog][!speaker:EmptySubTitle_]카터는 다른 팀들과 달리 헤이싱과 같은 약자들을 자신의 팀으로 받아들였다.	[!Sentence][!Dialog]卡特不像其他组织那样，他会将像黑星这样的弱者吸入到自己的组织里来。
-#13745	[!Sentence][!Dialog][!speaker:EmptySubTitle_]앨리의 부모들은 상황에 따라 짧게는 일주일, 길게는 한 달 이상 집으로 돌아오지 못하는 경우가 허다하였다.	[!Sentence][!Dialog]艾丽的父母们经常会短则一周，长则一个月以上都回不到家里来。
-#13746	[!Sentence][!Dialog][!speaker:EmptySubTitle_]그렇게 헤이싱은 앨리를 떠나 『고난의 성채』로 팔려간다.	[!Sentence][!Dialog]就这样，黑星离开了艾丽，被卖到了「苦难城寨」。
-#13747	[!Sentence][!Dialog][!speaker:EmptySubTitle_]아이들은 영문도 모른 채 자연스럽게 앨리의 거리에 방치되곤 하였다.	[!Sentence][!Dialog]孩子们就这样不明原因又自然而然地搁置在了艾丽的大街上。
+#13745	[!Sentence][!Dialog][!speaker:EmptySubTitle_]앨리의 부모들은 상황에 따라 짧게는 일주일, 길게는 한 달 이상 집으로 돌아오지 못하는 경우가 허다하였다.	[!Sentence][!Dialog]艾利的父母们经常会短则一周，长则一个月以上都回不到家里来。
+#13746	[!Sentence][!Dialog][!speaker:EmptySubTitle_]그렇게 헤이싱은 앨리를 떠나 『고난의 성채』로 팔려간다.	[!Sentence][!Dialog]就这样，黑星离开了艾利，被卖到了「苦难城寨」。
+#13747	[!Sentence][!Dialog][!speaker:EmptySubTitle_]아이들은 영문도 모른 채 자연스럽게 앨리의 거리에 방치되곤 하였다.	[!Sentence][!Dialog]孩子们就这样不明原因又自然而然地搁置在了艾利的大街上。
 #13748	[!Sentence][!Dialog][!speaker:EmptySubTitle_]이에 반항할 경우 사살당하였다.	[!Sentence][!Dialog]若稍有反抗甚至会被杀死在当场。
 #13749	[!Sentence][!Dialog][!speaker:EmptySubTitle_]대부분 국경 근처의 공사 현장이나 상인들에게 자신의 노동력을 팔아 생계를 유지하였다.	[!Sentence][!Dialog]他们中的大多数都会在国境线附近的工地打工，或向商人们出卖劳力以维持生计。
-#13750	[!Sentence][!Dialog][!speaker:EmptySubTitle_]빈민가의 가난에서 벗어나 희망찬 미래를 꿈꿨던 앨리의 사람들의 마음은 산산히 부서져 버렸다.	[!Sentence][!Dialog]祈祷着甩掉贫穷，展望着充满希望的未来，艾丽民众们的梦境此时此刻碎成了渣。
+#13750	[!Sentence][!Dialog][!speaker:EmptySubTitle_]빈민가의 가난에서 벗어나 희망찬 미래를 꿈꿨던 앨리의 사람들의 마음은 산산히 부서져 버렸다.	[!Sentence][!Dialog]祈祷着甩掉贫穷，展望着充满希望的未来，艾利民众们的梦境此时此刻碎成了渣。
 #13751	[!Sentence][!Dialog][!speaker:EmptySubTitle_]그리고 그들에게 모욕과 폭력을 행사하며 자신들을 둘러싼 스트레스를 해소한다.	[!Sentence][!Dialog]并且向他们实施侮辱和暴力，以消解环绕自身的压力。
 #13752	[!Sentence][!Dialog][!speaker:EmptySubTitle_]하지만 국경을 넘어 일거리를 찾아도...	[!Sentence][!Dialog]然而偷渡过去寻找工作也...
 #13753	[!Sentence][!Dialog][!speaker:EmptySubTitle_]도움을 청하는 팀들은 따뜻한 배려로...	[!Sentence][!Dialog]对于请求帮助的组织，予以温暖的关怀...
-#13754	[!Sentence][!Dialog][!speaker:EmptySubTitle_]어른들의 부재 속에서 다툼이 끊이지 않던 『앨리』의 아이들.	[!Sentence][!Dialog]大人们的离开，使得留守「艾丽」的孩子们纷争不断。
+#13754	[!Sentence][!Dialog][!speaker:EmptySubTitle_]어른들의 부재 속에서 다툼이 끊이지 않던 『앨리』의 아이들.	[!Sentence][!Dialog]大人们的离开，使得留守「艾利」的孩子们纷争不断。
 #13755	[!Sentence][!Dialog][!speaker:EmptySubTitle_]개 중에는 부모 혹은 어른들의 부재 속에서 다른 아이들의 것을 빼앗는 것도 서슴지 않는 일도 자주 일어났다.	[!Sentence][!Dialog]经常会有其中一些孩子会趁着父母或大人不在的机会毫不犹豫地去抢其他孩子的事情发生。
 #13756	[!Sentence][!Dialog][!speaker:EmptySubTitle_]악독한 고용주에게 잡혀 감금된 채 혹사당하는지...	[!Sentence][!Dialog]还是被恶毒的雇主关起来奴役呢...
 #13757	[!Sentence][!Dialog][!speaker:EmptySubTitle_]생존에 대한 불안감... 미래에 대한 암울함...	[!Sentence][!Dialog]对于生存的不安...和对于未来的绝望...
 #13758	[!Sentence][!Dialog][!speaker:EmptySubTitle_]그리고 저항하는 팀들은 철저한 응징으로...	[!Sentence][!Dialog]对于上前阻挠的组织，回以彻底的惩罚...
 #13759	[!Sentence][!Dialog][!speaker:EmptySubTitle_]불법체류자가 되었기에 이를 악용하는 고용주로부터 혹사당하며 제대로 된 몫을 받지 못하기 일쑤였다.	[!Sentence][!Dialog]因为成为了非法滞留人员，甚至会被恶意的雇主利用这一点来奴役和剥削，最终都拿不到像样的报酬。
-#13760	[!Sentence][!Dialog][!speaker:EmptySubTitle_]『앨리』의 아이들을 통합해 나간다.	[!Sentence][!Dialog]就这样逐渐地集结起了「艾丽」的孩子们。
-#13761	[!Sentence][!Dialog][!speaker:EmptySubTitle_]카터의 변화가 가져다주는 달콤함에 젖었던 앨리 주민들은 순식간에 차갑게 식어버렸다.	[!Sentence][!Dialog]沉浸在卡特带来的变化，变的甜蜜的艾丽居民们瞬间冷了下来。
-#13762	[!Sentence][!Dialog][!speaker:EmptySubTitle_]『앨리』가 슬럼가로 악명을 떨치기 시작한 것은	[!Sentence][!Dialog]「艾丽」作为贫民窟臭名远扬的契机是
+#13760	[!Sentence][!Dialog][!speaker:EmptySubTitle_]『앨리』의 아이들을 통합해 나간다.	[!Sentence][!Dialog]就这样逐渐地集结起了「艾利」的孩子们。
+#13761	[!Sentence][!Dialog][!speaker:EmptySubTitle_]카터의 변화가 가져다주는 달콤함에 젖었던 앨리 주민들은 순식간에 차갑게 식어버렸다.	[!Sentence][!Dialog]沉浸在卡特带来的变化，变的甜蜜的艾利居民们瞬间冷了下来。
+#13762	[!Sentence][!Dialog][!speaker:EmptySubTitle_]『앨리』가 슬럼가로 악명을 떨치기 시작한 것은	[!Sentence][!Dialog]「艾利」作为贫民窟臭名远扬的契机是
 #13763	[!Sentence][!Dialog][!speaker:EmptySubTitle_]무리의 결속력을 와해시키기 위한 악랄한 수법.	[!Sentence][!Dialog]这是为了瓦解群体凝聚力而耍出的恶劣手段。
 #13764	[!Sentence][!Dialog][!speaker:EmptySubTitle_]부분적이긴 하지만 선천적 백화증을 가지는 특이한 외모.	[!Sentence][!Dialog]虽然只是一部分，但是拥有白化症特有的外貌。
 #13765	[!Sentence][!Dialog][!speaker:EmptySubTitle_]아이들은 자연스럽게 팀을 조직하고 규율을 만들어 자신들의 이권을 보호하기 위해 노력한다.	[!Sentence][!Dialog]孩子们自主地形成了组织，立下了规矩，努力去保护自身的权益。
@@ -5626,8 +5626,8 @@
 #13769	[!Sentence][!Dialog][!speaker:EmptySubTitle_]국경 경비대에 의해 사살당한 것인지...	[!Sentence][!Dialog]到底是被国境警卫队杀害的...
 #13770	[!Sentence][!Dialog][!speaker:EmptySubTitle_]건물은 불타고 가진 것은 모두 약탈당했으며 저항하는 자는 쓰러져 나갔다.	[!Sentence][!Dialog]房屋被烧毁，全部家当被掠夺一空，奋起反抗的也一个个倒了下去。
 #13771	[!Sentence][!Dialog][!speaker:EmptySubTitle_]『스틸 헤드』의 수완 역시 매력적으로 느끼고 있었다.	[!Sentence][!Dialog]他觉得「铁头」组的本事也非常吸引人。
-#13772	[!Sentence][!Dialog][!speaker:EmptySubTitle_]『앨리』의 부모들은 매일 같이 카라스연방 국경 근처로 일을 찾아 나선다.	[!Sentence][!Dialog]「艾丽」的父母们每天都会去往卡拉斯联邦国境附近去找零活。
-#13773	[!Sentence][!Dialog][!speaker:EmptySubTitle_]얼마 지나지 않아 대부분의 아이들은 『앨리원더러』의 일원이 된다.	[!Sentence][!Dialog]没过多久，大部分的孩子们都成为了「艾丽文德乐」的成员。
+#13772	[!Sentence][!Dialog][!speaker:EmptySubTitle_]『앨리』의 부모들은 매일 같이 카라스연방 국경 근처로 일을 찾아 나선다.	[!Sentence][!Dialog]「艾利」的父母们每天都会去往卡拉斯联邦国境附近去找零活。
+#13773	[!Sentence][!Dialog][!speaker:EmptySubTitle_]얼마 지나지 않아 대부분의 아이들은 『앨리원더러』의 일원이 된다.	[!Sentence][!Dialog]没过多久，大部分的孩子们都成为了「艾利文德乐」的成员。
 #13774	[!Sentence][!Dialog][!speaker:EmptySubTitle_]의지할 곳이 없는 아이들로부터 많은 신뢰를 이끌어내었고...	[!Sentence][!Dialog]吸引到了无依无靠的孩子们的信赖...
 #13775	[!Sentence][!Dialog][!speaker:EmptySubTitle_]카터는 아이들과 어른들 모두에게 『영웅』이었다.	[!Sentence][!Dialog]卡特之于孩子，之于大人都是个「英雄」。
 #13776	[!Sentence][!Dialog][!speaker:EmptySubTitle_]하지만 아이들의 바람과 무관하게 연락이 끊긴 부모들은 돌아오지 않는 경우가 허다하였다.	[!Sentence][!Dialog]然而不管孩子们如何希望，失联的父母们不再回来的也是常有的事。
@@ -6447,7 +6447,7 @@
 #14740	[!Sentence][!Dialog][!speaker:Kylie_Smile]여기 물류 창고는 사유물이야. 그걸 내가 해킹하면 범죄라고!	[!Sentence][!Dialog][!speaker:Kylie_Smile]这个物流仓库是私人财产好吗。让我黑进去这可就是犯罪了！
 #14742	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]이번 임무는 현장의 물류 창고를 수색하여 배달 형제와 스푼교가 거래한 것을 확보하는 일이네.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]本次任务是搜查物流仓库，确认快递兄弟和勺子教交易的事实。
 #14743	[!Sentence][!BalloonChat][!speaker:Diane]레이!!	[!Sentence][!BalloonChat][!speaker:ChaosBrush_WhiteBrush_Normal]雷伊！！
-#14745	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal]네가 앨리를 좋아하는만큼 우리도 너와 함께한 『 카오스 브러시 』를 정말 좋아했어.	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal]你有多喜欢艾丽，我们就有多喜欢我们曾经在一起时的「混沌刷」。
+#14745	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal]네가 앨리를 좋아하는만큼 우리도 너와 함께한 『 카오스 브러시 』를 정말 좋아했어.	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal]你有多喜欢艾利，我们就有多喜欢我们曾经在一起时的「混沌刷」。
 #14746	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]내가 갈게.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]我过去找你。
 #14747	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal]넌 여전하구나. 	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal]你真是一点都没变啊。
 #14748	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]뭐!?	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]什么！？
@@ -6489,7 +6489,7 @@
 #14784	[!Sentence][!BalloonChat]적이다! 빨리 나와!	[!Sentence][!BalloonChat]发现敌情！快出来！
 #14785	[!Sentence][!Dialog][!speaker:Civil_Man_Lee_Normal]거기로 어떻게 가! 그냥 빨리 와서 구해줘!	[!Sentence][!Dialog][!speaker:Civil_Man_Lee_Normal]我怎么走那里！快来救救我！
 #14787	[!Sentence][!Dashboard:ObjectiveMarker]알버스, 시온, 헤이싱으로 레이에게 다가가면 대화 이벤트가 진행됩니다.	[!Sentence][!Dashboard:ObjectiveMarker]阿尔伯斯，席翁，黑星走近雷伊开启场景活动。
-#14788	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal_Unmasked]넌 언제나 우리보다 앨리가 먼저구나...	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal_Unmasked]对你来说，艾丽总比我们重要呢...
+#14788	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal_Unmasked]넌 언제나 우리보다 앨리가 먼저구나...	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal_Unmasked]对你来说，艾利总比我们重要呢...
 #14789	[!Sentence][!Dialog][!speaker:Ray_Surprise]알버스군?	[!Sentence][!Dialog][!speaker:Ray_Surprise]阿尔伯斯？
 #14790	[!Sentence][!Dashboard:ObjectiveMarker][colour='FFFFAA00']스푼교의 비밀 화물이 해당 지역에 도착하면 패배합니다.<br><br>[colour='FFFFFF00']해당 지역으로 정보원 리씨를 이동시키면 현장에서 이탈 시킬 수 있습니다. 	[!Sentence][!Dashboard:ObjectiveMarker][colour='FFFFAA00']如果勺子教的秘密货物抵达该区域，您将失败。<br><br>[colour='FFFFFF00']将情报员李氏移到该区域，您可以让李先生离开现场。
 #14791	[!Sentence][!Dialog][!speaker:Albus_Surprise]알겠습니다!	[!Sentence][!Dialog][!speaker:Roberto_Smile]明白了！
@@ -6616,65 +6616,65 @@
 #14924	[!Sentence][!Dialog][!speaker:Carter_Normal]걱정마. 레이.	[!Sentence][!Dialog][!speaker:Carter_Normal]别担心，雷伊。
 #14925	[!Sentence][!Dialog][!speaker:Ray_Smile]아시잖아요. 일을 주는 곳이 여기 뿐이네요.	[!Sentence][!Dialog][!speaker:Ray_Smile]你是知道的。只有这里才提供工作的。
 #14926	[!Sentence][!Dialog][!speaker:Civil_PurpleFat_Normal]근본이 틀려먹은 녀석들이야. 발할라에 맞지 않아.	[!Sentence][!Dialog][!speaker:Civil_PurpleFat_Normal]本质上有问题的家伙们。不适合巴赫拉。
-#14927	[!Sentence][!Dialog]여전히 『앨리』에 대한 차별은 존재했다.	[!Sentence][!Dialog]对于「艾丽」的歧视依然存在。
+#14927	[!Sentence][!Dialog]여전히 『앨리』에 대한 차별은 존재했다.	[!Sentence][!Dialog]对于「艾利」的歧视依然存在。
 #14928	[!Sentence][!Title]홀로서기	[!Sentence][!Title]孤立
 #14929	[!Sentence][!Dialog][!speaker:ChaosBrush_GreenBrush_Normal_Unmasked]난 안젤라. 넌?	[!Sentence][!Dialog][!speaker:ChaosBrush_GreenBrush_Normal_Unmasked]我叫安吉拉。你呢？
 #14930	[!Sentence][!Dialog][!speaker:ChaosBrush_RedBrush_Normal_Unmasked]안젤라도 진짜 열심이고~	[!Sentence][!Dialog][!speaker:ChaosBrush_RedBrush_Normal_Unmasked]安吉拉真的很努力～
 #14931	[!Sentence][!Dialog]그 과정을 친구들과 같이 할 수 있는 것이 좋았다.	[!Sentence][!Dialog]能与伙伴们一起经历那个过程真的很好。
 #14932	[!Sentence][!Dialog][!speaker:ChaosBrush_RedBrush_Normal_Unmasked]와~ 멋진 걸 그렸네. 이걸로 그린 건가?	[!Sentence][!Dialog][!speaker:ChaosBrush_RedBrush_Normal_Unmasked]哇～好帅。是用这个画的吗？
-#14933	[!Sentence][!Dialog]그런 부모의 이름을 기억하기엔 『앨리』의 생활은 거칠고 가혹했다.	[!Sentence][!Dialog]「艾丽」的生活过于残酷，让人不愿想起父母的名字。
-#14934	[!Sentence][!Dialog][!speaker:Ray_Smile]걱정마. 『앨리』보다 더 한 곳은 없어.	[!Sentence][!Dialog][!speaker:Ray_Smile]别担心。不会有比「艾丽」更烂的地方了。
+#14933	[!Sentence][!Dialog]그런 부모의 이름을 기억하기엔 『앨리』의 생활은 거칠고 가혹했다.	[!Sentence][!Dialog]「艾利」的生活过于残酷，让人不愿想起父母的名字。
+#14934	[!Sentence][!Dialog][!speaker:Ray_Smile]걱정마. 『앨리』보다 더 한 곳은 없어.	[!Sentence][!Dialog][!speaker:Ray_Smile]别担心。不会有比「艾利」更烂的地方了。
 #14935	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]응. 	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]嗯。
 #14936	[!Sentence][!Dialog][!speaker:ChaosBrush_RedBrush_Normal_Unmasked]그래서 우리 팀 이름은?	[!Sentence][!Dialog][!speaker:ChaosBrush_RedBrush_Normal_Unmasked]那么我们团队的名字是？
 #14937	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]난 너희들과 함께하는 이 순간이 좋아.	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]我特别喜欢跟你们在一起的现在。
 #14938	[!Sentence][!Dialog][!speaker:ChaosBrush_RedBrush_Normal_Unmasked]이렇게 칠하는 건가?	[!Sentence][!Dialog][!speaker:ChaosBrush_RedBrush_Normal_Unmasked]是这样涂的吗？
 #14939	[!Sentence][!Dialog][!speaker:Interviewer_EmploymentAgency_]남자들도 힘든 이런 일을 왜 계속 하려고 해?	[!Sentence][!Dialog][!speaker:Interviewer_EmploymentAgency_]为什么要做这种连男人都会觉得累的事？
 #14940	[!Sentence][!Dialog][!speaker:Ray_Serious]으아아아!!!!!!	[!Sentence][!Dialog][!speaker:Ray_Serious]呃啊啊啊啊啊！！！！
-#14941	[!Sentence][!Dialog]하지만 분명한 건『앨리』이주민들은 발할라 시민들에겐 약자였고...	[!Sentence][!Dialog]但有一件事可以肯定，来自「艾丽」的移民对于巴赫拉市民来说是弱者...
-#14942	[!Sentence][!Dialog]발할라는 강제 이주에 따른『앨리』의 주민들의 집단적인 행동의 위험성을 줄이기 위해...	[!Sentence][!Dialog]巴赫拉为了减少来自「艾丽」居民们集体活动的危险性...
+#14941	[!Sentence][!Dialog]하지만 분명한 건『앨리』이주민들은 발할라 시민들에겐 약자였고...	[!Sentence][!Dialog]但有一件事可以肯定，来自「艾利」的移民对于巴赫拉市民来说是弱者...
+#14942	[!Sentence][!Dialog]발할라는 강제 이주에 따른『앨리』의 주민들의 집단적인 행동의 위험성을 줄이기 위해...	[!Sentence][!Dialog]巴赫拉为了减少来自「艾利」居民们集体活动的危险性...
 #14943	[!Sentence][!Dialog]레이는 심사관의 말에 따라 성명란에 자신의 이름을 써 넣는다.	[!Sentence][!Dialog]雷伊依照审查官的话，将自己的名字填在了姓名栏。
 #14944	[!Sentence][!Title]새로운 보금자리	[!Sentence][!Title]新的乐园
 #14945	[!Sentence][!Dialog][!speaker:Ray_Normal]네 딸 녀석한테나 그런 소리 해보지? 변태 자식!	[!Sentence][!Dialog][!speaker:Ray_Normal]你怎么不跟你的女儿说那种话？变态！
 #14946	[!Sentence][!Dialog]세월이 지나도 지워지거나 덧칠되는 경우가 적었다.	[!Sentence][!Dialog]就算经过了长久的岁月也不会消失或掉漆。
 #14947	[!Sentence][!Dialog][!speaker:ChaosBrush_RedBrush_Normal_Unmasked]레이. 난 클레어! 그런데 이 그림 멋지다!	[!Sentence][!Dialog][!speaker:ChaosBrush_RedBrush_Normal_Unmasked]雷伊，我是克雷尔！这幅画好棒！
 #14948	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]네 녀석처럼 반항적인 녀석들은 발할라서 못 살아간다.	像你这样叛逆的家伙在巴赫拉很难生存下去。
-#14949	[!Sentence][!Dialog][!speaker:Civil_Girl_Normal]『앨리』사람들은 배고프면 정말 사람을 잡아 먹나요?	[!Sentence][!Dialog][!speaker:Civil_Girl_Normal]在「艾丽」时，如果饿了真的会吃人吗？
+#14949	[!Sentence][!Dialog][!speaker:Civil_Girl_Normal]『앨리』사람들은 배고프면 정말 사람을 잡아 먹나요?	[!Sentence][!Dialog][!speaker:Civil_Girl_Normal]在「艾利」时，如果饿了真的会吃人吗？
 #14950	[!Sentence][!Dialog]레이의 낙서를 재밌게 본 세 친구들은 레이와 래커를 들고 밤 거리를 돌아다녔다.	[!Sentence][!Dialog]觉得雷伊的涂鸦有趣的三人，与雷伊一同带着喷漆在夜里转悠。
 #14951	[!Sentence][!Dialog][!speaker:Ray_Serious]하아...	[!Sentence][!Dialog][!speaker:Ray_Serious]呼...
 #14952	[!Sentence][!Dialog]레이와 친구들은 그저 자신들의 감정을 표출할 수 있으면 좋았고...	[!Sentence][!Dialog]雷伊与伙伴们觉得，只要能表达自己的情绪就好...
 #14953	[!Sentence][!Dialog]심사관 앞에서 일어나려는 레이. 심사관은 그런 레이를 보고 들으라듯이 한마디 한다.	[!Sentence][!Dialog]准备在审查官面前起身的雷伊。审查官嘀咕了一句话，似乎是故意说给雷伊听的。
 #14954	[!Sentence][!Dialog][!speaker:Ray_Smile]예전에 그렸던 것 마음에 들지 않는 것 위에 다시 그릴까?	[!Sentence][!Dialog][!speaker:Ray_Smile]在之前不满意的作品上重新画怎么样？
-#14955	[!Sentence][!Dialog]『앨리』이주민들을 시민들에 의해 가난하며 배우지 못한 나쁜 자가 되어야 했다.	[!Sentence][!Dialog]「艾丽」的移民们因为本地市民，只能成为贫穷，无知的坏人。
+#14955	[!Sentence][!Dialog]『앨리』이주민들을 시민들에 의해 가난하며 배우지 못한 나쁜 자가 되어야 했다.	[!Sentence][!Dialog]「艾利」的移民们因为本地市民，只能成为贫穷，无知的坏人。
 #14956	[!Sentence][!Dialog]레이는 심사관의 재촉에 펜을 들고 마지막 남은 성란을 채워나갔다.	[!Sentence][!Dialog]雷伊在审查官的催促下提起笔，填上了最后的姓栏。
 #14957	[!Sentence][!Dialog]그 날 마침 레이의 가방에는...	[!Sentence][!Dialog]那天正好雷伊的包中...
 #14958	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]하. 고놈 참 당돌하네.	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]呼。真是冒昧的家伙。
-#14959	[!Sentence][!Dialog]『앨리』와 인접한 발할라 지구로 이주민을 분산시켜 수용하기로 결정한다.	[!Sentence][!Dialog]决定将「艾丽」的移民分散收容到巴赫拉地区。
+#14959	[!Sentence][!Dialog]『앨리』와 인접한 발할라 지구로 이주민을 분산시켜 수용하기로 결정한다.	[!Sentence][!Dialog]决定将「艾利」的移民分散收容到巴赫拉地区。
 #14960	[!Sentence][!Dialog][!speaker:Ray_Serious]생판 모르는 너희들을 내가 어떻게 믿지?	[!Sentence][!Dialog][!speaker:Ray_Serious]我怎么相信你们这些陌生人？
 #14961	[!Sentence][!Dialog]늘어지는 심사 행렬에 짜증이 난 입국 심사관의 고압적인 말투.	[!Sentence][!Dialog]因不断变长的审查行列，入境审查官的语气变得有些不耐烦。
-#14962	[!Sentence][!Dialog]강제 이주하면서 모두 뿔뿔히 흩어진『앨리』의 친구들.	[!Sentence][!Dialog]在强制移民的过程中纷纷散开的「艾丽」伙伴。
+#14962	[!Sentence][!Dialog]강제 이주하면서 모두 뿔뿔히 흩어진『앨리』의 친구들.	[!Sentence][!Dialog]在强制移民的过程中纷纷散开的「艾利」伙伴。
 #14963	[!Sentence][!Dialog][!speaker:Interviewer_EmploymentAgency_]일하겠다고?	[!Sentence][!Dialog][!speaker:Interviewer_EmploymentAgency_]想要工作？
 #14964	[!Sentence][!Dialog]언론에서는 정부의 무능을 대표하는 사례로 연일 보도되었다.	但媒体却把原因都归结在无能的政府身上而连续报道。
 #14965	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]이 문서가 너의 발할라 생활의 시작이야.	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]这份文档是你在巴赫拉新生活的开始。
-#14966	[!Sentence][!Dialog]『앨리』의 아이들에게 부모란 어느새 사라지고 없는 존재.	[!Sentence][!Dialog]对于「艾丽」的孩子们，父母已经不存在了。
-#14967	[!Sentence][!Dialog]발할라 시민들에겐 『앨리』는 가득이나 불안한 치안을 더 엉망으로 만들 존재였으며...	对于巴赫拉市民来说，「艾丽」是将本就不稳定的治安变得更加恶化的存在...
+#14966	[!Sentence][!Dialog]『앨리』의 아이들에게 부모란 어느새 사라지고 없는 존재.	[!Sentence][!Dialog]对于「艾利」的孩子们，父母已经不存在了。
+#14967	[!Sentence][!Dialog]발할라 시민들에겐 『앨리』는 가득이나 불안한 치안을 더 엉망으로 만들 존재였으며...	对于巴赫拉市民来说，「艾利」是将本就不稳定的治安变得更加恶化的存在...
 #14968	[!Sentence][!Dialog]하지만 『카오스 브러시』와 세 친구와 함께하는 시간이 있었기에...	因为有了「混沌刷」与三个伙伴一起相处的时间...
 #14969	[!Sentence][!Dialog]대부분의 그래피티 라이터들은 발할라의 예술가답게 그래피티의 예술화를 통한 금전적 이득을 목표로 하거나...	[!Sentence][!Dialog]大部分的涂鸦者像个称职的巴赫拉艺术家一样，以金钱为目的将涂鸦艺术化，或...
-#14970	[!Sentence][!Dialog][!speaker:Interviewers_FastFoodManager_Normal]솔직하게 말해서 앨리 출신은 손님들이 싫어해.	说实话，客人都不喜欢艾丽出身的人。
+#14970	[!Sentence][!Dialog][!speaker:Interviewers_FastFoodManager_Normal]솔직하게 말해서 앨리 출신은 손님들이 싫어해.	说实话，客人都不喜欢艾利出身的人。
 #14971	[!Sentence][!Dialog][!speaker:Interviewer_EmploymentAgency_]이게 오냐 오냐 하니까!	你别给鼻子上脸！
 #14972	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal_Unmasked]그래. 팀 이름은 정했어?	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal_Unmasked]嗯，团队的名字起好了吗？
 #14973	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal_Unmasked]그렇게 경계하지 않아도 돼.	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal_Unmasked]不用那么紧张，放松些。
-#14974	[!Sentence][!Dialog][!speaker:NewsCaster_]어제 새벽,『앨리』출신의 이주민들이 무단으로 지구 이탈을 시도하다 검거되었습니다.	[!Sentence][!Dialog][!speaker:NewsCaster_]昨天凌晨，「艾丽」出身的移民，在非法离境的过程中被逮捕。
+#14974	[!Sentence][!Dialog][!speaker:NewsCaster_]어제 새벽,『앨리』출신의 이주민들이 무단으로 지구 이탈을 시도하다 검거되었습니다.	[!Sentence][!Dialog][!speaker:NewsCaster_]昨天凌晨，「艾利」出身的移民，在非法离境的过程中被逮捕。
 #14975	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal_Unmasked]그래. 알았어. 네가 그렇게 원한다면 당연히 그래야지.	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal_Unmasked]好的，知道了。就按你的想法来吧。
 #14976	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]걱정?	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]担心？
 #14977	[!Sentence][!Dialog][!speaker:Carter_Normal]지나가는 길에 들렀다.	[!Sentence][!Dialog][!speaker:Carter_Normal]正巧路过。
-#14978	[!Sentence][!Dialog][!speaker:EmptySubTitle_]3년 전, 발할라는 빈민가『앨리』를 강제 합병한다.	[!Sentence][!Dialog][!speaker:EmptySubTitle_]3年前，巴赫拉将贫民窟「艾丽」强制吞并了。
+#14978	[!Sentence][!Dialog][!speaker:EmptySubTitle_]3년 전, 발할라는 빈민가『앨리』를 강제 합병한다.	[!Sentence][!Dialog][!speaker:EmptySubTitle_]3年前，巴赫拉将贫民窟「艾利」强制吞并了。
 #14979	[!Sentence][!Dialog][!speaker:Carter_Normal]잘 지내는 거 봤으니 됐다.	[!Sentence][!Dialog][!speaker:Carter_Normal]看到你平安无事就够了。
 #14980	[!Sentence][!Dialog][!speaker:ChaosBrush_GreenBrush_Normal_Unmasked]분은 풀렸어?	[!Sentence][!Dialog][!speaker:ChaosBrush_GreenBrush_Normal_Unmasked]消气了吗？
 #14981	[!Sentence][!Dialog][!speaker:Ray_Serious]아니.	[!Sentence][!Dialog][!speaker:Ray_Serious]没有。
 #14982	[!Sentence][!Dialog][!speaker:Carter_Normal]레이. 오랜만이다.	雷伊。好久不见了。
 #14983	[!Sentence][!Dialog]낮에 일했던 도색 작업 과정에서 남은 래커가 있었고...	[!Sentence][!Dialog]白天涂鸦的过程中有剩余的喷漆...
 #14985	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]그럼 부모 이름이라도 적어야지.	那就写上父母的名字吧。
-#14986	[!Sentence][!Dialog][!speaker:EmptySubTitle_]강제 합병에 따라『앨리』의 주민들은 발할라로 이주할 기회가 주어졌고...	[!Sentence][!Dialog][!speaker:EmptySubTitle_]因强制吞并「艾丽」的居民获得了移居巴赫拉的机会...
+#14986	[!Sentence][!Dialog][!speaker:EmptySubTitle_]강제 합병에 따라『앨리』의 주민들은 발할라로 이주할 기회가 주어졌고...	[!Sentence][!Dialog][!speaker:EmptySubTitle_]因强制吞并「艾利」的居民获得了移居巴赫拉的机会...
 #14987	[!Sentence][!Dialog]그렇게 카오스 브러시의 작품은 거리 곳곳에 보이게 되었고...	就这样混沌刷的作品在街头变得随处可见...
 #14988	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal_Unmasked]그럼 지금부터 알아가면 되겠네.	[!Sentence][!Dialog][!speaker:ChaosBrush_WhiteBrush_Normal_Unmasked]那么现在开始相互了解就行了吧。
 #14989	[!Sentence][!Dialog][!speaker:ChaosBrush_GreenBrush_Normal_Unmasked]레이. 여기 작업 끝나면 이제 더 작업할만한 곳이 없어.	[!Sentence][!Dialog][!speaker:ChaosBrush_GreenBrush_Normal_Unmasked]雷伊，这里的工作完成后就没有可以再涂鸦的地方了。
@@ -6696,7 +6696,7 @@
 #15006	[!Sentence][!Dialog]하지만 『카오스 브러시』는 달랐다.	但「混沌刷」是不同的。
 #15007	[!Sentence][!Dialog][!speaker:Ray_Smile]어머. 내가 그런 이미지야?	[!Sentence][!Dialog][!speaker:Ray_Smile]天啊。对我的印象是那样的吗？
 #15008	[!Sentence][!Dialog][!speaker:Interviewer_RestaurantManager_Normal]미안합니다.	[!Sentence][!Dialog][!speaker:Interviewer_RestaurantManager_Normal]对不起。
-#15009	[!Sentence][!Dialog][!speaker:Interviewer_EmploymentAgency_]그 쪽 사람들은『앨리』출신이라도 상관없을거야.	对于那边的人，就算是「艾丽」出身也没有关系。
+#15009	[!Sentence][!Dialog][!speaker:Interviewer_EmploymentAgency_]그 쪽 사람들은『앨리』출신이라도 상관없을거야.	对于那边的人，就算是「艾利」出身也没有关系。
 #15010	[!Sentence][!Dialog]또는 자신들이 가지는 저항 정신을 사람들에게 알리기 위해 정부 기관이나 주인이 있는 건물에 무단으로 자신들의 작품을 남기곤 했다.	[!Sentence][!Dialog]或者为了向人们表达自己叛逆的精神，在政府机关或有主人的建筑物上非法留下自己的作品。
 #15011	[!Sentence][!Dialog]카터는 쓴웃음을 지을 뿐 아무런 대답도 하지 않았다.	[!Sentence][!Dialog]卡特苦笑着，没有说任何话。
 #15012	[!Sentence][!Dialog][!speaker:ChaosBrush_RedBrush_Normal_Unmasked]오! 그러면 또 한참 그리겠네. 나 전에 그린 도깨비 더 멋지게 그릴거야!	噢！那样的话又可以接着画了。我要把我之前的鬼怪画的更棒！
@@ -6717,12 +6717,12 @@
 #15027	[!Sentence][!Title]발할라 이주 2년	[!Sentence][!Title]移居巴赫拉2年
 #15028	[!Sentence][!Title]발할라 이주 6개월	[!Sentence][!Title]移居巴赫拉6个月
 #15029	[!Sentence][!Dialog][!speaker:Interviewer_EmploymentAgency_]넌 얼굴도 반반한데...	你的脸长得不错嘛...
-#15030	[!Sentence][!Dialog]이주 초반 적지 않은 수의 『앨리』출신의 빈민들이 발할라에 적응하지 못하고 사건을 일으켰다.	[!Sentence][!Dialog]移居初期，「艾丽」出身的不少贫民，因没法适应巴赫拉而搞出事端。
+#15030	[!Sentence][!Dialog]이주 초반 적지 않은 수의 『앨리』출신의 빈민들이 발할라에 적응하지 못하고 사건을 일으켰다.	[!Sentence][!Dialog]移居初期，「艾利」出身的不少贫民，因没法适应巴赫拉而搞出事端。
 #15031	[!Sentence][!Dialog][!speaker:Ray_Serious]그 말이 아니잖아! 어떻게 여길 온 거야!	那不是我想听的！你是怎么来这的！
 #15032	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]뭐해. 빨리 적지 않고!	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]在做什么，还不快填！
 #15033	[!Sentence][!Dialog]그 사건 수는 발할라에서 일어나는 사건 수에 비하면 매우 적은 수였지만...	[!Sentence][!Dialog]虽然事件数量比起在巴赫拉发生的事件数量算是极少的...
 #15034	[!Sentence][!Dialog]배우 레이, 디자이너 레이, 선생님 레이, 간호사 레이...	[!Sentence][!Dialog]演员雷伊，设计师雷伊，教师雷伊，护士雷伊...
-#15035	[!Sentence][!Dialog][!speaker:EmptySubTitle_]가난과 폭력에 지친 『앨리』의 주민들은 새로운 삶에 도전하게 된다.	[!Sentence][!Dialog][!speaker:EmptySubTitle_]厌倦贫穷与暴力的「艾丽」居民们，开始向新的生活发起了挑战。
+#15035	[!Sentence][!Dialog][!speaker:EmptySubTitle_]가난과 폭력에 지친 『앨리』의 주민들은 새로운 삶에 도전하게 된다.	[!Sentence][!Dialog][!speaker:EmptySubTitle_]厌倦贫穷与暴力的「艾利」居民们，开始向新的生活发起了挑战。
 #15036	[!Sentence][!Dialog]함께한 아이들은 자신들의 공동 작업을 보면서 또 하루를 힘내 살아갈 힘을 얻었다.	[!Sentence][!Dialog]孩子们看着自己的作品，从中获得了挑战明天的力量。
 #15037	[!Sentence][!Title]3년 전 국경 검문소	[!Sentence][!Title]3年前国境检查站
 #15038	[!Sentence][!Dialog][!speaker:Interviewer_EmploymentAgency_]너! 내일부터 일 없으니까 나오지마!	[!Sentence][!Dialog][!speaker:Interviewer_EmploymentAgency_]你！明天开始没有工作，不要来了！
@@ -7226,17 +7226,17 @@
 #15605	[!Sentence][!Dialog][!speaker:Kylie_Smile]그 잉어란 단어 정말 듣기 거북하네.	[!Sentence][!Dialog][!speaker:Kylie_Smile]鲤鱼这个词怎么这么难听呢。
 #15606	[!Sentence][!Dialog][!speaker:Marco_Normal]너 정말 무뎌졌구나. 예전같지 않아.	[!Sentence][!Dialog][!speaker:Marco_Normal]你现在钝了不少呢。不像以前了。
 #15607	[!Sentence][!Dialog][!speaker:Taesoo_Smile]원래 어르신 귀에 들어가면 싸그리 다 죽었을 녀석들입니다.	[!Sentence][!Dialog][!speaker:Taesoo_Smile]这件事如果传到大人那里这些家伙们直接就死翘翘了的。
-#15608	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]그리고 자네. 여기는 『 앨리 』와 다르다네. 엄연히 지켜야 할 법이 있네.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]说说你吧。这里可是和「艾丽」大不相同。这里有需要严格遵守的法律法规存在。
+#15608	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]그리고 자네. 여기는 『 앨리 』와 다르다네. 엄연히 지켜야 할 법이 있네.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]说说你吧。这里可是和「艾利」大不相同。这里有需要严格遵守的法律法规存在。
 #15609	[!Sentence][!Dialog][!speaker:Giselle_Smile2]빗나가게 쏜 거야.	[!Sentence][!Dialog][!speaker:Giselle_Smile2]我故意打歪的啦。
 #15610	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]오랜만에 만났는데 날 즐겁게 해 줘야지. 알버스.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]好久不见了呢，让我开心一下吧。阿尔伯斯。
-#15611	[!Sentence][!Dialog][!speaker:Ray_Normal]왜 나만 그러는거야? 『 앨리 』라서?	[!Sentence][!Dialog][!speaker:Ray_Normal]为什么针对我？就因为我是「艾丽」的？
+#15611	[!Sentence][!Dialog][!speaker:Ray_Normal]왜 나만 그러는거야? 『 앨리 』라서?	[!Sentence][!Dialog][!speaker:Ray_Normal]为什么针对我？就因为我是「艾利」的？
 #15612	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]인근 주민들이 소음으로 신고했네.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]附近的居民们告你扰民。
 #15613	[!Sentence][!Dialog][!speaker:Kylie_Smile]『 구룡회 』같은 오랜 전통의 조직에서 태어난 자들은...	[!Sentence][!Dialog][!speaker:Kylie_Smile]在「九龙会」这种古老的传统帮会中出生的人是...
 #15614	[!Sentence][!Dialog][!speaker:Kylie_Smile]그래. 오랜 전통대로『 구룡회 』를 이끌 단 한명을 뽑는 과정이지.	[!Sentence][!Dialog][!speaker:Kylie_Smile]好吧。就是按照古老的传统，选出一名可以领导「九龙会」的人的过程啦。
 #15615	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal]페페씨. 당신이 맞기 전에 이주민 버스 안에서 저 여성분에게 한 짓이 CCTV 영상 기록으로 다 남아 있습니다.	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal]佩佩。在你做出活该挨揍的行径之前，在移居民客车内对这位女士做的事情已经留在了车内监控里了。
 #15616	[!Sentence][!Dialog][!speaker:Marco_Normal]지금이라도 못 본 척하고 돌아가. 서로 일 크게 만들지 말자.	[!Sentence][!Dialog][!speaker:Marco_Normal]现在也可以，你就当什么都没看见，快走吧。别把事情弄得再大条了。
 #15617	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]알겠습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]明白了。
-#15619	[!Sentence][!BalloonChat][!speaker:Issac]카터 앨리. 네 친구지?	[!Sentence][!BalloonChat][!speaker:Albus_Normal]卡特・艾丽。你的朋友，对吧？
+#15619	[!Sentence][!BalloonChat][!speaker:Issac]카터 앨리. 네 친구지?	[!Sentence][!BalloonChat][!speaker:Albus_Normal]卡特・艾利。你的朋友，对吧？
 #15620	[!Sentence][!Dialog][!speaker:Luna_Annoying]안돼. 마르코. 약속했잖아.	[!Sentence][!Dialog][!speaker:Luna_Annoying]别。马尔科。我们说好了的。
 #15622	[!Sentence][!Dialog][!speaker:Taesoo_Normal]아가씨! 이건 조직의 일입니다!	[!Sentence][!Dialog][!speaker:Taesoo_Normal]小姐！这是帮会里的事情！
 #15623	[!Sentence][!Dialog][!speaker:Ray_Serious]적어도 대화를 하고 싶다면 지금 그 말은 최악이야.	[!Sentence][!Dialog][!speaker:Ray_Serious]至少你现在有求于我，这时就不要哪壶不开提哪壶好吗。
@@ -7276,7 +7276,7 @@
 #15660	[!Sentence][!Dialog][!speaker:Luna_Annoying]마르코. 제발... 그 아이와 관련된 사람들은 가만히 놔둬.	[!Sentence][!Dialog][!speaker:Luna_Annoying]马尔科。求你了...和那孩子有关的人，就不要动。
 #15661	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]그러니 요즘 핫하다는 바람 장벽지구로 이주 신청한거지.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]所以申请移居到最近炒得很火的风之壁地区了。
 #15662	[!Sentence][!Dialog][!speaker:Kylie_Smile]절대 주인이 생길 수 없다고 생각했던 『 고난의 성채 』.	[!Sentence][!Dialog][!speaker:Kylie_Smile]从没想过会出现主人的「苦难城寨」。
-#15663	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]『 앨리 』 난민들이 수년간 우리 몰래 밀무역을 하고 있었습니다.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]「艾丽」的难民们这些年来背着我们做些走私活动。
+#15663	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]『 앨리 』 난민들이 수년간 우리 몰래 밀무역을 하고 있었습니다.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]「艾利」的难民们这些年来背着我们做些走私活动。
 #15664	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]당연하지. 너같은 재밌는 녀석을 두고 어떻게 그냥 지나가니~	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]那当然了。放着这么一个有趣的你，我怎能就这么路过呢～
 #15665	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Smile]아 그리고 이제는 경감이 아니니 아이작이라고 부르게나.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Smile]哦对了我现在不是警监了，所以就叫我艾萨克吧。
 #15666	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]저 아이는 난민들에게 더 이상 밀수를 하지 말라는 경고로  잡아오셨습니다.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]这孩子就是警告难民们别再走私而抓来的典型啊。
@@ -7287,14 +7287,14 @@
 #15672	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]알버스. 너 많이 성장했구나. 제법인데?	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]阿尔伯斯。你成长了不少呢。真有你的啊！
 #15673	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]그래. 다음 임무때도 잘 부탁한다.	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]好吧。下次任务也拜托你了。
 #15674	[!Sentence][!Dialog][!speaker:Irene_Fury]악당 녀석... 	[!Sentence][!Dialog][!speaker:Irene_Fury]坏蛋...
-#15675	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]『 앨리 』출신에 대한 발할라 시민들의 차별...	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]市民们对「艾丽」出身的人的歧视...
+#15675	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]『 앨리 』출신에 대한 발할라 시민들의 차별...	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]市民们对「艾利」出身的人的歧视...
 #15676	[!Sentence][!Dialog][!speaker:Joel_Costume_Smile]반년마다 오시네요.	[!Sentence][!Dialog][!speaker:Joel_Costume_Smile]您是半年来报到一次呢。
 #15677	[!Sentence][!Dialog][!speaker:Taesoo_Smile]언제 돌아오신 겁니까! 오신다면 마중나갔을 텐데 말입니다.	[!Sentence][!Dialog][!speaker:Taesoo_Smile]您什么时候来的啊！知会一声我就去接您啦。
 #15678	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal]경감님. 큰 문제도 아니고 실수인 것 같은데 돌려보내는 게...	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal]警监大人。这也不是什么大问题，看来只是个小失误而已嘛，就这么退回去好了...
 #15680	[!Sentence][!Dialog][!speaker:Giselle_Annoying]자. 그럼 성장한 모습을 보여달라고~	[!Sentence][!Dialog][!speaker:Giselle_Annoying]来嘛。就让我见识下你的成长吧～
 #15681	[!Sentence][!VictoryCondition]카일리의 드론을 모두 제압하시오.	[!Sentence][!VictoryCondition]请镇压所有凯莉的无人机。
 #15682	[!Sentence][!Dialog][!speaker:Heissing_Smile]도움이 되었다니 다행이군.	[!Sentence][!Dialog][!speaker:Heissing_Smile]能帮上忙就还好了。
-#15683	[!Sentence][!Dialog][!speaker:Ray_Serious]또 내가 『 앨리 』출신이라서? 그림에 부정탄대?	[!Sentence][!Dialog][!speaker:Ray_Serious]又是因为我是「艾丽」出身？所以画出来的东西能让人中邪？
+#15683	[!Sentence][!Dialog][!speaker:Ray_Serious]또 내가 『 앨리 』출신이라서? 그림에 부정탄대?	[!Sentence][!Dialog][!speaker:Ray_Serious]又是因为我是「艾利」出身？所以画出来的东西能让人中邪？
 #15684	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]이미 신고된 사건이고 증거가 있어 그냥 내보낼 순 없네.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]这案子已经立案了，且有证据存在，所以不能就这么算了。
 #15686	[!Sentence][!Dialog][!speaker:Heissing_Smile]나 역시 지금은 $CompanyName$의 헤이싱일뿐이다.	[!Sentence][!Dialog][!speaker:Heissing_Smile]我现在也只是$CompanyName$的黑星。
 #15687	[!Sentence][!Dialog][!speaker:Ray_Serious]신경 끄고 네 일이나 잘해.	[!Sentence][!Dialog][!speaker:Ray_Serious]少管闲事做好你自己的事吧。
@@ -7307,7 +7307,7 @@
 #15695	[!Sentence][!Title]3년 전, 발할라 경찰청 유치장	[!Sentence][!Title]3年前，巴赫拉警察厅拘留所
 #15696	[!Sentence][!Dialog][!speaker:Ray_Serious]뭐? 저 녀석은? 발할라는 저런 녀석의 행동이 허용되는 거야?	[!Sentence][!Dialog][!speaker:Ray_Serious]什么？那家伙呢？在巴赫拉这种行为竟然是被允许的吗？
 #15697	[!Sentence][!Title]고성방가	[!Sentence][!Title]大声喧哗
-#15698	[!Sentence][!BalloonChat][!speaker:Issac]레이 앨리.	[!Sentence][!BalloonChat][!speaker:Albus_Normal]雷伊・艾丽。
+#15698	[!Sentence][!BalloonChat][!speaker:Issac]레이 앨리.	[!Sentence][!BalloonChat][!speaker:Albus_Normal]雷伊・艾利。
 #15699	[!Sentence][!Dialog][!speaker:Ray_Normal]원래 도색용 래커 남는 것은 작업 가방에 두고 다음 날 사용했어.	[!Sentence][!Dialog][!speaker:Ray_Normal]之前也会有涂色漆有剩余的就放在工作包里，然后留到第二天继续使用的。
 #15700	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal]당신의 작업 가방에서 공사장에 사용되어야 할 래커들이 나왔습니다.	[!Sentence][!Dialog][!speaker:Joel_Costume_Normal]从你的工作包里搜出了理应用在工地上的涂料漆。
 #15701	[!Sentence][!Dialog][!speaker:Heissing_Normal_Young]우린 살기 위해 한 거야!	[!Sentence][!Dialog][!speaker:Heissing_Normal_Young]我们也是为了活命才走私的！
@@ -7340,8 +7340,8 @@
 #15730	[!Sentence][!Dialog][!speaker:Taesoo_Normal]이 녀석은 『 고난의 성채 』에 갈 녀석입니다. 아가씨라도 그것을 바꿀 수는 없습니다!	[!Sentence][!Dialog][!speaker:Taesoo_Normal]这家伙是要去「苦难城寨」的。小姐，就算是您也不能改变这一点。
 #15731	[!Sentence][!Dialog][!speaker:Kylie_Smile]아니야. 충분해.	[!Sentence][!Dialog][!speaker:Kylie_Smile]不。够了。
 #15732	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]한번 들어가면 살아서는 나올 수 없다던 『 고난의 성채 』.	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]一旦进入就不能出来的「苦难城寨」。
-#15733	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]타이수님이 본보기로 잡아온 『 앨리 』의 아이입니다.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]这是太秀大人当做典型抓回来的「艾丽」的孩子啊。
-#15734	[!Sentence][!Dialog][!speaker:Kylie_Smile]『 고난의 성채 』의 『 특사 』. 헤이싱 앨리.	[!Sentence][!Dialog][!speaker:Kylie_Smile]「苦难城寨」的「特使」。黑星・艾丽。
+#15733	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]타이수님이 본보기로 잡아온 『 앨리 』의 아이입니다.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]这是太秀大人当做典型抓回来的「艾利」的孩子啊。
+#15734	[!Sentence][!Dialog][!speaker:Kylie_Smile]『 고난의 성채 』의 『 특사 』. 헤이싱 앨리.	[!Sentence][!Dialog][!speaker:Kylie_Smile]「苦难城寨」的「特使」。黑星・艾利。
 #15735	[!Sentence][!BalloonChat][!speaker:Issac]레이!!	[!Sentence][!BalloonChat][!speaker:ChaosBrush_WhiteBrush_Normal]雷伊！！
 #15738	[!Sentence][!Dialog][!speaker:Giselle_Smile2]알버스. 많이 변했네~ 소리도 지를 줄 알고?	[!Sentence][!Dialog][!speaker:Giselle_Smile2]阿尔伯斯。你变了好多呢～都会叫喊啦？
 #15739	[!Sentence][!Dialog]레이는 정말 다양한 이유로 경찰 유치장을 꾸준히 들락거렸다.	[!Sentence][!Dialog]雷伊真的是因为各种各样的理由，频繁出入于拘留所。
@@ -7349,7 +7349,7 @@
 #15741	[!Sentence][!Dialog][!speaker:Heissing_Smile]그렇군... 	[!Sentence][!Dialog][!speaker:Heissing_Smile]原来如此...
 #15742	[!Sentence][!Dialog][!speaker:Issac_Normal]레이. 미안하네.	[!Sentence][!Dialog][!speaker:Issac_Normal]雷伊。对不住了。
 #15743	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]가시죠. 아가씨. 어르신이 기다리십니다.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]我们走吧。小姐。大人还在等您呢。
-#15744	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]헤이싱 앨리.	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]黑星・艾丽。
+#15744	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]헤이싱 앨리.	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]黑星・艾利。
 #15745	[!Sentence][!Dialog]대부분 경범죄였기에 벌금형이나 훈방조치 되었지만 가끔은 유치장 신세를 져야했다.	[!Sentence][!Dialog]大多数是属于轻犯罪，所以罚款或教育后释放了事，但也偶尔需要拘留个几日的。
 #15746	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]아니 저녀석이 나를 때렸다니까! 그건 공무집행 방해라고!	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]我都说了这家伙她打我了啊！这就是妨碍公务罪！
 #15747	[!Sentence][!Dialog][!speaker:Kylie_Smile]언제까지 모르는 척할 건가?	[!Sentence][!Dialog][!speaker:Kylie_Smile]还要继续装作不认识吗？
@@ -7370,7 +7370,7 @@
 #15763	[!Sentence][!Dialog][!speaker:Ray_Surprise]같은 마음? 당신 같은 사람이 우리와 같은 마음?	[!Sentence][!Dialog][!speaker:Ray_Surprise]一样的心情？就你这种人还和我们有一样的心情？
 #15764	[!Sentence][!Dialog][!speaker:Irene_Rage]안돼!! 그 아이를 놔줘!!	[!Sentence][!Dialog][!speaker:Irene_Rage]不！！放下那孩子！！
 #15765	[!Sentence][!Title]4년 전, 동방연합 	[!Sentence][!Title]4年前，东方联邦
-#15766	[!Sentence][!Dialog][!speaker:Joel_Costume_Smile]레이씨. 경감님은 『 앨리 』출신인 레이씨를 걱정해서 오시는 겁니다.	[!Sentence][!Dialog][!speaker:Joel_Costume_Smile]雷伊。警监大人是担心「艾丽」出身的你才会过来关照下的。
+#15766	[!Sentence][!Dialog][!speaker:Joel_Costume_Smile]레이씨. 경감님은 『 앨리 』출신인 레이씨를 걱정해서 오시는 겁니다.	[!Sentence][!Dialog][!speaker:Joel_Costume_Smile]雷伊。警监大人是担心「艾利」出身的你才会过来关照下的。
 #15767	[!Sentence][!BalloonChat][!speaker:Ray]헤이싱 말만 믿고 여기에 있는게 옳은 걸까...	[!Sentence][!BalloonChat][!speaker:Albus_Normal]光凭黑星的话就留在这里是不是正确的呢...
 #15768	[!Sentence][!Dialog][!speaker:Heissing_Normal]너 답지 않은 복잡한 소리군.	[!Sentence][!Dialog][!speaker:Heissing_Normal]说这么复杂，都不像你本人了。
 #15769	[!Sentence][!Dialog][!speaker:Irene_Lonesome]제길...	[!Sentence][!Dialog][!speaker:Irene_Lonesome]该死的...
@@ -7393,7 +7393,7 @@
 #15789	[!Sentence][!Dialog][!speaker:Kylie_Normal]그래. 난 $CompanyName$의 아이들이 참 좋아. 혹시나 네 녀석하고 내 관계로 틀어지면 어쩌나 고민했지.	[!Sentence][!Dialog][!speaker:Kylie_Normal]行吧。我觉得$CompanyName$的孩子们都挺好的。我之前还担心因为你和我的过往，会影响到和他们的相处呢。
 #15790	[!Sentence][!Dialog][!speaker:Kylie_Smile2]안되겠다. 헤이싱. 후계자 후보로 고쳐 말해 줄래? 잉어가 뭐야.	[!Sentence][!Dialog][!speaker:Kylie_Smile2]这样不行。黑星。改成继承人候补吧？鲤鱼个大头鬼啊。
 #15791	[!Sentence][!Dialog][!speaker:Heissing_Normal]단순히 편한 휴가를 위해 가져온 특권일 뿐이다.	[!Sentence][!Dialog][!speaker:Heissing_Normal]这只是单纯为了便于请假而申请来的特权而已。
-#15792	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]아니! 아니! 당신은 지금 저 『 앨리 』녀석 편을 드는 거야?	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]哎！哎！你现在这是在包庇这个「艾丽」吗？
+#15792	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]아니! 아니! 당신은 지금 저 『 앨리 』녀석 편을 드는 거야?	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]哎！哎！你现在这是在包庇这个「艾利」吗？
 #15793	[!Sentence][!BalloonChat][!speaker:Ray]난 당신과 할 말이 없으니 시간 낭비 하지 말죠.	[!Sentence][!BalloonChat][!speaker:Albus_Normal]我和你无话可说，就不要浪费时间了吧。
 #15794	[!Sentence][!Dialog][!speaker:Kylie_Smile]난 엔지니어 카일리에 충실하고 싶다.	[!Sentence][!Dialog][!speaker:Kylie_Smile]我只想当好工程师凯莉。
 #15795	[!Sentence][!BalloonChat][!speaker:Irene]악당 녀석들...	[!Sentence][!BalloonChat][!speaker:Irene_Normal]坏蛋们...
@@ -7478,7 +7478,7 @@
 #15910	[!Sentence][!Dialog][!speaker:Albus_Normal]다들 궂은 날씨에 고생하셨습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]大家在这种天气都辛苦啦。
 #15911	[!Sentence][!Dialog][!speaker:Anne_Smile]네. 레이 언니.	[!Sentence][!Dialog][!speaker:Anne_Smile]是。雷伊姐。
 #15912	[!Sentence][!Dashboard:ObjectiveMarker]야수가 이곳으로 진입하면 미션이 실패합니다.	[!Sentence][!Dashboard:ObjectiveMarker]野兽进入此处任务判定为失败。
-#15913	[!Sentence][!Dialog][!speaker:Kylie_Serious_Young]『 앨리 』? 본보기?	[!Sentence][!Dialog][!speaker:Kylie_Serious_Young]「艾丽」？典型？
+#15913	[!Sentence][!Dialog][!speaker:Kylie_Serious_Young]『 앨리 』? 본보기?	[!Sentence][!Dialog][!speaker:Kylie_Serious_Young]「艾利」？典型？
 #15914	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Andrei_Normal]어쩔 수 없지.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Andrei_Normal]那没办法了。
 #15915	[!Sentence][!BalloonChat][!speaker:Heissing]초대 받지 않은 손님이군.	[!Sentence][!BalloonChat][!speaker:Heissing]真是个不速之客。
 #15916	[!Sentence][!BalloonChat][!speaker:Ray]여기는 내게 맡겨~☆	[!Sentence][!BalloonChat][!speaker:Ray]这里交给我吧～☆
@@ -7545,7 +7545,7 @@
 #15979	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]대장... 설마 우리 버림받은 건가?	队长...我们不会是被抛弃了吧？
 #15980	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]'결국 구경만 하겠다는 거군...'	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]（意思是眼睁睁地看着是吗...）
 #15981	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]현재 상황은 어떤가?	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]现在的情况如何？
-#15982	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]'그리고 앨리 녀석들... 이 수모. 꼭 갚아주마.'	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]（还有艾丽的家伙们...这份耻辱。我定会偿还给你们）
+#15982	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]'그리고 앨리 녀석들... 이 수모. 꼭 갚아주마.'	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]（还有艾利的家伙们...这份耻辱。我定会偿还给你们）
 #15983	[!Sentence][!Dialog][!speaker:Gangster_Jason_Normal]아니. 그게 그 녀석들이... 여긴 들어오기 복잡하다고...	不。那什么，那些家伙...不好进到这里的...
 #15984	[!Sentence][!Objective]적의 지휘관을 제압하시오.	[!Sentence][!Objective]请镇压敌人的指挥员。
 #15985	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]뭐가 복잡해? 그래서 안 온다는 말이냐?	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Scott_Normal]很难吗？所以说不来了是吗？
@@ -9340,7 +9340,7 @@
 #18382	[!Sentence][!Title]기억의 파편	[!Sentence][!Title]记忆的碎片
 #18384	[!Sentence][!Dialog][!speaker:Leton_Serious]카터. 	[!Sentence][!Dialog][!speaker:Leton_Serious]卡特。
 #18385	[!Sentence][!Dialog][!speaker:Irene_Surprise]저 후드는...	[!Sentence][!Dialog][!speaker:Irene_Surprise]那个兜帽是...
-#18386	[!Sentence][!Title]4년 전, 빈민가 앨리 외곽	[!Sentence][!Title]4年前，贫民街艾丽的郊区
+#18386	[!Sentence][!Title]4년 전, 빈민가 앨리 외곽	[!Sentence][!Title]4年前，贫民街艾利的郊区
 #18387	[!Sentence][!Dialog][!speaker:Leton_Serious]그 녀석은 몰라. 설령 안다 해도 이미 지난 일이다.	[!Sentence][!Dialog][!speaker:Leton_Serious]那小子不知道。即使知道了那都是过去的事啊。
 #18388	[!Sentence][!Dialog][!speaker:Albus_Surprise]소형 바이크론...	[!Sentence][!Dialog][!speaker:Albus_Surprise]小型拜克伦...
 #18389	[!Sentence][!Dialog][!speaker:Carter_Normal]음. 별 문제 없이.	[!Sentence][!Dialog][!speaker:Carter_Normal]嗯。没什么问题。
@@ -9355,7 +9355,7 @@
 #18398	[!Sentence][!Dialog][!speaker:Leton_Smile_Young]『 고난의 성채 』. 두 번 다시 돌아올 수 없다면 내가 가는 게 맞아.	[!Sentence][!Dialog][!speaker:Leton_Smile_Young]「苦难城寨」。如果不能活着回来的话那应该让我去。
 #18399	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]우리는 소형 바이크론을 회수할 분대가 도착하면 복귀하겠네.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]回收小型拜克伦的部队到达的话我们就回归了。
 #18400	[!Sentence][!Dialog][!speaker:Leton_Normal_Young]지금은 힘든 시기야. 불필요한 사람이 가는 것이 맞아.	[!Sentence][!Dialog][!speaker:Leton_Normal_Young]现在是艰难的时刻啊。没用的人去是正确的。
-#18401	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]역시 아이작 말대로 『 앨리 』녀석들이...	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]正如同艾萨克所说的「艾丽」的家伙们...
+#18401	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]역시 아이작 말대로 『 앨리 』녀석들이...	[!Sentence][!Dialog][!speaker:VHPD_Jane_Angry]正如同艾萨克所说的「艾利」的家伙们...
 #18402	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]가장 필요 없는 사람...	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]没用的人啊...
 #18403	[!Sentence][!Subtitle][!speaker:Gangster_SmugglerThin_Normal]알겠습니다!	[!Sentence][!Dialog][!speaker:Roberto_Smile]明白了！
 #18404	[!Sentence][!Dialog][!speaker:Leton_Smile]카터. 헤이싱이다.	[!Sentence][!Dialog][!speaker:Leton_Smile]卡特。是黑星啊。
@@ -9740,7 +9740,7 @@
 #18875	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]대부분의 범죄전문가들은 『 흑호 코퍼레이션 』의 트러블슈터 전환 가능성을 부정적으로 보고 있으며, 사회 치안 시스템에 대한 조롱이라고 격분하고 있습니다.	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]大部分的犯罪专家们「黑虎集团」转换为正式纷争终结者公司的可能性持否定态度，认为这是对社会治安系统的嘲弄。
 #18876	[!Sentence][!Subtitle][!speaker:Issac_Normal]여러분! 과거는 중요하지 않습니다.	[!Sentence][!Subtitle][!speaker:Issac_Normal]大家！过去并不重要。
 #18877	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]여기서 많은 논란에 쌓여 있는『 흑호 코퍼레이션 』의 신임 대표 아이작 고든 씨의 인터뷰 현장을 연결해보겠습니다.	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal]下面就让我们连线一下有许多争论的「黑虎集团」新任代表艾萨克高登先生的采访现场。
-#18878	[!Sentence][!Dialog][!speaker:Civil_Oldman_Normal]하하! 그렇지. 우리 손녀 말 안들으면 『앨리』녀석들이 와서 잡아먹을거야.	[!Sentence][!Dialog][!speaker:Civil_Oldman_Normal]哈哈！没错。如果我们的孙女不听话，就会被「艾丽」的家伙们抓住吃掉的。
+#18878	[!Sentence][!Dialog][!speaker:Civil_Oldman_Normal]하하! 그렇지. 우리 손녀 말 안들으면 『앨리』녀석들이 와서 잡아먹을거야.	[!Sentence][!Dialog][!speaker:Civil_Oldman_Normal]哈哈！没错。如果我们的孙女不听话，就会被「艾利」的家伙们抓住吃掉的。
 #18879	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]저녀석들...정말 오랜만이군.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]那家伙们...真是好久没见了。
 #18880	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]그렇지 않으면 순식간에 조직원들의 불만이 조직을 좀 먹을테니까.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]否则，组织成员的不满就会爆发。
 #18881	[!Sentence][!Dialog][!speaker:Giselle_Normal]오랜만이야. 3년 만인가?	[!Sentence][!Dialog][!speaker:Giselle_Normal]好久不见。都3年了吧？
@@ -10052,7 +10052,7 @@
 #19221	[!Sentence][!Dialog][!speaker:Longchuan_Normal_Young2]선택에 실수라는 것은 존재하지 않습니다.	在选择的道路上，是不存在失误的。
 #19222	[!Sentence][!Dialog][!speaker:Aska_Normal]네가 이 구룡회의 보스가 되면.	在你成为九龙会的首领的时候。
 #19223	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]어차피 사용할 일 없는 옷입니다.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]反正是没用的衣服。
-#19224	[!Sentence][!Dialog]하지만 본가에서 만난『 앨리 』출신의 한 소년과의 만남은 카일리에게 변화를 가져왔다.	[!Sentence][!Dialog]但是在本家，见到了出身于「艾丽」的少年给凯莉带来了变化。
+#19224	[!Sentence][!Dialog]하지만 본가에서 만난『 앨리 』출신의 한 소년과의 만남은 카일리에게 변화를 가져왔다.	[!Sentence][!Dialog]但是在本家，见到了出身于「艾利」的少年给凯莉带来了变化。
 #19226	[!Sentence][!Title]카일리 11세, 백룡회 대청마루	[!Sentence][!Title]凯莉11岁，白龙会的大厅地板
 #19227	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]후회는 없어.	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]没有丝毫的后悔。
 #19228	[!Sentence][!Dialog][!speaker:Longchuan_Normal_Young3]아스카 님은 아가씨를 진심으로 사랑하십니다.	[!Sentence][!Dialog][!speaker:Longchuan_Normal_Young3]明日香大人是真心爱着小姐的。
@@ -10411,7 +10411,7 @@
 #19616	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]나암...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]罗岩...
 #19617	[!Sentence][!Subtitle][!speaker:Gangster_SpoonBat_Turk_Normal]걱정마. 그 전에 녀석들 두목을 처치하고 돌아가면 돼.	[!Sentence][!Subtitle][!speaker:Gangster_SpoonBat_Turk_Normal]别担心，在那之前把那帮人的头目处理掉再回去就行了。
 #19618	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]너의 전력을 다해『백호』의 긍지를 증명해 보여라.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]尽你全力证明「白虎」的尊严吧。
-#19619	[!Sentence][!Dialog]『앨리원더러』에서 『스틸헤드』가 결성되어...	[!Sentence][!Dialog]「艾丽文德乐」就自然改变成了「铁头」...
+#19619	[!Sentence][!Dialog]『앨리원더러』에서 『스틸헤드』가 결성되어...	[!Sentence][!Dialog]「艾利文德乐」就自然改变成了「铁头」...
 #19620	[!Sentence][!Dialog]제인이 바람장벽지구로 부임 받은 지 5년.	[!Sentence][!Dialog]珍派到风之壁地区已经5年了。
 #19621	[!Sentence][!Title]경찰 돌입 1시간 전	[!Sentence][!Title]警察突入1个小时前
 #19622	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Smile_Young2]그러게 말야.	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Smile_Young2]就是说啊。
@@ -10423,13 +10423,13 @@
 #19628	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]우리 언제까지 이렇게 살아야 하지?	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]我们要这样生活到什么时候？
 #19629	[!Sentence][!Dialog][!speaker:Patron_Girl_Normal]네! 너무 맛있어요!	[!Sentence][!Dialog][!speaker:Patron_Girl_Normal]是的！太好吃了！
 #19630	[!Sentence][!Title]2년 반 전, 붉은 광산 지구	[!Sentence][!Title]两年半前，红矿地区
-#19631	[!Sentence][!Dialog]『앨리』에 아이들의 모임 『앨리원더러』가 생기고...	[!Sentence][!Dialog]「艾丽」孩子们的集合「艾丽文德乐」的诞生...
+#19631	[!Sentence][!Dialog]『앨리』에 아이들의 모임 『앨리원더러』가 생기고...	[!Sentence][!Dialog]「艾利」孩子们的集合「艾利文德乐」的诞生...
 #19632	[!Sentence][!BalloonChat][!speaker:Turk]어디지! 적 두목은?	[!Sentence][!BalloonChat][!speaker:Turk]敌人的头儿在哪里呢！？
 #19634	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]안타깝게도 기동대가 지금 출동 중이지만 도착까지 30분 이상 걸릴거야.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]虽然现在机动队已经出动，但到达需要30多分钟以上。
 #19635	[!Sentence][!Dialog]하지만 터크와 나암은 자신의 새로운 삶의 터전인 가게를 팔 생각이 없었기에 정중히 거절하였고...	[!Sentence][!Dialog]但是因为图克和罗岩不想卖掉展开新生活的店铺，所以郑重地拒绝了...
 #19636	[!Sentence][!BalloonChat][!speaker:Naam]함정이다!! 다들 조심해!!	[!Sentence][!BalloonChat][!speaker:Naam]是陷阱！！都小心点！
 #19637	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Joshua_Normal]......알겠습니다. 보스.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_Joshua_Normal]...首领，明白了。
-#19638	[!Sentence][!Dialog]『앨리』출신이라는 이유로 거절당하거나 많은 차별을 받아야 했다.	[!Sentence][!Dialog]仅仅只是因为出身于「艾丽」，而被拒绝并受到了很多歧视。
+#19638	[!Sentence][!Dialog]『앨리』출신이라는 이유로 거절당하거나 많은 차별을 받아야 했다.	[!Sentence][!Dialog]仅仅只是因为出身于「艾利」，而被拒绝并受到了很多歧视。
 #19639	[!Sentence][!Title]2년 전, 붉은 광산 지구	[!Sentence][!Title]两年前，红矿地区
 #19640	[!Sentence][!Dialog]제인은 이전 복무지였던 발할라의 중심부인 오딘 지구의 경찰 병력 상황을 잘 알고 있었다.	[!Sentence][!Dialog]珍非常了解以前服役过的巴赫拉中心部奥丁地区的警察兵力情况。
 #19642	[!Sentence][!Dialog]그 5년 동안 기동대는 아이작 경감이 맡고 있었기에...	[!Sentence][!Dialog]那5年时间，机动队一直都是由艾萨克警官掌管...
@@ -10494,7 +10494,7 @@
 #19702	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]신분, 출신, 성별 등의 차별 없이 모두가 동지인 곳이라고 하더라...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]身份、出身、性别等根本没有歧视，说这里的人都是同志...
 #19703	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]다들 알겠나?	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]大家都明白了吗？
 #19704	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Smile2_Young2]그러게 말이다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Smile2_Young2]就是说啊...
-#19705	[!Sentence][!Dialog]그들이 태어나고 자랐던 『앨리』	[!Sentence][!Dialog]他们出生并生活的「艾丽」是...
+#19705	[!Sentence][!Dialog]그들이 태어나고 자랐던 『앨리』	[!Sentence][!Dialog]他们出生并生活的「艾利」是...
 #19706	[!Sentence][!Dialog][!speaker:VHPD_Jane_Smile]다들 아직 출근 전일텐데 미안하군.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Smile]大家都应该还没上班，真是不好意思。
 #19707	[!Sentence][!Dialog]과거 『실버라이닝』처럼 압도적인 무력은 아니지만 꾸준히 걸림돌이 되고 있는『 $CompanyName$ 』	[!Sentence][!Dialog]虽然不像过去的「沙佛莱宁」那样拥有压倒性的武力，但是一直成为绊脚石的「 $CompanyName$ 』。
 #19708	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]나『 스푼교 』에 들어 갈거다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]我会进入「勺子教」的。
@@ -10505,14 +10505,14 @@
 #19713	[!Sentence][!Dialog]『성난 황소』파의 궤멸로 인한 범죄 카르텔의 붕괴.	[!Sentence][!Dialog]因「狂牛」组的溃灭而导致犯罪的贩毒集团崩溃。
 #19714	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]이 시간 이후 자네들 하위 조직의 지휘는 각자에게 위임한다.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]从此刻开始，你们旗下组织的指挥就委托给你们每个人了。
 #19715	[!Sentence][!Dialog][!speaker:Patron_Woman_Normal]나암씨는 정말 불을 잘 다루는가 봐. 어디서 요리 공부 한 거야?	看来罗岩对火很了解啊。在哪里学习的料理呢？
-#19716	[!Sentence][!Dialog]강제합병으로 『앨리』의 동료들과 뿔뿔이 흩어지는 과정에서 발할라 붉은 광산 지구로 같이 이주하게 된 터크와 나암.	[!Sentence][!Dialog]与巴赫拉的「艾丽」强制合并后，图克和罗岩与同事们分开并移居到了巴赫拉红矿地区。
+#19716	[!Sentence][!Dialog]강제합병으로 『앨리』의 동료들과 뿔뿔이 흩어지는 과정에서 발할라 붉은 광산 지구로 같이 이주하게 된 터크와 나암.	[!Sentence][!Dialog]与巴赫拉的「艾利」强制合并后，图克和罗岩与同事们分开并移居到了巴赫拉红矿地区。
 #19717	[!Sentence][!Dialog]생존을 위협하는 배고픔과 폭력이 가득했던 곳.	[!Sentence][!Dialog]充满了威胁生存的饥饿和暴力的地方。
 #19718	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Hurted_Young2]그래. 잘 참았다. 	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Hurted_Young2]嗯。忍得好。
 #19719	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]죽진 않은 것 같다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]还好吧。
 #19720	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]역시 전면전이군요...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]果然是全面战啊...
 #19721	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]종교다...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]是宗教...
 #19722	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]자유롭게 날뛰어라!	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]自由自在的，随你们便去展示吧！
-#19723	[!Sentence][!Dialog]발할라의 통제를 거부하고『앨리』지역에서 쫓겨나 정처없이 떠돌거나... 발할라로 이주하기.	[!Sentence][!Dialog]移至巴赫拉或拒绝巴赫拉的统治并离开「艾丽」。
+#19723	[!Sentence][!Dialog]발할라의 통제를 거부하고『앨리』지역에서 쫓겨나 정처없이 떠돌거나... 발할라로 이주하기.	[!Sentence][!Dialog]移至巴赫拉或拒绝巴赫拉的统治并离开「艾利」。
 #19724	[!Sentence][!Dialog][!speaker:Bully_Bad_Normal]왜 이렇게 말귀를 못 알아듣냐...	[!Sentence][!Dialog][!speaker:Bully_Bad_Normal]怎么这么听不懂话...
 #19725	[!Sentence][!Dialog][!speaker:Albus_Normal]어쩔 수 없군요. 저희도 바로 정비하여 출동하도록 하겠습니다!	[!Sentence][!Dialog][!speaker:Albus_Normal]那就没办法了。我们马上准备好就出发！
 #19726	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Hurted_Young2]맞을 때 참아놓고 이제 와 큰 소리냐...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Hurted_Young2]挨打的时候忍住了，现在才来说大话吗...
@@ -10530,8 +10530,8 @@
 #19739	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]백호파와 전면전을 고려해야 할 거야.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]需要考虑到与白虎组的全面战。
 #19740	[!Sentence][!Dialog][!speaker:Bully_Bad_Normal]건너편 하숙촌일걸?	[!Sentence][!Dialog][!speaker:Bully_Bad_Normal]应该是对面的寄宿村吧？
 #19741	[!Sentence][!Dialog][!speaker:Patron_Madam_Normal]잘생긴 총각. 나는 매운 맛 하나랑 달콤한 맛 두 개씩 싸줘.	[!Sentence][!Dialog][!speaker:Patron_Madam_Normal]帅气的小哥，我要打包一个辣味和两个甜味。
-#19742	[!Sentence][!Dialog]지역 불량배들과 마찰을 꺼려하는 경찰들은 굳이『앨리』출신자들을 위해 적극적이지 않았다.	[!Sentence][!Dialog]不愿与恶棍发生冲突的警察们为了「艾丽」出身的人，并不想积极介入这里。
-#19743	[!Sentence][!Dialog][!speaker:Bully_Bad_Normal]너희같은 『앨리』녀석들이 발할라에서 돈을 벌고 싶다면 그에 상응하는 성의를 보여야지!	[!Sentence][!Dialog][!speaker:Bully_Bad_Normal]像你们这样「艾丽」出身的家伙们如果想在巴赫拉赚钱，不应该展示出相应的诚意吗？
+#19742	[!Sentence][!Dialog]지역 불량배들과 마찰을 꺼려하는 경찰들은 굳이『앨리』출신자들을 위해 적극적이지 않았다.	[!Sentence][!Dialog]不愿与恶棍发生冲突的警察们为了「艾利」出身的人，并不想积极介入这里。
+#19743	[!Sentence][!Dialog][!speaker:Bully_Bad_Normal]너희같은 『앨리』녀석들이 발할라에서 돈을 벌고 싶다면 그에 상응하는 성의를 보여야지!	[!Sentence][!Dialog][!speaker:Bully_Bad_Normal]像你们这样「艾利」出身的家伙们如果想在巴赫拉赚钱，不应该展示出相应的诚意吗？
 #19744	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]맘껏 비웃어라... 하지만 난 더 이상은 이렇게 살지 않을거야.	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]尽情地笑吧...但是我不会再过这样的生活了。
 #19745	[!Sentence][!Dialog]적어도 바람장벽지구 경찰청의 수뇌부들은 자신들이 범죄 조직의 합법화를 용인하는 첫 사례가 되고 싶지 않았다.	[!Sentence][!Dialog]至少风之壁地区警察厅的首脑层想避免自己成为第一个允许犯罪组织合法化的事例。
 #19746	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Smile2_Young2]당연하지.	[!Sentence][!Dialog][!speaker:Irene_Serious]那当然了。
@@ -10551,9 +10551,9 @@
 #19760	[!Sentence][!Dialog][!speaker:Albus_Think]'아냐...그랬다가 자칫 전력에 밀려버리면...'	[!Sentence][!Dialog][!speaker:Albus_Doubt]（不行...若各自被击破的话...）
 #19761	[!Sentence][!Dialog]그리고 그 압박은 제인 경감의 기동대에 쏟아졌다.	这些压力就落到了珍警监的机动队身上。
 #19762	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]저기... 그렇게 내면 저희는 정말 버는 게 없습니다...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Hurted_Young2]那个...给那么多的话我们真的什么也不剩了...
-#19763	[!Sentence][!Dialog]강제 병합으로 『앨리』거주민에게 주어진 선택권.	[!Sentence][!Dialog]因强制合并而给予「艾丽」居民的两种选择权。
+#19763	[!Sentence][!Dialog]강제 병합으로 『앨리』거주민에게 주어진 선택권.	[!Sentence][!Dialog]因强制合并而给予「艾利」居民的两种选择权。
 #19764	[!Sentence][!Title]황금 비단 해변가	[!Sentence][!Title]黄金丝绸海边
-#19765	[!Sentence][!Dialog]곧잘 이해해주다가도『앨리』출신인걸 아는 순간...	[!Sentence][!Dialog]即使理解，但只要知道是出身于「艾丽」的瞬间...
+#19765	[!Sentence][!Dialog]곧잘 이해해주다가도『앨리』출신인걸 아는 순간...	[!Sentence][!Dialog]即使理解，但只要知道是出身于「艾利」的瞬间...
 #19766	[!Sentence][!Title]백호 간부 회의	[!Sentence][!Title]白虎干部会议
 #19767	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Hurted_Young2]그래. 가 보자. 『 스푼교 』	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Hurted_Young2]好吧，去去「勺子教」吧。
 #19768	[!Sentence][!BalloonChat][!speaker:Irene]악당 녀석들... 아침부터 활동하다니...	[!Sentence][!BalloonChat][!speaker:Irene]坏家伙们...竟一大早的就这么活跃...
@@ -10810,7 +10810,7 @@
 #20120	[!Sentence][!Dialog][!speaker:Edward_Think_Hat]여든이 넘는 자가 젊은이에게 바라는 것이 무엇일까?	过八十的老人从年轻人身上还有什么期待的吗？
 #20121	[!Sentence][!Dialog][!speaker:Peggy_Normal]네. 알겠습니다. 에드워드 님.	[!Sentence][!Dialog][!speaker:Peggy_Normal]是。知道了。
 #20122	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]당연하지.	[!Sentence][!Dialog][!speaker:Irene_Serious]那当然了。
-#20123	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]발할라는 이주 의향이 있는 『 앨리 』거주민들을 조건없이 다 수용했다네.	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]巴赫拉已经无条件的收容了意愿移居的「艾丽」居民。
+#20123	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]발할라는 이주 의향이 있는 『 앨리 』거주민들을 조건없이 다 수용했다네.	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]巴赫拉已经无条件的收容了意愿移居的「艾利」居民。
 #20124	[!Sentence][!Dialog][!speaker:Carter_Normal_Young_Band]기회를 주신다면 무엇이든 해 내겠습니다.	[!Sentence][!Dialog][!speaker:Carter_Normal_Young_Band]只要您给我机会，任何事情都可以去做。
 #20125	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]네가 살아가는 이 세상은 네가 쌓아 올린 것이 아니야.	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]你生活的这个世界可不是你积累的。
 #20126	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]응 그래.	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]嗯，是的。
@@ -10825,7 +10825,7 @@
 #20136	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]하지만 기특할 뿐이야.	但也仅仅是个特例。
 #20137	[!Sentence][!Dialog][!speaker:Leton_Normal_Boy]히히. 레이는 맨날 내 밥 챙겨주자나.	[!Sentence][!Dialog][!speaker:Leton_Normal_Boy]嘿嘿。雷伊每次都帮我准备吃的。
 #20138	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]자. 그럼 마을로 돌아가 볼까?	[!Sentence][!Dialog][!speaker:Carter_Normal_Boy]那，我们回小镇吧？
-#20139	[!Sentence][!Dialog]구룡회가 앨리를 습격한 날.	[!Sentence][!Dialog]在九龙会袭击艾丽的那天。
+#20139	[!Sentence][!Dialog]구룡회가 앨리를 습격한 날.	[!Sentence][!Dialog]在九龙会袭击艾利的那天。
 #20140	[!Sentence][!Dialog][!speaker:Leton_Normal_Boy]레이. 따라와.	[!Sentence][!Dialog][!speaker:Leton_Normal_Boy]雷伊。跟上来。
 #20141	[!Sentence][!Dialog][!speaker:Hwangrang_Normal]타이수 대장. 그냥 인질 다 죽일까?	[!Sentence][!Dialog][!speaker:Hwangrang_Normal]太秀队长，人质都处理掉怎么样？
 #20142	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]나름 신선한 자극이었네.	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]也算是既不错又新鲜的刺激。
@@ -10847,10 +10847,10 @@
 #20158	[!Sentence][!Dialog][!speaker:Robert_Normal]어르신. 저 녀석은 위험합니다.	[!Sentence][!Dialog][!speaker:Robert_Normal]老爷，那家伙很危险。
 #20159	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal_Boy]어디가... 나도 가...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal_Boy]去哪里...我也要去...
 #20160	[!Sentence][!Dialog]내색을 하지 않으려고 하지만 레이의 얼굴은 하루가 다르게 어두워졌다.	[!Sentence][!Dialog]虽然不想表露，但雷伊的脸色却一天比一天更加阴沉。
-#20161	[!Sentence][!Dialog][!speaker:Robert_Normal]'저녀석이 『 앨리  』의 그 녀석인가...'	（那家伙就是「艾丽」的那小子吗...）
+#20161	[!Sentence][!Dialog][!speaker:Robert_Normal]'저녀석이 『 앨리  』의 그 녀석인가...'	（那家伙就是「艾利」的那小子吗...）
 #20162	[!Sentence][!Dialog][!speaker:Heissing_Smile_Boy]나?	[!Sentence][!Dialog][!speaker:Sion_Surprise]我？
 #20163	[!Sentence][!Dialog][!speaker:Ray_Surprise_Girl]와...	[!Sentence][!Dialog][!speaker:Ray_Surprise_Girl]哇...
-#20164	[!Sentence][!Title]15년 전, 앨리 근처 숲	[!Sentence][!Title]15年前，艾丽附近的森林
+#20164	[!Sentence][!Title]15년 전, 앨리 근처 숲	[!Sentence][!Title]15年前，艾利附近的森林
 #20165	[!Sentence][!Dialog][!speaker:Edward_Think_Hat]이 늙은이가 인생의 황혼에 바라는 것이 무엇일까?	像我这样的老头子，还会对这黄昏有什么期待吗？
 #20166	[!Sentence][!Dialog][!speaker:Robert_Normal]다들 물러난다.	[!Sentence][!Dialog][!speaker:Robert_Normal]大家都退下吧。
 #20167	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]자네도 이제 어른이 되야지.	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]你也该长大成人了。
@@ -10863,10 +10863,10 @@
 #20174	[!Sentence][!Dialog][!speaker:Robert_Normal]알겠습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]明白了。
 #20175	[!Sentence][!Title]까마귀 폐허	[!Sentence][!Title]墨鸦废墟
 #20176	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]오늘은 자네의 무례를 용서하겠네.	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]今天就原谅你的无礼了。
-#20178	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]우리가『 앨리 』를 합병할 매력을 느끼게 해줬지.	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]给我们带来了与「艾丽」合并后的魅力。
+#20178	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]우리가『 앨리 』를 합병할 매력을 느끼게 해줬지.	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]给我们带来了与「艾利」合并后的魅力。
 #20179	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]적어도 그런 자리라면 또 만나주지.	起码要有那样的价值，我才会再见你。
 #20180	[!Sentence][!Dialog][!speaker:Ray_Normal_Girl]다들 고마워.	[!Sentence][!Dialog][!speaker:Ray_Normal_Girl]真是谢谢大家了。
-#20181	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]자네가 만들어 낸『 앨리 』지역의 가치.	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]你所带来的「艾丽」区域的价值。
+#20181	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]자네가 만들어 낸『 앨리 』지역의 가치.	[!Sentence][!Dialog][!speaker:Edward_Smile_Hat]你所带来的「艾利」区域的价值。
 #20182	[!Sentence][!Dialog]그 때는 아직 세상을 알지 못했기에 참고 견뎌 어른이 된다면 모든 것이 가능할 줄 알았다.	[!Sentence][!Dialog]当时他们还没有认知到世界。他们认为只要忍受、坚持，成为大人时，什么都可以做到。
 #20183	[!Sentence][!Dialog]함께 행동함으로써 불안과 걱정을 잠시나마 잊을 수 있었다.	[!Sentence][!Dialog]一起行动时，暂且可以忘掉不安和担忧。
 #20184	[!Dialog]평행선	[!Dialog]平行线
@@ -10878,7 +10878,7 @@
 #20190	[!Dialog][!speaker:Ray_Normal]스푼교라니...	[!Dialog][!speaker:Ray_Normal]竟成为了勺子教...
 #20191	[!Dialog][!speaker:Ray_Normal_Smile]그 애들도 나름대로 고생 많이 했겠지...	[!Dialog][!speaker:Ray_Normal_Smile]他们自己也吃过很多苦了吧...
 #20192	[!Dialog][!speaker:Ray_Normal]우리는 어린 시절부터 맨날 그랬던 것 같아.	[!Dialog][!speaker:Ray_Normal]我们好像从小就那样。
-#20193	[!Dialog][!speaker:Ray_Normal_Smile]말이야 거창하게 『 앨리원더러 』, 『 스틸헤드 』그랬지 정작 밀수나 돕고 도둑질하고...	[!Dialog][!speaker:Ray_Normal_Smile]虽大张旗鼓的称作「艾丽文德乐」、「铁头」，但事实上只是在走私、偷窃罢了...
+#20193	[!Dialog][!speaker:Ray_Normal_Smile]말이야 거창하게 『 앨리원더러 』, 『 스틸헤드 』그랬지 정작 밀수나 돕고 도둑질하고...	[!Dialog][!speaker:Ray_Normal_Smile]虽大张旗鼓的称作「艾利文德乐」、「铁头」，但事实上只是在走私、偷窃罢了...
 #20194	[!Dialog][!speaker:Heissing_Smile]살자고 한 일이다.	[!Dialog][!speaker:Heissing_Smile]那只是为了延命而不得不做的。
 #20195	[!Dialog][!speaker:Ray_Normal_Smile]그래. 다 살자고 한 일이지. 	那只是为了生存而不得已的。
 #20196	[!Dialog][!speaker:Heissing_Smile]그걸로 충분해.	[!Dialog][!speaker:Heissing_Smile]是那样就够了。
@@ -10900,7 +10900,7 @@
 #20212	[!Dialog]3년 전, 고난의 성채	[!Dialog]3年前，苦难城寨
 #20213	[!Dialog][!speaker:Hakuya_Normal]제법 괜찮은 녀석이군.	[!Dialog][!speaker:Hakuya_Normal]真是个不错的家伙。
 #20214	[!Dialog][!speaker:Hakuya_Smile]난 하쿠야. 넌?	[!Dialog][!speaker:Hakuya_Smile]我是白夜，你呢？
-#20215	[!Dialog][!speaker:Heissing_Normal_Young2]헤이싱... 헤이싱 앨리.	[!Dialog][!speaker:Heissing_Normal_Young]黑星...黑星・艾丽。
+#20215	[!Dialog][!speaker:Heissing_Normal_Young2]헤이싱... 헤이싱 앨리.	[!Dialog][!speaker:Heissing_Normal_Young]黑星...黑星・艾利。
 #20216	[!Dialog][!speaker:Hakuya_Normal]우리는 최상층으로 가는 중이다.	我们来走向最高层。
 #20217	[!Dialog][!speaker:Heissing_Normal_Young2]최상층...?	[!Dialog][!speaker:Heissing_Normal_Young]最高层...？
 #20218	[!Dialog][!speaker:Hakuya_Normal]그래. 최상층.	[!Dialog][!speaker:Hakuya_Normal]是啊，最高层。
@@ -11261,7 +11261,7 @@
 #20620	[!Sentence][!Dialog][!speaker:Marco_Smile]그래. 가자.	[!Sentence][!Dialog][!speaker:Marco_Smile]好的，走嘞。
 #20621	[!Sentence][!Dialog][!speaker:Luna_Depressed]응.	嗯。
 #20622	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]백룡의 공주님이시군요.	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]是白龙的公主大人呐。
-#20623	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]처음 뵙겠습니다. 적룡의 육연향이라고 합니다.	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]初次见面，我是赤龙的陆延香。
+#20623	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]처음 뵙겠습니다. 적룡의 육연향이라고 합니다.	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]初次见面，我是赤龙的肉烟香。
 #20624	[!Sentence][!Dialog][!speaker:Kylie_Smile]벌써 내 목숨을 가지러 온 거냐?	[!Sentence][!Dialog][!speaker:Kylie_Smile]已经这么快就来拿我的命了吗？
 #20625	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]아닙니다. 하지만 기회는 자주 오지 않겠군요.	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]不是的，但是机会确实不会那么常来啊。
 #20626	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]지금 당신 목을 베어 아스카 님을 뵙도록 하지요.	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]现在就割下你的脖子来见明日香大人。
@@ -11293,10 +11293,10 @@
 #20653	[!Sentence][!Dialog][!speaker:Gangster_SmugglerThin_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']김 씨 녀석. 쓸만한데요?	[!Sentence][!Dialog][!speaker:Gangster_SmugglerThin_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']老金，还挺有用的嘛？
 #20654	[!Sentence][!Dialog][!speaker:Gangster_SmugglerThin_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']넵. 확인하였습니다.	[!Sentence][!Dialog][!speaker:Gangster_SmugglerThin_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']是，确认到了。
 #20655	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']최근 우리 사업을 방해한 댓가는 치뤄야지.	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']要确切的支付最近妨碍我们事业地代价吧。
-#20656	[!Sentence][!Dialog][!speaker:Gangster_SmugglerThin_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']원래 대니 밑에 있던 그 앨리 녀석들이 처리하기로 하지 않았나요?	[!Sentence][!Dialog][!speaker:Gangster_SmugglerThin_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']不是原来是由丹尼属下的艾丽来处理的吗？
+#20656	[!Sentence][!Dialog][!speaker:Gangster_SmugglerThin_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']원래 대니 밑에 있던 그 앨리 녀석들이 처리하기로 하지 않았나요?	[!Sentence][!Dialog][!speaker:Gangster_SmugglerThin_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']不是原来是由丹尼属下的艾利来处理的吗？
 #20657	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']그 녀석들 계속 미루더군.	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']那些家伙们一直拖拖拉拉的。
 #20658	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']자신이 없는 거겠지.	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']看是没有自信吧。
-#20659	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']멍청한 앨리 출신들이라면 심부름꾼이 천직이겠지.	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']艾丽地区出身的傻子们的天职就是跑腿咯。
+#20659	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']멍청한 앨리 출신들이라면 심부름꾼이 천직이겠지.	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']艾利地区出身的傻子们的天职就是跑腿咯。
 #20660	[!Sentence][!Dialog][!speaker:Gangster_SmugglerThin_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']대니 녀석은 그런 녀석들을 왜 쓸까요?	[!Sentence][!Dialog][!speaker:Gangster_SmugglerThin_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']丹尼那家伙到底为什么去使用那些家伙们呢？
 #20661	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']어차피 처분하겠지.	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']反正是要处理的吧。
 #20662	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']대니가 외지인 따위를 신뢰할 리가 없어.	[!Sentence][!Dialog][!speaker:Gangster_Felix_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio']丹尼才不会去信任外部人员的。
@@ -11391,8 +11391,8 @@
 #20751	[!Sentence][!Dialog][!speaker:Heissing_Smile]그래서 양아치가 된 건가...	[!Sentence][!Dialog][!speaker:Heissing_Smile]所以就成了流氓吗...
 #20752	[!Sentence][!Dialog][!speaker:Heissing_Normal]돈이 된다면 선과 악 구분없이 아무한테나 정보를 팔고?	[!Sentence][!Dialog][!speaker:Heissing_Normal]如果能赚钱的话，不分善与恶，随便去卖情报吗？
 #20753	[!Sentence][!Dialog][!speaker:Informant_Kim_Normal]자네랑 더는 할 말이 없어. 난 경찰청으로 갈 거네.	[!Sentence][!Dialog][!speaker:Informant_Kim_Normal]和你无话可说了。那我去警察厅了。
-#20754	[!Sentence][!Dialog][!speaker:Informant_Kim_Normal]자넨 자네 일에 충실해. 이 앨리 녀석아.	[!Sentence][!Dialog][!speaker:Informant_Kim_Normal]你好好去做你的工作吧，艾丽。
-#20755	[!Sentence][!Dialog][!speaker:Heissing_Smile]앨리 녀석인가...	[!Sentence][!Dialog][!speaker:Heissing_Smile]艾丽的吗...
+#20754	[!Sentence][!Dialog][!speaker:Informant_Kim_Normal]자넨 자네 일에 충실해. 이 앨리 녀석아.	[!Sentence][!Dialog][!speaker:Informant_Kim_Normal]你好好去做你的工作吧，艾利。
+#20755	[!Sentence][!Dialog][!speaker:Heissing_Smile]앨리 녀석인가...	[!Sentence][!Dialog][!speaker:Heissing_Smile]艾利的吗...
 #20756	[!Sentence][!Dialog][!speaker:Informant_Kim_Normal]헛! 카일리!	[!Sentence][!Dialog][!speaker:Informant_Kim_Normal]喝！凯莉！
 #20757	[!Sentence][!Dialog][!speaker:Kylie_Serious]잘 만났어. 김 씨.	[!Sentence][!Dialog][!speaker:Kylie_Serious]来的真好，老金。
 #20758	[!Sentence][!Dialog][!speaker:Informant_Kim_Normal]왜... 난 자네에게 볼 일 없어.	[!Sentence][!Dialog][!speaker:Informant_Kim_Normal]嗯...我找你没事。
@@ -11712,7 +11712,7 @@
 #21092	[!Sentence][!Dialog][!speaker:Alley_Boy02_Normal]저 링거 떼보자. 죽나 안 죽나.	[!Sentence][!Dialog][!speaker:Alley_Boy02_Normal]来试试把那输液摘下来怎么样，看他死不死。
 #21093	[!Sentence][!Dialog][!speaker:Alley_Boy01_Normal]이거 코스프레면 대박인데. 완전 사기꾼이잖아.	如果他真的是装的那就搞笑了。那他完全就是个骗子嘛！
 #21095	[!Sentence][!Title]찾아온 손님	[!Sentence][!Title]来客
-#21096	[!Sentence][!Title]15년 전 앨리 빈민가 외곽	[!Sentence][!Title]15年前，艾丽贫民窟外围
+#21096	[!Sentence][!Title]15년 전 앨리 빈민가 외곽	[!Sentence][!Title]15年前，艾利贫民窟外围
 #21097	[!Sentence][!Dialog][!speaker:Visha_Normal_Young]괜찮니?	还好吗？
 #21098	[!Sentence][!Dialog][!speaker:Visha_Normal_Young]'이 아이군...'	[!Sentence][!Dialog][!speaker:Visha_Normal_Young]（是这孩子...）
 #21099	[!Sentence][!Dialog][!speaker:Visha_Normal_Young]'리온... 아니 시온 또래인가...'	（里昂...哦不，是席翁那年龄段...）
@@ -11929,7 +11929,7 @@
 #21335	[!Dialog][!speaker:Leton_Think]그리고 보수는...	[!Dialog][!speaker:Leton_Think]还有报酬吗...
 #21336	[!Dialog][!speaker:Leton_Think]레이나 헤이싱 둘 중에 더 많이 받는 녀석만큼은 줘.	[!Dialog][!speaker:Leton_Think]就给我黑星和雷伊中拿到更多工资的家伙一样多就可以了。
 #21337	[!Dialog][!speaker:Leton_Normal]내가 그녀석들보다 못 받을 이유는 없어 보이니까.	[!Dialog][!speaker:Leton_Normal]因为我没理由比他们拿到更少。
-#21338	[!Dialog][!speaker:Albus_Normal]그렇게 말씀하셔도 카터 앨리와 공범일지도 모르는 분을 받아 들이기는 애매하네요.	[!Dialog][!speaker:Albus_Normal]即使那样说，我可无法就这样接受可能会与卡特・艾丽是共犯的人。
+#21338	[!Dialog][!speaker:Albus_Normal]그렇게 말씀하셔도 카터 앨리와 공범일지도 모르는 분을 받아 들이기는 애매하네요.	[!Dialog][!speaker:Albus_Normal]即使那样说，我可无法就这样接受可能会与卡特・艾利是共犯的人。
 #21339	[!Dialog][!speaker:Leton_Smile]어차피 내 기록은 깨끗해.	[!Dialog][!speaker:Leton_Smile]反正我的记录很干净。
 #21340	[!Dialog][!speaker:Albus_Serious]네. 납득은 안 가지만... 그렇더군요.	[!Dialog][!speaker:Albus_Serious]是的，虽然我无法接受...
 #21341	[!Dialog][!speaker:Albus_Serious]설명해 주실 수 있나요?	[!Dialog][!speaker:Albus_Serious]可以向我说明一下吗？
@@ -11952,13 +11952,13 @@
 #21358	[!Dialog][!speaker:Heissing_Smile][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']나는 신경 쓰지 말고 사장 편한 대로 해.	[!Dialog][!speaker:Heissing_Smile][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']别管我，随老板的便吧。
 #21359	[!Dialog][!speaker:Giselle_Smile_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']알버스. 급한 일이 아니면 내일 아침 이야기하자.	[!Dialog][!speaker:Giselle_Smile_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']。如果不是急事，那就明天再聊吧。
 #21360	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']죄송합니다. 지젤 씨.	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']真是很抱歉，吉赛尔。
-#21361	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']카터 앨리와 동행하던 레톤 앨리 씨가 찾아 왔습니다.	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']和卡特・艾丽同行的莱顿・艾丽找过来了。
+#21361	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']카터 앨리와 동행하던 레톤 앨리 씨가 찾아 왔습니다.	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']和卡特・艾利同行的莱顿・艾利找过来了。
 #21362	[!Dialog][!speaker:Giselle_Smile_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']그래서?	[!Dialog][!speaker:Giselle_Smile_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']所以呢？
 #21363	[!Dialog][!speaker:Albus_Laugh][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']회사에 입사를 원하십니다.	[!Dialog][!speaker:Albus_Laugh][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']他想进入我们的公司。
 #21364	[!Dialog][!speaker:Giselle_Satisfying_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']재밌네.	[!Dialog][!speaker:Giselle_Satisfying_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']真好笑。
 #21365	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']역시 거절해야 할까요?	[!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']当然是要拒绝吧？
 #21366	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']왜?	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']为什么？
-#21367	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']여전히 카터 앨리와 공범 가능성이...	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']仍然有着与卡特・艾丽共犯的可能性...
+#21367	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']여전히 카터 앨리와 공범 가능성이...	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']仍然有着与卡特・艾利共犯的可能性...
 #21368	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']발할라 경찰청에서 그 녀석의 존재를 모를까?	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']巴赫拉警察厅会不知道他的存在吗？
 #21369	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']모르지 않을 것 같습니다.	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']应该不会不知道。
 #21370	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']알버스. 범죄 행위가 분명한데 범죄 기록이 없는 경우는 세 가지 중 하나야.	[!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']阿尔伯斯。犯罪行为很明显，却没有犯罪记录的情况有三种。
@@ -12001,7 +12001,7 @@
 #21407	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']어... 입사 지원서를 넣긴 하셨는데...	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']呃...他是支援了入职申请书...
 #21408	[!Dialog][!speaker:Sion_Stare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']말도 안 돼. 어떻게 믿어?	[!Dialog][!speaker:Sion_Stare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']不可能，怎么能够相信他？
 #21409	[!Dialog][!speaker:Sion_Stare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']알버스. 너도 먼지바람 톨게이트 사건 봤잖아...	[!Dialog][!speaker:Sion_Stare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']阿尔伯斯。你也看到过尘风收费站事件的啊...
-#21410	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']그렇긴 한데... 당시 현장에는 카터 앨리뿐이었으니...	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']虽说如此...但是当时只有卡特・艾丽在现场的...
+#21410	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']그렇긴 한데... 당시 현장에는 카터 앨리뿐이었으니...	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']虽说如此...但是当时只有卡特・艾利在现场的...
 #21411	[!Dialog][!speaker:Sion_Stare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']알버스. 연관이 안 되었더라도 얼마 전까지 같이 활동하던 사람이잖아.	[!Dialog][!speaker:Sion_Stare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']阿尔伯斯。即使没有关联，但是不久前他们都是一起活动的啊。
 #21412	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']사실 나도 꺼림칙해...	[!Dialog][!speaker:Albus_SurpriseStare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']其实我也很讨厌...
 #21413	[!Dialog][!speaker:Sion_Stare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']알버스. 그럼에도 불구하고 고민하는 이유를 말해야 납득이라도 할 것 같아.	[!Dialog][!speaker:Sion_Stare][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']阿尔伯斯。我需要你告诉我即使苦恼成这样也要接受的理由。
@@ -12049,7 +12049,7 @@
 #21455	[!Sentence][!Dialog][!speaker:Cat_Bee_]냐옹~♡	[!Sentence][!Dialog][!speaker:Cat_Bee_]喵～♡
 #21456	[!Sentence][!Dialog][!speaker:Ramjist_Empty]너희들도 그렇게 생각하는 구나.	[!Sentence][!Dialog][!speaker:Ramjist_Empty]你们也是这样想啊。
 #21457	[!Sentence][!Dialog][!speaker:Dog_Lisa_]월월~!!	[!Sentence][!Dialog][!speaker:Dog_Lisa_]汪汪～！！
-#21458	[!Sentence][!Dialog][!speaker:Leton_Serious]여기는 우리가 살던 앨리보다 나을 게 없네...	这里比我们生活过的艾丽也好不到哪儿去...
+#21458	[!Sentence][!Dialog][!speaker:Leton_Serious]여기는 우리가 살던 앨리보다 나을 게 없네...	这里比我们生活过的艾利也好不到哪儿去...
 #21459	[!Sentence][!Dialog][!speaker:Carter_Normal]그래도 다들 희망이라는 꿈을 버리지 않고 버텨내고 있지...	[!Sentence][!Dialog][!speaker:Carter_Normal]即使如此，大家都没有放弃「希望」这个梦想...
 #21460	[!Sentence][!Dialog][!speaker:Leton_Stare]그래. 그 꿈을 위해 또 다른 타인의 꿈을 짓밟고 있지.	是啊。为了实现这个梦，而去践踏了他人的梦想吧。
 #21461	[!Sentence][!Dialog][!speaker:Leton_Normal]레이가 싫어할 만해. 진작 떨궈놔서 다행이야.	雷伊肯定不会喜欢的。幸好没有一起行动。
@@ -12088,7 +12088,7 @@
 #21494	[!Sentence][!Dialog][!speaker:Sion_Depressed]'아무리 못해도 1, 2 시간 걸리는 대 진압, 토벌 임무 뿐이고...'	[!Sentence][!Dialog][!speaker:Sion_Depressed]（最简单的都是最少需要1、2个小时的镇压、讨伐任务而已...）
 #21495	[!Sentence][!Dialog][!speaker:Albus_Serious]자. 그럼 이 구역까지만 진압하고 복귀하도록 하겠습니다.	来吧，那我镇压完这区域后就赶快回去。
 #21496	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]젊은이들의 성장은 매우 빠르군...	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]小伙子们的成长真是快...
-#21497	[!Sentence][!Dialog][!speaker:Albus_Surprise]'저 사람은...레톤 앨리...'	[!Sentence][!Dialog][!speaker:Albus_Surprise]（那家伙是...莱顿・艾丽...）
+#21497	[!Sentence][!Dialog][!speaker:Albus_Surprise]'저 사람은...레톤 앨리...'	[!Sentence][!Dialog][!speaker:Albus_Surprise]（那家伙是...莱顿・艾利...）
 #21498	[!Sentence][!Dialog][!speaker:Leton_Smile]벌써 온 건가...	[!Sentence][!Dialog][!speaker:Leton_Smile]这么快就来了吗...
 #21499	[!Sentence][!Dialog][!speaker:Leton_Normal]정말 몇 달 전하고는 딴판이군.	几个月不见真叫人刮目相看。
 #21500	[!Sentence][!Dialog][!speaker:Irene_Surprise]가면을 안 쓴 사람?? 	[!Sentence][!Dialog][!speaker:Irene_Surprise]没戴面具的人？？
@@ -13031,7 +13031,7 @@
 #22849	[!DialogQuest][!speaker:Irene_Fury]자홍뒷거리라면 분명 암시장 뒷거래를 하려고 가져간 거야.	[!DialogQuest][!speaker:Irene_Fury]紫红后街的话，分明是为了在黑市交易的。
 #22850	[!DialogQuest][!speaker:Ray_Serious]국경 지대 근처의 상권이 밀수를 안하면 그것도 이상하지.	[!DialogQuest][!speaker:Ray_Serious]国境地带附近的商圈若不走私，那也挺奇怪的。
 #22851	[!DialogQuest][!speaker:Ray_Serious]조금만 위험을 감수하면 큰 이익을 볼 수 있으니까...	[!DialogQuest][!speaker:Ray_Serious]因为只要稍微冒一点风险，就能够获得很大的利益...
-#22852	[!DialogQuest][!speaker:Kylie_Smile]'앨리 녀석들이라면 밀수라는 일은 익숙한 일이겠군...'	[!DialogQuest][!speaker:Kylie_Smile]（艾丽那家伙们肯定很熟悉关于走私的事吧...）
+#22852	[!DialogQuest][!speaker:Kylie_Smile]'앨리 녀석들이라면 밀수라는 일은 익숙한 일이겠군...'	[!DialogQuest][!speaker:Kylie_Smile]（艾利那家伙们肯定很熟悉关于走私的事吧...）
 #22853	[!DialogQuest][!speaker:Albus_Think]'공공연하게 무기 밀매가 되는 자홍뒷거리의 암시장... 언젠가 한 번 가봐야겠어...'	[!DialogQuest][!speaker:Albus_Think]（明目张胆地走私武器的黑市啊...以后得去一趟看看了...）
 #22854	[!DialogQuest][!speaker:Albus_Laugh]일단 그 화물들 저희가 회수해 오겠습니다.	[!DialogQuest][!speaker:Albus_Laugh]那货物就由我们来回收吧。
 #22855	[!DialogQuest][!speaker:Oleg_Smile]오. 정말? $CompanyName$[가] 이런 일을 할 여유가 있나?	[!DialogQuest][!speaker:Oleg_Smile]喔，是吗？$CompanyName$有空做这些事吗？
@@ -14872,12 +14872,12 @@
 #24956	[!DialogQuest][!speaker:Albus_Laugh]더는 탈주하지 못하도록 구치소에 두지 않고 바로 중앙 교도소로 보내기로 했어요.	[!DialogQuest][!speaker:Albus_Laugh]为了不再让他越狱，决定不放在拘留所，而直接送到中央监狱。
 #24957	[!DialogQuest][!speaker:Sabana_Normal]다행이다. 많이 배려해줘서 고마워.	[!DialogQuest][!speaker:Sabana_Normal]幸好，谢谢你们的照顾。
 #24961	[!Sentence][!BalloonChat][!speaker:Direct_Spoon01]저 녀석은!! 	[!Sentence][!BalloonChat][!speaker:Direct_Spoon01]那家伙是！！
-#24962	[!Sentence][!BalloonChat][!speaker:Direct_Spoon02]앨리!!	[!Sentence][!BalloonChat][!speaker:Direct_Spoon02]艾丽！！
+#24962	[!Sentence][!BalloonChat][!speaker:Direct_Spoon02]앨리!!	[!Sentence][!BalloonChat][!speaker:Direct_Spoon02]艾利！！
 #24963	[!Sentence][!Dialog][!speaker:Gangster_DannyLaw_Normal]하아... 멍청한 녀석들...	[!Sentence][!Dialog][!speaker:Gangster_DannyLaw_Normal]哈啊...愚蠢的家伙们...
 #24964	[!Sentence][!Dialog][!speaker:Gangster_DannyLaw_Normal]이러니 그따위 트러블슈터들한테 얻어터지고 다니지...	这就是你们被纷争终结者追打的原因啊...
 #24965	[!Sentence][!Dialog][!speaker:Gangster_DannyLaw_Normal]이런 식이면 멍청한 황소파처럼 한 순간에 우르륵 무너지는 거야.	[!Sentence][!Dialog][!speaker:Gangster_DannyLaw_Normal]照这样下去，你们可就会像那傻乎乎的狂牛组一样，一下子就完蛋。
 #24966	[!Sentence][!BalloonChat][!speaker:Direct_Spoon02]뭐!! 이 녀석이!!	[!Sentence][!BalloonChat][!speaker:Direct_Spoon02]你这家伙！！说什么！！
-#24967	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Normal]너! 저 앨리 녀석과 무슨 관계냐!	喂！你和那艾丽的家伙到底是什么关系！
+#24967	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Normal]너! 저 앨리 녀석과 무슨 관계냐!	喂！你和那艾利的家伙到底是什么关系！
 #24969	[!Sentence][!BalloonChat][!speaker:Direct_SpoonBoss]진정하시오. 동지여. 	[!Sentence][!BalloonChat][!speaker:Direct_SpoonBoss]同志，冷静下来吧。
 #24970	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind_Normal]이 분은 샤키 님과 직접 거래를 하는 자요.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind_Normal]这位是和沙基大人直接做交易的人。
 #24971	[!Sentence][!BalloonChat][!speaker:Direct_Spoon02]다들 움직이지 마!!	全都不许动！！
@@ -15529,7 +15529,7 @@
 #25634	[!Dialog][!speaker:Ray_Serious]'그리고 아무리 그래도...'	（就算如此，可是...）
 #25635	[!Dialog][!speaker:Ray_Surprise]네가 이렇게 되면 아무 의미 없잖아!	你变成这样子不就没有任何意义了嘛！
 #25636	[!Dialog]미안함 가득히...	[!Dialog]充满歉意...
-#25637	[!Dialog]4년 전, 빈민가 앨리 외곽	[!Dialog]4年前，贫民街艾丽外围
+#25637	[!Dialog]4년 전, 빈민가 앨리 외곽	[!Dialog]4年前，贫民街艾利外围
 #25638	[!Dialog]두 번 다시 만나지 못할 것이라는 알고 있었다.	[!Dialog]知道无法再次相见。
 #25639	[!Dialog]그는 버려지는 것이다.	[!Dialog]他是将被抛弃的。
 #25640	[!Dialog]우리가 살기 위해 그는 버려진다.	为了我们的生存，不得不抛弃掉他。
@@ -15767,7 +15767,7 @@
 #26038	[!Sentence][!Dialog]굳이 말하지 마.	[!Sentence][!Dialog]不要那样说。
 #26039	[!Sentence][!Dialog][!speaker:Carter_Black_Rage_Broken]미안하다. 널 단 한 번이라도 가족이라고 여긴 적이 없다.	[!Sentence][!Dialog][!speaker:Carter_Black_Rage_Broken]抱歉，我可是从来没有把你当作过家人。
 #26040	[!Sentence][!Dialog]왜 굳이 지금 말하는 거냐...	[!Sentence][!Dialog]为什么非要在现在...
-#26041	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]난 널 앨리라고 부른 것을 후회한다.	我很后悔叫你艾丽。
+#26041	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]난 널 앨리라고 부른 것을 후회한다.	我很后悔叫你艾利。
 #26042	[!Sentence][!Dialog]이제 와 속죄인가...	[!Sentence][!Dialog]现在才来赎罪吗...
 #26043	[!Sentence][!Dialog]아니면 오만인가...	[!Sentence][!Dialog]还是说在傲慢...
 #26044	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]빗나갔다. 헤이싱.	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]你错了，黑星。
@@ -15780,8 +15780,8 @@
 #26051	[!Sentence][!Dialog]난 왜 너와 동등할 수 없는가... 너와 같이 웃을 수가 없는가...	[!Sentence][!Dialog]我为什么不能和你一样...和你一起笑...
 #26052	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]자. 더는 네 인생에 내가 등장하지 않을 거다.	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]来吧，在你人生中，我是不会再次出现的。
 #26053	[!Sentence][!Dialog]넌 정말 잔인하다.	[!Sentence][!Dialog]你真够惨忍。
-#26054	[!Sentence][!Dialog]나는 헤이싱 앨리.	[!Sentence][!Dialog]我是黑星・艾丽。
-#26055	[!Sentence][!Dialog]넌 카터 앨리.	[!Sentence][!Dialog]你是卡特・艾丽。
+#26054	[!Sentence][!Dialog]나는 헤이싱 앨리.	[!Sentence][!Dialog]我是黑星・艾利。
+#26055	[!Sentence][!Dialog]넌 카터 앨리.	[!Sentence][!Dialog]你是卡特・艾利。
 #26056	[!Sentence][!Dialog]내가 지켜야 할 가족이다.	[!Sentence][!Dialog]是我该守护的家人。
 #26057	[!Dialog]『 즐거운 추억이었나... 』	「算是个愉快的回忆吗...」
 #26058	[!Dialog]이 날 정신을 잃은 헤이싱이 다시 출근한 것은 일주일 뒤였다.	失去意识的黑星再次去上班，是一周之后的事情了。
@@ -16314,9 +16314,9 @@
 #26619	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]이 녀석은...	这家伙是...
 #26620	[!Sentence][!Dialog][!speaker:Leton_Stare]'역시 이 녀석이었어...'	（我就知道是这家伙...）
 #26621	[!Sentence][!Dialog][!speaker:Leton_Stare]'그냥 레이를 데리고 돌아갔어야 했나...'	（看来刚才就该带着雷伊离开才对...）
-#26622	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]'낯이 익다 싶었는데 그때 앨리 녀석들인가...'	（难怪有种似曾相识的感觉，是艾丽的那群人...）
+#26622	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]'낯이 익다 싶었는데 그때 앨리 녀석들인가...'	（难怪有种似曾相识的感觉，是艾利的那群人...）
 #26623	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]료! 오랜만이야.	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]亮！好久不见。
-#26624	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]육연향...	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]陆延香...
+#26624	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]육연향...	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]肉烟香...
 #26625	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]결국 우리는 이럴 운명이었어!	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]归根结底我们原来就是这么个命啊！
 #26626	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]잉어가 두 마리라니!?	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]两条鲤鱼！？
 #26627	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]우하하하!!	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]啊哈哈哈！！
@@ -16337,7 +16337,7 @@
 #26642	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]저 사람...	那个人...
 #26643	[!Sentence][!Dialog][!speaker:Leton_Stare]레이. 친구끼리 이야기하게 두고 돌아가자.	雷伊。让她们继续聊吧，我们回去吧。
 #26644	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]저 사람... 분명...	那个人...他分明...
-#26645	[!Sentence][!Dialog]하루 하루 쌓아온 것이 모두 무너진 날이었다.	艾丽日复一日所积累的一切都在那一天被无情的践踏粉碎。
+#26645	[!Sentence][!Dialog]하루 하루 쌓아온 것이 모두 무너진 날이었다.	艾利日复一日所积累的一切都在那一天被无情的践踏粉碎。
 #26646	[!Sentence][!Dialog]고통과 슬픔 그리고 절망.	痛苦，悲伤，以及绝望。
 #26647	[!Sentence][!Dialog]가장 기억하기 싫은 그리고 가장 잊을 수 없는 순간.	最不想回忆起，但却最难以忘记的那个瞬间。
 #26648	[!Sentence][!Dialog]그 기억 속 한 구석에 있는 그 녀석.	那记忆中，那个角落里的，那个家伙！
@@ -16369,10 +16369,10 @@
 #26674	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]도대체 다들 미친 것 아냐?	你们这些家伙都疯了吗？
 #26675	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]구룡회라고... 구룡회!!	她说的是九龙会...九龙会！！
 #26676	[!Sentence][!Dialog][!speaker:Ray_Rage]어떻게 이런 걸 숨기고 지내!?	你们居然瞒了我这么久？！
-#26677	[!Sentence][!Dialog][!speaker:Ray_Rage]너 내가 앨리 출신인 걸 알고 있었잖아!!	你明知道我是艾丽出身的人！！
+#26677	[!Sentence][!Dialog][!speaker:Ray_Rage]너 내가 앨리 출신인 걸 알고 있었잖아!!	你明知道我是艾利出身的人！！
 #26678	[!Sentence][!Dialog][!speaker:Kylie_Smile]그래서?	[!Sentence][!Dialog][!speaker:Kylie_Smile_Young]所以呢？
 #26679	[!Sentence][!Dialog][!speaker:Ray_Rage]그래서라니...	「所以呢」？你...
-#26680	[!Sentence][!Dialog][!speaker:Kylie_Normal]레이. 네가 앨리 출신이면?	雷伊，你觉得对于艾丽出身的你，我该怎么做？
+#26680	[!Sentence][!Dialog][!speaker:Kylie_Normal]레이. 네가 앨리 출신이면?	雷伊，你觉得对于艾利出身的你，我该怎么做？
 #26681	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]널 멀리 했어야 했나?	我是不是应该避开你呢？
 #26682	[!Sentence][!Dialog][!speaker:Ray_Rage]그래! 그렇게라도 했어야지!	没错！你起码该做到那点！
 #26683	[!Sentence][!Dialog][!speaker:Heissing_Smile]조금 더 빨리 움직여야겠군.	看来，动作要再快些才行。
@@ -16389,9 +16389,9 @@
 #26699	[!Dialog][!speaker:Diane_Smile2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']가끔 TV 뉴스에서 네 모습 본다.	[colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']偶尔在TV新闻上看到你呢。
 #26700	[!Dialog][!speaker:Diane_Smile2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']$CompanyName$? 맞지?	[!Dialog][!speaker:Diane_Smile2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']$CompanyName$？是吧？
 #26701	[!Dialog][!speaker:Ray_Normal_Smile][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']으..응.	[!Dialog][!speaker:Ray_Normal_Smile][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']呃...嗯。
-#26702	[!Dialog][!speaker:Diane_Normal2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']트러블슈터 회사에 들어간 것도 앨리 친구들 일 때문인거야?	[!Dialog][!speaker:Diane_Normal2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']进入纷争终结者公司也是因为艾丽的朋友们吗？
+#26702	[!Dialog][!speaker:Diane_Normal2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']트러블슈터 회사에 들어간 것도 앨리 친구들 일 때문인거야?	[!Dialog][!speaker:Diane_Normal2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']进入纷争终结者公司也是因为艾利的朋友们吗？
 #26703	[!Dialog][!speaker:Ray_Normal_Smile][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']응.	[!Dialog][!speaker:Ray_Normal_Smile][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']嗯。
-#26704	[!Dialog][!speaker:Diane_Smile2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']앨리 친구들 일은 잘 해결돼가?	[!Dialog][!speaker:Diane_Smile2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']艾丽朋友们的事情解决的还好吗？
+#26704	[!Dialog][!speaker:Diane_Smile2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']앨리 친구들 일은 잘 해결돼가?	[!Dialog][!speaker:Diane_Smile2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']艾利朋友们的事情解决的还好吗？
 #26705	[!Dialog][!speaker:Ray_Normal_Smile][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']마무리 된 걸까...	[colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']就快要结束了吧...
 #26706	[!Dialog][!speaker:Diane_Normal2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']레이. 지금 어디야?	[!Dialog][!speaker:Diane_Normal2][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']雷伊，现在在哪里？
 #26707	[!Dialog][!speaker:Ray_Surprise_Smile][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']응?	[!Dialog][!speaker:Ray_Surprise_Smile][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']嗯？
@@ -16446,7 +16446,7 @@
 #26758	[!Dialog]발할라. 희망의 도시.	[!Dialog]巴赫拉，希望的城市。
 #26759	[!Dialog]과거를 버리고 새로운 미래를 열 수 있는 곳	[!Dialog]一个可以抛弃过去，开创新未来的地方。
 #26760	[!Dialog]하지만 그것은 허락되지 않은 행복.	[!Dialog]但那是不被允许的幸福。
-#26761	[!Dialog]앨리의 친구들과 떨어진 나는 그저 이 도시의 외톨이.	和艾丽的朋友们分开的我，只是这城市的流浪客。
+#26761	[!Dialog]앨리의 친구들과 떨어진 나는 그저 이 도시의 외톨이.	和艾利的朋友们分开的我，只是这城市的流浪客。
 #26762	[!Dialog]세상이 나를 부정한다.	[!Dialog]世界否定我。
 #26763	[!Dialog]나는 아무것도 할 수 없다.	[!Dialog]我什么都做不了。
 #26764	[!Dialog]나는 도대체 왜 이곳에 온 걸까...	[!Dialog]我到底为什么来这里...
@@ -16480,8 +16480,8 @@
 #26793	[!Dialog][!speaker:Clare_Smile2]지금도 마음대로 해.	现在也随心所欲地去做吧。
 #26794	[!Dialog][!speaker:Clare_Laugh2]짤리면 우리 가게에서 일하게 해줄게~☆	[!Dialog][!speaker:Clare_Laugh2]被辞退了就让你来我们的店工作呐～☆
 #26795	[!Dialog]마음을 터 놓고 어울릴 수 있는 친구들과 즐거운 시간.	[!Dialog]和可以敞开心扉相处的朋友一起度过的愉快时光。
-#26796	[!Dialog]앨리의 친구들과는 한 번도 공유할 수 없었던 감정.	[!Dialog]和艾丽的朋友们没能够共享的情感。
-#26797	[!Dialog][!speaker:Diane_Normal2]고민은 여전히 앨리 친구들?	[!Dialog][!speaker:Diane_Normal2]烦恼依旧是艾丽的朋友们吗？
+#26796	[!Dialog]앨리의 친구들과는 한 번도 공유할 수 없었던 감정.	[!Dialog]和艾利的朋友们没能够共享的情感。
+#26797	[!Dialog][!speaker:Diane_Normal2]고민은 여전히 앨리 친구들?	[!Dialog][!speaker:Diane_Normal2]烦恼依旧是艾利的朋友们吗？
 #26798	[!Dialog][!speaker:Ray_Smile]응... 어느 정도는...	[!Dialog][!speaker:Ray_Smile]嗯...某种程度上是...
 #26799	[!Dialog][!speaker:Diane_Normal2]회사 일인가?	[!Dialog][!speaker:Diane_Normal2]公司的事吗？
 #26800	[!Dialog][!speaker:Ray_Smile]응...	[!Dialog][!speaker:Ray_Smile]嗯...
@@ -16496,7 +16496,7 @@
 #26809	[!Dialog][!speaker:Ray_Smile2]고민하는 것이 인간관계라고 말 안했는데...	[!Dialog][!speaker:Ray_Smile2]我没有说过现在苦恼的是人际关系的...
 #26810	[!Dialog][!speaker:Diane_Normal2]천하의 레이가 인간관계 아니면 고민 할 리가 있나?	让那个天下第一的雷伊苦恼的不是人际关系还能是什么呢？
 #26811	[!Dialog][!speaker:Ray_Smile2]말 안해도 이해해주니 참 좋다.	就算我不说你也能理解我，真的很感谢你。
-#26812	[!Dialog][!speaker:Diane_Normal2]그건 저번에도 말했지만 네 앨리 친구들이 무심한거야.	虽然你上次也说过，但你那艾丽朋友们也太不长心了。
+#26812	[!Dialog][!speaker:Diane_Normal2]그건 저번에도 말했지만 네 앨리 친구들이 무심한거야.	虽然你上次也说过，但你那艾利朋友们也太不长心了。
 #26813	[!Dialog][!speaker:Diane_Normal2]서로 무엇이 서로에게 소중한 것인지 전혀 모르잖아.	完全就不明白彼此之间最宝贵的是什么。
 #26814	[!Dialog][!speaker:Diane_Serious2]쉽게 안 풀릴 것 같아?	[!Dialog][!speaker:Diane_Serious2]觉得没法轻易解决吗？
 #26815	[!Dialog][!speaker:Ray_Smile]응.	[!Dialog][!speaker:Ray_Smile]嗯。
@@ -16603,7 +16603,7 @@
 #26920	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]차라리 싫으면 좋겠어.	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]要是不喜欢就好了。
 #26921	[!Sentence][!Dialog][!speaker:Giselle_Smile]너답지 않게 솔직하지 못하네.	[!Sentence][!Dialog][!speaker:Giselle_Smile]不像你，不够直率呢。
 #26922	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]내가 뭘...	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]我怎么...
-#26923	[!Sentence][!Dialog][!speaker:Giselle_Smile]카일리는 널 앨리 출신이라고 다르게 보지 않지?	[!Sentence][!Dialog][!speaker:Giselle_Smile]凯莉有介意过你是出身于艾丽的吗？
+#26923	[!Sentence][!Dialog][!speaker:Giselle_Smile]카일리는 널 앨리 출신이라고 다르게 보지 않지?	[!Sentence][!Dialog][!speaker:Giselle_Smile]凯莉有介意过你是出身于艾利的吗？
 #26924	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]응.	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]没有。
 #26925	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]그럼 된 거 아냐?	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]那不就是了？
 #26926	[!Sentence][!Dialog][!speaker:Giselle_Smile]그리고 카일리가 사사건건 나 싫어하는 것 잘 알지?	[!Sentence][!Dialog][!speaker:Giselle_Smile]还有你也知道凯莉不喜欢我的作为是吗？
@@ -17593,7 +17593,7 @@
 #28084	[!Dialog][!speaker:Clare_Laugh3]제일 돈 잘 버는 다이앤이 쏘세요!	那就收入最高的戴安娜请客吧！
 #28085	[!Dialog][!speaker:Angela_Normal_Sunglass]나한테는 기대하지 마. 난 그저 평범한 사무직이야.	我你们就别期待了。我只是个平凡的小职员而已。
 #28086	[!Dialog][!speaker:Ray_Normal_Ourdoor_Happy]걱정 마시라! 친구들! 이 레이가 쏜다!	别担心啦！朋友们！今天就雷伊请客！
-#28087	[!Dialog]앨리의 친구들과 한 번도 느낄 수 없었던 편안함	在和艾丽的朋友们一起时从没感受过的这份开怀。
+#28087	[!Dialog]앨리의 친구들과 한 번도 느낄 수 없었던 편안함	在和艾利的朋友们一起时从没感受过的这份开怀。
 #28088	[!Dialog]소중한 친구들.	我最亲爱的挚友们。
 #28089	[!Dialog]죄는 사라지지 않는다.	[!Dialog]罪孽不会消失。
 #28090	[!Dialog]구룡회 제 1 지부 '백룡회'	[!Dialog]九龙会第1支部（白龙会）

@@ -1512,7 +1512,7 @@
 #3498	[!ObjectInfo]파이	[!ObjectInfo]派
 #3502	[!ObjectInfo]백호 조장	[!ObjectInfo]白虎组长
 #3503	[!ObjectInfo]백호 소란꾼	[!ObjectInfo]白虎捣乱者
-#3504	[!ObjectInfo]앨리	[!ObjectInfo]艾丽
+#3504	[!ObjectInfo]앨리	[!ObjectInfo]艾利
 #3505	[!ObjectInfo]라이언	[!ObjectInfo]瑞恩
 #3506	[!ObjectInfo]주	[!ObjectInfo]朱
 #3507	[!ObjectInfo]리	[!ObjectInfo]李
@@ -1560,7 +1560,7 @@
 #3566	[!Organization]백호	[!Organization]白虎
 #3567	[!Help]발할라	[!Pc]巴赫拉
 #3568	[!Help]동방연합	[!Pc]东方联盟
-#3570	[!Help]앨리	[!ObjectInfo]艾丽
+#3570	[!Help]앨리	[!ObjectInfo]艾利
 #3571	[!Help]아테르 제국	[!Pc]阿泰尔帝国
 #3577	[!Reputation]재의 강	[!Reputation]烬夜江
 #3579	[!Reputation]푸른 안개	[!Reputation]蓝雾区
@@ -2354,7 +2354,7 @@
 #4774	[!FilteringWord]스컬	[!FilteringWord]骷髅
 #4775	[!FilteringWord]지명수배자	[!FilteringWord]通缉犯
 #4776	[!FilteringWord]실버라이닝	[!FilteringWord]沙佛莱宁
-#4777	[!FilteringWord]앨리원더러	[!FilteringWord]艾丽文德乐
+#4777	[!FilteringWord]앨리원더러	[!FilteringWord]艾利文德乐
 #4778	[!FilteringWord]요르문간드	[!FilteringWord]耶梦加得
 #4779	[!FilteringWord]카라스연방	[!FilteringWord]卡拉斯联邦
 #4780	[!FilteringWord]카라스	[!FilteringWord]卡拉斯
@@ -2811,9 +2811,9 @@
 #5567	[!Item]핑크 혼이 처음 사람을 해쳤을 때, 밀려오는 후회와 죄책감을 떨쳐 버릴 수 있었던 것은 어린 시절 '도깨비 핑크'의 이야기였다. 약하고 힘없는 아이들을 괴롭히는 녀석들을 무참히 밟아버리는 도깨비 핑크의 이야기는 지금 핑크 혼의 모습 그 자체가 되어가고 있다.	[!Item]粉色角第一次害人时，让他甩掉涌来的后悔和罪恶感的是小时候听过的「鬼怪粉红」的故事。无情踩踏欺负柔弱无力的孩子们的鬼怪粉红的故事，如今这已经成为了粉色角他自己的故事了。
 #5568	[!Item]해골복	[!Item]骷髅服
 #5570	[!Item]스틸헤드 집회복	[!Item]铁头集会服
-#5571	[!Item]과거 앨리 시절, 카터의 폭주팀 강철머리 팀의 집회복.	[!Item]在过去的艾丽时期，卡特的暴走组铁头组的集会服。
+#5571	[!Item]과거 앨리 시절, 카터의 폭주팀 강철머리 팀의 집회복.	[!Item]在过去的艾利时期，卡特的暴走组铁头组的集会服。
 #5572	[!Item]스틸헤드 리더복	[!Item]铁头首领服
-#5573	[!Item]앨리 시절, 카터는 자신을 따르는 동료들과 함께 팀 '스틸헤드'를 만든다. 팀 스틸헤드는 언제나 버려진 아이들의 편이었고 약자를 착취하려는 자들의 적이었다.	[!Item]艾丽时期，卡特领着追随自己的同伴们一起组建了「铁头」。铁头组总是和被遗弃的孩子们站在一队，是剥削弱者的人们的敌人。
+#5573	[!Item]앨리 시절, 카터는 자신을 따르는 동료들과 함께 팀 '스틸헤드'를 만든다. 팀 스틸헤드는 언제나 버려진 아이들의 편이었고 약자를 착취하려는 자들의 적이었다.	[!Item]艾利时期，卡特领着追随自己的同伴们一起组建了「铁头」。铁头组总是和被遗弃的孩子们站在一队，是剥削弱者的人们的敌人。
 #5574	[!Item]일반 집회복	[!Item]普通集会服
 #5575	[!Item]길거리 폭력배들이 주로 입는 집회복이다. 시중의 평상복에 저가의 방탄 처리가 되어 있다.	[!Item]街头恶徒们主要穿戴的集会服。是市面上的常服上带有便宜的防弹处理的服装。
 #5576	[!Item]순백 집회복	[!Item]纯白集会服
@@ -2908,7 +2908,7 @@
 #5783	[!Item]발할라 경찰들에게 보급된지 10년이 넘는 자동 소총. 대부분 외곽 지구 경찰들이 사용하고 있다.	[!Item]普及到巴赫拉警察手里已经过了10年的自动步枪。大部分的外围地区的警察们使用它。
 #5784	[!Item]팔찌의 재질을 카본화하여 착용자들의 사용성을 증가시켰다. 근접 전투를 병행하는 이능력자들 사이에서 많은 인기를 얻고 있다.	[!Item]使手镯的材质碳化，提升了用户的实用性。并在近身战斗的异能者之间拥有较高的人气。
 #5785	[!Item]이능력 사용자의 기력을 유지하기 쉽도록 도와주는 시스템이 적용된 팔찌로 많은 활동성을 가지는 이능력자들 사이에서는 필수 아이템이다.	[!Item]增加了辅助异能者保持气力的系统的手镯，是活动性较强的超能力者的必需品。
-#5786	[!Item]스틸헤드 팀 창설부터 지금까지 카터는 수많은 팔찌들을 사용하고 버려왔다. 하지만 3년 전, 앨리가 발할라와 병합되자 팀 스틸헤드를 해체하면서 이 팔찌에 스틸헤드 문양을 새겨넣었고 현재까지 계속 사용하고 있다.	[!Item]铁头组自组建以来，卡特用了无数的手镯又废弃了无数个。但是三年前，艾丽和巴赫拉合并后解散了铁头组，当时在这个手镯上刻入了铁头纹样，并使用至今。
+#5786	[!Item]스틸헤드 팀 창설부터 지금까지 카터는 수많은 팔찌들을 사용하고 버려왔다. 하지만 3년 전, 앨리가 발할라와 병합되자 팀 스틸헤드를 해체하면서 이 팔찌에 스틸헤드 문양을 새겨넣었고 현재까지 계속 사용하고 있다.	[!Item]铁头组自组建以来，卡特用了无数的手镯又废弃了无数个。但是三年前，艾利和巴赫拉合并后解散了铁头组，当时在这个手镯上刻入了铁头纹样，并使用至今。
 #5787	[!Item]팔찌의 내구성과 경량화를 통하여 활동성의 제약이 거의 없다.	[!Item]手镯的内部结构和轻型化设计，对活动性的限制几乎为零。
 #5788	[!Item]정령 팔찌	[!Item]精灵手镯
 #5789	[!Item]발할라의 이능력 사용자들에게 가장 많이 보급되어 있는 보급형 이능력 증폭기이다. 기본적으로 사용자의 건강 보조기구 역활을 동시에 한다.	[!Item]巴赫拉的异能者使用的最普遍的泛用型异能增幅器。同时带有基础性的用户健康辅助功能。
@@ -3614,7 +3614,7 @@
 #7012	[!CivilRescueNameSet]원효	[!CivilRescueNameSet]元孝
 #7013	[!CivilRescueNameSet]원술	[!CivilRescueNameSet]元术
 #7014	[!CivilRescueNameSet]영경	[!CivilRescueNameSet]荣京
-#7015	[!CivilRescueNameSet]앨리스	[!CivilRescueNameSet]艾丽丝
+#7015	[!CivilRescueNameSet]앨리스	[!CivilRescueNameSet]艾利丝
 #7016	[!CivilRescueNameSet]아만다	[!CivilRescueNameSet]阿曼达
 #7017	[!CivilRescueNameSet]아미	[!CivilRescueNameSet]艾米
 #7018	[!CivilRescueNameSet]안젤라	[!CivilRescueNameSet]安吉拉
@@ -4374,7 +4374,7 @@
 #7916	[!WordCollection]견제 공격	[!WordCollection]牵制攻击
 #7920	[!Ability]거대한 화염구	[!Ability]巨大的火焰球
 #7921	[!Ability]범위 내의 적을 제외한 모든 대상들의 체력을 $DamageAmount$ 회복합니다.	[!Ability]为目标范围内除了敌人以外的所有对象的恢复$DamageAmount$的体力。
-#7927	[!Mission]앨리 과격파가 숨겨둔 상자 찾기	[!Mission]请寻找艾丽激进派隐藏起来的箱子
+#7927	[!Mission]앨리 과격파가 숨겨둔 상자 찾기	[!Mission]请寻找艾利激进派隐藏起来的箱子
 #7928	[!Rest]나도 알만한 건 다 아는데...	[!Rest]该知道的我都知道了...
 #7930	[!Rest]별로 달갑지 않은 소리군...	[!Rest]听起来不太愿意啊...
 #7931	[!Rest]별 의미 없는 이야기네...	[!Rest]这谈话没啥意义...
@@ -5149,7 +5149,7 @@
 #9012	[!Troublebook]야수 티마	[!Troublebook]野兽蒂玛
 #9013	[!Troublebook]현장의 사람들은 이 날만큼은 범죄자들을 제압하여 발할라의 치안을 지켜낸 것을 기뻐할 수 없었다. 아무리 발달한 의료 기술이라도 이미 생을 달리한 사람을 살릴 수 는 없기 때문이다.	[!Troublebook]这一天现场的人们却无法因为制服罪犯并维护了巴赫拉的治安而高兴起来。因为就算是发达的医疗技术也无法挽回已经逝去的人们。
 #9014	[!Troublebook]발할라의 빛이 되리라	[!Troublebook]成为巴赫拉之光
-#9015	[!Troublebook]빈민가 '앨리' 출신의 카터, 레톤, 레이, 헤이싱. 네 명의 친구들은 서로의 강한 운명의 끈을 따라 다시금 모이게 된다.	[!Troublebook]贫民街「艾丽」出身的卡特、莱顿、雷伊、黑星。这四位朋友依着各自的强大的命运之线，重新汇聚在一起。
+#9015	[!Troublebook]빈민가 '앨리' 출신의 카터, 레톤, 레이, 헤이싱. 네 명의 친구들은 서로의 강한 운명의 끈을 따라 다시금 모이게 된다.	[!Troublebook]贫民街「艾利」出身的卡特、莱顿、雷伊、黑星。这四位朋友依着各自的强大的命运之线，重新汇聚在一起。
 #9016	[!Troublebook]다시 만난 친구들	[!Troublebook]再会的朋友们
 #9017	[!Troublebook]10년 동안 바람장벽 지구에서 강력한 영향력을 행사해 온 범죄 조직 '성난 황소'가 작은 사건을 시작으로 궤멸하기 시작하자 보스인 스콧은 다급하게 조직원들을 모아 자홍 뒷거리에서 재기를 준비한다.	[!Troublebook]在风之壁地区持续占据了十年之久，有着强大影响力的犯罪团伙「狂牛」因为小小的事件而开始了溃灭。作为其首领的斯科特急忙聚集起组织成员们，在紫红后巷准备东山再起。
 #9018	[!Troublebook]성난 황소 울음소리	[!Troublebook]愤怒狂牛的吼声
@@ -10737,19 +10737,19 @@
 #17567	[!Ability]불꽃 베기	[!Ability]火花斩
 #17568	[!Ability]불꽃 파괴검	[!Ability]火花破坏剑
 #17569	[!Item]칠흑의 펄스 블레이드	[!Item]漆黑的脉冲剑
-#17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	[!Item]从东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的陆延香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向陆延香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。「真是把好剑，让我来用吧。」
+#17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	[!Item]从东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的肉烟香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向肉烟香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。「真是把好剑，让我来用吧。」
 #17571	[!Mastery]마검 제어	[!Mastery]魔剑掌控
 #17572	[!Mastery]승부는 찰나.	[!Mastery]胜负在刹那。
 #17574	[!Mastery]마검 장막	[!Mastery]魔剑帷幕
 #17575	[!Mastery]마력을 담은 검은 이능조차 베어버린다.	[!Mastery]附有魔力的剑连异能也砍的掉。
 #17577	[!Mastery]상처 태우기	[!Mastery]灼烧伤口
 #17578	[!Mastery]고통은 배가 되리라.	[!Mastery]痛苦将加倍。
-#17580	[!ObjectInfo]육연향	[!ObjectInfo]陆延香
+#17580	[!ObjectInfo]육연향	[!ObjectInfo]肉烟香
 #17581	[!ObjectInfo]체체	[!ObjectInfo]采采
-#17582	[!NamedEvent]갈취의 육연향	[!NamedEvent]巧取豪夺的陆延香
+#17582	[!NamedEvent]갈취의 육연향	[!NamedEvent]巧取豪夺的肉烟香
 #17583	[!NamedEvent]쓸만한 걸 가지고 있겠지?	[!NamedEvent]你身上带着值钱的东西吧？
 #17584	[!NamedEvent]네 목숨 값은 비싸게 계산해야겠군.	[!NamedEvent]你的命应该挺值钱的。
-#17585	[!GameSystemMessageFormat]육연향이 카일리를 최우선 목표로 삼습니다.	[!GameSystemMessageFormat]陆延香把凯莉当作最优先目标。
+#17585	[!GameSystemMessageFormat]육연향이 카일리를 최우선 목표로 삼습니다.	[!GameSystemMessageFormat]肉烟香把凯莉当作最优先目标。
 #17586	[!Mastery]마검술사	[!Mastery]魔剑术师
 #17587	[!Mastery]마검은 스스로 주인을 선택한다.	[!Mastery]魔剑己选择主人。
 #17589	[!Ability]물의 가호를 받은 아군은 $ApplyBuff$ 상태가 됩니다.	[!Ability]得到水之护佑的队友将进入$ApplyBuff$状态。
@@ -11129,7 +11129,7 @@
 #17995	[!LobbyIdleMessage][!speaker:Heissing]남은 기간을 의식하니... 나마저 조급해지는군...	[!LobbyIdleMessage][!speaker:Heissing]意识到剩下的时间...连我也开始着急了...
 #17996	[!LobbyIdleMessage][!speaker:Heissing]하쿠야에게... 아니야...	[!LobbyIdleMessage][!speaker:Heissing]要么向白夜...啊，没什么...
 #17997	[!LobbyIdleMessage][!speaker:Heissing]조금 더 즐거운 추억이 가득하면 좋을텐데...	[!LobbyIdleMessage][!speaker:Heissing]如果能充满更愉快的回忆就好了...
-#17998	[!LobbyIdleMessage][!speaker:Heissing]앨리... 우리는 가족인가...	[!LobbyIdleMessage][!speaker:Heissing]艾丽...是家族的吧...
+#17998	[!LobbyIdleMessage][!speaker:Heissing]앨리... 우리는 가족인가...	[!LobbyIdleMessage][!speaker:Heissing]艾利...是家族的吧...
 #17999	[!LobbyIdleMessage][!speaker:Heissing]이제 끝내야겠지...	[!LobbyIdleMessage][!speaker:Heissing]该结束了...
 #18000	[!LobbyIdleMessage][!speaker:Heissing]널 멈추는 방법은 결국...	[!LobbyIdleMessage][!speaker:Heissing]停止你的方法最终是...
 #18001	[!LobbyIdleMessage][!speaker:Heissing]기다리는 것은 여전히 지겹군...	[!LobbyIdleMessage][!speaker:Heissing]等待真的是太无聊了...
@@ -11149,14 +11149,14 @@
 #18015	[!LobbyIdleMessage][!speaker:Ray]다른 지구 사람이 카오스 브러시를 알다니...	[!LobbyIdleMessage][!speaker:Ray]其他地区的人竟然知道混沌刷...
 #18016	[!LobbyIdleMessage][!speaker:Ray]역시... 대기업을 다닌 사람이라...	[!LobbyIdleMessage][!speaker:Ray]果然...曾在大企业的人果然不一样...
 #18017	[!LobbyIdleMessage][!speaker:Ray]한 성격하게 생겼는데...	[!LobbyIdleMessage][!speaker:Ray]外表看起来很有点性格呐...
-#18018	[!LobbyIdleMessage][!speaker:Ray]앨리의 겨울은 배고픈 게 가장 문제였지...	[!LobbyIdleMessage][!speaker:Ray]艾丽的冬天饿肚子是最紧迫的问题...
+#18018	[!LobbyIdleMessage][!speaker:Ray]앨리의 겨울은 배고픈 게 가장 문제였지...	[!LobbyIdleMessage][!speaker:Ray]艾利的冬天饿肚子是最紧迫的问题...
 #18019	[!LobbyIdleMessage][!speaker:Ray]레톤과 카터는 뭘 하고 있을까...	[!LobbyIdleMessage][!speaker:Ray]莱顿和卡特到底要做什么呢...
 #18020	[!LobbyIdleMessage][!speaker:Ray]카터... 미안해...	[!LobbyIdleMessage][!speaker:Ray]卡特...对不起...
 #18021	[!LobbyIdleMessage][!speaker:Ray]더는 타인에게 피해를 주지마. 카터...	[!LobbyIdleMessage][!speaker:Ray]不要再伤害别人了。卡特...
 #18022	[!LobbyIdleMessage][!speaker:Ray]헤이싱... 믿고 있으면 될까...	[!LobbyIdleMessage][!speaker:Ray]只要相信黑星就行了吗...
 #18023	[!LobbyIdleMessage][!speaker:Ray]나... 이렇게 있는 것이 큰 실수인 것은 아닌 걸까...	[!LobbyIdleMessage][!speaker:Ray]呃...像这样呆在这不会是很大的失误吗...
 #18024	[!LobbyIdleMessage][!speaker:Ray]이 팀은 계속 성장하는구나...	[!LobbyIdleMessage][!speaker:Ray]这个队伍越来越强大了啊...
-#18025	[!LobbyIdleMessage][!speaker:Ray]앨리 원더러도 한때는 이런 분위기였는데...	[!LobbyIdleMessage][!speaker:Ray]艾丽文德乐原来也是这样的气氛的...
+#18025	[!LobbyIdleMessage][!speaker:Ray]앨리 원더러도 한때는 이런 분위기였는데...	[!LobbyIdleMessage][!speaker:Ray]艾利文德乐原来也是这样的气氛的...
 #18026	[!LobbyIdleMessage][!speaker:Ray]욕심을 부리지 않았다면... 이 팀처럼 우리도 웃을 수 있었을까...	[!LobbyIdleMessage][!speaker:Ray]如果没有贪欲的话...我们也会像这个队伍一样笑吗...
 #18027	[!LobbyIdleMessage][!speaker:Ray]만약... 필요하다면 내가 해야 해...	[!LobbyIdleMessage][!speaker:Ray]如果...必要的话就由我来做...
 #18028	[!LobbyIdleMessage][!speaker:Ray]카터, 레톤.... 기다려. 내가 가...	[!LobbyIdleMessage][!speaker:Ray]卡特，莱顿...等着我。我来阻止...
@@ -11168,7 +11168,7 @@
 #18034	[!LobbyIdleMessage][!speaker:Ray]이 작품 애들하고 그렸던 거네...	[!LobbyIdleMessage][!speaker:Ray]这部作品是曾和孩子们一起画的...
 #18035	[!LobbyIdleMessage][!speaker:Ray]카터는 다른 사람들에게 피해를 주면서까지 무엇을 하려는 걸까...	[!LobbyIdleMessage][!speaker:Ray]卡特给别人伤害到底是想要做什么呢...
 #18036	[!LobbyIdleMessage][!speaker:Ray]발할라는 위선적인 도시야...	[!LobbyIdleMessage][!speaker:Ray]巴赫拉是个充满伪善的城市...
-#18037	[!LobbyIdleMessage][!speaker:Ray]앨리를 떠나지 말았어야 했나...	[!LobbyIdleMessage][!speaker:Ray]是不应该离开艾丽的吗...
+#18037	[!LobbyIdleMessage][!speaker:Ray]앨리를 떠나지 말았어야 했나...	[!LobbyIdleMessage][!speaker:Ray]是不应该离开艾利的吗...
 #18038	[!LobbyIdleMessage][!speaker:Ray]헤이싱은 어떻게 고난의 성채를 빠져 나왔을까...	[!LobbyIdleMessage][!speaker:Ray]黑星到底是怎么离开苦难城寨的...
 #18039	[!LobbyIdleMessage][!speaker:Ray]레톤은 카터를 말릴 생각이 없는 건가...	[!LobbyIdleMessage][!speaker:Ray]莱顿是没想去说服卡特的吗...
 #18040	[!LobbyIdleMessage][!speaker:Ray]타인에게 상처를 주면 결국 다치는 것은 자신일텐데...	[!LobbyIdleMessage][!speaker:Ray]伤害别人最终受伤的会是自己的...
@@ -11208,7 +11208,7 @@
 #18074	[!LobbyIdleMessage][!speaker:Kylie]폭력 조직의 끝은 뻔하지...	[!LobbyIdleMessage][!speaker:Kylie]暴力组织的终结是显而易见的...
 #18075	[!LobbyIdleMessage][!speaker:Kylie]푸 녀석... 거드름 피우더니 이젠 끝이군...	[!LobbyIdleMessage][!speaker:Kylie]普那家伙...谁叫他那么喜欢摆架子...
 #18076	[!LobbyIdleMessage][!speaker:Kylie]도대체 누가 이렇게 많은 기계들을 공급하는 거지...	[!LobbyIdleMessage][!speaker:Kylie]到底是谁供应了这么多机器呢...
-#18077	[!LobbyIdleMessage][!speaker:Kylie]앨리의 버려진 아이들이라...	[!LobbyIdleMessage][!speaker:Kylie]被艾丽抛弃的孩子们啊...
+#18077	[!LobbyIdleMessage][!speaker:Kylie]앨리의 버려진 아이들이라...	[!LobbyIdleMessage][!speaker:Kylie]被艾利抛弃的孩子们啊...
 #18078	[!LobbyIdleMessage][!speaker:Kylie]승천을 노리는 잉어들이 움직이는 건가...	[!LobbyIdleMessage][!speaker:Kylie]想要跃龙门的鲤鱼们开始行动了吗...
 #18079	[!LobbyIdleMessage][!speaker:Kylie]나로 인해 회사 동료들이 휘말리는 일은 없도록 해야 해...	[!LobbyIdleMessage][!speaker:Kylie]不要让公司同事因为我而卷入其中...
 #18080	[!LobbyIdleMessage][!speaker:Kylie]정찰용 드론의 기동성을 확보하려면 역시 경량화인가...	[!LobbyIdleMessage][!speaker:Kylie]要获得侦察用无人机的机动性的话果然是要轻量化吗...
@@ -11495,7 +11495,7 @@
 #18462	[!LobbyIdleMessage][!speaker:Irene]내 역할이 모호해...	[!LobbyIdleMessage][!speaker:Irene]我的角色变的有点模糊...
 #18463	[!LobbyIdleMessage][!speaker:Irene]조금 더 내가 회사에 도움이 될 수 있는 방법은 없을까?	[!LobbyIdleMessage][!speaker:Irene]有没有什么方法能让我对公司更有帮助呢？
 #18464	[!LobbyIdleMessage][!speaker:Anne]헤이싱 오빠는 머리는 염색하신 걸까...	[!LobbyIdleMessage][!speaker:Anne]黑星哥哥是染头发了吗？
-#18465	[!LobbyIdleMessage][!speaker:Anne]앨리라는 곳은 어떤 곳일까...	[!LobbyIdleMessage][!speaker:Anne]艾丽到底是个什么样的地方呢...
+#18465	[!LobbyIdleMessage][!speaker:Anne]앨리라는 곳은 어떤 곳일까...	[!LobbyIdleMessage][!speaker:Anne]艾利到底是个什么样的地方呢...
 #18466	[!LobbyIdleMessage][!speaker:Heissing]재밌게 됐군....	[!LobbyIdleMessage][!speaker:Heissing]变得有趣了...
 #18467	[!LobbyIdleMessage][!speaker:Heissing]이미 늦었나...	[!LobbyIdleMessage][!speaker:Heissing]已经晚了吗...
 #18468	[!LobbyIdleMessage][!speaker:Ray]이제와 레톤이 합류하다니... 뭔가 수상해.	[!LobbyIdleMessage][!speaker:Ray]莱顿竟然现在才加入...很可疑。
@@ -12097,7 +12097,7 @@
 #19196	[!Sector]오랜 기간 지하로 내려간 인원과 무기, 병력 그리고 각 채굴장의 지하 생태계에 대한 정보는 과장되거나 숨겨져 있어 현재 상태를 확인하기 어렵다.	[!Sector]长期下沉到地下的人员、武器、兵力以及各开采场的地下生态的信息被夸大或隐藏，因此难以确定目前的状态。
 #19197	[!Sector]거주 지구를 점령한 세력이 해당 지구의 채굴장의 채굴량을 독점하는 구조로 인하여 거주구 점령 세력이 다른 타 세력 채굴자를 착취하는 구조이다. 따라서 각 지구 별로 분쟁이 자주 일어난다.	[!Sector]因为占领居住区的势力可独占该地区开采场的开采量，所有占领居住区的势力通常都会剥削其他势力的开采者。因此各地区经常发生纠纷。
 #19198	[!Sector]희망이 없는 채굴자들이 '성주'를 경외시 하는 경향이 있다.	[!Sector]没有任何希望的开采者往往敬畏「城主」。
-#19199	[!Sector]앨리	[!ObjectInfo]艾丽
+#19199	[!Sector]앨리	[!ObjectInfo]艾利
 #19200	[!Sector]세계 대전 이후 카라스 연방과 동방 연합의 국경 사이의 전쟁 난민들이 모여들어 생성된 빈민가였다. AE 800년, 발할라에 통합되어 현재는 대대적인 재개발이 진행 중이다.	[!Sector]是自世界大战以来，卡拉斯联邦和东方联盟边界间的战争难民的聚居从而形成的贫民窟。AE 800年，与巴赫拉合并后正在进行大规模的重建中。
 #19201	[!Sector]세계 대전 종전 후 난민들이 모여들어 수천 명이 거주하던 시절이 있었으나 극심한 빈곤으로 인한 아사자와 부족한 의료 시설로 인한 병사자들이 급증하였고 그 결과 발할라에 병합 직전에는 천여 명정도였다. 현재는 전원 발할라로 강제 이주 당하였다.	[!Sector]世界大战结束后，曾有数千名难民聚居于此。但由于极度贫困，被饿死的和缺乏医疗设施而病死的人剧增，从而导致在与巴赫拉合并之前只剩有千人左右。现已被强行移居到巴赫拉。
 #19202	[!StatsInfo]총 미션 참여 횟수	[!StatsInfo]总任务参与次数
@@ -15419,7 +15419,7 @@
 #23554	[!Troublebook]미워도 다시 한번...	[!Troublebook]就算讨厌也要再一次...
 #23555	[!Troublebook]자홍거리 재건축지구	[!Troublebook]紫红街重建区
 #23556	[!Troublebook]열정과 냉정 사이	[!Troublebook]热情与冷静之间
-#23557	[!Troublebook]카일리는 자신이 과거 앨리를 붕괴시킨 구룡회 사람이라는 사실을 알게 된 레이의 분노를 담담히 받아 들인다.	[!Troublebook]凯莉平静地接受了雷伊知道她就是导致艾丽崩溃的当事人后发出的愤怒。
+#23557	[!Troublebook]카일리는 자신이 과거 앨리를 붕괴시킨 구룡회 사람이라는 사실을 알게 된 레이의 분노를 담담히 받아 들인다.	[!Troublebook]凯莉平静地接受了雷伊知道她就是导致艾利崩溃的当事人后发出的愤怒。
 #23558	[!WordCollection]정지	[!WordCollection]停止
 #23559	[!WordCollection]사무실 BGM	[!WordCollection]办公室 BGM
 #23560	[!WordCollection]현재 선택 곡	[!WordCollection]现在的选曲
