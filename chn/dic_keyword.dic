@@ -2931,11 +2931,11 @@
 #5811	[!Item]티타늄 손목 보호대	[!Item]钛合金护腕
 #5812	[!Item]반짝이는 손목 보호대	[!Item]闪耀的护腕
 #5815	[!ObjectInfo]VHPD 기동대	[!ObjectInfo]VHPD机动队
-#5818	[!SystemMenu]바탕 화면으로 나가기	[!SystemMenu]退出到桌面
-#5823	[!WordCollection]난이도 선택	[!WordCollection]选择难度
+#5818	[!SystemMenu]바탕 화면으로 나가기	[!SystemMenu]退出游戏
+#5823	[!WordCollection]난이도 선택	[!WordCollection]难度选择
 #5826	[!SystemMenu]게임 계속하기	[!SystemMenu]继续游戏
 #5827	[!WordCollection]게임 계속하기	[!WordCollection]继续游戏
-#5831	[!SystemMenu]난이도 설정	[!SystemMenu]选择难度
+#5831	[!SystemMenu]난이도 설정	[!SystemMenu]难度选择
 #5833	[!SystemMenu]환경 설정	[!SystemMenu]环境设置
 #5834	[!SystemMenu]임무 포기	[!SystemMenu]放弃任务
 #5835	[!SystemMenu]메인 메뉴로 가기	[!SystemMenu]返回主菜单
@@ -5448,7 +5448,7 @@
 #9393	[!KeyCode]위로 스크롤	[!KeyCode]向上滚动
 #9394	[!Loading]서로의 어깨에 기대어...	[!Loading]互相依偎着...
 #9396	[!Site]철의 숲 외곽도로	[!Site]铁森林外围道路
-#9397	[!SystemMenu]단축키 설정	[!SystemMenu]设置快捷键
+#9397	[!SystemMenu]단축키 설정	[!SystemMenu]键位设置
 #9398	[!WordCollection][!Menu]분해 결과물	[!WordCollection][!Menu]分解结果
 #9399	[!WordCollection][!Menu]분해하기	[!WordCollection][!Menu]分解
 #9400	[!WordCollection]분해 가능한 장비만 보기	[!WordCollection]只看可分解的装备
@@ -5456,7 +5456,7 @@
 #9402	[!WordCollection]아이템 분해 완료	[!WordCollection]物品分解完毕
 #9403	[!WordCollection]작업대	[!WordCollection]工作台
 #9404	[!WordCollection]작업대 설치하기	[!WordCollection]安装工作台
-#9405	[!WordCollection][!Menu]단축키 설정	[!WordCollection][!Menu]设置快捷键
+#9405	[!WordCollection][!Menu]단축키 설정	[!WordCollection][!Menu]键位设置
 #9406	[!WordCollection][!Menu]강화 내역	[!WordCollection][!Menu]强化内容
 #9407	[!WordCollection][!Menu]필요 재료	[!WordCollection][!Menu]所需素材
 #9409	[!Job]저격수	[!Job]狙击手
@@ -9688,7 +9688,7 @@
 #16158	[!Item]개조된 크레인 핸드 - 냉각 가스	[!Item]改装起重机械臂 - 冷气
 #16159	[!Item]개조된 크레인 핸드 - 전기 충격	[!Item]改装起重机械臂 - 电击
 #16160	[!LayoutKeyword]재료 도감	[!WordCollection]素材图鉴
-#16161	[!Loading]푸른 안개 G 물류센터	[!Loading]蓝雾-G物流中心
+#16161	[!Loading]푸른 안개 G 물류센터	[!Loading]蓝雾G物流中心
 #16164	[!Mastery]작은 움직임도 놓치지 않는다.	[!Mastery]一丝不苟
 #16165	[!Mastery]자동 제압 사격	[!Mastery]自动压制射击
 #16168	[!Mastery]괴수 길들이기	[!Mastery]驯兽大师
@@ -9852,7 +9852,7 @@
 #16366	[!Mastery]도망쳐서 자유롭게 살아라.	[!Mastery]逃离后过上自由自在的生活吧。
 #16367	[!Mastery]생존 모드	[!Mastery]生存模式
 #16369	[!Mastery]내풍성	[!Mastery]耐风性
-#16374	[!Mission]푸른 안개 G 물류 센터	[!Mission]蓝雾-G物流中心
+#16374	[!Mission]푸른 안개 G 물류 센터	[!Mission]蓝雾G物流中心
 #16375	[!ObjectInfo]파이어크론	[!ObjectInfo]火焰拜克伦
 #16376	[!ObjectInfo]프로스트크론	[!ObjectInfo]冰霜拜克伦
 #16377	[!ObjectInfo]라이트닝크론	[!ObjectInfo]闪电拜克伦
@@ -15376,7 +15376,7 @@
 #23511	[!Site]하늘바람 거주구	[!Site]天风居住区
 #23512	[!Troublebook]하늘바람 상점가	[!Troublebook]天风商店街
 #23513	[!Troublebook]각자의 역할	[!Troublebook]各自的职责
-#23514	[!Troublebook]무거운 짐을 내려놓기.	[!Troublebook]把重担放下。
+#23514	[!Troublebook]무거운 짐을 내려놓기.	[!Troublebook]把重担放下
 #23515	[!Troublebook]아이작은 샤키로부터 받은 정보의 처분에 대한 고민 끝에 알버스를 만나기로 결정한다.	[!Troublebook]艾萨克为了处理从沙基那拿到的情报，最终决定与阿尔伯斯见面。
 #23516	[!GameDifficulty]턴제 전략 게임을 처음 진행하시는 분들을 위한 난이도입니다.	[!GameDifficulty]对第一次进行回合制策略游戏的玩家所准备的难度。
 #23517	[!GameDifficulty]적의 전략적 판단	[!GameDifficulty]敌人的战略判断
@@ -15418,7 +15418,7 @@
 #23553	[!Suggestion]카일리는 알버스에게 정시 퇴근을 요청합니다.<br><br>[colour='FFFFFF00']카일리의 제안 수락 시 카일리, 헤이싱, 레톤 , 레이로 진행하는 시나리오 미션이 진행됩니다. 미리 장비를 점검하세요.	[!Suggestion]凯莉向阿尔伯斯请求准时下班。<br><br>[colour='FFFFFF00']接受凯莉要求时，将以凯莉，黑星，莱顿，雷伊进行剧情任务。请提前检查装备。
 #23554	[!Troublebook]미워도 다시 한번...	[!Troublebook]就算讨厌也要再一次...
 #23555	[!Troublebook]자홍거리 재건축지구	[!Troublebook]紫红街重建区
-#23556	[!Troublebook]열정과 냉정 사이	[!Troublebook]热情与冷静之间
+#23556	[!Troublebook]열정과 냉정 사이	[!Troublebook]热与冷
 #23557	[!Troublebook]카일리는 자신이 과거 앨리를 붕괴시킨 구룡회 사람이라는 사실을 알게 된 레이의 분노를 담담히 받아 들인다.	[!Troublebook]凯莉平静地接受了雷伊知道她就是导致艾利崩溃的当事人后发出的愤怒。
 #23558	[!WordCollection]정지	[!WordCollection]停止
 #23559	[!WordCollection]사무실 BGM	[!WordCollection]办公室背景音乐
@@ -15550,7 +15550,7 @@
 #23685	[!ServerRegion]중국 본토 유저들의 경우, 실제 물리적 위치가 아시아 서버가 더 가까운 지역에서 접속하더라도 이 서버가 더 안정적이고 좋은 반응 속도를 유지할 수 있습니다.	[!ServerRegion]即使中国大陆的玩家所在位置离亚洲服务器更近，这服务器能带来更好的游玩环境。
 #23686	[!ServerRegion]중국 본토 외부에서 해당 서버로 접속하려는 경우, 만리방화벽을 거치게 되므로 거리에 상관없이 게임 반응 속도가 나쁠 수 있습니다.	[!ServerRegion]在中国大陆以外的地区尝试使用服务器时，因为特殊网络原因可导致延迟和丢包的情况。
 #23687	[!Troublebook]서로를 위해...	[!Troublebook]为了彼此...
-#23688	[!Troublebook]오랜 친구	[!Troublebook]老朋友
+#23688	[!Troublebook]오랜 친구	[!Troublebook]老友
 #23690	[!WordCollection]그래픽 품질 선택	[!WordCollection]选择画面质量
 #23691	[!GuideMessage][colour='FFFFFFFF']마지막 남은 플레이어 캐릭터는 현장에서 퇴각할 수 없습니다.<br>[colour='FFFFE959']마지막 남은 플레이어 캐릭터를 퇴각시키시려면 임무 포기를 선택해주세요.	[!GuideMessage][colour='FFFFFFFF']最后的角色无法在现场退却。<br>[colour='FFFFE959']想要退却最后的角色是，请选择放弃任务。
 #23695	[!LayoutKeyword]로그 전송	[!LayoutKeyword]发送Log日志
@@ -16124,7 +16124,7 @@
 #24285	[!ObjectVoiceSound][!speaker:Heissing]훗, 빗나가지 않는다.	[!ObjectVoiceSound][!speaker:Heissing]呵，不会射偏的。
 #24286	[!Site]잿빛 항구 선착장	[!Site]灰港码头
 #24287	[!Site]재의 강 민간 하역장	[!Site]烬夜江民营装卸场
-#24292	[!Troublebook]모든 것은 끝난다.	[!Troublebook]一切都会结束。
+#24292	[!Troublebook]모든 것은 끝난다.	[!Troublebook]一切都会结束
 #24296	[!Loading]나를 위해..	[!Loading]为了我...
 #24297	[!Loading]자홍거리 뒷골목	[!Troublebook]紫红街后巷
 #24298	[!LobbyEvent]제 1 장. 트러블슈터입니다.	[!Troublebook]第一章 - 我是纷争终结者
@@ -16203,7 +16203,7 @@
 #24371	[!LobbyEvent]모듈 제작	[!WordCollection][!menu]制作模块
 #24372	[!ObjectInfo]유노미아	[!ObjectInfo]欧诺弥亚
 #24373	[!SystemMenu]로비 이벤트	[!SystemMenu]过场剧情回顾
-#24374	[!LobbyEvent]모든 것은 끝난다.	[!Troublebook]一切都会结束。
+#24374	[!LobbyEvent]모든 것은 끝난다.	[!Troublebook]一切都会结束
 #24375	[!LobbyEvent]유실물	[!WordCollection]失物
 #24376	[!LobbyEvent]사수 거리	[!Waypoint]射手街
 #24377	[!LobbyEvent]재료 도감	[!WordCollection]素材图鉴
