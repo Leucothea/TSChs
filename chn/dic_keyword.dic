@@ -2332,7 +2332,7 @@
 #4752	[!Status][!Short]바람 저항	[!Status][!Short]风抗性
 #4753	[!FilteringWord]아르월	[!FilteringWord]阿尔月
 #4754	[!FilteringWord]무장해제	[!FilteringWord]解除武装
-#4755	[!FilteringWord]댄디라이언	[!FilteringWord]丹迪瑞恩
+#4755	[!FilteringWord]댄디라이언	[!FilteringWord]丹迪・瑞恩
 #4756	[!FilteringWord]트러블슈터	[!FilteringWord]纷争终结者
 #4757	[!FilteringWord]벤데타	[!FilteringWord]凡蒂塔
 #4758	[!FilteringWord]발할라	[!FilteringWord]巴赫拉
@@ -3343,11 +3343,11 @@
 #6440	[!StatsInfo]아군 전투 불능 수	[!StatsInfo]无法战斗的队友人数
 #6442	[!StatsInfo]상자 획득 수	[!StatsInfo]箱子获得个数
 #6444	[!SystemMail]$CompanyName$ 감사합니다!	[!SystemMail]$CompanyName$谢谢你！
-#6445	[!SystemMail][colour='FFFFE959']안녕하십니까. 발할라 제 13 지구. 바람장벽지구의 사무관 [colour='FFFFFFFF']하비에르[colour='FFFFE959']입니다.<br><br>$CompanyName$ 리더 알버스 번스타인님의 거주지 이전 신청 관련하여 발할라 주민 등록법 4조 1항에 의거하여 거주지 이전 신청이 완료되었음을 알려드립니다.<br><br>[colour='FFFFFFAA']주민등록법 4 조 1항: <br>[colour='FFFFAA00']트러블슈터 회사의 이전이 있는 경우, 회사의 리더는 거주지 제약과 무관하게 해당 회사가 위치한 곳으로 이전할 수 있다.[colour='FFFFE959']<br><br>거주지 이전 후 3개월 내 회사를 설립하시지 못하시면 해당 신청은 자동 취소되므로 유의하시길 바랍니다.<br><br>새로운 곳에서 더 나은 미래를 위해 노력해주시길 바랍니다.<br><br>[colour='FFFFFFFF']바람장벽 지구 사무관 하비에르	[!SystemMail][colour='FFFFE959']你好。我是巴赫拉第13区风之壁地区的事务官[colour='FFFFFFFF']哈维尔[colour='FFFFE959']。<br><br>对于$CompanyName$领袖阿尔伯斯伯恩斯坦的居住地转移申请，根据巴赫拉居民登记法4条1项，居住地转移申请已生效。<br><br>[colour='FFFFFFAA']居民登记法4条1项：<br>[colour='FFFFAA00']纷争终结者公司发生转移时，公司的领袖可无视居住地制约而转移到相应公司所在的地点。[colour='FFFFE959']<br><br>转移居住地后3个月内不建立公司，则该申请将会失效，敬请留意。<br><br>希望你能在新的地方开展更加美好的事业。<br><br>[colour='FFFFFFFF']风之壁地区事务官哈维尔敬上
+#6445	[!SystemMail][colour='FFFFE959']안녕하십니까. 발할라 제 13 지구. 바람장벽지구의 사무관 [colour='FFFFFFFF']하비에르[colour='FFFFE959']입니다.<br><br>$CompanyName$ 리더 알버스 번스타인님의 거주지 이전 신청 관련하여 발할라 주민 등록법 4조 1항에 의거하여 거주지 이전 신청이 완료되었음을 알려드립니다.<br><br>[colour='FFFFFFAA']주민등록법 4 조 1항: <br>[colour='FFFFAA00']트러블슈터 회사의 이전이 있는 경우, 회사의 리더는 거주지 제약과 무관하게 해당 회사가 위치한 곳으로 이전할 수 있다.[colour='FFFFE959']<br><br>거주지 이전 후 3개월 내 회사를 설립하시지 못하시면 해당 신청은 자동 취소되므로 유의하시길 바랍니다.<br><br>새로운 곳에서 더 나은 미래를 위해 노력해주시길 바랍니다.<br><br>[colour='FFFFFFFF']바람장벽 지구 사무관 하비에르	[!SystemMail][colour='FFFFE959']你好。我是巴赫拉第13区风之壁地区的事务官[colour='FFFFFFFF']哈维尔[colour='FFFFE959']。<br><br>对于$CompanyName$领袖阿尔伯斯・伯恩斯坦的居住地转移申请，根据巴赫拉居民登记法4条1项，居住地转移申请已生效。<br><br>[colour='FFFFFFAA']居民登记法4条1项：<br>[colour='FFFFAA00']纷争终结者公司发生转移时，公司的领袖可无视居住地制约而转移到相应公司所在的地点。[colour='FFFFE959']<br><br>转移居住地后3个月内不建立公司，则该申请将会失效，敬请留意。<br><br>希望你能在新的地方开展更加美好的事业。<br><br>[colour='FFFFFFFF']风之壁地区事务官哈维尔敬上
 #6446	[!SystemMail]거주지 이전 신청 결과를 알려드립니다.	[!SystemMail]居住地转移申请结果通知。
-#6447	[!SystemMail][colour='FFFFE959']안녕하십니까. 현장 실습생 [colour='FFFFFFFF']알버스 번스타인[colour='FFFFE959']님<br><br>저는 아르월의 리더 [colour='FFFFFFFF']나디아 루이스[colour='FFFFE959']입니다.<br><br>먼저 귀하의 3개월간의 현장 실습이 무사히 끝난 것을 축하드립니다.<br>알버스 님의 평가는 저희 담당관이신 [colour='FFFFFFFF']장 루이스[colour='FFFFE959']님께서 평가하여 발할라 경찰청에 보고하였습니다.<br>알버스 님에게 좋은 결과가 있길 바라며 저희 '아르월'을 현장 실습 회사로 찾아주셔서 다시 한번 감사드립니다.<br><br>동봉한 금액은 3개월간의 활동에 관한 보상금입니다.<br><br>알버스 님과 다시 한번 현장에서 같이 뛰어가는 날을 기대하겠습니다.<br><br>[colour='FFFFFFFF']아르월 대표 나디아 루이스	[!SystemMail][colour='FFFFE959']你好。现场实习生[colour='FFFFFFFF']阿尔伯斯伯恩斯坦[colour='FFFFE959'],<br><br>我是阿尔月的领袖[colour='FFFFFFFF']纳迪亚路易斯[colour='FFFFE959']。<br><br>首先恭喜你完成了为时3个月的现场实习。<br>阿尔伯斯你的评价是由我们的担当官[colour='FFFFFFFF']张路易斯[colour='FFFFE959']进行的，并已向巴赫拉警察厅进行了报告。<br>希望阿尔伯斯你能有个好成绩，同时再次感谢你选择我们「阿尔月」为现场实习公司。<br><br>附在邮件内的金额是你这3个月的工作奖金。<br><br>希望日后能和阿尔伯斯你一起工作。<br><br>[colour='FFFFFFFF']阿尔月代表纳迪亚路易斯
+#6447	[!SystemMail][colour='FFFFE959']안녕하십니까. 현장 실습생 [colour='FFFFFFFF']알버스 번스타인[colour='FFFFE959']님<br><br>저는 아르월의 리더 [colour='FFFFFFFF']나디아 루이스[colour='FFFFE959']입니다.<br><br>먼저 귀하의 3개월간의 현장 실습이 무사히 끝난 것을 축하드립니다.<br>알버스 님의 평가는 저희 담당관이신 [colour='FFFFFFFF']장 루이스[colour='FFFFE959']님께서 평가하여 발할라 경찰청에 보고하였습니다.<br>알버스 님에게 좋은 결과가 있길 바라며 저희 '아르월'을 현장 실습 회사로 찾아주셔서 다시 한번 감사드립니다.<br><br>동봉한 금액은 3개월간의 활동에 관한 보상금입니다.<br><br>알버스 님과 다시 한번 현장에서 같이 뛰어가는 날을 기대하겠습니다.<br><br>[colour='FFFFFFFF']아르월 대표 나디아 루이스	[!SystemMail][colour='FFFFE959']你好。现场实习生[colour='FFFFFFFF']阿尔伯斯・伯恩斯坦[colour='FFFFE959'],<br><br>我是阿尔月的领袖[colour='FFFFFFFF']纳迪亚路易斯[colour='FFFFE959']。<br><br>首先恭喜你完成了为时3个月的现场实习。<br>阿尔伯斯你的评价是由我们的担当官[colour='FFFFFFFF']张路易斯[colour='FFFFE959']进行的，并已向巴赫拉警察厅进行了报告。<br>希望阿尔伯斯你能有个好成绩，同时再次感谢你选择我们「阿尔月」为现场实习公司。<br><br>附在邮件内的金额是你这3个月的工作奖金。<br><br>希望日后能和阿尔伯斯你一起工作。<br><br>[colour='FFFFFFFF']阿尔月代表纳迪亚路易斯
 #6448	[!SystemMail]현장 실습생 알버스 님 축하드립니다.	[!SystemMail]现场实习生阿尔伯斯，恭喜你。
-#6449	[!SystemMail][colour='FFFFE959']안녕하십니까? 발할라 시장 [colour='FFFFFFFF']칼 레인[colour='FFFFE959'] 입니다.<br><br>[colour='FFFFFFFF']알버스 번스타인[colour='FFFFE959']님의 정식 트러블슈터 승격을 발할라 시민을 대표하여 진심으로 축하드립니다.<br><br>우리 발할라 시정부는 시민들의 안전과 번영을 위해 최선을 다하고 있으며 그 일환으로 우수한 트러블슈터들의 양성과 활동을 지원하고 있습니다.<br><br>시민들과 발할라를 수호하는 트러블슈터로서 앞으로의 길에 발할라의 영광이 함께 하기를 기원하겠습니다.<br><br>감사합니다.<br><br>[colour='FFFFFFFF']발할라 시장 칼 레인	[!SystemMail][colour='FFFFE959']你好？我是巴赫拉的市长[colour='FFFFFFFF']卡尔雷因[colour='FFFFE959']。<br><br>恭喜[colour='FFFFFFFF']阿尔伯斯伯恩斯坦[colour='FFFFE959']晋升为正式纷争终结者，我谨代表巴赫拉的市民向你表示诚挚的祝贺。<br><br>我们巴赫拉市政府正尽全力保障市民们的安全与繁荣，其中一个重要环节是为优秀的纷争终结者们提供培训和活动援助。<br><br>作为一名守护着市民和巴赫拉的纷争终结者，希望你的前途一片光明，巴赫拉的荣光与你同在。<br><br>谢谢。<br><br>[colour='FFFFFFFF']巴赫拉市长卡尔雷因
+#6449	[!SystemMail][colour='FFFFE959']안녕하십니까? 발할라 시장 [colour='FFFFFFFF']칼 레인[colour='FFFFE959'] 입니다.<br><br>[colour='FFFFFFFF']알버스 번스타인[colour='FFFFE959']님의 정식 트러블슈터 승격을 발할라 시민을 대표하여 진심으로 축하드립니다.<br><br>우리 발할라 시정부는 시민들의 안전과 번영을 위해 최선을 다하고 있으며 그 일환으로 우수한 트러블슈터들의 양성과 활동을 지원하고 있습니다.<br><br>시민들과 발할라를 수호하는 트러블슈터로서 앞으로의 길에 발할라의 영광이 함께 하기를 기원하겠습니다.<br><br>감사합니다.<br><br>[colour='FFFFFFFF']발할라 시장 칼 레인	[!SystemMail][colour='FFFFE959']你好？我是巴赫拉的市长[colour='FFFFFFFF']卡尔雷因[colour='FFFFE959']。<br><br>恭喜[colour='FFFFFFFF']阿尔伯斯・伯恩斯坦[colour='FFFFE959']晋升为正式纷争终结者，我谨代表巴赫拉的市民向你表示诚挚的祝贺。<br><br>我们巴赫拉市政府正尽全力保障市民们的安全与繁荣，其中一个重要环节是为优秀的纷争终结者们提供培训和活动援助。<br><br>作为一名守护着市民和巴赫拉的纷争终结者，希望你的前途一片光明，巴赫拉的荣光与你同在。<br><br>谢谢。<br><br>[colour='FFFFFFFF']巴赫拉市长卡尔雷因
 #6450	[!SystemMail]정식 트러블슈터 승격을 축하드립니다.	[!SystemMail]祝贺你晋升为正式的纷争终结者。
 #6451	[!WordCollection]난이도	[!WordCollection]难度
 #6452	[!WordCollection]임무 종류	[!WordCollection]任务种类
@@ -3863,7 +3863,7 @@
 #7285	[!Buff]바람 사슬	[!Buff]风链
 #7286	[!DirectDamageType]화재	[!DirectDamageType]火灾
 #7287	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Unrest'][colour='FFFFAA00'] 아이[colour='FFCCCCCC']는 건강한 시민 처럼 근처로 이동하면 구조할 수 있습니다. 아이는 공격할 수 없습니다.	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Unrest'][colour='FFFFAA00']小孩[colour='FFCCCCCC']像健康的市民一样，移动到附近即可营救。小孩子无法进行攻击。
-#7288	[!GuideMessage]임대인 돈 브루스와 임차인 알버스는 위 계약에 동의합니다.	[!GuideMessage]出租人敦布鲁斯和承租人阿尔伯斯同意上述条款。
+#7288	[!GuideMessage]임대인 돈 브루스와 임차인 알버스는 위 계약에 동의합니다.	[!GuideMessage]出租人敦・布鲁斯和承租人阿尔伯斯同意上述条款。
 #7289	[!GuideMessage]사무실을 계약하면 일정 주기마다 임대료를 지급해야 합니다. 임대료를 지급할 주기를 선택해 주십시오.	[!GuideMessage]签约办公室后需要定期支付租金。请选择租金付款周期。
 #7290	[!GuideMessage]임무 성공 [colour='FFFFFFFF']$Duration$[colour='FFFFFFFF'] 회당 임대료 [colour='FFFFFFFF']$Vill$ $Image$[colour='FFFFFFFF'] 납부	[!GuideMessage]任务成功[colour='FFFFFFFF']$Duration$[colour='FFFFFFFF']回合缴纳租金[colour='FFFFFFFF']$Vill$$Image$[colour='FFFFFFFF']
 #7291	[!GuideMessage]임무 성공 [colour='FFFFFFFF']$Duration$[colour='FFFFFFFF'] 회당 수당 [colour='FFFFFFFF']$Vill$ $Image$[colour='FFFFFFFF'] 지급	[!GuideMessage]任务成功[colour='FFFFFFFF']$Duration$[colour='FFFFFFFF']回合获得收入[colour='FFFFFFFF']$Vill$$Image$[colour='FFFFFFFF']
@@ -4306,7 +4306,7 @@
 #7805	[!Item]보나파르트 손목 고리 SE	[!Item]波拿巴手链SE
 #7806	[!Item]발할라의 명품 브랜드 '보나파르트'의 VIP 고객들을 위한 손목 고리.	[!Item]为了巴赫拉的名牌「波拿巴」的VIP客户们准备的手链。
 #7807	[!Item]특성 해제를 위한 소모품입니다. 	[!Item]这是解除天赋时使用的消耗品。
-#7808	[!Item]알리사가 카라스연방 특수 부대 시절부터 애용하던 대검. 동료로부터 '면도날' 이라고 불렸다.	[!Item]艾丽莎在卡拉斯联邦特战队时期使用的大剑。她的同事们叫它「剃须剑」。
+#7808	[!Item]알리사가 카라스연방 특수 부대 시절부터 애용하던 대검. 동료로부터 '면도날' 이라고 불렸다.	[!Item]艾丽莎在卡拉斯联邦特战队时期使用的大剑。她的同事们叫它「髯切」。
 #7811	[!Mastery]기회가 생긴다면 놓칠 수 없지.	[!Mastery]机会来了就绝不能放过。
 #7813	[!Mastery]이제 시작이야.	[!Mastery]才刚刚开始。
 #7814	[!Mastery]광견	[!Mastery]狂犬
@@ -4439,7 +4439,7 @@
 #8020	[!Mastery]아무리 큰 고통도 지켜내지 못한 고통보다 심한 것은 없다.	[!Mastery]再大的痛苦都比不上未能挽回的痛苦那么深刻。
 #8021	[!Mastery]사명감	[!Mastery]使命感
 #8022	[!Mastery]질주	[!Mastery]疾走
-#8024	[!SystemMail]피에르토 코르토나	[!SystemMail]彼得罗科尔托纳
+#8024	[!SystemMail]피에르토 코르토나	[!SystemMail]彼得罗・科尔托纳
 #8032	[!GuideMessage]뒤쪽에 여유공간이 없는 적을 밀쳐내는 공격이 적중한 경우 대상은 [colour='FFFFFF00']기절[colour='FFFFFFFF'] 상태가 됩니다	[!GuideMessage]对于后方没有余地的目标被击退攻击命中时，该目标变成[colour='FFFFFF00']晕厥[colour='FFFFFFFF']状态。
 #8033	[!WordCollection]기절: 뒤로 밀려남	[!WordCollection]晕厥：被击退
 #8034	[!Ability]가르기	[!Ability]分开
@@ -7332,7 +7332,7 @@
 #12246	[!Suggestion]무기력에 빠진 사원의 기력을 되찾고 지친 사원들의 일상을 위해 알버스가 하루 쉬자고 결정합니다.<br><br>[colour='FFFFFF00']휴업 결정 시 사원들이 기력을 되찾으며 모든 의욕을 회복합니다.<br>[colour='FFFFAA00']주의: <br>[colour='FFFFFFFF']임대료 지급일과 사원 월급 지급 일이 하루 지나갑니다.	[!Suggestion]为了找回无力状态中的员工们的元气，也为了缓解员工们的疲惫，阿尔伯斯决定休息一天。<br><br>[colour='FFFFFF00']决定休业时，员工们恢复气力，并恢复全部的意志。<br>[colour='FFFFAA00']注意：<br>[colour='FFFFFFFF']租金支付日和员工发薪日将过去1天。
 #12248	[!Troublebook]겨울이 온다.	[!Troublebook]凛冬将至。
 #12249	[!GuideMessage][colour='FFFFE959']총 [colour='FFFFFFFF']$Number$[colour='FFFFE959'] 명의 플레이어 중 [colour='FFFFFFFF']$Percent$%[colour='FFFFE959'] 가 해당 선택지를 선택하였습니다.	[!GuideMessage][colour='FFFFE959'][colour='FFFFFFFF']$Number$[colour='FFFFE959']名玩家中有[colour='FFFFFFFF']$Percent$%[colour='FFFFE959']的玩家选择了该选项。
-#12250	[!SystemMail][colour='FFFFE959']알버스. <br><br>난 너를 무척 아낀단다.<br><br>그래서 당연히 네가 '블랙펄'로 돌아온다면 내 팀에 종속시킬려고 했는데 도망가서 아쉬웠다.<br><br>네 녀석이 '블랙펄'로 돌아오면 주려고 챙겨두었던 물건이다.<br><br>아직은 현장에서 직접 뛰어야 하는 사장님일테니 여전히 이런 것들이 많이 필요하겠지.<br><br>어차피 네가 '블랙펄'로 복귀했다면 주었을 물건이니 잘 쓰도록 해라.<br><br>[colour='FFFFFFFF']너를 트러블슈터 세계로 인도한 단 한명의 선배<br><br>지젤 발렌슈타인	[!SystemMail][colour='FFFFE959']阿尔伯斯。<br><br>我很看好你的。<br><br>你是第一个在我手下默默地忍受我的怪脾气长达一年之久的家伙呢，所以我非常非常看好你哟。<br><br>所以我本打算在你回到「黑珍珠」就把你拉到我的门下的，但你小子却就这么逃跑了，给留下了遗憾啊。<br><br>这是原想在你回归「黑珍珠」时送你的东西。<br><br>你作为还需要亲自跑现场的老板，应该是很需要这些东西的。<br><br>原本就是当初你回归「黑珍珠」打算送你的东西，所以你就好好使用吧。<br><br>[colour='FFFFFFFF']将你引向纷争终结世界的你唯一的前辈<br><br>吉赛尔沃伦斯坦。
+#12250	[!SystemMail][colour='FFFFE959']알버스. <br><br>난 너를 무척 아낀단다.<br><br>그래서 당연히 네가 '블랙펄'로 돌아온다면 내 팀에 종속시킬려고 했는데 도망가서 아쉬웠다.<br><br>네 녀석이 '블랙펄'로 돌아오면 주려고 챙겨두었던 물건이다.<br><br>아직은 현장에서 직접 뛰어야 하는 사장님일테니 여전히 이런 것들이 많이 필요하겠지.<br><br>어차피 네가 '블랙펄'로 복귀했다면 주었을 물건이니 잘 쓰도록 해라.<br><br>[colour='FFFFFFFF']너를 트러블슈터 세계로 인도한 단 한명의 선배<br><br>지젤 발렌슈타인	[!SystemMail][colour='FFFFE959']阿尔伯斯。<br><br>我很看好你的。<br><br>你是第一个在我手下默默地忍受我的怪脾气长达一年之久的家伙呢，所以我非常非常看好你哟。<br><br>所以我本打算在你回到「黑珍珠」就把你拉到我的门下的，但你小子却就这么逃跑了，给留下了遗憾啊。<br><br>这是原想在你回归「黑珍珠」时送你的东西。<br><br>你作为还需要亲自跑现场的老板，应该是很需要这些东西的。<br><br>原本就是当初你回归「黑珍珠」打算送你的东西，所以你就好好使用吧。<br><br>[colour='FFFFFFFF']将你引向纷争终结世界的你唯一的前辈<br><br>吉赛尔・沃伦斯坦。
 #12251	[!SystemMail][colour='FFFFE959']$CompanyName$. 다들 잘 지내고 있어?<br><br>너희들 덕분에 요즘 이능석 시세도 안정되고 출동 횟수도 줄어들어 개인 작업에 열중할 수 있게 되었어.<br><br>하지만 자원 관리 구역의 에너지가 크게 줄지 않는 것으로 보아 자원 관리 구역에 영향을 줄 수 있는 철의 숲 내부에 문제가 생긴 것 같긴 해.<br><br>언제 시간이 된다면 숲 내부로 같이 이능석 채취 작업을 가는 것은 어때? <br><br>내부에는 당연히 더 귀찮은 녀석들이 많지만 그만큼 더 많은 자원을 빠르게 획득할 수 있지.<br><br>내가 보낸 물건들은 그 때를 위해 시험 제작한 추출기들이야. 이 도구들이 너희들 에너지 추출 작업도 수월하게 해줄거야.<br><br>많이 추출해서 시세 좀 떨어뜨려. 그래야 내가 마음 편하게 제작에 몰두하지.<br><br>그럼 다음 번 임무에서 또 보자.<br><br>[colour='FFFFFFFF']엔지니어 카일리	[!SystemMail][colour='FFFFE959']$CompanyName$。大家过得好吗？<br><br>托你们的福，最近异能石的状态也趋于稳定，出勤次数也降了下来，因此我也就可以集中到个人作业中了。<br><br>然而资源管理区的能量却不见降低多少，所以我认为好像问题是出在可以影响资源管理区的铁森林内部。<br><br>有空陪我一起去森林内部开采异能石好不好？<br><br>里面肯定有很多烦人的东西，但是与之匹配的是能更迅速地得到更多的资源啊。<br><br>我发过去的东西是为了到时候使用而实验制作的提取仪。这些工具会让你们的能量提取作业更加简单上手。<br><br>希望你们多多开采，让这势头多降下去点。这样我也能更安心做好自己的发明创作了。<br><br>那下次任务我们再会吧。<br><br>[colour='FFFFFFFF']工程师凯莉。
 #12253	[!Ability]화염의 덫	[!Ability]火焰陷阱
 #12255	[!Ability]얼음의 덫	[!Ability]寒冰陷阱
@@ -9875,14 +9875,14 @@
 #16397	[!NamedEvent]잠입 드론	[!ObjectInfo]暗潜无人机
 #16398	[!NamedEvent]냉각 드론	[!ObjectInfo]冷气无人机
 #16399	[!NamedEvent]『 경고: 외부 위협 접근 』	[!NamedEvent]「警告：外部威胁接近」
-#16400	[!NamedEvent]『 위협 대상을 소각합니다. 』	[!NamedEvent]「摧毁威胁对象。』
+#16400	[!NamedEvent]『 위협 대상을 소각합니다. 』	[!NamedEvent]「摧毁威胁对象。」
 #16401	[!NamedEvent]극염의 파이어크론	[!NamedEvent]极炎的火焰拜克伦
 #16402	[!NamedEvent]개조된 바이크론	[!ObjectInfo]被改造的拜克伦
-#16403	[!NamedEvent]『 위협 대상을 동결합니다. 』	[!NamedEvent]「冻结威胁对象。』
+#16403	[!NamedEvent]『 위협 대상을 동결합니다. 』	[!NamedEvent]「冻结威胁对象。」
 #16404	[!NamedEvent]극한의 프로스트크론	[!NamedEvent]极寒的冰霜拜克伦
-#16405	[!NamedEvent]『 모든 적을 섬멸합니다. 』	[!NamedEvent]「歼灭所有敌人。』
+#16405	[!NamedEvent]『 모든 적을 섬멸합니다. 』	[!NamedEvent]「歼灭所有敌人。」
 #16406	[!NamedEvent]극뢰의 라이트닝크론	[!NamedEvent]极雷的闪电拜克伦
-#16407	[!NamedEvent]『 모든 위협을 배제한다. 』	[!NamedEvent]「排除一切威胁。』
+#16407	[!NamedEvent]『 모든 위협을 배제한다. 』	[!NamedEvent]「排除一切威胁。」
 #16408	[!NamedEvent]절망의 레드 아이	[!NamedEvent]绝望的红眼
 #16409	[!NamedEvent]죽음을 마주하는 것은 언제나 즐겁군.	[!NamedEvent]面对死亡总是很快乐。
 #16410	[!NamedEvent]자네가 이번 사냥감인가?	[!NamedEvent]你就是这次的猎物？
@@ -10085,8 +10085,8 @@
 #16684	[!GameSystemMessageFormat]전원 퇴근합니다.	[!Dialog]全员下班。
 #16685	[!GameSystemMessageFormat]다음 날이 되었습니다.	[!Dialog]过了一天。
 #16686	[!GameSystemMessageFormat]창고에 작업대를 설치하실 수 있습니다.	[!Dialog]可在仓库里安装工作台。
-#16687	[!GameSystemMessageFormat]이제 돈 브루스로부터 음료를 구입할 수 있습니다.	[!Dialog]现在可以向敦布鲁斯购买饮料了。
-#16688	[!GameSystemMessageFormat]이제 돈 브루스를 통하여 창고를 계약하실 수 있습니다.	[!Dialog]现在可以和敦布鲁斯租仓库了。
+#16687	[!GameSystemMessageFormat]이제 돈 브루스로부터 음료를 구입할 수 있습니다.	[!Dialog]现在可以向敦・布鲁斯购买饮料了。
+#16688	[!GameSystemMessageFormat]이제 돈 브루스를 통하여 창고를 계약하실 수 있습니다.	[!Dialog]现在可以和敦・布鲁斯租仓库了。
 #16689	[!GameSystemMessageFormat]인벤토리의 기계 탭이 활성화되었습니다.	[!Dialog]背包里的机械标签被激活。
 #16690	[!GameSystemMessageFormat]카일리로부터 다수의 기계 부품을 인수하였습니다.	[!Dialog]从凯莉那得到了一些机械零件。
 #16691	[!GameSystemMessageFormat]돈에게 53 Vill을 지급하였습니다.	[!Dialog]向敦支付了53Vill。
@@ -11217,7 +11217,7 @@
 #18083	[!LobbyIdleMessage][!speaker:Kylie]재료는 알버스에게 요청해야 하나...	[!LobbyIdleMessage][!speaker:Kylie]材料是要向阿尔伯斯要吗…
 #18084	[!Mastery]훈련서 - 30개	[!Mastery]训练书 - 30个
 #18085	[!Mastery]제작서 - 30개	[!Mastery]设计图 - 30个
-#18091	[!ObjectInfo]주크박스	[!ObjectInfo]自动电唱机 
+#18091	[!ObjectInfo]주크박스	[!ObjectInfo]自动电唱机
 #18092	[!ObjectInfo]르블랑	[!ObjectInfo]勒布朗
 #18093	[!ObjectInfo]칼	[!CivilRescueNameSet]卡尔
 #18094	[!ObjectInfo]레인	[!ObjectInfo]雷因
@@ -11507,7 +11507,7 @@
 #18474	[!LobbyIdleMessage][!speaker:Leton]하아... 만사가 다 귀찮군.	[!LobbyIdleMessage][!speaker:Leton]哈啊…万事都好麻烦啊。
 #18475	[!LobbyIdleMessage][!speaker:Leton]이제 한동안은 따뜻한 방에서 잠 잘 수 있겠네...	[!LobbyIdleMessage][!speaker:Leton]现在终于可以在温暖的房间里休息一阵子了…
 #18476	[!LobbyIdleMessage][!speaker:Leton]뭐... 이것도 나쁘지 않아...	[!LobbyIdleMessage][!speaker:Leton]嘛…这也挺不错的…
-#18477	[!LobbyIdleMessage][!speaker:Leton]알버스 번스타인이라...	[!LobbyIdleMessage][!speaker:Leton]阿尔伯斯伯恩斯坦啊…
+#18477	[!LobbyIdleMessage][!speaker:Leton]알버스 번스타인이라...	[!LobbyIdleMessage][!speaker:Leton]阿尔伯斯・伯恩斯坦啊…
 #18478	[!LobbyIdleMessage][!speaker:Leton]그 때 그냥 내가 갔었어야 했는데...	[!LobbyIdleMessage][!speaker:Leton]那时本来应该由我去的…
 #18479	[!LobbyIdleMessage][!speaker:Leton]다음엔 어떤 선택이 강요되려나...	[!LobbyIdleMessage][!speaker:Leton]下一次会被迫做出怎样的选择呢…
 #18480	[!Mastery]광폭화	[!Ability]狂暴化
@@ -12717,7 +12717,7 @@
 #19951	[!GameSystemMessageFormat]둥지 내 모든 드라키들이 광분합니다.	[!GameSystemMessageFormat]巢内所有的德拉基开始疯狂。
 #19952	[!GameSystemMessageFormat]둥지 내 모든 드라키들이 전투 상태에 돌입하였습니다.	[!GameSystemMessageFormat]巢内所有的德拉基进入战斗状态。
 #19953	[!GameSystemMessageFormat]드라키 대왕이 쓰러지면서 엄청난 괴성을 지릅니다.	[!GameSystemMessageFormat]德拉基大王倒下时发出了巨大的怪声。
-#19954	[!GameSystemMessageFormat]강력 사건 '드라키의 둥지'가 활성화되었습니다!	[!GameSystemMessageFormat]大型事件「德拉基巢」被激活。
+#19954	[!GameSystemMessageFormat]강력 사건 '드라키의 둥지'가 활성화되었습니다!	[!GameSystemMessageFormat]大型事件「德拉基巢穴」被激活。
 #19955	[!ItemType]수액	[!ItemType]输液
 #19956	[!Buff]매 턴 종료 시, $AddBuffName$, $AddBuffName2$ 상태가 발생합니다.	[!Buff]每次回合结束时，将产生$AddBuffName$，$AddBuffName2$状态。
 #19958	[!GuideMessage]$Buff$ 상태에 면역이어서 사용할 수 없습니다. ($Reason$)	[!GuideMessage]$Buff$状态下免疫，因此无法使用。($Reason$)
@@ -14717,7 +14717,7 @@
 #22385	[!Item]난폭한 트롤 장갑	[!Item]粗暴的巨怪手套
 #22386	[!Item]스컬 크래셔의 이름을 부여받기 전 '난폭한 트롤'이라고 불리던 시절부터 사용한 전투 장갑.	[!Item]骷髅击碎者在获得这个名字之前被称为「粗暴的巨怪」时期所使用的战斗手套。
 #22387	[!Item]듀나메스 저격총 IBL - HK	[!Item]杜纳梅斯狙击枪IBL-HK
-#22388	[!Item]스컬 이터는 원래 조직에서 청소부 역할을 담당하였으나 트러블슈터 블랙펄과 전면전에서 지젤 발렌슈타인에 의해 많은 동료들이 너무 쉽게 무력화되는 것을 보고 저격수로 전직한다. 그리고 지젤의 오랜 경험에 대응하기 위해 듀나메스 사의 부패한 관리자를 매수해 자신을 위한 최고의 총을 제작한다.	[!Item]骷髅吞噬者原本在组织中担任清道夫的角色，但在与黑珍珠的正面交锋中看到许多队友被吉赛尔沃伦斯坦击溃，于是改任成为狙击手。他为了对付有着多年经验的吉赛尔，收买了杜纳梅斯公司腐败的管理者来为自己制作最好的枪。
+#22388	[!Item]스컬 이터는 원래 조직에서 청소부 역할을 담당하였으나 트러블슈터 블랙펄과 전면전에서 지젤 발렌슈타인에 의해 많은 동료들이 너무 쉽게 무력화되는 것을 보고 저격수로 전직한다. 그리고 지젤의 오랜 경험에 대응하기 위해 듀나메스 사의 부패한 관리자를 매수해 자신을 위한 최고의 총을 제작한다.	[!Item]骷髅吞噬者原本在组织中担任清道夫的角色，但在与黑珍珠的正面交锋中看到许多队友被吉赛尔・沃伦斯坦击溃，于是改任成为狙击手。他为了对付有着多年经验的吉赛尔，收买了杜纳梅斯公司腐败的管理者来为自己制作最好的枪。
 #22389	[!Item]지옥불 인장	[!Item]地狱火印章
 #22390	[!Item]지옥불의 코드 네임이 새겨져 있습니다.	[!Item]刻有地狱火的代号。
 #22391	[!Item]해골 인장	[!Item]骷髅印章
@@ -16157,9 +16157,9 @@
 #24325	[!SystemMail]사수거리 상인 연합회 일동	[!SystemMail]射手街商人联合全体
 #24326	[!SystemMail][colour='FFFFE959'] 꾸준히 사수거리를 이용해 주시고 의뢰를 수행해주시는 $CompanyName$에게 사수거리 상인들이 한 마음을 담아 감사를 표합니다.<br><br>약소하나마 활동 지원금으로 사용하시기를 바랍니다.	[!SystemMail][colour='FFFFE959']我们射手街商人联合全体向不断使用射手街且执行委托的$CompanyName$表示感谢。<br><br>希望能将这微小的资金用在活动支援金上。
 #24327	[!SystemMail][colour='FFFFE959']저의 아이 $CivilName$을 구해주셔서 감사합니다.<br><br>부끄럽게도 저의 남편이자 $CivilName$의 아버지는 백호파 조직원입니다.<br><br>백호파의 말단 조직원이던 그는 언제나 가족들에게 폭언과 폭력을 서슴치 않았습니다.<br><br>그리고 그 과정에서도 백호파라는 이름이 가져다주는 이득을 자랑스럽게 생각하고 있었습니다.<br><br>저는 제 아이가 이런 못난 아버지를 따라갈까봐 매일같이 불안에 떨어야 했습니다.<br><br>오늘 아이가 백호파 해체 관련 뉴스를 보고 더는 아버지가 백호파에 가지 않아도 될 것 같다고 행복한 웃음을 짓고 있었습니다.<br><br>아이도 자신의 아버지가 부끄러웠던 것 입니다.<br><br>평생 이런 기회는 오지 않을 줄 알았습니다.<br><br>그런 기적을 만들어주셔서 감사합니다.	[!SystemMail][colour='FFFFE959']谢谢你们救出我的孩子$CivilName$。<br><br>惭愧的是，我的丈夫，同时也是身为$CivilName$的父亲却曾是一名白虎组的组员。<br><br>白虎组下层组员的他总是向着家人发出恶言和暴力。<br><br>而且在那过程中，丈夫他一直对白虎组的名号所带来的利益而自豪。<br><br>我怕自己的孩子跟着这个不争气的父亲学，每天都在不安中颤抖。<br><br>今天孩子看到了有关白虎组解散的新闻，幸福地笑着说道「爸爸再也用不着去白虎组了」。<br><br>看来孩子也是为自己的父亲而感到羞愧。<br><br>本以为这辈子不会有这样的机会。<br><br>谢谢你们创造了这样的奇迹。
-#24328	[!SystemMail]안녕하세요. 댄디라이언입니다.	[!SystemMail]您好，这是丹迪瑞恩。
-#24329	[!SystemMail]댄디라이언	[!SystemMail]丹迪瑞恩
-#24330	[!SystemMail][colour='FFFFE959']안녕하세요. 댄디라이언입니다.<br><br>저희는 $CompanyName$의 활약에 감명받아 게임으로 만들고 있는 작은 게임 개발팀입니다!<br><br>아직은 작은 회사이다보니 $CompanyName$의 활약을 어떻게 재미있게 표현할 수 있을 지 매일같이 고민하고 있습니다!<br><br>아직은 실력이 여타 개발사만큼 뛰어나지 못하지만 $CompanyName$의 성장 이야기처럼 열심히 노력하여 멋진 회사를 목표로 하고 있습니다.<br><br>$CompanyName$[이] 보여주신 멋진 활약!<br><br>누구나 즐겁게 즐길 수 있고 공감할 수 있는 게임으로 만들도록 최선을 다하겠습니다!<br><br>저희에게 이런 기회를 준 $CompanyName$[을] 언제나 응원하겠습니다!<br><br>감사합니다!	[!SystemMail][colour='FFFFE959']您好，这是丹迪瑞恩。<br><br>我们是被$CompanyName$的活跃表现所感动，正在以此用于开发游戏的开发团队！<br><br>因为还是个小公司，所以每天都在苦恼着如何才能更有趣的表达出$CompanyName$的活跃！<br><br>虽然目前实力还不及其他开发公司，但就像$CompanyName$的成长故事一样，将会努力奋斗争取，目标是成为一个优秀的公司。<br><br>$CompanyName$展现出的精彩的作品！<br><br>我们会尽最大努力，把游戏制作成任何人都可以愉快的享受和理解的游戏！<br><br>我们会对给予了我们这样机会的$CompanyName$助威加油的！<br><br>谢谢！
+#24328	[!SystemMail]안녕하세요. 댄디라이언입니다.	[!SystemMail]您好，这是丹迪・瑞恩。
+#24329	[!SystemMail]댄디라이언	[!SystemMail]丹迪・瑞恩
+#24330	[!SystemMail][colour='FFFFE959']안녕하세요. 댄디라이언입니다.<br><br>저희는 $CompanyName$의 활약에 감명받아 게임으로 만들고 있는 작은 게임 개발팀입니다!<br><br>아직은 작은 회사이다보니 $CompanyName$의 활약을 어떻게 재미있게 표현할 수 있을 지 매일같이 고민하고 있습니다!<br><br>아직은 실력이 여타 개발사만큼 뛰어나지 못하지만 $CompanyName$의 성장 이야기처럼 열심히 노력하여 멋진 회사를 목표로 하고 있습니다.<br><br>$CompanyName$[이] 보여주신 멋진 활약!<br><br>누구나 즐겁게 즐길 수 있고 공감할 수 있는 게임으로 만들도록 최선을 다하겠습니다!<br><br>저희에게 이런 기회를 준 $CompanyName$[을] 언제나 응원하겠습니다!<br><br>감사합니다!	[!SystemMail][colour='FFFFE959']您好，这是丹迪・瑞恩。<br><br>我们是被$CompanyName$的活跃表现所感动，正在以此用于开发游戏的开发团队！<br><br>因为还是个小公司，所以每天都在苦恼着如何才能更有趣的表达出$CompanyName$的活跃！<br><br>虽然目前实力还不及其他开发公司，但就像$CompanyName$的成长故事一样，将会努力奋斗争取，目标是成为一个优秀的公司。<br><br>$CompanyName$展现出的精彩的作品！<br><br>我们会尽最大努力，把游戏制作成任何人都可以愉快的享受和理解的游戏！<br><br>我们会对给予了我们这样机会的$CompanyName$助威加油的！<br><br>谢谢！
 #24331	[!Troublebook]나를 위해..	[!Troublebook]为了自己…
 #24332	[!Troublebook]지난 10년, 바람장벽지구를 공포에 떨게 했던 백호파의 푸의 체포는 바람장벽지구 사람들에게 새로운 희망을 가져다준다.	[!Troublebook]过去的10年，让风之壁地区在恐怖中颤抖的白虎组的普被逮捕的消息，让风之壁地区的人们感到了新的希望。
 #24333	[!WordCollection]현재 편성 화면	[!WordCollection]目前组队画面
