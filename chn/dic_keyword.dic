@@ -1400,7 +1400,7 @@
 #3246	[!AbilityDirectingEvent]암살 성공 $Current$/$Target$	[!AbilityDirectingEvent]暗杀成功$Current$/$Target$
 #3247	[!AbilityDirectingEvent]$Buff$ 해제	[!AbilityDirectingEvent]$Buff$解除
 #3248	[!AbilityDirectingEvent]$Buff$ $Remain$턴	[!AbilityDirectingEvent]$Buff$$Remain$回合
-#3249	[!AbilityDirectingEvent]자폭까지 남은 시간: $Remain$턴	[!AbilityDirectingEvent]自爆时间剩余:$Remain$回合
+#3249	[!AbilityDirectingEvent]자폭까지 남은 시간: $Remain$턴	[!AbilityDirectingEvent]自爆时间剩余：$Remain$回合
 #3251	[!Buff]블러드워커	[!Buff]血海行者
 #3253	[!Buff]적 발견	[!Buff]发现敌人
 #3255	[!ChatCategory]전투	[!ChatCategory]战斗
@@ -1462,7 +1462,7 @@
 #3391	[!GuideMessage]해당 지역은 이미 관할 구역입니다.	[!GuideMessage]该地区已经是管辖区。
 #3392	[!GuideMessage]주간 활동 보상입니다!	[!GuideMessage]每周活动奖励！
 #3393	[!GuideMessage]아이템 추출 결과입니다!	[!GuideMessage]物品提取结果！
-#3394	[!HitRateCondition]지형효과: 수풀	[!HitRateCondition]地形效果: 草丛
+#3394	[!HitRateCondition]지형효과: 수풀	[!HitRateCondition]地形效果：草丛
 #3400	[!Item]보급형 손도끼	[!Item]泛用型手斧
 #3401	[!Item]보급형 봉	[!Item]泛用型棍棒
 #3412	[!Job]티마	[!Job]蒂玛
@@ -2373,8 +2373,8 @@
 #4799	[!ObjectInfo]뒷거리 조장	[!ObjectInfo]后巷组长
 #4800	[!ObjectInfo]뒷거리 소란꾼	[!ObjectInfo]后巷捣乱者
 #4801	[!OptionVideo]전체 화면	全屏
-#4807	[!SystemMessage]경고: 아군 피해 발생	[!SystemMessage]警告:队友受到伤害
-#4811	[!SystemMessage]경고: 적용 대상 없음	[!SystemMessage]警告:没有适用对象
+#4807	[!SystemMessage]경고: 아군 피해 발생	[!SystemMessage]警告：队友受到伤害
+#4811	[!SystemMessage]경고: 적용 대상 없음	[!SystemMessage]警告：没有适用对象
 #4813	[!WordCollection]최근 접속한 회사	[!WordCollection]最近连接的公司
 #4814	[!WordCollection]이어서 하기	[!WordCollection]继续游戏
 #4815	[!WordCollection]회사 변경	[!WordCollection]变更公司
@@ -2497,10 +2497,10 @@
 #5025	[!SystemMessage]서버와 버젼이 맞지 않습니다.<br><br>종료 후 업데이트를 받고 다시 실행해주세요. 자동 업데이트가 안 될 시에는 무결성 검사를 실행해주세요.	[!SystemMessage]和服务器的版本不同。<br><br>请更新后，重新执行游戏。无法自动更新时请检查完整性。
 #5026	[!Job]싸움꾼	[!Job]战斗专家
 #5027	[!Job]원소술사	[!Job]元素术士
-#5029	[!SystemMessage]경고: 회복 대상 없음	[!SystemMessage]警告:无恢复对象
+#5029	[!SystemMessage]경고: 회복 대상 없음	[!SystemMessage]警告：无恢复对象
 #5030	[!SystemMessage]이 행동으로 아무도 체력이 회복되지 않습니다!<br>이 행동을 계속 하시겠습니까?	[!SystemMessage]这个行为无法恢复任何人的体力！<br>还继续吗？
 #5031	[!SystemMessage]이 행동은 아군에게 피해를 줄 수 있습니다.!<br>이 행동을 계속 하시겠습니까?	[!SystemMessage]这个行为可伤害到队友！<br>还继续吗？
-#5032	[!SystemMessage]경고: 적군 회복 가능	[!SystemMessage]警告:可恢复敌人
+#5032	[!SystemMessage]경고: 적군 회복 가능	[!SystemMessage]警告：可恢复敌人
 #5033	[!SystemMessage]이 행동은 적대 대상에게 피해를 줄 수 있습니다!<br>이 행동을 계속 하시겠습니까?	[!SystemMessage]这个行为可伤害敌对目标！<br>还继续吗？
 #5034	[!SystemMessage]이 행동으로 영향 받는 대상이 없습니다!<br>이 행동을 계속 하시겠습니까?	[!SystemMessage]这个行为无影响目标！<br>还继续吗？
 #5035	[!GuideMessage]어빌리티 사용	[!GuideMessage]使用技能
@@ -2897,7 +2897,7 @@
 #5760	[!WordCollection][!Menu]악세사리	[!WordCollection][!Menu]饰品
 #5766	[!Loading]내가 하고 싶은 것	[!Loading]我想做的事
 #5767	[!WordCollection][!menu]턴 종료	[!WordCollection][!menu]回合结束
-#5771	[!WordCollection]경고: 위험한 위치	[!WordCollection]警告:危险的位置
+#5771	[!WordCollection]경고: 위험한 위치	[!WordCollection]警告：危险的位置
 #5773	[!GameDifficulty]쉬움	[!GameDifficulty]简单
 #5775	[!GameDifficulty]어려움	[!GameDifficulty]困难
 #5777	[!GameDifficulty]일반	[!GameDifficulty]普通
@@ -3250,28 +3250,28 @@
 #6281	[!Mastery]과충전	[!Mastery]过充电
 #6283	[!Status]과충전 지속시간	[!Status]过充电持续时间
 #6284	[!Status][!Short]과충전 지속시간	[!Status][!Short]过充电持续时间
-#6285	[!WordCollection]적 상태: 화남	[!WordCollection]敌人状态:发火
+#6285	[!WordCollection]적 상태: 화남	[!WordCollection]敌人状态：发火
 #6286	[!WordCollection]상태 효과	[!WordCollection]状态效果
 #6287	[!WordCollection][!피격메시지]견제	[!WordCollection][!受到攻击信息]牵制
 #6288	[!WordCollection]동맹 유닛	[!WordCollection]同盟单位
-#6289	[!WordCollection]상호작용 : 상자	[!WordCollection]可互动物体: 箱子
+#6289	[!WordCollection]상호작용 : 상자	[!WordCollection]可互动物体：箱子
 #6290	[!WordCollection]혼란에 빠진 시민	[!WordCollection]陷入混乱的市民
-#6291	[!WordCollection]적 상태: 감시	[!WordCollection]敌人状态: 监视
-#6292	[!WordCollection]경고: 정예	[!WordCollection]警告: 精英
-#6293	[!WordCollection]경고: 영웅	[!WordCollection]警告: 英雄
+#6291	[!WordCollection]적 상태: 감시	[!WordCollection]敌人状态：监视
+#6292	[!WordCollection]경고: 정예	[!WordCollection]警告：精英
+#6293	[!WordCollection]경고: 영웅	[!WordCollection]警告：英雄
 #6294	[!WordCollection]부상 당한 시민	[!WordCollection]受伤的市民
-#6296	[!WordCollection]경고: 전설	[!WordCollection]警告: 史诗
+#6296	[!WordCollection]경고: 전설	[!WordCollection]警告：史诗
 #6297	[!WordCollection]중립 유닛	[!WordCollection]中立单位
-#6298	[!WordCollection]적 상태: 순찰	[!WordCollection]敌人状态: 巡查
-#6299	[!WordCollection]상호작용 : 이능석	[!WordCollection]可互动物体: 异能石
+#6298	[!WordCollection]적 상태: 순찰	[!WordCollection]敌人状态：巡查
+#6299	[!WordCollection]상호작용 : 이능석	[!WordCollection]可互动物体：异能石
 #6300	[!WordCollection]제 3 세력 유닛	[!WordCollection]第三方势力单位
 #6302	[!WordCollection]불안한 시민	[!WordCollection]不安的市民
 #6303	[!WordCollection]필요 SP	[!WordCollection]必要的SP
-#6304	[!WordCollection]경고: 낮은 기력	[!WordCollection]警告: 低气力
-#6305	[!WordCollection]아이템: 회복약	[!WordCollection]物品: 恢复药
+#6304	[!WordCollection]경고: 낮은 기력	[!WordCollection]警告：低气力
+#6305	[!WordCollection]아이템: 회복약	[!WordCollection]物品：恢复药
 #6307	[!WordCollection]SP 시스템	[!WordCollection]SP系统
-#6308	[!WordCollection]유닛 상태: 피로	[!WordCollection]单位状态: 疲劳
-#6309	[!WordCollection]유닛 상태: 활기	[!WordCollection]单位状态: 活跃
+#6308	[!WordCollection]유닛 상태: 피로	[!WordCollection]单位状态：疲劳
+#6309	[!WordCollection]유닛 상태: 활기	[!WordCollection]单位状态：活跃
 #6310	[!Buff]목표물	[!Buff]目标
 #6312	[!GuideMessage][colour='FFFFFFFF']+1[colour='FFFF5943'] [colour='FFFFE959']훈련 점수 획득하였습니다.[colour='FFFFFFFF']	[!GuideMessage][colour='FFFFFFFF']+1[colour='FFFF5943'][colour='FFFFE959']获得训练点数。[colour='FFFFFFFF']
 #6313	[!GuideMessage]%s 특성 슬롯이 확장되었습니다.	[!GuideMessage]%s天赋栏位已扩张。
@@ -3343,7 +3343,7 @@
 #6440	[!StatsInfo]아군 전투 불능 수	[!StatsInfo]无法战斗的队友人数
 #6442	[!StatsInfo]상자 획득 수	[!StatsInfo]箱子获得个数
 #6444	[!SystemMail]$CompanyName$ 감사합니다!	[!SystemMail]$CompanyName$谢谢你！
-#6445	[!SystemMail][colour='FFFFE959']안녕하십니까. 발할라 제 13 지구. 바람장벽지구의 사무관 [colour='FFFFFFFF']하비에르[colour='FFFFE959']입니다.<br><br>$CompanyName$ 리더 알버스 번스타인님의 거주지 이전 신청 관련하여 발할라 주민 등록법 4조 1항에 의거하여 거주지 이전 신청이 완료되었음을 알려드립니다.<br><br>[colour='FFFFFFAA']주민등록법 4 조 1항: <br>[colour='FFFFAA00']트러블슈터 회사의 이전이 있는 경우, 회사의 리더는 거주지 제약과 무관하게 해당 회사가 위치한 곳으로 이전할 수 있다.[colour='FFFFE959']<br><br>거주지 이전 후 3개월 내 회사를 설립하시지 못하시면 해당 신청은 자동 취소되므로 유의하시길 바랍니다.<br><br>새로운 곳에서 더 나은 미래를 위해 노력해주시길 바랍니다.<br><br>[colour='FFFFFFFF']바람장벽 지구 사무관 하비에르	[!SystemMail][colour='FFFFE959']你好。我是巴赫拉第13区风之壁地区的事务官[colour='FFFFFFFF']哈维尔[colour='FFFFE959']。<br><br>对于$CompanyName$领袖阿尔伯斯伯恩斯坦的居住地转移申请，根据巴赫拉居民登记法4条1项，居住地转移申请已生效。<br><br>[colour='FFFFFFAA']居民登记法4条1项:<br>[colour='FFFFAA00']纷争终结者公司发生转移时，公司的领袖可无视居住地制约而转移到相应公司所在的地点。[colour='FFFFE959']<br><br>转移居住地后3个月内不建立公司，则该申请将会失效，敬请留意。<br><br>希望你能在新的地方开展更加美好的事业。<br><br>[colour='FFFFFFFF']风之壁地区事务官哈维尔敬上
+#6445	[!SystemMail][colour='FFFFE959']안녕하십니까. 발할라 제 13 지구. 바람장벽지구의 사무관 [colour='FFFFFFFF']하비에르[colour='FFFFE959']입니다.<br><br>$CompanyName$ 리더 알버스 번스타인님의 거주지 이전 신청 관련하여 발할라 주민 등록법 4조 1항에 의거하여 거주지 이전 신청이 완료되었음을 알려드립니다.<br><br>[colour='FFFFFFAA']주민등록법 4 조 1항: <br>[colour='FFFFAA00']트러블슈터 회사의 이전이 있는 경우, 회사의 리더는 거주지 제약과 무관하게 해당 회사가 위치한 곳으로 이전할 수 있다.[colour='FFFFE959']<br><br>거주지 이전 후 3개월 내 회사를 설립하시지 못하시면 해당 신청은 자동 취소되므로 유의하시길 바랍니다.<br><br>새로운 곳에서 더 나은 미래를 위해 노력해주시길 바랍니다.<br><br>[colour='FFFFFFFF']바람장벽 지구 사무관 하비에르	[!SystemMail][colour='FFFFE959']你好。我是巴赫拉第13区风之壁地区的事务官[colour='FFFFFFFF']哈维尔[colour='FFFFE959']。<br><br>对于$CompanyName$领袖阿尔伯斯伯恩斯坦的居住地转移申请，根据巴赫拉居民登记法4条1项，居住地转移申请已生效。<br><br>[colour='FFFFFFAA']居民登记法4条1项：<br>[colour='FFFFAA00']纷争终结者公司发生转移时，公司的领袖可无视居住地制约而转移到相应公司所在的地点。[colour='FFFFE959']<br><br>转移居住地后3个月内不建立公司，则该申请将会失效，敬请留意。<br><br>希望你能在新的地方开展更加美好的事业。<br><br>[colour='FFFFFFFF']风之壁地区事务官哈维尔敬上
 #6446	[!SystemMail]거주지 이전 신청 결과를 알려드립니다.	[!SystemMail]居住地转移申请结果通知。
 #6447	[!SystemMail][colour='FFFFE959']안녕하십니까. 현장 실습생 [colour='FFFFFFFF']알버스 번스타인[colour='FFFFE959']님<br><br>저는 아르월의 리더 [colour='FFFFFFFF']나디아 루이스[colour='FFFFE959']입니다.<br><br>먼저 귀하의 3개월간의 현장 실습이 무사히 끝난 것을 축하드립니다.<br>알버스 님의 평가는 저희 담당관이신 [colour='FFFFFFFF']장 루이스[colour='FFFFE959']님께서 평가하여 발할라 경찰청에 보고하였습니다.<br>알버스 님에게 좋은 결과가 있길 바라며 저희 '아르월'을 현장 실습 회사로 찾아주셔서 다시 한번 감사드립니다.<br><br>동봉한 금액은 3개월간의 활동에 관한 보상금입니다.<br><br>알버스 님과 다시 한번 현장에서 같이 뛰어가는 날을 기대하겠습니다.<br><br>[colour='FFFFFFFF']아르월 대표 나디아 루이스	[!SystemMail][colour='FFFFE959']你好。现场实习生[colour='FFFFFFFF']阿尔伯斯伯恩斯坦[colour='FFFFE959'],<br><br>我是阿尔月的领袖[colour='FFFFFFFF']纳迪亚路易斯[colour='FFFFE959']。<br><br>首先恭喜你完成了为时3个月的现场实习。<br>阿尔伯斯你的评价是由我们的担当官[colour='FFFFFFFF']张路易斯[colour='FFFFE959']进行的，并已向巴赫拉警察厅进行了报告。<br>希望阿尔伯斯你能有个好成绩，同时再次感谢你选择我们「阿尔月」为现场实习公司。<br><br>附在邮件内的金额是你这3个月的工作奖金。<br><br>希望日后能和阿尔伯斯你一起工作。<br><br>[colour='FFFFFFFF']阿尔月代表纳迪亚路易斯
 #6448	[!SystemMail]현장 실습생 알버스 님 축하드립니다.	[!SystemMail]现场实习生阿尔伯斯，恭喜你。
@@ -3376,9 +3376,9 @@
 #6495	[!ObjectInfo]전기차 충전기	[!ObjectInfo]电动汽车充电器
 #6496	[!ObjectInfo]가스 주유기	[!ObjectInfo]煤气加油器
 #6497	[!ObjectInfo]유독물 탱크	[!ObjectInfo]有毒物质罐
-#6499	[!WordCollection]위험물: 전기차 충전기	[!WordCollection]危险品:电动汽车充电器
-#6500	[!WordCollection]위험물: 가스 주유기	[!WordCollection]危险品:煤气加油器
-#6501	[!WordCollection]위험물: 유독물 탱크	[!WordCollection]危险品:有毒物质罐
+#6499	[!WordCollection]위험물: 전기차 충전기	[!WordCollection]危险品：电动汽车充电器
+#6500	[!WordCollection]위험물: 가스 주유기	[!WordCollection]危险品：煤气加油器
+#6501	[!WordCollection]위험물: 유독물 탱크	[!WordCollection]危险品：有毒物质罐
 #6507	[!GuideMessage]현재 시야 내 보이는 유닛들의 턴 순서를 보여주는 기능입니다. 해당 기능은 Alt 를 클릭하시면 ON/OFF 됩니다.	[!GuideMessage]这是显示当前视野内的所有单位的回合顺序的功能。该功能可以使用Alt键进行ON/OFF。
 #6509	[!WordCollection]턴 순서 보기 (Alt)	[!WordCollection]查看回合顺序(Alt)
 #6513	[!GuideMessage]감정 불가능한 아이템입니다.	[!GuideMessage]该物品无法鉴定。
@@ -3433,7 +3433,7 @@
 #6817	[!CivilMessage]모르겠다!	[!CivilMessage]我不管了！
 #6818	[!CivilMessage]저리가!	[!CivilMessage]边儿去！
 #6819	[!CivilMessage]오지마!	[!CivilMessage]别过来！
-#6820	[!WordCollection]연쇄 효과: 눈부심	[!WordCollection]连锁效果:眩光
+#6820	[!WordCollection]연쇄 효과: 눈부심	[!WordCollection]连锁效果：眩光
 #6822	[!LobbyIdleMessage][!speaker:Albus]일단 큰것부터 정리할까..	[!LobbyIdleMessage]先从大件开始收拾吧…
 #6823	[!LobbyIdleMessage][!speaker:Albus]생각보다 넓어 보이네.	[!LobbyIdleMessage]比想象中的要宽敞啊。
 #6824	[!LobbyIdleMessage][!speaker:Albus]일단 보이는 것부터 정리해보자.	[!LobbyIdleMessage]先从眼前的开始整理吧。
@@ -3782,7 +3782,7 @@
 #7197	[!SystemMail]두 번 다시 내 아이와 만나지 않길 바라네.	[!SystemMail]但愿不要再和我的孩子见面吧。
 #7198	[!SystemMail][colour='FFFFE959'] 안녕하세요. 트러블슈터분들!<br><br>전 여러분 덕분에 오늘도 친구들과 즐겁게 등교하는 소녀 $CivilName$ 입니다.<br><br>그 위험한 상황 속에서 저를 구조하기 위해 달려오시는 모습이 아직도 잊혀지지 않아요!!<br><br>이것은 원래 제가 커서 독립할 때를 위해 꾸준히 모아놨던 용돈입니다.<br><br>트러블슈터 여러분이 사용해주세요.	[!SystemMail][colour='FFFFE959']大家好。各位纷争终结者们！<br><br>我是一名托大家的福才能快乐地和同学们上学的少女$CivilName$。<br><br>我无法忘记你们能在那么危险的状况下来营救我的身姿！！<br><br>这笔钱本是为了我长大后独立时用的。<br><br>希望各位纷争终结者尽情使用。
 #7199	[!SystemMail]안녕하세요! $CompanyName$	[!SystemMail]你好！$CompanyName$
-#7200	[!SystemMail][colour='FFFFE959'] 안녕하세요~♡<br><br>저의 이름은 $CivilName$ 입니다.<br><br>저는 하고 싶은 것이 너무 많아요!! :)<br><br>그 꿈을 이룰 수 있도록 기회를 주셔서 감사해요~☆<br><br>모든 꿈을 이루도록 정말 열심히 노력할게요!	[!SystemMail][colour='FFFFE959']你好～♡<br><br>我的名字是$CivilName$。<br><br>我有太多想做的事情！！:)<br><br>谢谢你们给了我圆梦的机会～☆<br><br>我会努力实现我所有的梦想的！
+#7200	[!SystemMail][colour='FFFFE959'] 안녕하세요~♡<br><br>저의 이름은 $CivilName$ 입니다.<br><br>저는 하고 싶은 것이 너무 많아요!! :)<br><br>그 꿈을 이룰 수 있도록 기회를 주셔서 감사해요~☆<br><br>모든 꿈을 이루도록 정말 열심히 노력할게요!	[!SystemMail][colour='FFFFE959']你好～♡<br><br>我的名字是$CivilName$。<br><br>我有太多想做的事情！：）<br><br>谢谢你们给了我圆梦的机会～☆<br><br>我会努力实现我所有的梦想的！
 #7201	[!SystemMail]헤헷~☆ 감사합니다!	[!SystemMail]嘿嘿～☆谢谢！
 #7202	[!SystemMail][colour='FFFFE959']감사합니다.<br><br>덕분에 건강하게 다시 잘 학교에 다니고 있어요.<br><br>트러블슈터분들도 건강 조심하시고 너무 일만 하지 마세요.<br><br>이건 제 용돈인데 맛있는 거 사 드세요!	[!SystemMail][colour='FFFFE959']非常感谢。<br><br>托你们的福我又重新上学校啦。<br><br>各位纷争终结者们请你们适当做事，注意自身健康。<br><br>这是我的零花钱，去买好吃的吧！
 #7203	[!SystemMail][colour='FFFFE959']제 딸 $CivilName$는 이제 정신을 차렸습니다.<br><br>여러분이 없었다면 제 아이가 어떤 험한 꼴을 당했을런지...<br><br>아이 얼굴만 보면 아직도 저도 모르게 눈물이 흘러내립니다.<br><br>그럴수록 여러분이 계속 트러블슈터로 활동해주시길 진심으로 바랍니다.<br><br>세상은 아직 여러분을 필요로 합니다.	[!SystemMail][colour='FFFFE959']我女儿$CivilName$终于醒了过来。<br><br>若是没有各位的援手，我的孩子会遭遇什么我不敢想…<br><br>看着孩子的脸我就止不住眼泪啊。<br><br>越是这样，我越希望各位能继续坚持纷争终结者业务。<br><br>这个世界依然需要各位。
@@ -4269,7 +4269,7 @@
 #7751	[!SystemMail]발할라 경찰청 행정과	[!SystemMail]巴赫拉警察厅行政科
 #7752	[!SystemMail]불법 시설물 철거 보상 안내	[!SystemMail]拆除违建设施奖励介绍
 #7754	[!SystemMail]관할 구역 배정 안내입니다.	[!SystemMail]这是管辖区分配介绍。
-#7755	[!SystemMessage]사용 불가: 아이 피해 발생	[!SystemMessage]不可用:儿童受害
+#7755	[!SystemMessage]사용 불가: 아이 피해 발생	[!SystemMessage]不可用：儿童受害
 #7756	[!SystemMessage]아이가 공격 범위내에 포함됩니다.<br>사용할 수 없습니다.	[!SystemMessage]攻击范围内有儿童。<br>无法使用。
 #7757	[!WordCollection]지원 병력	[!WordCollection]支援部队
 #7758	[!WordCollection]음료를 주문한다.	[!WordCollection]点饮料。
@@ -4413,11 +4413,11 @@
 #7991	[!Mission]시민들을 전원 구출하세요	[!Mission]请营救全体市民
 #7992	[!Rest]다음엔 참지 않아.	[!Rest]下次不会再忍了。
 #7993	[!Rest]뭐라는 건지 하나도 모르겠다.	[!Rest]到底在说什么一句都听不懂。
-#7994	[!WordCollection]지형효과 : 수풀	[!WordCollection]地形效果 : 草丛
-#7995	[!WordCollection]지형효과 : 화재	[!WordCollection]地形效果 : 火灾
-#7996	[!WordCollection]지형효과 : 독 연기	[!WordCollection]地形效果 : 毒烟
-#7997	[!WordCollection]지형효과 : 전기장	[!WordCollection]地形效果 : 电磁场
-#7998	[!WordCollection]지형효과 : 늪	[!WordCollection]地形效果 : 池沼
+#7994	[!WordCollection]지형효과 : 수풀	[!WordCollection]地形效果：草丛
+#7995	[!WordCollection]지형효과 : 화재	[!WordCollection]地形效果：火灾
+#7996	[!WordCollection]지형효과 : 독 연기	[!WordCollection]地形效果：毒烟
+#7997	[!WordCollection]지형효과 : 전기장	[!WordCollection]地形效果：电磁场
+#7998	[!WordCollection]지형효과 : 늪	[!WordCollection]地形效果：池沼
 #7999	[!WordCollection]원망하는 시민	[!WordCollection]埋怨的市民
 #8001	[!CivilMessage]로베르토야...	[!CivilMessage]罗伯托呀…
 #8002	[!CivilMessage]나 좀 살려다오~	[!CivilMessage]救救我～
@@ -4441,7 +4441,7 @@
 #8022	[!Mastery]질주	[!Mastery]疾走
 #8024	[!SystemMail]피에르토 코르토나	[!SystemMail]彼得罗科尔托纳
 #8032	[!GuideMessage]뒤쪽에 여유공간이 없는 적을 밀쳐내는 공격이 적중한 경우 대상은 [colour='FFFFFF00']기절[colour='FFFFFFFF'] 상태가 됩니다	[!GuideMessage]对于后方没有余地的目标被击退攻击命中时，该目标变成[colour='FFFFFF00']晕厥[colour='FFFFFFFF']状态。
-#8033	[!WordCollection]기절: 뒤로 밀려남	[!WordCollection]晕厥: 被击退
+#8033	[!WordCollection]기절: 뒤로 밀려남	[!WordCollection]晕厥：被击退
 #8034	[!Ability]가르기	[!Ability]分开
 #8039	[!Loading]언젠가 같이 걸어갈 날을 위해...	[!Loading]为了将来有一天能一起前进…
 #8040	[!OptionInterface]대화 타이핑 사운드	[!OptionInterface]对话打字声音
@@ -4470,7 +4470,7 @@
 #8072	[!OptionVideo]창 모드	[!OptionVideo]窗口模式
 #8073	[!OptionVideo]모드	[!OptionVideo]模式
 #8074	[!Mission]은빛 토끼 공원	[!Loading]银兔公园
-#8077	[!GuideMessage]활동 보고서 보상 받기에 실패했습니다.<br>보상 받기까지 남은시간: $Time$	[!GuideMessage]活动报告书领取奖励失败。<br>奖励到达剩余时间: $Time$
+#8077	[!GuideMessage]활동 보고서 보상 받기에 실패했습니다.<br>보상 받기까지 남은시간: $Time$	[!GuideMessage]活动报告书领取奖励失败。<br>奖励到达剩余时间：$Time$
 #8079	[!GuideMessage]임무 성공 [font='HemiHead-14']%s[font='NotoSansMedium-13_Auto'] 회	[!GuideMessage]任务成功[font='HemiHead-14']%s[font='NotoSansMedium-13_Auto']次
 #8080	[!GuideMessage]현재 진행 가능한 모든 사건들을 유저의 설정에 따라 보여줍니다. 사건이 많아질 경우 해당 탭을 활용하시길 바랍니다.	[!GuideMessage]将目前可进行的所有事件按照用户的设定展现出来。事件过多时请使用该标签。
 #8081	[!GuideMessage]사용자 정의 사건 탭의 조건을 설정 할 수 있습니다. 사건의 개수가 많아지면 해당 설정을 활용하여 원하시는 설정을 구성하십시오.	[!GuideMessage]可设置用户定义事件标签的条件。事件的个数过多时可使用该设置进行自由设置。
@@ -4498,8 +4498,8 @@
 #8106	[!WordCollection][!Menu]총 급여액	[!WordCollection][!Menu]总工资额
 #8107	[!GuideMessage]회피와 방어를 할 수 없습니다.	[!Buff]无法进行闪避和防御。
 #8109	[!GuideMessage]그래픽 품질을 자동으로 설정하시겠습니까?	[!GuideMessage]自动设置画质吗？
-#8111	[!SystemNotice]잠시 후에 임시점검이 있을 예정입니다.<br>현재 접속중인 유저분들은 점검 시간을 고려하여 미션을 안전하게 종료해 주시기 바랍니다. <br>서버 종료까지 남은시간: $ToTime$	[!SystemNotice]稍后将是临时检查时间。<br>当前在线的用户们请安排好各自的时间，安全结束任务。<br>关闭服务器剩余时间: $ToTime$
-#8112	[!SystemNotice]잠시 후에 정기점검이 있을 예정입니다.<br>현재 접속중인 유저분들은 점검 시간을 고려하여 미션을 안전하게 종료해 주시기 바랍니다. <br>서버 종료까지 남은시간: $ToTime$	[!SystemNotice]稍后将是定期检查时间。<br>当前在线的用户们请安排好各自的时间，安全结束任务。<br>关闭服务器剩余时间: $ToTime$
+#8111	[!SystemNotice]잠시 후에 임시점검이 있을 예정입니다.<br>현재 접속중인 유저분들은 점검 시간을 고려하여 미션을 안전하게 종료해 주시기 바랍니다. <br>서버 종료까지 남은시간: $ToTime$	[!SystemNotice]稍后将是临时检查时间。<br>当前在线的用户们请安排好各自的时间，安全结束任务。<br>关闭服务器剩余时间：$ToTime$
+#8112	[!SystemNotice]잠시 후에 정기점검이 있을 예정입니다.<br>현재 접속중인 유저분들은 점검 시간을 고려하여 미션을 안전하게 종료해 주시기 바랍니다. <br>서버 종료까지 남은시간: $ToTime$	[!SystemNotice]稍后将是定期检查时间。<br>当前在线的用户们请安排好各自的时间，安全结束任务。<br>关闭服务器剩余时间：$ToTime$
 #8115	[!Ability]불꽃 질주	[!Ability]疾走火花
 #8117	[!Ability]번개 장막	[!Ability]闪电帷幕
 #8119	[!Ability]번개 대포	[!Ability]闪电炮
@@ -4552,9 +4552,9 @@
 #8183	[!Mastery]벤데타	[!Mastery]凡蒂塔
 #8185	[!ObjectInfo]운송업자 리	[!ObjectInfo]配送人员老李
 #8186	[!ObjectInfo]스콧	[!ObjectInfo]斯科特
-#8191	[!WordCollection]게임 난이도: 쉬움	[!WordCollection]游戏难度: 简单
-#8192	[!WordCollection]게임 난이도: 어려움	[!WordCollection]游戏难度: 困难
-#8193	[!WordCollection]게임 난이도: 보통	[!WordCollection]游戏难度: 一般
+#8191	[!WordCollection]게임 난이도: 쉬움	[!WordCollection]游戏难度：简单
+#8192	[!WordCollection]게임 난이도: 어려움	[!WordCollection]游戏难度：困难
+#8193	[!WordCollection]게임 난이도: 보통	[!WordCollection]游戏难度：一般
 #8194	[!WordCollection]잃어버림	[!WordCollection]丢失
 #8195	[!WordCollection]비활성화	[!WordCollection]停用
 #8196	[!WordCollection]창고 계약하기	[!WordCollection]签约仓库
@@ -4660,7 +4660,7 @@
 #8334	[!Item]하산이 황소파 간부 시절 스콧과 함께 조직을 이끌던 시기부터 쓰던 화염 특화 팔찌.	[!Item]哈山在狂牛组作为干部，和斯科特一起带领着组织时期开始佩戴的火焰特性手镯。
 #8335	[!Item]자홍빛 카본 부츠	[!Item]紫红色石墨靴子
 #8336	[!Item]자홍거리에서 유통되는 카본 부츠의 강화 버전. 뒷세계에서 매우 인기 있는 부츠이다.	[!Item]紫红街流通的石墨靴子的加强版。是一款在地下世界里非常有人气的靴子。
-#8337	[!Item]도깨비 핑크는 울면서 용서를 구하는 나쁜 아이들에게 언제나 이렇게 말한다. "이미 늦었어!"	[!Item]粉红妖怪总是对哭着求饶的坏孩子们说，"已经太迟了！"
+#8337	[!Item]도깨비 핑크는 울면서 용서를 구하는 나쁜 아이들에게 언제나 이렇게 말한다. "이미 늦었어!"	[!Item]粉红妖怪总是对哭着求饶的坏孩子们说，「已经太迟了！」
 #8338	[!Item]자홍빛 순은 손목 고리	[!Item]紫红色纯银手链
 #8339	[!Item]자홍거리에서 유통되는 순은 손목 고리의 강화된 버전. 뒷세계에서 매우 인기 있는 손목 고리이다.	[!Item]紫红街流通的纯银手链的加强版。是一款在地下世界里非常有人气的手链。
 #8340	[!Item]자홍빛 원소 술사 코트	[!Item]紫红色元素术士外套
@@ -4969,13 +4969,13 @@
 #8788	[!AIControl]후퇴	[!AIControl]后退
 #8789	[!AIControl]전황이 확인 되지 않은 지역을 적극적으로 탐색합니다.	[!AIControl]积极探索未确认战况的区域。
 #8790	[!AIControl]탐색	[!AIControl]探索
-#8792	[!GuideMessage]저항 속성:	[!GuideMessage]抗性属性:
+#8792	[!GuideMessage]저항 속성:	[!GuideMessage]抗性属性：
 #8793	[!GuideMessage]전파 방해기는 해당 지역의 무선 통신을 방해하는 [colour='FFFFAA00']불법 설치물[colour='FFFFFFFF']입니다. 발할라 경찰청에서는 해당 설치물을 파괴할 때마다 [colour='FFFFFF00']철거 비용[colour='FFFFFFFF']을 추가로 지원하고 있습니다.	[!Sentence][!SMMessage]电波干扰器是妨碍该地区无线通讯的[colour='FFFFAA00']违建设施[colour='FFFFFFFF']。每拆除相应的设施，巴赫拉警察厅会额外支付[colour='FFFFFF00']拆除费用[colour='FFFFFFFF']。
 #8794	[!GuideMessage]회복 어빌리티의 사용이 불가능합니다.	[!GuideMessage]无法使用恢复技能。
 #8796	[!MonsterGrade]$WhiteBlue$정예$Blue_ON$ 특성이 활성화됩니다.	[!MonsterGrade]$WhiteBlue$精英$Blue_ON$天赋被激活。
 #8797	[!MonsterGrade]$WhiteBlue$영웅$Blue_ON$ 특성이 활성화됩니다.	[!MonsterGrade]$WhiteBlue$英雄$Blue_ON$天赋被激活。
 #8798	[!MonsterGrade]$WhiteBlue$전설$Blue_ON$ 특성이 활성화됩니다.	[!MonsterGrade]$WhiteBlue$史诗$Blue_ON$天赋被激活。
-#8799	[!WordCollection]불법 설치물: 전파 방해기	[!WordCollection]违建品:电波干扰器
+#8799	[!WordCollection]불법 설치물: 전파 방해기	[!WordCollection]违建品：电波干扰器
 #8800	[!WordCollection][!Menu]훈련서	[!WordCollection][!Menu]训练书
 #8802	[!AIControl]위임 상태를 해제합니다. 다음 턴에 다시 플레이어가 직접 조작이 가능합니다.	[!AIControl]解除委任状态。下一回合开始玩家可以重新进行亲手操作。
 #8803	[!AIControl]취소	[!AIControl]取消
@@ -4992,8 +4992,8 @@
 #8816	[!GuideMessage]이미 해당 적이 보유한 모든 특성을 연구할 수 있습니다.	[!GuideMessage]已经可以研究该怪物拥有的所有天赋了。
 #8817	[!GuideMessage]$Unit$ 현장을 이탈합니다.	[!GuideMessage]$Unit$离开现场。
 #8820	[!SystemMessage]행동 위임 기능이 비활성화되었습니다.	[!SystemMessage]委任行动功能已关闭。
-#8821	[!WordCollection]정보 완료 보상: 발키리 코인	[!WordCollection]信息完成奖励:女武神币
-#8822	[!WordCollection]정보 완료 보상: 연구 가능 특성 발견	[!WordCollection]信息完成奖励:发现可研究的天赋
+#8821	[!WordCollection]정보 완료 보상: 발키리 코인	[!WordCollection]信息完成奖励：女武神币
+#8822	[!WordCollection]정보 완료 보상: 연구 가능 특성 발견	[!WordCollection]信息完成奖励：发现可研究的天赋
 #8823	[!GuideMessage]특성판에서 캐릭터가 습득한 특성을 해제시 사용되는 아이템입니다.	[!GuideMessage]这是在属性板中移除角色学到的天赋时使用的物品。
 #8824	[!GuideMessage]연구를 통해 결과물을 획득하기 위해서는 [colour='FFFF5500']고정 연구 재료[colour='FFFFFFFF']에 해당하는 특성을 회사가 소유하고 있어야 하며 [colour='FFFFFF55']필요 연구 점수[colour='FFFFFFFF']를 회사가 보유한 특성을 [colour='FF00AAFF']추가 연구 재료[colour='FFFFFFFF']에 추가하여 충족시켜야 합니다.<br><br>[colour='FFFFFF00']필요 연구 점수가 만족되면 특성 연구 버튼이 활성화됩니다.	[!GuideMessage]为了通过研究获得结果，公司应该拥有[colour='FFFF5500']固定的研究材料[colour='FFFFFFFF']相应的天赋，并且将公司拥有的且满足[colour='FFFFFF55']所需的研究点数[colour='FFFFFFFF']的天赋填充到的[colour='FF00AAFF']附加研究材料[colour='FFFFFFFF']中去并满足要求。<br><br>[colour='FFFFFF00']所需研究点数充足后，天赋研究按钮将会被激活。
 #8826	[!Mastery]누구나 자신의 길을 간다.	[!Mastery]人是要走自己的阳关道。
@@ -5049,7 +5049,7 @@
 #8892	[!Item]자홍빛 그림자 코트	[!Item]紫红色影子外套
 #8893	[!Item]자홍거리에서 유통되는 그림자 코트의 강화 버전. 뒷세계에서 매우 인기 있는 코트이다.	[!Item]紫红街流通的影子外套的加强版。是一款在地下世界里非常有人气的外套。
 #8894	[!Item]약속의 반지	[!Item]约定之戒
-#8895	[!Item]줄리오는 오랫동안 모셔왔던 귀족 아가씨가 정략 결혼으로 집을 떠나는 날 그녀로부터 이 반지를 받는다. 고개 숙인 줄리오를 향해 아가씨는 이렇게 말한다. "언젠가 너와 함께할 날을 기다릴게. 그때까지 안녕."	[!Item]朱利奥长期侍奉着的贵族小姐因为政治婚姻而离家的那一天送他这枚戒指。对着低着头的朱利奥，那位小姐说到。“总有一天我们还会在一起的，我会一直等着那一天。直到那一天到来你要多保重。”
+#8895	[!Item]줄리오는 오랫동안 모셔왔던 귀족 아가씨가 정략 결혼으로 집을 떠나는 날 그녀로부터 이 반지를 받는다. 고개 숙인 줄리오를 향해 아가씨는 이렇게 말한다. "언젠가 너와 함께할 날을 기다릴게. 그때까지 안녕."	[!Item]朱利奥长期侍奉着的贵族小姐因为政治婚姻而离家的那一天送他这枚戒指。对着低着头的朱利奥，那位小姐说到。「总有一天我们还会在一起的，我会一直等着那一天。直到那一天到来你要多保重。」
 #8896	[!Item]배달 운동화	[!Item]快递员运动鞋
 #8897	[!Item]배달의 생명인 속도를 위하여 경량화가 극도로 이루어진 운동화.	[!Item]为了确保快递配送之命脉的速度，极尽所能轻量化的运动鞋。
 #8898	[!Item]배달 손목 보호대	[!Item]快递员护腕
@@ -5501,7 +5501,7 @@
 #9467	[!Help]체크포인트	[!Help]检查点
 #9481	[!Help]연출 생략하기	[!Help]跳过动画
 #9536	[!Help]이동 중에는 넉백 효과가 적용되지 않습니다.	[!Help]移动中将不会受到击退效果。
-#9547	[!Help]미션 임무: 치안 확보	[!Help]任务:确保治安
+#9547	[!Help]미션 임무: 치안 확보	[!Help]任务：确保治安
 #9553	[!Help]돌진 이동	[!Help]突进移动
 #9559	[!Help]두 번째 이동	[!Help]第二次移动
 #9571	[!Help]조준 목표 변경	[!Help]变更瞄准目标
@@ -5814,7 +5814,7 @@
 #9962	[!OptionGameplay]캐릭터 상태창 기력 표시	[!OptionGameplay]显示角色气力在状态窗
 #9963	[!Troublebook]침입자	[!Troublebook]入侵者
 #9964	[!ItemType]추출기	[!ItemType]抽出器
-#9967	[!Help]미션 임무: 에너지 해제	[!Help]任务: 释放掉能量
+#9967	[!Help]미션 임무: 에너지 해제	[!Help]任务：释放掉能量
 #9978	[!Dismantle]악세사리	[!Dismantle]饰品
 #9979	[!Dismantle]방어구	[!Dismantle]护具
 #9980	[!Dismantle]무기	[!Dismantle]武器
@@ -5835,7 +5835,7 @@
 #10002	[!Buff]수리	[!Buff]修理
 #10003	[!GuideMessage]$RosterName$의 급여 조건이 변경되었습니다.	[!GuideMessage]$RosterName$的工资状况改变了。
 #10004	[!GuideMessage][colour='FFFFFFFF']%s[colour='FFFFE959']의 급여 조건이 변경되었습니다.	[!GuideMessage][colour='FFFFFFFF']%s[colour='FFFFE959']的工资状况改变了。
-#10005	[!GuideMessage]새로운 제작 가능 아이템: %s	[!GuideMessage]新制作可能的物品: %s
+#10005	[!GuideMessage]새로운 제작 가능 아이템: %s	[!GuideMessage]新制作可能的物品：%s
 #10006	[!GuideMessage][colour='FFFF5943']해당 전문 기술을 통해 아이템을 제작을 하려면 작업대가 필요합니다.	[!GuideMessage][colour='FFFF5943']使用该专业技术制作物品需要工作台。
 #10007	[!GuideMessage]임무 성공 $Duration$ 회	[!GuideMessage]任务成功$Duration$回
 #10009	[!GuideMessage]현재 캐릭터의 급여 조건을 변경하려면, 이전 급여 조건에 따라 [colour='FFFFE959']$NeedVill$[colour='FFFFFFFF'] Vill을 지급해야 합니다. 현재 캐릭터의 의욕은 변하지 않습니다. 계속 진행하시겠습니까?	[!GuideMessage]需要[colour='FFFFE959']$NeedVill$[colour='FFFFFFFF']Vill来改变当前角色的工资条件。现角色的意志将不会改变。要继续吗？
@@ -5939,7 +5939,7 @@
 #10141	[!ObjectInfo]도어	[!ObjectInfo]迪奥
 #10153	[!WordCollection][!Menu]도전 모드	[!WordCollection][!Menu]挑战模式
 #10154	[!WordCollection][!Menu]일반 모드	[!WordCollection][!Menu]一般模式
-#10160	[!Status]$Status$은 적에게 입는 관통 속성 물리 피해량을 감소시킵니다. 또한 관통 속성의 상태 이상을 해제할 확률이 증가합니다.<br><br>$Tomato$관통 속성은 총기류와 같은 원거리 무기를 사용하여 피해를 입히는 속성입니다	[!Status]$Status$将会降低来自敌人穿透属性的物理伤害量。并且提高解除穿透属性异常状态的几率。<br><br>$Tomato$穿透属性物理伤害:诸如枪械类的远程武器造成的伤害。
+#10160	[!Status]$Status$은 적에게 입는 관통 속성 물리 피해량을 감소시킵니다. 또한 관통 속성의 상태 이상을 해제할 확률이 증가합니다.<br><br>$Tomato$관통 속성은 총기류와 같은 원거리 무기를 사용하여 피해를 입히는 속성입니다	[!Status]$Status$将会降低来自敌人穿透属性的物理伤害量。并且提高解除穿透属性异常状态的几率。<br><br>$Tomato$穿透属性物理伤害：诸如枪械类的远程武器造成的伤害。
 #10162	[!Ability]전화	[!Ability]电话
 #10163	[!InteractionArea]전화	[!InteractionArea]电话
 #10164	[!Loading]성난 호랑이	[!Loading]愤怒的老虎
@@ -5956,11 +5956,11 @@
 #10178	[!WordCollection]지하 창고 계약하기	[!WordCollection]签订地下仓库
 #10179	[!GuideMessage]임대료 지급 방식을 결정해야 수락이 가능합니다	[!GuideMessage]决定租金支付方式后才能接受。
 #10180	[!Mission]백호파 습격을 외부에 알리시오.	[!Mission]请将白虎组袭击事件通知给外部。
-#10181	[!Mission]- 선택 목표 1: 주차장의 유선 전화를 사용하여 구조 요청하시오.	[!Mission]-选择目标1:请使用停车场里的有线电话进行求助。
-#10182	[!Mission]- 선택 목표 2: 전파 방해기를 모두 파괴하시오.	[!Mission]-选择目标2:请破坏所有的电波干扰器。
+#10181	[!Mission]- 선택 목표 1: 주차장의 유선 전화를 사용하여 구조 요청하시오.	[!Mission]-选择目标1：请使用停车场里的有线电话进行求助。
+#10182	[!Mission]- 선택 목표 2: 전파 방해기를 모두 파괴하시오.	[!Mission]-选择目标2：请破坏所有的电波干扰器。
 #10183	[!OptionAudio]비활성화 시 음소거	[!OptionAudio]停用时静音
-#10184	[!WordCollection]게임 난이도: 가혹한	[!WordCollection]游戏难度:炼狱
-#10185	[!WordCollection]게임 난이도: 안전	[!WordCollection]游戏难度:安全
+#10184	[!WordCollection]게임 난이도: 가혹한	[!WordCollection]游戏难度：炼狱
+#10185	[!WordCollection]게임 난이도: 안전	[!WordCollection]游戏难度：安全
 #10189	[!Mastery]최상의 기회가 올 때까지 기다린다.	[!Mastery]等到最好的机会到来为止。
 #10190	[!Mastery]노림수	[!Mastery]钻空子
 #10192	[!Mastery]베지 못하는 것은 없다!	[!Mastery]没有什么是不能砍削的！
@@ -6054,7 +6054,7 @@
 #10305	[!Profession]보석 세공	[!Profession]珠宝细工
 #10306	[!MasteryType]암살자	[!MasteryType]暗杀者
 #10307	[!Buff]물	[!Buff]水
-#10308	[!DamageCondition]지형효과: 물	[!DamageCondition]地形效果: 水
+#10308	[!DamageCondition]지형효과: 물	[!DamageCondition]地形效果：水
 #10309	[!FieldEffect]늪/수풀	[!FieldEffect]池沼/草丛
 #10310	[!FieldEffect]물/수풀	[!FieldEffect]水/草丛
 #10311	[!Loading]철의 숲 안개 절벽	[!Loading]铁森林雾见崖
@@ -6098,7 +6098,7 @@
 #10369	[!AbilitySlotType]일반	[!AbilitySlotType]一般
 #10370	[!AbilitySlotType]SP 어빌리티	[!AbilitySlotType]SP必杀技能
 #10371	[!BattleFormulaSharedCondition]알려진 적	[!BattleFormulaSharedCondition]已知的敌人
-#10372	[!BattleFormulaSharedCondition]날씨: $Weather$	[!BattleFormulaSharedCondition]天气: $Weather$
+#10372	[!BattleFormulaSharedCondition]날씨: $Weather$	[!BattleFormulaSharedCondition]天气：$Weather$
 #10373	[!Buff]다음 행동은 행동력을 소모하지 않습니다.	[!Buff]下一个动作不消耗行动力。
 #10374	[!Buff]심기일전	[!Buff]心机一转
 #10376	[!Buff]철의 요새	[!Buff]铁之要塞
@@ -6161,14 +6161,14 @@
 #10450	[!Ability]난사	[!Ability]乱射
 #10451	[!Ability]적에게 위협 사격 후 강력한 발차기로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]对敌人进行胁迫射击后，利用强有力的飞踹造成$DamageAmount$的$DamageType$伤害。
 #10452	[!Ability]거리 벌리기	[!Ability]拉开距离
-#10455	[!BattleFormulaSharedCondition]클래스: $Job$	[!BattleFormulaSharedCondition]职业:$Job$
+#10455	[!BattleFormulaSharedCondition]클래스: $Job$	[!BattleFormulaSharedCondition]职业：$Job$
 #10457	[!Buff]휘감는 뿌리	[!Buff]缠绕之根
 #10459	[!GuideMessage]적의 반응 공격을 발동시키지 않습니다.	[!GuideMessage]不会引发敌人的反应攻击。
 #10460	[!GuideMessage]$Name$ $Exp$ 클래스 경험치를 획득하였습니다. ($Reason$)	[!GuideMessage]$Name$获得了$Exp$点职业经验。($Reason$)
 #10461	[!GuideMessage][colour='FFFFFFFF']클래스 변경[colour='FFFFE959']이 활성화 되려면 현재 [colour='FFFFFFFF']클래스 레벨[colour='FFFFE959']을 [colour='FFFFFFFF']10[colour='FFFFE959'] 이상 성장시켜야 합니다.	[!GuideMessage]开启[colour='FFFFFFFF']职业变更[colour='FFFFE959']需要将现有的[colour='FFFFFFFF']职业等级[colour='FFFFE959']提高到[colour='FFFFFFFF']10[colour='FFFFE959']级以上。
 #10462	[!GuideMessage]$AbilityName$ 어빌리티를 사용할 수 있습니다.	[!GuideMessage]可使用$AbilityName$技能。
 #10464	[!GuideMessage][colour='FFFFFF00']해당 과정을 원하시지 않는다면 특성판을 변경 후, 클래스 변경을 진행해주십시오.	[!GuideMessage][colour='FFFFFF00']若您不需要该过程，请变更天赋版后再进行职业变更。
-#10465	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']현재 사용중인 특성판의 특성 중 변경될 클래스에서 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告:解除天赋版中的天赋<br><br>[colour='FFFFFFFF']目前使用中的天赋版中存在不适用于目标职业的天赋。
+#10465	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']현재 사용중인 특성판의 특성 중 변경될 클래스에서 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告：解除天赋版中的天赋<br><br>[colour='FFFFFFFF']目前使用中的天赋版中存在不适用于目标职业的天赋。
 #10466	[!GuideMessage][colour='FFFF5943']현재 훈련서 개수가 부족하여 해당 클래스로 변경이 불가능합니다.	[!GuideMessage][colour='FFFF5943']目前训练书数量不足，因此无法进行职业变更。
 #10467	[!GuideMessage][colour='FFFFFFFF']클래스 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거되며, 해당 과정을 위해 훈련서 $ItemCount$ 개가 추가 소모됩니다.	[!GuideMessage][colour='FFFFFFFF']若继续变更职业，上述的天赋将会从天赋版中移除并且该过程额外消耗$ItemCount$个训练书。
 #10489	[!GuideMessage][colour='FFFFFF00']%s[colour='FFFF5943'] 클래스 레벨 [colour='FFFFFFFF']%d[colour='FFFF5943']부터 사용할 수 있습니다.	[!GuideMessage][colour='FFFFFF00']%s[colour='FFFF5943']职业等级[colour='FFFFFFFF']%d[colour='FFFF5943']级开始可以使用。
@@ -6179,7 +6179,7 @@
 #10494	[!GuideMessage]$Name$ $Level$ 클래스 레벨이 되었습니다	[!GuideMessage]$Name$达到$Level$职业等级。
 #10495	[!GuideMessage]클래스 레벨의 상승으로 $MasteryName$ 특성을 발견하여 연구가 가능해졌습니다.	[!GuideMessage]职业等级上升，发现了$MasteryName$天赋，目前可进行研究。
 #10496	[!GuideMessage][colour='FFFFFF00']해당 과정을 원하시지 않는다면 클래스를 변경 후, 특성판 변경을 진행해주십시오.	[!GuideMessage][colour='FFFFFF00']若您不打算这么做，那请在变更职业后再变更天赋版。
-#10497	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']변경될 특성판의 특성 중 현재 클래스에서 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告:天赋版天赋的解除<br><br>[colour='FFFFFFFF']，即将变更的天赋中存在当前职业无法使用的天赋。
+#10497	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']변경될 특성판의 특성 중 현재 클래스에서 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告：天赋版天赋的解除<br><br>[colour='FFFFFFFF']，即将变更的天赋中存在当前职业无法使用的天赋。
 #10498	[!GuideMessage][colour='FFFF5943']현재 훈련서 개수가 부족하여 해당 특성판으로 변경이 불가능합니다.	[!GuideMessage][colour='FFFF5943']当前训练书数量不足，无法变更为该天赋版。
 #10499	[!GuideMessage][colour='FFFFFFFF']특성판 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거되며, 해당 과정을 위해 훈련서 $ItemCount$ 개가 추가 소모됩니다.	[!GuideMessage][colour='FFFFFFFF']若您继续变更天赋版的动作，上述的天赋将全数从天赋版中移除，相应地会消耗$ItemCount$个训练书。
 #10500	[!GuideMessage]최대 레벨에 도달하였습니다.	[!GuideMessage]已达到最高等级。
@@ -6548,7 +6548,7 @@
 #11181	[!Ability]얼음 회오리	[!Ability]寒冰旋风
 #11182	[!GuideMessage]추가 가능한 특성 조합을 찾지 못했습니다.	[!GuideMessage]没有可添加的天赋组合。
 #11189	[!Item]서리한 팔찌	[!Item]霜之哀伤的手镯
-#11190	[!Item]세계수 시절, 샤키는 세계수 지구를 떠나며 자신이 사용하던 팔찌를 팔아 버리고 존에게 이 팔찌를 선물한다. 존은 스승의 팔찌를 받을 수 없다고 한사코 거절하였으나 그런 존의 손을 잡고 샤키는 다음과 같이 말한다. "존. 밥은 밥그릇만큼만 담을 수 있네."	[!Item]世界树时期，沙基在离开世界树地区时卖掉了自己的手镯，并用卖掉的钱买了这个手镯送给了约翰。约翰屡次表示不能接受老师的手镯，然而沙基牵着约翰的手如是说到。"约翰。饭呢，只能盛一碗那么多。"
+#11190	[!Item]세계수 시절, 샤키는 세계수 지구를 떠나며 자신이 사용하던 팔찌를 팔아 버리고 존에게 이 팔찌를 선물한다. 존은 스승의 팔찌를 받을 수 없다고 한사코 거절하였으나 그런 존의 손을 잡고 샤키는 다음과 같이 말한다. "존. 밥은 밥그릇만큼만 담을 수 있네."	[!Item]世界树时期，沙基在离开世界树地区时卖掉了自己的手镯，并用卖掉的钱买了这个手镯送给了约翰。约翰屡次表示不能接受老师的手镯，然而沙基牵着约翰的手如是说到。「约翰。饭呢，只能盛一碗那么多。」
 #11191	[!Loading]초승달 대교	[!Loading]初月大桥
 #11192	[!Loading]진심을 담아...	[!Loading]承载着真情实意…
 #11194	[!Mission]초승달 대교	[!Mission]初月大桥
@@ -6565,8 +6565,8 @@
 #11206	[!WordCollection]공격 범위	[!WordCollection]攻击范围
 #11207	[!WordCollection]적 다수	[!WordCollection]大量敌人
 #11208	[!WordCollection]적 소수	[!WordCollection]少量敌人
-#11209	[!WordCollection]인기척 감지 후 흐른 시간: [colour='FFFFFFFF']%d[colour='FF00C8FF']	[!WordCollection]发现行踪后经过的时间:[colour='FFFFFFFF']%d[colour='FF00C8FF']
-#11210	[!WordCollection]사망지점: %s	[!WordCollection]死亡地点:%s
+#11209	[!WordCollection]인기척 감지 후 흐른 시간: [colour='FFFFFFFF']%d[colour='FF00C8FF']	[!WordCollection]发现行踪后经过的时间：[colour='FFFFFFFF']%d[colour='FF00C8FF']
+#11210	[!WordCollection]사망지점: %s	[!WordCollection]死亡地点：%s
 #11211	[!WordCollection]최근 감지한 인기척	[!WordCollection]最新发现的行踪
 #11212	[!WordCollection][!Menu]자동 선택	[!WordCollection][!Menu]自动选择
 #11214	[!Ability]범위 내 적에게 16 차례 얼음 화살을 날려 얼음 화살 1 개당 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]随机对相应范围内的敌人造成16次的寒冰箭，每发寒冰箭造成$DamageAmount$的$DamageType$伤害。
@@ -7019,7 +7019,7 @@
 #11812	[!ObjectInfo]후성	[!ObjectInfo]侯成
 #11813	[!ObjectInfo]백호 불한당	[!ObjectInfo]白虎流氓
 #11814	[!ObjectInfo]다리우스	[!ObjectInfo]大流士
-#11817	[!GuideMessage]경고: $ItemRank$ 등급 아이템이 포함되어 있습니다.	[!GuideMessage]警告: 包含$ItemRank$级别的物品。
+#11817	[!GuideMessage]경고: $ItemRank$ 등급 아이템이 포함되어 있습니다.	[!GuideMessage]警告：包含$ItemRank$级别的物品。
 #11818	[!GuideMessage]강력한 기계들과의 전투를 통하여 그들을 보다 효과적으로 상대하는 방법을 깨달았습니다.	[!GuideMessage]通过对战强大的机械，领悟到了该如何更加有效地应付它们。
 #11819	[!GuideMessage]제작할 아이템의 수량을 정하세요.	[!GuideMessage]请指定制作物品的数量。
 #11820	[!GuideMessage]추출할 아이템의 수량을 정하세요.	[!GuideMessage]请指定物抽取品的数量。
@@ -7065,8 +7065,8 @@
 #11879	[!Item]반짝이는 충격 보호대	[!Item]闪耀的冲击吸收具
 #11881	[!Item]트윙클 잭은 자신의 우승을 위해 꾸준한 투자를 하였고 그의 장비의 효과는 중요한 순간에서 빛을 발하였다. 세간에서는 이런 트윙클 잭을 보며 레슬링의 기본 정신을 모독한다고 비난하였지만 그는 이러한 장비 개선을 멈추지 않았다.	[!Item]闪耀杰克为了自身能够获胜而持续地在他的装备上投入，在关键时刻能发出刺眼的闪光。世人们见到这样的特温克杰，鄙视他亵渎了摔跤的基础精神。然而他并未停下装备改善的脚步。
 #11883	[!Item]살수의 인장	[!Item]杀手的印章
-#11885	[!Item]구룡회를 떠나 발할라로 가기로 결심한 료는 자신의 후임 샨띠엔에게 조직으로부터 받은 살수의 인장을 넘겨주며 말한다. "맡겨두는 거다. 잘 간직해라."	[!Item]打算离开九龙会去往巴赫拉的亮，一边将组织颁发的杀手印章交给自己的继任者闪电一边说道。"只是暂时存放在你这的。你收好吧。"
-#11886	[!Item]전직 프로레슬러였던 트윙클 잭은 자신을 의도적으로 따돌리는 동료들에게 분노하여 복수를 다짐한다. 동료들이 경기를 끝나고 집에 돌아가는 길 트윙클은 그들에게 묻는다. "내가 지금 반짝이고 있는가?	[!Item]全职职业摔跤手闪耀杰克发现同伴们故意疏远他，于是他怒而下决心进行报复。同伴们结束比赛后回家的路上闪耀杰克问到他们。"我现在是在发光吗？
+#11885	[!Item]구룡회를 떠나 발할라로 가기로 결심한 료는 자신의 후임 샨띠엔에게 조직으로부터 받은 살수의 인장을 넘겨주며 말한다. "맡겨두는 거다. 잘 간직해라."	[!Item]打算离开九龙会去往巴赫拉的亮，一边将组织颁发的杀手印章交给自己的继任者闪电一边说道。「只是暂时存放在你这的。你收好吧。」
+#11886	[!Item]전직 프로레슬러였던 트윙클 잭은 자신을 의도적으로 따돌리는 동료들에게 분노하여 복수를 다짐한다. 동료들이 경기를 끝나고 집에 돌아가는 길 트윙클은 그들에게 묻는다. "내가 지금 반짝이고 있는가?	[!Item]全职职业摔跤手闪耀杰克发现同伴们故意疏远他，于是他怒而下决心进行报复。同伴们结束比赛后回家的路上闪耀杰克问到他们。「我现在是在发光吗？」
 #11887	[!Item]자홍빛 보나파르트 금빛 손목 고리	[!Item]紫红色波拿巴金色腕带
 #11888	[!Item]자홍빛 펄스 단검	[!Item]紫红色脉冲之短剑
 #11890	[!Item]트윙클 잭이 혼신의 힘을 다해 지구 우승을 거머쥔 날, 트윙클은 자신이 아끼던 운동화가 쓰레기통에 버려져 더렵혀진 것을 봐야했다. 그는 차가운 시선의 동료들 사이에서 아무 말도 하지 않은 체 묵묵히 운동화를 주워 돌아갔다.	[!Item]闪耀杰克使出全身解数终获地区优胜奖的那一天，闪耀杰克看到的是自己心爱的运动鞋被人扔到垃圾桶里弄脏了。他在同伴们冰冷的眼光中，默默地将鞋子捡了回来。
@@ -7207,7 +7207,7 @@
 #12073	[!Mastery]꼭꼭 숨어라	[!Mastery]躲猫猫
 #12076	[!Mastery]돌입 준비	[!Mastery]准备突入
 #12078	[!Mastery]저에겐 충분한 휴식을 취하고 마음의 평화를 가져올 은신처가 필요해요.	[!Mastery]我需要一个能够带来足够休憩和安心的藏身之所。
-#12079	[!BattleFormulaSharedCondition]온도: $Temperature$	[!BattleFormulaSharedCondition]温度: $Temperature$
+#12079	[!BattleFormulaSharedCondition]온도: $Temperature$	[!BattleFormulaSharedCondition]温度：$Temperature$
 #12080	[!GuideMessage]야수와 같이 전투를 하면서 야수를 효과적으로 훈련하는 방법을 깨달았습니다.	[!GuideMessage]经过和野兽对战，领悟到更加有效地训练野兽的方法。
 #12081	[!GuideMessage]습득한 특성 $MasteryCount$ 개를 모두 추출합니다.	[!GuideMessage]提取全部$MasteryCount$个学习到的天赋。
 #12082	[!GuideMessage]계속 진행하시겠습니까?	[!GuideMessage]你想继续吗？
@@ -7329,7 +7329,7 @@
 #12235	[!SystemMail]카일리	[!SystemMail]凯莉
 #12236	[!SystemMail]$CompanyName$. 다들 잘 지내고 있나?	[!SystemMail]$CompanyName$。大家过得好吗？
 #12242	[!GuideMessage]각 특성별 속성 슬롯 개수가 부족해지므로 해제할 수 없습니다.	[!GuideMessage]会导致各天赋属性栏个数不足，因此无法解除。
-#12246	[!Suggestion]무기력에 빠진 사원의 기력을 되찾고 지친 사원들의 일상을 위해 알버스가 하루 쉬자고 결정합니다.<br><br>[colour='FFFFFF00']휴업 결정 시 사원들이 기력을 되찾으며 모든 의욕을 회복합니다.<br>[colour='FFFFAA00']주의: <br>[colour='FFFFFFFF']임대료 지급일과 사원 월급 지급 일이 하루 지나갑니다.	[!Suggestion]为了找回无力状态中的员工们的元气，也为了缓解员工们的疲惫，阿尔伯斯决定休息一天。<br><br>[colour='FFFFFF00']决定休业时，员工们恢复气力，并恢复全部的意志。<br>[colour='FFFFAA00']注意:<br>[colour='FFFFFFFF']租金支付日和员工发薪日将过去1天。
+#12246	[!Suggestion]무기력에 빠진 사원의 기력을 되찾고 지친 사원들의 일상을 위해 알버스가 하루 쉬자고 결정합니다.<br><br>[colour='FFFFFF00']휴업 결정 시 사원들이 기력을 되찾으며 모든 의욕을 회복합니다.<br>[colour='FFFFAA00']주의: <br>[colour='FFFFFFFF']임대료 지급일과 사원 월급 지급 일이 하루 지나갑니다.	[!Suggestion]为了找回无力状态中的员工们的元气，也为了缓解员工们的疲惫，阿尔伯斯决定休息一天。<br><br>[colour='FFFFFF00']决定休业时，员工们恢复气力，并恢复全部的意志。<br>[colour='FFFFAA00']注意：<br>[colour='FFFFFFFF']租金支付日和员工发薪日将过去1天。
 #12248	[!Troublebook]겨울이 온다.	[!Troublebook]凛冬将至。
 #12249	[!GuideMessage][colour='FFFFE959']총 [colour='FFFFFFFF']$Number$[colour='FFFFE959'] 명의 플레이어 중 [colour='FFFFFFFF']$Percent$%[colour='FFFFE959'] 가 해당 선택지를 선택하였습니다.	[!GuideMessage][colour='FFFFE959'][colour='FFFFFFFF']$Number$[colour='FFFFE959']名玩家中有[colour='FFFFFFFF']$Percent$%[colour='FFFFE959']的玩家选择了该选项。
 #12250	[!SystemMail][colour='FFFFE959']알버스. <br><br>난 너를 무척 아낀단다.<br><br>그래서 당연히 네가 '블랙펄'로 돌아온다면 내 팀에 종속시킬려고 했는데 도망가서 아쉬웠다.<br><br>네 녀석이 '블랙펄'로 돌아오면 주려고 챙겨두었던 물건이다.<br><br>아직은 현장에서 직접 뛰어야 하는 사장님일테니 여전히 이런 것들이 많이 필요하겠지.<br><br>어차피 네가 '블랙펄'로 복귀했다면 주었을 물건이니 잘 쓰도록 해라.<br><br>[colour='FFFFFFFF']너를 트러블슈터 세계로 인도한 단 한명의 선배<br><br>지젤 발렌슈타인	[!SystemMail][colour='FFFFE959']阿尔伯斯。<br><br>我很看好你的。<br><br>你是第一个在我手下默默地忍受我的怪脾气长达一年之久的家伙呢，所以我非常非常看好你哟。<br><br>所以我本打算在你回到「黑珍珠」就把你拉到我的门下的，但你小子却就这么逃跑了，给留下了遗憾啊。<br><br>这是原想在你回归「黑珍珠」时送你的东西。<br><br>你作为还需要亲自跑现场的老板，应该是很需要这些东西的。<br><br>原本就是当初你回归「黑珍珠」打算送你的东西，所以你就好好使用吧。<br><br>[colour='FFFFFFFF']将你引向纷争终结世界的你唯一的前辈<br><br>吉赛尔沃伦斯坦。
@@ -7369,7 +7369,7 @@
 #12315	[!Mastery]마력 전환	[!Mastery]魔法转换
 #12317	[!Mastery]거리 싸움은 언제나 순식간이지.	[!Mastery]街头巷尾的打架斗殴总是在一瞬间分出胜负。
 #12318	[!Mastery]거리의 싸움꾼	[!Mastery]街头战斗专家
-#12319	[!GuideMessage][colour='FFFFE959']회사 입사 보너스: [colour='FFFFFFFF']$RosterName$[colour='FFFFE959']의 레벨이 현재 회사 동료 평균 레벨에 비례하여 [colour='FFFFFFFF']$Level$[colour='FFFFE959'] 레벨 상승합니다.	[!GuideMessage][colour='FFFFE959']入职公司奖励: [colour='FFFFFFFF']$RosterName$[colour='FFFFE959']的等级达到了[colour='FFFFFFFF']$Level$[colour='FFFFE959']。
+#12319	[!GuideMessage][colour='FFFFE959']회사 입사 보너스: [colour='FFFFFFFF']$RosterName$[colour='FFFFE959']의 레벨이 현재 회사 동료 평균 레벨에 비례하여 [colour='FFFFFFFF']$Level$[colour='FFFFE959'] 레벨 상승합니다.	[!GuideMessage][colour='FFFFE959']入职公司奖励：[colour='FFFFFFFF']$RosterName$[colour='FFFFE959']的等级达到了[colour='FFFFFFFF']$Level$[colour='FFFFE959']。
 #12329	[!Mastery]마력 노심	[!Mastery]魔力堆芯
 #12335	[!MissionPsionicStoneAmount]거의 없음	[!MissionPsionicStoneAmount]很少
 #12336	[!MissionPsionicStoneAmount]대량	[!MissionPsionicStoneAmount]多
@@ -7569,7 +7569,7 @@
 #13172	[!Ability]야수 소환	[!Ability]召唤野兽
 #13174	[!Ability]야수 해제	[!Ability]解除野兽
 #13175	[!AbilityDirectingEvent]길들이기 실패	[!AbilityDirectingEvent]驯服失败
-#13176	[!BattleFormulaSharedCondition]정밀한 저격: ($SnipeType$)	[!BattleFormulaSharedCondition]精密狙击: ($SnipeType$)
+#13176	[!BattleFormulaSharedCondition]정밀한 저격: ($SnipeType$)	[!BattleFormulaSharedCondition]精密狙击：($SnipeType$)
 #13177	[!Buff]악취	[!Buff]恶臭
 #13178	[!Buff]추격	[!Buff]追击
 #13179	[!Buff]사냥	[!Buff]射猎
@@ -8117,7 +8117,7 @@
 #13895	[!Buff]위치 노출	[!Buff]暴露位置
 #13897	[!GuideMessage][colour='FF00C8FF']아래의 [colour='FFFFFFFF']진화[colour='FF00C8FF']가 요구하는 조건을 만족하면 야수 진화가 가능합니다.	[!GuideMessage][colour='FF00C8FF']以下的[colour='FFFFFFFF']进化[colour='FF00C8FF']若满足所需条件，野兽即可进行进化。
 #13899	[!GuideMessage][colour='FFCCCCCC']해당 특성은 길들인 야수가 습득하는 %s 특성입니다. 해당 특성 목록은 야수에 따라 [colour='FFFFFF55']무작위[colour='FFCCCCCC']로 결정됩니다.	[!GuideMessage][colour='FFCCCCCC']该天赋是被驯服的野兽可学习的%s天赋。该天赋的列表是根据野兽而[colour='FFFFFF55']随机[colour='FFCCCCCC']出现的。
-#13900	[!GuideMessage][colour='FFFF5943']야수의 레벨이 자신을 길들인 캐릭터의 레벨 이상이어서 더 이상 경험치를 획득할 수 없습니다. [colour='FFFFE959'](대상 캐릭터: [colour='FFFFFFFF']%s[colour='FFFFE959'], 레벨: [colour='FFFFFFFF']%d[colour='FFFFE959'])	[!GuideMessage][colour='FFFF5943']野兽的级别超过了主人角色的等级，因此无法继续获取经验值。[colour='FFFFE959'](目标角色:[colour='FFFFFFFF']%s[colour='FFFFE959']，等级:[colour='FFFFFFFF']%d[colour='FFFFE959'])
+#13900	[!GuideMessage][colour='FFFF5943']야수의 레벨이 자신을 길들인 캐릭터의 레벨 이상이어서 더 이상 경험치를 획득할 수 없습니다. [colour='FFFFE959'](대상 캐릭터: [colour='FFFFFFFF']%s[colour='FFFFE959'], 레벨: [colour='FFFFFFFF']%d[colour='FFFFE959'])	[!GuideMessage][colour='FFFF5943']野兽的级别超过了主人角色的等级，因此无法继续获取经验值。[colour='FFFFE959'](目标角色：[colour='FFFFFFFF']%s[colour='FFFFE959']，等级：[colour='FFFFFFFF']%d[colour='FFFFE959'])
 #13909	[!OptionAudio]배경 음악의 볼륨을 조절 합니다.	[!OptionAudio]调节背景音乐的音量。
 #13910	[!OptionAudio]효과음의 크기를 조절 합니다.	[!OptionAudio]调节音效的音量。
 #13911	[!OptionAudio]게임의 마스터 볼륨을 조절 합니다.	[!OptionAudio]调节主音乐的音量。
@@ -8233,7 +8233,7 @@
 #14068	[!MasteryCategory]세트장비	[!MasteryCategory]套装装备
 #14069	[!MasteryType]세트장비	[!MasteryType]套装装备
 #14080	[!WordCollection]세트 장비	[!WordCollection]套装装备
-#14081	[!WordCollection]%d 세트:	[!WordCollection]%d 套装:
+#14081	[!WordCollection]%d 세트:	[!WordCollection]%d 套装：
 #14082	[!GuideMessage]$Race$ 야수를 더 이상 보유할 수 없습니다. (최대 $Value$ 마리)	[!GuideMessage]无法拥有更多的$Race$野兽。(最多$Value$只)
 #14083	[!ItemType]카일리 의상	[!ItemType]凯莉服
 #14086	[!Item]최하급 신록의 근원	[!Item]最低级源生新绿
@@ -8303,7 +8303,7 @@
 #14150	[!Troublebook]설상가상	[!Troublebook]雪上加霜
 #14151	[!BuffGroup]중독	[!Buff]中毒
 #14152	[!BuffGroup]물	[!AbilitySubType]水
-#14153	[!GuideMessage]상태 계열:	[!GuideMessage]状态系列:
+#14153	[!GuideMessage]상태 계열:	[!GuideMessage]状态系列：
 #14154	[!GuideMessage]$MasteryName$ 특성 추가 효과가 해제되었습니다.	[!GuideMessage]$MasteryName$附加天赋效果被解除。
 #14155	[!GuideMessage]$MasteryName$ 특성 추가 효과가 발동하였습니다.	[!GuideMessage]$MasteryName$附加天赋效果被启动。
 #14158	[!GuideMessage]$RosterName$의 레벨이 현재 회사 동료 평균 레벨에 비례하여 $Level$ 레벨 상승합니다.	[!GuideMessage]$RosterName$的等级是根据当前公司同事们平均等级的一定比例而提高$Level$级。
@@ -8413,7 +8413,7 @@
 #14340	[!Buff]$Yellow$전투를 포기한 야수는 해당 미션에서 더 이상 소환할 수 없습니다.	[!Buff]$Yellow$放弃战斗的野兽将不能在本次任务中再次被召唤。
 #14342	[!Buff]자신을 소환한 캐릭터를 공격한 적을 공격 시, 피해량이 $ApplyAmountValue$ 증가합니다.	[!Buff]对正在攻击召唤者角色的敌人发起攻击时，伤害量增加$ApplyAmountValue$。
 #14343	[!Buff]포식자의 먹이가 되었습니다.	[!Buff]变成捕食者的食物。
-#14344	[!Buff]$Yellow$연쇄 효과: 섬광 계열의 상태 이상이 적용될 경우, 혼란 상태가 됩니다.	[!Buff]$Yellow$]连锁效果:若施加闪光系的异常状态时，目标将会进入混乱状态。
+#14344	[!Buff]$Yellow$연쇄 효과: 섬광 계열의 상태 이상이 적용될 경우, 혼란 상태가 됩니다.	[!Buff]$Yellow$]连锁效果：若施加闪光系的异常状态时，目标将会进入混乱状态。
 #14345	[!Buff]적을 전투 불능으로 만들면, 최대 체력의 $ApplyAmountValue$를 회복합니다.	[!Buff]令敌人无法战斗时，可恢复最大体力值的$ApplyAmountValue$。
 #14346	[!Buff]적의 명중률이 $ApplyAmountValue$ 감소합니다.	[!Buff]敌人的命中率降低$ApplyAmountValue$。
 #14347	[!Buff]플레이어가 직접 시민을 조종할 수 있습니다.	[!Buff]玩家可直接控制市民。
@@ -8436,7 +8436,7 @@
 #14366	[!Buff]적의 원거리 공격 명중률이 $ApplyAmountValue$ 감소합니다.	[!Buff]敌人的远程攻击命中率降低$ApplyAmountValue$。
 #14367	[!Buff]번개 갈기 상태에서 번개 속성 공격 어빌리티를 사용 시, 어빌리티 사용 후 사용한 분노가 추가로 소모됩니다.	[!Buff]在闪电鬃毛状态下使用闪电属性的攻击技能时，技能使用后将会额外消耗用掉的怒气值等量的怒气值。
 #14368	[!Buff]번개 갈기	[!Buff]闪电鬃毛
-#14369	[!Buff]주위 반경 $ApplyAmountValue$칸 내 가장 가까운 대상에게 다음과 같은 효과가 발생합니다.<br><br>$Perano$아군$Blue_ON$: '길 잃은 영혼'이 아군에게 옮겨가 승천합니다. 레벨 수만큼 무작위의 긍적적인 상태 효과가 발생합니다.<br>$Perano$적군$Blue_ON$: '길 잃은 영혼'이 적군에게 옮겨가 저주를 겁니다. 레벨 수만큼 무작위의 부정적인 상태 효과가 발생합니다.	[!Buff]给周围半径$ApplyAmountValue$格内最近的目标施加如下效果。<br><br>$Perano$队友$Blue_ON$:「迷途的灵魂」转移到队友身上并祝福他。令该队友获得等同于效果层数的随机正面状态。<br>$Perano$敌军$Blue_ON$:「迷途的灵魂」转移到敌人身上并诅咒他。令该敌人获得等同于效果层数的随机负面状态。
+#14369	[!Buff]주위 반경 $ApplyAmountValue$칸 내 가장 가까운 대상에게 다음과 같은 효과가 발생합니다.<br><br>$Perano$아군$Blue_ON$: '길 잃은 영혼'이 아군에게 옮겨가 승천합니다. 레벨 수만큼 무작위의 긍적적인 상태 효과가 발생합니다.<br>$Perano$적군$Blue_ON$: '길 잃은 영혼'이 적군에게 옮겨가 저주를 겁니다. 레벨 수만큼 무작위의 부정적인 상태 효과가 발생합니다.	[!Buff]给周围半径$ApplyAmountValue$格内最近的目标施加如下效果。<br><br>$Perano$队友$Blue_ON$：「迷途的灵魂」转移到队友身上并祝福他。令该队友获得等同于效果层数的随机正面状态。<br>$Perano$敌军$Blue_ON$：「迷途的灵魂」转移到敌人身上并诅咒他。令该敌人获得等同于效果层数的随机负面状态。
 #14370	[!Buff]$ApplyAmountValue$회의 공격 혹은 피격에 대하여 공격 시 치명타 피해를 입히고, 피격 시 회피합니다.	[!Buff]在接下来的$ApplyAmountValue$次攻击或被攻击时，攻击则造成暴击，被攻击则进行闪避。
 #14371	[!Buff]$Yellow$서로 행운 상태인 경우, 공격자가 우선권을 가집니다.	[!Buff]$Yellow$彼此均为幸运状态时，攻击方持有优先权。
 #14372	[!Buff]아래와 같은 경우, $AddBuffName$을 생성합니다.<br>$LimeGold$- 매 턴 시작 시<br>- 이동할 경우<br>- 투척물을 사용하지 않는 공격으로 적을 공격할 경우<br>- 적에게 공격 받을 경우$Blue_ON$	[!Buff]在以下的情况时，将会触发$AddBuffName$。<br>$LimeGold$-每个回合开始时<br>-移动时<br>-使用非投掷物攻击敌人时<br>-被敌人攻击时$Blue_ON$
@@ -8471,7 +8471,7 @@
 #14403	[!BuffUnableType]공격	[!MasteryCategory]攻击
 #14404	[!BuffUnableType]회복	[!DirectDamageType]恢复
 #14405	[!BuffUnableType]이동	[!LayoutKeyword]移动
-#14406	[!DamageCondition]지형효과: 오염수	[!DamageCondition]地形效果: 污水
+#14406	[!DamageCondition]지형효과: 오염수	[!DamageCondition]地形效果：污水
 #14407	[!DirectDamageType]불꽃 갈기	[!DirectDamageType]火花鬃毛
 #14408	[!GuideMessage]이미 $Buff$ 상태입니다.	[!GuideMessage]已经处于$Buff$状态。
 #14409	[!GuideMessage]반경 $Dist$칸 내 $Relation$이 접근하면 $Buff$ 상태가 발생합니다.	[!GuideMessage]半径$Dist$格内有$Relation$靠近时将会触发$Buff$状态。
@@ -8529,7 +8529,7 @@
 #14546	[!Status]$Status$[은] 적에게 입는 물리 피해량을 감소시킵니다.	[!Status]$Status$可以降低来自对方的物理伤害。
 #14547	[!Status]$Status$[은] 물리 피해량을 결정합니다.	[!Status]$Status$决定物理伤害。
 #14548	[!Status]$Status$[은] 적의 공격을 방어할 확률을 결정합니다. 적의 공격을 방어하면, 피해량이 $White$50%$Blue_ON$ 감소하며 치명타 피해를 입지 않습니다.	[!Status]$Status$决定防御敌人攻击的几率。对敌人的攻击进行防御时，受到的伤害量降低$White$50%$Blue_ON$，并且不会受到暴击伤害。
-#14549	[!Status]$Status$[은] 적에게 입는 타격 속성 물리 피해량을 감소시킵니다. 또한 타격 속성의 상태 이상을 해제할 확률이 증가합니다.<br><br>$Tomato$타격 속성은 격투 혹은 파이프, 배트 등의 근거리 무기를 사용하여 피해를 입히는 속성입니다	[!Status]$Status$将会降低来自敌人打击属性的物理伤害量。并且提高解除打击属性异常状态的几率。<br><br>$Tomato$打击属性物理伤害:通过格斗或是水管、球棒等近战武器造成的伤害。
+#14549	[!Status]$Status$[은] 적에게 입는 타격 속성 물리 피해량을 감소시킵니다. 또한 타격 속성의 상태 이상을 해제할 확률이 증가합니다.<br><br>$Tomato$타격 속성은 격투 혹은 파이프, 배트 등의 근거리 무기를 사용하여 피해를 입히는 속성입니다	[!Status]$Status$将会降低来自敌人打击属性的物理伤害量。并且提高解除打击属性异常状态的几率。<br><br>$Tomato$打击属性物理伤害：通过格斗或是水管、球棒等近战武器造成的伤害。
 #14550	[!Status]$Status$[은] 치명타 공격을 성공시킬 확률을 결정합니다.	[!Status]$Status$决定暴击的成功几率。
 #14551	[!Status]$Status$[은] 치명타 공격 성공 시 추가되는 피해량의 크기를 결정합니다.	[!Status]$Status$决定暴击攻击成功时附加的伤害的大小。
 #14552	[!Status]$Status$[은] 적의 공격을 회피할 확률을 결정합니다.	[!Status]$Status$决定闪避敌人攻击的几率。
@@ -8549,7 +8549,7 @@
 #14567	[!Status]$Status$[은] 적을 인식할 수 있는 거리를 결정합니다.	[!Status]$Status$决定可观察到对方的距离。
 #14568	[!Status]$Status$[은] 낮 동안 추가적으로 인식할 수 있는 시야 거리입니다.	[!Status]$Status$是白天附加的视野距离。
 #14569	[!Status]$Status$[은] 밤 동안 추가적으로 인식할 수 있는 시야 거리입니다.	[!Status]$Status$是晚间附加的视野距离。
-#14570	[!Status]$Status$[은] 적에게 입는 참격 속성 물리 피해량을 감소시킵니다. 또한 참격 속성의 상태 이상을 해제할 확률이 증가합니다.<br><br>$Tomato$참격 속성은 날붙이 형태의 근접 무기를 사용하여 피해를 입히는 속성입니다	[!Status]$Status$将会降低来自敌人斩击属性的物理伤害量。并且提高解除斩击属性异常状态的几率。<br><br>$Tomato$斩击属性物理伤害:带有刀刃的近战武器造成的伤害。
+#14570	[!Status]$Status$[은] 적에게 입는 참격 속성 물리 피해량을 감소시킵니다. 또한 참격 속성의 상태 이상을 해제할 확률이 증가합니다.<br><br>$Tomato$참격 속성은 날붙이 형태의 근접 무기를 사용하여 피해를 입히는 속성입니다	[!Status]$Status$将会降低来自敌人斩击属性的物理伤害量。并且提高解除斩击属性异常状态的几率。<br><br>$Tomato$斩击属性物理伤害：带有刀刃的近战武器造成的伤害。
 #14571	[!Status]$Status$[은] 다음 턴까지의 대기 시간을 결정합니다.	[!Status]$Status$决定直至下一回合的冷却时间。
 #14572	[!Status]$Status$[은] 적에게 입는 물 속성 초능력 피해량을 감소시킵니다. 또한 물 속성의 상태 이상을 해제할 확률이 증가합니다.	[!Status]$Status$将会降低来自敌人水属性超能力伤害量。并且提高解除水属性异常状态的几率。
 #14573	[!Status]$Status$[은] 적에게 입는 바람 속성 초능력 피해량을 감소시킵니다. 또한 바람 속성의 상태 이상을 해제할 확률이 증가합니다.	[!Status]$Status$将会降低来自敌人风属性超能力伤害量。并且提高解除风属性异常状态的几率。
@@ -8559,7 +8559,7 @@
 #14577	[!WordCollection]쥬크박스	[!WordCollection]点唱机
 #14578	[!GuideMessage]$AbilityName$ 어빌리티 사용 후 사용 가능한 어빌리티 입니다.	[!GuideMessage]$AbilityName$技能使用后才能使用的技能。
 #14579	[!GuideMessage][colour='FFFFFF00']%s[colour='FFFF5943'][을] 편성하셔야 사용 가능합니다.	[!GuideMessage]把[colour='FFFFFF00']%s[colour='FFFF5943']调整后才能使用。
-#14580	[!GuideMessage]재생 중: %s	[!GuideMessage]播放中: %s
+#14580	[!GuideMessage]재생 중: %s	[!GuideMessage]播放中：%s
 #14584	[!ObjectInfo]벽	[!ObjectInfo]墙
 #14585	[!WordCollection]작곡가	[!WordCollection]作曲家
 #14586	[!WordCollection]선택 곡 재생	[!WordCollection]播放选择的曲子
@@ -8931,14 +8931,14 @@
 #15117	[!Notice]다음 업데이트 예정 날짜는 $DayText$ 입니다.	[!Notice]下一个更新日期将会是 $DayText$。
 #15118	[!Notice]다음 업데이트 예정 날짜는 미정입니다. 다음 업데이트 날짜가 정해지는 대로 스팀 상점 페이지$Link$를 통해 알려드리도록 하겠습니다.	[!Notice]下一个更新日期未定。若下次更新日期得到确定，将会通过在STEAM商店页面的$Link$告诉大家。
 #15119	[!SystemNotice]$ZoneName$의 치안도 100% 효과가 종료되었습니다.	[!SystemNotice]$ZoneName$的治安指数 100% 效果已结束。
-#15121	[!SystemNotice]$ZoneName$의 치안도가 100% 달성되었습니다.<br>아이템, 특성 획득 확률이 100% 증가합니다.<br>남은시간: $OffsetTime$	[!SystemNotice]$ZoneName$的治安指数达到100%。<br>物品、天赋的获得几率提高100%。<br>剩余时间: $OffsetTime$
+#15121	[!SystemNotice]$ZoneName$의 치안도가 100% 달성되었습니다.<br>아이템, 특성 획득 확률이 100% 증가합니다.<br>남은시간: $OffsetTime$	[!SystemNotice]$ZoneName$的治安指数达到100%。<br>物品、天赋的获得几率提高100%。<br>剩余时间：$OffsetTime$
 #15122	[!SystemNotice]$ZoneName$의 치안도가 100% 달성되었습니다.<br>지금부터 $SafetyFeverHour$ 시간 동안 아이템, 특성 획득 확률이 100% 증가합니다.	[!SystemNotice]$ZoneName$的治安指数以到达 100%。<br>从现在开始， $SafetyFeverHour$ 个小时里物品、天赋的获得几率提高100%。
 #15123	[!SystemNotice]$ZoneName$의 치안도가 100% 달성되었습니다.<br> 지금부터 다음 보고서 수령할 때까지 아이템과 특성 획득 확률이 100% 증가합니다. 	[!SystemNotice]$ZoneName$的治安指数达到100%。<br>从现在起到收取下次的报告书，物品和天赋获得几率将会提高100%。
 #15124	[!WordCollection]회사 삭제	[!WordCollection]删除公司
 #15125	[!WordCollection]오프라인 동기화	[!WordCollection]离线模式的同步化
 #15126	[!WordCollection]오프라인 모드	[!WordCollection]离线模式
 #15127	[!WordCollection]온라인 모드	[!WordCollection]在线模式
-#15129	[!SystemNotice]$ZoneName$의 치안도가 100% 달성되었습니다.<br>아이템, 특성 획득 확률이 100% 증가합니다.<br>남은 미션 성공 횟수: $LeftMissionCount$	[!SystemNotice]$ZoneName$的治安指数达到100%。<br>物品、天赋的获得几率提高100%。<br>剩余任务成功次数: $LeftMissionCount$
+#15129	[!SystemNotice]$ZoneName$의 치안도가 100% 달성되었습니다.<br>아이템, 특성 획득 확률이 100% 증가합니다.<br>남은 미션 성공 횟수: $LeftMissionCount$	[!SystemNotice]$ZoneName$的治安指数达到100%。<br>物品、天赋的获得几率提高100%。<br>剩余任务成功次数：$LeftMissionCount$
 #15130	[!GuideMessage][colour='FFFFFF00']오프라인 모드로 게임을 진행합니다.[colour='FFFFFFFF']<br><br>해당 모드는 인터넷 연결이 원활하지 않은 유저를 위한 모드입니다. 따라서 온라인 모드와는 일정 부분에서 컨텐츠 구성의 차이가 있습니다.<br>인터넷 연결이 원활하지만 PC 사양이 낮은 유저의 경우, 온라인 모드보다 지연이 생길 수 있습니다. 따라서 인터넷 연결이 원활하고 부담이 되지 않는 플레이어 분들은 온라인 사용을 권장드립니다.<br><br><br>[colour='FFF3B0A8']스팀 인증 절차가 필요합니다.[colour='FFFFFFFF']<br>게임 진행 시, 인터넷 연결은 필요하지 않으나 최근 스팀 클라이언트 로그인 기록이 있는 PC 환경이어야 합니다. 따라서 스팀 계정이 로그 아웃될 경우, 스팀 로그인을 통한 인증이 필요합니다.<br><br>[colour='FFF3B0A8']온라인과 오프라인 호환에 관하여[colour='FFFFFFFF']<br>오프라인 모드에서 생성한 회사는 온라인 모드에서는 사용할 수 없습니다. 온라인 모드에서 생성한 회사는 온라인 모드의 회사 변경을 통하여 1회에 한해 오프라인으로 가져올 수 있습니다.<br><br>[colour='FFFFAA00']참고: 오프라인 모드를 원하지 않을 경우, 게임 시작화면에서 온라인 모드로 변경 가능합니다.	[!GuideMessage][colour='FFFFFF00']开始离线模式进行游戏。[colour='FFFFFFFF']<br><br>该模式适用于网络不佳的玩家。因此会在内容的构成上与在线模式有些差异。 <br>网络虽流畅但性能低的电脑有可能不会像在线模式那么流畅。因此建议网络既流畅，电脑性能又不低的玩家使用在线模式。<br><br><br>[colour='FFF3B0A8']需要Steam的认证。[colour='FFFFFFFF']<br>进行游戏时，虽然不需要网络的连接，但至少需要记录了最近登录过Stean的PC要求。所以Steam账户登出的情况下，需要再次登入Steam来进行认证。<br><br>[colour='FFF3B0A8']关于在线模式和离线模式的互换[colour='FFFFFFFF']<br>在离线模式生成的公司无法在在线模式使用。在线模式中制作的公司可通过在线模式的公司变更，仅限一次同步复制至离线模式。<br><br>[colour='FFFFAA00']参考：不希望使用离线模式时，可在游戏开始界面中变更为在线模式。
 #15131	[!GuideMessage][colour='FFFFFF00']온라인 모드로 게임을 진행합니다.[colour='FFFFFFFF']<br><br>온라인 모드는 장기적으로 유저 커뮤니티, 협력, 경쟁 컨텐츠를 제공 하기 위하여 제공되는 모드입니다.<br>해당 모드를 사용할 경우, 개발팀의 꾸준한 개선 내용과 버그 수정을 빠르게 적용 받으실 수 있습니다.<br><br>[colour='FFF3B0A8']인터넷 연결이 필요합니다.[colour='FFFFFFFF']<br>온라인 모드는 인터넷 연결을 항상 요구합니다. 현재 접속 서버를 자신의 지역과 가까운 서버로 선택해 주십시오.<br><br>각 서버간의 정보는 공유되지 않습니다.<br><br>[colour='FFF3B0A8']온라인과 오프라인 호환에 관하여[colour='FFFFFFFF']<br>온라인 모드에서 생성한 회사는 1회에 한해 오프라인으로 동기화 가능합니다.<br><br>[colour='FFFFAA00']참고: 온라인 모드를 원하지 않을 경우, 게임 시작화면에서 오프라인 모드로 변경 가능합니다.	[!GuideMessage][colour='FFFFFF00']开始在线模式进行游戏。[colour='FFFFFFFF']<br><br>在线模式是长期的为玩家提供用户社区、合作、竞争内容而提供的模式。<br>使用该模式时，可快速适用开发组不断改善的内容和修改的缺陷。<br><br>[colour='FFF3B0A8']需要网络连接。[colour='FFFFFFFF']<br>在线模式将不断地要求网路的连接。请选择与本区域较近的服务器为当前连接服务器。<br><br>各服务器间的情报将不会被共享。<br><br>[colour='FFF3B0A8']关于在线模式和离线模式的互换[colour='FFFFFFFF']<br>在离线模式生成的公司无法在在线模式使用。在线模式中制作的公司可通过在线模式的公司变更，仅限一次同步复制至离线模式。<br><br>[colour='FFFFAA00']参考：不希望使用在线模式时，可在游戏开始界面中变更为离线模式。
 #15132	[!SystemMessage]로컬 세이브 파일의 회사 슬롯이 가득 찼습니다.	[!SystemMessage]没有足够的离线模式的公司栏位。
@@ -8975,7 +8975,7 @@
 #15169	[!Ability]수복 커맨드	[!Ability]修复命令
 #15170	[!Ability]회복 커맨드	[!Ability]恢复命令
 #15171	[!Ability]기계 해제	[!Ability]解除机械
-#15172	[!BattleFormulaSharedCondition]프로토콜: ($HackingProtocol$)	[!BattleFormulaSharedCondition]协议: ($HackingProtocol$)
+#15172	[!BattleFormulaSharedCondition]프로토콜: ($HackingProtocol$)	[!BattleFormulaSharedCondition]协议：($HackingProtocol$)
 #15173	[!Buff]시야 내 자신을 공격하려는 행동을 하는 모든 적을 먼저 공격합니다.	[!Buff]攻击视野内所有准备攻击自己的敌人。
 #15174	[!Buff]자동 방어 공격	[!Buff]自动防御攻击
 #15175	[!Buff]피아구분을 교란시킵니다.	[!Buff]扰乱敌友的识别。
@@ -9318,7 +9318,7 @@
 #15647	[!Status][!Short]최대 출력량	[!Status][!Short]最大功率值
 #15648	[!SystemMail]안녕하세요. 트러블슈터 개발팀입니다.<br><tab><br>유저분들의 원활한 플레이를 위해 임의로 제작서 아이템을 지급해 드립니다.<br><tab><br>더욱 분발하는 트러블슈터 개발팀이 되겠습니다.<br><tab><br>감사합니다.<br><tab>	[!SystemMail]你好。这里是纷争终结者开发团队。<br><tab><br><tab>为了用户们的游戏体验，现发放任意的设计图物品。<br><tab><br><tab>我们纷争终结者开发团队将会加倍奋发努力的。<br><tab><br><tab>谢谢。<br><tab>
 #15649	[!WordCollection]기계 제작	[!Profession]制作机械
-#15650	[!WordCollection]제작 발주 번호 : 	[!WordCollection]制作订货编号 :
+#15650	[!WordCollection]제작 발주 번호 : 	[!WordCollection]制作订货编号：
 #15651	[!WordCollection]기계 제작대 설치하기	[!WordCollection]安装机械制作台
 #15652	[!WordCollection]기체 선택	[!WordCollection]选择机体
 #15653	[!WordCollection]기체 정보	[!WordCollection]机体情报
@@ -9605,7 +9605,7 @@
 #16057	[!Ability]목표 범위 내 모든 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]目标范围内的所有对象都将受到$DamageAmount$的$DamageType$伤害。
 #16058	[!DirectDamageType]폭주	[!DirectDamageType]暴走
 #16059	[!GuideMessage]기체 변경이 완료되었습니다.	[!GuideMessage]机体变更已完成。
-#16060	[!GuideMessage]기존에 사용중인 기계 부품들은 재료가 추출되고 사라집니다. 계속 진행하시겠습니까?<br><br>대상 기계 부품:<br>[colour='FFFFE959']%s[colour='FFFFFFFF']	[!GuideMessage]目前正使用的机械零件会在提取后消失。还要继续吗？<br><br>对象机械配件:<br>[colour='FFFFE959']%s[colour='FFFFFFFF']
+#16060	[!GuideMessage]기존에 사용중인 기계 부품들은 재료가 추출되고 사라집니다. 계속 진행하시겠습니까?<br><br>대상 기계 부품:<br>[colour='FFFFE959']%s[colour='FFFFFFFF']	[!GuideMessage]目前正使用的机械零件会在提取后消失。还要继续吗？<br><br>对象机械配件：<br>[colour='FFFFE959']%s[colour='FFFFFFFF']
 #16061	[!GuideMessage]기체에 따라 아이템 장착 가능한 [colour='FFFFFF00']하중[colour='FFFFFFFF']과 모듈을 장착할 수 있는 [colour='FFFFFF00']최대 출력[colour='FFFFFFFF']이 달라집니다. [colour='FFFFAA00']기체 제작 후 변경이 불가능합니다.	[!GuideMessage]根据机体的不同，可携带的 [colour='FFFFFF00']载荷[colour='FFFFFFFF']和装备模块的[colour='FFFFFF00']最大功率[colour='FFFFFFFF']也有所不同。[colour='FFFFAA00']机体制作后是无法改变。
 #16062	[!GuideMessage]기계는 장비를 바로 변경할 수 없습니다. 장비를 변경하려면 기체 변경 기능을 사용하셔야 합니다.	[!GuideMessage]机体的装备是无法立马变更。若想变更时，需要使用机体变更功能。
 #16069	[!Mastery]출력 향상 - 지원	[!Mastery]功率提升 - 支援
@@ -9655,7 +9655,7 @@
 #16125	[!WordCollection]제작 가능한 모듈만 보기	[!WordCollection]只显示可制作的模块
 #16126	[!WordCollection]관심 모듈 등록	[!WordCollection]登录关心模块
 #16127	[!WordCollection]모듈 획득 확률	[!WordCollection]模块获得几率
-#16128	[!WordCollection]정보 완료 보상: 연구 가능 모듈 발견	[!WordCollection]信息完成奖励:发现可研究的模块
+#16128	[!WordCollection]정보 완료 보상: 연구 가능 모듈 발견	[!WordCollection]信息完成奖励：发现可研究的模块
 #16129	[!WordCollection]고정 제작 재료	[!WordCollection]固定制作材料
 #16130	[!WordCollection]필요 출력	[!WordCollection]必要功率
 #16131	[!WordCollection][!Menu]모듈 추가	[!WordCollection][!Menu]添加模块
@@ -9858,7 +9858,7 @@
 #16377	[!ObjectInfo]라이트닝크론	[!ObjectInfo]闪电拜克伦
 #16378	[!ObjectInfo]레드 아이	[!ObjectInfo]红眼
 #16379	[!WordCollection]제어 불가	[!WordCollection]不可控制
-#16381	[!Ability]$ApplyBuff$ 상태가 됩니다. <br><br>$Corn$연쇄 효과 - 눈부심: $White$암흑$Corn$ 상태의 대상은 $White$혼란$Corn$ 상태가 됩니다.	[!Ability]进入$ApplyBuff$状态。<br><br>$Corn$连锁效果 - 眩光: $White$暗黑$Corn$状态的对象进入$White$混乱$Corn$状态。
+#16381	[!Ability]$ApplyBuff$ 상태가 됩니다. <br><br>$Corn$연쇄 효과 - 눈부심: $White$암흑$Corn$ 상태의 대상은 $White$혼란$Corn$ 상태가 됩니다.	[!Ability]进入$ApplyBuff$状态。<br><br>$Corn$连锁效果 - 眩光：$White$暗黑$Corn$状态的对象进入$White$混乱$Corn$状态。
 #16382	[!Ability]다연발 유탄 발사	[!Ability]连发榴弹
 #16385	[!Buff]맹독구름	[!Buff]剧毒云
 #16386	[!Item]다중 연산 처리 장치	[!Item]多重运算处理装置
@@ -9867,14 +9867,14 @@
 #16389	[!Mastery]이제 얼마 남지 않았어.	[!Mastery]没有剩下多长时间。
 #16390	[!Mastery]쇄도하는 독	[!Mastery]奔涌之毒
 #16391	[!MissionBattleJoinType]야수 소환	[!Ability]召唤野兽
-#16392	[!NamedEvent]『 전환: 과열 모드 』	[!NamedEvent]「切换: 过热模式」
-#16393	[!NamedEvent]『 경고: 적 발견 』	[!NamedEvent]「警告: 发现敌人」
+#16392	[!NamedEvent]『 전환: 과열 모드 』	[!NamedEvent]「切换：过热模式」
+#16393	[!NamedEvent]『 경고: 적 발견 』	[!NamedEvent]「警告：发现敌人」
 #16394	[!NamedEvent]『 목표 설정: 적 배제 』	[!NamedEvent]「设定目标：消除敌人」
 #16395	[!NamedEvent]불꽃 드론	[!ObjectInfo]火花无人机
 #16396	[!NamedEvent]개조된 드론	[!NamedEvent]被改造的无人机
 #16397	[!NamedEvent]잠입 드론	[!ObjectInfo]暗潜无人机
 #16398	[!NamedEvent]냉각 드론	[!ObjectInfo]冷气无人机
-#16399	[!NamedEvent]『 경고: 외부 위협 접근 』	[!NamedEvent]「警告: 外部威胁接近」
+#16399	[!NamedEvent]『 경고: 외부 위협 접근 』	[!NamedEvent]「警告：外部威胁接近」
 #16400	[!NamedEvent]『 위협 대상을 소각합니다. 』	[!NamedEvent]「摧毁威胁对象。』
 #16401	[!NamedEvent]극염의 파이어크론	[!NamedEvent]极炎的火焰拜克伦
 #16402	[!NamedEvent]개조된 바이크론	[!ObjectInfo]被改造的拜克伦
@@ -10162,7 +10162,7 @@
 #16761	[!GameSystemMessageFormat]리가 현장을 이탈하였습니다.	[!Sentence][!FrontMessage]李离开了现场。
 #16762	[!GameSystemMessageFormat]적이 내부망 데이터를 삭제하기 시작합니다.	[!Sentence][!FrontMessage]敌人开始删除内网数据了。
 #16763	[!GameSystemMessageFormat]적들이 방어선 돌파를 결의하여 모두 전투 상태가 됩니다.	[!Sentence][!FrontMessage]敌人决定冲击防线，因此全员进入战斗状态。
-#16764	[!GameSystemMessageFormat]료 류자키가 현장에서 사라졌습니다.	[!Sentence][!FrontMessage]亮·龙崎从现场消失了。
+#16764	[!GameSystemMessageFormat]료 류자키가 현장에서 사라졌습니다.	[!Sentence][!FrontMessage]亮・龙崎从现场消失了。
 #16765	[!GameSystemMessageFormat]제이슨이 현장에서 사라졌습니다.	[!Sentence][!FrontMessage]杰森从现场消失了。
 #16766	[!GameSystemMessageFormat]적이 방어선에 도착하였습니다.	[!Sentence][!FrontMessage]敌人抵达防线。
 #16767	[!GameSystemMessageFormat]제이슨이 방어선을 돌파하였습니다.	[!Sentence][!FrontMessage]杰森突破了防线。
@@ -10301,7 +10301,7 @@
 #16900	[!GuideMessage][colour='FFFFFF00']장비와 전리품 및 능력치의 정보가 모두 공개됩니다.[colour='FFFFFFFF']<br>해당 대상의 공격에 대한 방어율이 5% 증가합니다.<br>대상이 보유한 추가 특성 효과에 대한 정보를 얻습니다.	[!GuideMessage][colour='FFFFFF00']装备，战利品与能力值的信息已全部公开。[colour='FFFFFFFF']<br>对该目标的攻击的格挡增加5%。<br>可获得目标附加天赋的信息。
 #16901	[!GuideMessage][colour='FFFFFF00']특성의 획득 확률이 공개됩니다.[colour='FFFFFFFF']<br>해당 대상에 대한 피해량이 5% 증가합니다.	[!GuideMessage][colour='FFFFFF00']天赋获得几率已被公开。[colour='FFFFFFFF']<br>对于该目标的伤害量提高5%。
 #16902	[!GuideMessage][colour='FFFFFF00']전리품의 획득 확률이 공개됩니다.[colour='FFFFFFFF']<br>해당 대상의 공격에 대한 피해량이 5% 감소합니다.	[!GuideMessage][colour='FFFFFF00']战利品获取几率已被公开。[colour='FFFFFFFF']<br>该目标的攻击造成的伤害量降低5%。
-#16903	[!GuideMessage][colour='FFFFFF00']출현 지역 정보가 모두 공개됩니다.[colour='FFFFFFFF']<br>보상 받기를 통하여 %s 을 입수할 수 있습니다.	[!GuideMessage][colour='FFFFFF00']可能的出场地区已被公开。[colour='FFFFFFFF']<br>可通过下方的“获取奖励”来获得%s。
+#16903	[!GuideMessage][colour='FFFFFF00']출현 지역 정보가 모두 공개됩니다.[colour='FFFFFFFF']<br>보상 받기를 통하여 %s 을 입수할 수 있습니다.	[!GuideMessage][colour='FFFFFF00']可能的出场地区已被公开。[colour='FFFFFFFF']<br>可通过下方的「获取奖励」来获得%s。
 #16904	[!Mastery]혼신의 일격	[!Mastery]全力一击
 #16905	[!Mastery]무조건 공격이다.	[!Mastery]不管别的就是攻击。
 #16910	[!Mastery]불꽃 쐐기	[!Mastery]红焰锥
@@ -10447,7 +10447,7 @@
 #17191	[!Profession]전투 장갑을 제작할 수 있습니다.	[!Profession]你可以制作战斗手套。
 #17192	[!Mastery]천재성	[!Mastery]天才本质
 #17193	[!Mastery]노력하지 않는 천재는 없어.	[!Mastery]没有不努力的天才。
-#17196	[!Ability]목표 범위 내 시야를 밝힙니다. 확보된 시야는 $White$240 $Corn$턴 대기시간$Blue_ON$ 동안 지속됩니다. 범위 내 은신한 적과 설치된 함정을 발견할 수 있습니다.<br><br>$Corn$연쇄 효과: 눈부심: $White$암흑$Corn$ 상태의 대상은 $White$혼란$Corn$ 상태가 됩니다.	[!Ability]在目标范围内点亮视野。被点亮的视野持续$White$240$Corn$回合冷却时间$Blue_ON$。可发现范围内设置的陷阱和潜匿的敌人。<br><br>$Corn$连锁效果: 眩光: $White$暗黑$Corn$状态的对象进入$White$混乱$Corn$状态。
+#17196	[!Ability]목표 범위 내 시야를 밝힙니다. 확보된 시야는 $White$240 $Corn$턴 대기시간$Blue_ON$ 동안 지속됩니다. 범위 내 은신한 적과 설치된 함정을 발견할 수 있습니다.<br><br>$Corn$연쇄 효과: 눈부심: $White$암흑$Corn$ 상태의 대상은 $White$혼란$Corn$ 상태가 됩니다.	[!Ability]在目标范围内点亮视野。被点亮的视野持续$White$240$Corn$回合冷却时间$Blue_ON$。可发现范围内设置的陷阱和潜匿的敌人。<br><br>$Corn$连锁效果：眩光：$White$暗黑$Corn$状态的对象进入$White$混乱$Corn$状态。
 #17197	[!GuideMessage]$DischargeDamageType$ 속성 피해를 입으면 $BuffTitle$ 상태가 해제됩니다.	[!GuideMessage]受到$DischargeDamageType$属性的伤害时，$BuffTitle$状态将会解除。
 #17199	[!Mastery]강화 불꽃	[!Mastery]强化火花
 #17200	[!Mastery]열정의 한계는 없다.	[!Mastery]热情是没有界限的。
@@ -10479,7 +10479,7 @@
 #17279	[!Ability]천선의 약	[!Ability]天上仙人药
 #17280	[!GuideMessage]해당 상태에서는 엄폐를 할 수 없습니다.	[!GuideMessage]在该状态下无法隐蔽。
 #17281	[!GuideMessage][colour='FFFFFF00']해당 과정을 원하시지 않는다면 특성판을 변경 후, 개인 특성 변경을 진행해주십시오.	"[!GuideMessage][colour='FFFFFF00']若不想接受相应的过程，请变更天赋版后更改个人天赋。
-#17282	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']현재 사용중인 특성판의 특성 중 개인 특성 변경 시 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告:天赋版的天赋将会解除<br><br>[colour='FFFFFFFF']现在所使用的天赋版的天赋中存在更改个人天赋后无法使用的天赋。
+#17282	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']현재 사용중인 특성판의 특성 중 개인 특성 변경 시 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告：天赋版的天赋将会解除<br><br>[colour='FFFFFFFF']现在所使用的天赋版的天赋中存在更改个人天赋后无法使用的天赋。
 #17283	[!GuideMessage][colour='FFFF5943']현재 $ItemName$ 개수가 부족하여 해당 특성으로 변경이 불가능합니다.	[!GuideMessage][colour='FFFF5943']因$ItemName$不足而无法更改天赋。
 #17284	[!GuideMessage][colour='FFFFFFFF']개인 특성 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거되며, 해당 과정을 위해 $ItemName$ $ItemCount$ 개가 추가 소모됩니다.	[!GuideMessage][colour='FFFFFFFF']若继续进行个人天赋的变更，以上天赋将从天赋版解除。需要$ItemName$ $ItemCount$个。
 #17285	[!GuideMessage]관심 특성 등록된 특성만을 보여줍니다. 관심 특성으로 등록된 특성이 특성 연구로 소모될 경우, 경고 메시지로 해당 특성의 소모를 알려줍니다.	[!GuideMessage]只显示在关心天赋上登录的天赋。若已登录的天赋将用于天赋研究材料时，会收到警告通知。
@@ -10737,7 +10737,7 @@
 #17567	[!Ability]불꽃 베기	[!Ability]火花斩
 #17568	[!Ability]불꽃 파괴검	[!Ability]火花破坏剑
 #17569	[!Item]칠흑의 펄스 블레이드	[!Item]漆黑的脉冲剑
-#17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	[!Item]从东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的陆延香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向陆延香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。"真是把好剑，让我来用吧。"
+#17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	[!Item]从东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的陆延香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向陆延香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。「真是把好剑，让我来用吧。」
 #17571	[!Mastery]마검 제어	[!Mastery]掌控魔剑
 #17572	[!Mastery]승부는 찰나.	[!Mastery]胜负在刹那。
 #17574	[!Mastery]마검 장막	[!Mastery]魔剑帷幕
@@ -10761,7 +10761,7 @@
 #17595	[!GuideMessage]어빌리티 강화 버프	[!GuideMessage]技能强化buff
 #17596	[!GuideMessage]야수를 더 이상 맡길 수 없습니다. (최대 $Value$ 마리)	[!GuideMessage]不能再托管野兽了。(最多$Value$只)
 #17597	[!Item]청소업자 부츠	[!Item]清洁工靴子
-#17598	[!Item]어린 펠릭스가 지나가는 개미 떼를 발로 밟자 줄지어 가던 개미들은 혼비백산 사방으로 퍼져 나갔다. 그 광경을 보고 있던 펠릭스는 커다란 희열감을 느꼈고 자신도 모르게 더 많은 개미들을 짓밟기 위해 움직였다. "더 빨리! 더 빨리!"	[!Item]费利克斯在小时曾踩踏过经过的蚂蚁群，并看到排成队伍的蚂蚁们惊慌失措的四处散开。在那瞬间，费利克斯感到了巨大的喜悦感，因此自身不知不觉地为践踏更多的蚂蚁而行动着。"快点！更快点！"
+#17598	[!Item]어린 펠릭스가 지나가는 개미 떼를 발로 밟자 줄지어 가던 개미들은 혼비백산 사방으로 퍼져 나갔다. 그 광경을 보고 있던 펠릭스는 커다란 희열감을 느꼈고 자신도 모르게 더 많은 개미들을 짓밟기 위해 움직였다. "더 빨리! 더 빨리!"	[!Item]费利克斯在小时曾踩踏过经过的蚂蚁群，并看到排成队伍的蚂蚁们惊慌失措的四处散开。在那瞬间，费利克斯感到了巨大的喜悦感，因此自身不知不觉地为践踏更多的蚂蚁而行动着。「快点！更快点！」
 #17599	[!Item]체체의 팔찌	[!Item]采采的手镯
 #17600	[!Item]체체가 유랑 서커스단의 익살꾼 시절 사용하던 묘기용 팔찌를 꾸준히 개량한 팔찌이다. 묘기를 선 보이기 위해 사용했던 팔찌라 속도와 지속성에 특화되어 있다.	[!Item]采采把在流浪杂技团时期使用的杂技手镯不断进行改良。因为是展示杂技时所使用的手镯，所以特别加强了速度和持久性。
 #17601	[!Job]익살꾼	[!Job]丑角
@@ -11456,7 +11456,7 @@
 #18413	[!Buff]거대화 부작용	[!Buff]巨大化副作用
 #18414	[!Buff]대상의 몸이 작아지며 적에 대한 위협 수치가 $ApplyAmountValue$ 감소합니다.	[!Buff]目标的身体变小，对敌人的威胁值减少$ApplyAmountValue$。
 #18415	[!GuideMessage]공연 속성이 부여된 어빌리티를 사용할 경우, 해당 슬롯에 해당 공연 속성 효과가 차례로 부여됩니다.	[!GuideMessage]使用赋予演出属性的技能时，将赋予的演出属性依次罗列于该栏。
-#18416	[!GuideMessage]$Yellow$기본효과:$White$ 공연$Blue_ON$<br>$PerformanceType$ 속성이 부여된 어빌리티 사용 시, 비어 있는 공연 슬롯에 순차적으로 해당 효과가 적용됩니다.<br><br>$Yellow$추가효과:$White$ 멋짐$Blue_ON$<br>연속된 $White$4$Blue_ON$개의 공연 슬롯에 다음과 같이 공연 효과가 배치될 경우, $White$멋짐$Blue_ON$ 효과가 발생합니다.<br><br>$PerformanceGreatList$<br><br>$White$멋짐$Blue_ON$ 효과가 발생 후, 해당 슬롯의 공연 효과는 사라집니다.<br><br>$Yellow$추가효과:$White$ 마무리$Blue_ON$<br>공연 슬롯이 가득 차면, 누적된 $White$멋짐$Blue_ON$ 횟수에 따라 다음과 같은 $White$마무리$Blue_ON$ 효과가 발생합니다.<br><br>$PerformanceFinishList$<br><br>$White$마무리$Blue_ON$ 효과가 발생 후, 모든 공연 슬롯과 $White$멋짐$Blue_ON$ 수치가 초기화됩니다.	[!GuideMessage]$Yellow$基本效果:$White$演出$Blue_ON$<br>$PerformanceType$ 使用赋予演出属性的技能时，将赋予的演出属性依次罗列于该栏。<br><br>$Yellow$追加效果:$White$ 帅气$Blue_ON$<br>连续$White$4$Blue_ON$个的演出属性若满足如下组合将会产生组合效果，同时生成一次$White$帅气$Blue_ON$。<br><br>$PerformanceGreatList$<br><br>$White$帅气$Blue_ON$效果发生后，该栏的演出效果将清空。<br><br>$Yellow$追加效果:$White$ 收尾$Blue_ON$<br>演出栏被填满时，将根据累积的$White$帅气$Blue_ON$个数，产生如下的$White$收尾$Blue_ON$效果。<br><br>$PerformanceFinishList$<br><br>$White$收尾$Blue_ON$效果发生后，所有的演出栏和$White$帅气$Blue_ON$值将重归为零。
+#18416	[!GuideMessage]$Yellow$기본효과:$White$ 공연$Blue_ON$<br>$PerformanceType$ 속성이 부여된 어빌리티 사용 시, 비어 있는 공연 슬롯에 순차적으로 해당 효과가 적용됩니다.<br><br>$Yellow$추가효과:$White$ 멋짐$Blue_ON$<br>연속된 $White$4$Blue_ON$개의 공연 슬롯에 다음과 같이 공연 효과가 배치될 경우, $White$멋짐$Blue_ON$ 효과가 발생합니다.<br><br>$PerformanceGreatList$<br><br>$White$멋짐$Blue_ON$ 효과가 발생 후, 해당 슬롯의 공연 효과는 사라집니다.<br><br>$Yellow$추가효과:$White$ 마무리$Blue_ON$<br>공연 슬롯이 가득 차면, 누적된 $White$멋짐$Blue_ON$ 횟수에 따라 다음과 같은 $White$마무리$Blue_ON$ 효과가 발생합니다.<br><br>$PerformanceFinishList$<br><br>$White$마무리$Blue_ON$ 효과가 발생 후, 모든 공연 슬롯과 $White$멋짐$Blue_ON$ 수치가 초기화됩니다.	[!GuideMessage]$Yellow$基本效果：$White$演出$Blue_ON$<br>$PerformanceType$ 使用赋予演出属性的技能时，将赋予的演出属性依次罗列于该栏。<br><br>$Yellow$追加效果：$White$ 帅气$Blue_ON$<br>连续$White$4$Blue_ON$个的演出属性若满足如下组合将会产生组合效果，同时生成一次$White$帅气$Blue_ON$。<br><br>$PerformanceGreatList$<br><br>$White$帅气$Blue_ON$效果发生后，该栏的演出效果将清空。<br><br>$Yellow$追加效果：$White$ 收尾$Blue_ON$<br>演出栏被填满时，将根据累积的$White$帅气$Blue_ON$个数，产生如下的$White$收尾$Blue_ON$效果。<br><br>$PerformanceFinishList$<br><br>$White$收尾$Blue_ON$效果发生后，所有的演出栏和$White$帅气$Blue_ON$值将重归为零。
 #18417	[!Item]강화의 물약	[!Item]强化药水
 #18418	[!Item]수양의 물약	[!Item]素养药水
 #18419	[!Item]강력한 수면제	[!Item]强力的安眠药
@@ -11726,7 +11726,7 @@
 #18781	[!Help]수면	[!Help]睡眠
 #18782	[!Help]소음	[!Help]噪音
 #18783	[!Help]장비	[!Help]装备
-#18786	[!Help]턴 대기열 적 표시	[!Help]回合等待序列: 标记敌军
+#18786	[!Help]턴 대기열 적 표시	[!Help]回合等待序列：标记敌军
 #18788	[!Help]구조 요청	[!Help]求助请求
 #18790	[!Help]은신	[!Help]隐身
 #18791	[!Help]티마	[!Help]蒂玛
@@ -11865,9 +11865,9 @@
 #18949	[!Help]엄폐 아이콘이 위치한 방향의 적으로부터 공격을 받을 시, $Status_Dodge$이 $Percent$ 증가합니다.	[!Help]受到隐蔽图标所在方向的敌人攻击时，$Status_Dodge$将增加$Percent$。
 #18950	[!Help]$Img_FullCover$ 아이콘으로 표시되는 지역은 $/$완전 엄폐$/$가 가능합니다.	[!Help]$Img_FullCover$图标标示的地点可以$/$完全隐蔽$/$。
 #18951	[!Help]$Img_FullCoverOpened$, $Img_HalfCoverOpened$ 아이콘으로 표시되는 유닛은 현재 공격 캐릭터로부터 엄폐 방향의 측면이 노출된 상태이며, 해당 대상을 공격 시 $/$측면 공격$/$ 보너스가 주어집니다.	[!Help]$Img_FullCoverOpened$,$Img_HalfCoverOpened$图标显示的单位目前处于侧面暴露状态，攻击该对象时适用$/$侧面攻击$/$的奖励。
-#18952	[!Help]$/$측면 공격:$/$ 치명타 적중률이 $Percent$ 증가합니다.	[!Help]$/$侧面攻击:$/$暴击率将增加$Percent$。
+#18952	[!Help]$/$측면 공격:$/$ 치명타 적중률이 $Percent$ 증가합니다.	[!Help]$/$侧面攻击：$/$暴击率将增加$Percent$。
 #18953	[!Help]해당 유닛의 근접한 4방향에 엄폐물이 존재하지 않는 상태는 $/$무방비 노출$/$이라고 하며, 해당 대상을 공격 시 $/$측면 공격$/$ 보너스가 주어집니다.	[!Help]单位临近的4个方向格子不存在掩蔽物时，则处于$/$无防备暴露$/$状态，攻击该对象时适用$/$侧面攻击$/$奖励。
-#18954	[!Help]자신과 목표 대상이 위치한 지형의 높이 차이가 $HighHeight$m 초과하는 상태입니다.<br><br>$Note$사격 공격 어빌리티로 적을 공격 시, 다음과 같은 보너스를 받습니다.	[!Help]自身与对象的高度差异在$HighHeight$m以上。<br><br>$Note$射击攻击技能攻击敌人时适用如下奖励:
+#18954	[!Help]자신과 목표 대상이 위치한 지형의 높이 차이가 $HighHeight$m 초과하는 상태입니다.<br><br>$Note$사격 공격 어빌리티로 적을 공격 시, 다음과 같은 보너스를 받습니다.	[!Help]自身与对象的高度差异在$HighHeight$m以上。<br><br>$Note$射击攻击技能攻击敌人时适用如下奖励：
 #18955	[!Help]명중률이 $Percent$ 증가합니다.	[!Help]命中率增加$Percent$。
 #18956	[!Help]명중률이 $Percent2$ 감소합니다.	[!Help]命中率减少$Percent2$。
 #18957	[!Help]턴 시작 시, 행동력을 소모하지 않은 경우 $/$안정된 자세$/$ 상태가 적용되며 유닛 상태 정보의 행동력 바가 $ColorText$으로 표시됩니다.	[!Help]回合开始时，在不消耗行动力的情况下，将进入$/$稳定的姿势$/$状态，并以$ColorText$表示单位状态信息的行动力条。
@@ -12064,7 +12064,7 @@
 #19163	[!Sector]황제를 권력 수장으로 한 전제 군주제이다. 아테르 제국 건국 이후 아테르 황가가 계속 황권을 유지하고 있다.	[!Sector]实施以皇帝为国家领袖的君主制。自阿泰尔帝国建国以来，阿泰尔皇家一直保持着皇权。
 #19164	[!Sector]행정부와 입법부	[!Sector]行政部门和立法部门
 #19165	[!Sector]행정부와 입법부의 수장은 황제가 임명한 재상이 담당하며 국가 중대사를 제외한 대부분의 업무를 황제의 권한을 대리하여 수행한다.	[!Sector]行政部门和立法部门首长由皇帝任命的宰相担任，除国家重大事件外，大部分作为皇帝的代理执行人。
-#19166	[!Sector]국가 중대사는 황제가 직접 담당하며, 직접 통치하는 수도 '테르'의 업무는 재상에게 위임된다. 그 외 업무는 각 장원의 영주들이 황제의 권한을 대리하여 수행한다.	[!Sector]国家大事由皇帝亲自负责，首都"泰尔"的直接统治工作委任于宰相执行。其他工作由各庄园的领主代理皇帝执行。
+#19166	[!Sector]국가 중대사는 황제가 직접 담당하며, 직접 통치하는 수도 '테르'의 업무는 재상에게 위임된다. 그 외 업무는 각 장원의 영주들이 황제의 권한을 대리하여 수행한다.	[!Sector]国家大事由皇帝亲自负责，首都「泰尔」的直接统治工作委任于宰相执行。其他工作由各庄园的领主代理皇帝执行。
 #19167	[!Sector]넓은 영토를 바탕으로 풍부한 자원과 부유한 곡창 지대를 가진 세계 1차 산업의 지배권을 쥐고 있는 강대국이다. 세계 대전 당시에도 실제 이러한 1차 산업의 기반의 지역의 피해는 미비하였기에 종전 후에도 강대국의 위치를 여전히 유지하고 있다.	[!Sector]广阔的领土为基础，充满丰富的资源和富裕的粮仓，是拥有世界第一产业支配权的强国。在世界大战当时，由于第一产业的地区受害情况不大，因此战后仍维持着强国的地位。
 #19168	[!Sector]황실 직속 기사단을 중심으로 각 영주들의 기사단으로 구성되어 있다. 기사단원 모두 이능력 사용자이며 이능력 병기를 이용한 마법사단을 운용하고 있다.<br><br>세계 대전 이전까지 이 기사단을 중심으로 세계의 다른 국가들이 감히 넘볼 수 없는 국력을 보유하였으나 세계 대전으로 많은 기사단원을 잃은 현재 국력이 예전같지 않은 상황이다.	[!Sector]以皇室直属骑士团为中心，由各领主骑士团组成。骑士团员都是异能力使用者并能运用异能兵器的魔法师。<br><br>在世界大战之前是以该骑士团为中心，拥有世界各国都不可逾越的国力。但由于世界大战失去众多骑士团成员，目前国力大不如前。
 #19169	[!Sector]이능력의 사용 여부에 기반을 둔 귀족과 일반인으로 나뉘는 이원 계급 사회이다. 귀족 계급은 이능력의 사용자 수와 능력의 크기에 따라 기사, 남작, 자작, 백작, 후작의 5 계층으로 분류된다.<br><br>귀족 계급과 일반인 계급의 특권은 절대적이지만 계층간의 이동은 활발한 편이다. 귀족 계급의 경우, 3대에 걸쳐 이능력 사용자가 없을 경우 계급의 위치에 상관없이 일반인 계급으로 강등당한다. 일반인 계급의 경우, 일정 이상의 이능력 사용이 가능하면 기사단 혹은 그에 준하는 황실 직속 기관의 수습생으로 발탁이 가능하며, 해당 기관의 수습생을 거쳐 정식 임용 시, 귀족의 작위를 받을 수 있다. 이런 이능력 특권을 부여받는 귀족들은 전체 인구 중 10%에 달한다.	[!Sector]这是一个基于是否会使用异能而分割贵族和普通阶级的社会。贵族阶级根据异能者数量和能力的大小，细分为骑士、男爵、子爵、伯爵和侯爵五个阶层。<br><br>相比普通阶级的言，虽然贵族阶级的特权是绝对的，但是阶层间的移动比较活跃。以贵族阶级的情况为例，若三代内没有异能力者的话，不论阶级地位多高，都将被降级为普通阶级。在普通阶级，如果可以使用一定以上的异能力，则可以提拔为骑士团员或与其相当的皇室直属机关的见习生，被所属机关正式任用的见习生，可以获得贵族爵位。拥有这种异能力的特权贵族占总人口的10%。
@@ -12089,14 +12089,14 @@
 #19188	[!Sector]세계 대전 이전부터 세계 최고의 군용 자율형 로봇 중심의 강력화 AI부대를 보유하고 있다. 하지만 이 강력한 부대의 최대 약점은 이 부대를 운용할 자원의 부족이며, 실제로 세계 대전 당시 자원 확보에 실패한 동방 연합의 많은 바이크론들이 전쟁터에 버려졌다. 	[!Sector]从世界大战之前开始，就已经拥有了以世界最领先的军用自律型机器人为中心的强力化AI部队。但这支强大的部队的最大弱点是缺乏驱动的能源。实际上，在世界大战期间，许多无法获得能源补给的东方联盟拜克伦被遗弃在了战场上。
 #19189	[!Sector]연합 국가 전반에 걸쳐 사회 전반에 퍼진 부정부패로 뒷 세계의 힘이 가장 강력하다. 연합 국가의 정치, 경제, 사회 전반에 걸쳐 범죄 조직 구룡회와 연결되지 않은 사람을 찾아 보기 힘들 정도이다. 연합 국가 내에서는 실질적으로 연합의 의지는 구룡회의 의지라고 말해질 정도이다.	[!Sector]整个联盟国家的贪污腐败蔓延到整个社会，导致地下世界的力量极为强大。在联盟国家的政治、经济、社会等领域上，很难找到与犯罪组织九龙会没有联系的人。甚至可以把联盟国的意志说成是九龙会的意志。
 #19190	[!Sector]종교에 대한 자유가 허락되어 있다.	[!Sector]允许宗教的自由。
-#19191	[!Sector]AE 700년, 다국적 자원 탐사대에 의해 해당 지역의 지하에 다수의 리치 베인이 존재하는 것을 발견한다. 탐사대는 해당 위치에 탐사 기지를 세우고 지하로 해당 자원의 탐사를 시작한다. 이후 탐사대는 이 곳의 이능석 매장량이 전 세계의 70%에 해당하며 지하 내부 생태계와 구조로 인해 이 리치 베인이 반영구적으로 존재한다는 발표를 한다. 세계는 새로운 성장 동력의 발견으로 고무되었고 탐사 기지는 강력한 후원 아래 꾸준히 확장되었다. <br><br>하지만 안타깝게도 세계 공유 자원화를 원했던 다수의 국가들의 의지와 상관없이 세계 최대의 이능석 채굴장은 3대 열강의 국경 지대에 위치하였기에 강대국의 분쟁 원인으로 전락하고 심지어 세계 대전의 원인이 된다.<br><br>현재는 3국 협의 하에 무정부 지역이며 채굴장의 최고 권력 '성주'를 중심으로 국가와 같은 독립적인 주권을 행사하고 있다.	[!Sector]AE 700 年，多国资源勘探队发现该区域的地下存在大量的富矿。探索队在相应位置建立勘探基地，并开始向地下勘探相应资源。此后，勘探队宣布，该处的异能石储量相当于全球的70%。由于地下内部生态系统和结构使得富矿半永久性的存在。全世界都被这一新发现所鼓舞并驱动着，勘探基地在强有力的赞助下不断扩展。但遗憾的是，与大多数希望共享资源的国家的意志无关，世界最大的异能石开采场位于三大列强的国境地带，因此沦落为强国纷争的诱因，甚至引发世界大战的开始。<br><br>目前，该地区由三国协议下，成为以在采矿场拥有最高权力的"城主"为中心的无政府地区，行使着与国家相同的独立主权。
+#19191	[!Sector]AE 700년, 다국적 자원 탐사대에 의해 해당 지역의 지하에 다수의 리치 베인이 존재하는 것을 발견한다. 탐사대는 해당 위치에 탐사 기지를 세우고 지하로 해당 자원의 탐사를 시작한다. 이후 탐사대는 이 곳의 이능석 매장량이 전 세계의 70%에 해당하며 지하 내부 생태계와 구조로 인해 이 리치 베인이 반영구적으로 존재한다는 발표를 한다. 세계는 새로운 성장 동력의 발견으로 고무되었고 탐사 기지는 강력한 후원 아래 꾸준히 확장되었다. <br><br>하지만 안타깝게도 세계 공유 자원화를 원했던 다수의 국가들의 의지와 상관없이 세계 최대의 이능석 채굴장은 3대 열강의 국경 지대에 위치하였기에 강대국의 분쟁 원인으로 전락하고 심지어 세계 대전의 원인이 된다.<br><br>현재는 3국 협의 하에 무정부 지역이며 채굴장의 최고 권력 '성주'를 중심으로 국가와 같은 독립적인 주권을 행사하고 있다.	[!Sector]AE 700 年，多国资源勘探队发现该区域的地下存在大量的富矿。探索队在相应位置建立勘探基地，并开始向地下勘探相应资源。此后，勘探队宣布，该处的异能石储量相当于全球的70%。由于地下内部生态系统和结构使得富矿半永久性的存在。全世界都被这一新发现所鼓舞并驱动着，勘探基地在强有力的赞助下不断扩展。但遗憾的是，与大多数希望共享资源的国家的意志无关，世界最大的异能石开采场位于三大列强的国境地带，因此沦落为强国纷争的诱因，甚至引发世界大战的开始。<br><br>目前，该地区由三国协议下，成为以在采矿场拥有最高权力的「城主」为中心的无政府地区，行使着与国家相同的独立主权。
 #19192	[!Sector]채굴 인력으로 동원된 자들은 범죄자, 일반인, 정치범 등 점령국에 따라 다양한 사람들이 이 곳으로 수용되었다. 지금까지 50만명이 넘는 사람들이 동원 되었고 현재 생존하여 이 곳에 살아가는 자는 최소 만 명 정도에 달할 것이라 본다. 나머지는 대부분 사망한 것으로 추정된다.	[!Sector]被动员的开采人员含有罪犯、普通人、政治犯等，都被关押在这个地方。到目前为止，动员了超过50万人，但是目前生存在这里的人至多有一万人左右。据推测，其余大部分都已死亡。
 #19193	[!Sector]탐사 기지가 장기적인 연구를 위해 지하 깊이에 따라 반 영구 거주 시설을 포함하여 개발되었고 해당 7개의 거주 지구를 기반으로 7개의 채굴장이 존재한다. 최상층 거주 지구는 외부로 나가는 유일한 통로인 동시에 각 지하 거주 지구의 반영구 거주 시설의 기능을 통제할 수 있는 통제실이 존재한다.	[!Sector]勘探基地为进行长期研究，根据地下深度开发出了半永久的居住设施，并存在着以7个居住地区作为基础而运营着的7个采掘场。最上层居住区是通往外界的唯一通道，同时存在控制各地下居住区半永久居住设施功能的控制室。
-#19194	[!Sector]다양한 사람들이 유입되었기에 각자의 소속과 가치관에 따라 수십개의 세력으로 나뉘어져 각 거주 지구에 대한 직접적인 통제는 불가능 상태이다. 다만 통제실의 권한을 소유한 세력의 리더를 '성주'라고 말하며 채굴장의 대외적인 입장과 거래를 인정하는 분위기이다.	[!Sector]由于各种人群的流入，居住地区对各自的所属的地区进行直接管制，根据价值观分为数十个势力且无法统一。但他们都把拥有控制室权力的势力的领袖称为"城主"，承认开采场的对外立场和交易。
+#19194	[!Sector]다양한 사람들이 유입되었기에 각자의 소속과 가치관에 따라 수십개의 세력으로 나뉘어져 각 거주 지구에 대한 직접적인 통제는 불가능 상태이다. 다만 통제실의 권한을 소유한 세력의 리더를 '성주'라고 말하며 채굴장의 대외적인 입장과 거래를 인정하는 분위기이다.	[!Sector]由于各种人群的流入，居住地区对各自的所属的地区进行直接管制，根据价值观分为数十个势力且无法统一。但他们都把拥有控制室权力的势力的领袖称为「城主」，承认开采场的对外立场和交易。
 #19195	[!Sector]하층 지구는 상층 지구에 이능석을 제공하고 생존에 필요한 자원을 나눠 받는다. 최종적으로 최상층 지구는 채굴량을 강대국과 발할라에 판매하여 채굴장의 필요 물품고 자원을 확보하여 하층 거주 지구로 배분하고 있다.	[!Sector]下层地区向上层地区提供异能石，从而得到生存所需的资源。最终，最上层地区将开采量出售给巴赫拉和强国，以确保开采场所需的必要物品和资源来分配给下层居住地区。
 #19196	[!Sector]오랜 기간 지하로 내려간 인원과 무기, 병력 그리고 각 채굴장의 지하 생태계에 대한 정보는 과장되거나 숨겨져 있어 현재 상태를 확인하기 어렵다.	[!Sector]长期下沉到地下的人员、武器、兵力以及各开采场的地下生态的信息被夸大或隐藏，因此难以确定目前的状态。
 #19197	[!Sector]거주 지구를 점령한 세력이 해당 지구의 채굴장의 채굴량을 독점하는 구조로 인하여 거주구 점령 세력이 다른 타 세력 채굴자를 착취하는 구조이다. 따라서 각 지구 별로 분쟁이 자주 일어난다.	[!Sector]因为占领居住区的势力可独占该地区开采场的开采量，所有占领居住区的势力通常都会剥削其他势力的开采者。因此各地区经常发生纠纷。
-#19198	[!Sector]희망이 없는 채굴자들이 '성주'를 경외시 하는 경향이 있다.	[!Sector]没有任何希望的开采者往往敬畏"城主"。
+#19198	[!Sector]희망이 없는 채굴자들이 '성주'를 경외시 하는 경향이 있다.	[!Sector]没有任何希望的开采者往往敬畏「城主」。
 #19199	[!Sector]앨리	[!ObjectInfo]艾丽
 #19200	[!Sector]세계 대전 이후 카라스 연방과 동방 연합의 국경 사이의 전쟁 난민들이 모여들어 생성된 빈민가였다. AE 800년, 발할라에 통합되어 현재는 대대적인 재개발이 진행 중이다.	[!Sector]是自世界大战以来，卡拉斯联邦和东方联盟边界间的战争难民的聚居从而形成的贫民窟。AE 800年，与巴赫拉合并后正在进行大规模的重建中。
 #19201	[!Sector]세계 대전 종전 후 난민들이 모여들어 수천 명이 거주하던 시절이 있었으나 극심한 빈곤으로 인한 아사자와 부족한 의료 시설로 인한 병사자들이 급증하였고 그 결과 발할라에 병합 직전에는 천여 명정도였다. 현재는 전원 발할라로 강제 이주 당하였다.	[!Sector]世界大战结束后，曾有数千名难民聚居于此。但由于极度贫困，被饿死的和缺乏医疗设施而病死的人剧增，从而导致在与巴赫拉合并之前只剩有千人左右。现已被强行移居到巴赫拉。
@@ -12915,8 +12915,8 @@
 #20284	[!RestAction]든든한 한끼	[!RestAction]饱饱的一顿
 #20285	[!WordCollection]초기화 중..	[!WordCollection]初始化中…
 #20286	[!GuideMessage]OS변경에 필요한 제작서가 모자랍니다.	[!GuideMessage]OS变更所需的设计图不足。
-#20287	[!GuideMessage]OS변경에 따라 기존에 설정된 고유 특성들이 초기화 됩니다. 또한 기존에 설정된 고유 특성들의 초기화를 위해 제작서가 소모됩니다. 계속 진행하시겠습니까?<br><tab><br>OS변경을 위해 필요한 제작서: [colour='FFFFE959']%s[colour='FFFFFFFF']개	[!GuideMessage]OS变更将初始化设定的固有特性，并且需要消耗设计图来进行初始化。要继续进行吗？<br><tab><br>需要的设计图数量:[colour='FFFFE959']%s[colour='FFFFFFFF']个。
-#20288	[!GuideMessage]OS변경에 따라 기존에 설정된 고유 특성들이 초기화 되고 제작서가 소모됩니다. 추가로 기존에 사용중인 기계 부품들은 재료가 추출되고 사라집니다. 계속 진행하시겠습니까?<br><tab><br>OS변경을 위해 필요한 제작서: [colour='FFFFE959']%s[colour='FFFFFFFF']개<br><br>대상 기계 부품:<br>[colour='FFFFE959']%s[colour='FFFFFFFF']	[!GuideMessage]OS变更将初始化设定的固有特性，需要消耗设计图。另外还会提取现有的机体各配件并变为材料，被提取的机体配件会消失。要继续进行吗？<br><tab><br>需要的设计图数量:[colour='FFFFE959']%s[colour='FFFFFFFF']个<br><br>对象机械配件:<br>[colour='FFFFE959']%s[colour='FFFFFFFF']个
+#20287	[!GuideMessage]OS변경에 따라 기존에 설정된 고유 특성들이 초기화 됩니다. 또한 기존에 설정된 고유 특성들의 초기화를 위해 제작서가 소모됩니다. 계속 진행하시겠습니까?<br><tab><br>OS변경을 위해 필요한 제작서: [colour='FFFFE959']%s[colour='FFFFFFFF']개	[!GuideMessage]OS变更将初始化设定的固有特性，并且需要消耗设计图来进行初始化。要继续进行吗？<br><tab><br>需要的设计图数量：[colour='FFFFE959']%s[colour='FFFFFFFF']个。
+#20288	[!GuideMessage]OS변경에 따라 기존에 설정된 고유 특성들이 초기화 되고 제작서가 소모됩니다. 추가로 기존에 사용중인 기계 부품들은 재료가 추출되고 사라집니다. 계속 진행하시겠습니까?<br><tab><br>OS변경을 위해 필요한 제작서: [colour='FFFFE959']%s[colour='FFFFFFFF']개<br><br>대상 기계 부품:<br>[colour='FFFFE959']%s[colour='FFFFFFFF']	[!GuideMessage]OS变更将初始化设定的固有特性，需要消耗设计图。另外还会提取现有的机体各配件并变为材料，被提取的机体配件会消失。要继续进行吗？<br><tab><br>需要的设计图数量：[colour='FFFFE959']%s[colour='FFFFFFFF']个<br><br>对象机械配件：<br>[colour='FFFFE959']%s[colour='FFFFFFFF']个
 #20289	[!GuideMessage]설치된 OS를 변경합니다. [colour='FFFFFF00']AI강화 수준에 따라 제작서가 필요합니다.	[!GuideMessage]变更已设定好的OS。[colour='FFFFFF00']根据AI的强化水准，需要设计图。
 #20290	[!GuideMessage]기계를 구동할 SP 종류입니다. [colour='FFFFAA00']변경이 불가능합니다.	[!GuideMessage]决定驱动机械的SP类型。[colour='FFFFAA00']机体制作后便无法更改。
 #20291	[!HelpSubCategory]기계	[!MasteryType]机械
@@ -14643,7 +14643,7 @@
 #22306	[!NpcVisitMessage][!speaker:Diogo]따라서 이 지역 상인회가 대부분의 유지비를 부담하고 있습니다.	[!NpcVisitMessage]因此，该地区的商会承担着大部分的维持费用。
 #22307	[!ObjectInfo]창고 관리인	[!ObjectInfo]仓库管理员
 #22308	[!Item]청아검	[!Item]青雅剑
-#22309	[!Item]악행을 일삼는 구룡회 조직원을 처단하던 검객 청월은 구룡회 조직원들의 추적을 피해 동문인 륭을 찾아간다. 륭은 반갑게 맞이하며 동문인 청월을 숨겨주었고 청월은 오랜 방랑 세월에 오랫만에 단잠을 이룰 수 있었다. 그리고 청월이 깊은 잠에 빠진 날 륭은 청월의 옆의 문파의 보검인 청아검을 들고 청월의 목을 단칼에 쳐 버린다. "미안하네. 나에겐 처자식이 있네. 이해해주게."	[!Item]以打击无恶不赦的九龙会成员为善的剑客清月，为了躲避他们的追捕，找向同门的龙。多亏了龙的热情迎接，清月终于能在长久的流浪生活中得到一次安稳的休眠。在清月沉睡的那天，龙从清月身旁拿起那把门派的宝剑-青雅剑，一刀砍向清月的脖子。"真是抱歉，我有孩子需要抚养，希望你能理解。"
+#22309	[!Item]악행을 일삼는 구룡회 조직원을 처단하던 검객 청월은 구룡회 조직원들의 추적을 피해 동문인 륭을 찾아간다. 륭은 반갑게 맞이하며 동문인 청월을 숨겨주었고 청월은 오랜 방랑 세월에 오랫만에 단잠을 이룰 수 있었다. 그리고 청월이 깊은 잠에 빠진 날 륭은 청월의 옆의 문파의 보검인 청아검을 들고 청월의 목을 단칼에 쳐 버린다. "미안하네. 나에겐 처자식이 있네. 이해해주게."	[!Item]以打击无恶不赦的九龙会成员为善的剑客清月，为了躲避他们的追捕，找向同门的龙。多亏了龙的热情迎接，清月终于能在长久的流浪生活中得到一次安稳的休眠。在清月沉睡的那天，龙从清月身旁拿起那把门派的宝剑-青雅剑，一刀砍向清月的脖子。「真是抱歉，我有孩子需要抚养，希望你能理解。」
 #22310	[!Item]절단용 손도끼	[!Item]截断用的手斧
 #22311	[!LayoutKeyword]변경사항 적용	[!LayoutKeyword]适用变更事项
 #22312	[!NamedEvent]변절자 지옥불	[!NamedEvent]变节者地狱火
@@ -14710,7 +14710,7 @@
 #22378	[!Item]해골 자켓	[!Item]骷髅夹克
 #22379	[!Item]해골 코트	[!Item]骷髅外套
 #22380	[!Item]엘리게이터 블레이드 SS	[!Item]短吻鳄剑SS
-#22381	[!Item]스컬 슬래셔는 자신의 새로운 이름에 어울리는 업적의 재물로 구룡회의 살수였던 료 류자키를 선택한다. 하지만 승부는 슬래셔의 검날이 료의 검에 의해 부러지면서 슬래셔의 뼈아픈 패배가 되었다. 이후 슬래셔는 두 번 다시 이런 일이 벌어지지 않도록 내구성이 높은 엘리게이터 블레이드를 개조하여 사용하게 된다.	[!Item]骷髅砍杀者选择了曾经是九龙会杀手的亮·龙崎为自己新名字的祭物。但由于砍杀者的剑被亮打断，而品尝到了刻骨的败北感。之后，砍杀者为了不再发生类似事件，改造了耐久性高的短吻鳄剑。
+#22381	[!Item]스컬 슬래셔는 자신의 새로운 이름에 어울리는 업적의 재물로 구룡회의 살수였던 료 류자키를 선택한다. 하지만 승부는 슬래셔의 검날이 료의 검에 의해 부러지면서 슬래셔의 뼈아픈 패배가 되었다. 이후 슬래셔는 두 번 다시 이런 일이 벌어지지 않도록 내구성이 높은 엘리게이터 블레이드를 개조하여 사용하게 된다.	[!Item]骷髅砍杀者选择了曾经是九龙会杀手的亮・龙崎为自己新名字的祭物。但由于砍杀者的剑被亮打断，而品尝到了刻骨的败北感。之后，砍杀者为了不再发生类似事件，改造了耐久性高的短吻鳄剑。
 #22382	[!Item]자동 소총 C - 700	[!Item]自动步枪C-701
 #22383	[!Item]케이퍼 X	[!Item]凯尔佛X
 #22384	[!Item]케이퍼 X - 스컬 피어스	[!Item]凯尔佛X - 骷髅戳穿者
@@ -15251,7 +15251,7 @@
 #22939	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Bat_Wind_Leader)$의 오색 왕도로리 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求取到栖息在铁森林的$Monster(Beast_Bat_Wind_Leader)$的五彩多罗利大王皮。
 #22940	[!QuestDesc]$JPerson(Oleg)$[는] 메트로디움 거주구로 흘러 들어간 자신의 화물을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Oleg)$要求回收自己的流入梅特罗迪翁居民区的货物。
 #22941	[!QuestDesc]$JPerson(Hundred)$[는] 자홍 거리에 방치된 폐기된 강화 드론의 부품을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Hundred)$要求回收放置在紫红街的被废弃的强化无人机的部件。
-#22944	[!QuestDesc]$JPerson(Dembel)$[는] $Org(Spoon)$[로] 입교한 $Org(AngryBull)$ 조직원이 가지고 있는 시곗줄을 찾아달라고 부탁한다.<br><br>목표 대상: $Monster(Gangster_SpoonFighter)$, $Monster(Gangster_SpoonSword)$, $Monster(Gangster_SpoonGun)$	[!QuestDesc]$JPerson(Dembel)$要求找到进入$Org(Spoon)$的$Org(AngryBull)$组员所拿着的表链。<br><br>目标对象: $Monster(Gangster_SpoonFighter)$, $Monster(Gangster_SpoonSword)$, $Monster(Gangster_SpoonGun)$
+#22944	[!QuestDesc]$JPerson(Dembel)$[는] $Org(Spoon)$[로] 입교한 $Org(AngryBull)$ 조직원이 가지고 있는 시곗줄을 찾아달라고 부탁한다.<br><br>목표 대상: $Monster(Gangster_SpoonFighter)$, $Monster(Gangster_SpoonSword)$, $Monster(Gangster_SpoonGun)$	[!QuestDesc]$JPerson(Dembel)$要求找到进入$Org(Spoon)$的$Org(AngryBull)$组员所拿着的表链。<br><br>目标对象：$Monster(Gangster_SpoonFighter)$, $Monster(Gangster_SpoonSword)$, $Monster(Gangster_SpoonGun)$
 #22945	[!QuestDesc]$JPerson(Dembel)$[는] 연락이 끊긴 $Person(Civil_Man_Lee)$의 신변 보호를 요청한다.	[!QuestDesc]$JPerson(Dembel)$要求保护被断开消息的$Person(Civil_Man_Lee)$。
 #22946	[!QuestDesc]$JPerson(Dembel)$[는] 푸른 안개 거리로 흘러 들어간 자신의 화물을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Dembel)$要求回收自己的流入蓝雾大街的货物。
 #22947	[!QuestDesc]$JPerson(Sabana)$[는] $TargetItem$ $TargetCount$개를 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(Sabana)$要求取到$TargetCount$个$TargetItem$。
@@ -15276,11 +15276,11 @@
 #23400	[!OptionGraphics]텍스쳐 세부 묘사	[!OptionGraphics]纹理精密调整
 #23401	[!Quest]세계 대전의 잔재 - $TargetItem$	[!Quest]世界大战的残骸 - $TargetItem$
 #23405	[!SystemMessage]원문에 없는 포맷 인자가 추가되었습니다. \[$Args$\]	[!SystemMessage]追加了原文没有的格式标签。\[$Args$\]
-#23406	[!SystemMessage]원문과 번역문의 포맷인자 순서가 맞지 않습니다. \[처음 어긋난 인자: $Args$\]	[!SystemMessage]原文和翻译文的格式标签顺序不同。\[最先出错的标签: $Args$\]
+#23406	[!SystemMessage]원문과 번역문의 포맷인자 순서가 맞지 않습니다. \[처음 어긋난 인자: $Args$\]	[!SystemMessage]原文和翻译文的格式标签顺序不同。\[最先出错的标签：$Args$\]
 #23407	[!SystemMessage]원문에 들어있는 포맷인자가 빠졌습니다. \[$Args$\]	[!SystemMessage]缺失原文的格式标签。\[$Args$\]
 #23408	[!SystemMessage]번역문에 한국어가 포함되어 있습니다. \[$Kor$\]	[!SystemMessage]翻译文含有韩文。\[$Kor$\]
 #23409	[!SystemMessage]유효하지 않은 포맷 태그가 포함되었습니다. \[$Tag$\]	[!SystemMessage]存在无效的格式标签。\[$Tag$\]
-#23410	[!QuestDesc]$JPerson(Hundred)$[는] 초전도 케이블을 확보해 달라고 요청한다.<br><br>목표 대상: $Monster(Drone_Sprinkler_Rust)$, $Monster(Drone_Sprinkler)$, $Monster(Drone_Sprinkler_Enhanced)$	[!QuestDesc]$JPerson(Hundred)$要求获取超导体电缆。<br><br>目标对象: $Monster(Drone_Sprinkler_Rust)$，$Monster(Drone_Sprinkler)$，$Monster(Drone_Sprinkler_Enhanced)$
+#23410	[!QuestDesc]$JPerson(Hundred)$[는] 초전도 케이블을 확보해 달라고 요청한다.<br><br>목표 대상: $Monster(Drone_Sprinkler_Rust)$, $Monster(Drone_Sprinkler)$, $Monster(Drone_Sprinkler_Enhanced)$	[!QuestDesc]$JPerson(Hundred)$要求获取超导体电缆。<br><br>目标对象：$Monster(Drone_Sprinkler_Rust)$，$Monster(Drone_Sprinkler)$，$Monster(Drone_Sprinkler_Enhanced)$
 #23411	[!QuestDesc]$JPerson(Hundred)$[는] $Monster(Drone_Sprinkler_Rust)$으로부터 초전도 케이블을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Hundred)$要求从$Monster(Drone_Sprinkler_Rust)$回收超导体电缆。
 #23412	[!QuestType_CollectItem_Kill]초전도 케이블	[!QuestType_CollectItem_Kill]超导体电缆
 #23413	[!Buff]$Perano$해당 효과는 최후의 저항 특성 발동을 제외한 모든 전투 상황에서 우선합니다.	[!Buff]$Perano$效果在除了最后的顽抗天赋以外的所有战斗情况下，将无视其他的天赋效果。
@@ -15405,10 +15405,10 @@
 #23540	[!GameDifficulty]해당 난이도를 사용하려면 사건 일지가 필요합니다. 사건 일지는 시나리오 진행을 통하여 활성화 가능합니다.	[!GameDifficulty]选择相应难度需要事件日志。事件日志通过剧情任务激活。
 #23541	[!GameDifficulty]불가능한	[!GameDifficulty]极限
 #23542	[!GameDifficulty]불가능한 상황을 이겨내고 싶은 분들을 위한 난이도입니다.	[!GameDifficulty]为了想要克服不可能的情况的玩家而准备的难度。
-#23543	[!GuideMessage][colour='FFFF5943']경고: 어빌리티 슬롯 해제<br><br>[colour='FFFFFFFF']현재 사용중인 어빌리티 슬롯 세팅이 클래스의 어빌리티 슬롯 제한을 초과합니다.	[!GuideMessage][colour='FFFF5943']注意: 技能栏不足<br><br>[colour='FFFFFFFF']想要使用的技能预置超过了职业的技能栏限制。
+#23543	[!GuideMessage][colour='FFFF5943']경고: 어빌리티 슬롯 해제<br><br>[colour='FFFFFFFF']현재 사용중인 어빌리티 슬롯 세팅이 클래스의 어빌리티 슬롯 제한을 초과합니다.	[!GuideMessage][colour='FFFF5943']注意：技能栏不足<br><br>[colour='FFFFFFFF']想要使用的技能预置超过了职业的技能栏限制。
 #23544	[!GuideMessage][colour='FFFFFFFF']계속 진행하시면 위의 어빌리티들은 자동으로 해제되며 프리셋도 함께 갱신됩니다.	[!GuideMessage][colour='FFFFFFFF']如果想要继续进行，上述技能将自动解除，预设技能也将同时更新。
 #23545	[!GuideMessage][colour='FFFFFF00']해당 과정을 원하시지 않는다면 다른 프리셋을 선택하거나 허용되는 직업을 선택후 변경하세요.	[!GuideMessage][colour='FFFFFF00']如果不进行这个过程，请选择其他的预设或选择可使用此预设的其他职业后变更。
-#23546	[!GuideMessage][colour='FFFF5943']경고: 어빌리티 슬롯 해제<br><br>[colour='FFFFFFFF']변경될 클래스에서 사용중인 어빌리티 슬롯 세팅이 클래스의 슬롯 개수 제한을 초과합니다.	[!GuideMessage][colour='FFFF5943']注意: 技能栏不足<br><br>[colour='FFFFFFFF']想要变更的职业中使用的技能栏设置超过了职业设定的技能栏个数限制。
+#23546	[!GuideMessage][colour='FFFF5943']경고: 어빌리티 슬롯 해제<br><br>[colour='FFFFFFFF']변경될 클래스에서 사용중인 어빌리티 슬롯 세팅이 클래스의 슬롯 개수 제한을 초과합니다.	[!GuideMessage][colour='FFFF5943']注意：技能栏不足<br><br>[colour='FFFFFFFF']想要变更的职业中使用的技能栏设置超过了职业设定的技能栏个数限制。
 #23547	[!GuideMessage][colour='FFFFFFFF']클래스 변경을 계속 진행하시면 위의 어빌리티들은 자동으로 해제되며 프리셋도 함께 갱신됩니다.	[!GuideMessage][colour='FFFFFFFF']想要变更职业继续进行时，上述技能将自动解除，预设也将同时更新。
 #23548	[!GuideMessage]어빌리티 구성의 이름을 입력하세요.	[!GuideMessage]请输入预设的名称。
 #23549	[!Loading]미워도 다시 한번...	[!Loading]就算讨厌也要再一次…
@@ -15460,11 +15460,11 @@
 #23595	[!Troublebook]카터는 자신을 막아서는 헤이싱에게 하지 말아야 할 말을 하고 만다.<br><br>[colour='FFFFAA00']- 해당 미션은 승리 시 고유 보상이 주어집니다.	[!Troublebook]卡特向阻挡着自己的黑星说出了不该说的话。<br><br>[colour='FFFFAA00']- 该任务在获取胜利时，将获得额外的应有奖励。
 #23596	[!GameAutoDetect]자동 감지	[!GameAutoDetect]自动检测
 #23597	[!GameAutoDetect]성능 테스트를 통해 그래픽 품질을 자동으로 선택합니다.	[!GameAutoDetect]通过电脑性能检测，自动选择画面质量。
-#23598	[!GameAutoDetect]게임을 원활히 진행하기 위하여 아래의 사양을 요구합니다.	[!GameAutoDetect]为确保游戏进行流畅，要求以下配置:
+#23598	[!GameAutoDetect]게임을 원활히 진행하기 위하여 아래의 사양을 요구합니다.	[!GameAutoDetect]为确保游戏进行流畅，要求以下配置：
 #23599	[!GameAutoDetect]성능 테스트는 상황에 따라 시간이 제법 걸릴 수 있습니다.	[!GameAutoDetect]性能检测根据电脑的配置需要时间不同。
 #23600	[!GameAutoDetect]권장 사양	[!GameAutoDetect]推荐配置
 #23601	[!GameAutoDetect]운영체제	[!MasteryType]操作系统
-#23602	[!GameAutoDetect]프로세서	[!GameAutoDetect]处理器:
+#23602	[!GameAutoDetect]프로세서	[!GameAutoDetect]处理器：
 #23603	[!GameAutoDetect]메모리	[!GameAutoDetect]内存
 #23604	[!GameAutoDetect]그래픽	[!WordCollection]图像
 #23605	[!GameAutoDetect]최소 사양	[!GameAutoDetect]最低配置
@@ -16150,13 +16150,13 @@
 #24318	[!SystemMail]$CivilName$의 손녀	[!SystemMail]$CivilName$的孙女
 #24319	[!SystemMail][colour='FFFFE959']제 할아버지 $CivilName$[은] 반 년 전 달빛 거리에서 백호파 칼잡이의 검에 돌아가셨습니다.<br><br>할아버지는 언제나 제가 놀러가면 착한 일을 하고 살아야 하며 나쁜 일을 하면 벌을 받는다고 하셨어요.<br>하지만 제가 보는 세상은 전혀 그렇지 않았습니다.<br><br>할아버지는 아무 죄도 없이 세상을 떠나셨는데 백호파 자켓을 입은 아저씨들은 마냥 즐거운 듯 거리를 활보하셨습니다.<br>그리고 그 모습을 보는 사람들은 아무 말도 하지 않고 시선을 피할 뿐이었습니다. 세상이 정말 너무나도 싫었습니다.<br><br>어느날 뉴스에서 백호파를 혼내주시던 $CompanyName$의 활약을 보고 열심히 응원하였습니다.<br>그리고 어제 저는 뉴스를 보다가 울지 않을 수 없었습니다.<br><br>나쁜 녀석들이 혼날 수 있는 세상.<br><br>그런 세상을 만들어주셔서 진심으로 감사합니다.	[!SystemMail][colour='FFFFE959']我的爷爷$CivilName$是在一年前的月光大街，被白虎组的刀客夺去性命而牺牲了。<br><br>爷爷常对我说要做好事，做坏事是会受罚的。<br>但是我看到的世界完全不是这样子的。<br><br>爷爷毫无罪过却离开了人世，但是穿着白虎组夹克的人们却开心的在街上横行。<br>而且看着那个样子的人们却什么话也不说，只是在避开视线。我真的是非常厌恶这样的世界。<br><br>但是在某一天，我在新闻上看到了教训了白虎组的$CompanyName$后就开始为你们助威了。<br>而且在昨天我看着新闻忍不住流出了泪水。<br><br>坏人们受到惩罚的世界。<br><br>真心地感谢你们创造出了这样的世界。
 #24320	[!SystemMail]발할라 시립 장례지원 센터	[!SystemMail]巴赫拉公立丧葬支援中心
-#24321	[!SystemMail][colour='FFFFE959']발할라 시립 장례지원 센터입니다.<br><br>가족 분이 없으신 $CivilName$[이] 남기신 유언장에 따라  $CivilName$의 모든 재산을 $CompanyName$에 기탁하셨습니다.<br><br>[colour='FFFFFFAA']유언장 전문 요약: <br>[colour='FFFFAA00']바람장벽지구의 백호파 보스 푸를 법의 심판을 받게 하는 자에게 내 전재산을 양도한다.[colour='FFFFE959']<br><br>해당 지원금은 발할라 민법에 따라 $CompanyName$의 소유가 되었음을 알려드리며 해당 금액을 보내드립니다.<br><br>고인의 명복을 빌어주시길 바랍니다.	[!SystemMail][colour='FFFFE959']这里是巴赫拉公立丧葬支援中心。<br><br>根据没有家人的$CivilName$所剩下的遗嘱，将把$CivilName$的所有资产捐赠给$CompanyName$。<br><br>[colour='FFFFFFAA']遗嘱的全文摘要: <br>[colour='FFFFAA00']审判风之壁地区的白虎组普的人将拥有我所有的财产。[colour='FFFFE959']<br><br>根据巴赫拉的民法，该财产已经成为了$CompanyName$的所有。这就是相应的金额。<br><br>愿死者安息。
+#24321	[!SystemMail][colour='FFFFE959']발할라 시립 장례지원 센터입니다.<br><br>가족 분이 없으신 $CivilName$[이] 남기신 유언장에 따라  $CivilName$의 모든 재산을 $CompanyName$에 기탁하셨습니다.<br><br>[colour='FFFFFFAA']유언장 전문 요약: <br>[colour='FFFFAA00']바람장벽지구의 백호파 보스 푸를 법의 심판을 받게 하는 자에게 내 전재산을 양도한다.[colour='FFFFE959']<br><br>해당 지원금은 발할라 민법에 따라 $CompanyName$의 소유가 되었음을 알려드리며 해당 금액을 보내드립니다.<br><br>고인의 명복을 빌어주시길 바랍니다.	[!SystemMail][colour='FFFFE959']这里是巴赫拉公立丧葬支援中心。<br><br>根据没有家人的$CivilName$所剩下的遗嘱，将把$CivilName$的所有资产捐赠给$CompanyName$。<br><br>[colour='FFFFFFAA']遗嘱的全文摘要：<br>[colour='FFFFAA00']审判风之壁地区的白虎组普的人将拥有我所有的财产。[colour='FFFFE959']<br><br>根据巴赫拉的民法，该财产已经成为了$CompanyName$的所有。这就是相应的金额。<br><br>愿死者安息。
 #24322	[!SystemMail][colour='FFFFE959']언제나 고생하시는 트러블슈터 여러분 감사합니다.<br><br>솔직히 여러분의 사건 해결 소식을 보면서도 언제나 10년 전의 악몽에 갇혀 있었습니다.<br><br>10년 전 전 이 지구에서 많은 활약을 했던 트러블슈터 회사의 팬이었습니다.<br><br>사람들에게 그 회사를 지원하고 응원하였습니다.<br><br>하지만 어느 순간부터 그 회사는 우리들의 요구에 반응을 하지 않게 되었습니다.<br><br>저희가 쓴소리를 하자 결국 문을 닫아 버렸습니다.<br><br>배신감이 너무나도 컸습니다.<br><br>그래서 $CompanyName$의 활약을 받아들이기 어려웠습니다.<br><br>하지만 지금 이 순간 전 $CompanyName$의 팬입니다.<br><br>여러분이 걸어가는 길을 응원하고 지원하겠습니다!<br><br>정말 수고하셨습니다!	[!SystemMail][colour='FFFFE959']谢谢一直辛苦无比的纷争终结者们。<br><br>说实话即使我看到了你们解决事件的消息，可我还是被关在了10年前的噩梦中。<br><br>在10年前，我是个声援着一个很活跃的纷争终结者的粉丝<br><br>我一直都在向那公司加油助威。<br><br>但不知从何时起，该公司就不再回应我们的要求了。<br><br>我们一直想向他们诉苦的，可他们最终却关了门。<br><br>当时受到的背叛感非常大。<br><br>所以就很难接受$CompanyName$的活跃表现。<br><br>但是现在这一瞬间，我成了$CompanyName$的粉丝。<br><br>将支援你们的所有一切！<br><br>真的是辛苦了！
 #24323	[!SystemMail][colour='FFFFE959'] 안녕! 난 $CivilName$ 라고 해. <br><br>엄마가 너희가 짱이래!<br><br>나도 그렇게 생각해!<br><br>힘내! 트러블슈터.	[!SystemMail][colour='FFFFE959'] 你好！我叫$CivilName$。<br><br>妈妈说你们最棒！<br><br>我也是那样想的！<br><br>加油！纷争终结者。
 #24324	[!SystemMail]$CompanyName$! 만세!	[!SystemMail]$CompanyName$！万岁！
 #24325	[!SystemMail]사수거리 상인 연합회 일동	[!SystemMail]射手街商人联合全体
 #24326	[!SystemMail][colour='FFFFE959'] 꾸준히 사수거리를 이용해 주시고 의뢰를 수행해주시는 $CompanyName$에게 사수거리 상인들이 한 마음을 담아 감사를 표합니다.<br><br>약소하나마 활동 지원금으로 사용하시기를 바랍니다.	[!SystemMail][colour='FFFFE959']我们射手街商人联合全体向不断使用射手街且执行委托的$CompanyName$表示感谢。<br><br>希望能将这微小的资金用在活动支援金上。
-#24327	[!SystemMail][colour='FFFFE959']저의 아이 $CivilName$을 구해주셔서 감사합니다.<br><br>부끄럽게도 저의 남편이자 $CivilName$의 아버지는 백호파 조직원입니다.<br><br>백호파의 말단 조직원이던 그는 언제나 가족들에게 폭언과 폭력을 서슴치 않았습니다.<br><br>그리고 그 과정에서도 백호파라는 이름이 가져다주는 이득을 자랑스럽게 생각하고 있었습니다.<br><br>저는 제 아이가 이런 못난 아버지를 따라갈까봐 매일같이 불안에 떨어야 했습니다.<br><br>오늘 아이가 백호파 해체 관련 뉴스를 보고 더는 아버지가 백호파에 가지 않아도 될 것 같다고 행복한 웃음을 짓고 있었습니다.<br><br>아이도 자신의 아버지가 부끄러웠던 것 입니다.<br><br>평생 이런 기회는 오지 않을 줄 알았습니다.<br><br>그런 기적을 만들어주셔서 감사합니다.	[!SystemMail][colour='FFFFE959']谢谢你们救出我的孩子$CivilName$。<br><br>惭愧的是，我的丈夫，同时也是身为$CivilName$的父亲却曾是一名白虎组的组员。<br><br>白虎组下层组员的他总是向着家人发出恶言和暴力。<br><br>而且在那过程中，丈夫他一直对白虎组的名号所带来的利益而自豪。<br><br>我怕自己的孩子跟着这个不争气的父亲学，每天都在不安中颤抖。<br><br>今天孩子看到了有关白虎组解散的新闻，幸福地笑着说道“爸爸再也用不着去白虎组了”。<br><br>看来孩子也是为自己的父亲而感到羞愧。<br><br>本以为这辈子不会有这样的机会。<br><br>谢谢你们创造了这样的奇迹。
+#24327	[!SystemMail][colour='FFFFE959']저의 아이 $CivilName$을 구해주셔서 감사합니다.<br><br>부끄럽게도 저의 남편이자 $CivilName$의 아버지는 백호파 조직원입니다.<br><br>백호파의 말단 조직원이던 그는 언제나 가족들에게 폭언과 폭력을 서슴치 않았습니다.<br><br>그리고 그 과정에서도 백호파라는 이름이 가져다주는 이득을 자랑스럽게 생각하고 있었습니다.<br><br>저는 제 아이가 이런 못난 아버지를 따라갈까봐 매일같이 불안에 떨어야 했습니다.<br><br>오늘 아이가 백호파 해체 관련 뉴스를 보고 더는 아버지가 백호파에 가지 않아도 될 것 같다고 행복한 웃음을 짓고 있었습니다.<br><br>아이도 자신의 아버지가 부끄러웠던 것 입니다.<br><br>평생 이런 기회는 오지 않을 줄 알았습니다.<br><br>그런 기적을 만들어주셔서 감사합니다.	[!SystemMail][colour='FFFFE959']谢谢你们救出我的孩子$CivilName$。<br><br>惭愧的是，我的丈夫，同时也是身为$CivilName$的父亲却曾是一名白虎组的组员。<br><br>白虎组下层组员的他总是向着家人发出恶言和暴力。<br><br>而且在那过程中，丈夫他一直对白虎组的名号所带来的利益而自豪。<br><br>我怕自己的孩子跟着这个不争气的父亲学，每天都在不安中颤抖。<br><br>今天孩子看到了有关白虎组解散的新闻，幸福地笑着说道「爸爸再也用不着去白虎组了」。<br><br>看来孩子也是为自己的父亲而感到羞愧。<br><br>本以为这辈子不会有这样的机会。<br><br>谢谢你们创造了这样的奇迹。
 #24328	[!SystemMail]안녕하세요. 댄디라이언입니다.	[!SystemMail]您好，这是丹迪瑞恩。
 #24329	[!SystemMail]댄디라이언	[!SystemMail]丹迪瑞恩
 #24330	[!SystemMail][colour='FFFFE959']안녕하세요. 댄디라이언입니다.<br><br>저희는 $CompanyName$의 활약에 감명받아 게임으로 만들고 있는 작은 게임 개발팀입니다!<br><br>아직은 작은 회사이다보니 $CompanyName$의 활약을 어떻게 재미있게 표현할 수 있을 지 매일같이 고민하고 있습니다!<br><br>아직은 실력이 여타 개발사만큼 뛰어나지 못하지만 $CompanyName$의 성장 이야기처럼 열심히 노력하여 멋진 회사를 목표로 하고 있습니다.<br><br>$CompanyName$[이] 보여주신 멋진 활약!<br><br>누구나 즐겁게 즐길 수 있고 공감할 수 있는 게임으로 만들도록 최선을 다하겠습니다!<br><br>저희에게 이런 기회를 준 $CompanyName$[을] 언제나 응원하겠습니다!<br><br>감사합니다!	[!SystemMail][colour='FFFFE959']您好，这是丹迪瑞恩。<br><br>我们是被$CompanyName$的活跃表现所感动，正在以此用于开发游戏的开发团队！<br><br>因为还是个小公司，所以每天都在苦恼着如何才能更有趣的表达出$CompanyName$的活跃！<br><br>虽然目前实力还不及其他开发公司，但就像$CompanyName$的成长故事一样，将会努力奋斗争取，目标是成为一个优秀的公司。<br><br>$CompanyName$展现出的精彩的作品！<br><br>我们会尽最大努力，把游戏制作成任何人都可以愉快的享受和理解的游戏！<br><br>我们会对给予了我们这样机会的$CompanyName$助威加油的！<br><br>谢谢！
