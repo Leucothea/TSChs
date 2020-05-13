@@ -311,7 +311,7 @@
 #681	[!GuideMessage]$item$을(를) $count$개 획득했습니다.	[!GuideMessage]获得$count$个$item$。
 #682	[!GuideMessage]$item$ $count$개를 주었습니다	[!GuideMessage]给出$item$$count$个。
 #683	[!GuideMessage]$item$을(를) $count$개 받았습니다.	[!GuideMessage]接受$count$个$item$。
-#686	[!GuideMessage]처음 화면으로 이동합니다.	[!GuideMessage]跳转到初始画面。
+#686	[!GuideMessage]처음 화면으로 이동합니다.	[!GuideMessage]将跳转到主界面。
 #689	[!GuideMessage]%s 특성을 획득하였습니다	[!GuideMessage]获得%s天赋
 #692	[!GuideMessage]해당 특성은 추출이 불가능합니다.	[!GuideMessage]该天赋无法提取。
 #693	[!GuideMessage]필요 훈련 점수 %d	[!GuideMessage]需要%d个训练点数
@@ -483,9 +483,9 @@
 #996	[!Item]신록 가루	[!Item]新绿粉末
 #997	[!Item]신록 원소	[!Item]新绿元素
 #998	[!Item]신록 파편	[!Item]新绿碎片
-#999	[!Item]대마법사 반지	[!Item]大魔法师戒指
+#999	[!Item]대마법사 반지	[!Item]大魔导士戒指
 #1000	[!Item]지옥불 반지	[!Item]地狱火戒指
-#1001	[!Item]마법사 반지	[!Item]魔法师戒指
+#1001	[!Item]마법사 반지	[!Item]魔导士戒指
 #1002	[!Item]마술사 반지	[!Item]魔术师戒指
 #1003	[!Item]현자 반지	[!Item]贤者戒指
 #1004	[!Item]야수의 가죽	[!Item]野兽之皮
@@ -715,7 +715,7 @@
 #1641	[!Mastery]번개 내성 III	[!Mastery]闪电耐性(三)
 #1644	[!Mastery]피뢰침	[!Mastery]避雷针
 #1647	[!Mastery]번개 가죽	[!Mastery]闪电皮革
-#1650	[!Mastery]고독한 히어로	[!Mastery]孤独的英雄
+#1650	[!Mastery]고독한 히어로	[!Mastery]英雄寂寞
 #1653	[!Mastery]외톨이 늑대	[!Mastery]孤狼
 #1656	[!Mastery]증오의 군주	[!Mastery]憎恨的君主
 #1659	[!Mastery]행운의 숫자 8	[!Mastery]幸运数字-8
@@ -754,8 +754,8 @@
 #1757	[!Mastery]방화광	[!Mastery]纵火狂
 #1759	[!Mastery]사나운 불꽃	[!Mastery]凶猛的火花
 #1762	[!Mastery]신속한 대응	[!Mastery]反应迅速
-#1764	[!Mastery]은둔자	[!Mastery]隐居者
-#1767	[!Mastery]분쇄	[!Mastery]粉碎
+#1764	[!Mastery]은둔자	[!Mastery]隐者
+#1767	[!Mastery]분쇄	[!Mastery]碎劲
 #1772	[!Mastery]울부짖는 불길	[!Mastery]咆哮的火光
 #1776	[!Mastery]현자	[!Mastery]贤者
 #1779	[!Mastery]청소부	[!Mastery]清道夫
@@ -1352,7 +1352,7 @@
 #3188	[!WordCollection]생존자	[!WordCollection]幸存者
 #3189	[!WordCollection]상징색	[!WordCollection]代表色
 #3190	[!WordCollection]메인 메뉴로 가기	[!WordCollection]返回主页面
-#3191	[!WordCollection]바탕 화면으로 나가기	[!WordCollection]退到桌面
+#3191	[!WordCollection]바탕 화면으로 나가기	[!WordCollection]退出游戏
 #3193	[!WordCollection]임무 포기	[!WordCollection]放弃任务
 #3194	[!WordCollection]시스템	[!WordCollection]系统
 #3195	[!WordCollection]작업 대상	[!WordCollection]作业对象
@@ -1468,7 +1468,7 @@
 #3412	[!Job]티마	[!Job]蒂玛
 #3417	[!Mastery]블러드워커	[!Mastery]血海行者
 #3420	[!Mastery]쾌활함	[!Mastery]爽快
-#3426	[!Mastery]굶주린 늑대	[!Mastery]饥饿的豺狼
+#3426	[!Mastery]굶주린 늑대	[!Mastery]饿狼
 #3434	[!Mastery]반항	[!Mastery]反抗
 #3437	[!Mastery]책임감	[!Mastery]责任感
 #3440	[!Mastery]정의감	[!Mastery]正义感
@@ -2378,7 +2378,7 @@
 #4813	[!WordCollection]최근 접속한 회사	[!WordCollection]最近连接的公司
 #4814	[!WordCollection]이어서 하기	[!WordCollection]继续游戏
 #4815	[!WordCollection]회사 변경	[!WordCollection]变更公司
-#4816	[!WordCollection]새로운 회사 만들기	[!WordCollection]成立新公司
+#4816	[!WordCollection]새로운 회사 만들기	[!WordCollection]成立公司
 #4817	[!WordCollection]옵션	[!WordCollection]选项
 #4819	[!WordCollection]미등록 회사	[!WordCollection]未注册公司
 #4820	[!Buff]격앙	[!Buff]激昂
@@ -2938,7 +2938,7 @@
 #5831	[!SystemMenu]난이도 설정	[!SystemMenu]难度选择
 #5833	[!SystemMenu]환경 설정	[!SystemMenu]环境设置
 #5834	[!SystemMenu]임무 포기	[!SystemMenu]放弃任务
-#5835	[!SystemMenu]메인 메뉴로 가기	[!SystemMenu]返回主菜单
+#5835	[!SystemMenu]메인 메뉴로 가기	[!SystemMenu]返回主界面
 #5839	[!WordCollection]보상 내역 계산 중...	[!WordCollection]计算奖励内容...
 #5840	[!WordCollection][!Menu]회사 등급	[!WordCollection][!Menu]公司级别
 #5841	[!WordCollection]대표 캐릭터 변경	[!WordCollection]变更代表角色
@@ -4575,7 +4575,7 @@
 #8211	[!Item]자홍빛 자켓	[!Item]紫红夹克
 #8212	[!Item]자홍거리에서 유통되는 트러블슈터 자켓의 강화 버전. 뒷세계에서 매우 인기 있는 자켓이다.	[!Item]紫红街流通的纷争终结者夹克的加强版。是一款在地下世界里非常有人气的夹克。
 #8213	[!Item]자홍빛 반지	[!Item]紫红戒指
-#8214	[!Item]자홍거리에서 유통되는 마법사 반지의 강화된 버전. 뒷세계에서 매우 인기 있는 반지이다.	[!Item]紫红街流通的魔法师戒指的加强版。是一款在地下世界里非常有人气的戒指。
+#8214	[!Item]자홍거리에서 유통되는 마법사 반지의 강화된 버전. 뒷세계에서 매우 인기 있는 반지이다.	[!Item]紫红街流通的魔导士戒指的加强版。是一款在地下世界里非常有人气的戒指。
 #8215	[!Item]자홍빛 운동화	[!Item]紫红运动鞋
 #8216	[!Item]자홍거리에서 유통되는 전투 운동화의 강화된 버전. 뒷세계에서 매우 인기 있는 신발이다.	[!Item]紫红街流通的战斗运动鞋的加强版。是一款在地下世界里非常有人气的鞋子。
 #8217	[!Item]자홍빛 카본 블레이드	[!Item]紫红石墨剑
@@ -4769,8 +4769,8 @@
 #8518	[!Buff]바람 장막	[!Buff]暴风帷幕
 #8519	[!CriticalStrikeChanceCondition]목표 거리	[!CriticalStrikeChanceCondition]目标距离
 #8525	[!Item]모험가 부츠	[!Item]冒险家靴子
-#8529	[!Item]자홍빛 대마법사 반지	[!Item]紫红大魔法师戒指
-#8530	[!Item]자홍거리에서 유통되는 대마법사 반지의 강화된 버전. 뒷세계에서 매우 인기 있는 반지이다.	[!Item]紫红街流通的大魔法师戒指的加强版。是一款在地下世界里非常有人气的戒指。
+#8529	[!Item]자홍빛 대마법사 반지	[!Item]紫红大魔导士戒指
+#8530	[!Item]자홍거리에서 유통되는 대마법사 반지의 강화된 버전. 뒷세계에서 매우 인기 있는 반지이다.	[!Item]紫红街流通的大魔导士戒指的加强版。是一款在地下世界里非常有人气的戒指。
 #8531	[!Item]바람술사 반지	[!Item]暴风术士戒指
 #8535	[!Loading]철의 숲 물류 캠프	[!Loading]铁森林物流基地
 #8536	[!Loading]가면 속의 그림자	[!Loading]面具背后的影子
@@ -4783,7 +4783,7 @@
 #8548	[!Mastery]아지랑이	[!Mastery]地气
 #8550	[!Mastery]네가 원하는 걸 얻으려면 좀 더 위험을 무릎쓰고 가까이 오란 말이다!	[!Mastery]想要获得你想要的东西，要不顾危险，再靠近一点啊！
 #8552	[!Mastery]너의 의지가 너의 힘이 될 지어다.	[!Mastery]你的意志将会成为你的力量。
-#8553	[!Mastery]마법사	[!Mastery]魔法师
+#8553	[!Mastery]마법사	[!Mastery]魔导士
 #8555	[!Mastery]눈을 감고도 할 줄 알아야지.	[!Mastery]就算闭上眼睛，也能做得到。
 #8556	[!Mastery]익숙한 솜씨	[!Mastery]熟练的手法
 #8559	[!Mastery]자네의 영혼은 내가 사겠네.	[!Mastery]你的灵魂我要定了。
@@ -6112,7 +6112,7 @@
 #10386	[!GuideMessage]목표 대상과의 거리가 멀어질수록 $White$1$Blue_ON$ 타일 당 적에게 입히는 피해량이 $DistanceAttackApplyAmountRatio$ 증가합니다.	[!GuideMessage]与目标对象之间的距离越远，每$White$1$Blue_ON$格对应的对敌人造成的伤害量增加$DistanceAttackApplyAmountRatio$。
 #10387	[!GuideMessage]무방비 노출 상태의 대상에게 입히는 피해량이 $NoCoverAttackApplyAmountRatio$ 증가합니다.	[!GuideMessage]对完全暴露状态下的目标造成的伤害量将会增加$NoCoverAttackApplyAmountRatio$。
 #10388	[!GuideMessage]명중 시 방어 불가	[!GuideMessage]命中时无法格挡
-#10389	[!GuideMessage]%s 특성 슬롯이 %s 증가합니다.	[!GuideMessage]%s天赋栏%s将会增加。
+#10389	[!GuideMessage]%s 특성 슬롯이 %s 증가합니다.	[!GuideMessage]%s天赋栏将会增加%s。
 #10390	[!GuideMessage]이미 사용 중인 직업입니다.	[!GuideMessage]该职业已经在使用中。
 #10391	[!GuideMessage][colour='FFFFE959']최대 [colour='FFFFFFFF']%d[colour='FFFFE959']레벨까지 중첩됩니다.	[!GuideMessage][colour='FFFFE959']最高可叠加到[colour='FFFFFFFF']%d[colour='FFFFE959']等级。
 #10393	[!GuideMessage]해당 직업은 아직 사용할 수 없습니다.	[!GuideMessage]该职业目前尚不可用。
@@ -6125,7 +6125,7 @@
 #10403	[!Mastery]하늘을 베고 땅을 가른다.	[!Mastery]斩天劈地。
 #10404	[!Mastery]마검	[!Mastery]魔剑
 #10406	[!Mastery]승리에 우연이란 없다.	[!Mastery]胜利不存在偶然。
-#10407	[!Mastery]무술	[!Mastery]武术
+#10407	[!Mastery]무술	[!Mastery]武道
 #10409	[!Mastery]모든 것은 상쇄되기 마련이다.	[!Mastery]所有的一切都会相互抵消。
 #10410	[!Mastery]무력화	[!Mastery]无力化
 #10412	[!Mastery]모든 능력은 널리 인간을 이롭하기 위해 사용해야 한다.	[!Mastery]所有的能力，需要用于造福人类。
@@ -6207,7 +6207,7 @@
 #10571	[!GuideMessage][colour='FFFFFFFF']%s[colour='%s'] 계열 무기 중 하나를 사용할 수 있어야 합니다.	[!GuideMessage]需要学习[colour='FFFFFFFF']%s[colour='%s']系的武器之一。
 #10572	[!GuideMessage][colour='FFFFFFFF']%s[colour='%s'] 계열 무기를 사용할 수 있어야 합니다.	[!GuideMessage]需要学习[colour='FFFFFFFF']%s[colour='%s']系的武器。
 #10594	[!Mastery]자신의 능력을 믿어라.	[!Mastery]相信自己。
-#10595	[!Mastery]마력 융합로	[!Mastery]魔力融合炉
+#10595	[!Mastery]마력 융합로	[!Mastery]魔力融炉
 #10606	[!Mastery]일은 나눠서 처리해야 효율이 좋은 법이지.	[!Mastery]分工作业效果好。
 #10607	[!Mastery]보조 마력 회로	[!Mastery]辅助魔力回路
 #10613	[!WordCollection]캐릭터 레벨	[!WordCollection]角色等级
@@ -6289,8 +6289,8 @@
 #10695	[!GuideMessage]연쇄 - $GroupName$	[!GuideMessage]连锁 - $GroupName$
 #10696	[!GuideMessage]선택 조건 %d	[!GuideMessage]选择条件 %d
 #10697	[!GuideMessage][colour='FFFFFFFF']%s[colour='%s'] 캐릭터만 가능합니다.	[!GuideMessage]只有[colour='FFFFFFFF']%s[colour='%s']角色可能。
-#10699	[!Mastery]인내의 시간만이 대마법사를 탄생시킨다.	[!Mastery]忍耐得够久就会转职为大魔法师。
-#10700	[!Mastery]대마법사	[!Mastery]大魔法师
+#10699	[!Mastery]인내의 시간만이 대마법사를 탄생시킨다.	[!Mastery]忍耐得够久就会转职为大魔导士。
+#10700	[!Mastery]대마법사	[!Mastery]大魔导士
 #10702	[!Mastery]내가 원하는 곳에 잠들리라.	[!Mastery]我将在愿望之地沉睡。
 #10703	[!Mastery]아발론	[!Mastery]理想乡
 #10704	[!Mastery]방향을 바꾸면 위력은 대폭 줄어들지.	[!Mastery]改变方向，威力就大打折扣了。
@@ -6337,8 +6337,8 @@
 #10797	[!Mastery]기적	[!Mastery]奇迹
 #10799	[!Mastery]눈으로 목표를 쫓는 순간 이미 늦었어.	[!Mastery]用眼睛追赶目标时，就说明为时已晚。
 #10800	[!Mastery]엄폐 이동	[!Mastery]隐蔽移动
-#10802	[!Mastery]유연함이 강함을 이긴다.	[!Mastery]以柔克刚
-#10803	[!Mastery]화경	[!Mastery]化境
+#10802	[!Mastery]유연함이 강함을 이긴다.	[!Mastery]以柔克刚。
+#10803	[!Mastery]화경	[!Mastery]化劲
 #10805	[!Mastery]적이 알아채지 못하는 곳에서 시작한다.	[!Mastery]从敌人未察觉的地方开始。
 #10806	[!Mastery]재빠른 손놀림	[!Mastery]灵活之手
 #10808	[!Mastery]흐르는 피의 댓가를 잊지마라.	[!Mastery]别忘了流血的代价。
@@ -6371,8 +6371,8 @@
 #10862	[!Ability]레서류 4식 - 화륜마차	[!Ability]蕾西流4式 - 火轮马车
 #10863	[!Ability]레서류 5식 - 낚아채기	[!Ability]蕾西流5式 - 截取
 #10864	[!Ability]레서류 비기 - 화염폭발	[!Ability]蕾西流密技 - 火焰爆发
-#10865	[!Ability]마법 회로를 가속시켜 $ApplyBuff$ 상태가 됩니다.<br><br>$Perano$마법 가속 상태가 해제된 이후 부터 어빌리티 재사용 대기 시간이 적용됩니다.$Blue_ON$	[!Ability]加速魔法回路，进入$ApplyBuff$状态。<br><br>$Perano$魔法加速状态被移除后，才会开始计入技能冷却时间。$Blue_ON$
-#10866	[!Ability]마법 가속	[!Ability]魔法加速
+#10865	[!Ability]마법 회로를 가속시켜 $ApplyBuff$ 상태가 됩니다.<br><br>$Perano$마법 가속 상태가 해제된 이후 부터 어빌리티 재사용 대기 시간이 적용됩니다.$Blue_ON$	[!Ability]加速魔法回路，进入$ApplyBuff$状态。<br><br>$Perano$魔力加速状态被移除后，才会开始计入技能冷却时间。$Blue_ON$
+#10866	[!Ability]마법 가속	[!Ability]魔力加速
 #10868	[!Buff]적 처치 시, 적을 처치한 수만큼 기력이 소모됩니다.	[!Buff]击杀敌人时，根据击杀的数量，消耗自身的气力。
 #10869	[!Buff]시야 내 지정된 영역 안에서 행동하는 모든 적에게 최대 1회의 반응 공격을 합니다.	[!Buff]对于视野内指定区域活动的所有敌人，造成最多1次的反应攻击。
 #10870	[!Buff]제로의 영역	[!Buff]零的领域
@@ -6396,7 +6396,7 @@
 #10901	[!Mastery]이에는 이, 눈에는 눈.	[!Mastery]以眼还眼，以牙还牙
 #10902	[!Mastery]철갑탄	[!Mastery]铁甲弹
 #10904	[!Mastery]나의 영혼에 부응하라.	[!Mastery]顺应我的灵魂吧。
-#10905	[!Mastery]마법 가속	[!Mastery]魔法加速
+#10905	[!Mastery]마법 가속	[!Mastery]魔力加速
 #10906	[!Mastery]한 번 가동하기 시작하면 반 영구적이지.	[!Mastery]一旦启动，就是半永久性的了。
 #10909	[!Mastery]더 강한 힘으로 제압한다.	[!Mastery]用更加强大的力量去镇压。
 #10910	[!Mastery]마력장	[!Mastery]魔力场
@@ -6424,17 +6424,17 @@
 #10950	[!Mastery]여유가 날 때 부지런해야 한다.	[!Mastery]有闲暇的时候要勤奋些。
 #10951	[!Mastery]마력 복사	[!Mastery]魔力复制
 #10953	[!Mastery]작은 틈이 있다면 충분히 해낼 수 있다.	[!Mastery]只要有细小的缝隙，就充分可以做成。
-#10954	[!Mastery]틈새의 마력	[!Mastery]缝隙的魔力
-#10956	[!Mastery]마력 회수	[!Mastery]魔力收回
+#10954	[!Mastery]틈새의 마력	[!Mastery]魔力缝隙
+#10956	[!Mastery]마력 회수	[!Mastery]魔力回收
 #10957	[!Mastery]정신 집중!	[!Mastery]精神集中！
 #10958	[!Mastery]마력 강타	[!Mastery]魔力猛击
 #10960	[!Mastery]검술서	[!Mastery]剑术秘笈
 #10964	[!Mastery]마녀의 책	[!Mastery]魔女之书
 #10965	[!MasteryType]전투법사	[!MasteryType]战斗法师
 #10966	[!MasteryType]원소술사	[!MasteryType]元素术士
-#10967	[!Ability]마법 가속 해제	[!Ability]解除魔法加速
+#10967	[!Ability]마법 가속 해제	[!Ability]解除魔力加速
 #10968	[!Ability]마력 증폭 해제	[!Ability]解除魔力增幅
-#10971	[!Buff]마법 가속	[!Buff]魔法加速
+#10971	[!Buff]마법 가속	[!Buff]魔力加速
 #10975	[!Status]초능력 공격 피해량	[!Status]超能力攻击伤害
 #10976	[!Status][!Short]초능력 공격 피해량	[!Status][!Short]超能力攻击伤害
 #10977	[!Status]물리 공격 피해량	[!Status]物理攻击伤害
@@ -6449,7 +6449,7 @@
 #10996	[!GuideMessage][colour='FFFFE959']이미 연구 가능한 특성입니다.	[!GuideMessage][colour='FFFFE959']已经可研究的天赋。
 #10998	[!Buff]시야가 3 상승합니다. 공격력이 100 상승합니다.	[!Buff]视野增加3格。攻击力增强100。
 #10999	[!Buff]침입자 경계	[!Buff]警戒入侵者
-#11000	[!Buff]마법 가속 상태에서 초능력 공격 어빌리티를 사용 시, 어빌리티 사용 후 사용한 어빌리티의 기력량만큼 추가로 소모됩니다.	[!Buff]魔法加速状态下使用超能力攻击技能时，技能使用后将会额外消耗用掉的气力等量的气力值。
+#11000	[!Buff]마법 가속 상태에서 초능력 공격 어빌리티를 사용 시, 어빌리티 사용 후 사용한 어빌리티의 기력량만큼 추가로 소모됩니다.	[!Buff]魔力加速状态下使用超能力攻击技能时，技能使用后将会额外消耗用掉的气力等量的气力值。
 #11001	[!Buff]$Perano$초능력 공격 어빌리티 사용 시, 자동 해제됩니다.$Blue_ON$	[!Buff]$Perano$使用超能力技能时，将会自动移除。$Blue_ON$
 #11002	[!Mission]마약 거래중인 갱단 보스를 체포하라	[!Mission]请抓捕毒品交易中的黑帮首领
 #11004	[!Buff]매 턴 시작 시, 기력이 회복되지 않습니다. 특성, 어빌리티등으로 인하여 기력이 회복될 경우, 회복된 기력량만큼 고정 피해를 입습니다.	[!Buff]每个回合开始时，无法恢复气力。因为天赋、技能等原因而恢复气力时，恢复的气力值转化为固定的伤害量反噬自己。
@@ -6470,7 +6470,7 @@
 #11037	[!Mastery]유쾌한 마녀	[!Mastery]快乐的魔女
 #11041	[!Mastery]통제 불가능한 힘이란 없지.	[!Mastery]没有不能控制的力量。
 #11042	[!Mastery]마력 제어	[!Mastery]法力控制
-#11044	[!Mastery]은둔하고 있는 마법사와 현자가 사는 곳이지.	[!Mastery]隐居的魔法师和贤者居住的地方呢。
+#11044	[!Mastery]은둔하고 있는 마법사와 현자가 사는 곳이지.	[!Mastery]隐居的魔导士和贤者居住的地方呢。
 #11045	[!Mastery]약속의 땅	[!Mastery]约定之地
 #11046	[!Mastery]너 한 번, 나 두 번.	[!Mastery]你一次，我两次。
 #11047	[!Mastery]속사	[!Mastery]速射
@@ -6478,7 +6478,7 @@
 #11050	[!Mastery]반복 훈련	[!Mastery]反复训练
 #11055	[!Mastery]네 안의 잠재력을 믿어라	[!Mastery]请相信你拥有的潜力吧。
 #11056	[!Mastery]샘솟는 마력	[!Mastery]喷薄而出的法力
-#11058	[!Mastery]대마법사에게 필요한 것은 인내심이다.	[!Mastery]大魔法师所需的是耐心。
+#11058	[!Mastery]대마법사에게 필요한 것은 인내심이다.	[!Mastery]大魔导士所需的是耐心。
 #11059	[!Mastery]마도의 길	[!Mastery]魔道之路
 #11061	[!Mastery]확실하게 끝내주마.	[!Mastery]这次就好好了结了。
 #11062	[!Mastery]이것이 마지막이다.	[!Mastery]这是最后一次了
@@ -6893,11 +6893,11 @@
 #11647	[!ItemIdentify]쾌속의 %s	[!ItemIdentify]快速的%s
 #11648	[!ItemIdentify]근원의 %s	[!ItemIdentify]根源的%s
 #11650	[!Mastery]기회는 스스로 만드는 것이다.	[!Mastery]机会是自己创造的。
-#11651	[!Mastery]자세 무너뜨리기	[!Mastery]架势崩溃
+#11651	[!Mastery]자세 무너뜨리기	[!Mastery]崩劲
 #11653	[!Mastery]지금 널 보고 있다.	[!Mastery]现在正在看着你。
 #11654	[!Mastery]추적하는 눈	[!Mastery]追踪之眼
 #11656	[!Mastery]손을 놓는 순간 승부는 결정된다.	[!Mastery]放弃的瞬间，胜负已定。
-#11657	[!Mastery]맞잡고 싸우기	[!Mastery]肉搏战
+#11657	[!Mastery]맞잡고 싸우기	[!Mastery]人尽敌国
 #11659	[!Mastery]휴식은 미래를 위한 첫걸음이다.	[!Mastery]休息是为了未来的第一步。
 #11660	[!Mastery]밤의 수호자	[!Mastery]夜的守护者
 #11662	[!Mastery]모든 것은 흐름이다.	[!Mastery]一切都是流动。
@@ -7401,7 +7401,7 @@
 #12374	[!WordCollection]활성화된 추가 효과만 보기	[!WordCollection]只查看激活的组合天赋
 #12375	[!Mission]철의 숲 자원개발구역	[!Loading]铁森林资源管理区
 #12377	[!Buff]정신적인 상태 이상에 면역이 됩니다.	[!Buff]免疫精神异常状态。
-#12379	[!Mastery]마법 이론에 심취한 마법사는 현자가 되었고 마녀의 책에 빠진 현자는 대마녀가 되었다.	[!Mastery]对魔法理论着迷的魔法师成为了贤者，而对魔女的书着迷的贤者成为了一名大魔女。
+#12379	[!Mastery]마법 이론에 심취한 마법사는 현자가 되었고 마녀의 책에 빠진 현자는 대마녀가 되었다.	[!Mastery]对魔法理论着迷的魔导士成为了贤者，而对魔女的书着迷的贤者成为了一名大魔女。
 #12380	[!Mastery]대마녀	[!Mastery]大魔女
 #12382	[!Mastery]생명은 모든 것을 풍요롭게 해주지.	[!Mastery]生命丰富了一切。
 #12383	[!Mastery]생명의 온기	[!Mastery]生命的温暖
@@ -8806,7 +8806,7 @@
 #14898	[!Mastery]절대 빠져나갈 수 없어.	[!Mastery]绝对逃不出。
 #14899	[!Mastery]강력한 덫	[!Mastery]陷阱强化
 #14905	[!ObjectInfo]자베르	[!ObjectInfo]沙威
-#14909	[!Mastery]마법사라면, 마력을 이론에 근거하여 가속시켜 적의 저항력을 무너뜨리는 강력한 힘을 낼 수 있지.	[!Mastery]如果是魔法师，就能根据理论增强魔力，获得能够破坏敌人抵抗力的强大力量。
+#14909	[!Mastery]마법사라면, 마력을 이론에 근거하여 가속시켜 적의 저항력을 무너뜨리는 강력한 힘을 낼 수 있지.	[!Mastery]如果是魔导士，就能根据理论增强魔力，获得能够破坏敌人抵抗力的强大力量。
 #14912	[!Ability]공격 프로토콜	[!Ability]攻击协议
 #14914	[!Ability]목표 대상은 바로 자신의 턴을 가져갑니다.	[!Ability]目标将立即取得自己的回合。
 #14916	[!Ability]목표 대상은 $ApplyBuff$ 상태가 됩니다.	[!Ability]目标将进入$ApplyBuff$状态。
@@ -10438,7 +10438,7 @@
 #17162	[!Mastery]그들이 보여주는 한없이 빛나는 인생은 수 많은 자들에게 그림자를 드리운다.	[!Mastery]他们的人生所展现的无限光辉给无数人投下了阴影。
 #17166	[!Mastery]흐름을 잠시 멈추는 것도 큰 흐름의 한 부분이지.	[!Mastery]暂时停下来也是大趋势的一部分。
 #17174	[!Mastery]청경	[!Mastery]听劲
-#17175	[!Mastery]움직임을 읽는다.	[!Mastery]分析动作
+#17175	[!Mastery]움직임을 읽는다.	[!Mastery]解析动作。
 #17177	[!Mastery]프로 정신	[!Mastery]职业精神
 #17178	[!Mastery]이 공연이 끝날 때까지 난 그만둘 수 없소.	[!Mastery]到这场演出结束为止，我是不能放弃的。
 #17184	[!Mastery]촌경	[!Mastery]寸劲
@@ -12066,7 +12066,7 @@
 #19165	[!Sector]행정부와 입법부의 수장은 황제가 임명한 재상이 담당하며 국가 중대사를 제외한 대부분의 업무를 황제의 권한을 대리하여 수행한다.	[!Sector]行政部门和立法部门首长由皇帝任命的宰相担任，除国家重大事件外，大部分作为皇帝的代理执行人。
 #19166	[!Sector]국가 중대사는 황제가 직접 담당하며, 직접 통치하는 수도 '테르'의 업무는 재상에게 위임된다. 그 외 업무는 각 장원의 영주들이 황제의 권한을 대리하여 수행한다.	[!Sector]国家大事由皇帝亲自负责，首都「泰尔」的直接统治工作委任于宰相执行。其他工作由各庄园的领主代理皇帝执行。
 #19167	[!Sector]넓은 영토를 바탕으로 풍부한 자원과 부유한 곡창 지대를 가진 세계 1차 산업의 지배권을 쥐고 있는 강대국이다. 세계 대전 당시에도 실제 이러한 1차 산업의 기반의 지역의 피해는 미비하였기에 종전 후에도 강대국의 위치를 여전히 유지하고 있다.	[!Sector]广阔的领土为基础，充满丰富的资源和富裕的粮仓，是拥有世界第一产业支配权的强国。在世界大战当时，由于第一产业的地区受害情况不大，因此战后仍维持着强国的地位。
-#19168	[!Sector]황실 직속 기사단을 중심으로 각 영주들의 기사단으로 구성되어 있다. 기사단원 모두 이능력 사용자이며 이능력 병기를 이용한 마법사단을 운용하고 있다.<br><br>세계 대전 이전까지 이 기사단을 중심으로 세계의 다른 국가들이 감히 넘볼 수 없는 국력을 보유하였으나 세계 대전으로 많은 기사단원을 잃은 현재 국력이 예전같지 않은 상황이다.	[!Sector]以皇室直属骑士团为中心，由各领主骑士团组成。骑士团员都是异能力使用者并能运用异能兵器的魔法师。<br><br>在世界大战之前是以该骑士团为中心，拥有世界各国都不可逾越的国力。但由于世界大战失去众多骑士团成员，目前国力大不如前。
+#19168	[!Sector]황실 직속 기사단을 중심으로 각 영주들의 기사단으로 구성되어 있다. 기사단원 모두 이능력 사용자이며 이능력 병기를 이용한 마법사단을 운용하고 있다.<br><br>세계 대전 이전까지 이 기사단을 중심으로 세계의 다른 국가들이 감히 넘볼 수 없는 국력을 보유하였으나 세계 대전으로 많은 기사단원을 잃은 현재 국력이 예전같지 않은 상황이다.	[!Sector]以皇室直属骑士团为中心，由各领主骑士团组成。骑士团员都是异能力使用者并能运用异能兵器的魔导士。<br><br>在世界大战之前是以该骑士团为中心，拥有世界各国都不可逾越的国力。但由于世界大战失去众多骑士团成员，目前国力大不如前。
 #19169	[!Sector]이능력의 사용 여부에 기반을 둔 귀족과 일반인으로 나뉘는 이원 계급 사회이다. 귀족 계급은 이능력의 사용자 수와 능력의 크기에 따라 기사, 남작, 자작, 백작, 후작의 5 계층으로 분류된다.<br><br>귀족 계급과 일반인 계급의 특권은 절대적이지만 계층간의 이동은 활발한 편이다. 귀족 계급의 경우, 3대에 걸쳐 이능력 사용자가 없을 경우 계급의 위치에 상관없이 일반인 계급으로 강등당한다. 일반인 계급의 경우, 일정 이상의 이능력 사용이 가능하면 기사단 혹은 그에 준하는 황실 직속 기관의 수습생으로 발탁이 가능하며, 해당 기관의 수습생을 거쳐 정식 임용 시, 귀족의 작위를 받을 수 있다. 이런 이능력 특권을 부여받는 귀족들은 전체 인구 중 10%에 달한다.	[!Sector]这是一个基于是否会使用异能而分割贵族和普通阶级的社会。贵族阶级根据异能者数量和能力的大小，细分为骑士、男爵、子爵、伯爵和侯爵五个阶层。<br><br>相比普通阶级的言，虽然贵族阶级的特权是绝对的，但是阶层间的移动比较活跃。以贵族阶级的情况为例，若三代内没有异能力者的话，不论阶级地位多高，都将被降级为普通阶级。在普通阶级，如果可以使用一定以上的异能力，则可以提拔为骑士团员或与其相当的皇室直属机关的见习生，被所属机关正式任用的见习生，可以获得贵族爵位。拥有这种异能力的特权贵族占总人口的10%。
 #19170	[!Sector]국교는 없지만 황제를 초월하는 존재를 인정하는 종교 활동을 허락하지 않는다. 현실적으로 황제에 적대적이지 않는 한 다양한 종교 활동이 가능하다.	[!Sector]虽然没有国教，但是不允许超越皇帝的宗教活动。只要不与皇帝敌对，就可以进行任何的宗教活动。
 #19171	[!Sector]3대 열강 중 가장 역사가 짧은 국가로 AE 650년, 대륙 북부의 소국들을 무력으로 통합한 군사 대국이며 연방국가이다. 중심이 되는 국가는 카라스 공화국으로 16개의 연방 국가들의 연합체이다. 실제로 소국이었던 카라스 공화국은 연방 국가를 형성 후, 내부적으로 발생하는 정치적 잡음을 외부로 돌려 국가적 단합을 추구하기 위해 많은 이권을 쥐고 있던 아테르 제국에 선전 포고를 하여 세계 대전을 일으킨 국가이다.	[!Sector]是三大列强中于AE 650年建立的实际上是历史最短的国家，那既是将大陆北部小国用武力合并的军事大国，又是联邦国家。处在中心地位的国家是卡拉斯共和国，是16个联邦国家的联合体。实际上，作为小国的卡拉斯共和国在形成联邦国家后，为了将内部发生的政治杂音向外部转移来追求国家团结，于是向掌握着众多权力的阿泰尔帝国宣战，从而引发了世界大战。
@@ -14735,7 +14735,7 @@
 #22403	[!Mastery]총기 호환성	[!Mastery]枪支兼容性
 #22404	[!Mastery]작은 차이가 쌓여 큰 차이를 만든다.	[!Mastery]小差异积聚成大差异。
 #22405	[!Mastery]해당 어빌리티를 강화한 특성 $Value$개 당 공격력 계수가 $Value2$ 증가합니다.	[!Mastery]每$Value$个强化该技能的天赋将增加$Value2$的攻击力系数。
-#22406	[!Mastery]전경	[!Mastery]全劲
+#22406	[!Mastery]전경	[!Mastery]通劲
 #22407	[!Mastery]모든 것은 연결되어 있다.	[!Mastery]一切都是连贯的。
 #22408	[!Mastery]능숙한 썰기	[!Mastery]熟练的切削
 #22409	[!Mastery]경험한 자와 하지 않은 자의 차이는 절대적이다.	[!Mastery]有经验者和没有经验者的差异是绝对的。
@@ -15482,7 +15482,7 @@
 #23617	[!GameModeSelect]컨텐츠 구성 차이점	[!GameModeSelect]内容的差异
 #23618	[!GameModeSelect]치안도	[!GameModeSelect]治安指数
 #23619	[!GameModeSelect]플레이어 개인의 미션 성공과 실패에 기반하여 동작합니다.	[!GameModeSelect]根据玩家个人的任务成功与失败而进行操动。
-#23620	[!GameModeSelect]선택지	[!GameModeSelect]选项
+#23620	[!GameModeSelect]선택지	[!GameModeSelect]环境设置
 #23621	[!GameModeSelect]유저들이 선택한 선택지의 비율의 정보가 제공되지 않습니다.	[!GameModeSelect]不提供用户选择选项的比例情报。
 #23622	[!GameModeSelect]오프라인 모드를 원하지 않을 경우, 게임 시작화면에서 온라인 모드로 변경 가능합니다.	[!GameModeSelect]不希望使用离线模式时，可从游戏开始画面变更至在线模式。
 #23623	[!GameModeSelect]온라인	[!GameModeSelect]在线
