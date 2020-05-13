@@ -27,7 +27,7 @@
 #79	[!Ability]파쇄 수류탄	[!Ability]破片手榴弹
 #81	[!Ability]빙결탄	[!Ability]寒冰弹
 #83	[!Ability]흔들바람	[!Ability]清劲风
-#84	[!Ability]프로스트밀	[!Ability]冰霜环
+#84	[!Ability]프로스트밀	[!Ability]雪霜回旋踢
 #85	[!Ability]거센바람	[!Ability]强风
 #87	[!Ability]가스탄	[!Ability]毒气弹
 #89	[!Ability]산들바람	[!Ability]微风
@@ -80,7 +80,7 @@
 #191	[!Ability]베기	[!Ability]切割
 #192	[!Ability]하단 베기	[!Ability]下段切割
 #194	[!Ability]연막탄	[!Ability]烟雾弹
-#202	[!Ability]스프레이 레인	[!Ability]喷雾雨
+#202	[!Ability]스프레이 레인	[!Ability]喷雾之雨
 #204	[!Ability]대기	[!Ability]等待
 #205	[!Ability]제압 사격	[!Ability]压制射击
 #206	[!Ability]소탕 사격	[!Ability]扫荡射击
@@ -90,7 +90,7 @@
 #210	[!Ability]화염방사	[!Ability]火焰发射
 #212	[!Ability]섬광추	[!Ability]闪光锤
 #214	[!Ability]눈속임	[!Ability]障眼法
-#215	[!Ability]트위스터	[!Ability]扭转
+#215	[!Ability]트위스터	[!Ability]转身连续踢
 #216	[!Ability]어퍼컷	[!Ability]上勾拳
 #221	[!Ability]물대포	[!Ability]水炮
 #222	[!Ability]풍압탄	[!Ability]风压弹
@@ -547,7 +547,7 @@
 #1219	[!ItemType]반지	[!ItemType]戒指
 #1220	[!ItemType]가죽	[!ItemType]皮革
 #1221	[!ItemType]저격총	[!ItemType]狙击步枪
-#1222	[!ItemType]스프레이	[!ItemType]喷雾器
+#1222	[!ItemType]스프레이	[!ItemType]喷雾瓶
 #1226	[!ItemType]양손 둔기	[!ItemType]双手钝器
 #1227	[!ItemType]장창	[!ItemType]长枪
 #1228	[!ItemType]양손 대검	[!ItemType]双手大剑
@@ -745,7 +745,7 @@
 #1724	[!Mastery]관통 내성 III	[!Mastery]穿透耐性(三)
 #1727	[!Mastery]경건	[!Mastery]虔敬
 #1730	[!Mastery]유리한 위치	[!Mastery]有利的位置
-#1736	[!Mastery]강인한 어깨	[!Mastery]强韧的肩膀
+#1736	[!Mastery]강인한 어깨	[!Mastery]强健臂力
 #1738	[!Mastery]기도사	[!Mastery]祈祷人
 #1741	[!Mastery]포식자	[!Mastery]捕食者
 #1744	[!Mastery]포식자의 눈	[!Mastery]捕食者的视觉
@@ -753,7 +753,7 @@
 #1752	[!Mastery]번영	[!Mastery]繁荣
 #1757	[!Mastery]방화광	[!Mastery]纵火狂
 #1759	[!Mastery]사나운 불꽃	[!Mastery]凶猛的火花
-#1762	[!Mastery]신속한 대응	[!Mastery]反应迅速
+#1762	[!Mastery]신속한 대응	[!Mastery]鬼出电入
 #1764	[!Mastery]은둔자	[!Mastery]隐者
 #1767	[!Mastery]분쇄	[!Mastery]碎劲
 #1772	[!Mastery]울부짖는 불길	[!Mastery]咆哮的火光
@@ -765,7 +765,7 @@
 #1790	[!Mastery]연쇄 사격	[!Mastery]连环射击
 #1793	[!Mastery]그림자 걷기	[!Mastery]影走
 #1796	[!Mastery]그림자 바람	[!Mastery]影风
-#1799	[!Mastery]흔들기	[!Mastery]摇晃
+#1799	[!Mastery]흔들기	[!Mastery]摇一摇
 #1800	[!Mastery]주술사	[!Mastery]咒术师
 #1802	[!Mastery]예리한 칼날	[!Mastery]锐利之剑
 #1804	[!Mastery]명사수	[!Mastery]神射手
@@ -2264,7 +2264,7 @@
 #4678	[!Status][!Short]추가 턴 대기시간	[!Status][!Short]追加回合冷却时间
 #4679	[!Status][!Short]방어력	[!Status][!Short]防御力
 #4680	[!Status][!Short]물리 공격력	[!Status][!Short]物理攻击力
-#4681	[!Status][!Short]방어율	[!Status][!Short]格挡
+#4681	[!Status][!Short]방어율	[!Status][!Short]格挡率
 #4682	[!Status][!Short]타격 저항	[!Status][!Short]打击抗性
 #4683	[!Status][!Short]치명타 적중률	[!Status][!Short]暴击率
 #4684	[!Status][!Short]치명타 피해량	[!Status][!Short]暴击伤害
@@ -2458,7 +2458,7 @@
 #4951	[!Mastery]탐정은 지식을 아는 자가 아니라 활용하는 자다.	[!Mastery]侦探不是懂得知识的人，而是会运用知识的人。
 #4952	[!Mastery]탐정	[!Mastery]侦探
 #4953	[!Mastery]정보란 나는 알고 넌 알지 못할 때 가치를 지닌다.	[!Mastery]信息这东西在我知而你不知时就拥有了价值。
-#4954	[!Mastery]정보원	[!Mastery]情报员
+#4954	[!Mastery]정보원	[!Mastery]情报源
 #4958	[!ObjectInfo]시민	[!ObjectInfo]市民
 #4968	[!ObjectInfo]라베스카	[!ObjectInfo]拉维斯卡
 #4969	[!ObjectInfo]회사원	[!ObjectInfo]公司职员
@@ -2868,7 +2868,7 @@
 #5659	[!ItemIdentifyType]반지	[!ItemIdentifyType]戒指
 #5660	[!ItemIdentifyType]운동화	[!ItemIdentifyType]运动鞋
 #5661	[!ItemIdentifyType]저격총	[!ItemIdentifyType]狙击步枪
-#5662	[!ItemIdentifyType]스프레이	[!ItemIdentifyType]喷雾器
+#5662	[!ItemIdentifyType]스프레이	[!ItemIdentifyType]喷雾瓶
 #5663	[!ItemIdentifyType]정장	[!ItemIdentifyType]正装
 #5664	[!ItemIdentifyType]트레이닝복	[!ItemIdentifyType]运动服
 #5665	[!ItemIdentifyType]양손 둔기	[!ItemIdentifyType]双手钝器
@@ -3877,7 +3877,7 @@
 #7300	[!Loading]은빛 구름 거리 356	[!Loading]银彩街356号
 #7301	[!Loading]람지플라자	[!Loading]蓝地广场
 #7306	[!Mastery]준비가 있으면 걱정이 없다.	[!Mastery]有备则无患。
-#7307	[!Mastery]확장팩	[!Mastery]扩展包
+#7307	[!Mastery]확장팩	[!Mastery]衣兜扩容
 #7309	[!Mastery]목표의 한 가운데를 꿰둟어주겠어.	[!Mastery]我要击穿目标中心。
 #7310	[!Mastery]정조준	[!Mastery]瞄准
 #7315	[!Mastery]폭렬 레서류	[!Mastery]爆裂蕾西流
@@ -3891,7 +3891,7 @@
 #7328	[!Mastery]가장 행복한 시간은 별이 밝은 밤거리를 혼자 조용히 걷는 것이에요.	[!Mastery]最幸福的时光是在满天星耀下静静地走在夜路上。
 #7329	[!Mastery]별이 빛나는 밤	[!Mastery]繁星之夜
 #7331	[!Mastery]우울한 순간에도 주위를 둘러보면 좋은 일 하나쯤은 당연히 있지.	[!Mastery]忧郁的时候若能环顾四周，至少会发现一件好事吧。
-#7332	[!Mastery]생기발랄	[!Mastery]生动活泼
+#7332	[!Mastery]생기발랄	[!Mastery]热情泼辣
 #7334	[!Mastery]용서를 구한다고 받아줄 거라 생각했다면 오산이야.	[!Mastery]如果你以为求我原谅我就会接受，那你就是误会了。
 #7335	[!Mastery]바람 마녀	[!Mastery]风之魔女
 #7336	[!MasteryType]장비	[!MasteryType]装备
@@ -4283,9 +4283,9 @@
 #7767	[!WordCollection][!Menu]급여 연체 횟수	[!WordCollection][!Menu]欠薪次数
 #7768	[!WordCollection]임금	[!WordCollection]薪水
 #7769	[!WordCollection][!Menu]전용 면적	[!WordCollection][!Menu]专用面积
-#7773	[!Ability]쉐이크샷 - 가스	[!Ability]喷射 - 毒气
-#7774	[!Ability]쉐이크샷 - 화염	[!Ability]喷射 - 火焰
-#7775	[!Ability]쉐이크샷 - 빙결	[!Ability]喷射 - 寒冰
+#7773	[!Ability]쉐이크샷 - 가스	[!Ability]喷雾瓶 - 毒气
+#7774	[!Ability]쉐이크샷 - 화염	[!Ability]喷雾瓶 - 火焰
+#7775	[!Ability]쉐이크샷 - 빙결	[!Ability]喷雾瓶 - 寒冰
 #7776	[!Ability]하늘에서 별빛을 떨어뜨려 $DamageAmount$의 $DamageType$ 피해를 입힙니다. 피해를 입힌 대상의 기력을 $ApplyCost$ 빼앗아 옵니다.	[!Ability]星光从天而降造成$DamageAmount$的$DamageType$伤害。从受到伤害的目标处偷取$ApplyCost$的气力。
 #7782	[!Buff]양꼬치	[!Buff]羊肉串
 #7786	[!CivilMessage]재수 없으려니까!	[!CivilMessage]真倒霉！
@@ -4773,7 +4773,7 @@
 #8530	[!Item]자홍거리에서 유통되는 대마법사 반지의 강화된 버전. 뒷세계에서 매우 인기 있는 반지이다.	[!Item]紫红街流通的大魔导士戒指的加强版。是一款在地下世界里非常有人气的戒指。
 #8531	[!Item]바람술사 반지	[!Item]暴风术士戒指
 #8535	[!Loading]철의 숲 물류 캠프	[!Loading]铁森林物流基地
-#8536	[!Loading]가면 속의 그림자	[!Loading]面具背后的影子
+#8536	[!Loading]가면 속의 그림자	[!Loading]面具背后的阴影
 #8538	[!Mastery]지금 이 순간까지 참고 기다렸다.	[!Mastery]卧薪尝胆就为了这一刻。
 #8541	[!Mastery]50 년간 한가지 일을 계속하면 누구나 원하는 것을 이룰 수 있지.	[!Mastery]在一个行业从事50年，所有人都可以如愿。
 #8542	[!Mastery]생활의 달인	[!Mastery]生活的达人
@@ -4842,11 +4842,11 @@
 #8629	[!GuideMessage]현재 진행 가능한 강력 사건들을 보여줍니다. 강력 사건은 영웅 등급 이상의 보스들이 출현하며 반복 진행 가능합니다.	[!GuideMessage]显示当前可执行的大型事件。大型事件中出现英雄级别以上的怪物，可以反复进行。
 #8630	[!Item]자홍빛 순금 손목 고리	[!Item]紫红纯金手链
 #8631	[!Item]자홍거리에서 유통되는 순금 손목 고리의 강화된 버전. 뒷세계에서 매우 인기 있는 손목 고리이다.	[!Item]紫红街流通的纯金手链的加强版。是一款在地下世界里非常有人气的手链。
-#8632	[!Item]그림자 코트	[!Item]影子外套
-#8633	[!Item]그림자 운동화	[!Item]影子运动鞋
-#8634	[!Item]자홍빛 그림자 운동화	[!Item]紫红影子运动鞋
-#8635	[!Item]자홍거리에서 유통되는 그림자 운동화의 강화된 버전. 뒷세계에서 매우 인기 있는 신발이다.	[!Item]紫红街流通的影子运动鞋的加强版。是一款在地下世界里非常有人气的鞋子。
-#8636	[!Item]그림자 활동복	[!Item]影子活动服
+#8632	[!Item]그림자 코트	[!Item]暗影外套
+#8633	[!Item]그림자 운동화	[!Item]暗影运动鞋
+#8634	[!Item]자홍빛 그림자 운동화	[!Item]紫红暗影运动鞋
+#8635	[!Item]자홍거리에서 유통되는 그림자 운동화의 강화된 버전. 뒷세계에서 매우 인기 있는 신발이다.	[!Item]紫红街流通的暗影运动鞋的加强版。是一款在地下世界里非常有人气的鞋子。
+#8636	[!Item]그림자 활동복	[!Item]暗影活动服
 #8637	[!Item]핏빛 오거 손목 보호대	[!Item]血色食人魔护腕
 #8638	[!Item]창이 정육점을 하던 시절 부터 꾸준히 개량해 온 손목보호대. 빠른 칼질이 많은 과정에서 실수로 인한 피해를 줄이기 위해 참격 저항력을 강화하였다. 웬만한 칼날은 박히지 않는다.	[!Item]昌在开肉店时就开始持续改良的护腕。为了在快速用刀的过程中降低失误导致的伤害而加强了斩击抗性。一般的刀刃是无法刺穿它的。
 #8640	[!Mastery]밤에 다녀야 하는 자들은 숨길 것이 많은 자들이지.	[!Mastery]夜里行走的都是些有事要瞒着大家的人啊。
@@ -4925,7 +4925,7 @@
 #8730	[!Mastery]어디 한 눈을 파는 것이냐!	[!Mastery]可别走神呀！
 #8731	[!Mastery]응징	[!Mastery]惩戒
 #8733	[!Mastery]이미 한 번 성공한 일을 다시 해내는 것은 어렵지 않아.	[!Mastery]成功过的事情，再来一次并不会太难。
-#8734	[!Mastery]동일한 표적	[!Mastery]二次标记
+#8734	[!Mastery]동일한 표적	[!Mastery]二次投掷
 #8736	[!Mastery]남들이 보지 않을 때 일한다.	[!Mastery]别人看不到时做事情。
 #8737	[!Mastery]거미줄치기	[!Mastery]编织蜘蛛网
 #8739	[!Mastery]외줄타기 인생이여!	[!Mastery]人生就是走钢丝呀！
@@ -5046,8 +5046,8 @@
 #8888	[!GuideMessage]대부분의 연출은 ESC키를 입력하면 생략하실 수 있습니다.	[!GuideMessage]大部分的动画可以按ESC键来跳过。
 #8890	[!Item]전투 방패	[!Item]战斗盾牌
 #8891	[!Item]발할라 경찰들에게 지급된 전투용 방패. 높은 초능력 저항력을 가지고 있다.	[!Item]这是发放给巴赫拉警察们的战斗用盾牌。带有较高的超能力抗性。
-#8892	[!Item]자홍빛 그림자 코트	[!Item]紫红影子外套
-#8893	[!Item]자홍거리에서 유통되는 그림자 코트의 강화 버전. 뒷세계에서 매우 인기 있는 코트이다.	[!Item]紫红街流通的影子外套的加强版。是一款在地下世界里非常有人气的外套。
+#8892	[!Item]자홍빛 그림자 코트	[!Item]紫红暗影外套
+#8893	[!Item]자홍거리에서 유통되는 그림자 코트의 강화 버전. 뒷세계에서 매우 인기 있는 코트이다.	[!Item]紫红街流通的暗影外套的加强版。是一款在地下世界里非常有人气的外套。
 #8894	[!Item]약속의 반지	[!Item]约定之戒
 #8895	[!Item]줄리오는 오랫동안 모셔왔던 귀족 아가씨가 정략 결혼으로 집을 떠나는 날 그녀로부터 이 반지를 받는다. 고개 숙인 줄리오를 향해 아가씨는 이렇게 말한다. "언젠가 너와 함께할 날을 기다릴게. 그때까지 안녕."	[!Item]朱利奥长期侍奉着的贵族小姐因为政治婚姻而离家的那一天送他这枚戒指。对着低着头的朱利奥，那位小姐说到。「总有一天我们还会在一起的，我会一直等着那一天。直到那一天到来你要多保重。」
 #8896	[!Item]배달 운동화	[!Item]快递员运动鞋
@@ -5093,7 +5093,7 @@
 #8951	[!ServerRegion]개인 서버	[!ServerRegion]个人服务器
 #8952	[!ServerRegion]아시아 서버	亚洲
 #8953	[!ServerRegion]북미 서버	北美
-#8954	[!WordCollection]현재 접속 서버	现在服务器
+#8954	[!WordCollection]현재 접속 서버	当前服务器
 #8955	[!WordCollection]접속 서버 선택	选择登陆的服务器
 #8956	[!WordCollection]서버 목록	服务器目录
 #8957	[!OptionInterface]미션 응답속도 표시	[!OptionInterface]任务应答速度
@@ -5135,7 +5135,7 @@
 #8997	[!Troublebook]오늘도 함께	[!Troublebook]今天也一起
 #8998	[!Troublebook]제 2 장. 균열의 시작	[!Troublebook]第二章 - 裂痕初现
 #8999	[!Troublebook]잿빛 항구 A 선착장	[!Troublebook]灰港A码头
-#9000	[!Troublebook]가면 속의 그림자	[!Troublebook]面具背后的影子
+#9000	[!Troublebook]가면 속의 그림자	[!Troublebook]面具背后的阴影
 #9001	[!Troublebook]철의 숲 간이역	[!Troublebook]铁森林临时站点
 #9002	[!Troublebook]어부지리	[!Troublebook]渔翁之利
 #9003	[!Troublebook]철의 숲 물류 캠프	[!Troublebook]铁森林物流基地
@@ -5300,10 +5300,10 @@
 #9197	[!Item]자홍빛 암살자 활동복의 강화된 버전. 이능력에 대한 저항 처리가 탁월하다.	[!Item]紫红杀手活动服的加强版。带有卓越的异能抗性。
 #9198	[!Item]자홍빛 암살자 활동복	[!Item]紫红杀手活动服
 #9199	[!Item]자홍거리에서 유통되는 암살자 활동복의 강화된 버전. 뒷세계에서 매우 인기 있는 활동복이다.	[!Item]紫红街流通的杀手活动服的加强版。是一款在地下世界里非常有人气的活动服。
-#9200	[!Item]남청빛 그림자 활동복	[!Item]藏蓝影子活动服
-#9201	[!Item]자홍빛 그림자 활동복의 강화된 버전. 이능력에 대한 저항 처리가 탁월하다.	[!Item]紫红影子活动服的加强版。带有卓越的异能抗性。
-#9202	[!Item]자홍빛 그림자 활동복	[!Item]紫红影子活动服
-#9203	[!Item]자홍거리에서 유통되는 그림자 활동복의 강화된 버전. 뒷세계에서 매우 인기 있는 활동복이다.	[!Item]紫红街流通的影子活动服的加强版。是一款在地下世界里非常有人气的活动服。
+#9200	[!Item]남청빛 그림자 활동복	[!Item]藏蓝暗影活动服
+#9201	[!Item]자홍빛 그림자 활동복의 강화된 버전. 이능력에 대한 저항 처리가 탁월하다.	[!Item]紫红暗影活动服的加强版。带有卓越的异能抗性。
+#9202	[!Item]자홍빛 그림자 활동복	[!Item]紫红暗影活动服
+#9203	[!Item]자홍거리에서 유통되는 그림자 활동복의 강화된 버전. 뒷세계에서 매우 인기 있는 활동복이다.	[!Item]紫红街流通的暗影活动服的加强版。是一款在地下世界里非常有人气的活动服。
 #9204	[!Item]자홍빛 전투 활동복	[!Item]紫红战斗活动服
 #9205	[!Item]자홍거리에서 유통되는 전투 활동복의 강화된 버전. 뒷세계에서 매우 인기 있는 전투 활동복이다.	[!Item]紫红街流通的战斗活动服的加强版。是一款在地下世界里非常有人气的战斗活动服。
 #9206	[!Item]남청빛 오거 손목 보호대	[!Item]藏蓝食人魔护腕
@@ -6340,7 +6340,7 @@
 #10802	[!Mastery]유연함이 강함을 이긴다.	[!Mastery]以柔克刚。
 #10803	[!Mastery]화경	[!Mastery]化劲
 #10805	[!Mastery]적이 알아채지 못하는 곳에서 시작한다.	[!Mastery]从敌人未察觉的地方开始。
-#10806	[!Mastery]재빠른 손놀림	[!Mastery]灵活之手
+#10806	[!Mastery]재빠른 손놀림	[!Mastery]迅速拔枪
 #10808	[!Mastery]흐르는 피의 댓가를 잊지마라.	[!Mastery]别忘了流血的代价。
 #10809	[!Mastery]붉은 가시 검	[!Mastery]红棘之剑
 #10813	[!Mastery]하늘의 뜻과 함께 하기 위해 왔소.	[!Mastery]我是为了共享天意而来。
@@ -6384,7 +6384,7 @@
 #10877	[!DirectDamageType]피를 마시는 검	[!DirectDamageType]饮血之剑
 #10878	[!GuideMessage]클래스 레벨의 상승으로 $MasteryName$ 특성을 발견하였으나 이미 연구 가능한 특성입니다.	[!GuideMessage]职业等级上升，发现$MasteryName$天赋，这是可研究的天赋。
 #10879	[!Job]전투법사	[!Job]战斗法师
-#10881	[!Mastery]구속력	[!Mastery]拘留力
+#10881	[!Mastery]구속력	[!Mastery]拘束力
 #10882	[!Mastery]피할 수 없다면 차라리 부딪혀라.	[!Mastery]当你无法避开时不如去面对它吧。
 #10883	[!Mastery]칼날 쳐내기	[!Mastery]争锋
 #10885	[!Mastery]생명력은 불멸이네.	[!Mastery]生命力是不灭的。
@@ -6532,7 +6532,7 @@
 #11155	[!Mastery]다다익선	[!Mastery]多多益善
 #11156	[!Mastery]척탄 가방	[!Mastery]掷弹包
 #11158	[!Mastery]한 발 더 나아가면 하나 더 얻을 수 있다.	[!Mastery]越往前走一步，就越能得到一个。
-#11159	[!Mastery]멀리 던지기	[!Mastery]远投
+#11159	[!Mastery]멀리 던지기	[!Mastery]远距离投掷
 #11161	[!Mastery]절규하는 불길	[!Mastery]呐喊的火光
 #11163	[!MasteryType]척탄병	[!MasteryType]掷弹兵
 #11164	[!MasteryType]수호자	[!MasteryType]守护者
@@ -6589,14 +6589,14 @@
 #11234	[!Mastery]모든 것을 태워버려라.	[!Mastery]烧掉这一切。
 #11235	[!Ability]전방의 목표물에게 5 차례의 조준 사격을 하여 각 사격 당 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向前方的目标施放5次瞄准射击，每一击造成$DamageAmount$的$DamageType$伤害。
 #11236	[!Ability]조준 연속 사격	[!Ability]瞄准连续射击
-#11237	[!Ability]강화된 화염병던지기	[!Ability]强化投掷燃烧瓶
+#11237	[!Ability]강화된 화염병던지기	[!Ability]投掷强效燃烧瓶
 #11238	[!Ability]내려차기	[!Ability]下踢
 #11239	[!Ability]목표 범위 내 독구름을 생성하며 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다. 독구름에 닿으면 $ApplyBuff$됩니다.	[!Ability]在目标范围内形成毒云。给目标造成$DamageAmount$的$DamageType$伤害。接触毒云引发$ApplyBuff$。
-#11240	[!Ability]강화된 쉐이크샷 - 가스	[!Ability]强化喷雾瓶 - 毒气
-#11241	[!Ability]강화된 쉐이크샷 - 화염	[!Ability]强化喷雾瓶 - 火焰
-#11242	[!Ability]강화된 쉐이크샷 - 빙결	[!Ability]强化喷雾瓶 - 寒冰
+#11240	[!Ability]강화된 쉐이크샷 - 가스	[!Ability]强效喷雾瓶 - 毒气
+#11241	[!Ability]강화된 쉐이크샷 - 화염	[!Ability]强效喷雾瓶 - 火焰
+#11242	[!Ability]강화된 쉐이크샷 - 빙결	[!Ability]强效喷雾瓶 - 寒冰
 #11243	[!Ability]쉐이크샷 - 풍압	[!Ability]喷雾瓶 - 风压
-#11244	[!Ability]강화된 쉐이크샷 - 풍압	[!Ability]强化喷雾瓶 - 风压
+#11244	[!Ability]강화된 쉐이크샷 - 풍압	[!Ability]强效喷雾瓶 - 风压
 #11245	[!AbilityDamageType]폭발	[!AbilityDamageType]爆炸
 #11246	[!Buff]불신	[!Buff]不慎
 #11247	[!Buff]연료 고갈	[!Buff]燃料枯竭
@@ -6639,7 +6639,7 @@
 #11296	[!Mastery]연료의 사용을 최소화 하는 것이 바로 산업 발전의 기본이다.	[!Mastery]将燃料的使用降到最低，是产业发展的根本。
 #11297	[!Mastery]얼터네이터	[!Mastery]交流发电机
 #11300	[!Mastery]너의 비명소리를 들어볼까?	[!Mastery]让我们来听听你的尖叫声吧？
-#11301	[!Mastery]폭탄마	[!Mastery]爆炸狂魔
+#11301	[!Mastery]폭탄마	[!Mastery]爆弹狂魔
 #11303	[!Mastery]기회가 올 때 잡아라.	[!Mastery]机会到来就要一把抓住。
 #11304	[!Mastery]직격탄	[!Mastery]直击弹
 #11306	[!Mastery]에너지가 존재하는 한 멈추지 않는다.	[!Mastery]只要有能量，就永远不会停止。
@@ -6647,10 +6647,10 @@
 #11324	[!Mastery]상황에 따라 돌아가는 것이 더 빠른 길이지.	[!Mastery]看情况迂回前进就算是捷径了。
 #11325	[!Mastery]포물선 궤도	[!Mastery]抛物线轨迹
 #11328	[!Mastery]조금 더 빠르게!	[!Mastery]更快！
-#11329	[!Mastery]빨리 던지기	[!Mastery]速抛
+#11329	[!Mastery]빨리 던지기	[!Mastery]迅速投掷
 #11331	[!Mastery]무모한 돌진이 성공한다면, 그것이 바로 적의 허를 찌르는 것이지.	[!Mastery]鲁莽的进攻若能成功，那将是直插敌人弱点的一击啊。
 #11335	[!Mastery]더 높은 곳에 있는 자가 더 멀리 본다.	[!Mastery]站得越高，望得越远。
-#11336	[!Mastery]높이 던지기	[!Mastery]高抛
+#11336	[!Mastery]높이 던지기	[!Mastery]高角度投掷
 #11337	[!MasteryCategory]인공지능 모듈	[!MasteryCategory]人工智能模块
 #11338	[!MasteryCategory]강화 모듈	[!MasteryCategory]强化模块
 #11339	[!MasteryCategory]보안 모듈	[!MasteryCategory]安全模块
@@ -6664,7 +6664,7 @@
 #11349	[!ObjectInfo]바이크론	[!ObjectInfo]拜克伦
 #11350	[!ObjectInfo]보안 장치	[!ObjectInfo]安全设备
 #11351	[!OptionInterface]미션 시작 시 대화창 활성화	[!OptionInterface]任务开始时激活对话框
-#11352	[!Profession]다양한 스프레이를 제작할 수 있습니다.	[!Profession]可以制作多种喷雾器。
+#11352	[!Profession]다양한 스프레이를 제작할 수 있습니다.	[!Profession]可以制作多种喷雾瓶。
 #11353	[!Profession]기능성 아이템을 제작할 수 있습니다.	[!Profession]可以制作功能性物品。
 #11354	[!Profession]도구 제작	[!Profession]工具加工
 #11355	[!Site]잿빛 항구 물류창고	[!Site]灰港物流仓库
@@ -6743,8 +6743,8 @@
 #11440	[!Mastery]내수성	[!Mastery]耐水性
 #11441	[!WordCollection]판매 가격 낮은 순	[!WordCollection]售价升序
 #11442	[!WordCollection]판매 가격 높은 순	[!WordCollection]售价降序
-#11443	[!Ability]산성 구름을 생성하여 목표 범위 내 모든 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다. 산성 구름에 닿으면 $ApplyBuff$ 상태가 됩니다.	[!Ability]在目标范围内形成酸性云。给目标造成$DamageAmount$的$DamageType$伤害。接触酸性云触发$ApplyBuff$状态。
-#11444	[!Ability]산성 구름	[!Ability]酸性云
+#11443	[!Ability]산성 구름을 생성하여 목표 범위 내 모든 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다. 산성 구름에 닿으면 $ApplyBuff$ 상태가 됩니다.	[!Ability]在目标范围内形成酸性雾霭。给目标造成$DamageAmount$的$DamageType$伤害。接触酸性雾霭触发$ApplyBuff$状态。
+#11444	[!Ability]산성 구름	[!Ability]酸性雾霭
 #11447	[!Ability]회복 안개를 생성하여 목표 범위 내 대상의 체력을 $DamageAmount$ 회복합니다. 회복 안개에 닿으면 $ApplyBuff$ 상태가 됩니다.	[!Ability]在目标范围内形成恢复雾霭。恢复目标的体力$DamageAmount$。接触恢复雾霭触发$ApplyBuff$状态。
 #11448	[!Ability]회복 안개	[!Ability]恢复雾霭
 #11449	[!Ability]$ApplyBuff$ 상태로 만듭니다.<br><br>$Perano$화합물 만들기 상태가 해제된 이후 부터 어빌리티 재사용 대기 시간이 적용됩니다.$Blue_ON$	[!Ability]进入$ApplyBuff$状态。<br><br>$Perano$化合物制作状态被移除后，才会开始计入技能冷却时间。$Blue_ON$
@@ -6761,28 +6761,28 @@
 #11461	[!Buff]산성독	[!Buff]酸性毒
 #11463	[!Buff]화합물 만들기	[!Buff]化合物制作
 #11465	[!Buff]불안정한 화합물	[!Buff]不稳定的化合物
-#11466	[!FieldEffect]산성 구름	[!FieldEffect]酸性云
+#11466	[!FieldEffect]산성 구름	[!FieldEffect]酸性雾霭
 #11467	[!FieldEffect]회복 안개	[!FieldEffect]恢复雾霭
 #11468	[!GuideMessage]$ItemName2$ 아이템 $ItemCount2$ 개를 $ItemName$ 아이템 $ItemCount$ 개로 등가 교환되었습니다.	[!GuideMessage]以$ItemCount2$个$ItemName2$道具与$ItemCount$个$ItemName$道具进行了等价交换。
 #11469	[!Loading]까마귀골목 뒷거리	[!Loading]墨鸦巷的后巷
 #11475	[!Mastery]더 멀리! 더 높이! 더 빠르게!	[!Mastery]更远！更高！更快！
 #11476	[!Mastery]하늘을 뚫어라	[!Mastery]突破天际吧
-#11478	[!Mastery]물약 강화	[!Mastery]强化药剂
+#11478	[!Mastery]물약 강화	[!Mastery]药剂强化
 #11480	[!Mastery]무언가를 얻기 위해서는 그와 동등한 대가를 치러야 한다	[!Mastery]如果想获得什么，就要付出与之相同的代价
 #11481	[!Mastery]등가 교환	[!Mastery]等价交换
 #11484	[!Mastery]아프면 약을 먹어야지.	[!Mastery]不舒服就要吃药。
-#11485	[!Mastery]순도 높은 회복약	[!Mastery]高纯度恢复药
+#11485	[!Mastery]순도 높은 회복약	[!Mastery]万灵药剂
 #11487	[!Mastery]실패란 성공의 과정이다.	[!Mastery]失败是成功的过程。
-#11488	[!Mastery]화합물 만들기	[!Mastery]制作化合物
+#11488	[!Mastery]화합물 만들기	[!Mastery]化合物制作
 #11490	[!Mastery]이대로 달려간다!	[!Mastery]勇往直前！
-#11491	[!Mastery]기회주의자	[!Mastery]机会主义者
+#11491	[!Mastery]기회주의자	[!Mastery]投机主义者
 #11495	[!Mastery]황금을 위한 연구라면 모든 것을 지원하겠네.	[!Mastery]如果是关于黄金的研究，我将全心全力的支持。
-#11496	[!Mastery]황금에 대한 열정	[!Mastery]对于黄金的热情
+#11496	[!Mastery]황금에 대한 열정	[!Mastery]点石成金
 #11498	[!Mastery]하나씩 확실하게!	[!Mastery]依次准确地！
 #11499	[!Mastery]완벽주의자	[!Mastery]完美主义者
-#11502	[!Mastery]무모한 돌진	[!Mastery]鲁莽的进攻
+#11502	[!Mastery]무모한 돌진	[!Mastery]猪突猛进
 #11505	[!Mastery]다 모두 같이 흔들어!	[!Mastery]大家一起来摇摆！
-#11506	[!Mastery]흔들어! 흔들어!	[!Mastery]摇摆！摇摆！
+#11506	[!Mastery]흔들어! 흔들어!	[!Mastery]一起摇摆
 #11508	[!Mastery]충격파	[!Mastery]冲击波
 #11509	[!Mastery]이것저것 하다 보면 다 웬만큼 할 줄 알게 돼	[!Mastery]多尝试就能知道个大概
 #11510	[!Mastery]능숙한 지원	[!Mastery]专业支援
@@ -6809,7 +6809,7 @@
 #11548	[!DamageCondition]기본 회복량	[!DamageCondition]基本恢复量
 #11549	[!Equipment]연금 가방	[!Equipment]炼金包
 #11550	[!Equipment]척탄 가방	[!Equipment]掷弹包
-#11551	[!GuideMessage]해당 지형에 $White$산성 구름$Blue_ON$이 발생합니다.	[!GuideMessage]在该地形上引发$White$酸性云$Blue_ON$。
+#11551	[!GuideMessage]해당 지형에 $White$산성 구름$Blue_ON$이 발생합니다.	[!GuideMessage]在该地形上引发$White$酸性雾霭$Blue_ON$。
 #11552	[!GuideMessage]해당 지형에 $White$회복 안개$Blue_ON$가 발생합니다.	[!GuideMessage]在该地形上引发$White$恢复雾霭$Blue_ON$。
 #11553	[!GuideMessage]대상이 이미 과충전 상태입니다.	[!GuideMessage]对方已经过充电状态。
 #11554	[!ItemEquipmentPosition]연금 가방	[!ItemEquipmentPosition]炼金包
@@ -6845,8 +6845,8 @@
 #11592	[!WordCollection]8월	[!WordCollection]八月
 #11593	[!WordCollection]9월	[!WordCollection]九月
 #11596	[!Ability]신체를 강제로 각성시켜 $White$과충전$Blue_ON$ 상태가 되며, 동시에 $ApplyBuff$ 상태가 됩니다.	[!Ability]强行唤醒身体进入$White$过充电$Blue_ON$状态，进入$ApplyBuff$状态。
-#11597	[!Ability]무아지경	[!Ability]无我的境地
-#11600	[!Buff]무아지경	[!Buff]无我的境地
+#11597	[!Ability]무아지경	[!Ability]无我之境
+#11600	[!Buff]무아지경	[!Buff]无我之境
 #11601	[!GuideMessage]$Unit$[이] $Buff$ 상태가 되었습니다.	[!GuideMessage]$Unit$转成$Buff$状态。
 #11602	[!GuideMessage]$Unit$[이] 과충전 상태가 되었습니다.	[!GuideMessage]$Unit$转成过充电状态。
 #11603	[!Item]붐 스프레이 CW-40U	[!Item]爆炸喷雾CW-40U
@@ -7052,7 +7052,7 @@
 #11852	[!Mastery]연막 이동	[!Mastery]烟幕移动
 #11854	[!Mastery]내 분노를 받아라!	[!Mastery]承受我的愤怒吧！
 #11855	[!Mastery]분노의 일격	[!Mastery]狂暴一击
-#11857	[!Mastery]타인의 그림자를 따라가면 언제나 방향을 잃기 마련이지.	[!Mastery]跟随他人的影子，总会失去方向的。
+#11857	[!Mastery]타인의 그림자를 따라가면 언제나 방향을 잃기 마련이지.	[!Mastery]跟随他人的暗影，总会失去方向的。
 #11858	[!Mastery]구름 속의 그림자	[!Mastery]云中之影
 #11860	[!Mastery]지금의 고통은 다가올 고통에 비하면 아무것도 아니지.	[!Mastery]现在的痛苦和接下来的痛苦相比万不及一。
 #11861	[!Mastery]독니	[!Mastery]毒牙
@@ -7081,7 +7081,7 @@
 #11903	[!MasteryCategory]장비	[!MasteryCategory]装备
 #11904	[!NamedEvent]이제와서 다 무슨 소용인가.	[!NamedEvent]现在说这些还有什么用了。
 #11905	[!NamedEvent]날 만난 걸 후회하게나.	[!NamedEvent]你就后悔遇见了我吧。
-#11907	[!NamedEvent]그림자 샨띠엔	[!NamedEvent]影子闪电
+#11907	[!NamedEvent]그림자 샨띠엔	[!NamedEvent]暗影闪电
 #11908	[!NamedEvent]현상수배범	[!NamedEvent]悬赏通缉犯
 #11909	[!NamedEvent]이 순간은 참으로 눈부시구나!	[!NamedEvent]这瞬间真是耀眼啊！
 #11910	[!NamedEvent]나는 지금 빛나고 있는가!	[!NamedEvent]我现在是在发光吗！
@@ -7356,7 +7356,7 @@
 #12292	[!Mastery]적의 공격을 피하며 거리를 좁히고 빠르게 던져라.	[!Mastery]躲开敌人的攻击，拉近距离，快速扔出去。
 #12293	[!Mastery]전장을 뚫어라	[!Mastery]突破战场吧
 #12295	[!Mastery]더 나은 것을 추구하는 것은 당연한 일이지.	[!Mastery]追求更好的那是理所应当的。
-#12296	[!Mastery]강화 수류탄	[!Mastery]加强版手榴弹
+#12296	[!Mastery]강화 수류탄	[!Mastery]手榴弹强化
 #12299	[!Mastery]묵직한 일격은 꾸준한 단련으로 부터 나온다.	[!Mastery]坚持不懈的锻炼就可以打出沉重一击。
 #12300	[!Mastery]무쇠 주먹	[!Mastery]铸铁重拳
 #12302	[!Mastery]한번 시작한 싸움은 누군가 쓰러지기 전에 멈출 수 없다.	[!Mastery]战斗一旦开始，在有任何一方倒地之前绝不会结束。
@@ -7663,7 +7663,7 @@
 #13297	[!Mastery]수색 훈련	[!Mastery]搜索训练
 #13299	[!Mastery]혹한	[!Mastery]严寒
 #13301	[!Mastery]모르는 것이 약이다.	[!Mastery]眼不见心不烦。
-#13302	[!Mastery]그림자 저격	[!Mastery]影子狙击
+#13302	[!Mastery]그림자 저격	[!Mastery]暗影狙击
 #13304	[!Mastery]너는 너야.	[!Mastery]你就是你。
 #13305	[!Mastery]독립 훈련	[!Mastery]独立训练
 #13307	[!Mastery]폭풍	[!Mastery]暴风
@@ -7734,7 +7734,7 @@
 #13390	[!Mastery]야수 사냥의 밤이 시작된다.	[!Mastery]狩猎野兽之夜开始了。
 #13391	[!Mastery]달빛사냥꾼	[!Mastery]月下猎人
 #13396	[!Mastery]세상에는 일어날 수 없다고 믿는 일이 일어나기 마련이다.	[!Mastery]坚信不会发生的事情，必会发生。
-#13397	[!Mastery]어둠 속의 그림자	[!Mastery]如影随形
+#13397	[!Mastery]어둠 속의 그림자	[!Mastery]潜心顾影
 #13399	[!Mastery]저격	[!Mastery]完美狙击
 #13403	[!Mastery]기다리는 자에게는 실패한 없다.	[!Mastery]对于等待之人没有失败。
 #13404	[!Mastery]설계된 함정	[!Mastery]连环陷阱
@@ -7756,7 +7756,7 @@
 #13423	[!Ability]불꽃 채찍	[!Ability]火花鞭子
 #13424	[!Ability]섬광 채찍	[!Ability]闪光鞭子
 #13425	[!Ability]안개 채찍	[!Ability]雾霭鞭子
-#13426	[!Ability]산성 폭발을 일으켜 목표 범위 내 모든 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다. 산성 구름에 닿으면 $ApplyBuff$ 상태가 됩니다.	[!Ability]造成酸性爆炸，对目标范围内的所有敌人造成$DamageAmount$的$DamageType$伤害。接触酸性云时将触发$ApplyBuff$ 状态。
+#13426	[!Ability]산성 폭발을 일으켜 목표 범위 내 모든 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다. 산성 구름에 닿으면 $ApplyBuff$ 상태가 됩니다.	[!Ability]造成酸性爆炸，对目标范围内的所有敌人造成$DamageAmount$的$DamageType$伤害。接触酸性雾霭时将触发$ApplyBuff$ 状态。
 #13427	[!Ability]산성 폭발	[!Ability]酸性爆发
 #13429	[!Ability]집중의 노래	[!Ability]集中歌曲
 #13431	[!Ability]범위 내 적을 제외한 모든 대상들의 체력을 $DamageAmount$ 회복합니다.	[!Ability]恢复范围内除敌人以外的所有目标$DamageAmount$的体力。
@@ -8288,7 +8288,7 @@
 #14135	[!NamedEvent]불타버린 티마	[!NamedEvent]燃烧的蒂玛
 #14136	[!NamedEvent]치이히~ 치이히~	[!NamedEvent]嘁噫噫～嘁噫噫～
 #14137	[!NamedEvent]암흑 야샤	[!ObjectInfo]暗黑夜叉
-#14138	[!NamedEvent]그림자의 야샤	[!NamedEvent]影子的夜叉
+#14138	[!NamedEvent]그림자의 야샤	[!NamedEvent]暗影的夜叉
 #14139	[!NamedEvent]시이익~ 시이익~	[!NamedEvent]咻咻咻～咻咻咻～
 #14140	[!NamedEvent]암석 야샤	[!ObjectInfo]岩石夜叉
 #14141	[!NamedEvent]기암의 야샤	[!NamedEvent]奇岩的夜叉
@@ -8505,8 +8505,8 @@
 #14448	[!GuideMessage][colour='FFFFE959']트러블메이커 [colour='FFFFFFFF']$TroublemakerName$[colour='FFFFE959']의 정보 획득 [colour='FFFFFFFF']4[colour='FFFFE959'] 단계 보상으로 [colour='FFFFFFFF']$MasteryName$[colour='FFFFE959'] 추가 특성 효과 정보를 획득하였습니다. 	[!GuideMessage]作为[colour='FFFFE959']获得纷争制造者[colour='FFFFFFFF']$TroublemakerName$的[colour='FFFFFFFF']4[colour='FFFFE959']级[colour='FFFFE959']信息的补偿，可获得[colour='FFFFFFFF']$MasteryName$[colour='FFFFE959']的组合天赋的信息。
 #14449	[!GuideMessage]트러블메이커 $TroublemakerName$의 정보 획득 4 단계 보상으로 $MasteryName$ 추가 특성 효과 정보를 획득하였습니다. 	[!GuideMessage]作为获得纷争制造者$TroublemakerName$的4级信息的补偿，可获得$MasteryName$的组合天赋的信息。
 #14450	[!GuideMessage]근접한 적에게 받은 피해량의 %s만큼 해당 적에게 %s 속성 고정 피해를 입히며, 해당 대상이 %s 계열 상태 이상일 경우 피해량이 %s배가 됩니다.	[!GuideMessage]受到敌人的近战伤害时会返还%s的伤害量给攻击者，对其造成%s属性的固定伤害。若该目标处于%s系列异常状态时，该伤害量将变为%s倍。
-#14451	[!GuideMessage]$FieldEffectProb$ 확률로 해당 지형에 $White$산성 구름$Blue_ON$이 발생합니다.	[!GuideMessage]有$FieldEffectProb$的几率在该地形上引发$White$酸性云$Blue_ON$。
-#14452	[!GuideMessage]최대 $FieldEffectMaxCount$칸까지 $White$산성 구름$Blue_ON$이 발생합니다.	[!GuideMessage]最多会形成半径$FieldEffectMaxCount$格的$White$酸性云$Blue_ON$。
+#14451	[!GuideMessage]$FieldEffectProb$ 확률로 해당 지형에 $White$산성 구름$Blue_ON$이 발생합니다.	[!GuideMessage]有$FieldEffectProb$的几率在该地形上引发$White$酸性雾霭$Blue_ON$。
+#14452	[!GuideMessage]최대 $FieldEffectMaxCount$칸까지 $White$산성 구름$Blue_ON$이 발생합니다.	[!GuideMessage]最多会形成半径$FieldEffectMaxCount$格的$White$酸性雾霭$Blue_ON$。
 #14453	[!GuideMessage]첨부된 %s 아이템을 %s 개 수령하였습니다.	[!GuideMessage]收取附件%s物品%s个。
 #14454	[!GuideMessage]첨부된 %s Vill 수령하였습니다.	[!GuideMessage]收取附件%sVill。
 #14455	[!Ability]등가 교환	[!Mastery]等价交换
@@ -8786,7 +8786,7 @@
 #14873	[!Ability]강화 섬광탄	[!Ability]强化闪光弹
 #14874	[!Ability]강화 파쇄 수류탄	[!Item]强化破片手榴弹
 #14875	[!Ability]강화 빙결탄	[!Item]强化寒冰弹
-#14876	[!Ability]목표 범위 내 산성 구름을 생성합니다. 산성 구름에 닿으면 $ApplyBuff$됩니다.	[!Ability]在目标范围内形成酸性云。接触到酸性云触发$ApplyBuff$状态。
+#14876	[!Ability]목표 범위 내 산성 구름을 생성합니다. 산성 구름에 닿으면 $ApplyBuff$됩니다.	[!Ability]在目标范围内形成酸性雾霭。接触到酸性雾霭触发$ApplyBuff$状态。
 #14877	[!Ability]산성탄	[!Ability]酸性弹
 #14878	[!Ability]강화 소이탄	[!Item]强化燃烧弹
 #14879	[!Ability]강화 연막탄	[!Ability]强化烟雾弹
@@ -8822,20 +8822,20 @@
 #14934	[!Mastery]어차피 필요할 것들인데 미리 준비해둬.	[!Mastery]反正是需要的，提前准备好吧。
 #14935	[!Mastery]추가 프로토콜	[!Mastery]追加协议
 #14937	[!Mastery]매뉴얼은 실수 없이 사용하기 위해 존재하는 거지, 가장 적절한 사용이라고 볼 수는 없어.	[!Mastery]手册是为了不去失误而存在的，而不是为了指导最合适的使用方法。
-#14938	[!Mastery]응용 지식	[!Mastery]应用知识
+#14938	[!Mastery]응용 지식	[!Mastery]应用学
 #14940	[!Mastery]천재는 99%의 노력과 1%의 영감으로 이루어진다	[!Mastery]天才是99%的努力和1%的灵感
 #14941	[!Mastery]대학자	[!Mastery]大学者
 #14943	[!Mastery]방심하면 바로 끝나버리지.	[!Mastery]掉以轻心是会死掉的。
 #14944	[!Mastery]수풀 속의 암살자	[!Mastery]丛林杀手
 #14946	[!Mastery]자신의 운명을 극복하려면 자신의 운명을 받아들여야 해.	[!Mastery]要克服自己的命运，就要先去接受他。
 #14951	[!Mastery]새로운 친구를 만나는 것과 같지.	[!Mastery]好比遇见新的朋友。
-#14952	[!Mastery]교양 서적	[!Mastery]教养书籍
+#14952	[!Mastery]교양 서적	[!Mastery]文学著作
 #14960	[!Mastery]평생을 같이 할 친구를 만나는 것과 같지.	[!Mastery]就如同遇见一起度过一生的朋友一样。
-#14961	[!Mastery]전문 서적	[!Mastery]专著
+#14961	[!Mastery]전문 서적	[!Mastery]专业著作
 #14963	[!Mastery]나를 알고 적을 알면 백전백승	[!Mastery]知彼知己者，百战不殆
-#14964	[!Mastery]사전 정보	[!Mastery]事前情报
+#14964	[!Mastery]사전 정보	[!Mastery]知己知彼
 #14966	[!Mastery]유레카!	[!Mastery]尤里卡！
-#14967	[!Mastery]배움의 기쁨	[!Mastery]学习的乐趣
+#14967	[!Mastery]배움의 기쁨	[!Mastery]究学之乐
 #14968	[!Mastery]무지한 사람은 말을 하며, 지혜로운 사람은 질문하며, 이를 반영한다	[!Mastery]愚者顾云，然智者好问之，遂行。
 #14970	[!Mastery]하늘 위의 암살자	[!Mastery]天空杀手
 #14972	[!Mastery]야생 생활에 적합한 거친 가죽, 날카로운 이빨, 예리한 발톱 그리고 무엇이든 부셔버릴 강력한 턱. 그들이 그곳의 지배자인 이유이네.	[!Mastery]野生生活中适合的粗糙的皮革、尖利的牙齿、锐利之爪还有什么都能粉碎的强力的下颚。这就是他们能够成为这统治者的原因啊。
@@ -8854,21 +8854,21 @@
 #14993	[!Mastery]중요한 부분을 통합하여 하나로 만드는 과정이지.	[!Mastery]是将重要部分合并成一个的过程。
 #14994	[!Mastery]추상화	[!Mastery]抽象化
 #14997	[!Mastery]어설픈 최적화는 모든 악의 근원이다	[!Mastery]蹩脚的优化是一切恶的根源
-#14998	[!Mastery]코드 최적화	[!Mastery]最佳化代码
+#14998	[!Mastery]코드 최적화	[!Mastery]最优算法
 #15000	[!Mastery]신중한 선택을 하길 바래.	[!Mastery]希望你慎重选择。
 #15001	[!Mastery]자료구조	[!Mastery]数据结构
 #15003	[!Mastery]실패를 막기 위한 방법이지.	[!Mastery]这是为了防止失败的方法。
-#15004	[!Mastery]분산 처리	[!Mastery]分布式处理
+#15004	[!Mastery]분산 처리	[!Mastery]分布处理
 #15006	[!Mastery]문제의 범위를 더 작은 단위로 쪼개어 해결하면 각각의 중간 결과를 합하여 최종 결과를 도출할 수 있어.	[!Mastery]把问题的范围分成更小的单位解决，再将每个中间结果加起来就能得出最终结果。
 #15007	[!Mastery]분할 정복 알고리즘	[!Mastery]分治算法
-#15016	[!Mastery]운명에 맞서 싸우다.	[!Mastery]与命运抗争
+#15016	[!Mastery]운명에 맞서 싸우다.	[!Mastery]抗争命运者
 #15019	[!Mastery]한계를 뛰어넘기 위한 방법이지.	[!Mastery]是超越界限的方法。
 #15020	[!Mastery]병렬 처리	[!Mastery]平行处理
 #15021	[!Mastery]더 작동하지 않는 다고요? 일단 껐다 켭시다.	[!Mastery]启动不了吗？重启看看吧。
 #15022	[!Mastery]재시작	[!Mastery]重新启动
-#15030	[!Ability]연속 공격	[!Ability]连续攻击
+#15030	[!Ability]연속 공격	[!Ability]再行动
 #15031	[!Buff]공격 어빌리티 사용 시, 목표 대상이 전투 불능이 되지 않으면 자동적으로 해당 어빌리티를 다시 한번 사용합니다.	[!Buff]使用攻击技能时，若目标对象没进入无法战斗状态的话，则该技能将自动再次发动。
-#15032	[!Buff]연속 공격	[!Buff]连续攻击
+#15032	[!Buff]연속 공격	[!Buff]再行动
 #15033	[!Buff]공격 어빌리티 사용 후 한 번 더 이동할 수 있습니다.	[!Buff]攻击技能发动后可再次移动。
 #15034	[!Buff]공격 어빌리티 사용 후 한 번 더 공격할 수 있습니다.	[!Buff]攻击技能发动后可再次攻击。
 #15035	[!GuideMessage]긴급하게 필요한 만큼의 새로운 프로토콜을 생성해야 하는 필요성을 깨달았습니다.	[!GuideMessage]需要快速生成必要的协议的方案。
@@ -8876,7 +8876,7 @@
 #15038	[!Mastery]필요할 때 없는 것보다 낫지.	[!Mastery]需要时总比没有强。
 #15039	[!Mastery]자동 프로토콜 복구	[!Mastery]自动修复协议
 #15040	[!Mastery]어차피 한 방에 죽지 않을 녀석이라면 고려해야지.	[!Mastery]我知道他反正不会被一击击倒。
-#15041	[!Mastery]연속 공격	[!Mastery]连续攻击
+#15041	[!Mastery]연속 공격	[!Mastery]再行动
 #15043	[!Mastery]필요한 것은 다 챙겨야지.	[!Mastery]需要的都要准备好。
 #15046	[!Mastery]물체 사이에 작용하는 힘과 운동의 관계를 이해하게 해주지.	[!Mastery]教你理解物体之间作用的力和运动的关系。
 #15047	[!Mastery]동역학	[!Mastery]动力学
@@ -8897,7 +8897,7 @@
 #15067	[!Mastery]출력을 최대한 올리는 거지.	[!Mastery]就是最大限度地提高功率。
 #15068	[!Mastery]강력한 주포	[!Mastery]主炮强化
 #15070	[!Mastery]계산할 시간만 충분하면 돼	[!Mastery]只要有足够的时间计算就可以
-#15071	[!Mastery]원격 반응 공격	[!Mastery]远程反应攻击
+#15071	[!Mastery]원격 반응 공격	[!Mastery]遥控反击
 #15073	[!Mastery]에너지, 열, 일, 엔트로피와 과정의 자발성을 다루지.	[!Mastery]处理能量、热、功、熵和过程的自发性。
 #15074	[!Mastery]열역학	[!Mastery]热力学
 #15075	[!Mission]은빛 구름 시장 거리	[!Mission]银彩市场街
@@ -8967,7 +8967,7 @@
 #15159	[!Ability]번개 공격 커맨드	[!Ability]闪电攻击命令
 #15160	[!Ability]일반 공격 커맨드	[!Ability]普通攻击命令
 #15161	[!Ability]공격해! 비비!	[!Ability]进攻！菲菲！
-#15162	[!Ability]자동 방어 공격 프로토콜	[!Ability]自动防御攻击协议
+#15162	[!Ability]자동 방어 공격 프로토콜	[!Ability]防御协议
 #15163	[!Ability]각성 커맨드	[!Ability]觉醒命令
 #15165	[!Ability]교란 프로토콜	[!Ability]扰乱协议
 #15166	[!Ability]강화 공격 프로토콜	[!Ability]强化攻击协议
@@ -8977,7 +8977,7 @@
 #15171	[!Ability]기계 해제	[!Ability]解除机械
 #15172	[!BattleFormulaSharedCondition]프로토콜: ($HackingProtocol$)	[!BattleFormulaSharedCondition]协议：($HackingProtocol$)
 #15173	[!Buff]시야 내 자신을 공격하려는 행동을 하는 모든 적을 먼저 공격합니다.	[!Buff]攻击视野内所有准备攻击自己的敌人。
-#15174	[!Buff]자동 방어 공격	[!Buff]自动防御攻击
+#15174	[!Buff]자동 방어 공격	[!Buff]自动防御
 #15175	[!Buff]피아구분을 교란시킵니다.	[!Buff]扰乱敌友的识别。
 #15176	[!Buff]인식 방해	[!Buff]认知障碍
 #15178	[!Ability]제어권 탈취	[!Ability]夺取控制权
@@ -9261,9 +9261,9 @@
 #15560	[!Mastery]휴식은 더 나아가기 위한 과정이다.	[!Mastery]休息是为了进步而需要的必要过程。
 #15561	[!Mastery]자동 충전	[!Mastery]自动充电
 #15563	[!Mastery]그들은 문제의 원인을 발견하고 해결하는 과정에서 희열을 느끼지.	[!Mastery]他们在发现问题的原因并解决问题的过程中感到喜悦。
-#15564	[!Mastery]책벌레	[!Mastery]书呆子
+#15564	[!Mastery]책벌레	[!Mastery]绩学之士
 #15566	[!Mastery]내가 가장 먼저 아는 것만큼 기쁜 일은 없지.	[!Mastery]没有比我最先知道更高兴的了。
-#15567	[!Mastery]일찍 나는 새	[!Mastery]早起飞的鸟
+#15567	[!Mastery]일찍 나는 새	[!Mastery]未雨绸缪
 #15570	[!Mastery]완벽함은 아무것도 제거할 것이 남지 않았을 때 달성된다.	[!Mastery]完美无缺是在没什么可排除的情况时才能达成的。
 #15571	[!Mastery]개방형 OS	[!Mastery]开放型OS
 #15573	[!Mastery]많으면 많을수록 좋다.	[!Mastery]多多益善。
@@ -9279,7 +9279,7 @@
 #15592	[!Mastery]힘은 집중될수록 강하고 분산될수록 안전하다.	[!Mastery]力量越集中越强大，越分散越安全。
 #15593	[!Mastery]가속 추진기	[!Mastery]加速推进器
 #15595	[!Mastery]모든 순간 최선을 다해라.	[!Mastery]每一个瞬间都要竭尽全力。
-#15596	[!Mastery]자동 반응 사격	[!Mastery]自动反应攻击
+#15596	[!Mastery]자동 반응 사격	[!Mastery]自动反击
 #15598	[!Mastery]연료 전환	[!Mastery]燃料转换
 #15599	[!Mastery]현재의 고통이 미래의 즐거움을 만들 것입니다.	[!Mastery]现在的痛苦将带来未来的快乐。
 #15600	[!Mastery]보조 출력 강화	[!Mastery]强化辅助功率
@@ -9296,7 +9296,7 @@
 #15617	[!Mastery]자동 지원 사격	[!Mastery]自动支援射击
 #15619	[!Mastery]최선의 선택을 도출한다.	[!Mastery]得出最佳的选择。
 #15620	[!Mastery]전황 정보 분석	[!Mastery]战况信息分析
-#15626	[!Mastery]지식의 보고	[!Mastery]知识宝库
+#15626	[!Mastery]지식의 보고	[!Mastery]文宗学府
 #15628	[!Mastery]성공의 핵심 요소는 인내심이다.	[!Mastery]成功的核心要素是忍耐。
 #15629	[!Mastery]다중 처리 OS	[!Mastery]多重处理OS
 #15630	[!MasteryCategory]기체	[!MasteryCategory]机体
@@ -9347,37 +9347,37 @@
 #15681	[!ItemEquipmentPosition]보조 기어	[!ItemEquipmentPosition]辅助齿轮
 #15684	[!ItemType]레톤 의상	[!ItemType]莱顿的服
 #15687	[!Mastery]해답에 도달하는 방식이지.	[!Mastery]求解的方式。
-#15688	[!Mastery]알고리즘	[!Mastery]计算程序
+#15688	[!Mastery]알고리즘	[!Mastery]通用算法
 #15691	[!Mastery]기계를 잘 다루는 자들은 언제나 불러 다닌다. 	[!Mastery]善于操纵机械的人总是被叫来叫去。
 #15692	[!Mastery]기계공학도	[!Mastery]机械工程学
 #15693	[!Mastery]가장 빠른 것을 만들뿐이야.	[!Mastery]只制造最快的。
-#15694	[!Mastery]주포 연사	[!Mastery]主炮连射
+#15694	[!Mastery]주포 연사	[!Mastery]射速即真理
 #15696	[!Mastery]같은 작업을 3번 반복했다면 시작해라.	[!Mastery]相同的工作重复了3次的话才算开始。
 #15697	[!Mastery]리팩토링	[!Mastery]重构
 #15700	[!Mastery]우선 순위가 낮은 것은 일단 미루자.	[!Mastery]不急的暂时先推迟。
 #15701	[!Mastery]지연 처리	[!Mastery]延迟处理
 #15703	[!Mastery]기계의 부품은 대부분 재활용 가능하지.	[!Mastery]机械的零件大部分都可以再利用。
-#15704	[!Mastery]해체전문가	[!Mastery]拆解专家
+#15704	[!Mastery]해체전문가	[!Mastery]废物利用
 #15708	[!Mastery]보조 기어	[!Mastery]辅助齿轮
 #15710	[!Mastery]속았다고 생각했다면 이미 늦었다.	[!Mastery]当人们感到被骗时，为时已晚。
 #15711	[!Mastery]거짓 정보	[!Mastery]假情报
 #15714	[!Mastery]가장 강력한 것을 만들뿐이야.	[!Mastery]只制造最强的。
-#15715	[!Mastery]거포	[!Mastery]大炮
+#15715	[!Mastery]거포	[!Mastery]口径既正义
 #15717	[!Mastery]난 정보의 바다에서 태어난 존재야.	[!Mastery]我是从情报的海洋中诞生的存在。
-#15718	[!Mastery]정보 제어	[!Mastery]控制信息
+#15718	[!Mastery]정보 제어	[!Mastery]信息控制
 #15719	[!Mastery]믿고 싶은 자들은 거짓 정보도 진실로 만들지.	[!Mastery]对于愿意相信的人来说，假话也会被当成真的。
 #15720	[!Mastery]정보 교란	[!Mastery]信息干扰
 #15722	[!Mastery]많은 정보는 백전 노장의 판단을 흐리게 한다.	[!Mastery]即使百战老将也会被过多的情报而混淆判断。
-#15723	[!Mastery]정보 전문가	[!Mastery]情报专家
+#15723	[!Mastery]정보 전문가	[!Mastery]情报局特工
 #15725	[!Mastery]기계공학	[!Mastery]机械工学
 #15732	[!Mastery]정보 교란기	[!Mastery]信息干扰器
 #15734	[!Mastery]업무를 분담하자!	[!Mastery]来分担业务吧！
 #15735	[!Mastery]다중 처리	[!Mastery]多重处理
-#15738	[!Mastery]프로그래머	[!Mastery]程序员
+#15738	[!Mastery]프로그래머	[!Mastery]你好世界
 #15740	[!Mastery]완벽한 계획은 실패하는 순간까지 계산해야 해.	[!Mastery]完美的计划甚至连失败的瞬间都要考虑到。
-#15741	[!Mastery]재빠른 반응 공격	[!Mastery]快速反应攻击
+#15741	[!Mastery]재빠른 반응 공격	[!Mastery]完美反击
 #15743	[!Mastery]프로라면 언제나 실패를 대비한 여분을 준비해야 해.	[!Mastery]作为专家，需要时刻准备应对失败的多余零件。
-#15744	[!Mastery]여분의 부품	[!Mastery]多余的零件
+#15744	[!Mastery]여분의 부품	[!Mastery]有备无患
 #15745	[!Mastery]모듈 해제를 위한 소모품입니다. 한번 습득한 모듈은 제작서를 소모하여 다시 해제할 수 있습니다. 	[!Mastery]解除模块时所消耗的物品。已经习得的模块可以通过消耗设计图重新解除。
 #15746	[!ObjectInfo]강화 드론	[!ObjectInfo]强化无人机
 #15747	[!ObjectInfo]고속 드론	[!ObjectInfo]高速无人机
@@ -10425,16 +10425,16 @@
 #17135	[!Item]자홍빛 흑철 전투 장갑	[!Item]紫红黑铁战斗手套
 #17136	[!Item]남청빛 흑철 전투 장갑	[!Item]藏蓝黑铁战斗手套
 #17137	[!Item]푸가 백호파의 2대 보스로 등극하면서 만든 백호 갈기 문양이 들어간 너클.	[!Item]普在成为白虎组的2代首领时制作的拥有白虎鬃纹的指虎。
-#17138	[!Mastery]천부적 재능	[!Mastery]天生的才能
+#17138	[!Mastery]천부적 재능	[!Mastery]天生我才
 #17139	[!Mastery]노력은 누구나 할 수 있지만 재능은 태어날 때부터 주어지는 특권이지.	[!Mastery]努力是谁都能做到的，但才能是生来就有的特权。
 #17146	[!Mastery]떠오르는 별	[!Mastery]后起之秀
 #17147	[!Mastery]지금이 나의 전성기입니다.	[!Mastery]现在正是我的黄金时代
 #17153	[!Mastery]강경	[!Mastery]刚劲
 #17154	[!Mastery]이능력 역시 반복해서 단련하면 강화되는 힘의 일종이지.	[!Mastery]异能果然是反复锻炼就会变强的一种力量。
 #17156	[!Mastery]평경	[!Mastery]捧劲
-#17158	[!Mastery]가려진 과거	[!Mastery]被掩盖的过去
+#17158	[!Mastery]가려진 과거	[!Mastery]舞台背后
 #17159	[!Mastery]가장 빛나는 무대에서 지금 뛰고 있는 자들의 어제는 피와 땀 그리고 고통과 외로움으로 가득차 있다.	[!Mastery]在最闪耀的舞台上，现在活跃的人们的昨天是充满了血汗、痛苦和孤独的。
-#17161	[!Mastery]광휘	[!Mastery]光辉
+#17161	[!Mastery]광휘	[!Mastery]光芒四射
 #17162	[!Mastery]그들이 보여주는 한없이 빛나는 인생은 수 많은 자들에게 그림자를 드리운다.	[!Mastery]他们的人生所展现的无限光辉给无数人投下了阴影。
 #17166	[!Mastery]흐름을 잠시 멈추는 것도 큰 흐름의 한 부분이지.	[!Mastery]暂时停下来也是大趋势的一部分。
 #17174	[!Mastery]청경	[!Mastery]听劲
@@ -10766,7 +10766,7 @@
 #17600	[!Item]체체가 유랑 서커스단의 익살꾼 시절 사용하던 묘기용 팔찌를 꾸준히 개량한 팔찌이다. 묘기를 선 보이기 위해 사용했던 팔찌라 속도와 지속성에 특화되어 있다.	[!Item]采采把在流浪杂技团时期使用的杂技手镯不断进行改良。因为是展示杂技时所使用的手镯，所以特别加强了速度和持久性。
 #17601	[!Job]익살꾼	[!Job]丑角
 #17602	[!Job]소리꾼	[!Job]歌手
-#17603	[!Mastery]청중 사로잡기	[!Mastery]吸引听众
+#17603	[!Mastery]청중 사로잡기	[!Mastery]倾倒众人
 #17604	[!Mastery]그들이 하는 것은 눈부시고 아름다울 뿐이다.	[!Mastery]他们所在做的就是耀眼的美丽。
 #17607	[!Mastery]나는 포기하지 않는다.	[!Mastery]我永不放弃
 #17608	[!Mastery]쓰레기는 보이는 순간 처리한다.	[!Mastery]垃圾在看到的瞬间就该处理。
@@ -10795,7 +10795,7 @@
 #17651	[!Loading]혼란은 악당을 부른다.	[!Loading]混沌是会招来恶徒的。
 #17652	[!NamedEvent]투덜쟁이 펠릭스	[!NamedEvent]牢骚鬼费利克斯
 #17654	[!GuideMessage]대상 타일에 유닛이 있습니다.	[!GuideMessage]目标格子内已有单位存在。
-#17662	[!Loading]그림자 연극	[!Loading]影子戏
+#17662	[!Loading]그림자 연극	[!Loading]皮影戏
 #17664	[!LoadingDesc]어빌리티 범위 고정	[!KeyBinding]固定技能范围
 #17666	[!LobbyIdleMessage][!speaker:Albus]티마의 영역을 침범한 것은 인간이겠지...	[!LobbyIdleMessage][!speaker:Albus]侵犯蒂玛领域的应该是人类吧...
 #17667	[!LobbyIdleMessage][!speaker:Albus]스푼교는 도대체 언제 만들어진 집단일까...	[!LobbyIdleMessage][!speaker:Albus]勺子教到底是什么时候创立的呢...
@@ -11232,17 +11232,17 @@
 #18105	[!GuideMessage]대상은 $ApplySubBuff$ 상태가 됩니다.	[!Ability]目标变成$ApplySubBuff$状态。
 #18108	[!ObjectInfo]미스티	[!ObjectInfo]米斯媞
 #18109	[!ObjectInfo]예거	[!ObjectInfo]耶格尔
-#18111	[!Troublebook]그림자 연극	[!Troublebook]影子戏
+#18111	[!Troublebook]그림자 연극	[!Troublebook]皮影戏
 #18112	[!Ability]산성액던지기	[!Ability]投掷酸性液
 #18113	[!Ability]강화된 산성액던지기	[!Ability]强化投掷酸性液
 #18114	[!Ability]산성액뿌리기	[!Ability]播撒酸性液
 #18115	[!Ability]최대 3개의 산성액이 든 병을 동시에 던져 목표 범위 내 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]同时向对方投掷最多3个装有酸性液的瓶子，并对目标范围内的对象造成$DamageAmount$的$DamageType$伤害。
 #18116	[!Item]산성액	[!Item]酸性液
-#18117	[!Mastery]기회창출자	[!Mastery]机会创造者
+#18117	[!Mastery]기회창출자	[!Mastery]见机行事
 #18118	[!Mastery]어떻게든 되게 한다.	[!Mastery]不管怎样都要做到。
 #18120	[!Mastery]넌 아무것도 할 수 없다.	[!Mastery]你什么都做不了
 #18121	[!Mastery]재능은 타고나는 것이지만 실력은 만들어 가는 것이다.	[!Mastery]才能是天生的，但实力是创造出来的。
-#18123	[!Mastery]재빠른 준비	[!Mastery]迅速的准备
+#18123	[!Mastery]재빠른 준비	[!Mastery]以逸待劳
 #18124	[!Mastery]최고의 결과를 위해 미리 준비한다.	[!Mastery]为了最好的结果而提前准备。
 #18126	[!Mastery]반이능탄	[!Mastery]反异能弹
 #18127	[!Mastery]적을 알고 나를 알면 백전 백승.	[!Mastery]知彼知己，百战不殆
@@ -11250,7 +11250,7 @@
 #18129	[!Mastery]한계를 인정하는 순간 새로운 기회가 주어진다.	[!Mastery]承认界限的瞬间就会有新的机会。
 #18132	[!ObjectInfo]스푼교 척탄병	[!ObjectInfo]勺子教掷弹兵
 #18133	[!ObjectInfo]스푼교 순찰자	[!ObjectInfo]勺子教游击兵
-#18135	[!Mastery]성실한 연구가	[!Mastery]诚实的研究家
+#18135	[!Mastery]성실한 연구가	[!Mastery]敦本务实
 #18136	[!Mastery]모든 새로운 시도는 기존의 지식을 바탕으로 시작된다.	[!Mastery]所有新的尝试都是以现有的知识为基础开始的。
 #18138	[!Mastery]예측불허	[!Mastery]预测不能
 #18139	[!Mastery]그의 행동은 이미 인간의 수준을 넘어섰지.	[!Mastery]他的行为已经超出了人类了。
@@ -11301,7 +11301,7 @@
 #18197	[!GuideMessage]최대 $FieldEffectMaxCount$칸까지 $FieldEffectName$[이] 발생합니다.	[!GuideMessage]最多在半径$FieldEffectMaxCount$格的地形上引发$FieldEffectName$。
 #18198	[!GuideMessage]$FieldEffectProb$ 확률로 최대 $FieldEffectMaxCount$칸까지 $FieldEffectName$[이] 발생합니다.	[!GuideMessage]最多再半径$FieldEffectMaxCount$格的地形上，以$FieldEffectProb$的几率引发$FieldEffectName$。
 #18199	[!Site]까마귀폐허 도깨비굴	[!Site]墨鸦废墟妖洞
-#18200	[!Ability]서리폭풍각	[!Ability]雪霜风暴脚
+#18200	[!Ability]서리폭풍각	[!Ability]雪霜暴风踢
 #18201	[!AbilityDirectingEvent]마무리 $Lv$	[!AbilityDirectingEvent]收尾$Lv$
 #18202	[!Buff]턴 시작 시, 해당 상태가 최대 레벨이면 해당 상태가 해제되고 $AddBuffName$ 상태가 됩니다.	[!Buff]回合开始时，若该状态达到最高等级，则该状态将会被解除并进入$AddBuffName$状态。
 #18203	[!Buff]위축	[!Buff]萎缩
@@ -11319,7 +11319,7 @@
 #18218	[!Loading]까마귀폐허 지하수로	[!Loading]墨鸦废墟地下水道
 #18219	[!Mastery]신기한 재주	[!Mastery]神奇的花招
 #18220	[!Mastery]인생이란 가까이서 보면 비극이고, 멀리서 보면 희극이다.	[!Mastery]人生近看是悲剧，远看是喜剧。
-#18222	[!Mastery]흥겨운 몸짓	[!Mastery]欢快的身姿
+#18222	[!Mastery]흥겨운 몸짓	[!Mastery]轻快身姿
 #18223	[!Mastery]아무도 너를 보지 않는 것처럼 춤을 추어라.	[!Mastery]跳舞如入无人之境。
 #18225	[!Mastery]아름다운 목소리	[!Mastery]美丽的声音
 #18226	[!Mastery]자신의 감정을 표현하는 가장 아름다운 행위이다.	[!Mastery]是表达自己感情的最美行为。
@@ -11327,11 +11327,11 @@
 #18228	[!Mastery]말로 표현할 수 없는 것을 전달한다.	[!Mastery]无法用语言形容的传达方式。
 #18229	[!Mastery]빛나는 재능	[!Mastery]奇才
 #18230	[!Mastery]세상은 불공평하다. 재능은 타고나는 것이기 때문이다.	[!Mastery]世界是不公平的。因为才能是天生的。
-#18236	[!Mastery]춤! 춤! 춤!	[!Mastery]跳！跳！跳！
+#18236	[!Mastery]춤! 춤! 춤!	[!Mastery]一个人的舞台
 #18237	[!Mastery]너가 이 무대의 주인공이다.	[!Mastery]你是这个舞台的主角。
-#18239	[!Mastery]아름다운 춤	[!Mastery]优美的舞姿
+#18239	[!Mastery]아름다운 춤	[!Mastery]翩若惊鸿
 #18240	[!Mastery]너의 상상을 마음껏 풀어 놓아라!	[!Mastery]尽情释放你的想象吧！
-#18241	[!Mastery]폭발적인 춤	[!Mastery]爆炸性的舞蹈
+#18241	[!Mastery]폭발적인 춤	[!Mastery]动若游龙
 #18242	[!Mastery]너의 감정을 마음껏 풀어 놓아라!	[!Mastery]尽情释放你的感情吧！
 #18243	[!Mastery]사석위호	[!Mastery]射石为虎
 #18244	[!Mastery]설령 착각일지라도 진심으로 원하는 것을 위해 집중한다면 안 될 리가 없다.	[!Mastery]即使是个错觉，为了心中所愿而集中努力，就没什么不可能的。
@@ -11343,15 +11343,15 @@
 #18253	[!Mastery]한낱 풀이지만 강한 바람에도 꺽이지 않는다.	[!Mastery]虽然只是区区的小草，但是不会被强风刮倒。
 #18255	[!Mastery]심신단련	[!Mastery]心身锻炼
 #18256	[!Mastery]몸과 마음은 독립적인 존재이지만 서로 유기적으로 작동하지.	[!Mastery]身心虽然是独立的存在，但彼此是互相共存的。
-#18258	[!Mastery]대성황	[!Mastery]盛况
+#18258	[!Mastery]대성황	[!Mastery]盛况空前
 #18259	[!Mastery]넌 이제 전설이야.	[!Mastery]你现在是个传说。
-#18261	[!Mastery]빛나는 자	[!Mastery]聚光之人
+#18261	[!Mastery]빛나는 자	[!Mastery]众星捧月
 #18262	[!Mastery]호감은 인기가 되고, 인기는 경애가 된다.	[!Mastery]好感变为人气，人气成为敬爱。
-#18264	[!Mastery]빛의 그림자	[!Mastery]光影
+#18264	[!Mastery]빛의 그림자	[!Mastery]浮光掠影
 #18265	[!Mastery]현재의 내가 없었다면 내 과거는 그저 어둡고 암울한 이야기에 지나지 않지.	[!Mastery]如果没有现在的我，那过去的我不过是个充满阴影的故事罢了。
-#18267	[!Mastery]앙코르 공연	[!Mastery]再演
+#18267	[!Mastery]앙코르 공연	[!Mastery]永不散场
 #18268	[!Mastery]그대들이 내 이름을 외치는 한 무대는 끝나지 않는다!	[!Mastery]只要你们喊着我的名字，舞台就不会结束！
-#18270	[!Mastery]청중 압도하기	[!Mastery]倾倒听众
+#18270	[!Mastery]청중 압도하기	[!Mastery]万众倾心
 #18271	[!Mastery]내 이름은 뭐지! 자 외쳐! 나의 이름을!	[!Mastery]我的名字是什么！大声喊出来！我的名字！
 #18273	[!Mastery]순회 공연	[!Mastery]巡回演出
 #18274	[!Mastery]진정한 스타는 팬이 있는 곳이면 어디든지 간다.	[!Mastery]真正的明星是只要是有粉丝的地方，无论哪里都会去。
@@ -11361,29 +11361,29 @@
 #18280	[!Mastery]강력한 힘에는 언제나 고통이 따른다.	[!Mastery]强大的力量总是伴随着痛苦。
 #18282	[!Mastery]항동결 부작용	[!Mastery]抗冻结副作用
 #18283	[!Mastery]약이란 언제나 부작용을 동반하지.	[!Mastery]药总是伴随着副作用。
-#18285	[!Mastery]능숙한 신체 제어	[!Mastery]熟练的身体控制
+#18285	[!Mastery]능숙한 신체 제어	[!Mastery]协调达人
 #18286	[!Mastery]네가 상상한 동작이 네 몸으로 표현되야 해.	[!Mastery]你想象中的动作应该用你的身体来表现。
 #18288	[!Mastery]끊임없는 단련	[!Mastery]不断的锻炼
 #18289	[!Mastery]몸을 움직이지 않는 순간마다 내 몸은 얼어붙어 간다.	[!Mastery]每当身体懒惰不动时，身体就会开始僵硬。
-#18291	[!Mastery]경쾌한 안무	[!Mastery]轻快的编舞
+#18291	[!Mastery]경쾌한 안무	[!Mastery]轻快编舞
 #18292	[!Mastery]조금이라도 더 빠르게~!	[!Mastery]更加快一点～！
 #18294	[!Mastery]리듬에 맞춰 흥겹게	[!Mastery]跟着节奏摇摆
 #18295	[!Mastery]네가 하고 싶은 걸 해. 그것이 세상에서 가장 멋진 너의 길이야.	[!Mastery]做你想做的事。那是这世上属于你自己的道路。
 #18297	[!Mastery]정확한 동작 그리고 반복.	[!Mastery]正确地做出动作并反复。
-#18300	[!Mastery]화려한 안무	[!Mastery]华丽的编舞
+#18300	[!Mastery]화려한 안무	[!Mastery]华丽编舞
 #18301	[!Mastery]보는 자들에게 황홀함을~	[!Mastery]让观者入迷～
-#18303	[!Mastery]각광	[!Mastery]脚光灯
+#18303	[!Mastery]각광	[!Mastery]聚焦于此
 #18304	[!Mastery]나는 전설이 될 것이다.	[!Mastery]我将成为传说。
-#18306	[!Mastery]열연	[!Mastery]热烈地表演
+#18306	[!Mastery]열연	[!Mastery]热烈演出
 #18307	[!Mastery]언제나 지금 이 순간이 나의 최고의 순간이다.	[!Mastery]无论怎样，此时此刻都是我最好的瞬间。
-#18309	[!Mastery]다재다능	[!Mastery]多才多艺
+#18309	[!Mastery]다재다능	[!Mastery]才艺踔绝
 #18310	[!Mastery]재능이 있는 자가 노력한다면 누구도 그를 당해낼 수 없다.	[!Mastery]才能加努力，谁也胜不过他。
-#18312	[!Mastery]정교한 안무	[!Mastery]精巧的编舞
+#18312	[!Mastery]정교한 안무	[!Mastery]精巧编舞
 #18314	[!Mastery]정기 공연	[!Mastery]定期演出
 #18315	[!Mastery]인기는 관리하지 않으면 사라진다.	[!Mastery]人气如果不管理就会消失。
-#18318	[!Mastery]격렬한 안무	[!Mastery]激烈的编舞
+#18318	[!Mastery]격렬한 안무	[!Mastery]激烈编舞
 #18319	[!Mastery]강렬한 인상 하나면 모든 것을 지배한다.	[!Mastery]一个强烈的印象就能支配一切。
-#18322	[!Mastery]앙코르	[!Mastery]要求再演
+#18322	[!Mastery]앙코르	[!Mastery]意犹未尽
 #18323	[!Mastery]공연이 끝나도 박수 소리는 멈추지 않는다.	[!Mastery]即使演出结束，掌声也不停止。
 #18325	[!MasteryType]음악가	[!MasteryType]音乐家
 #18326	[!Mission]까마귀폐허 지하수로	[!Mission]墨鸦废墟地下水道
@@ -11416,8 +11416,8 @@
 #18360	[!Status][!Short]공연 슬롯	[!Status]演出栏
 #18361	[!Troublebook]까마귀폐허 지하수로	[!Troublebook]墨鸦废墟地下水道
 #18362	[!WordCollection]공연 효과	[!WordCollection]演出效果
-#18363	[!Ability]쌍륜각	[!Ability]双轮脚
-#18364	[!Ability]서리반월각	[!Ability]雪霜半月脚
+#18363	[!Ability]쌍륜각	[!Ability]雪霜双轮踢
+#18364	[!Ability]서리반월각	[!Ability]雪霜半月踢
 #18365	[!Ability]시야 내 대상은 $CancelBuff$ 상태가 됩니다.	[!Ability]视野内的对象将进入$CancelBuff$状态。
 #18366	[!GuideMessage][colour='FFFFE959']현재까지 [colour='FFFFFFFF']멋짐[colour='FFFFE959'] 누적 횟수는 [colour='FFFFFFFF']%d[colour='FFFFE959']회 입니다.	[!GuideMessage][colour='FFFFE959']到目前为止[colour='FFFFFFFF']帅气[colour='FFFFE959']的累积次数是[colour='FFFFFFFF']%d[colour='FFFFE959']次。
 #18369	[!GuideMessage]공연이 끝나도 끊이지 않는 박수 소리와 환호 속에 자신이 나아갈 길을 깨달았습니다.	[!GuideMessage]在演出结束后不断的掌声和欢呼声中，我明白了自己该走的道路。
@@ -11993,7 +11993,7 @@
 #19085	[!Help]내구도	[!Help]耐久度
 #19086	[!Help]기계는 내구도에 따라 다음과 같은 효과가 발생합니다.	[!Help]机械单位根据耐久度而产生如下效果。
 #19087	[!Help]독구름	[!FieldEffect]毒云
-#19088	[!Help]산성 구름	[!Ability]酸性云
+#19088	[!Help]산성 구름	[!Ability]酸性雾霭
 #19089	[!Help]얼음 안개	[!Ability]寒冰雾
 #19090	[!Help]회복 안개	[!Ability]恢复雾
 #19091	[!Help]정전	[!FieldEffect]停电
@@ -12208,14 +12208,14 @@
 #19318	[!Mastery]단 한 번의 주저함이 모든 것을 망친다.	[!Mastery]一次迟疑会毁掉一切。
 #19332	[!ObjectInfo]스푼교 살육자	[!ObjectInfo]勺子教屠弑者
 #19333	[!StatsInfo]평균 치명타 적중률	[!StatsInfo]平均暴击率
-#19334	[!Ability]즉흥적인 마무리	[!Ability]即兴的收尾
-#19335	[!Buff]즉흥적인 마무리	[!Buff]即兴的收尾
+#19334	[!Ability]즉흥적인 마무리	[!Ability]即兴收尾
+#19335	[!Buff]즉흥적인 마무리	[!Buff]即兴收尾
 #19336	[!Buff]다음 행동으로 공연을 마무리합니다.	[!Buff]可以在下一回合结束表演。
 #19337	[!GuideMessage]지루한 공연을 지속하는 것보다 빨리 마무리를 짓는 것이 더 나은 것을 깨달았습니다.	[!GuideMessage]懂得了比起持续无聊的表演，还不如赶紧结束更好。
 #19338	[!Item]드라키의 가죽으로 만들어진 자켓. 사용성을 강화하여 순간적으로 강력한 힘을 끌어내기 쉽다.	[!Item]使用德拉基皮而制作的夹克。这有利于在一瞬间爆发出强大的力量。
 #19339	[!Mastery]향기	[!Buff]香气
 #19340	[!Mastery]좋은 향기는 누구나 가릴 것 없이 좋아하지.	[!Mastery]无论是谁都会喜欢的好气味。
-#19341	[!Mastery]즉흥적인 마무리	[!Mastery]即兴的收尾
+#19341	[!Mastery]즉흥적인 마무리	[!Mastery]即兴收尾
 #19342	[!Mastery]어떤 일이든 마무리는 제대로 해야지.	[!Mastery]不管什么事都要好好收尾。
 #19343	[!Loading]순교자	[!Loading]殉教者
 #19344	[!Ability]비늘 외장	[!Ability]鳞片外甲
@@ -13060,8 +13060,8 @@
 #20501	[!ArrestSet]해당 유닛이 전투불능이 되면 체포됩니다.	[!ArrestSet]可在该单位无法战斗时逮捕。
 #20502	[!CollectItemSet]미술품 상자	[!CollectItemSet]美术品箱
 #20503	[!CollectItemSet]$Unit$[이] 미술품을 회수하였습니다.	[!CollectItemSet]$Unit$回收了美术作品。
-#20505	[!Item]남청빛 그림자 운동화	[!Item]藏蓝影子运动鞋
-#20506	[!Item]현재 제작 가성비에 의해 제작이 단종된 자홍빛 그림자 운동화의 강화형 검이다.	[!Item]蓝色影子运动鞋的强化型。因性价比较高，已停产。
+#20505	[!Item]남청빛 그림자 운동화	[!Item]藏蓝暗影运动鞋
+#20506	[!Item]현재 제작 가성비에 의해 제작이 단종된 자홍빛 그림자 운동화의 강화형 검이다.	[!Item]蓝色暗影运动鞋的强化型。因性价比较高，已停产。
 #20507	[!Item]수집업자 손목 고리	[!Item]收藏家的手链
 #20508	[!Item]수집업자들이 원하는 수거 대상을 탐색하는 기능이 탑재된 손목 고리이다.	[!Item]具有可轻易辨别回收对象功能的手链。
 #20509	[!Item]동방연합 장교용 강화복	[!Item]东方联盟军官用强化服
@@ -13240,8 +13240,8 @@
 #20713	[!InteractionArea]조사 지역	[!InteractionArea]调查地区
 #20714	[!Item]수색대 부츠	[!Item]搜索队靴子
 #20715	[!Item]탐험가 부츠를 개량하여 이동성을 증가시킨 부츠.	[!Item]改良探险家靴子来增强了移动性的靴子。
-#20716	[!Item]남청빛 그림자 코트	[!Item]藏蓝影子外套
-#20717	[!Item]자홍빛 그림자 코트의 강화 버전. 제작 비용 대비 실용성이 낮아 현재는 제작되지 않는다.	[!Item]紫红影子外套的加强版。与制作费用相比实用性较低，因此目前不会制作。
+#20716	[!Item]남청빛 그림자 코트	[!Item]藏蓝暗影外套
+#20717	[!Item]자홍빛 그림자 코트의 강화 버전. 제작 비용 대비 실용성이 낮아 현재는 제작되지 않는다.	[!Item]紫红暗影外套的加强版。与制作费用相比实用性较低，因此目前不会制作。
 #20718	[!KillCondition]오버킬	[!HelpKeyword]过度击杀
 #20719	[!KillCondition]일격필살	[!WordCollection]一击必杀
 #20720	[!Mastery]특성 해제를 위한 소모품입니다. 한번 습득한 특성은 훈련서를 소모하여 다시 해제할 수 있습니다.	[!Mastery]这是解除属性时使用的消耗品。这是擦除天赋的消耗品。学习过的天赋是需要消耗训练书才能进行擦除的。
@@ -15311,7 +15311,7 @@
 #23438	[!GuideMessage]해당 제작은 추가 숙련도만 획득 가능합니다.	[!GuideMessage]该制作只能获得额外熟练度。
 #23439	[!GuideMessage]해당 아이템 제작으로 획득하는 제작 숙련도의 $Value$만큼 추가 숙련도를 얻습니다.	[!GuideMessage]制作该物品时将获得所获得熟练度的$Value$的额外熟练度。
 #23440	[!GuideMessage]현재 $Type$ $Level$ 전문 기술로 제작 가능한 모든 아이템의 제작 숙련도에 획득한 추가 숙련도가 균등 분배됩니다.	[!GuideMessage]当前以$Type$ $Level$专门技术可以制作的所有物品的制作熟练度所获得的额外熟练度将会被均分。
-#23441	[!Profession]스프레이 제작	[!Profession]喷雾器制作
+#23441	[!Profession]스프레이 제작	[!Profession]喷雾瓶制作
 #23442	[!WordCollection]추가 숙련도	[!WordCollection]额外熟练度
 #23443	[!Mastery]적에게 공격을 적중시키면, 다음과 같은 효과가 발생합니다.	[!Mastery]攻击命中敌人时，将获得如下效果。
 #23445	[!Loading]비는 눈물 따라 흐르고...	[!Loading]雨滴随着泪水流淌...

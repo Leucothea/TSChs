@@ -280,7 +280,7 @@
 #5704	[!Dialog]하지만 그런 의견에도 불구하고 대부분의 트러블슈터 회사의 주 수익원은 발할라의 지원금과 이 '전리품'이었다.	[!Dialog]然而就算存在这种观点，多数的纷争终结者公司的主要收入依然是巴赫拉的支援金和这些「战利品」。
 #5705	[!Dialog]그것은 [colour='FFFFFF00']$CompanyName$[colour='FFFFFFFF']도 예외가 아니었다.	[!Dialog]这对于[colour='FFFFFF00']$CompanyName$[colour='FFFFFFFF']来说也不是例外。
 #5726	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']창고를 계약하면 인벤토리 최대 공간이 증가합니다. 또한 추후 아이템 제작 기능을 추가하실 수 있습니다.	[!Dialog][padding='l:0t:0r:0b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Vitality'][padding='l:0t:0r:0b:0'][colour='FFFFE959']签约合同后仓储空间上限将会提升。并且可以在日后添加物品制作，鉴定等便利功能。
-#6203	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]꿋꿋이 발할라와 함께 성장한 바람장벽지구의 그림자...	顽强地和巴赫拉一起成长起来的风之壁的影子...
+#6203	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]꿋꿋이 발할라와 함께 성장한 바람장벽지구의 그림자...	顽强地和巴赫拉一起成长起来的风之壁的暗影...
 #6207	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]그들이 가는 곳곳마다 나타나는 발할라 경찰들과 트러블슈터들에 의해 몸은 피로해지고 마음은 꺾여나갔다.	他们去往的每一处都会出现的巴赫拉警察和纷争终结者，这让他们的身体俱疲。
 #6210	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]그는 자신의 입지를 굳히기 위해 같은 처지의 푸와 트레이를 찾는다.	[!Sentence][!Subtitle]他为了巩固自己的立场而去找处在同样境地的普和特莱。
 #6211	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]지난 몇 년간 발할라 경찰청은 끊임없이 범죄자들을 이 지역에서 몰아냈다.	[!Sentence][!Subtitle]在过去的几年间巴赫拉警察厅不断地把犯罪分子们驱赶出这个区域。
@@ -6940,7 +6940,7 @@
 #15262	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Andrei_Normal]음. 이젠 두 번 다시 경찰에 연락하지 않겠군.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Andrei_Normal]嗯。这样你就再也不会报警了。
 #15263	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]후성. 참아. 네 녀석이 조직에 얼마나 열심인지 다 안다고.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]侯成你忍忍。你对组织有多上心，大家都有目共睹的。
 #15264	[!Sentence][!Title]별빛 사거리 고급 주택가	[!Sentence][!Title]星光广场路口高级住宅区
-#15265	[!Sentence][!Title]그림자 샨띠엔	[!Sentence][!Title]影子闪电
+#15265	[!Sentence][!Title]그림자 샨띠엔	[!Sentence][!Title]暗影闪电
 #15266	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Rage]'백호파 녀석들... 10년 전의 반복인가...'	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Rage]（白虎组的家伙们...这难道是要重复十年前的行径吗...）
 #15267	[!Sentence][!Dialog][!speaker:Albus_Think][colour='FFFFFF00']'현장 상황을 모르니 어디로 진입하는 것이 좋은지 알 수가 없구나...'	[!Sentence][!Dialog][!speaker:Albus_Think][colour='FFFFFF00']（不清楚现场状况，不知道该从哪里进入会比较好...）
 #15268	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]케빈 녀석. 이래라 저래라. 지가 완전 보스야.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]凯文这家伙。指手画脚的。当自己是首领呢。
@@ -11602,7 +11602,7 @@
 #20980	[!Sentence][!Dialog][!speaker:Kylie_Normal]알버스. 이쪽 아래에서 인위적인 광원이 감지된다.	[!Sentence][!Dialog][!speaker:Kylie_Normal]阿尔伯斯，在这下面感应到了人工的光源。
 #20981	[!Sentence][!Dialog][!speaker:Albus_Serious]알겠습니다. 그럼 한번 더 지하 벙커를 수색하도록 하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]知道了。那么就再次去地下地堡探索看看。
 #20982	[!Sentence][!Dialog][!speaker:Albus_Normal]이번에도 소득이 없으면 복귀하도록 하겠습니다!	[!Sentence][!Dialog][!speaker:Albus_Normal]如果这次也没有收获的话，就照常回归了！
-#20983	[!Sentence][!Title]그림자 연극	[!Sentence][!Title]影子戏
+#20983	[!Sentence][!Title]그림자 연극	[!Sentence][!Title]皮影戏
 #20984	[!Sentence][!Title]까마귀폐허 도깨비굴	[!Sentence][!Title]墨鸦废墟妖洞
 #20985	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]제대로 찾아 왔네.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]找对地方了。
 #20986	[!Sentence][!Dialog][!speaker:Sion_Surprise]우와! 바로 위층까지만 해도 폐허였는데...	呜啊！这上面可还是废墟的呢...
