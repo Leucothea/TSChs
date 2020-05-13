@@ -98,7 +98,7 @@
 #224	[!AbilityApplyTargetType]다수	[!AbilityApplyTargetType]多数
 #225	[!AbilityApplyTargetType]단일	[!AbilityApplyTargetType]单一
 #226	[!AbilityDirectingEvent]$Time$ 턴 대기 시간	[!AbilityDirectingEvent]$Time$回合冷却时间
-#228	[!AbilityDirectingEvent]피범벅!	[!AbilityDirectingEvent]血肉模糊！
+#228	[!AbilityDirectingEvent]피범벅!	[!AbilityDirectingEvent]血染八方！
 #229	[!AbilityDirectingEvent]$Buff$ 면역 ($Reason$)	[!AbilityDirectingEvent]免疫$Buff$($Reason$)
 #251	[!AbilityHitRateType]낙하	[!AbilityHitRateType]降落
 #252	[!AbilityHitRateType]사격	[!AbilityHitRateType]射击
@@ -126,7 +126,7 @@
 #299	[!Buff]출혈	[!Buff]流血
 #300	[!Buff]실명	[!Buff]致盲
 #301	[!Buff]흡혈	[!Buff]吸血
-#303	[!Buff]피범벅	[!Buff]血肉模糊
+#303	[!Buff]피범벅	[!Buff]血染八方
 #304	[!Buff]용기	[!Buff]勇气
 #307	[!Buff]타박상	[!Buff]跌打伤
 #308	[!Buff]화상	[!Buff]烧伤
@@ -617,7 +617,7 @@
 #1363	[!Mastery]칼날 폭풍	[!Mastery]剑刃风暴
 #1366	[!Mastery]피냄새	[!Mastery]血腥味
 #1368	[!Mastery]피는 물보다 진하다.	[!Mastery]血浓于水。
-#1373	[!Mastery]피범벅	[!Mastery]血肉模糊
+#1373	[!Mastery]피범벅	[!Mastery]血染八方
 #1376	[!Mastery]유혈	[!Mastery]流血
 #1378	[!Mastery]타격 내성 I	[!Mastery]耐打性(一)
 #1379	[!Mastery]타격 내성 II	[!Mastery]耐打性(二)
@@ -767,7 +767,7 @@
 #1796	[!Mastery]그림자 바람	[!Mastery]影风
 #1799	[!Mastery]흔들기	[!Mastery]摇晃
 #1800	[!Mastery]주술사	[!Mastery]咒术师
-#1802	[!Mastery]예리한 칼날	[!Mastery]锐利之刃
+#1802	[!Mastery]예리한 칼날	[!Mastery]锐利之剑
 #1804	[!Mastery]명사수	[!Mastery]神射手
 #1807	[!Mastery]산산조각	[!Mastery]碎裂至渣
 #1810	[!Mastery]명탐정	[!Mastery]名侦探
@@ -798,7 +798,7 @@
 #1889	[!Mastery]강인한 의지	[!Mastery]坚强的意志
 #1892	[!Mastery]투영	[!Mastery]投影
 #1895	[!Mastery]보물 사냥꾼	[!Mastery]宝物猎人
-#1898	[!Mastery]보물섬	[!Mastery]宝物岛
+#1898	[!Mastery]보물섬	[!Mastery]金银岛
 #1900	[!Mastery]눈속임	[!Mastery]障眼法
 #1902	[!Mastery]이해	[!Mastery]理解
 #1905	[!Mastery]패배자	[!Mastery]败北者
@@ -2379,7 +2379,7 @@
 #4814	[!WordCollection]이어서 하기	[!WordCollection]继续游戏
 #4815	[!WordCollection]회사 변경	[!WordCollection]变更公司
 #4816	[!WordCollection]새로운 회사 만들기	[!WordCollection]成立公司
-#4817	[!WordCollection]옵션	[!WordCollection]选项
+#4817	[!WordCollection]옵션	[!WordCollection]环境设置
 #4819	[!WordCollection]미등록 회사	[!WordCollection]未注册公司
 #4820	[!Buff]격앙	[!Buff]激昂
 #4822	[!Job]시민	[!Job]市民
@@ -2560,7 +2560,7 @@
 #5135	[!WordCollection]현재 아이템	[!WordCollection]当前物品
 #5136	[!WordCollection]착용할 아이템	[!WordCollection]装备的物品
 #5137	[!WordCollection][!menu]특성 습득	[!WordCollection][!menu]学习天赋
-#5138	[!WordCollection][!Menu]추가 특성 효과	[!WordCollection][!Menu]组合天赋效果
+#5138	[!WordCollection][!Menu]추가 특성 효과	[!WordCollection][!Menu]组合天赋图鉴
 #5139	[!WordCollection][!Menu]특성 목록	[!WordCollection][!Menu]天赋列表
 #5140	[!WordCollection][!Menu]보조 특성	[!WordCollection][!Menu]辅助天赋
 #5143	[!GuideMessage]$Name$ $Exp$ 경험치를 획득하였습니다. ($Reason$)	[!GuideMessage]$Name$获得了$Exp$点经验值。($Reason$)
@@ -4435,7 +4435,7 @@
 #8014	[!Mastery]단 하나를 위해 모든 힘을!	[!Mastery]为了一个目标汇聚所有力量！
 #8015	[!Mastery]매일 같이 반복하는 과정이 능숙함을 만든다.	[!Mastery]每天反复的过程带来的是熟练。
 #8016	[!Mastery]능숙함	[!Mastery]熟练
-#8018	[!Mastery]연격	[!Mastery]连击
+#8018	[!Mastery]연격	[!Mastery]二天一流
 #8020	[!Mastery]아무리 큰 고통도 지켜내지 못한 고통보다 심한 것은 없다.	[!Mastery]再大的痛苦都比不上未能挽回的痛苦那么深刻。
 #8021	[!Mastery]사명감	[!Mastery]使命感
 #8022	[!Mastery]질주	[!Mastery]疾走
@@ -4495,7 +4495,7 @@
 #8103	[!WordCollection]일반 사건	[!WordCollection]普通事件
 #8104	[!WordCollection]시나리오 사건	[!WordCollection]剧情事件
 #8105	[!WordCollection]과충전	[!WordCollection]过充电
-#8106	[!WordCollection][!Menu]총 급여액	[!WordCollection][!Menu]总工资额
+#8106	[!WordCollection][!Menu]총 급여액	[!WordCollection][!Menu]工资额度
 #8107	[!GuideMessage]회피와 방어를 할 수 없습니다.	[!Buff]无法进行闪避和防御。
 #8109	[!GuideMessage]그래픽 품질을 자동으로 설정하시겠습니까?	[!GuideMessage]自动设置画质吗？
 #8111	[!SystemNotice]잠시 후에 임시점검이 있을 예정입니다.<br>현재 접속중인 유저분들은 점검 시간을 고려하여 미션을 안전하게 종료해 주시기 바랍니다. <br>서버 종료까지 남은시간: $ToTime$	[!SystemNotice]稍后将是临时检查时间。<br>当前在线的用户们请安排好各自的时间，安全结束任务。<br>关闭服务器剩余时间：$ToTime$
@@ -4642,7 +4642,7 @@
 #8307	[!ObjectInfo]스푼교 총잡이	[!ObjectInfo]勺子教枪手
 #8308	[!ObjectInfo]스푼교 칼잡이	[!ObjectInfo]勺子教刀客
 #8310	[!Mastery]네가 나에게 준 고통은 잊지 않는다.	[!Mastery]我不会忘了你带给我的痛苦的。
-#8311	[!Mastery]보복	[!Mastery]报复
+#8311	[!Mastery]보복	[!Mastery]以眼还眼
 #8312	[!Mastery]뱁새가 황새 따라가다 가랑이가 찢어진다.	[!Mastery]雀学鹳步胫欲断。
 #8313	[!Mastery]축지	[!Mastery]缩地
 #8315	[!Mastery]후회하지 않는 선택이란 없다.	[!Mastery]没有什么选择是不会后悔的。
@@ -4834,7 +4834,7 @@
 #8621	[!SystemMessage]스팀 페이지	[!SystemMessage]Steam页面
 #8622	[!TroublemakerCategory]스푼교	[!TroublemakerCategory]勺子教
 #8623	[!WordCollection][!Menu2]기본 특성	[!WordCollection][!Menu2]基础天赋
-#8624	[!WordCollection][!Menu]특성판	[!WordCollection]天赋版
+#8624	[!WordCollection][!Menu]특성판	[!WordCollection]天赋面板
 #8625	[!Buff]평정	[!Buff]平静
 #8626	[!ChatSubCategory]개인 특성 변경	[!ChatSubCategory]个人天赋变更
 #8627	[!GuideMessage]$PcName$의 개인 특성이 $MasteryName$으로 변경되었습니다.	[!GuideMessage]$PcName$的个人天赋变更为$MasteryName$。
@@ -5064,9 +5064,9 @@
 #8912	[!Mastery]자연의 경의로움은 우리가 준 것보다 훨씬 많이 돌려 주는 관대함이다.	[!Mastery]大自然的宽容非常可敬。比起我们的努力，它回馈我们的更多。
 #8913	[!Mastery]대지술사	[!Mastery]大地术士
 #8915	[!Mastery]이 뒤로는 아무도 지나갈 수 없소.	[!Mastery]一夫当关，万夫莫开。
-#8916	[!Mastery]수문장	[!Mastery]守门将
+#8916	[!Mastery]수문장	[!Mastery]一夫当关
 #8919	[!Mastery]모든 공격의 시작은 상대의 자세를 흩트리는 것부터 시작하네	[!Mastery]打乱对方的姿势就是一切攻击的开始。
-#8920	[!Mastery]흘리기	[!Mastery]流动
+#8920	[!Mastery]흘리기	[!Mastery]云手
 #8922	[!Mastery]코트를 지배하는 자가 게임을 지배한다.	[!Mastery]掌控场地的一方可支配整个游戏。
 #8923	[!Mastery]위치 선점	[!Mastery]抢占位置
 #8925	[!Mastery]한 번 경험하면 절대 잊을 수 없지.	[!Mastery]只要经历一次，就永远不会忘记。
@@ -5521,7 +5521,7 @@
 #9600	[!Mastery]너에게 총성이 들릴 리가 없지.	[!Mastery]你不可能听见枪声。
 #9601	[!Mastery]넌 이미 죽어 있다.	[!Mastery]你已经死了
 #9604	[!Mastery]무너지지 않는 유일한 것은 자네의 마음일세.	[!Mastery]唯一不倒的就是你的心。
-#9605	[!Mastery]철의 요새	[!Mastery]铁的壁垒
+#9605	[!Mastery]철의 요새	[!Mastery]难攻不落
 #9607	[!Mastery]강요된 선택으로 보이지만 결국 내가 한 선택이다.	[!Mastery]这似乎是一个迫切的选择，但最终它是我的选择。
 #9608	[!Mastery]사회생활	[!Mastery]社会生活
 #9609	[!Ability]강력한 조준 사격을 통하여 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]通过强力的瞄准射击造成$DamageAmount$的$DamageType$伤害。
@@ -5823,12 +5823,12 @@
 #9984	[!WordCollection][!Menu]아이템 제작	[!WordCollection]物品制作
 #9985	[!WordCollection][!Menu]제작 대상	[!WordCollection][!Menu]制作对象
 #9986	[!WordCollection]제작 가능한 장비만 보기	[!WordCollection]只看可以制作的装备
-#9991	[!GuideMessage]변경할 특성판 이름을 입력하세요.	[!GuideMessage]请输入变更后的天赋版名称。
-#9992	[!WordCollection]특성판	[!WordCollection]天赋版
+#9991	[!GuideMessage]변경할 특성판 이름을 입력하세요.	[!GuideMessage]请输入变更后的天赋面板名称。
+#9992	[!WordCollection]특성판	[!WordCollection]天赋面板
 #9993	[!WordCollection]추가	[!WordCollection]追加
 #9996	[!WordCollection]이름 변경	[!WordCollection]改变名字
-#9997	[!GuideMessage]현재 캐릭터의 특성판을 추가하려면 [colour='FFFFE959']$ItemName$[colour='FFFFFFFF'] 아이템이 $ItemCount$ 개 소모됩니다. 계속 진행하시겠습니까?	[!GuideMessage]你需要$ItemCount$个[colour='FFFFE959']$ItemName$[colour='FFFFFFFF']来为这个角色添加天赋版。要继续吗？
-#9998	[!WordCollection]새로운 특성판 추가	[!WordCollection]新的天赋版
+#9997	[!GuideMessage]현재 캐릭터의 특성판을 추가하려면 [colour='FFFFE959']$ItemName$[colour='FFFFFFFF'] 아이템이 $ItemCount$ 개 소모됩니다. 계속 진행하시겠습니까?	[!GuideMessage]你需要$ItemCount$个[colour='FFFFE959']$ItemName$[colour='FFFFFFFF']来为这个角色添加天赋面板。要继续吗？
+#9998	[!WordCollection]새로운 특성판 추가	[!WordCollection]新的天赋面板
 #9999	[!Item]자홍빛 파수꾼 자켓의 강화된 버전. 이능력에 대한 저항 처리가 탁월하다.	[!Item]守备军夹克的加强版。异能抗性尤为卓越。
 #10000	[!Item]자홍빛 야샤 운동화	[!Item]藏蓝夜叉运动鞋
 #10001	[!Buff]수리 중 입니다.	[!Buff]修理中。
@@ -6116,7 +6116,7 @@
 #10390	[!GuideMessage]이미 사용 중인 직업입니다.	[!GuideMessage]该职业已经在使用中。
 #10391	[!GuideMessage][colour='FFFFE959']최대 [colour='FFFFFFFF']%d[colour='FFFFE959']레벨까지 중첩됩니다.	[!GuideMessage][colour='FFFFE959']最高可叠加到[colour='FFFFFFFF']%d[colour='FFFFE959']等级。
 #10393	[!GuideMessage]해당 직업은 아직 사용할 수 없습니다.	[!GuideMessage]该职业目前尚不可用。
-#10394	[!GuideMessage][colour='FFFFE959']특성판의 [colour='FFFFFFFF']%s[colour='FFFFE959'] 특성 슬롯이 증가합니다.	[!GuideMessage][colour='FFFFE959']天赋版的[colour='FFFFFFFF']%s[colour='FFFFE959']天赋栏数将会增加。
+#10394	[!GuideMessage][colour='FFFFE959']특성판의 [colour='FFFFFFFF']%s[colour='FFFFE959'] 특성 슬롯이 증가합니다.	[!GuideMessage][colour='FFFFE959']天赋面板的[colour='FFFFFFFF']%s[colour='FFFFE959']天赋栏数将会增加。
 #10395	[!GuideMessage]$Item$[이] 부족합니다.	[!GuideMessage]$Item$不足。
 #10396	[!Job]흑마도사	[!Job]黑魔导士
 #10398	[!Job]백마도사	[!Job]白魔导士
@@ -6167,10 +6167,10 @@
 #10460	[!GuideMessage]$Name$ $Exp$ 클래스 경험치를 획득하였습니다. ($Reason$)	[!GuideMessage]$Name$获得了$Exp$点职业经验。($Reason$)
 #10461	[!GuideMessage][colour='FFFFFFFF']클래스 변경[colour='FFFFE959']이 활성화 되려면 현재 [colour='FFFFFFFF']클래스 레벨[colour='FFFFE959']을 [colour='FFFFFFFF']10[colour='FFFFE959'] 이상 성장시켜야 합니다.	[!GuideMessage]开启[colour='FFFFFFFF']职业变更[colour='FFFFE959']需要将现有的[colour='FFFFFFFF']职业等级[colour='FFFFE959']提高到[colour='FFFFFFFF']10[colour='FFFFE959']级以上。
 #10462	[!GuideMessage]$AbilityName$ 어빌리티를 사용할 수 있습니다.	[!GuideMessage]可使用$AbilityName$技能。
-#10464	[!GuideMessage][colour='FFFFFF00']해당 과정을 원하시지 않는다면 특성판을 변경 후, 클래스 변경을 진행해주십시오.	[!GuideMessage][colour='FFFFFF00']若您不需要该过程，请变更天赋版后再进行职业变更。
-#10465	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']현재 사용중인 특성판의 특성 중 변경될 클래스에서 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告：解除天赋版中的天赋<br><br>[colour='FFFFFFFF']目前使用中的天赋版中存在不适用于目标职业的天赋。
+#10464	[!GuideMessage][colour='FFFFFF00']해당 과정을 원하시지 않는다면 특성판을 변경 후, 클래스 변경을 진행해주십시오.	[!GuideMessage][colour='FFFFFF00']若您不需要该过程，请变更天赋面板后再进行职业变更。
+#10465	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']현재 사용중인 특성판의 특성 중 변경될 클래스에서 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告：解除天赋面板中的天赋<br><br>[colour='FFFFFFFF']目前使用中的天赋面板中存在不适用于目标职业的天赋。
 #10466	[!GuideMessage][colour='FFFF5943']현재 훈련서 개수가 부족하여 해당 클래스로 변경이 불가능합니다.	[!GuideMessage][colour='FFFF5943']目前训练书数量不足，因此无法进行职业变更。
-#10467	[!GuideMessage][colour='FFFFFFFF']클래스 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거되며, 해당 과정을 위해 훈련서 $ItemCount$ 개가 추가 소모됩니다.	[!GuideMessage][colour='FFFFFFFF']若继续变更职业，上述的天赋将会从天赋版中移除并且该过程额外消耗$ItemCount$个训练书。
+#10467	[!GuideMessage][colour='FFFFFFFF']클래스 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거되며, 해당 과정을 위해 훈련서 $ItemCount$ 개가 추가 소모됩니다.	[!GuideMessage][colour='FFFFFFFF']若继续变更职业，上述的天赋将会从天赋面板中移除并且该过程额外消耗$ItemCount$个训练书。
 #10489	[!GuideMessage][colour='FFFFFF00']%s[colour='FFFF5943'] 클래스 레벨 [colour='FFFFFFFF']%d[colour='FFFF5943']부터 사용할 수 있습니다.	[!GuideMessage][colour='FFFFFF00']%s[colour='FFFF5943']职业等级[colour='FFFFFFFF']%d[colour='FFFF5943']级开始可以使用。
 #10490	[!GuideMessage][colour='FF00C8FF']아래의 [colour='FFFFFFFF']상위 클래스[colour='FF00C8FF']가 요구하는 조건을 만족하면 클래스 변경이 가능합니다.	[!GuideMessage]若满足[colour='FF00C8FF']如下的[colour='FFFFFFFF']高级职业[colour='FF00C8FF']所需的条件即可进行职业变更。
 #10491	[!GuideMessage]클래스 경험치는 전투 중 적을 전투 불능 시켜 경험치를 획득하거나 혹은 해당 클래스에서 사용하는 어빌리티를 사용할 경우 획득합니다.	[!GuideMessage]职业经验值是经过在战斗中令敌人无法继续战斗来获得，或使用当前职业的技能时获得。
@@ -6178,10 +6178,10 @@
 #10493	[!GuideMessage]아직 편성할 어빌리티가 남아있습니다. 계속 진행하시겠습니까?	[!GuideMessage]还有未编辑的技能。继续吗？
 #10494	[!GuideMessage]$Name$ $Level$ 클래스 레벨이 되었습니다	[!GuideMessage]$Name$达到$Level$职业等级。
 #10495	[!GuideMessage]클래스 레벨의 상승으로 $MasteryName$ 특성을 발견하여 연구가 가능해졌습니다.	[!GuideMessage]职业等级上升，发现了$MasteryName$天赋，目前可进行研究。
-#10496	[!GuideMessage][colour='FFFFFF00']해당 과정을 원하시지 않는다면 클래스를 변경 후, 특성판 변경을 진행해주십시오.	[!GuideMessage][colour='FFFFFF00']若您不打算这么做，那请在变更职业后再变更天赋版。
-#10497	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']변경될 특성판의 특성 중 현재 클래스에서 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告：天赋版天赋的解除<br><br>[colour='FFFFFFFF']，即将变更的天赋中存在当前职业无法使用的天赋。
-#10498	[!GuideMessage][colour='FFFF5943']현재 훈련서 개수가 부족하여 해당 특성판으로 변경이 불가능합니다.	[!GuideMessage][colour='FFFF5943']当前训练书数量不足，无法变更为该天赋版。
-#10499	[!GuideMessage][colour='FFFFFFFF']특성판 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거되며, 해당 과정을 위해 훈련서 $ItemCount$ 개가 추가 소모됩니다.	[!GuideMessage][colour='FFFFFFFF']若您继续变更天赋版的动作，上述的天赋将全数从天赋版中移除，相应地会消耗$ItemCount$个训练书。
+#10496	[!GuideMessage][colour='FFFFFF00']해당 과정을 원하시지 않는다면 클래스를 변경 후, 특성판 변경을 진행해주십시오.	[!GuideMessage][colour='FFFFFF00']若您不打算这么做，那请在变更职业后再变更天赋面板。
+#10497	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']변경될 특성판의 특성 중 현재 클래스에서 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告：天赋面板天赋的解除<br><br>[colour='FFFFFFFF']，即将变更的天赋中存在当前职业无法使用的天赋。
+#10498	[!GuideMessage][colour='FFFF5943']현재 훈련서 개수가 부족하여 해당 특성판으로 변경이 불가능합니다.	[!GuideMessage][colour='FFFF5943']当前训练书数量不足，无法变更为该天赋面板。
+#10499	[!GuideMessage][colour='FFFFFFFF']특성판 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거되며, 해당 과정을 위해 훈련서 $ItemCount$ 개가 추가 소모됩니다.	[!GuideMessage][colour='FFFFFFFF']若您继续变更天赋面板的动作，上述的天赋将全数从天赋面板中移除，相应地会消耗$ItemCount$个训练书。
 #10500	[!GuideMessage]최대 레벨에 도달하였습니다.	[!GuideMessage]已达到最高等级。
 #10501	[!GuideMessage]$Roster$[가] 새로운 클래스 $Class$[를] 획득하였습니다.	[!GuideMessage]$Roster$获得了新的职业$Class$。
 #10502	[!GuideMessage][colour='FFFFFFFF']%s[colour='%s'] 클래스 레벨이 [colour='FFFFFFFF']%d[colour='%s'] 레벨까지 성장해야 합니다.	[!GuideMessage][colour='FFFFFFFF']%s[colour='%s']职业等级需要升到[colour='FFFFFFFF']%d[colour='%s']级。
@@ -6294,7 +6294,7 @@
 #10702	[!Mastery]내가 원하는 곳에 잠들리라.	[!Mastery]我将在愿望之地沉睡。
 #10703	[!Mastery]아발론	[!Mastery]理想乡
 #10704	[!Mastery]방향을 바꾸면 위력은 대폭 줄어들지.	[!Mastery]改变方向，威力就大打折扣了。
-#10705	[!Mastery]칼날 흘리기	[!Mastery]流动之刃
+#10705	[!Mastery]칼날 흘리기	[!Mastery]流动之剑
 #10707	[!Mastery]부족한 것을 채우겠습니다.	[!Mastery]我将弥补不足。
 #10708	[!Mastery]재생의 축복	[!Mastery]重生的祝福
 #10710	[!Mastery]너의 힘을 돌려주마.	[!Mastery]你的力量，返还给你。
@@ -6313,9 +6313,9 @@
 #10730	[!Mastery]잘하면 즐거운 것 아닌가?	[!Mastery]做好不就是件乐事吗？
 #10731	[!Mastery]격앙	[!Mastery]激昂
 #10759	[!Mastery]존재하지 않는 것을 금지할 수 없지.	[!Mastery]不存在的东西没法禁止。
-#10760	[!Mastery]금지된 마도서	[!Mastery]禁止的魔导书
+#10760	[!Mastery]금지된 마도서	[!Mastery]禁忌的魔导书
 #10762	[!Mastery]한 순간의 틈이 있다면 충분히 피할 수 있지.	[!Mastery]只要有一瞬间的缝隙，就完全可以避开。
-#10763	[!Mastery]눈부신 칼날	[!Mastery]闪耀之刃
+#10763	[!Mastery]눈부신 칼날	[!Mastery]闪耀之剑
 #10765	[!Mastery]지키기 위한 검이다.	[!Mastery]这是守护之剑。
 #10766	[!Mastery]수호의 검	[!Mastery]守护之剑
 #10768	[!Mastery]사용하기 편하고 더 효과적이어야지.	[!Mastery]用着顺手才会更高效。
@@ -6331,8 +6331,8 @@
 #10785	[!Mastery]언제나 포기할 수 없는 이유가 있습니다.	[!Mastery]总有不能放弃的理由。
 #10786	[!Mastery]구원의 빛	[!Mastery]救援之光
 #10790	[!Mastery]힘은 사용하기에 따라 다른 결과를 가져오지.	[!Mastery]根据力量的用法不同，带来的结果将是不同的。
-#10793	[!Mastery]고요한 가운데 움직임이 있다.	[!Mastery]静中有动。
-#10794	[!Mastery]정중동	[!Mastery]静中动
+#10793	[!Mastery]고요한 가운데 움직임이 있다.	[!Mastery]静如处子，动如脱兔。
+#10794	[!Mastery]정중동	[!Mastery]静中有动
 #10796	[!Mastery]하늘의 뜻을 행할 뿐이요.	[!Mastery]我只是替天行道而已。
 #10797	[!Mastery]기적	[!Mastery]奇迹
 #10799	[!Mastery]눈으로 목표를 쫓는 순간 이미 늦었어.	[!Mastery]用眼睛追赶目标时，就说明为时已晚。
@@ -6342,7 +6342,7 @@
 #10805	[!Mastery]적이 알아채지 못하는 곳에서 시작한다.	[!Mastery]从敌人未察觉的地方开始。
 #10806	[!Mastery]재빠른 손놀림	[!Mastery]灵活之手
 #10808	[!Mastery]흐르는 피의 댓가를 잊지마라.	[!Mastery]别忘了流血的代价。
-#10809	[!Mastery]붉은 가시 검	[!Mastery]红棘之刃
+#10809	[!Mastery]붉은 가시 검	[!Mastery]红棘之剑
 #10813	[!Mastery]하늘의 뜻과 함께 하기 위해 왔소.	[!Mastery]我是为了共享天意而来。
 #10814	[!Mastery]성자	[!Mastery]圣人
 #10816	[!Mastery]목표가 많으면 일일이 조준할 필요가 없지.	[!Mastery]若目标较多，就没必要每一个都要瞄准。
@@ -6379,8 +6379,8 @@
 #10871	[!Buff]성스러운 방패	[!Buff]神圣之盾
 #10872	[!Buff]회복 어빌리티에 의한 회복량이 1.5배가 됩니다.	[!Buff]恢复技能的恢复量变成1.5倍。
 #10873	[!Buff]생기	[!Buff]活力
-#10874	[!Buff]움직이는 성	[!Buff]移动城堡
-#10876	[!Buff]응축된 마력	[!Buff]凝缩的魔力
+#10874	[!Buff]움직이는 성	[!Buff]移动堡垒
+#10876	[!Buff]응축된 마력	[!Buff]魔力凝缩
 #10877	[!DirectDamageType]피를 마시는 검	[!DirectDamageType]饮血之剑
 #10878	[!GuideMessage]클래스 레벨의 상승으로 $MasteryName$ 특성을 발견하였으나 이미 연구 가능한 특성입니다.	[!GuideMessage]职业等级上升，发现$MasteryName$天赋，这是可研究的天赋。
 #10879	[!Job]전투법사	[!Job]战斗法师
@@ -6390,7 +6390,7 @@
 #10885	[!Mastery]생명력은 불멸이네.	[!Mastery]生命力是不灭的。
 #10886	[!Mastery]피를 마시는 검	[!Mastery]饮血之剑
 #10894	[!Mastery]끝없이 탐구하는 자만이 도달한다.	[!Mastery]只有不断探索的人，才能抵达目的地。
-#10895	[!Mastery]무술교본	[!Mastery]武术教科书
+#10895	[!Mastery]무술교본	[!Mastery]武术教本
 #10898	[!Mastery]여러분은 선택 받은 사람입니다.	[!Mastery]各位是受到选择的人。
 #10899	[!Mastery]성스러운 방패	[!Mastery]神圣之盾
 #10901	[!Mastery]이에는 이, 눈에는 눈.	[!Mastery]以眼还眼，以牙还牙
@@ -6405,7 +6405,7 @@
 #10915	[!Mastery]모든 것은 정해진 규칙대로 흘러간다.	[!Mastery]一切都循规蹈矩地发生。
 #10916	[!Mastery]마법 이론	[!Mastery]魔法理论
 #10919	[!Mastery]자신의 일은 스스로 결정하는거야.	[!Mastery]自己的事情要自己决定。
-#10920	[!Mastery]움직이는 성	[!Mastery]移动城堡
+#10920	[!Mastery]움직이는 성	[!Mastery]移动堡垒
 #10922	[!Mastery]가벼운 상처라도 충분해.	[!Mastery]不过是轻伤，没影响。
 #10923	[!Mastery]맹독탄	[!Mastery]剧毒弹
 #10925	[!Mastery]힘을 내는 방법이 있지.	[!Mastery]有提高力量的方法。
@@ -6414,7 +6414,7 @@
 #10929	[!Mastery]재장전	[!Mastery]重新填装
 #10936	[!Mastery]비겁하다고 외치기 전에 승부를 포기하게나.	[!Mastery]在喊出卑鄙之前，放弃这场胜负吧。
 #10937	[!Mastery]상처 베기	[!Mastery]伤口切割
-#10939	[!Mastery]홀로 남은 자	[!Mastery]孤身一人
+#10939	[!Mastery]홀로 남은 자	[!Mastery]孤立无援
 #10941	[!Mastery]이번 기회는 내가 가져가겠네.	[!Mastery]这次机会归我了。
 #10942	[!Mastery]마력 흡수	[!Mastery]魔力吸收
 #10944	[!Mastery]네가 이번 표적이다.	[!Mastery]你就是这次的目标。
@@ -6444,7 +6444,7 @@
 #10987	[!BuffGroup]침묵	[!BuffGroup]沉默
 #10989	[!Mastery]아무도 널 돕지 않는다.	[!Mastery]没有人会帮你。
 #10990	[!Mastery]침묵의 사격	[!Mastery]沉默射击
-#10991	[!GuideMessage][colour='FFFFFFFF']클래스 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거됩니다.	[!GuideMessage][colour='FFFFFFFF']若继续变更职业，上述的天赋将会从天赋版中移除。
+#10991	[!GuideMessage][colour='FFFFFFFF']클래스 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거됩니다.	[!GuideMessage][colour='FFFFFFFF']若继续变更职业，上述的天赋将会从天赋面板中移除。
 #10995	[!GuideMessage][colour='FFFF5943']클래스 레벨 [colour='FFFFFFFF']%d[colour='FFFF5943'] 일 때 발견 가능합니다. <br>[colour='FF00FFFF']발견한 특성은 연구할 수 있습니다.	[!GuideMessage][colour='FFFF5943']当职业等级达到[colour='FFFFFFFF']%d[colour='FFFF5943']时，可发现。<br>[colour='FF00FFFF']可研究发现的天赋。
 #10996	[!GuideMessage][colour='FFFFE959']이미 연구 가능한 특성입니다.	[!GuideMessage][colour='FFFFE959']已经可研究的天赋。
 #10998	[!Buff]시야가 3 상승합니다. 공격력이 100 상승합니다.	[!Buff]视野增加3格。攻击力增强100。
@@ -6465,25 +6465,25 @@
 #11027	[!Mastery]파괴의 검	[!Mastery]破坏之剑
 #11030	[!Mastery]능력 있는 자의 존재는 주위의 모든 사람들을 무겁게 짓누른다.	[!Mastery]有能力的人其自身的存在就会让周围的所有人喘不过气来。
 #11033	[!Mastery]지금 이 순간이 마지막 기회라고 생각해!	[!Mastery]就当现在是最后一次机会！
-#11034	[!Mastery]전심전력	[!Mastery]全心全意
+#11034	[!Mastery]전심전력	[!Mastery]全身全灵
 #11036	[!Mastery]오늘은 재밌는 걸 해보자!	[!Mastery]今天来做点有趣的事吧！
 #11037	[!Mastery]유쾌한 마녀	[!Mastery]快乐的魔女
 #11041	[!Mastery]통제 불가능한 힘이란 없지.	[!Mastery]没有不能控制的力量。
-#11042	[!Mastery]마력 제어	[!Mastery]法力控制
+#11042	[!Mastery]마력 제어	[!Mastery]魔力控制
 #11044	[!Mastery]은둔하고 있는 마법사와 현자가 사는 곳이지.	[!Mastery]隐居的魔导士和贤者居住的地方呢。
 #11045	[!Mastery]약속의 땅	[!Mastery]约定之地
 #11046	[!Mastery]너 한 번, 나 두 번.	[!Mastery]你一次，我两次。
 #11047	[!Mastery]속사	[!Mastery]速射
 #11049	[!Mastery]하나를 배우면 백만번은 단련해라!	[!Mastery]学到一项后，就要将其锻炼百万次。
-#11050	[!Mastery]반복 훈련	[!Mastery]反复训练
+#11050	[!Mastery]반복 훈련	[!Mastery]万锤千炼
 #11055	[!Mastery]네 안의 잠재력을 믿어라	[!Mastery]请相信你拥有的潜力吧。
-#11056	[!Mastery]샘솟는 마력	[!Mastery]喷薄而出的法力
+#11056	[!Mastery]샘솟는 마력	[!Mastery]魔力涌动
 #11058	[!Mastery]대마법사에게 필요한 것은 인내심이다.	[!Mastery]大魔导士所需的是耐心。
-#11059	[!Mastery]마도의 길	[!Mastery]魔道之路
+#11059	[!Mastery]마도의 길	[!Mastery]魔导之路
 #11061	[!Mastery]확실하게 끝내주마.	[!Mastery]这次就好好了结了。
 #11062	[!Mastery]이것이 마지막이다.	[!Mastery]这是最后一次了
 #11064	[!Mastery]이 길의 끝은 승리의 환호만이 존재한다.	[!Mastery]这条路的尽头只有胜利的欢呼。
-#11065	[!Mastery]정의를 위한 승리의 검	[!Mastery]为了正义的胜利之剑
+#11065	[!Mastery]정의를 위한 승리의 검	[!Mastery]誓约胜利之剑
 #11069	[!AbilityDirectingEvent]반격(봉쇄당함)	[!AbilityDirectingEvent]反击(遭到封锁)
 #11071	[!DirectDamageType]마력 역류	[!DirectDamageType]法力逆流
 #11072	[!GuideMessage]해당 확률로 공격에 대한 명중과 회피를 결정합니다.	[!GuideMessage]决定攻击的命中和闪避。
@@ -6493,7 +6493,7 @@
 #11076	[!GuideMessage]해당 확률로 회복에 대한 치명타 적중을 결정합니다.	[!GuideMessage]决定恢复的暴击命中。
 #11077	[!GuideMessage]해당 수치로 치명타 적중 시 회복량이 증가합니다.	[!GuideMessage]当发生暴击时，恢复量增加。
 #11078	[!Mastery]빛의 아이	光之子
-#11084	[!Mastery]마력 가속기	[!Mastery]魔力加速器
+#11084	[!Mastery]마력 가속기	[!Mastery]魔力加速装置
 #11086	[!Mastery]뭉치면 살고 흩어지면 죽는다.	[!Mastery]人人为我，我为人人。
 #11087	[!Mastery]팀 플레이어	[!Mastery]团队精神
 #11088	[!WordCollection]적 방어율	[!WordCollection]敌人格挡
@@ -6985,7 +6985,7 @@
 #11756	[!WordCollection][!Menu]일반	[!WordCollection][!Menu]普通
 #11757	[!WordCollection]카메라 각도	[!WordCollection]镜头角度
 #11758	[!WordCollection]카메라 확대/축소	[!WordCollection]镜头放大/缩小
-#11759	[!WordCollection][!Menu]특성판 관리	[!WordCollection][!Menu]管理天赋版
+#11759	[!WordCollection][!Menu]특성판 관리	[!WordCollection][!Menu]管理天赋面板
 #11760	[!WordCollection]스크린샷	[!WordCollection]截图
 #11761	[!ObjectInfo]안드레이	[!ObjectInfo]安德烈
 #11762	[!WordCollection][!Menu]모두 분해하기	[!WordCollection][!Menu]全部分解
@@ -7116,8 +7116,8 @@
 #11944	[!GuideMessage]검색할 키워드를 입력하세요.	[!GuideMessage]输入要搜索的关键字。
 #11945	[!WordCollection]열람 기록	[!WordCollection]阅览记录
 #11946	[!GuideMessage]현재 해당 마스터리는 획득하거나 연구 방법을 습득한 적이 없어 제작할 수 없습니다	[!GuideMessage]未获得该天赋或未曾学习研究方法，因此无法制作。
-#11948	[!Mastery]산처럼 묵직하게	[!Mastery]稳如泰山
-#11949	[!Mastery]산	[!Mastery]山
+#11948	[!Mastery]산처럼 묵직하게	[!Mastery]稳如泰山。
+#11949	[!Mastery]산	[!Mastery]不动如山
 #11951	[!Buff]빙판	[!Buff]冰面
 #11952	[!FieldEffect]빙판	[!FieldEffect]冰面
 #11958	[!Job]활잡이	[!Job]弓箭手
@@ -7203,7 +7203,7 @@
 #12064	[!Mastery]제발 절 도와주세요!	[!Mastery]求你一定要帮帮我吧
 #12066	[!Mastery]난 아프기 싫어!	[!Mastery]我不想疼！
 #12069	[!Mastery]끝없는 삶에 대한 집착이야말로 인간의 본능이다.	[!Mastery]对生活无休止的执着，才是人类的天性啊。
-#12070	[!Mastery]선혈의 기억	[!Mastery]鲜血的记忆
+#12070	[!Mastery]선혈의 기억	[!Mastery]血之记忆
 #12073	[!Mastery]꼭꼭 숨어라	[!Mastery]躲猫猫
 #12076	[!Mastery]돌입 준비	[!Mastery]准备突入
 #12078	[!Mastery]저에겐 충분한 휴식을 취하고 마음의 평화를 가져올 은신처가 필요해요.	[!Mastery]我需要一个能够带来足够休憩和安心的藏身之所。
@@ -7358,17 +7358,17 @@
 #12295	[!Mastery]더 나은 것을 추구하는 것은 당연한 일이지.	[!Mastery]追求更好的那是理所应当的。
 #12296	[!Mastery]강화 수류탄	[!Mastery]加强版手榴弹
 #12299	[!Mastery]묵직한 일격은 꾸준한 단련으로 부터 나온다.	[!Mastery]坚持不懈的锻炼就可以打出沉重一击。
-#12300	[!Mastery]무쇠 주먹	[!Mastery]钢铁拳头
+#12300	[!Mastery]무쇠 주먹	[!Mastery]铸铁重拳
 #12302	[!Mastery]한번 시작한 싸움은 누군가 쓰러지기 전에 멈출 수 없다.	[!Mastery]战斗一旦开始，在有任何一方倒地之前绝不会结束。
-#12303	[!Mastery]외로운 싸움꾼	[!Mastery]孤独的斗者
+#12303	[!Mastery]외로운 싸움꾼	[!Mastery]孤高斗者
 #12306	[!Mastery]모든 결과는 해석에 따라 달라지지.	[!Mastery]所有结果都会根据解释的不同而出现差异。
-#12307	[!Mastery]마법 재구성	[!Mastery]魔法再造
+#12307	[!Mastery]마법 재구성	[!Mastery]魔力重构
 #12308	[!Mastery]모든 것은 몸에 익히는 훈련이 기본이네.	[!Mastery]一切的基础是刻录到身体上的训练。
 #12309	[!Mastery]마법 훈련	[!Mastery]魔法训练
 #12314	[!Mastery]고정관념은 버려.	[!Mastery]丢掉固有观念吧。
-#12315	[!Mastery]마력 전환	[!Mastery]魔法转换
+#12315	[!Mastery]마력 전환	[!Mastery]魔力转换
 #12317	[!Mastery]거리 싸움은 언제나 순식간이지.	[!Mastery]街头巷尾的打架斗殴总是在一瞬间分出胜负。
-#12318	[!Mastery]거리의 싸움꾼	[!Mastery]街头打手
+#12318	[!Mastery]거리의 싸움꾼	[!Mastery]胜负一心
 #12319	[!GuideMessage][colour='FFFFE959']회사 입사 보너스: [colour='FFFFFFFF']$RosterName$[colour='FFFFE959']의 레벨이 현재 회사 동료 평균 레벨에 비례하여 [colour='FFFFFFFF']$Level$[colour='FFFFE959'] 레벨 상승합니다.	[!GuideMessage][colour='FFFFE959']入职公司奖励：[colour='FFFFFFFF']$RosterName$[colour='FFFFE959']的等级达到了[colour='FFFFFFFF']$Level$[colour='FFFFE959']。
 #12329	[!Mastery]마력 노심	[!Mastery]魔力堆芯
 #12335	[!MissionPsionicStoneAmount]거의 없음	[!MissionPsionicStoneAmount]很少
@@ -7558,9 +7558,9 @@
 #13156	[!Troublebook]뿌린 대로 거두리라	[!Troublebook]咎由自取
 #13157	[!Troublebook]조직을 일으키기 위해 스푼교에 의탁하였던 성난 황소파 잔당들은 백호파의 사냥을 피해 푸고 뒷골목으로 숨어 든다. 하지만 그들의 미래는 변하지 않았다.	[!Troublebook]曾经依赖勺子教的狂牛组的残党们为了躲避白虎组的狩猎藏进了府谷后巷。但他们的未来没有改变。
 #13160	[!Mastery]전설은 믿는 자에게만 그 모습을 드러낸다.	[!Mastery]相信传说的人，才能创造奇迹。
-#13161	[!Mastery]황금의 도시	[!Mastery]黄金城市
+#13161	[!Mastery]황금의 도시	[!Mastery]黄金都市
 #13163	[!Mastery]지상의 보물은 전부 모았다	[!Mastery]世上的宝物都在这儿。
-#13164	[!Mastery]왕의 재보	[!Mastery]皇帝的财宝
+#13164	[!Mastery]왕의 재보	[!Mastery]王之财宝
 #13165	[!Ability]추격하는 자	[!Ability]追击之人
 #13167	[!Ability]조명탄	[!Ability]照明弹
 #13168	[!Ability]승부를 가르는 한 발	[!Ability]决出胜负一步
@@ -9197,7 +9197,7 @@
 #15465	[!GuideMessage]제작 전문 기술을 획득하지 못했습니다. ($Craftmanship$ $RequireLevel$ 레벨)	[!GuideMessage]没有获得专业制作技术。($Craftmanship$ $RequireLevel$ 等级)
 #15469	[!GuideMessage]모듈을 해제하시겠습니까?	[!GuideMessage]确定要解除模块吗？
 #15470	[!GuideMessage]장착한 모듈 $MasteryCount$ 개를 모두 해제합니다.	[!GuideMessage]将解除所有装备的$MasteryCount$个模块。
-#15471	[!GuideMessage]특성판에서 기계가 장착한 모듈을 해제시 사용되는 아이템입니다.	[!GuideMessage]是从天赋版中解除机械上装备的模块时所使用的物品。
+#15471	[!GuideMessage]특성판에서 기계가 장착한 모듈을 해제시 사용되는 아이템입니다.	[!GuideMessage]是从天赋面板中解除机械上装备的模块时所使用的物品。
 #15472	[!GuideMessage]제작서가 부족하여 해제할 수 없습니다.	[!GuideMessage]因设计图不足而无法解除。
 #15473	[!GuideMessage]각 모듈별 속성 슬롯 개수가 부족해지므로 해제할 수 없습니다.	[!GuideMessage]各模块属性栏个数不足，因此无法解除。
 #15475	[!GuideMessage]각 모듈별 속성 한계치가 부족해지므로 해제할 수 없습니다.	[!GuideMessage]因各模块属性栏上限会变的不足，因此无法解除。
@@ -9484,7 +9484,7 @@
 #15866	[!Mastery]성능 향상 - 턴 속도	[!Mastery]性能提升 - 回合速度
 #15868	[!Mastery]호환성 증가 - 안정된 자세	[!Mastery]兼容性增加 - 稳定的姿势
 #15870	[!Mastery]호환성 증가 - 지연 복구	[!Mastery]兼容性增加 - 延迟修复
-#15872	[!Mastery]엔진 가속기	[!Mastery]引擎加速器
+#15872	[!Mastery]엔진 가속기	[!Mastery]引擎加速装置
 #15873	[!Mastery]보조 연산 장치	[!Mastery]辅助运算装置
 #15875	[!Mastery]나는 내 자신을 제어한다	[!Mastery]我将控制我自己
 #15876	[!Mastery]중앙 제어 프로그램	[!Mastery]中央控制程序
@@ -10478,10 +10478,10 @@
 #17278	[!Ability]재장전을 통해 모든 공격, 지원, 함정 어빌리티의 재사용 대기 시간을 해소합니다.	[!Ability]通过换弹夹可减少所有的攻击、辅助、陷阱技能的冷却时间。
 #17279	[!Ability]천선의 약	[!Ability]天上仙人药
 #17280	[!GuideMessage]해당 상태에서는 엄폐를 할 수 없습니다.	[!GuideMessage]在该状态下无法隐蔽。
-#17281	[!GuideMessage][colour='FFFFFF00']해당 과정을 원하시지 않는다면 특성판을 변경 후, 개인 특성 변경을 진행해주십시오.	"[!GuideMessage][colour='FFFFFF00']若不想接受相应的过程，请变更天赋版后更改个人天赋。
-#17282	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']현재 사용중인 특성판의 특성 중 개인 특성 변경 시 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告：天赋版的天赋将会解除<br><br>[colour='FFFFFFFF']现在所使用的天赋版的天赋中存在更改个人天赋后无法使用的天赋。
+#17281	[!GuideMessage][colour='FFFFFF00']해당 과정을 원하시지 않는다면 특성판을 변경 후, 개인 특성 변경을 진행해주십시오.	"[!GuideMessage][colour='FFFFFF00']若不想接受相应的过程，请变更天赋面板后更改个人天赋。
+#17282	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']현재 사용중인 특성판의 특성 중 개인 특성 변경 시 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告：天赋面板的天赋将会解除<br><br>[colour='FFFFFFFF']现在所使用的天赋面板的天赋中存在更改个人天赋后无法使用的天赋。
 #17283	[!GuideMessage][colour='FFFF5943']현재 $ItemName$ 개수가 부족하여 해당 특성으로 변경이 불가능합니다.	[!GuideMessage][colour='FFFF5943']因$ItemName$不足而无法更改天赋。
-#17284	[!GuideMessage][colour='FFFFFFFF']개인 특성 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거되며, 해당 과정을 위해 $ItemName$ $ItemCount$ 개가 추가 소모됩니다.	[!GuideMessage][colour='FFFFFFFF']若继续进行个人天赋的变更，以上天赋将从天赋版解除。需要$ItemName$ $ItemCount$个。
+#17284	[!GuideMessage][colour='FFFFFFFF']개인 특성 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거되며, 해당 과정을 위해 $ItemName$ $ItemCount$ 개가 추가 소모됩니다.	[!GuideMessage][colour='FFFFFFFF']若继续进行个人天赋的变更，以上天赋将从天赋面板解除。需要$ItemName$ $ItemCount$个。
 #17285	[!GuideMessage]관심 특성 등록된 특성만을 보여줍니다. 관심 특성으로 등록된 특성이 특성 연구로 소모될 경우, 경고 메시지로 해당 특성의 소모를 알려줍니다.	[!GuideMessage]只显示在关心天赋上登录的天赋。若已登录的天赋将用于天赋研究素材时，会收到警告通知。
 #17288	[!Help]최대 턴 대기 시간	[!Help]最大回合冷却时间
 #17293	[!Item]자홍거리에서 유통되는 흑철 세공 손목 고리에 질긴 네구리 가죽을 추가하여 사용성을 개선한 손목 고리. 뒷세계에서 매우 인기 있는 손목 고리다.	[!Item]将紫红街流通黑铁细工腕带换成了纳古利皮革而改善的腕带。在地下世界非常受欢迎。
@@ -11335,13 +11335,13 @@
 #18242	[!Mastery]너의 감정을 마음껏 풀어 놓아라!	[!Mastery]尽情释放你的感情吧！
 #18243	[!Mastery]사석위호	[!Mastery]射石为虎
 #18244	[!Mastery]설령 착각일지라도 진심으로 원하는 것을 위해 집중한다면 안 될 리가 없다.	[!Mastery]即使是个错觉，为了心中所愿而集中努力，就没什么不可能的。
-#18246	[!Mastery]임기응변	[!Mastery]随机应变
+#18246	[!Mastery]임기응변	[!Mastery]临机应变
 #18247	[!Mastery]상황에 따라 적절하게 반응하려면 움직임에 거침이 없어야 한다.	[!Mastery]要想根据情况做出适当反应的话，行动上就该万无一失。
 #18249	[!Mastery]절차탁마	[!Mastery]切磋琢磨
 #18250	[!Mastery]한번 익힌 기술은 영원하지 않다. 유지하기 위해서는 끊임없이 반복하고 더 나아지기 위한 노력이 필요하다.	[!Mastery]只是熟悉一次的技术是无法永远记住的。想要维持就需要不断重复，并做出进一步的努力。
 #18252	[!Mastery]질풍경초	[!Mastery]疾风劲草
 #18253	[!Mastery]한낱 풀이지만 강한 바람에도 꺽이지 않는다.	[!Mastery]虽然只是区区的小草，但是不会被强风刮倒。
-#18255	[!Mastery]심신단련	[!Mastery]心身鍛炼
+#18255	[!Mastery]심신단련	[!Mastery]心身锻炼
 #18256	[!Mastery]몸과 마음은 독립적인 존재이지만 서로 유기적으로 작동하지.	[!Mastery]身心虽然是独立的存在，但彼此是互相共存的。
 #18258	[!Mastery]대성황	[!Mastery]盛况
 #18259	[!Mastery]넌 이제 전설이야.	[!Mastery]你现在是个传说。
@@ -12725,7 +12725,7 @@
 #19960	[!Rest]얼려놓고 먹어야겠어!	[!Rest]我要冻着吃！
 #19961	[!Mastery]꾸준한 치료	[!Mastery]持续的治疗
 #19962	[!Mastery]당신을 절대 잃어버리지 않을 거예요.	[!Mastery]绝不会失去你的。
-#19964	[!Mastery]탄환 베기	[!Mastery]切割子弹
+#19964	[!Mastery]탄환 베기	[!Mastery]燕返
 #19965	[!Mastery]언제, 어느 곳을 노리는 지 안다면 못 막을 것이 없다.	[!Mastery]什么都可以挡得住。
 #19967	[!Mastery]불바다	[!Mastery]火海
 #19968	[!Mastery]하나가 꺼지면 또 하나의 불꽃이 타오른다.	[!Mastery]一个火花熄灭，另一个又会重新点燃。
@@ -12770,7 +12770,7 @@
 #20044	[!FoodType]요리	[!FoodType]料理
 #20045	[!FoodType]곁들임 요리	[!FoodType]推荐的配菜
 #20046	[!FoodType]음료	[!FoodType]饮料
-#20050	[!Mastery]마력 해소	[!Mastery]魔力消除
+#20050	[!Mastery]마력 해소	[!Mastery]魔力消解
 #20051	[!Mastery]욕망을 쌓는 것만큼 해소하는 것도 중요하다.	[!Mastery]如同积累欲望，消除它也很重要。
 #20056	[!OptionInterface]현재 시간 표시	[!OptionInterface]显示现在时间
 #20057	[!Buff]든든함	[!Buff]有点饱
@@ -14394,7 +14394,7 @@
 #22032	[!Mastery]적의 $BuffGroup$ 계열 상태 이상 $Value$개 당 자신이 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]每$Value$个敌人的$BuffGroup$系列异常状态，将增加$Value2$的自己造成的伤害量。
 #22033	[!Mastery]$BuffGroup$ 계열 상태 이상인 적을 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다.	[!Mastery]使$BuffGroup$系列异常状态的敌人$Dead$时，将恢复$Value$的$ActionPoint$。
 #22034	[!Mastery]적을 $Dead$으로 만들면 $Ability$의 재사용 대기 시간이 $Value$ 감소합니다.	[!Mastery]如果使敌人$Dead$的话，$Ability$冷却时间将减少$Value$。
-#22035	[!Mastery]선혈의 미치광이	[!Mastery]鲜血的狂战士
+#22035	[!Mastery]선혈의 미치광이	[!Mastery]血狂
 #22036	[!Mastery]피에 젖은 자가 제정신일 리가 없지 않은가?	[!Mastery]被血淋湿的人不可能精神正常吧？
 #22037	[!Mastery]$BuffGroup$ 계열 상태 이상인 적을 공격하여 $Dead$으로 만들면, $Buff$ 상태가 됩니다.	[!Mastery]攻击使$BuffGroup$系列异常状态的敌人$Dead$时，将进入$Buff$状态。
 #22038	[!Mastery]이 기회는 나의 것	[!Mastery]这个机会是我的
@@ -14795,7 +14795,7 @@
 #22463	[!MailCategory]일반	[!ItemRank]普通
 #22464	[!MailCategory]시스템	[!WordCollection]系统
 #22465	[!MailCategory]유저	[!MailCategory]用户
-#22466	[!Mastery]단련된 공격	[!Mastery]锻炼的攻击
+#22466	[!Mastery]단련된 공격	[!Mastery]闻鸡起舞
 #22467	[!Mastery]반복한 횟수만큼 강해진다.	[!Mastery]随着反复训练的次数增强。
 #22468	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 기본 공격력이 $Value2$ 증가하고 시전 지연 시간이 $Value3$ 감소합니다.	[!Mastery]每$Value$个现在所使用的$Type$天赋，将增加基本攻击力$Value2$并减少施法延迟时间$Value3$。
 #22469	[!Mastery]산성독 바르기	[!Mastery]涂抹酸性毒
@@ -15318,7 +15318,7 @@
 #23446	[!ObjectInfo]불만 많은 VHPD 순찰대	[!ObjectInfo]心怀不满的VHPD巡逻队
 #23447	[!ObjectInfo]불성실한 VHPD 순찰대	[!ObjectInfo]不诚实的VHPD巡逻队
 #23448	[!AbilityDirectingEvent]헤드샷 면역 ($Reason$)	[!AbilityDirectingEvent]爆头免疫($Reason$)
-#23449	[!GuideMessage]새로운 특성판이 1개 추가되었습니다.	[!GuideMessage]增添了1个新的天赋版
+#23449	[!GuideMessage]새로운 특성판이 1개 추가되었습니다.	[!GuideMessage]增添了1个新的天赋面板
 #23450	[!Mastery]현재 사용하고 있는 모듈 중 $Type$ 모듈 $Value$ 개 당 장착한 장비의 $Stat$, $Stat2$, $Stat3$, $Stat4$, $Stat5$[이] $Value2$ 증가합니다.	[!Mastery]现在所使用的模块中，每$Value$个$Type$的模块将增加$Value2$的装备的$Stat$, $Stat2$, $Stat3$, $Stat4$, $Stat5$。
 #23451	[!GameSystemMessageFormat]$Who$[가] 과충전 상태가 되었습니다.	[!GameSystemMessageFormat]$Who$进入了过充电状态。
 #23452	[!GameSystemMessageFormat]창고 안에서 낮은 기계음이 들렸습니다.	[!GameSystemMessageFormat]在仓库里听到了微弱的机械音。
@@ -15482,7 +15482,7 @@
 #23617	[!GameModeSelect]컨텐츠 구성 차이점	[!GameModeSelect]内容的差异
 #23618	[!GameModeSelect]치안도	[!GameModeSelect]治安指数
 #23619	[!GameModeSelect]플레이어 개인의 미션 성공과 실패에 기반하여 동작합니다.	[!GameModeSelect]根据玩家个人的任务成功与失败而进行操动。
-#23620	[!GameModeSelect]선택지	[!GameModeSelect]环境设置
+#23620	[!GameModeSelect]선택지	[!GameModeSelect]选项
 #23621	[!GameModeSelect]유저들이 선택한 선택지의 비율의 정보가 제공되지 않습니다.	[!GameModeSelect]不提供用户选择选项的比例情报。
 #23622	[!GameModeSelect]오프라인 모드를 원하지 않을 경우, 게임 시작화면에서 온라인 모드로 변경 가능합니다.	[!GameModeSelect]不希望使用离线模式时，可从游戏开始画面变更至在线模式。
 #23623	[!GameModeSelect]온라인	[!GameModeSelect]在线
@@ -15584,7 +15584,7 @@
 #23724	[!WordCollection]있음	[!WordCollection]存在
 #23725	[!GuideMessage]통신이 복구되었습니다.	[!GuideMessage]通讯已恢复。
 #23726	[!WordCollection][!Menu]변경 가능한 클래스	[!WordCollection][!Menu]可变更的职业
-#23727	[!WordCollection][!Menu]현재 사용 중인 특성판	[!WordCollection][!Menu]现在正使用的天赋版
+#23727	[!WordCollection][!Menu]현재 사용 중인 특성판	[!WordCollection][!Menu]现在正使用的天赋面板
 #23728	[!WordCollection][!Menu]캐릭터 관리	[!WordCollection][!Menu]角色管理
 #23729	[!WordCollection]장착 가능	[!WordCollection]可装备
 #23730	[!WordCollection]장착 중	[!WordCollection]已装备
@@ -15593,7 +15593,7 @@
 #23733	[!WordCollection]알려진 전체 추가 특성	[!WordCollection]已知的组合天赋
 #23734	[!WordCollection]프리셋 설정	[!LayoutKeyword]预置设置
 #23735	[!GuideMessage]대표 캐릭터는 다른 유저들과 만날 수 있는 외부 로비에서 사용되는 캐릭터입니다.	[!GuideMessage]代表角色是在外部大厅与其他用户见面时使用的角色。
-#23736	[!GuideMessage]발키리 코인은 추가 특성판 확장과 같은 편의 기능과 일반적으로 입수 불가능한 아이템을 파는 발리키 상점에서만 이용할 수 있는 화폐입니다.	[!GuideMessage]女武神硬币是在专门贩卖像追加天赋版等的便利功能和无法在一般情况下获得的物品的女武神商店中使用的。
+#23736	[!GuideMessage]발키리 코인은 추가 특성판 확장과 같은 편의 기능과 일반적으로 입수 불가능한 아이템을 파는 발리키 상점에서만 이용할 수 있는 화폐입니다.	[!GuideMessage]女武神硬币是在专门贩卖像追加天赋面板等的便利功能和无法在一般情况下获得的物品的女武神商店中使用的。
 #23737	[!Mastery]훈련서 - 10개	[!Mastery]训练书 - 10个
 #23738	[!Mastery]훈련서 - 60개	[!Mastery]训练书 - 60个
 #23739	[!Mastery]훈련서 - 100개	[!Mastery]训练书 - 100个
@@ -16106,7 +16106,7 @@
 #24259	[!ObjectVoiceSound][!speaker:VHPDMale3]알겠습니다	[!ObjectVoiceSound][!speaker:VHPDMale3]收到了
 #24260	[!ObjectVoiceSound][!speaker:VHPDMale3]전진합니다	[!ObjectVoiceSound][!speaker:VHPDMale3]前进
 #24261	[!ObjectVoiceSound][!speaker:VHPDMale3]이동합니다	[!ObjectVoiceSound][!speaker:VHPDMale3]移动
-#24262	[!GuideMessage]현재 캐릭터의 특성판을 추가하려면 $ItemName$[이] $ItemCount$개 소모됩니다.	[!GuideMessage]该角色添加天赋版需要消耗$ItemCount$个$ItemName$。
+#24262	[!GuideMessage]현재 캐릭터의 특성판을 추가하려면 $ItemName$[이] $ItemCount$개 소모됩니다.	[!GuideMessage]该角色添加天赋面板需要消耗$ItemCount$个$ItemName$。
 #24263	[!GuideMessage]$ItemName$[이] 부족해서 계속 진행할 수 없습니다.	[!GuideMessage]$ItemName$不足，无法继续进行。
 #24264	[!GuideMessage]현재 캐릭터의 급여 조건을 변경하려면, 이전 급여 조건에 따라 $NeedVill$ Vill을 지급해야 합니다.	[!GuideMessage]想改变当前角色的工资条件，需要根据之前的工资条件来支付$NeedVill$Vill。
 #24265	[!GuideMessage]현재 소지 금액이 부족해서 계속 진행할 수 없습니다.	[!GuideMessage]因当前的Vill不够而无法继续进行。
@@ -16230,7 +16230,7 @@
 #24398	[!Mastery]혹한의 괴수	[!Mastery]严寒之怪兽
 #24399	[!Mastery]그 어떤 추위도 그들을 움츠러들게 할 수 없다.	[!Mastery]任何寒冷都无法使他们退缩。
 #24400	[!Mastery]$Weather$ 날씨 혹은 $Temperature$, $Temperature2$ 온도에서 $Stat$, $Stat2$, $Stat3$, $Stat4$[이] $Value$ 증가합니다.	[!Mastery]天气为$Weather$或在$Temperature$、$Temperature2$的气温下，将增加$Value$的$Stat$，$Stat2$，$Stat3$，$Stat4$。
-#24401	[!Mastery]강철의 전투법사	[!Mastery]钢铁的战斗法师
+#24401	[!Mastery]강철의 전투법사	[!Mastery]钢铁术士
 #24402	[!Mastery]우리는 전장에서 절대 쓰러지지 않는 그 자를 강철의 전투법사라 불렀다.	[!Mastery]我们把在战场上绝不倒下的那个人称作钢铁的战斗法师。
 #24403	[!Mastery]적으로부터 공격을 받을 경우, 적의 $Stat$[이] $Value$ 추가 감소합니다.	[!Mastery]受到敌人的攻击时，敌人将额外减少$Value$的$Stat$。
 #24404	[!Mastery]턴 종료 시, $Buff$ 상태가 됩니다.	[!Mastery]回合结束时，将进入$Buff$状态。
@@ -16240,7 +16240,7 @@
 #24408	[!Mastery]빗속의 괴수	[!Mastery]雨中之怪兽
 #24409	[!Mastery]그 어떤 폭우도 그들을 멈추게 할 수 없다.	[!Mastery]任何暴雨都无法使他们停下。
 #24410	[!Mastery]$Weather$ 날씨에서 $Stat$, $Stat2$, $Stat3$, $Stat4$[이] $Value$ 증가합니다.	[!Mastery]天气为$Weather$时，将增加$Value$的$Stat$，$Stat2$，$Stat3$，$Stat4$。
-#24411	[!Mastery]선의 선	[!Mastery]迅速敏捷
+#24411	[!Mastery]선의 선	[!Mastery]一闪
 #24412	[!Mastery]신속하게 반응하고 예리하게 벤다.	[!Mastery]迅速的反应，锐利的砍断。
 #24413	[!Mastery]$Mastery$이 무조건 치명타로 적중합니다.	[!Mastery]$Mastery$将绝对会给予暴击。
 #24414	[!Mastery]백병전의 달인	[!Mastery]百兵战的达人
