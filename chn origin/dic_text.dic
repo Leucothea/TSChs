@@ -6975,7 +6975,7 @@
 #15297	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Angry]일단 전 분대 본청으로의 복귀를 포기하고 별빛 사거리에서 물러난다!	[!Sentence][!Subtitle][!speaker:VHPD_Jane_Angry]全队放弃返回本部，从星光大街撤出!
 #15298	[!Sentence][!Subtitle]백호파는 당황하지 않고 바람장벽 지구 전역에 사건을 일으켜 경찰 병력을 분산시키고...	[!Sentence][!Subtitle]白虎组却不慌不忙的在风之墙壁地区引发全面事端，以此来分散警力…
 #15299	[!Sentence][!Title]징벌의 안드레이	[!Sentence][!Title]惩罚之安德烈
-#15300	[!Sentence][!Dialog][!speaker:Gangster_TwinkleJack_Normal]장비 다 젖겠네. 젠장.	[!Sentence][!Dialog][!speaker:Gangster_TwinkleJack_Normal]设备都要湿了。该死的。
+#15300	[!Sentence][!Dialog][!speaker:Gangster_TwinkleJack_Normal]장비 다 젖겠네. 젠장.	装备都湿了。该死的。
 #15301	[!Sentence][!Subtitle]분산된 경찰 병력으로 인해 다시금 기회가 생기면 이 지역에서 무력 시위를 이어갔다.	[!Sentence][!Subtitle]由于分散的警力再次出现空隙，该地区将会持续爆发武装示威。
 #15302	[!Sentence][!Title]별빛 사거리 시장 골목	[!Sentence][!Title]星光大街市场胡同
 #15303	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Normal]죄송합니다. 베르케님. 아직 조금 더 시간이 필요합니다...	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerNormal_Normal]不好意思，别儿哥大人。还需要些时间…
@@ -8474,7 +8474,7 @@
 #17088	[!Dialog][!speaker:Giselle_Smile]이 사진의 사람들은 단골 손님인가요?	照片上的人是经常来这里的客人吗?
 #17090	[!Dialog][!speaker:Giselle_Satisfying]다들 행복해 보이네요.	他们看起来都好开心呢。
 #17091	[!Dialog][!speaker:Don_Smile]감사합니다.	[!Dialog][!speaker:Anne_Sorrow]谢谢。
-#17092	[!Dialog][!speaker:Giselle_Satisfying]이 아랫 분? '크리스 로우' 맞죠?	下面这位是'克里斯洛'对吧?
+#17092	[!Dialog][!speaker:Giselle_Satisfying]이 아랫 분? '크리스 로우' 맞죠?	下面这位是'克里斯·洛'对吧?
 #17093	[!Dialog][!speaker:Giselle_Satisfying]현재 벤데타 발할라 지부의 No 2. 크리스 로우.	目前凡蒂塔下辖巴赫拉支部，排名第二的克里斯洛。
 #17094	[!Dialog][!speaker:Giselle_Satisfying]10년 전에도 미남이었네요.	看起来10年前也是个帅哥嘛。
 #17095	[!Dialog][!speaker:Don_Normal]평범한 손님은 아니시군요.	[!Dialog][!speaker:Don_Normal]看来你并不是普通客人。
@@ -8494,7 +8494,7 @@
 #17113	[!Dialog][!speaker:Don_Smile]바로 맞은 편 사무실입니다.	你说的就是对面那个事务所。
 #17114	[!Dialog][!speaker:Giselle_Normal]네. 알아요. 기다리고 있는데 오질 않네요.	[!Dialog][!speaker:Giselle_Normal]是。我知道。我就在等他们呢。
 #17115	[!Dialog][!speaker:Giselle_Smile]따뜻한 차 하나 주시겠어요?	[!Dialog][!speaker:Giselle_Smile]给我上一杯热茶吧？
-#17116	[!Sentence][!Dialog][!speaker:Albus_Normal]케이트 씨와 규베 씨 모두 잘 지내시나요?	[!Sentence][!Dialog][!speaker:Albus_Normal]凯特和古贝他们过得好吗？
+#17116	[!Sentence][!Dialog][!speaker:Albus_Normal]케이트 씨와 규베 씨 모두 잘 지내시나요?	凯特和久兵卫他们过得好吗？
 #17117	[!Sentence][!Dialog][!speaker:Giselle_Smile]케이트도 이미 네 나이 때부터 트러블슈터를 시작한 베테랑이야.	[!Sentence][!Dialog][!speaker:Giselle_Smile]凯特也是从你那个年纪就开始了纷争终结活动的老手。
 #17118	[!Sentence][!Dialog][!speaker:Kate_Normal]좋은 말로 차근차근 하셔도 되잖아요.	[!Sentence][!Dialog][!speaker:Kate_Normal]那你好说好商量也可以。
 #17119	[!Sentence][!Dialog][!speaker:Giselle_Smile]왜. 처음 두 달은 시키지 않은 일도 열심히 한다고 마음에 들어하더니?	[!Sentence][!Dialog][!speaker:Giselle_Smile]怎么。头两个月你不也挺满意他自己主动找事做吗?
@@ -8529,7 +8529,7 @@
 #17149	[!Sentence][!Title]잿빛 항구 묘지	[!Sentence][!Title]灰色港口墓地
 #17150	[!Sentence][!Dialog]본부에서 모니터로 각 현장을 관제를 하는 지젤마저 출동하고 나면 알버스 혼자 사무실에 남게 되는 경우가 대부분이었다.	[!Sentence][!Dialog]如果连坐镇总部通过显示器指挥各个案件现场的吉赛尔也出了外勤，办公室里常常就只剩下阿尔伯斯一个人。
 #17151	[!Sentence][!Dialog][!speaker:Albus_Embarrassed_Newbie]아... 저는 오늘부터 출근하기로 한 알버스 번스타인입니다.	[!Sentence][!Dialog][!speaker:Albus_Embarrassed_Newbie]啊…我是从今天开始在这上班的阿尔伯斯伯恩斯坦。
-#17152	[!Sentence][!Dialog][!speaker:Albus_Normal2_Hurt]적을 제압하는 역할은 규베 씨에게 맡기고 전략과 지원을 맡으라고 하셨습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal2_Hurt]你说制服敌人的事情就交给古贝，让我担当战术支援。
+#17152	[!Sentence][!Dialog][!speaker:Albus_Normal2_Hurt]적을 제압하는 역할은 규베 씨에게 맡기고 전략과 지원을 맡으라고 하셨습니다.	你说制服敌人的事情就交给久兵卫，让我担当战术支援。
 #17153	[!Sentence][!Dialog][!speaker:Giselle_Normal]언제나 우리 주 목표는 『 스컬 』이니까.	[!Sentence][!Dialog][!speaker:Giselle_Normal]因为我们的主要目标始终是『骷髅』。
 #17154	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]하지만 아직은 걸음마 수준이야.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]但是你还只是蹒跚学步。
 #17155	[!Sentence][!Dialog][!speaker:Gyube_Normal]그리고 지금은 그 폭발 속에서 저만한 부상으로 끝난 것에 기뻐해야죠.	[!Sentence][!Dialog][!speaker:Gyube_Normal]而且现在应该庆幸那种爆炸才导致我这种程度的受伤。
@@ -8542,7 +8542,7 @@
 #17162	[!Sentence][!Dialog][!speaker:Giselle_Stare]난 두 번 말하지 않네.	[!Sentence][!Dialog][!speaker:Giselle_Stare]我的话不会说第二遍。
 #17163	[!Sentence][!Dialog]더군다나 현장 사건이 많아질수록 아무도 없는 사무실에서 혼자 퇴근하는 경우가 대부분이었다.	[!Sentence][!Dialog]再加上随着现场案件的增多，他经常是从空无一人的办公室独自下班。
 #17164	[!Sentence][!Dialog]보고서에는 알버스 머릿 속에서 나올수 있는 많은 가설들과 추측을 증명하려고 노력한 흔적이 역력했다.	[!Sentence][!Dialog]报告书上明显能看出阿尔伯斯极力想证明他想出的诸多假设和推测。
-#17165	[!Sentence][!Dialog][!speaker:Albus_Stare]규베 씨의 팀은 전투 중 부상율이 너무 높아... 차라리 경찰 병력들의 소모품을 적극적으로 활용하는 게...	[!Sentence][!Dialog][!speaker:Albus_Stare]古贝他们组的战斗受伤率也太高了吧…干脆积极利用警方的消耗品会更稳妥吧…
+#17165	[!Sentence][!Dialog][!speaker:Albus_Stare]규베 씨의 팀은 전투 중 부상율이 너무 높아... 차라리 경찰 병력들의 소모품을 적극적으로 활용하는 게...	久兵卫他们组的战斗受伤率也太高了吧…干脆积极利用警方的消耗品会更稳妥吧…
 #17166	[!Sentence][!Dialog][!speaker:Albus_Disappoint_Newbie]네...	[!Sentence][!Dialog][!speaker:Albus_Disappoint]是…
 #17167	[!Sentence][!Dialog][!speaker:Gyube_Normal]지젤 씨. 알버스가 그때 뛰어나가지 않았다면 많은 사람이 다쳤을 겁니다.	[!Sentence][!Dialog][!speaker:Gyube_Normal]吉赛尔。如果当时阿尔伯斯没跳出来，会有更多人受伤的。
 #17168	[!Sentence][!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']그 녀석이 성장해서 팀 내 제 역할을 하면 『 스컬 』토벌도 반년은 앞당겨지겠지.	[!Sentence][!Dialog][!speaker:Giselle_Normal_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']如果那家伙成长起来，承担起组内的主要事务，那么『骷髅』的讨伐活动也能提前个半年的吧。
@@ -8558,7 +8558,7 @@
 #17178	[!Sentence][!Dialog][!speaker:Giselle_Smile]알버스. 너 얼굴에...	[!Sentence][!Dialog][!speaker:Giselle_Smile]阿尔伯斯。你脸上…
 #17180	[!Sentence][!Dialog][!speaker:Giselle_Normal]오늘은 그냥 돌아가.	[!Sentence][!Dialog][!speaker:Giselle_Normal]今天你就先回去吧。
 #17181	[!Sentence][!Dialog][!speaker:Albus_Embarrassed_Newbie]저기 저...	[!Sentence][!Dialog][!speaker:Albus_Embarrassed_Newbie]那个我是…
-#17182	[!Sentence][!Dialog]유명인들의 경호를 위주로 하는 『 대인호위전담 1과 』, 일반 시민들의 안전 교육과 체험 학습을 담당하는 『 대민교육전담 2과 』...	[!Sentence][!Dialog]主要从事名人护卫的『大人物护卫1科』，从事普通市民安全教育和体验学习活动的『群众教育2科』…
+#17182	[!Sentence][!Dialog]유명인들의 경호를 위주로 하는 『 대인호위전담 1과 』, 일반 시민들의 안전 교육과 체험 학습을 담당하는 『 대민교육전담 2과 』...	主要从事名人护卫的『要员警卫1科』，从事普通市民安全教育和体验学习活动的『市民支援2科』…
 #17183	[!Sentence][!Dialog][!speaker:Albus_Laugh]아니에요. 만약 그때 지젤 씨가 남으라고 말씀하셨다면... 분명 남았을 거에요.	[!Sentence][!Dialog][!speaker:Albus_Laugh]不是的。如果当时吉赛尔你让我留下来…我肯定会留下来的。
 #17184	[!Sentence][!Dialog][!speaker:Kate_Normal]알버스군. 떨어지면 여기로 다시 오세요.	[!Sentence][!Dialog][!speaker:Kate_Normal]阿尔伯斯。录取不上就回到这来吧。
 #17185	[!Sentence][!Dialog]알버스가 퇴근한 대부분의 날...	[!Sentence][!Dialog]阿尔伯斯下班后的大部分的时间里…
@@ -8586,7 +8586,7 @@
 #17207	[!Sentence][!Dialog][!speaker:Giselle_Smile2]그래?	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]是吗？
 #17208	[!Sentence][!Title]리더의 마음	[!Sentence][!Title]上司的心情
 #17209	[!Sentence][!Dialog]알버스는 나태해졌다.	[!Sentence][!Dialog]阿尔伯斯变得懈怠。
-#17210	[!Sentence][!Dialog][!speaker:Giselle_Normal]규베는 은퇴했다. 일반인 규베로 돌아갔지.	[!Sentence][!Dialog][!speaker:Giselle_Normal]古贝他退休了。变成普通人古贝了。
+#17210	[!Sentence][!Dialog][!speaker:Giselle_Normal]규베는 은퇴했다. 일반인 규베로 돌아갔지.	久兵卫他退休了。变成普通人久兵卫了。
 #17211	[!Sentence][!Dialog][!speaker:Kate_Normal]그럴때마다 제대로 실력만 있으면 복장 같은 건 상관없다면서요.	[!Sentence][!Dialog][!speaker:Kate_Normal]每当这时候你就说只要有能力，穿什么都不打紧。
 #17212	[!Sentence][!Dialog]자신이 근무하는 동안 발생했던 사건을 시간 순으로 정리하고 각 사건의 상황을 상세하게 기록하여 누구나 쉽게 상황 재현이 가능하도록 정리하였고...	[!Sentence][!Dialog]将入职以来发生的案件按照时间顺序进行了整理，将各个案件的细节详细的记录，让他人能轻松再现案件处理情形…
 #17213	[!Sentence][!Dialog][!speaker:Gyube_Normal]현장 실습은 감독관이 왕이다. 그러니 모든 지 참아라.	[!Sentence][!Dialog][!speaker:Gyube_Normal]现场实习中你的监督官就是你的王。所以什么事情都要忍耐。
@@ -8620,7 +8620,7 @@
 #17241	[!Sentence][!Dialog][!speaker:Kate_Normal]이젠 빨리 탈주했으면 하네요.	[!Sentence][!Dialog][!speaker:Kate_Normal]现在我只等着他尽快离职不干了。
 #17243	[!Sentence][!Dialog][!speaker:Albus_Normal]정말입니까?	[!Sentence][!Dialog][!speaker:Albus_Normal]真的吗？
 #17244	[!Sentence][!Dialog][!speaker:Kate_Normal]우리도 지구 1위해서 다른 과처럼 보너스 좀 받아요. 선배.	[!Sentence][!Dialog][!speaker:Kate_Normal]我们也好拿下地区第一名，像其他部门那样赚点奖金什么的。前辈。
-#17245	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]그런데 규베 씨는요? 케이트 씨보다 선임이셨잖아요?	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]那么古贝呢？不是比凯特更早入职的吗？
+#17245	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]그런데 규베 씨는요? 케이트 씨보다 선임이셨잖아요?	那么久兵卫呢？不是比凯特更早入职的吗？
 #17246	[!Sentence][!Dialog]세계수 지구의 가장 큰 트러블슈터 회사로 등록된 정식 트러블슈터만 300명이 넘는 대기업이었다.	[!Sentence][!Dialog]这是世界树地区最大的纷争终结公司，仅仅是登录的正式纷争终结者就超过300名的大企业。
 #17247	[!Sentence][!Dialog][!speaker:Kate_Smile]제 팀에 받아 줄게요.	[!Sentence][!Dialog][!speaker:Kate_Smile]我们组要你。
 #17248	[!Sentence][!Dialog]알버스는 그 날로 자신에게 호의를 보여준 다른 트러블슈터 회사들에게 입사할 수 없음을 통보하였다.	[!Sentence][!Dialog]阿尔伯斯当天就告知那个打算雇佣他的其他纷争终结公司说他不打算跳槽了。
@@ -8642,7 +8642,7 @@
 #17265	[!Sentence][!Dialog][!speaker:Kate_Normal]조사과에 의하면『 구룡회 』와 연결이 있는 것 같아요.	[!Sentence][!Dialog][!speaker:Kate_Normal]据调查科说这好像和『九龙会』有关联。
 #17266	[!Sentence][!Dialog][!speaker:Giselle_Stare]시민 지원 봉사하는 녀석들이나 행사 참여하는 녀석들하고 우리가 같아?	[!Sentence][!Dialog][!speaker:Giselle_Stare]我们能和那些市民支援服务的家伙们和参与活动的家伙们一样吗?
 #17267	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]아... 조심할게요.	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]啊…我会注意的。
-#17268	[!Sentence][!Dialog][!speaker:Albus_Normal]감사합니다. 규베 씨.	[!Sentence][!Dialog][!speaker:Albus_Normal]谢谢你。古贝。
+#17268	[!Sentence][!Dialog][!speaker:Albus_Normal]감사합니다. 규베 씨.	谢谢你。久兵卫。
 #17269	[!Sentence][!Dialog]이와 같이 대기업인『 블랙펄 』은 시민들의 다양한 요구를 만족시키기 위하여 임무 목적에 따라 총 9개의 과를 나누어 운영하고 있었으며...	[!Sentence][!Dialog]如此，『黑珍珠』作为一个大企业，为了满足市民们多种多样的需求，根据任务目标为基准，将部门分成9个科室进行运营…
 #17270	[!Sentence][!Dialog]본업인 서류 정리가 끝나고 퇴근하는 알버스로서는 알 리가 없는 사실이었다.	[!Sentence][!Dialog]可是完成了本职的文件整理后就下班的阿尔伯斯是不可能知道这件事的。
 #17271	[!Sentence][!Dialog][!speaker:Kate_Normal]인력만 충원되면 우리가 『 아르월 』한테 성과로 질리가 없다고요.	[!Sentence][!Dialog][!speaker:Kate_Normal]只要补充够人手，业务方面我们是不会输给『阿尔月』的。
@@ -8665,8 +8665,8 @@
 #17292	[!Sentence][!Dialog][!speaker:VHPD_Jane_Smile_Costume][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']까탈스러운 네 녀석이 칭찬할 정도니 궁금하긴 하군.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Smile_Costume][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']这么挑剔的你都能赞上几句，这个人我挺感兴趣的。
 #17293	[!Sentence][!Dialog][!speaker:Kate_Normal]우리도 일 부담 좀 덜자구요. 선배.	[!Sentence][!Dialog][!speaker:Kate_Normal]我们也要减负啊。前辈。
 #17294	[!Sentence][!Dialog]다른 회사에 지원한 결과를 기다리는 짧은 시간 동안이라도 무엇인가에 몰두하여 지난 6개월을 만회하고 싶었기 때문이었다.	[!Sentence][!Dialog]就在等待其他公司雇佣结果的这短短的时间内，他想专注于某件事情去挽回过去6个月的光阴。
-#17295	[!Sentence][!Dialog][!speaker:Giselle_Stare]잠시만 규베. 난 알버스와 이야기를 하고 싶다.	古贝你先等一下。我想听阿尔伯斯说明。
-#17296	[!Sentence][!Dialog]견습 트러블슈터를 다치게 한 미안함과 사실상 더 큰 피해를 막을 수 있었던 사실에 규베는 직접적인 현장 활동에 참여하지 말라는 제약을 어긴 알버스를 한없이 감쌌다.	[!Sentence][!Dialog]让见习纷争终结者受伤的愧疚感，和避免造成更大损失的这一事实，让古贝包庇起这个违反了禁止直接参与现场活动规定的阿尔伯斯。
+#17295	[!Sentence][!Dialog][!speaker:Giselle_Stare]잠시만 규베. 난 알버스와 이야기를 하고 싶다.	久兵卫你先等一下。我想听阿尔伯斯说明。
+#17296	[!Sentence][!Dialog]견습 트러블슈터를 다치게 한 미안함과 사실상 더 큰 피해를 막을 수 있었던 사실에 규베는 직접적인 현장 활동에 참여하지 말라는 제약을 어긴 알버스를 한없이 감쌌다.	让见习纷争终结者受伤的愧疚感，和避免造成更大损失的这一事实，让久兵卫包庇起这个违反了禁止直接参与现场活动规定的阿尔伯斯。
 #17297	[!Sentence][!Title]입사 후 12개월...	[!Sentence][!Title]入职12个月…
 #17298	[!Sentence][!Dialog]알버스가 지젤에게 보낸 보고서.	[!Sentence][!Dialog]阿尔伯斯交给吉赛尔的报告书。
 #17299	[!Sentence][!Dialog][!speaker:Giselle_Normal]알버스군 이라고 했나?	[!Sentence][!Dialog][!speaker:Giselle_Normal]是叫阿尔伯斯是吗？
@@ -8698,7 +8698,7 @@
 #17327	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]백호파...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]白虎组…
 #17328	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]규베. 알버스는 당분간 너와 함께 활동한다.	久兵卫，阿尔伯斯短期内会和你一起行动。
 #17329	[!Sentence][!Dialog][!speaker:Giselle_Smile]내가 두 번 말하던가? 오늘부터 당장 현장 업무 지원에 들어간다.	还要我再说一遍？从今天开始，你马上参与现场支援。
-#17330	[!Sentence][!Dialog][!speaker:Giselle_Annoying]규베. 넌 견습 트러블슈터를 부상입혀 놓고 할 소리냐?	[!Sentence][!Dialog][!speaker:Giselle_Annoying]古贝。现在见习纷争终结者都受伤了，你还能说出这种话吗？
+#17330	[!Sentence][!Dialog][!speaker:Giselle_Annoying]규베. 넌 견습 트러블슈터를 부상입혀 놓고 할 소리냐?	久兵卫。现在见习纷争终结者都受伤了，你还能说出这种话吗？
 #17332	[!Sentence][!Dialog][!speaker:Giselle_Normal]그런데 지금 어디 가는 거니?	[!Sentence][!Dialog][!speaker:Giselle_Normal]那现在去哪？
 #17334	[!Sentence][!Dialog][!speaker:Giselle_Satisfying_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']이 지구 내 우리 팀보다 좋은 팀이 어디있다고 다른 데를 가? 말도 안되는 소리.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying_Inner][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']这个地区除了我们组，哪有更好的团队啊？不可能的。
 #17335	[!Sentence][!Title]마음에 들다.	[!Sentence][!Title]中意。
@@ -8709,8 +8709,8 @@
 #17340	[!Sentence][!Dialog][!speaker:Albus_Embarrassed_Newbie]'여기구나...'	[!Sentence][!Dialog][!speaker:Albus_Embarrassed_Newbie]'是这啊…'
 #17341	[!Sentence][!Dialog]알버스가 상상했던 9과의 생활은 악전고투하는 현장에서 선배들과 협업하여 범죄 조직을 소탕하는 모습이었으나...	[!Sentence][!Dialog]阿尔伯斯之前想象过9科的日子，是在苦战现场协助前辈们去扫荡犯罪团伙…
 #17342	[!Sentence][!Dialog]그에게 주어진 일은 9과의 대부분의 잡일이었다.	[!Sentence][!Dialog]他的业务是负责9科的大部分杂活。
-#17343	[!Sentence][!Dialog][!speaker:Albus_Surprise]은퇴요? 규베씨가요?	[!Sentence][!Dialog][!speaker:Albus_Surprise]退休了？古贝吗？
-#17344	[!Sentence][!Dialog][!speaker:Kate_Normal]규베 씨도 걱정돼서 말하는 거면서...	古贝你不也担心吗…
+#17343	[!Sentence][!Dialog][!speaker:Albus_Surprise]은퇴요? 규베씨가요?	退休了？久兵卫吗？
+#17344	[!Sentence][!Dialog][!speaker:Kate_Normal]규베 씨도 걱정돼서 말하는 거면서...	久兵卫你不也担心吗…
 #17345	[!Sentence][!Dialog][!speaker:Kate_Normal]사장님도 지젤 선배 하이힐 보면서 매일 똑같은 소리 하잖아요.	[!Sentence][!Dialog][!speaker:Kate_Normal]老板他看到吉赛尔前辈的高跟鞋，也是每天唠叨不停的。
 #17346	[!Sentence][!Dialog][!speaker:Albus_Happy]감사합니다!	[!Sentence][!Dialog][!speaker:Albus_Happy]谢谢!
 #17347	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]능력 없는 녀석이 팀에 합류하면 일이 더 늘어. 모르는 거 아니잖아?	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]如果进来个能力不足的家伙，事情就有增无减了。你又不是不知道？
@@ -8767,7 +8767,7 @@
 #17402	[!Sentence][!Dialog]알버스 역시 언제나 이 부분에 관해 부담을 느꼈다.	[!Sentence][!Dialog]阿尔伯斯一直以来也对这一点感到深深的忧虑。
 #17403	[!Sentence][!BalloonChat][!speaker:Albus]예전엔 이런 상황이면 엄청나게 잔소리 하셨을텐데...	[!Sentence][!BalloonChat][!speaker:Albus]是以前的话，原本是会使劲唠叨的…
 #17404	[!Sentence][!Dialog][!speaker:Albus_Disappoint]네.	嗯，谢谢。
-#17405	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]트러블슈터 지젤 발렌슈타인이지.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]纷争终结吉赛尔沃伦斯坦。
+#17405	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]트러블슈터 지젤 발렌슈타인이지.	纷争终结者吉赛尔·沃伦斯坦。
 #17406	[!Sentence][!Dialog][!speaker:Giselle_Smile]그만큼 꾸준히 전략적 약점을 노출해 왔다는 거지.	[!Sentence][!Dialog][!speaker:Giselle_Smile]同时也说明一直在暴露着自身战略上的薄弱。
 #17407	[!Sentence][!Dialog]지젤은 알버스에게 편하게 다가오는 사람은 아니었다.	[!Sentence][!Dialog]这样的吉赛尔对于阿尔伯斯来说可不是可以随意对待的人。
 #17408	[!Sentence][!Dialog][!speaker:Giselle_Normal]'역시 전혀 성장하지 않았어...'	[!Sentence][!Dialog][!speaker:Giselle_Normal]'果然还没长进呢….'
@@ -8920,8 +8920,8 @@
 #17883	[!Dialog][!speaker:Irene_Think]'흐음... 알버스 군이 말한 것보다 훨씬 젊어 보이는데...'	[!Dialog][!speaker:Irene_Think]'嗯... 比阿尔伯斯提起的更年轻啊...'
 #17884	[!Dialog][!speaker:Albus_Normal]지젤 씨는 말씀드린 대로 당분간 우리 회사에 합류하여 도움을 주시기로 하셨습니다.	[!Dialog][!speaker:Albus_Normal]吉赛尔她将会加入我们公司帮助我们一段时间。
 #17885	[!Dialog][!speaker:Ray_Normal]반가워요. 잘 부탁드려요. 전 레이라고 해요.	[!Dialog][!speaker:Ray_Normal]见到你很高兴。我叫雷伊。多多关照。
-#17886	[!Dialog][!speaker:Giselle_Satisfying]『 카오스 브러시 』의 레이 씨군요!	[!Dialog][!speaker:Giselle_Satisfying]『卡奥斯布罗西』的雷伊啊！
-#17887	[!Dialog][!speaker:Giselle_Smile]이 지구로 넘어와서 버려진 사건 현장 거리를 둘러보는 데 곳곳에 매력적인 그라피티가 자주 보여서 누군지 궁금해서 찾아봤어요.	[!Dialog][!speaker:Giselle_Smile]来到地球后环顾着被遺棄的事件現場上,随从可見魅力十足的涂鸦,我很好奇是谁画的就探查了下。
+#17886	[!Dialog][!speaker:Giselle_Satisfying]『 카오스 브러시 』의 레이 씨군요!	『混沌刷』的雷伊啊！
+#17887	[!Dialog][!speaker:Giselle_Smile]이 지구로 넘어와서 버려진 사건 현장 거리를 둘러보는 데 곳곳에 매력적인 그라피티가 자주 보여서 누군지 궁금해서 찾아봤어요.	自从我来到这个地区的事件现场,就随处都能看到魅力十足的涂鸦,我很好奇是谁画的就探查了下。
 #17889	[!Dialog][!speaker:Ray_Surprise_Smile]감.. 감사합니다.	[!Dialog][!speaker:Ray_Surprise_Smile]谢.. 谢谢。
 #17890	[!Dialog][!speaker:Anne_Normal]전 앤 메이시라고 합니다. 잘 부탁드립니다.	[!Dialog][!speaker:Anne_Normal]我叫安梅茜。请多指教。
 #17891	[!Dialog][!speaker:Giselle_Smile]알버스한테 많이 들었어요.	[!Dialog][!speaker:Giselle_Smile]我常听阿尔伯斯说起你。
@@ -10367,7 +10367,7 @@
 #19570	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]그들이 그 곳에 있지 않았다면 더 많은 동지들이 백호파 녀석들에게 사냥당했겠지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]如果不是他们在那里，更多的同志会被白虎派的家伙们猎杀。
 #19571	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]멍청한 녀석...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]愚蠢的家伙...
 #19572	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]『 성난 황소 』출신의 동지들은 이제 포기해.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]就放弃『 愤怒的公牛 』出身的同志吧。
-#19573	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]그래 우리는 『 첫술 』이니까.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]是啊，我们可是『 首勺 』呐。
+#19573	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]그래 우리는 『 첫술 』이니까.	是啊，我们可是『 第一勺 』呐。
 #19574	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]다 『 한술 』의 뜻이겠지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]这大概就是『 第一勺 』的意思吧。
 #19575	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]무리다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]不可能的。
 #19576	[!Sentence][!Title]꼬리 자르기	[!Sentence][!Title]弃城而逃
@@ -17723,3 +17723,4 @@
 #28217	[!Dialog][!speaker:Giselle_Satisfying_Bar]12년.	是12年。
 #28218	[!Dialog][!speaker:VHPD_Jane_Smile_Costume3]진짜 세월 빠르다.	真是岁月如梭呢。
 #28219	[!Sentence][!VictoryCondition]적의 지휘관을 제압하시오.	[!Sentence][!Objective]请镇压敌人的指挥员。
+#28220	[!Sentence][!Dialog][!speaker:Albus_Normal][!Nonetheless]네. 감사합니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]好的。谢谢。

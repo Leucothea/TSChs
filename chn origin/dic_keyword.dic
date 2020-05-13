@@ -2247,8 +2247,6 @@
 #4612	[!WordCollection]\[%s\] 님에게 귓속말	[!WordCollection]向\[%s\]说悄悄话
 #4613	[!Buff]수풀	[!Buff]草丛
 #4614	[!Buff]늪	[!Buff]池沼
-#4641	[!MissionWeather]$White$원거리$Blue_ON$ 공격의 $Yellow$명중률$Blue_ON$이 $White$10%$Blue_ON$ 감소합니다.	[!MissionWeather]$White$远程$Blue_ON$攻击的$Yellow$命中率$Blue_ON$降低$White$10%$Blue_ON$。
-#4644	[!MissionWeather]$White$바람$Blue_ON$ 속성 초능력 공격의 $Yellow$치명타 적중률$Blue_ON$이 $White$20%$Blue_ON$ 증가합니다.<br><br>$White$원거리$Blue_ON$ 공격의 $Yellow$명중률$Blue_ON$이 $White$10%$Blue_ON$ 감소합니다.	[!MissionWeather]$White$风$Blue_ON$属性超能力攻击的$Yellow$暴击率$Blue_ON$增加$White$20%$Blue_ON$。
 #4645	[!MissionWeather]강풍	[!MissionWeather]强风
 #4658	[!ItemType]전투 장갑	[!ItemType]战斗手套
 #4659	[!Ability]범위 내 대상은 $ApplyBuff$ 상태가 됩니다.	[!Ability]范围内的目标变成$ApplyBuff$状态。
@@ -2786,7 +2784,7 @@
 #5539	[!Item]강화 코트	[!Item]强化外套
 #5540	[!Item]방탄 코트의 강화된 코트. 많은 트러블슈터들이 애용하고 있다.	[!Item]防弹外套的强化版。许多纷争终结者惯用的一款。
 #5541	[!Item]갈색 여우 코트	[!Item]棕色狐狸外套
-#5542	[!Item]발할라의 초등학교 아이들에게 인기였던 애니메이션 '여우씨, 안녕하세요'의 주인공 '갈색 여우' 캐릭터 코트. 여우 꼬리 참과 여우 밴드를 같이 줘 아이들에게 엄청나게 가치높은 상품이다.	[!Item]受巴赫拉小学生们追捧的动画片'你好啊，狐狸'的主角'棕色狐狸'角色外套。附赠狐狸尾巴挂件和狐狸腰带，对于孩子们来说是款非常高价的商品。
+#5542	[!Item]발할라의 초등학교 아이들에게 인기였던 애니메이션 '안녕하세요. 여우씨'의 주인공 '갈색 여우' 캐릭터 코트. 여우 꼬리 참과 여우 밴드를 같이 줘 아이들에게 엄청나게 가치높은 상품이다.	[!Item]受巴赫拉小学生们追捧的动画片'你好啊，狐狸'的主角'棕色狐狸'角色外套。附赠狐狸尾巴挂件和狐狸腰带，对于孩子们来说是款非常高价的商品。
 #5543	[!Item]사냥꾼 코트	[!Item]猎人外套
 #5544	[!Item]이능력자들을 상대하는 트러블슈터를 위해 방탄 능력과 이능력 저항 처리가 동시에 된 기능성 코트이다.	[!Item]为了对付异能者的纷争终结者而设计的，同时带有防弹能力和异能抗性的功能性外套。
 #5545	[!Item]정령 코트	[!Item]精灵外套
@@ -2914,7 +2912,7 @@
 #5789	[!Item]발할라의 이능력 사용자들에게 가장 많이 보급되어 있는 보급형 이능력 증폭기이다. 기본적으로 사용자의 건강 보조기구 역활을 동시에 한다.	[!Item]巴赫拉的异能者使用的最普遍的普及型异能增幅器。同时带有基础性的用户健康辅助功能。
 #5794	[!Item]폭력 조직 흑호의 리더 트레이를 위해 특별 제작된 집회복이다. 원거리 난전을 대비해 이능력 저항력과 방탄 효과를 강화하는데 집중하였다.	[!Item]为暴力团伙黑虎组的首领特洛伊特别制作的集会服。为了应对远程混战而重点加强了异能抗性和防弹效果。
 #5795	[!Item]검은 밤송이 자켓	[!Item]黑色毛栗夹克
-#5796	[!Item]발할라의 초등학교 아이들에게 인기였던 애니메이션 '여우씨, 안녕하세요'의 악당. '검은 밤송이'를 프린팅한 수제 코트. 대니는 검고 가시가 나있단 이유로 숲속의 동물로부터 차별받아야 했던 검은 밤송이를 자신의 모습이라고 생각한다.	[!Item]受巴赫拉小学生们追捧的动画片'你好啊,狐狸'中的恶徒。印有'黑色毛栗'的手工外套。丹尼认为,仅仅因为黢黑而长着毛刺就被森林中的动物们歧视的黑色毛栗就是他自己的样子。
+#5796	[!Item]발할라의 초등학교 아이들에게 인기였던 애니메이션 '안녕하세요. 여우씨'의 악당. '검은 밤송이'를 프린팅한 수제 코트. 대니는 검고 가시가 나있단 이유로 숲속의 동물로부터 차별받아야 했던 검은 밤송이를 자신의 모습이라고 생각한다.	[!Item]受巴赫拉小学生们追捧的动画片'你好啊,狐狸'中的恶徒。印有'黑色毛栗'的手工外套。丹尼认为,仅仅因为黢黑而长着毛刺就被森林中的动物们歧视的黑色毛栗就是他自己的样子。
 #5797	[!Item]화염 속성의 이능력자임에도 불구하고 VHPD 초능력 진압대 시절 자신을 가장 고통스럽게 만든 것은 전신을 휘감는 화상의 고통이었다.	[!Item]虽然身为火焰属性的异能者，VHPD异能防暴队时期让自己最为痛苦的却是环绕全身的烧伤之痛。
 #5798	[!Item]폭력 조직 백호의 리더 푸를 위해 특별 제작된 집회복이다. 완력을 사용하는 푸의 행동 제약을 줄이는데 집중하였다.	[!Item]为了暴力团伙白虎组的首领普特别制作的集会服。重点放在了减少对使用腕力的普的行动制约。
 #5799	[!Item]고난의 성채에 서식하는 식인 거미 '백거미'의 둥지에 사용되는 백철을 이용하여 제작한 기관 권총. 매우 가볍고 내구성이 뛰어나다.	[!Item]使用栖息在苦难城寨中的食人蜘蛛'白蜘蛛'的巢穴中的白铁制作的冲锋枪。非常轻便而内部结构优良。
@@ -7243,13 +7241,10 @@
 #12122	[!MissionTemperature]한파	[!MissionTemperature]寒流
 #12124	[!MissionTemperature]폭염	[!MissionTemperature]酷暑
 #12125	[!MissionTemperature]보통	[!MissionTemperature]普通
-#12126	[!MissionTemperature]$White$기력 회복량$Blue_ON$이 $White$2$Blue_ON$ 증가합니다.	[!MissionTemperature]$White$气力恢复量$Blue_ON$提高$White$2$Blue_ON$。
 #12127	[!MissionTemperature]따뜻함	[!MissionTemperature]和暖
 #12128	[!MissionTime]$Blue_ON$모든 캐릭터의 시야가  $White$1$Blue_ON$ 증가합니다.	[!MissionTime]$Blue_ON$所有角色的视野数增加$White$1$Blue_ON$。
 #12129	[!MissionTime]$Blue_ON$모든 캐릭터의 시야가  $White$1$Blue_ON$ 감소합니다.	[!MissionTime]$Blue_ON$所有角色的视野数减少$White$1$Blue_ON$。
 #12130	[!MissionTime]$Blue_ON$모든 캐릭터의 시야가  $White$2$Blue_ON$ 감소합니다.	[!MissionTime]$Blue_ON$所有角色的视野数减少$White$2$Blue_ON$。
-#12131	[!MissionWeather]$White$번개$Blue_ON$ 속성 초능력 공격의 $Yellow$치명타 적중률$Blue_ON$이 $White$20%$Blue_ON$ 증가합니다.<br>$White$화염$Blue_ON$ 속성 초능력 공격의 $Yellow$치명타 적중률$Blue_ON$이 $White$30%$Blue_ON$ 감소합니다.<br><br>$Yellow$명중률$Blue_ON$이 $White$10%$Blue_ON$ 감소합니다.	[!MissionWeather]$White$闪电$Blue_ON$属性的超能力攻击的$Yellow$暴击率$Blue_ON$提升$White$20%$Blue_ON$。<br>$White$火焰$Blue_ON$属性的超能力攻击的$Yellow$暴击率$Blue_ON$降低$White$30%$Blue_ON$。<br><br>$Yellow$命中率$Blue_ON$降低$White$10%$Blue_ON$。
-#12132	[!MissionWeather]$White$얼음$Blue_ON$ 속성 초능력 공격의 $Yellow$치명타 적중률$Blue_ON$이 $White$20%$Blue_ON$ 증가합니다.<br>$White$화염$Blue_ON$ 속성 초능력 공격의 $Yellow$치명타 적중률$Blue_ON$이 $White$30%$Blue_ON$ 감소합니다.<br><br>$White$원거리$Blue_ON$ 공격의 $Yellow$명중률$Blue_ON$이 $White$10%$Blue_ON$ 감소합니다.	[!MissionWeather]$White$寒冰$Blue_ON$属性的超能力攻击的$Yellow$暴击率$Blue_ON$提升$White$20%$Blue_ON$。<br>$White$火焰$Blue_ON$属性的超能力攻击的$Yellow$暴击率$Blue_ON$降低$White$30%$Blue_ON$。<br><br>敌人的$White$远程$Blue_ON$攻击$Yellow$命中率$Blue_ON$降低$White$10%$Blue_ON$。
 #12133	[!Help]카라스 연방	[!Pc]卡拉斯联邦
 #12134	[!Status]공격 피해량 감소율	[!Status]攻击伤害量减免率
 #12135	[!Status][!Short]공격 피해량 감소율	[!Status][!Short]攻击伤害量减免率
@@ -7521,7 +7516,7 @@
 #12520	[!Mastery]지원 사격	[!Mastery]支援火力
 #12522	[!Mastery]나를 죽이지 못하는 고통은 나를 더 강하게 만든다.	[!Mastery]不能杀死我的会让我变得更强大。
 #12523	[!Mastery]고통의 황혼	[!Mastery]痛苦的黄昏
-#12524	[!Mission]먼지바람 고속도로 휴게소	[!Mission]沙尘暴高速公路休息站
+#12524	[!Mission]먼지바람 고속도로 휴게소	[!Mission]]沙尘暴高速公路休息站
 #12526	[!NamedEvent]다 받아낼테니 각오해.	[!NamedEvent]我会把你的一切都拿回来。觉悟吧。
 #12527	[!NamedEvent]다 먹고 살자고 하는 일인데 너무 한 것 아냐?	[!NamedEvent]都是为了生活，是不是太过分了啊？
 #12528	[!NamedEvent]밀수업자 브래드	[!NamedEvent]走私者布拉德
@@ -8041,10 +8036,6 @@
 #13799	[!Mastery]그물 위의 사냥꾼	[!Mastery]网上的猎人
 #13802	[!Mastery]폭풍이 온다.	[!Mastery]暴风来了。
 #13803	[!Mastery]폭풍 날갯짓	[!Mastery]暴风展翅
-#13804	[!MissionTemperature]$White$턴 속도$Blue_ON$가 $White$5$Blue_ON$ 감소합니다.<br>$Yellow$회피율$Blue_ON$이 $White$5%$Blue_ON$ 감소합니다.	[!MissionTemperature]$White$回合速度$Blue_ON$减少$White$5$Blue_ON$。<br>$Yellow$闪避率$Blue_ON$减少$White$5%$Blue_ON$。
-#13805	[!MissionTemperature]$White$턴 속도$Blue_ON$가 $White$10$Blue_ON$ 감소합니다.<br>$Yellow$이동 거리$Blue_ON$가 $White$1$Blue_ON$ 감소합니다.<br>$White$기력 회복량$Blue_ON$이 $White$10$Blue_ON$ 감소합니다.	[!MissionTemperature]$White$回合速度$Blue_ON$减少$White$10$Blue_ON$。<br>$Yellow$移动距离$Blue_ON$减少$White$1$Blue_ON$。<br>$White$气力恢复量$Blue_ON$减少$White$10$Blue_ON$。
-#13806	[!MissionTemperature]$White$턴 속도$Blue_ON$가 $White$10$Blue_ON$ 감소합니다.<br>$Yellow$이동 거리$Blue_ON$가 $White$1$Blue_ON$ 감소합니다.<br>$Yellow$회피율$Blue_ON$이 $White$10%$Blue_ON$ 감소합니다.	[!MissionTemperature]$White$回合速度$Blue_ON$减少$White$10$Blue_ON$。<br>$Yellow$移动距离$Blue_ON$减少$White$1$Blue_ON$。<br>$Yellow$闪避率$Blue_ON$减少$White$10%$Blue_ON$。
-#13807	[!MissionTemperature]$White$턴 속도$Blue_ON$가 $White$5$Blue_ON$ 감소합니다.<br>$White$기력 회복량$Blue_ON$이 $White$5$Blue_ON$ 감소합니다.	[!MissionTemperature]$White$回合速度$Blue_ON$减少$White$5$Blue_ON$。<br>$White$气力恢复量$Blue_ON$减少$White$5$Blue_ON$。
 #13808	[!MissionTemperature]더움	[!MissionTemperature]炎热
 #13809	[!Status]최대 기력	[!Status]最大气力
 #13810	[!Status]최대 연료	[!Status]最大燃料
@@ -8432,7 +8423,6 @@
 #14362	[!Buff]얼음 속성 피해를 입을 시 $AddBuffName$ 상태가 됩니다. 넉백 시, $ApplyAmountValue$칸 더 밀려납니다. 	[!Buff]受到寒冰属性的伤害时进入$AddBuffName$状态。发生击退时，额外再击退$ApplyAmountValue$格。
 #14363	[!Buff]분노의 불꽃	[!Buff]愤怒的火焰
 #14364	[!Buff]분노의 한기	[!Buff]愤怒的寒气
-#14365	[!Buff]$Perano$이동 혹은 어빌리티 사용 시 해당 상태가 해제됩니다. 	[!Buff]$Perano$移动或使用技能时该状态将被解除。
 #14366	[!Buff]적의 원거리 공격 명중률이 $ApplyAmountValue$ 감소합니다.	[!Buff]敌人的远程攻击命中率降低$ApplyAmountValue$。
 #14367	[!Buff]번개 갈기 상태에서 번개 속성 공격 어빌리티를 사용 시, 어빌리티 사용 후 사용한 분노가 추가로 소모됩니다.	[!Buff]在闪电鬃毛状态下使用闪电属性的攻击技能时，技能使用后将会额外消耗用掉的怒气值等量的怒气值。
 #14368	[!Buff]번개 갈기	[!Buff]闪电鬃毛
@@ -8528,7 +8518,7 @@
 #14545	[!Status]레벨 당 $Status$[이] $Value$ 증가합니다.	[!Status]每一级$Status$提升$Value$。
 #14546	[!Status]$Status$[은] 적에게 입는 물리 피해량을 감소시킵니다.	[!Status]$Status$可以降低来自对方的物理伤害。
 #14547	[!Status]$Status$[은] 물리 피해량을 결정합니다.	[!Status]$Status$决定物理伤害。
-#14548	[!Status]$Status$[은] 적의 공격을 방어할 확률을 결정합니다. 적의 공격을 방어하면, 피해량이 $White$50%$Blue_ON$ 감소하며 치명타 피해를 입지 않습니다.	[!Status]$Status$决定防御敌人攻击的几率。对敌人的攻击进行防御时，受到的伤害量降低$White$50%$Blue_ON$，并且不会受到暴击伤害。
+#14548	[!Status]$Status$[은] 적의 공격을 방어할 확률을 결정합니다. 적의 공격을 방어하면, 피해량이 $White$50%$Blue_ON$ 감소하며 치명타 피해를 입지 않습니다.	[!Status]$Status$决定防御敌人攻击的几率。格挡敌人的攻击时，受到的伤害量降低$White$50%$Blue_ON$，并且不会受到暴击伤害。
 #14549	[!Status]$Status$[은] 적에게 입는 타격 속성 물리 피해량을 감소시킵니다. 또한 타격 속성의 상태 이상을 해제할 확률이 증가합니다.<br><br>$Tomato$타격 속성은 격투 혹은 파이프, 배트 등의 근거리 무기를 사용하여 피해를 입히는 속성입니다	[!Status]$Status$将会降低来自敌人打击属性的物理伤害量。并且提高解除打击属性异常状态的几率。<br><br>$Tomato$打击属性物理伤害:通过格斗或是水管、球棒等近战武器造成的伤害。
 #14550	[!Status]$Status$[은] 치명타 공격을 성공시킬 확률을 결정합니다.	[!Status]$Status$决定暴击的成功几率。
 #14551	[!Status]$Status$[은] 치명타 공격 성공 시 추가되는 피해량의 크기를 결정합니다.	[!Status]$Status$决定暴击攻击成功时附加的伤害的大小。
@@ -8542,7 +8532,6 @@
 #14559	[!Status]$Status$[은] 어빌리티의 사용을 위해 필요한 수치입니다. $Status$가 낮으면 어빌리티를 사용할 수 없습니다.	[!Status]$Status$是技能使用所需的必要能量。$Status$值低则无法使用技能。
 #14560	[!Status]$Blue_ON$캐릭터의 $Status$입니다. 전투 중 $Status$[이] $White$0$Blue_ON$이 되면 전투 불능이 됩니다. 전투 불능이 된 캐릭터는 더 이상 전투에 참여할 수 없습니다.	[!Status]$Blue_ON$这是角色的$Status$。战斗中$Status$变成$White$0$Blue_ON$则无法继续战斗。无法战斗的角色则无法继续参与到战斗中。
 #14561	[!Status]$Status$[은] 이동할 수 있는 거리를 결정합니다.	[!Status]$Status$决定可移动的距离。
-#14562	[!Status]$Status$[은] 과충전이 지속되는 시간을 결정합니다.	[!Status]$Status$决定过充电持续的时间。
 #14563	[!Status]$Status$[은] 매 턴 시작 시 회복하는 기력량입니다.	[!Status]$Status$是每个回合开始时恢复气力量。
 #14565	[!Status]$Status$[은] 적에게 피해를 입거나 입히면 증가하는 분노량입니다.<br><br>$Orange$적에게 공격 시, 분노 증가량$Blue_ON$<br>$Perano$적 방어 시<br>$Status$량의 $White$50%$Blue_ON$만큼 분노가 생성됩니다.<br>$Perano$공격 명중 시<br>$Status$량의 $White$100%$Blue_ON$만큼 분노가 생성됩니다.<br>$Perano$치명타 공격 명중 시<br>$Status$량의 $White$150%$Blue_ON$만큼 분노가 생성됩니다.<br>$Perano$적이 전투 불능 시<br>$Status$량의 $White$200%$Blue_ON$만큼 분노가 생성됩니다.<br><br>$Orange$적에게 피해를 입을 시, 분노 증가량$Blue_ON$<br>$Status$량의 $White$100%$Blue_ON$만큼 분노가 생성됩니다.<br><br>$Orange$비전투 행동 종료 시, 분노 감소량$Blue_ON$<br>$Status$량의 $White$50%$Blue_ON$만큼 분노가 감소합니다.<br>$Perano$분노의 비전투 감소는 $White$분노$Perano$ 계열 상태 효과 시 적용되지 않습니다.	[!Status]$Status$是 在攻击或被敌人攻击时增加的愤怒基准量。<br><br>$Orange$攻击敌人时，愤怒增加$Blue_ON$<br>$Perano$敌人防御时<br>将产生$Status$的 $White$50%$Blue_ON$的愤怒值。<br>$Perano$攻击命中时<br>将产生$Status$的 $White$100%$Blue_ON$的愤怒值。<br>$Perano$暴击命中时<br>将产生$Status$的 $White$150%$Blue_ON$的愤怒值。<br>$Perano$敌人无法战斗时<br>将产生$Status$的 $White$200%$Blue_ON$的愤怒值。<br><br>$Orange$受到来自敌人的伤害时，愤怒增加量$Blue_ON$<br>将产生$Status$的 $White$100%$Blue_ON$的愤怒值。<br><br>$Orange$非战斗状态时，每回合愤怒减少量$Blue_ON$<br>将减少$Status$的 $White$50%$Blue_ON$的愤怒值。<br>$Perano$愤怒在非战斗状态减少的效果,在 $White$愤怒$Perano$ 系列状态消失前不会产生。
 #14566	[!Status]$Status$[은] 적에게 입는 초능력 피해량을 감소시킵니다.	[!Status]$Status$降低来自对方的超能力伤害。
@@ -8724,13 +8713,13 @@
 #14780	[!WordCollection]지원 보상 아이템	[!WordCollection]支援奖励物品
 #14781	[!WordCollection]트러블슈터 활동 평가 보상 내역	[!WordCollection]纷争终结者的活动评价奖励内容
 #14782	[!WordCollection]지원 보상금	[!WordCollection]支援奖励金
-#14784	[!Loading]먼지바람 고속도로 휴게소	[!Mission]沙尘暴高速公路休息站
+#14784	[!Loading]먼지바람 고속도로 휴게소	[!Mission]]沙尘暴高速公路休息站
 #14785	[!Loading]같이 걸어가기	[!Loading]一起向前走
 #14786	[!ObjectInfo]소형 바이크론	[!ObjectInfo]小型拜克伦
-#14787	[!Site]먼지바람 고속도로 휴게소	[!Mission]沙尘暴高速公路休息站
+#14787	[!Site]먼지바람 고속도로 휴게소	[!Mission]]沙尘暴高速公路休息站
 #14788	[!Troublebook]카터와 레톤이 바람장벽 지구로 넘어와 10개월. 레톤은 카터의 계획을 끝까지 따라가기로 한다.	[!Troublebook]卡特和莱顿来到风之墙壁地区已经10个月了。莱顿决定跟随着卡特的计划到底。
 #14789	[!Troublebook]비가 오는 날이면...	[!Troublebook]一到下雨天...
-#14790	[!Troublebook]먼지바람 고속도로 휴게소	[!Mission]沙尘暴高速公路休息站
+#14790	[!Troublebook]먼지바람 고속도로 휴게소	[!Mission]]沙尘暴高速公路休息站
 #14791	[!Troublebook]같이 걸어가기	[!Troublebook]一起向前走
 #14793	[!Ability]일반 추출보다 100% 높은 효율로 대상의 에너지를 추출합니다.	[!Ability]以比一般提取高出100%的效率提取目标的能源。
 #14794	[!Ability]순도 높은 에너지 추출	[!Ability]高纯度的能量提取
@@ -12581,7 +12570,6 @@
 #19778	[!Mastery]물러서지 않는 자 - 2 세트	[!Mastery]不退缩者 - 2 套
 #19780	[!Mastery]물러서지 않는 자 - 3 세트	[!Mastery]不退缩者 - 3 套
 #19781	[!Mastery]물러서지 않는 자 - 5 세트	[!Mastery]不退缩者 - 5 套
-#19782	[!MissionWeather]$White$화염$Blue_ON$ 속성 초능력 공격의 $Yellow$치명타 적중률$Blue_ON$이 $White$20%$Blue_ON$ 증가합니다.<br>$White$얼음$Blue_ON$ 속성 초능력 공격의 $Yellow$치명타 적중률$Blue_ON$이 $White$30%$Blue_ON$ 감소합니다.	[!MissionWeather]增加$White$火焰$Blue_ON$属性超能力攻击的$Yellow$暴击率$Blue_ON$$White$20%$Blue_ON$。<br>减少$White$寒冰$Blue_ON$属性超能力攻击的$Yellow$暴击率$Blue_ON$$White$30%$Blue_ON$。
 #19783	[!WordCollection]남은 턴 대기 시간	[!WordCollection]剩余的回合冷却时间
 #19784	[!Ability]화염 부르기	[!Ability]引发火焰
 #19785	[!Ability]얼음 부르기	[!Ability]引发寒冰
@@ -13322,15 +13310,11 @@
 #20808	[!Mastery]$Ability$ 사용 시, 소모한 $Vigor$ 혹은 $Rage$만큼 $SP$가 증가합니다.	[!Mastery]使用$Ability$时，增加$Vigor$或$Rage$消耗量等量的$SP$。
 #20809	[!Mastery]화염 속성 어빌리티	[!Mastery]火焰属性技能
 #20811	[!Mastery]얼음 속성 어빌리티	[!Mastery]寒冰属性技能
-#20812	[!Mastery]적의 공격을 방어하면, $SP$가 $Value$ 추가 증가합니다.	[!Mastery]格挡敌人的攻击时，$SP$将额外增加$Value$。
 #20813	[!Mastery]번개 속성 어빌리티	[!Mastery]闪电属性技能
-#20814	[!Mastery]자신의 공격으로 치명타 피해를 입힌 대상 수만큼 $SP$가 $Value$ 추가 증가합니다.	[!Mastery]自身发动攻击时，每个受到暴击的敌人会使$SP$的获得量额外增加$Value$。
 #20815	[!Mastery]바람 속성 어빌리티	[!Mastery]风属性技能
-#20816	[!Mastery]자신의 공격으로 피해를 입힌 대상 수만큼 $SP$가 $Value$ 추가 증가합니다.	[!Mastery]自身发动攻击时，每个受到伤害的敌人会使$SP$的获得量额外增加$Value$。
 #20817	[!Mastery]대지 속성 어빌리티	[!Mastery]大地属性技能
 #20818	[!Mastery]자신의 턴을 시작할 때마다 $SP$가 $Value$ 추가 증가합니다.	[!Mastery]每次开始自己的回合时，$SP$将额外增加$Value$。
 #20819	[!Mastery]물 속성 어빌리티	[!Mastery]水属性技能
-#20820	[!Mastery]적의 공격을 회피하면, $SP$가 $Value$ 추가 증가합니다.	[!Mastery]闪避敌人的攻击时，$SP$将额外增加$Value$。
 #20821	[!Mastery]모든 어빌리티 사용 시, 소모한 $Fuel$의 $Value$ 만큼 $SP$가 증가합니다.	[!Mastery]使用所有技能时，增加$Fuel$消耗量$Value$的$SP$。
 #20822	[!Mastery]적을 공격하거나 적에게 공격을 받을 시, $SP$가 $Value$ 증가합니다.	[!Mastery]攻击敌人或被攻击时，$SP$将增加$Value$。
 #20823	[!Mastery]자신의 턴을 시작할 때마다 $SP$가 $Value$ 증가합니다.	[!Mastery]每次开始自己的回合时，$SP$将增加$Value$。
@@ -14422,7 +14406,6 @@
 #22061	[!Mastery]$Mastery2$ 발동 시, $Mastery$의 발동 확률이 $Value$ 증가합니다.	[!Mastery]$Mastery2$发动时，$Mastery$的发动几率将增加$Value$。
 #22062	[!GuideMessage][colour='FFFFE959']해당 야수는 보호되어 있으므로 포기할 수 없습니다.	[!GuideMessage][colour='FFFFE959']该野兽受到保护，因此无法放弃。
 #22063	[!GuideMessage][colour='FFFFE959']해당 기계는 보호되어 있으므로 폐기할 수 없습니다.	[!GuideMessage][colour='FFFFE959']该机器受到保护，因此无法废弃。
-#22064	[!Mastery]자신의 공격으로 $Dead$으로 만든 적 $Value$명 당 $SP$가 $Value2$ 추가 증가합니다.	[!Mastery]每$Value$个以自己的攻击导致$Dead$的敌人，将额外增加$Value2$的$SP$。
 #22065	[!Mastery]자신의 공격으로 $Dead$으로 만든 적 $Value$명 당 $ActionTime$이 $Value2$ 감소합니다.	[!Mastery]每$Value$个以自己的攻击导致$Dead$的敌人，将减少$Value2$的$ActionTime$。
 #22066	[!Mastery]시야 내 $Dead$이 된 적 $Value$명 당 $Vigor$을 $Value2$ 추가 회복합니다.	[!Mastery]每$Value$个视野内$Dead$的敌人，将额外恢复$Value2$的$Vigor$。
 #22067	[!Mastery]자신의 공격으로 $Dead$으로 만든 적 $Value$명 당 $Buff$ 상태가 $Value$ 증가합니다.	[!Mastery]每$Value$个以自己的攻击导致$Dead$的敌人，将增加$Buff$状态$Value$。
@@ -16268,3 +16251,29 @@
 #24436	[!Mastery]경험치 획득 시, 자신보다 레벨이 낮은 아군은 획득한 경험치의 $Value$를 추가 획득합니다.	[!Mastery]获得经验值时，比自身等级低的友军将额外获得$Value$经验值。
 #24437	[!GuideMessage]이동 혹은 어빌리티 사용 시 해당 상태가 해제됩니다.	[!GuideMessage]移动或使用技能时该状态将被解除。
 #24438	[!GuideMessage]이동 시 해당 상태가 해제됩니다.	[!GuideMessage]移动时该状态将被解除。
+#24439	[!GuideMessage][colour='FFFFFFFF']$MasteryName$[colour='FFFFE959'] 추가 특성 효과 정보를 획득하였습니다.	[!GuideMessage]获得了[colour='FFFFFFFF']$MasteryName$[colour='FFFFE959']附加天赋的信息。
+#24440	[!LayoutKeyword]포기	[!LayoutKeyword]放弃
+#24441	[!LayoutKeyword]이어하기	[!LayoutKeyword]接着做任务
+#24442	[!Mastery]자신의 공격으로 $Dead$으로 만든 적 $Value$명 당 $SP$가 $Value2$ 증가합니다.	[!Mastery]每$Value$个以自己的攻击导致$Dead$的敌人，将增加$Value2$的$SP$。
+#24443	[!Mastery]적의 공격을 방어하면, $SP$가 $Value$ 증가합니다.	[!Mastery]格挡敌人的攻击时，将增加$Value$的$SP$。
+#24444	[!Mastery]자신의 공격으로 치명타 피해를 입힌 대상 수만큼 $SP$가 $Value$ 증가합니다.	[!Mastery]自身发动攻击时，每个受到暴击的敌人会使$SP$的获得量增加$Value$。
+#24445	[!Mastery]자신의 공격으로 피해를 입힌 대상 수만큼 $SP$가 $Value$ 증가합니다.	[!Mastery]自身发动攻击时，每个受到伤害的敌人会使$SP$的获得量增加$Value$。
+#24446	[!Mastery]적의 공격을 회피하면, $SP$가 $Value$ 증가합니다.	[!Mastery]闪避敌人的攻击时，$SP$将增加$Value$。
+#24447	[!MissionWeather]$Ability$로 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]用$Ability$攻击敌人时，$Stat$将增加$Value$。
+#24448	[!MissionWeather]화염 공격 어빌리티	[!Mastery]火焰攻击技能
+#24449	[!MissionWeather]대지 공격 어빌리티	[!Mastery]大地攻击技能
+#24450	[!MissionWeather]$Ability$로 적을 공격할 경우, $Stat$[이] $Value$ 감소합니다.	[!MissionWeather]用$Ability$攻击敌人时，$Stat$将减少$Value$。
+#24451	[!MissionWeather]얼음 공격 어빌리티	[!Mastery]寒冰攻击技能
+#24452	[!MissionWeather]바람 공격 어빌리티	[!Mastery]风攻击技能
+#24453	[!MissionWeather]사격 공격 어빌리티	[!Mastery]射击攻击技能
+#24454	[!MissionWeather]투척 공격 어빌리티	[!Mastery]投掷攻击技能
+#24455	[!MissionWeather]번개 공격 어빌리티	[!Mastery]闪电攻击技能
+#24456	[!MissionWeather]물 공격 어빌리티	[!Mastery]水攻击技能
+#24457	[!MissionWeather]공격 어빌리티	[!AbilityType]攻击技能
+#24458	[!MissionWeather]$Ability$, $Ability2$, $Ability3$로 적을 공격할 경우, $Stat$[이] $Value$ 감소합니다.	[!MissionWeather]用$Ability$, $Ability2$, $Ability3$攻击敌人时，$Stat$将减少$Value$。
+#24459	[!MissionWeather]낙하 공격 어빌리티	[!Mastery]降落攻击技能
+#24460	[!Buff]$Perano$공격 어빌리티 사용 시 자동 해제됩니다.$Blue_ON$	[!Buff]$Perano$使用攻击技能时，将会自动移除。$Blue_ON$
+#24461	[!MissionTemperature]$Stat$[이] $Value$ 감소합니다.	[!MissionTemperature]$Stat$将减少$Value$。
+#24462	[!MissionTemperature]$Stat$[이] $Value$ 증가합니다.	[!Mastery]$Stat$将增加$Value$。
+#24463	[!Status]$Status$[가] 최대 수치가 되면 과충전이 됩니다.	[!Status]$Status$が最大値になり、過充電状態になります。
+#24464	[!Status]$Status$[은] 과충전이 지속되는 턴을 결정합니다.	[!Status]$Status$は過充電が続くターンを決めます。
