@@ -159,7 +159,7 @@
 #376	[!Buff]도발	[!Buff]嘲讽
 #377	[!Buff]분노	[!Buff]愤怒
 #379	[!Buff]부활	[!Buff]复活
-#380	[!Buff]재생	[!Buff]重生
+#380	[!Buff]재생	[!Buff]苏生
 #381	[!Buff]강화	[!Buff]强化
 #382	[!Buff]스콜지	[!Buff]天灾
 #386	[!Buff]연쇄 사격	[!Buff]连环射击
@@ -373,7 +373,7 @@
 #769	[!HitRateCondition]회피불가	[!HitRateCondition]无法闪避
 #770	[!HitRateCondition]레벨차	[!HitRateCondition]等级差
 #771	[!HitRateCondition]연막	[!HitRateCondition]烟幕
-#772	[!HitRateCondition]안정된 자세	[!HitRateCondition]稳定的姿势
+#772	[!HitRateCondition]안정된 자세	[!HitRateCondition]稳定姿势
 #773	[!HitRateCondition]표식	[!HitRateCondition]标识
 #774	[!Item]자동 소총 C	[!Item]自动步枪C
 #775	[!Item]자동 소총 C - 100	[!Item]自动步枪C-100
@@ -619,9 +619,9 @@
 #1368	[!Mastery]피는 물보다 진하다.	[!Mastery]血浓于水。
 #1373	[!Mastery]피범벅	[!Mastery]血染八方
 #1376	[!Mastery]유혈	[!Mastery]流血
-#1378	[!Mastery]타격 내성 I	[!Mastery]耐打性(一)
-#1379	[!Mastery]타격 내성 II	[!Mastery]耐打性(二)
-#1380	[!Mastery]타격 내성 III	[!Mastery]耐打性(三)
+#1378	[!Mastery]타격 내성 I	[!Mastery]打击耐性(一)
+#1379	[!Mastery]타격 내성 II	[!Mastery]打击耐性(二)
+#1380	[!Mastery]타격 내성 III	[!Mastery]打击耐性(三)
 #1383	[!Mastery]신체 단련	[!Mastery]锻炼身体
 #1386	[!Mastery]사무치는 냉기	[!Mastery]彻骨的寒冷
 #1389	[!Mastery]탁월한 도약	[!Mastery]卓越的跳跃
@@ -665,7 +665,7 @@
 #1504	[!Mastery]화염 내성 I	[!Mastery]火焰耐性(一)
 #1505	[!Mastery]화염 내성 II	[!Mastery]火焰耐性(二)
 #1506	[!Mastery]화염 내성 III	[!Mastery]火焰耐性(三)
-#1509	[!Mastery]응급 치료	[!Mastery]急救治疗
+#1509	[!Mastery]응급 치료	[!Mastery]紧急治疗
 #1512	[!Mastery]고정 사격	[!Mastery]稳固射击
 #1515	[!Mastery]불꽃 충돌	[!Mastery]火花冲突
 #1521	[!Mastery]기선 제압	[!Mastery]先发制人
@@ -678,7 +678,7 @@
 #1545	[!Mastery]매의 눈	[!Mastery]鹰之眼
 #1548	[!Mastery]헤드샷	[!Mastery]爆头
 #1551	[!Mastery]맞바람	[!Mastery]顶风
-#1554	[!Mastery]치유의 물결	[!Mastery]治疗之涌
+#1554	[!Mastery]치유의 물결	[!Mastery]涌泉之愈
 #1557	[!Mastery]건강한 신체	[!Mastery]健康的身体
 #1559	[!Mastery]묵직한 일격	[!Mastery]沉重一击
 #1562	[!Mastery]지옥문	[!Mastery]地狱之门
@@ -718,9 +718,9 @@
 #1650	[!Mastery]고독한 히어로	[!Mastery]英雄寂寞
 #1653	[!Mastery]외톨이 늑대	[!Mastery]孤狼
 #1656	[!Mastery]증오의 군주	[!Mastery]憎恨的君主
-#1659	[!Mastery]행운의 숫자 8	[!Mastery]幸运数字-8
-#1661	[!Mastery]행운의 숫자 9	[!Mastery]幸运数字-9
-#1663	[!Mastery]행운의 숫자 7	[!Mastery]幸运数字-7
+#1659	[!Mastery]행운의 숫자 8	[!Mastery]幸运数字(八)
+#1661	[!Mastery]행운의 숫자 9	[!Mastery]幸运数字(九)
+#1663	[!Mastery]행운의 숫자 7	[!Mastery]幸运数字(七)
 #1666	[!Mastery]기계사냥꾼	[!Mastery]机械猎人
 #1668	[!Mastery]마법 회로	[!Mastery]魔法回路
 #1673	[!Mastery]정신 붕괴	[!Mastery]精神崩溃
@@ -733,7 +733,7 @@
 #1693	[!Mastery]하나씩	[!Mastery]一个个
 #1696	[!Mastery]한방에 한 명씩	[!Mastery]一枪一个
 #1698	[!Mastery]절호의 일격	[!Mastery]绝妙一击
-#1701	[!Mastery]생명의 기원	[!Mastery]生命的起源
+#1701	[!Mastery]생명의 기원	[!Mastery]生命起源
 #1704	[!Mastery]무법자	[!Mastery]亡命之徒
 #1707	[!Mastery]제압	[!Mastery]压制
 #1709	[!Mastery]경계	[!Mastery]警戒
@@ -749,7 +749,7 @@
 #1738	[!Mastery]기도사	[!Mastery]祈祷人
 #1741	[!Mastery]포식자	[!Mastery]捕食者
 #1744	[!Mastery]포식자의 눈	[!Mastery]捕食者的视觉
-#1750	[!Mastery]인과율	[!Mastery]因果论
+#1750	[!Mastery]인과율	[!Mastery]因果律
 #1752	[!Mastery]번영	[!Mastery]繁荣
 #1757	[!Mastery]방화광	[!Mastery]纵火狂
 #1759	[!Mastery]사나운 불꽃	[!Mastery]凶猛的火花
@@ -806,9 +806,9 @@
 #1910	[!Mastery]활력	[!Mastery]活力
 #1913	[!Mastery]원령	[!Mastery]怨灵
 #1916	[!Mastery]지명수배자	[!Mastery]通缉犯
-#1918	[!Mastery]물 내성 I	[!Mastery]水耐性(一)
-#1919	[!Mastery]물 내성 II	[!Mastery]水耐性(二)
-#1920	[!Mastery]물 내성 III	[!Mastery]水耐性(三)
+#1918	[!Mastery]물 내성 I	[!Mastery]流水耐性(一)
+#1919	[!Mastery]물 내성 II	[!Mastery]流水耐性(二)
+#1920	[!Mastery]물 내성 III	[!Mastery]流水耐性(三)
 #1923	[!Mastery]무기 막기	[!Mastery]武器格挡
 #1926	[!Mastery]백열	[!Mastery]白热
 #1929	[!Mastery]백야	[!Mastery]白夜
@@ -817,9 +817,9 @@
 #1937	[!Mastery]정신력	[!Mastery]精神力
 #1940	[!Mastery]바람 칼날	[!Mastery]风刃
 #1943	[!Mastery]바람 망치	[!Mastery]风锤
-#1945	[!Mastery]바람 내성 I	[!Mastery]风耐性(一)
-#1946	[!Mastery]바람 내성 II	[!Mastery]风耐性(二)
-#1947	[!Mastery]바람 내성 III	[!Mastery]风耐性(三)
+#1945	[!Mastery]바람 내성 I	[!Mastery]疾风耐性(一)
+#1946	[!Mastery]바람 내성 II	[!Mastery]疾风耐性(二)
+#1947	[!Mastery]바람 내성 III	[!Mastery]疾风耐性(三)
 #1953	[!Mastery]바람장벽	[!Mastery]风之障壁
 #1956	[!Mastery]상처 감염	[!Mastery]伤口感染
 #1959	[!Mastery]동경	[!Mastery]憧憬
@@ -3889,7 +3889,7 @@
 #7325	[!Mastery]별빛에 눈이 멀어버린 사람은 없어도 마음을 빼앗긴 사람은 많아요.	[!Mastery]虽然没人被星光晃瞎了眼，可是很多人被星光夺走了心。
 #7326	[!Mastery]별빛 파편	[!Mastery]星光碎片
 #7328	[!Mastery]가장 행복한 시간은 별이 밝은 밤거리를 혼자 조용히 걷는 것이에요.	[!Mastery]最幸福的时光是在满天星耀下静静地走在夜路上。
-#7329	[!Mastery]별이 빛나는 밤	[!Mastery]星光灿烂的夜晚
+#7329	[!Mastery]별이 빛나는 밤	[!Mastery]繁星之夜
 #7331	[!Mastery]우울한 순간에도 주위를 둘러보면 좋은 일 하나쯤은 당연히 있지.	[!Mastery]忧郁的时候若能环顾四周，至少会发现一件好事吧。
 #7332	[!Mastery]생기발랄	[!Mastery]生动活泼
 #7334	[!Mastery]용서를 구한다고 받아줄 거라 생각했다면 오산이야.	[!Mastery]如果你以为求我原谅我就会接受，那你就是误会了。
@@ -5065,7 +5065,7 @@
 #8913	[!Mastery]대지술사	[!Mastery]大地术士
 #8915	[!Mastery]이 뒤로는 아무도 지나갈 수 없소.	[!Mastery]一夫当关，万夫莫开。
 #8916	[!Mastery]수문장	[!Mastery]一夫当关
-#8919	[!Mastery]모든 공격의 시작은 상대의 자세를 흩트리는 것부터 시작하네	[!Mastery]打乱对方的姿势就是一切攻击的开始。
+#8919	[!Mastery]모든 공격의 시작은 상대의 자세를 흩트리는 것부터 시작하네	[!Mastery]打乱对方姿势就是一切攻击的开始。
 #8920	[!Mastery]흘리기	[!Mastery]云手
 #8922	[!Mastery]코트를 지배하는 자가 게임을 지배한다.	[!Mastery]掌控场地的一方可支配整个游戏。
 #8923	[!Mastery]위치 선점	[!Mastery]抢占位置
@@ -5225,7 +5225,7 @@
 #9101	[!Mastery]승리를 위해 필요한 것은 포기하지 않는 마음이다.	[!Mastery]胜利所需的一切都不能抛弃的这份决心。
 #9102	[!Mastery]악전고투	[!Mastery]苦战
 #9104	[!Mastery]행운의 여신이 날 바라보는군.	[!Mastery]幸运女神在眷顾着我。
-#9105	[!Mastery]우연한 적중	[!Mastery]偶然的命中
+#9105	[!Mastery]우연한 적중	[!Mastery]幸运射击
 #9107	[!Mastery]자네의 몸은 세상에서 유일하게 자네를 배신하지 않네.	[!Mastery]你的身躯是在这世上唯一不会背叛你的东西。
 #9108	[!Mastery]근육맨	[!Mastery]肌肉男
 #9110	[!Mastery]이 근육이야말로 나의 최고의 무기이다.	[!Mastery]这身肌肉才是我的最强武器啊。
@@ -5517,7 +5517,7 @@
 #9593	[!WordCollection][!Menu]도움말	[!WordCollection][!Menu]帮助
 #9594	[!HelpCategory]전투 시스템	[!HelpCategory]战斗系统
 #9597	[!Mastery]지금 네가 할 행동은 무의미하다.	[!Mastery]你现在的行为毫无意义。
-#9598	[!Mastery]나는 이미 알고 있다.	[!Mastery]我已经知道了
+#9598	[!Mastery]나는 이미 알고 있다.	[!Mastery]我已经看穿了
 #9600	[!Mastery]너에게 총성이 들릴 리가 없지.	[!Mastery]你不可能听见枪声。
 #9601	[!Mastery]넌 이미 죽어 있다.	[!Mastery]你已经死了
 #9604	[!Mastery]무너지지 않는 유일한 것은 자네의 마음일세.	[!Mastery]唯一不倒的就是你的心。
@@ -5618,7 +5618,7 @@
 #9701	[!Mastery]그대에게 베푸는 최대의 관용일세. 단 한발.	[!Mastery]这是我给你的最大的宽容。只一枪。
 #9702	[!Mastery]핏빛 탄환	[!Mastery]血色弹丸
 #9704	[!Mastery]정신만 차리면 죽지 않아요! 제 말 들리시죠?	[!Mastery]只要清醒就不会死！您能听到我吗？
-#9705	[!Mastery]정성어린 치료	[!Mastery]精心治疗
+#9705	[!Mastery]정성어린 치료	[!Mastery]回春之愈
 #9709	[!Mastery]일기당천	[!Mastery]一骑当千
 #9711	[!Mastery]나에게 주어진 마지막 기회다.	[!Mastery]这是我的最后一次机会。
 #9712	[!Mastery]세 번째 심장	[!Mastery]第三心脏
@@ -5962,7 +5962,7 @@
 #10184	[!WordCollection]게임 난이도: 가혹한	[!WordCollection]游戏难度：炼狱
 #10185	[!WordCollection]게임 난이도: 안전	[!WordCollection]游戏难度：安全
 #10189	[!Mastery]최상의 기회가 올 때까지 기다린다.	[!Mastery]等到最好的机会到来为止。
-#10190	[!Mastery]노림수	[!Mastery]钻空子
+#10190	[!Mastery]노림수	[!Mastery]趁虚而动
 #10192	[!Mastery]베지 못하는 것은 없다!	[!Mastery]没有什么是不能砍削的！
 #10194	[!Mastery]아군과 적군 모두에게 미움을 받는 존재이지.	[!Mastery]不论对敌人还是友军，都是令人厌恶的存在。
 #10195	[!Mastery]저격수	[!Mastery]狙击手
@@ -6131,9 +6131,9 @@
 #10412	[!Mastery]모든 능력은 널리 인간을 이롭하기 위해 사용해야 한다.	[!Mastery]所有的能力，需要用于造福人类。
 #10413	[!Mastery]백마법 회로	[!Mastery]白魔法回路
 #10415	[!Mastery]적을 속이려면 아군부터 속여라.	[!Mastery]想欺骗敌人，先骗过队友。
-#10416	[!Mastery]야생 생활	[!Mastery]野外生活
+#10416	[!Mastery]야생 생활	[!Mastery]荒野生活
 #10418	[!Mastery]우리는 간단한 비틀림을 통해 세상의 인과를 증폭시키지.	[!Mastery]我们通过简单的扭转，来增幅这个世界的因果。
-#10419	[!Mastery]사술	[!Mastery]诈术
+#10419	[!Mastery]사술	[!Mastery]真理之谬
 #10420	[!MasteryType]흑마도사	[!MasteryType]黑魔导士
 #10422	[!MasteryType]순찰자	[!MasteryType]游击兵
 #10423	[!MasteryType]백마도사	[!MasteryType]白魔导士
@@ -6279,7 +6279,7 @@
 #10685	[!Buff_Positive]번개 장막	[!Buff_Positive]闪电帷幕
 #10686	[!Buff_Positive]행운	[!Buff_Positive]幸运
 #10687	[!Buff_Positive]분노	[!Buff_Positive]愤怒
-#10688	[!Buff_Positive]재생	[!Buff_Positive]重生
+#10688	[!Buff_Positive]재생	[!Buff_Positive]苏生
 #10689	[!Buff_Positive]암석화	[!Buff_Positive]石化
 #10690	[!Buff_Positive]딱딱한 피부	[!Buff_Positive]硬皮
 #10691	[!Buff_Positive]바람 장막	[!Buff_Positive]风之帷幕
@@ -6296,16 +6296,16 @@
 #10704	[!Mastery]방향을 바꾸면 위력은 대폭 줄어들지.	[!Mastery]改变方向，威力就大打折扣了。
 #10705	[!Mastery]칼날 흘리기	[!Mastery]流动之剑
 #10707	[!Mastery]부족한 것을 채우겠습니다.	[!Mastery]我将弥补不足。
-#10708	[!Mastery]재생의 축복	[!Mastery]重生的祝福
+#10708	[!Mastery]재생의 축복	[!Mastery]苏生的祝福
 #10710	[!Mastery]너의 힘을 돌려주마.	[!Mastery]你的力量，返还给你。
 #10711	[!Mastery]차경	[!Mastery]借劲
 #10712	[!Mastery]방어구 가르기	[!Mastery]破甲
 #10714	[!Mastery]아무리 방어를 굳혀도 뚫어버리면 그만이다.	[!Mastery]防御虽固若金汤，突破就行了。
 #10715	[!Mastery]성문 돌파	[!Mastery]破城
 #10716	[!Mastery]너의 선택권을 빼앗아주지.	[!Mastery]你的选择权归我了。
-#10717	[!Mastery]무기 무력화	[!Mastery]削弱武器
+#10717	[!Mastery]무기 무력화	[!Mastery]缴械
 #10720	[!Mastery]반동을 제어하는 것이 빠른 사격의 지름길이지.	[!Mastery]控制后坐力是快速射击的捷径。
-#10721	[!Mastery]반동 제어	[!Mastery]控制反转
+#10721	[!Mastery]반동 제어	[!Mastery]后坐力制御
 #10723	[!Mastery]쉽게 기회를 주지 않는다.	[!Mastery]不会轻易让你获得机会的。
 #10724	[!Mastery]보복 사격	[!Mastery]报复射击
 #10726	[!Mastery]이 저주의 재물은 바로 너의 목숨이다.	[!Mastery]这诅咒的财务就是你的命。
@@ -6325,11 +6325,11 @@
 #10774	[!Mastery]이번이 내 차례였을 뿐이야.	[!Mastery]这次只不过是我的次序而已。
 #10775	[!Mastery]나는 아직 끝나지 않았다.	[!Mastery]我这还没结束呢
 #10777	[!Mastery]또 다른 일은 없나?	[!Mastery]没有别的事儿？
-#10778	[!Mastery]나는 아직 배고프다.	[!Mastery]我还饿
+#10778	[!Mastery]나는 아직 배고프다.	[!Mastery]我还没满足
 #10780	[!Mastery]네 눈으로 확인하지 않은 것을 아무리 부정하여도 존재하는 것은 사라지지 않는다. 	[!Mastery]没用你自己的双眼去确认过的东西，就算你一再否定，它的存在不会消失。
 #10781	[!Mastery]보이지 않는 검	[!Mastery]无形之剑
 #10785	[!Mastery]언제나 포기할 수 없는 이유가 있습니다.	[!Mastery]总有不能放弃的理由。
-#10786	[!Mastery]구원의 빛	[!Mastery]救援之光
+#10786	[!Mastery]구원의 빛	[!Mastery]救赎之光
 #10790	[!Mastery]힘은 사용하기에 따라 다른 결과를 가져오지.	[!Mastery]根据力量的用法不同，带来的结果将是不同的。
 #10793	[!Mastery]고요한 가운데 움직임이 있다.	[!Mastery]静如处子，动如脱兔。
 #10794	[!Mastery]정중동	[!Mastery]静中有动
@@ -6344,9 +6344,9 @@
 #10808	[!Mastery]흐르는 피의 댓가를 잊지마라.	[!Mastery]别忘了流血的代价。
 #10809	[!Mastery]붉은 가시 검	[!Mastery]红棘之剑
 #10813	[!Mastery]하늘의 뜻과 함께 하기 위해 왔소.	[!Mastery]我是为了共享天意而来。
-#10814	[!Mastery]성자	[!Mastery]圣人
+#10814	[!Mastery]성자	[!Mastery]圣者
 #10816	[!Mastery]목표가 많으면 일일이 조준할 필요가 없지.	[!Mastery]若目标较多，就没必要每一个都要瞄准。
-#10817	[!Mastery]무차별 사격	[!Mastery]乱开枪
+#10817	[!Mastery]무차별 사격	[!Mastery]任意射击
 #10819	[!Mastery]떠도는 자들을 거둘 뿐이네.	[!Mastery]只是收拾游荡的人而已。
 #10820	[!Mastery]영혼 수확자	[!Mastery]灵魂收获者
 #10822	[!Mastery]능력을 사용하는 자들을 위한 지침서이지.	[!Mastery]这是为使用能力的人们准备的指南啊。
@@ -6361,7 +6361,7 @@
 #10851	[!Mastery]당신에게만 좋은 것을 줄 순 없어.	[!Mastery]不能什么好处都让你占了。
 #10852	[!Mastery]마녀의 시샘	[!Mastery]魔女的嫉妒
 #10854	[!Mastery]내가 연구하는 것의 결과가 내가 바라는 것이길 바라지.	[!Mastery]我只希望我的研究结果能符合我所愿。
-#10855	[!Mastery]마녀의 장난	[!Mastery]魔女的恶作剧
+#10855	[!Mastery]마녀의 장난	[!Mastery]魔女的捉弄
 #10856	[!Status]장비한 아이템의 방어력	[!Status]以装备物品的防御力
 #10857	[!Status][!Short]장비한 아이템의 방어력	[!Status][!Short]以装备物品的防御力
 #10858	[!Status]장비한 아이템의 공격력	[!Status]以装备物品的攻击力
@@ -6411,7 +6411,7 @@
 #10925	[!Mastery]힘을 내는 방법이 있지.	[!Mastery]有提高力量的方法。
 #10926	[!Mastery]발경	[!Mastery]发劲
 #10928	[!Mastery]재장전 속도가 승부를 결정한다.	[!Mastery]换弹夹的速度决定胜负。
-#10929	[!Mastery]재장전	[!Mastery]重新填装
+#10929	[!Mastery]재장전	[!Mastery]再填装
 #10936	[!Mastery]비겁하다고 외치기 전에 승부를 포기하게나.	[!Mastery]在喊出卑鄙之前，放弃这场胜负吧。
 #10937	[!Mastery]상처 베기	[!Mastery]伤口切割
 #10939	[!Mastery]홀로 남은 자	[!Mastery]孤立无援
@@ -6467,13 +6467,13 @@
 #11033	[!Mastery]지금 이 순간이 마지막 기회라고 생각해!	[!Mastery]就当现在是最后一次机会！
 #11034	[!Mastery]전심전력	[!Mastery]全身全灵
 #11036	[!Mastery]오늘은 재밌는 걸 해보자!	[!Mastery]今天来做点有趣的事吧！
-#11037	[!Mastery]유쾌한 마녀	[!Mastery]快乐的魔女
+#11037	[!Mastery]유쾌한 마녀	[!Mastery]欢愉魔女
 #11041	[!Mastery]통제 불가능한 힘이란 없지.	[!Mastery]没有不能控制的力量。
 #11042	[!Mastery]마력 제어	[!Mastery]魔力控制
 #11044	[!Mastery]은둔하고 있는 마법사와 현자가 사는 곳이지.	[!Mastery]隐居的魔导士和贤者居住的地方呢。
 #11045	[!Mastery]약속의 땅	[!Mastery]约定之地
 #11046	[!Mastery]너 한 번, 나 두 번.	[!Mastery]你一次，我两次。
-#11047	[!Mastery]속사	[!Mastery]速射
+#11047	[!Mastery]속사	[!Mastery]瞬发速射
 #11049	[!Mastery]하나를 배우면 백만번은 단련해라!	[!Mastery]学到一项后，就要将其锻炼百万次。
 #11050	[!Mastery]반복 훈련	[!Mastery]万锤千炼
 #11055	[!Mastery]네 안의 잠재력을 믿어라	[!Mastery]请相信你拥有的潜力吧。
@@ -7191,7 +7191,7 @@
 #12043	[!Mastery]살다보면 행운이 온다.	[!Mastery]幸运总会到来。
 #12044	[!Mastery]행운의 여신	[!Mastery]幸运女神
 #12047	[!Mastery]물러나지 않는 의지가 앞으로 나아가게 만든다.	[!Mastery]不屈不挠的意志使人向前进步。
-#12048	[!Mastery]거점 사수	[!Mastery]据点射手
+#12048	[!Mastery]거점 사수	[!Mastery]隐秘射击
 #12051	[!Mastery]한 순간이라도 앞으로 나아가기 위해 사용해라.	[!Mastery]争分夺秒的时候使用吧。
 #12054	[!OptionGameplay]도전 모드 항상 활성화	[!OptionGameplay]总是激活挑战模式
 #12055	[!WordCollection]미끄러짐	[!WordCollection]滑倒
@@ -7228,11 +7228,11 @@
 #12099	[!Mastery]평생 같이 지내자.	[!Mastery]一辈子要在一起哟。
 #12100	[!Mastery]야수 친구	[!Mastery]野兽之友
 #12102	[!Mastery]넌 할 수 있어.	[!Mastery]你能行的。
-#12103	[!Mastery]야수 훈련	[!Mastery]驯兽师
+#12103	[!Mastery]야수 훈련	[!Mastery]野兽训练
 #12105	[!Mastery]숨는 것이 아니라 발견하지 못하게 하는 것 이지.	[!Mastery]不是藏得好，而是不让对方发现。
 #12106	[!Mastery]위장	[!Mastery]伪装
 #12108	[!Mastery]모든 도구는 사용하는 사람에 따라 전혀 다르게 작동하지.	[!Mastery]所有的工具会根据使用者不同而出现不同的效果。
-#12109	[!Mastery]노련한 사냥꾼	[!Mastery]老练的猎人
+#12109	[!Mastery]노련한 사냥꾼	[!Mastery]资深猎人
 #12111	[!Mastery]검을 가진 자가 가는 길은 피가 낭자한 길이지 않은가?	[!Mastery]持剑者走的路，不就是鲜血淋漓的道路吗？
 #12112	[!Mastery]검귀	[!Mastery]剑鬼
 #12114	[!Mastery]자. 이번엔 어떤 설계를 해볼까?	[!Mastery]来。这次做些怎样的设计呢？
@@ -7404,7 +7404,7 @@
 #12379	[!Mastery]마법 이론에 심취한 마법사는 현자가 되었고 마녀의 책에 빠진 현자는 대마녀가 되었다.	[!Mastery]对魔法理论着迷的魔导士成为了贤者，而对魔女的书着迷的贤者成为了一名大魔女。
 #12380	[!Mastery]대마녀	[!Mastery]大魔女
 #12382	[!Mastery]생명은 모든 것을 풍요롭게 해주지.	[!Mastery]生命丰富了一切。
-#12383	[!Mastery]생명의 온기	[!Mastery]生命的温暖
+#12383	[!Mastery]생명의 온기	[!Mastery]生命摇篮
 #12390	[!GuideMessage]전투를 통해 평소의 200%에 해당하는 경험치를 얻습니다.	[!GuideMessage]您可以获得2倍的经验值。
 #12392	[!OptionVideo]최대 FPS 제한	[!OptionVideo]限制最大FPS
 #12393	[!WordCollection]휴식 상태	[!WordCollection]休息状态
@@ -7492,7 +7492,7 @@
 #12486	[!LoadingDesc]초능력자이거나 기백 소유자들은 SP 게이지가 활성화됩니다. SP의 누적에 따라 각 속성에 대한 보너스를 받습니다.	[!LoadingDesc]已激活超能力者或气魄拥有者的SP计量槽。会根据SP的累积量来获得各种属性的奖励。
 #12487	[!LoadingDesc]연출 진행은 ESC 키를 통해 건너뛸 수 있습니다.	[!LoadingDesc]可使用ESC键跳过动画。
 #12488	[!LoadingDesc]연출 건너뛰기	[!LoadingDesc]跳过动画
-#12490	[!LoadingDesc]안정된 자세	[!LoadingDesc]稳定的姿势
+#12490	[!LoadingDesc]안정된 자세	[!LoadingDesc]稳定姿势
 #12491	[!LoadingDesc]해당 임무의 적과 플레이어 팀 모두에게 적대 관계인 유닛을 말합니다. 해당 유닛은 자홍색으로 표시됩니다.	[!LoadingDesc]指的是和该任务的敌对势力及玩家队伍都存在敌对关系的单位。该单位的单位状态窗的体力条的颜色是紫红。
 #12492	[!LoadingDesc]제 3세력 유닛	[!LoadingDesc]第三方势力单位
 #12493	[!LoadingDesc]타일의 상세한 정보는 게임 옵션의 타일 정보 표시를 통해 활성화 가능합니다.	[!LoadingDesc]可以通过游戏选项中的显示格子信息这一功能激活格子的详细信息。
@@ -7563,8 +7563,8 @@
 #13164	[!Mastery]왕의 재보	[!Mastery]王之财宝
 #13165	[!Ability]추격하는 자	[!Ability]追击之人
 #13167	[!Ability]조명탄	[!Ability]照明弹
-#13168	[!Ability]승부를 가르는 한 발	[!Ability]决出胜负一步
-#13170	[!Ability]재장전	[!Ability]再装填
+#13168	[!Ability]승부를 가르는 한 발	[!Ability]决胜一击
+#13170	[!Ability]재장전	[!Ability]再填装
 #13171	[!Ability]사냥하는 자	[!Ability]狩猎之人
 #13172	[!Ability]야수 소환	[!Ability]召唤野兽
 #13174	[!Ability]야수 해제	[!Ability]解除野兽
@@ -7630,7 +7630,7 @@
 #13251	[!Mastery]접근하기 전에 제압한다.	[!Mastery]在接近前解决。
 #13252	[!Mastery]총열 강화	[!Mastery]枪管强化
 #13253	[!Mastery]사냥은 쫓느냐 기다리느냐의 선택이다.	[!Mastery]狩猎是追踪与等待的二选一。
-#13254	[!Mastery]사냥의 마음가짐	[!Mastery]狩猎的心得
+#13254	[!Mastery]사냥의 마음가짐	[!Mastery]猎人的心得
 #13256	[!Mastery]날 자유롭게 둔 걸 후회할 거야.	[!Mastery]会后悔给我自由行动的机会的。
 #13257	[!Mastery]내가 여기 있다.	[!Mastery]我在这里
 #13259	[!Mastery]살아라.	[!Mastery]活下来吧。
@@ -7648,7 +7648,7 @@
 #13275	[!Mastery]기회를 만들어 넘겨주지.	[!Mastery]创造机会交给你。
 #13276	[!Mastery]기회 창출	[!Mastery]创造机会
 #13278	[!Mastery]생각하라. 그리고 행동하라.	[!Mastery]先思考，再行动
-#13279	[!Mastery]예측 사격	[!Mastery]预测射击
+#13279	[!Mastery]예측 사격	[!Mastery]预测狙击
 #13281	[!Mastery]가득 차면 흘러넘치기 마련이지!	[!Mastery]太满终会溢出！
 #13282	[!Mastery]분노 폭발	[!Mastery]愤怒爆发
 #13284	[!Mastery]맹화	[!Mastery]猛火
@@ -7656,7 +7656,7 @@
 #13288	[!Mastery]잠시 분노를 가라 앉혀봐.	[!Mastery]先试着压住怒火。
 #13289	[!Mastery]회복 훈련	[!Mastery]回复训练
 #13291	[!Mastery]회전 관성이 총알을 안정적으로 직선운동 시켜줄 것입니다.	[!Mastery]旋转惯性使子弹的飞行轨迹变得更稳定。
-#13292	[!Mastery]강선 강화	[!Mastery]强化线膛
+#13292	[!Mastery]강선 강화	[!Mastery]线膛强化
 #13294	[!Mastery]분노는 이성의 결함이다.	[!Mastery]愤怒是理性的瑕疵。
 #13295	[!Mastery]흉폭함	[!Mastery]残暴
 #13296	[!Mastery]목표가 생기면 놓치지 않는다.	[!Mastery]绝不会丢失目标。
@@ -7673,7 +7673,7 @@
 #13314	[!Mastery]출렁이는 뱃살만큼 좋은 방어구는 없지.	[!Mastery]没有比摇晃的肚子肉更好的防具了。
 #13315	[!Mastery]물렁살	[!Mastery]赘肉
 #13317	[!Mastery]죽음을 직면하면 살아있다는 것의 즐거움을 느낄 수 있지.	[!Mastery]直视过死亡，才能体会到活着的乐趣。
-#13318	[!Mastery]생사의 갈림길	[!Mastery]生死关头
+#13318	[!Mastery]생사의 갈림길	[!Mastery]鬼门关
 #13320	[!Mastery]우뢰	[!Mastery]雷电
 #13322	[!MasteryCategory]야수	[!MasteryCategory]野兽
 #13323	[!MasteryType]유전	[!MasteryType]遗传
@@ -7724,7 +7724,7 @@
 #13372	[!GuideMessage]저격 대상이 머리인 경우에만 헤드샷이 발동됩니다.	[!GuideMessage]狙击目标为头部时才可触发爆头。
 #13374	[!LoadingDesc]Ctrl 키를 누른 채로 경로를 설정하면 이동범위 내에서 원하는 경로로 이동할 수 있습니다.	[!LoadingDesc]按着Ctrl键设定路径则可以在移动范围内移动至目标地点。
 #13376	[!Mastery]결과는 행동의 축적이지.	[!Mastery]累积的行动形成结果。
-#13377	[!Mastery]전장의 지배자	[!Mastery]战场的支配者
+#13377	[!Mastery]전장의 지배자	[!Mastery]战场主宰
 #13381	[!Mastery]명사수들로 구성된 저격수라면 당연히 헤드샷을 노리지.	[!Mastery]如果是知名射手组成的狙击团队，肯定会瞄准头部。
 #13382	[!Mastery]백발백중	[!Mastery]百发百中
 #13384	[!Mastery]가치 있기 때문에 사냥하는 것이지.	[!Mastery]因为有价值，所以去狩猎。
@@ -7732,14 +7732,14 @@
 #13387	[!Mastery]눈 마주치면 굴러라.	[!Mastery]对上眼时就翻滚吧。
 #13388	[!Mastery]괴수사냥꾼	[!Mastery]怪兽猎人
 #13390	[!Mastery]야수 사냥의 밤이 시작된다.	[!Mastery]狩猎野兽之夜开始了。
-#13391	[!Mastery]달빛사냥꾼	[!Mastery]月光猎人
+#13391	[!Mastery]달빛사냥꾼	[!Mastery]月下猎人
 #13396	[!Mastery]세상에는 일어날 수 없다고 믿는 일이 일어나기 마련이다.	[!Mastery]坚信不会发生的事情，必会发生。
-#13397	[!Mastery]어둠 속의 그림자	[!Mastery]黑暗中的影子
-#13399	[!Mastery]저격	[!Mastery]狙击
+#13397	[!Mastery]어둠 속의 그림자	[!Mastery]如影随形
+#13399	[!Mastery]저격	[!Mastery]完美狙击
 #13403	[!Mastery]기다리는 자에게는 실패한 없다.	[!Mastery]对于等待之人没有失败。
-#13404	[!Mastery]설계된 함정	[!Mastery]精密设计的陷阱
+#13404	[!Mastery]설계된 함정	[!Mastery]连环陷阱
 #13406	[!Mastery]불가능은 가능하기 전까지의 상태이다.	[!Mastery]不可行是可行之前的状态。
-#13407	[!Mastery]꿰뚫는 탄환	[!Mastery]穿透的弹丸
+#13407	[!Mastery]꿰뚫는 탄환	[!Mastery]透体一击
 #13409	[!SnipeType]가슴	[!SnipeType]胸部
 #13410	[!SnipeType]외장	[!SnipeType]外甲
 #13411	[!WordCollection][!Menu]야수	[!WordCollection][!Menu]野兽
@@ -8049,7 +8049,7 @@
 #13809	[!Status]최대 기력	[!Status]最大气力
 #13810	[!Status]최대 연료	[!Status]最大燃料
 #13811	[!Status]최대 분노	[!Status]最大愤怒
-#13812	[!DirectDamageType]재생의 불꽃	[!DirectDamageType]重生的火花
+#13812	[!DirectDamageType]재생의 불꽃	[!DirectDamageType]苏生的火花
 #13813	[!GuideMessage]$Title$ 시간에는 $Name$[를] 소환할 수 없습니다.	[!GuideMessage]$Title$的时候是无法召唤$Name$。
 #13814	[!GuideMessage]$Title$ 온도에서는 $Name$[를] 소환할 수 없습니다.	[!GuideMessage]$Title$的温度是无法召唤$Name$。
 #13815	[!GuideMessage]$Title$ 날씨에서는 $Name$[를] 소환할 수 없습니다.	[!GuideMessage]$Title$的天气是无法召唤$Name$。
@@ -8064,7 +8064,7 @@
 #13828	[!Mastery]당신을 용서할 수 없어.	[!Mastery]不可原谅。
 #13829	[!Mastery]저주	[!Mastery]诅咒
 #13831	[!Mastery]가장 뜨거운 불꽃을 원해!	[!Mastery]期望最炙热的火焰！
-#13832	[!Mastery]재생의 불꽃	[!Mastery]重生的火焰
+#13832	[!Mastery]재생의 불꽃	[!Mastery]苏生的火焰
 #13835	[!Mastery]순식간에 터져 버리지.	[!Mastery]会瞬间炸掉。
 #13836	[!Mastery]고전압	[!Mastery]高压电
 #13838	[!Mastery]모든 것이 사라질 것이다.	[!Mastery]一切都会消失的。
@@ -8171,14 +8171,14 @@
 #13980	[!Loading]철의 숲 오염지	[!Loading]铁森林污染的地点
 #13981	[!Loading]괴수와 사냥꾼	[!Loading]怪兽和猎人
 #13983	[!Mastery]얌전히 있으렴! 그래야 우리가 같이 있을 수 있단다.	[!Mastery]待着别动！那样我们才可以在一起。
-#13984	[!Mastery]야수 조련사	[!Mastery]野兽饲育师
+#13984	[!Mastery]야수 조련사	[!Mastery]野兽饲育
 #13988	[!Mastery]너 하나만을 위해 내가 얼마나 노력했는지 알아!	[!Mastery]为了你一个，我做了多少努力你知道吗！
 #13989	[!Mastery]괴수 조련사	[!Mastery]驯兽宗师
 #13990	[!Mastery]신록	[!Mastery]葱绿
 #13992	[!Mastery]나보다 강한 자에게 굴하지 않는다.	[!Mastery]我不会屈服于强者。
 #13993	[!Mastery]저항 의지	[!Mastery]反抗意志
 #13997	[!Mastery]당신이 쫓고 있는 것은 존재하지 않는 것이다.	[!Mastery]你跟踪的是虚无之物。
-#13998	[!Mastery]그림자 저격수	[!Mastery]影子狙击手
+#13998	[!Mastery]그림자 저격수	[!Mastery]无形幽影
 #14002	[!NamedEvent]네굴굴~~~!	[!NamedEvent]纳咕故～～～！
 #14003	[!NamedEvent]꼬마 네구리	[!NamedEvent]小鬼那古利
 #14004	[!NamedEvent]장난꾸러기 네구리	[!NamedEvent]淘气包纳古利
@@ -8386,7 +8386,7 @@
 #14311	[!Ability]먹잇감을 던져 먹잇감을 포함한 목표 범위 내 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]丢出猎物，对包含猎物在内的目标范围内的对象造成$DamageAmount$的$DamageType$伤害。
 #14312	[!Ability]먹잇감 던지기	[!Ability]投掷猎物
 #14314	[!Ability]자신을 $ApplyBuff$ 상태로 만듭니다.	[!Ability]令自身进入$ApplyBuff$状态。
-#14315	[!Ability]재생	[!Buff]重生
+#14315	[!Ability]재생	[!Buff]苏生
 #14316	[!Ability]불꽃을 담은 발톱으로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]使用火焰利爪造成$DamageAmount$的$DamageType$伤害。
 #14317	[!Ability]불꽃 할퀴기	[!Ability]火花抓挠
 #14318	[!Ability]한기를 담은 발톱으로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]使用寒气利爪造成$DamageAmount$的$DamageType$伤害。
@@ -8579,7 +8579,7 @@
 #14625	[!OptionGameplay]이동 범위 격자 표시	[!OptionGameplay]强调移动范围
 #14627	[!Mastery]하고자 하는 것을 먼저 행한다.	[!Mastery]先行于事。
 #14628	[!Mastery]흡경	[!Mastery]吸劲
-#14630	[!Mastery]근접 제압 사격	[!Mastery]近距离压制射击
+#14630	[!Mastery]근접 제압 사격	[!Mastery]近身压制射击
 #14631	[!ObjectInfo]밀수 소란꾼	[!ObjectInfo]走私捣乱者
 #14636	[!GuideMessage]$SectionName$ 지역이 관할 구역에서 취소되었습니다.	[!GuideMessage]$SectionName$ 地区在管辖区中被移除。
 #14637	[!GuideMessage][colour='FFFFE959']%s 지역이 관할 구역에서 취소되었습니다.	[!GuideMessage][colour='FFFFE959']%s 地区在管辖区中被移除。
@@ -8597,7 +8597,7 @@
 #14649	[!GuideMessage]관할 구역의 트러블슈터는 해당 지구와 관련된 지원 정책을 결정할 수 있습니다.	[!GuideMessage]管辖区的纷争终结者可以决定和该地区有关的支援政策。
 #14650	[!GuideMessage][colour='FFFF5943']해당 정책 효과를 지원 받으시려면 관할 구역 신청을 하셔야 합니다.	[!GuideMessage][colour='FFFF5943']想获得该支援政策效果需要先申请管辖区。
 #14651	[!GuideMessage]우호도에 따라 거래 성사 시, 할인된 가격에 거래가 가능합니다.	[!GuideMessage]根据友好度，进行交易时可以以打折的价格交易。
-#14652	[!GuideMessage]안정된 자세가 적용되지 않습니다.	[!GuideMessage]无法适用稳定的姿势。
+#14652	[!GuideMessage]안정된 자세가 적용되지 않습니다.	[!GuideMessage]无法适用稳定姿势。
 #14653	[!GuideMessage][colour='FFFFFF00']진행중인 미션이 있습니다. 계속 하시겠습니까?<br>[colour='FFFF5500']취소 하실 경우, 미션을 포기하고 사무실로 이동합니다.	[!GuideMessage][colour='FFFFFF00']存在进行中的任务。是否继续？<br>[colour='FFFF5500']取消时，放弃任务移动至办公室。
 #14654	[!GuideMessage]%s 지구	[!GuideMessage]%s 地区
 #14657	[!Item]골동품 장난감	[!Item]古董玩具
@@ -8738,7 +8738,7 @@
 #14796	[!Item]보나파르트 손목 고리 리미티드 에디션	[!Item]波拿巴手链LE
 #14797	[!Item]뒷거리에서 도적질로 살아가던 브래드는 자신을 보고 경멸하는 귀족 여성을 만나 모멸감을 느끼고 그 자리에서 바로 손목 고리를 차고 있던 귀족의 손목을 잘라버리고 이 손목 고리를 취한다.	[!Item]后巷小偷布拉德遇到了一位蔑视他的贵族女士，他感到羞辱。一怒之下他当场就切断了她的手腕，并抢走了她的手链。
 #14800	[!Mastery]하늘은 스스로 돕는 자를 돕는다.	[!Mastery]自助者天助之
-#14801	[!Mastery]나는 전설이다.	[!Mastery]我是传奇
+#14801	[!Mastery]나는 전설이다.	[!Mastery]我就是传奇
 #14802	[!ESPPowerCondition]무기 파괴	[!AttackPowerCondition]武器破坏
 #14803	[!ResistanceCondition]방어구 파괴	[!ArmorCondition]护具破坏
 #14804	[!Status]장비한 아이템의 초능력	[!Status]以装备物品的超能力
@@ -8800,7 +8800,7 @@
 #14889	[!Mastery]적에게는 절망, 아군에게는 희망 그 자체였다.	[!Mastery]对敌军是绝望，对友军来说却是希望啊。
 #14890	[!Mastery]핏빛 마녀	[!Mastery]血色魔女
 #14892	[!Mastery]기다려! 지금이다! 물어와!	[!Mastery]等等！就是现在！去咬过来！
-#14893	[!Mastery]사냥꾼과 사냥개	[!Mastery]猎人和猎狗
+#14893	[!Mastery]사냥꾼과 사냥개	[!Mastery]完美拍档
 #14894	[!Mastery]얼어 붙은 네 가슴 속에서 자라난 녀석들이다.	[!Mastery]是在你那冻僵的心中长出来的家伙们啊。
 #14895	[!Mastery]얼음 병사	[!Mastery]寒冰战士
 #14898	[!Mastery]절대 빠져나갈 수 없어.	[!Mastery]绝对逃不出。
@@ -9482,7 +9482,7 @@
 #15864	[!Mastery]출력 향상 - 보안	[!Mastery]功率提升 - 安全
 #15865	[!Mastery]성능 향상 - 시야	[!Mastery]性能提升 - 视野
 #15866	[!Mastery]성능 향상 - 턴 속도	[!Mastery]性能提升 - 回合速度
-#15868	[!Mastery]호환성 증가 - 안정된 자세	[!Mastery]兼容性增加 - 稳定的姿势
+#15868	[!Mastery]호환성 증가 - 안정된 자세	[!Mastery]兼容性增加 - 稳定姿势
 #15870	[!Mastery]호환성 증가 - 지연 복구	[!Mastery]兼容性增加 - 延迟修复
 #15872	[!Mastery]엔진 가속기	[!Mastery]引擎加速装置
 #15873	[!Mastery]보조 연산 장치	[!Mastery]辅助运算装置
@@ -9494,7 +9494,7 @@
 #15883	[!Mastery]공격 보조 장비	[!Mastery]攻击辅助装备
 #15885	[!Mastery]최적의 상태를 추구합니다.	[!Mastery]追求最佳状态。
 #15886	[!Mastery]자동 복원	[!Mastery]自动复原
-#15888	[!Mastery]반동 제어기	[!Mastery]控制反转器
+#15888	[!Mastery]반동 제어기	[!Mastery]后坐力制御装置
 #15889	[!Mastery]정보는 공유할수록 강력해진다.	[!Mastery]信息是越共享越强力。
 #15890	[!Mastery]디스크 레이돔	[!Mastery]磁盘整流罩
 #15891	[!Mastery]언제나 최악의 순간을 대비해야 망하지 않는다.	[!Mastery]时刻准备着最坏的瞬间才不会失败。
@@ -10362,7 +10362,7 @@
 #16992	[!Mastery]슬금 슬금	[!Mastery]悄悄地
 #16993	[!Mastery]무기 받아치기	[!Mastery]缴械
 #16994	[!Mastery]피할 수 없는 일이라면 최소화한다.	[!Mastery]如果是无法避免的事情，就尽量减少损失。
-#16996	[!Mastery]지원 회복	[!Mastery]支援恢复
+#16996	[!Mastery]지원 회복	[!Mastery]引导之光
 #16997	[!Mastery]모든 순간 최선을 다해야 합니다.	[!Mastery]所有的瞬间都要竭尽全力。
 #16999	[!Mastery]급습	[!Mastery]突袭
 #17000	[!Mastery]무지는 위험을 부른다.	[!Mastery]无知将带来危险。
@@ -10375,7 +10375,7 @@
 #17008	[!ObjectInfo]스네이크	[!ObjectInfo]斯内克
 #17009	[!OptionGameplay]아군 목록에 턴 대기시간 표시하기	[!OptionGameplay]在队友名单上显示回合冷却时间
 #17010	[!OptionGameplay]미션 진행중에 우하단의 아군 목록에 다음 턴 대기시간을 표시합니다.	[!OptionGameplay]任务进行中，在右下端的队友目录中显示回合冷却时间
-#17011	[!AbilityDirectingEvent]지원 회복	[!AbilityDirectingEvent]支援恢复
+#17011	[!AbilityDirectingEvent]지원 회복	[!AbilityDirectingEvent]引导之光
 #17012	[!GameSystemMessageFormat]스푼교도와 밀수업자가 적대 관계가 되었습니다.	[!GameSystemMessageFormat]勺子教和走私者成为了敌对关系。
 #17013	[!GameSystemMessageFormat]모험가 도로리가 적대 관계가 되었습니다.	[!GameSystemMessageFormat]冒险家多罗利成为了敌对关系。
 #17014	[!GameSystemMessageFormat]모험가 도로리가 앤을 보고 흥분합니다.	[!GameSystemMessageFormat]冒险家多罗利看到安很兴奋。
@@ -10472,7 +10472,7 @@
 #17228	[!Mastery]속도가 미래를 이끈다.	[!Mastery]速度将引导未来。
 #17232	[!MasteryCategory]전체	[!WordCollection]全体
 #17233	[!TechniqueCategory]전체	[!WordCollection]全体
-#17234	[!Mastery]고급 반동 제어 프로그램	[!Mastery]高级控制反转程序
+#17234	[!Mastery]고급 반동 제어 프로그램	[!Mastery]高级后坐力制御程序
 #17275	[!AI]참조된 대상을 공격합니다.	[!AI]攻击关联的对象。
 #17276	[!Ability]목표 범위를 색적합니다. 수색 범위 내 은신한 적과 설치된 함정을 발견할 수 있습니다. 발견된 대상은 $ApplyBuff$ 상태가 됩니다.	[!Ability]在目标范围内索敌。可发现搜索范围内隐身的敌人和设置的陷阱。被发现的对象将进入$ApplyBuff$。
 #17278	[!Ability]재장전을 통해 모든 공격, 지원, 함정 어빌리티의 재사용 대기 시간을 해소합니다.	[!Ability]通过换弹夹可减少所有的攻击、辅助、陷阱技能的冷却时间。
@@ -11439,7 +11439,7 @@
 #18396	[!Ability]강력한 수양의 물약	[!Ability]强效素养药剂
 #18397	[!Ability]강력한 인내의 물약	[!Ability]强效忍耐药剂
 #18398	[!Ability]강력한 집중의 물약	[!Ability]强效集中药剂
-#18399	[!Ability]재생의 물약	[!Ability]重生药剂
+#18399	[!Ability]재생의 물약	[!Ability]苏生药剂
 #18400	[!Ability]복용한 대상은 $ApplyBuff$ 상태가 됩니다.<br><br>$Perano$낮은 확률로 부작용을 일으킵니다.$Blue_ON$	[!Ability]服用的目标变成$ApplyBuff$状态。<br><br>$Perano$很小的几率产生副作用。$Blue_ON$
 #18401	[!Ability]광분의 물약	[!Ability]疯狂药剂
 #18402	[!Ability]격앙의 물약	[!Ability]激昂药剂
@@ -11464,7 +11464,7 @@
 #18421	[!Item]강력한 수양의 물약	[!Item]强效素养药剂
 #18422	[!Item]강력한 인내의 물약	[!Item]强效忍耐药剂
 #18423	[!Item]강력한 집중의 물약	[!Item]强效集中药剂
-#18424	[!Item]재생의 물약	[!Item]重生药剂
+#18424	[!Item]재생의 물약	[!Item]苏生药剂
 #18425	[!Item]광분의 물약	[!Item]疯狂药剂
 #18426	[!Item]격앙의 물약	[!Item]激昂药剂
 #18427	[!Item]거인의 물약	[!Item]巨人药剂
@@ -11524,7 +11524,7 @@
 #18493	[!MasteryType]익살꾼	[!Job]丑角
 #18494	[!Ability]야수를 길들입니다. 야수를 길들이는 동안 다른 행동을 할 수 없습니다. 길들이는데 성공하거나, 도중에 실패하면 다시 행동이 가능해집니다. 해당 야수는 시전자에 대해 $CancelBuff$ 상태가 됩니다.<br><br>$White$$Grade$$Perano$ 등급의 야수까지 길들일 수 있습니다.<br>$CancelBuff$$Tomato$ 상태의 야수는 길들일 수 없습니다.<br>	[!Ability]驯服野兽。驯服野兽的同时无法执行其他的行动。成功驯服或中途驯服失败时才可重新行动。施法者会对该野兽产生$CancelBuff$效果。<br><br>可以驯服$White$$Grade$$Perano$级别以内的野兽。<br>无法对已拥有$CancelBuff$$Tomato$状态的野兽释放。<br>
 #18495	[!Buff]해당 상태에서 피격 시, 방어율과 회피율이 적용되지 않습니다.	[!Buff]在该状态下被击中时，格挡和回避率将无法适用。
-#18496	[!Buff]무기 무력화	[!Mastery]削弱武器
+#18496	[!Buff]무기 무력화	[!Mastery]缴械
 #18497	[!Buff]향기	[!Buff]香气
 #18498	[!BuffGroup]집중	[!Buff]集中
 #18499	[!BuffGroup]신성	[!BuffGroup]神圣
@@ -11655,7 +11655,7 @@
 #18683	[!Help]높은 위치	[!Help]高位
 #18685	[!Help]자신이 목표 대상보다 높은 위치인 경우	[!Help]自身的位置高于目标对象时
 #18687	[!Help]목표 대상이 자신 보다 높은 위치인 경우	[!Help]目标对象的位置比自己高时
-#18689	[!Help]안정된 자세	[!HitRateCondition]稳定的姿势
+#18689	[!Help]안정된 자세	[!HitRateCondition]稳定姿势
 #18692	[!Help]측면 공격	[!Help]侧面攻击
 #18695	[!Help]무방비 노출인 적 공격 시	[!Help]攻击无防备暴露的敌人时
 #18696	[!Help]해당 유닛의 근접한 4방향에 엄폐물이 존재하지 않는 상태를 말합니다.	[!Help]指邻近该单位各个方向都不存在隐蔽物体的状态。
@@ -11870,8 +11870,8 @@
 #18954	[!Help]자신과 목표 대상이 위치한 지형의 높이 차이가 $HighHeight$m 초과하는 상태입니다.<br><br>$Note$사격 공격 어빌리티로 적을 공격 시, 다음과 같은 보너스를 받습니다.	[!Help]自身与对象的高度差异在$HighHeight$m以上。<br><br>$Note$射击攻击技能攻击敌人时适用如下奖励：
 #18955	[!Help]명중률이 $Percent$ 증가합니다.	[!Help]命中率增加$Percent$。
 #18956	[!Help]명중률이 $Percent2$ 감소합니다.	[!Help]命中率减少$Percent2$。
-#18957	[!Help]턴 시작 시, 행동력을 소모하지 않은 경우 $/$안정된 자세$/$ 상태가 적용되며 유닛 상태 정보의 행동력 바가 $ColorText$으로 표시됩니다.	[!Help]回合开始时，在不消耗行动力的情况下，将进入$/$稳定的姿势$/$状态，并以$ColorText$表示单位状态信息的行动力条。
-#18958	[!Help]안정된 자세 상태에서는 $Status_Accuracy$이 $Percent$ 증가합니다.	[!Help]在稳定的姿势状态下$Status_Accuracy$增加$Percent$。
+#18957	[!Help]턴 시작 시, 행동력을 소모하지 않은 경우 $/$안정된 자세$/$ 상태가 적용되며 유닛 상태 정보의 행동력 바가 $ColorText$으로 표시됩니다.	[!Help]回合开始时，在不消耗行动力的情况下，将进入$/$稳定姿势$/$状态，并以$ColorText$表示单位状态信息的行动力条。
+#18958	[!Help]안정된 자세 상태에서는 $Status_Accuracy$이 $Percent$ 증가합니다.	[!Help]在稳定姿势状态下$Status_Accuracy$增加$Percent$。
 #18959	[!Help]다음과 같은 상태일 경우, $/$측면 목표$/$ 상태가 적용되며, 이 상태의 적을 공격하는 것을 $/$측면 공격$/$이라고 합니다.	[!Help]如出现以下情况，则适用$/$侧面目标$/$状态，并攻击此状态的敌人称做$/$侧面攻击$/$。
 #18960	[!Help]측면 공격 상태에서는 $Status_CSC$이 $Percent$ 증가합니다.	[!Help]侧面攻击状态下$Status_CSC$增加$Percent$。
 #18961	[!Help]유닛 엄폐 정보가 $Img_FullCoverOpened$ 혹은 $Img_HalfCoverOpened$로 표시되는 유닛입니다.	[!Help]单位隐蔽信息以$Img_FullCoverOpened$或$Img_HalfCoverOpened$表示的单位。
@@ -12723,7 +12723,7 @@
 #19958	[!GuideMessage]$Buff$ 상태에 면역이어서 사용할 수 없습니다. ($Reason$)	[!GuideMessage]$Buff$状态下免疫，因此无法使用。($Reason$)
 #19959	[!Mastery]바쁠수록 돌아가라.	[!Mastery]强扭的瓜不甜。
 #19960	[!Rest]얼려놓고 먹어야겠어!	[!Rest]我要冻着吃！
-#19961	[!Mastery]꾸준한 치료	[!Mastery]持续的治疗
+#19961	[!Mastery]꾸준한 치료	[!Mastery]守护天使
 #19962	[!Mastery]당신을 절대 잃어버리지 않을 거예요.	[!Mastery]绝不会失去你的。
 #19964	[!Mastery]탄환 베기	[!Mastery]燕返
 #19965	[!Mastery]언제, 어느 곳을 노리는 지 안다면 못 막을 것이 없다.	[!Mastery]什么都可以挡得住。
@@ -12905,7 +12905,7 @@
 #20270	[!Mastery]유리한 상황을 이어 나가는 것이 승리를 위한 지름길이다.	[!Mastery]持续地占据有利形势是取胜的捷径。
 #20272	[!Mastery]초원의 사냥꾼	[!Mastery]草原猎人
 #20273	[!Mastery]아무리 열악한 상황이라도 가능한 모든 수단을 동원한다.	[!Mastery]无论处于多么恶劣的情况，我们都会采取一切可能的手段。
-#20275	[!Mastery]헌신적인 사랑	[!Mastery]无私忘我的爱
+#20275	[!Mastery]헌신적인 사랑	[!Mastery]无私之爱
 #20276	[!Mastery]사랑은 마르지 않습니다.	[!Mastery]爱情不会干涸。
 #20279	[!WordCollection]추가 및 편집	[!WordCollection]追加并编辑
 #20280	[!WordCollection]새 슬롯	[!WordCollection]新栏位
@@ -13131,7 +13131,7 @@
 #20592	[!ObjectInfo]황	[!ObjectInfo]黃
 #20593	[!ObjectInfo]아이라	[!ObjectInfo]爱拉
 #20594	[!ObjectInfo]로스노프스키	[!ObjectInfo]罗斯诺夫斯基
-#20596	[!Buff]생명의 기원	[!Mastery]生命的起源
+#20596	[!Buff]생명의 기원	[!Mastery]生命起源
 #20597	[!Buff]카리스마	[!Mastery]魄力
 #20598	[!Help]끈끈한 거미줄	[!Buff]粘稠的蛛网
 #20599	[!Help]$Buff_StickyWeb$ 상태가 되면 해당 대상 혹은 해당 대상에게 인접한 아군은 $Ability_RemoveStickyWeb$ 어빌리티가 활성화되며 해당 어빌리티의 사용으로 $Buff_StickyWeb$ 상태를 제거할 수 있습니다.	[!Help]进入$Buff_StickyWeb$状态时，该对象或临近该对象的友军将激活$Ability_RemoveStickyWeb$技能，使用该技能时会解除$Buff_StickyWeb$的状态。
@@ -14732,7 +14732,7 @@
 #22400	[!Mastery]철면피	[!Mastery]厚脸皮
 #22401	[!Mastery]빈곤한 자에게 부끄러움은 사치일 뿐이다.	[!Mastery]对穷人来说，羞耻只是个奢侈。
 #22402	[!Mastery]궤변	[!Mastery]诡辩
-#22403	[!Mastery]총기 호환성	[!Mastery]枪支兼容性
+#22403	[!Mastery]총기 호환성	[!Mastery]枪械兼容
 #22404	[!Mastery]작은 차이가 쌓여 큰 차이를 만든다.	[!Mastery]小差异积聚成大差异。
 #22405	[!Mastery]해당 어빌리티를 강화한 특성 $Value$개 당 공격력 계수가 $Value2$ 증가합니다.	[!Mastery]每$Value$个强化该技能的天赋将增加$Value2$的攻击力系数。
 #22406	[!Mastery]전경	[!Mastery]通劲
@@ -14773,14 +14773,14 @@
 #22441	[!Loading]자홍 거리 상점가	[!Loading]紫红街商店街
 #22442	[!Mission]자홍 거리 상점가	[!Mission]紫红街商店街
 #22443	[!ObjectInfo]용병 폭력배	[!ObjectInfo]佣兵暴徒
-#22444	[!ObjectInfo]용병 암살자	[!ObjectInfo]佣兵杀手
+#22444	[!ObjectInfo]용병 암살자	[!ObjectInfo]佣兵暗杀者
 #22445	[!ObjectInfo]용병 불한당	[!ObjectInfo]佣兵流氓
 #22446	[!ObjectInfo]용병 소란꾼	[!ObjectInfo]佣兵捣乱者
 #22447	[!ObjectInfo]용병 저격수	[!ObjectInfo]佣兵狙击手
 #22448	[!Ability]관통 사격	[!Mastery]穿透射击
 #22449	[!Ability]조준 관통 사격	[!Ability]瞄准贯通射击
 #22450	[!GuideMessage]우편함이 가득 차서 메일을 더 이상 받을 수 없습니다.	[!GuideMessage]邮箱已满。无法继续接收邮件。
-#22451	[!Mastery]완벽한 자세	[!Mastery]完美的姿势
+#22451	[!Mastery]완벽한 자세	[!Mastery]完美姿势
 #22452	[!Mastery]최고의 결과는 반복된 훈련에서 탄생한다.	[!Mastery]最好的结果将从反复训练中诞生。
 #22453	[!Mastery]$CounterAttack$, $ResponsiveAttack$으로 적을 공격하거나 $State$ 상태에서 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]使用$CounterAttack$、$ResponsiveAttack$来攻击敌人或在$State$的状态下攻击敌人时，$Stat$将增加$Value$。
 #22454	[!Mastery]전술적 연계	[!Mastery]战术性连技
@@ -14804,7 +14804,7 @@
 #22472	[!Mastery]알고 있어도 저할할 수 없다.	[!Mastery]明知却不可抗拒。
 #22473	[!Mastery]무기 파괴	[!AttackPowerCondition]武器破坏
 #22474	[!Mastery]다음 수를 노린다.	[!Mastery]瞄准下一招。
-#22475	[!Mastery]고지대 엄폐	[!Mastery]高台隐蔽
+#22475	[!Mastery]고지대 엄폐	[!Mastery]高位掩蔽
 #22476	[!Mastery]장점을 이용하라.	[!Mastery]利用优点。
 #22477	[!Mastery]적의 공격으로부터 $State$ 상태와 엄폐가 적용 될 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]$State$状态或隐蔽适用于敌人的攻击时，将产生如下效果。
 #22478	[!Ability]얼음 베기	[!Ability]寒冰切割
