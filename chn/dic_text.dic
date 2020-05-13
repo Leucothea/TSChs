@@ -5943,7 +5943,7 @@
 #14131	[!Sentence][!Dialog][!speaker:Irene_Think]어디선가 봤는데...	[!Sentence][!Dialog][!speaker:Irene_Think]好像在哪里见过的...
 #14132	[!Sentence][!Dialog][!speaker:Alisa_Normal]비비. 이쪽으로!	[!Sentence][!Dialog][!speaker:Alisa_Normal]比比。来这边！
 #14133	[!Sentence][!Dashboard:TimeLimiter]경찰 부대 도착까지 남은 시간	[!Sentence][!Dashboard:TimeLimiter]距警力抵达剩余时间
-#14134	[!Sentence][!Dialog][!speaker:Irene_Rage][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone']달빛거리 거주구 A 섹터!	[!Sentence][!Dialog][!speaker:Irene_Rage][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone']月光大街住区 A 领域！
+#14134	[!Sentence][!Dialog][!speaker:Irene_Rage][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone']달빛거리 거주구 A 섹터!	[!Sentence][!Dialog][!speaker:Irene_Rage][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone']月光大街住区A区！
 #14135	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_]어딜 올려다봐! 아직 정신을 못 차렸구나! 이 녀석들!	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerSword_]看什么呢！看来还没弄清状况啊！你们这些家伙！
 #14137	[!Sentence][!Dialog][!speaker:Alisa_Smile]비비. 다 좋은데 무리하지는 마.	[!Sentence][!Dialog][!speaker:Alisa_Smile]比比。怎样都行，你别太勉强。
 #14138	[!Sentence][!Dialog]자신의 소중한 것을 지키기 위해 타인을 팔아넘긴다.	[!Sentence][!Dialog]为了守住自认为宝贵的东西，而出卖他人。
@@ -8972,7 +8972,7 @@
 #17950	[!Dialog][!speaker:Albus_Disappoint]하아... 한동안은 계속 이럴 텐데...	[!Dialog][!speaker:Albus_Disappoint]哈啊...我看这会持续一段时间...
 #17951	[!Dialog][!speaker:Albus_Serious]안돼... 정신 차려야지...	[!Dialog][!speaker:Albus_Serious]哦...不行...我得打起精神来...
 #17952	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']재료 도감은 현장 업무의 정보를 종합하여 각 재료 아이템의 획득처를 정리해 둔 목록입니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']素材图鉴是从综合现场任务的情报来记录各个素材物品的所得地的目录。
-#17953	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']해당 정보는 사건 해결 정보를 토대로 트러블메이커 목록과 제작 가능 목록 정보에 의해 자동으로 업데이트 됩니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']相关的信息是根据事件的完成情报为基础并依据纷争制造者图鉴和可制作目录来自动更新的。
+#17953	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']해당 정보는 사건 해결 정보를 토대로 트러블메이커 목록과 제작 가능 목록 정보에 의해 자동으로 업데이트 됩니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']相关的信息是根据事件的完成情报为基础并依据纷争制造者图鉴和可以制作目录来自动更新的。
 #17965	[!Sentence][!Dialog][colour='FFFFE959']전투 불능된 적으로부터 특성 획득은 가능하나 경험치와 아이템 획득은 불가능합니다.	[!Sentence][!Dialog][colour='FFFFE959']虽然可以从无法战斗的敌人中获取天赋，但是却无法得到经验值和物品。
 #17966	[!Sentence][!Dialog][colour='FFFFE959']해당 전투는 시나리오에 등장하는 [colour='FFFFFFFF']NPC[colour='FFFFE959']로 진행하는 전투입니다.	"
 #17967	[!Sentence][!Dialog][colour='FFFFFFFF']사건 일지[colour='FFFFE959']로 미션 반복 플레이 시 생략이 가능합니다.	以后通过「事件日志」来反复进行该剧情时，可以跳过敌军之间的战斗过程。
@@ -9438,7 +9438,7 @@
 #18485	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]항구 창고 내 스푼교도 흔적 확인하여 진입로를 봉쇄하였습니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]港口仓库内发现了勺子教的痕迹，封锁了入口。
 #18486	[!Sentence][!Dialog][!speaker:Albus_Serious]항구 조합 쪽은 어떻게 되었습니까?	[!Sentence][!Dialog][!speaker:Albus_Serious]港口工会那边怎么样了？
 #18487	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Flame_Normal]약속한 금액은 이미 입금되었을 거야.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Flame_Normal]约定好的金额应该已经汇款了。
-#18488	[!Sentence][!Title]잿빛 항구 G 물류 창고	[!Sentence][!Title]灰港 G 物流仓库
+#18488	[!Sentence][!Title]잿빛 항구 G 물류 창고	[!Sentence][!Title]灰港G物流仓库
 #18489	[!Sentence][!BalloonChat][!speaker:Spoon07_02]이미 진입로 양쪽 모두 막혔어!	[!Sentence][!BalloonChat][!speaker:Spoon07_02]两边的进口都已经被堵住了。
 #18490	[!Sentence][!Dialog][!speaker:Gangster_Ivan_Normal]대금은 20000 Vill 이야.	[!Sentence][!Dialog][!speaker:Gangster_Ivan_Normal]是 20000 Vill。
 #18491	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Flame_Normal]일단 창고에 숨었다가 상황을 봐서 뛰쳐 나간다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Flame_Normal]先躲在仓库里，再看情况跑出去。
@@ -9449,7 +9449,7 @@
 #18497	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]알버스 님. 추봉도 하역장입니다.	[!Sentence][!Dialog][!speaker:VHPD_Assault_Normal]阿尔伯斯。是秋蜂岛装卸场。
 #18498	[!Sentence][!Dialog][!speaker:Albus_Serious]바로 돌입하겠습니다!	[!Sentence][!Dialog][!speaker:Albus_Serious]马上进去！
 #18499	[!Sentence][!Title]밟히는 꼬리	[!Sentence][!Title]被抓到的线索
-#18500	[!Sentence][!Dialog]잿빛 항구 물류 창고에서 사용이 금지된 '바이크론'을 발견한 이후	[!Sentence][!Dialog]在灰港 G 物流仓库发现了被禁止的「拜克伦」后
+#18500	[!Sentence][!Dialog]잿빛 항구 물류 창고에서 사용이 금지된 '바이크론'을 발견한 이후	[!Sentence][!Dialog]在灰港G物流仓库发现了被禁止的「拜克伦」后
 #18501	[!Sentence][!Dialog][!speaker:Albus_Think]두 진입로 다 장단점이 있지만, 어차피 제압할 화력이 충분하다면 별문제 없을 것 같은데...	[!Sentence][!Dialog][!speaker:Albus_Think]两个进路都有长短之处，但反正只要有足够的火力压制，应该是没什么问题的...
 #18502	[!Sentence]아군 모두 미션 시작 시, 평정 상태가 됩니다.	[!Sentence]队友开始任务时，将进入平静状态。
 #18504	[!Sentence][!Dialog][!speaker:Gangster_SmugglerFat_Hans_Normal]다음 화물 편으로 이 물건들을 다 내보내.	[!Sentence][!Dialog][!speaker:Gangster_SmugglerFat_Hans_Normal]下一次把这些东西全部发货。
@@ -10265,7 +10265,7 @@
 #19458	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]바람장벽 지구에는『 미스릴 』등급 이상의 트러블슈터 회사는 존재하지 않았다.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]风之壁地区不存在「秘银」等级以上的纷争终结公司。
 #19459	[!Sentence][!Dialog][!speaker:Gangster_Brad_Normal]드론들은? 다 어디 있는 거야?	[!Sentence][!Dialog][!speaker:Gangster_Brad_Normal]无人机呢？都在哪？
 #19460	[!Sentence]물류 창고로 들어가는 게이트의 제어기가 있습니다. 하역장 주위에 엄폐물이 많습니다.	[!Sentence]有一个进入物流仓库的大门控制器。装卸场周围有很多掩蔽物。
-#19461	[!Sentence][!Title]푸른 안개 G 물류 센터	[!Sentence][!Title]蓝雾 G 物流中心
+#19461	[!Sentence][!Title]푸른 안개 G 물류 센터	[!Sentence][!Title]蓝雾G物流中心
 #19462	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]바람장벽 지구 발할라 경찰청은 보안 등급 『 미스릴 』을 선언한다.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]风之壁地区巴赫拉警察厅宣布了「秘银」安全等级。
 #19463	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]그리고 물류 창고 후문의 제어기를 해킹할 수 있다면 바로 물류 창고로 진입 할 수 있을 거야.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]破解物流仓库的后门控制器，就可以直接进入物流仓库了。
 #19464	[!Sentence][!Dialog][!speaker:Gangster_SmugglerFat_Hans_Normal]상황은 어때?	[!Sentence][!Dialog][!speaker:Gangster_SmugglerFat_Hans_Normal]情况如何？

@@ -285,7 +285,7 @@
 #647	[!GuideMessage]충격으로 인하여 내용물이 파손되었습니다.	[!GuideMessage]因冲击力导致内含物品发生破损。
 #648	[!GuideMessage]제작이 완료되었습니다.	[!GuideMessage]制作完毕。
 #649	[!GuideMessage]제작 완료한 아이템이 %d 개 있습니다.	[!GuideMessage]已有%d个制作完成的物品。
-#650	[!GuideMessage]제작 가능한 아이템이 %d 개 있습니다.	[!GuideMessage]有%d个可制作的物品。
+#650	[!GuideMessage]제작 가능한 아이템이 %d 개 있습니다.	[!GuideMessage]有%d个可以制作的物品。
 #651	[!GuideMessage]제작 진행 중인 아이템이 %d 개 있습니다.	[!GuideMessage]正在制作中的物品有%d个。
 #652	[!GuideMessage]제작이 실패하였습니다.	[!GuideMessage]制作失败。
 #653	[!GuideMessage]아이템 제작을 취소하면 사용된 재료 아이템이 소실됩니다.	[!GuideMessage]取消物品制作，则投入的素材物品将会消失。
@@ -427,7 +427,7 @@
 #921	[!Item]보급형 중화기	[!Item]泛用型重火器
 #922	[!Item]보급형 기관권총	[!Item]泛用型冲锋枪
 #923	[!Item]보급형 권총	[!Item]泛用型手枪
-#924	[!Item]보급형 저격총	[!Item]泛用型狙击枪
+#924	[!Item]보급형 저격총	[!Item]泛用型狙击步枪
 #925	[!Item]보급형 카본 블레이드	[!Item]泛用型石墨剑
 #926	[!Item]보급형 양손 둔기	[!Item]泛用型双手钝器
 #927	[!Item]보급형 장창	[!Item]泛用型长枪
@@ -546,7 +546,7 @@
 #1217	[!ItemType]이능석	[!ItemType]异能石
 #1219	[!ItemType]반지	[!ItemType]戒指
 #1220	[!ItemType]가죽	[!ItemType]皮革
-#1221	[!ItemType]저격총	[!ItemType]狙击枪
+#1221	[!ItemType]저격총	[!ItemType]狙击步枪
 #1222	[!ItemType]스프레이	[!ItemType]喷雾器
 #1226	[!ItemType]양손 둔기	[!ItemType]双手钝器
 #1227	[!ItemType]장창	[!ItemType]长枪
@@ -2621,13 +2621,13 @@
 #5221	[!WordCollection][!Menu]재료 아이템	[!WordCollection][!Menu]素材物品
 #5222	[!WordCollection]감정되지 않은	[!WordCollection]未鉴定的
 #5223	[!WordCollection][!Menu]정보 획득 완료	[!WordCollection][!Menu]完成信息获得
-#5224	[!GuideMessage]숙련도 레벨이 올라가면 제작할 수 있는 아이템이 증가합니다.	[!GuideMessage]熟练度等级提升，可制作的物品增加。
+#5224	[!GuideMessage]숙련도 레벨이 올라가면 제작할 수 있는 아이템이 증가합니다.	[!GuideMessage]熟练度等级提升，可以制作的物品增加。
 #5227	[!GuideMessage]인벤토리가 가득 찼습니다.	[!GuideMessage]背包已满。
 #5228	[!GuideMessage]아이템 소지 개수가 최대입니다.	[!GuideMessage]物品持有个数已达到最大。
 #5230	[!GuideMessage]제작 숙련도 레벨이 모자랍니다.	[!GuideMessage]制作熟练度等级不足。
 #5231	[!WordCollection]제작 대기 중	[!WordCollection]等待制作中
 #5232	[!WordCollection]제작 불가	[!WordCollection]无法制作
-#5233	[!WordCollection]제작 가능	[!WordCollection]可制作
+#5233	[!WordCollection]제작 가능	[!WordCollection]可以制作
 #5234	[!WordCollection]최대 소지 개수	[!WordCollection]最大持有个数
 #5235	[!GuideMessage]아이템 강화가 실패하면 도전한 이전 단계까지 강화됩니다.	[!GuideMessage]若物品强化失败，会回到挑战之前的阶段。
 #5237	[!Upgrade]방어구	[!Upgrade]护具
@@ -2867,7 +2867,7 @@
 #5658	[!ItemIdentifyType]권총	[!ItemIdentifyType]手枪
 #5659	[!ItemIdentifyType]반지	[!ItemIdentifyType]戒指
 #5660	[!ItemIdentifyType]운동화	[!ItemIdentifyType]运动鞋
-#5661	[!ItemIdentifyType]저격총	[!ItemIdentifyType]狙击枪
+#5661	[!ItemIdentifyType]저격총	[!ItemIdentifyType]狙击步枪
 #5662	[!ItemIdentifyType]스프레이	[!ItemIdentifyType]喷雾器
 #5663	[!ItemIdentifyType]정장	[!ItemIdentifyType]正装
 #5664	[!ItemIdentifyType]트레이닝복	[!ItemIdentifyType]运动服
@@ -5822,7 +5822,7 @@
 #9983	[!WordCollection][!Menu]제작 개수	[!WordCollection][!Menu]制作个数
 #9984	[!WordCollection][!Menu]아이템 제작	[!WordCollection]物品制作
 #9985	[!WordCollection][!Menu]제작 대상	[!WordCollection][!Menu]制作对象
-#9986	[!WordCollection]제작 가능한 장비만 보기	[!WordCollection]只看可制作的装备
+#9986	[!WordCollection]제작 가능한 장비만 보기	[!WordCollection]只看可以制作的装备
 #9991	[!GuideMessage]변경할 특성판 이름을 입력하세요.	[!GuideMessage]请输入变更后的天赋版名称。
 #9992	[!WordCollection]특성판	[!WordCollection]天赋版
 #9993	[!WordCollection]추가	[!WordCollection]追加
@@ -5886,26 +5886,26 @@
 #10055	[!Mission]철의 숲 마라 늪	[!Mission]铁森林马拉沼泽
 #10056	[!Mission]전자망을 복구하시오.	[!Mission]请恢复电网运作。
 #10057	[!ObjectInfo]돌연변이 맹독 야샤	[!ObjectInfo]突变剧毒夜叉
-#10058	[!Profession]반지, 손목 고리를 제작할 수 있습니다.	[!Profession]可制作戒指、手链。
-#10059	[!Profession]악세서리 세공	[!Profession]首饰工坊
-#10060	[!Profession]팔찌를 제작할 수 있습니다.	[!Profession]可制作手镯。
-#10061	[!Profession]팔찌 제작	[!Profession]制作手镯
-#10062	[!Profession]자켓, 코트, 트레이닝복 등을 제작할 수 있습니다.	[!Profession]可制作夹克、外套、运动服等。
-#10063	[!Profession]의상 제작	[!Profession]制作衣物
-#10064	[!Profession]수류탄 류 아이템을 제작할 수 있습니다.	[!Profession]可制作炸弹类的物品。
-#10065	[!Profession]폭탄 제조	[!Profession]制作炸弹
-#10066	[!Profession]가죽으로 된 방어구를 제작할 수 있습니다.	[!Profession]可制作皮制防具。
-#10067	[!Profession]가죽 세공	[!Profession]制皮工坊
-#10068	[!Profession]기관 권총을 제작할 수 있습니다.	[!Profession]可制作冲锋枪。
-#10069	[!Profession]기관권총 제작	[!Profession]制作冲锋枪
-#10070	[!Profession]각종 제작 재료를 더 좋은 등급의 재료로 제작할 수 있습니다.	[!Profession]可将各类制作素材制成更高级别的素材。
-#10071	[!Profession]재료 강화	[!Profession]素材加强
-#10072	[!Profession]사용 가능한 약물을 제조할 수 있습니다.	[!Profession]制作出可用的药剂。
-#10073	[!Profession]약물 제조	[!Profession]制造药剂
+#10058	[!Profession]반지, 손목 고리를 제작할 수 있습니다.	[!Profession]可以制作戒指、手链。
+#10059	[!Profession]악세서리 세공	[!Profession]首饰加工
+#10060	[!Profession]팔찌를 제작할 수 있습니다.	[!Profession]可以制作手镯。
+#10061	[!Profession]팔찌 제작	[!Profession]手镯加工
+#10062	[!Profession]자켓, 코트, 트레이닝복 등을 제작할 수 있습니다.	[!Profession]可以制作夹克、外套、运动服等。
+#10063	[!Profession]의상 제작	[!Profession]服装制作
+#10064	[!Profession]수류탄 류 아이템을 제작할 수 있습니다.	[!Profession]可以制作手榴弹类的物品。
+#10065	[!Profession]폭탄 제조	[!Profession]手榴弹制作
+#10066	[!Profession]가죽으로 된 방어구를 제작할 수 있습니다.	[!Profession]可以制作皮制防具。
+#10067	[!Profession]가죽 세공	[!Profession]皮革加工
+#10068	[!Profession]기관 권총을 제작할 수 있습니다.	[!Profession]可以制作冲锋枪。
+#10069	[!Profession]기관권총 제작	[!Profession]冲锋枪制作
+#10070	[!Profession]각종 제작 재료를 더 좋은 등급의 재료로 제작할 수 있습니다.	[!Profession]可以将各类制作素材制成更高级别的素材。
+#10071	[!Profession]재료 강화	[!Profession]素材加工
+#10072	[!Profession]사용 가능한 약물을 제조할 수 있습니다.	[!Profession]可以合成药剂。
+#10073	[!Profession]약물 제조	[!Profession]药剂合成
 #10074	[!Profession]이능석을 더욱 강력한 이능석으로 합성할 수 있습니다.	[!Profession]可以将异能石合成为更加强大的异能石。
-#10075	[!Profession]이능석 합성	[!Profession]合成异能石
-#10077	[!Profession]검을 제작할 수 있습니다.	[!Profession]可制作剑。
-#10078	[!Profession]검 제작	[!Profession]制作剑
+#10075	[!Profession]이능석 합성	[!Profession]异能石合成
+#10077	[!Profession]검을 제작할 수 있습니다.	[!Profession]可以制作剑。
+#10078	[!Profession]검 제작	[!Profession]剑制作
 #10079	[!Site]철의 숲 마라 늪	[!Site]铁森林马拉沼泽
 #10080	[!WordCollection][!Menu]전문 기술	[!WordCollection][!Menu]专业技术
 #10081	[!WordCollection][!Menu]급여 변경	[!WordCollection][!Menu]改变工资
@@ -6050,8 +6050,8 @@
 #10300	[!Troublebook]힘겨루기	[!Troublebook]角力
 #10301	[!ChatSubCategory]전투 알림	[!ChatSubCategory]战斗信息
 #10302	[!ChatSubCategory]자막	[!ChatSubCategory]对话记录
-#10304	[!Profession]각종 보석 재료를 더 좋은 등급의 재료로 제작할 수 있습니다.	[!Profession]可将各类宝石素材制成更高级别的宝石素材。
-#10305	[!Profession]보석 세공	[!Profession]宝石细工
+#10304	[!Profession]각종 보석 재료를 더 좋은 등급의 재료로 제작할 수 있습니다.	[!Profession]可以将各类宝石素材制成更高级别的宝石素材。
+#10305	[!Profession]보석 세공	[!Profession]宝石加工
 #10306	[!MasteryType]암살자	[!MasteryType]暗杀者
 #10307	[!Buff]물	[!Buff]流水
 #10308	[!DamageCondition]지형효과: 물	[!DamageCondition]地形效果：水
@@ -6664,9 +6664,9 @@
 #11349	[!ObjectInfo]바이크론	[!ObjectInfo]拜克伦
 #11350	[!ObjectInfo]보안 장치	[!ObjectInfo]安全设备
 #11351	[!OptionInterface]미션 시작 시 대화창 활성화	[!OptionInterface]任务开始时激活对话框
-#11352	[!Profession]다양한 스프레이를 제작할 수 있습니다.	[!Profession]可制作多种喷雾器。
-#11353	[!Profession]기능성 아이템을 제작할 수 있습니다.	[!Profession]可制作功能性物品。
-#11354	[!Profession]도구 제작	[!Profession]制作工具
+#11352	[!Profession]다양한 스프레이를 제작할 수 있습니다.	[!Profession]可以制作多种喷雾器。
+#11353	[!Profession]기능성 아이템을 제작할 수 있습니다.	[!Profession]可以制作功能性物品。
+#11354	[!Profession]도구 제작	[!Profession]工具加工
 #11355	[!Site]잿빛 항구 물류창고	[!Site]灰港物流仓库
 #11356	[!Troublebook]잿빛 항구 물류 창고	[!Troublebook]灰港物流仓库
 #11357	[!TroublemakerCategory]기계	[!TroublemakerCategory]机械
@@ -7023,7 +7023,7 @@
 #11818	[!GuideMessage]강력한 기계들과의 전투를 통하여 그들을 보다 효과적으로 상대하는 방법을 깨달았습니다.	[!GuideMessage]通过对战强大的机械，领悟到了该如何更加有效地应付它们。
 #11819	[!GuideMessage]제작할 아이템의 수량을 정하세요.	[!GuideMessage]请指定制作物品的数量。
 #11820	[!GuideMessage]추출할 아이템의 수량을 정하세요.	[!GuideMessage]请指定物抽取品的数量。
-#11821	[!GuideMessage]제작 가능한 최대 수량입니다.	[!GuideMessage]已经达到最大可制作数量。
+#11821	[!GuideMessage]제작 가능한 최대 수량입니다.	[!GuideMessage]已经达到最大可以制作数量。
 #11822	[!GuideMessage]추출 가능한 최대 수량입니다.	[!GuideMessage]已经达到最大可抽取数量。
 #11823	[!Item]절연 보호대	[!Item]绝缘护具
 #11824	[!Item]번개 속성 이능력의 피해를 분산시켜 영향력을 줄여주는 보호대입니다.	[!Item]将闪电属性的异能伤害分散，以此降低其影响力的护具。
@@ -7060,7 +7060,7 @@
 #11864	[!NamedEvent]자네들은 여기서 사라져줘야겠어!	[!NamedEvent]你们该消失了！
 #11869	[!NamedEvent]지금부터 시작이다!	[!NamedEvent]从现在开始！
 #11871	[!NamedEvent]막을 수 있다면 막아봐!	[!NamedEvent]能挡你就挡挡看！
-#11877	[!WordCollection]제작 가능한 최대 개수	[!WordCollection]可制作的最大值
+#11877	[!WordCollection]제작 가능한 최대 개수	[!WordCollection]可以制作的最大值
 #11878	[!WordCollection]추출 가능한 최대 개수	[!WordCollection]可抽取的最大值
 #11879	[!Item]반짝이는 충격 보호대	[!Item]闪耀的冲击吸收具
 #11881	[!Item]트윙클 잭은 자신의 우승을 위해 꾸준한 투자를 하였고 그의 장비의 효과는 중요한 순간에서 빛을 발하였다. 세간에서는 이런 트윙클 잭을 보며 레슬링의 기본 정신을 모독한다고 비난하였지만 그는 이러한 장비 개선을 멈추지 않았다.	[!Item]闪耀杰克为了自身能够获胜而持续地在他的装备上投入，在关键时刻能发出刺眼的闪光。世人们见到这样的特温克杰，鄙视他亵渎了摔跤的基础精神。然而他并未停下装备改善的脚步。
@@ -7124,9 +7124,9 @@
 #11959	[!Job]해커	[!Job]黑客
 #11961	[!MasteryType]활잡이	[!MasteryType]弓箭手
 #11962	[!MasteryType]해커	[!MasteryType]黑客
-#11964	[!Profession]기어를 제작할 수 있습니다.	[!Profession]可制作齿轮道具。
-#11965	[!Profession]기어 제작	[!Profession]制作齿轮道具
-#11967	[!Profession]기계 제작	[!Profession]制作机械
+#11964	[!Profession]기어를 제작할 수 있습니다.	[!Profession]可以制作齿轮道具。
+#11965	[!Profession]기어 제작	[!Profession]齿轮制作
+#11967	[!Profession]기계 제작	[!Profession]机械制作
 #11968	[!Equipment]보조 무기	[!Equipment]副武器
 #11969	[!Item]세계 대전 당시 카라스 연방에서 생산된 군수용 소총으로 전 세계에 가장 많이 존재하는 총기이다. 실제 일반인들도 쉽게 구할 수 있다.	[!Item]这是世界大战时期卡拉斯联邦生产的军用步枪，是全世界最常见的枪械。实际情况下，普通人也可轻易获取该物品。
 #11970	[!Item]카라스 연방에서 세계 대전 말미에 생산된 소총으로 기존 버전의 화력을 강화한 무기이다.	[!Item]这是卡拉斯联邦在世界大战末期生产出来的步枪，是较之前一个版本加强了火力的一款武器。
@@ -7283,7 +7283,7 @@
 #12171	[!Item]보나파르트 털코트	[!Item]波拿巴毛皮外套
 #12172	[!Item]명품 브랜드 보나파르트에서 제작되는 겨울용 코트. 내열성과 내한성이 매우 뛰어나다.	[!Item]这是著名品牌波拿巴出品的冬用外套。耐热性和耐寒性都非常出色。
 #12173	[!Item]발렌슈타인 저격총	[!Item]沃伦斯坦狙击步枪
-#12174	[!Item]지젤의 조부가 쓰던 사냥용 저격총. 정확도를 위해 발사되는 탄환의 회전 수가 비약적으로 높다.	[!Item]这是吉赛尔的祖父用过的狩猎狙击枪。为了射击的精确度，射出去的子弹的转数极高。
+#12174	[!Item]지젤의 조부가 쓰던 사냥용 저격총. 정확도를 위해 발사되는 탄환의 회전 수가 비약적으로 높다.	[!Item]这是吉赛尔的祖父用过的狩猎狙击步枪。为了射击的精确度，射出去的子弹的转数极高。
 #12175	[!MasteryType]기동대	[!MasteryType]机动队
 #12176	[!ObjectInfo]발렌슈타인	[!ObjectInfo]沃伦斯坦
 #12177	[!ObjectInfo]지젤	[!ObjectInfo]吉赛尔
@@ -7386,7 +7386,7 @@
 #12347	[!MissionPsionicStoneType]신록	[!MissionPsionicStoneType]新绿
 #12349	[!GuideMessage]아이템 하단의 숙련도 수치는 해당 아이템을 제작할 때마다 증가합니다. 숙련도가 최대가 되면 새로운 아이템을 제작할 수 있습니다.	[!GuideMessage]当您制作该物品时，该物品下的熟练度值会增加。当熟练度达到最大值时，您可以制作新物品。
 #12350	[!GuideMessage]장비를 분해하여 강화와 제작에 필요한 재료를 획득할 수 있습니다.	[!GuideMessage]您可以通过分解装备获得可用于升级和制作物品的素材。
-#12351	[!GuideMessage]재료 추출을 하려면 해당 아이템의 제작이 가능해야 합니다.	[!GuideMessage]做抽取素材的话，您须要可制作该物品。
+#12351	[!GuideMessage]재료 추출을 하려면 해당 아이템의 제작이 가능해야 합니다.	[!GuideMessage]做抽取素材的话，您须要可以制作该物品。
 #12352	[!GuideMessage]아이템 강화는 최대 9 단계까지 가능하며 아이템의 주 능력치가 상승합니다.	[!GuideMessage]物品最多可升级9级，并提高物品的主能力值。
 #12354	[!Help]자동 위임 기능	[!Help]自动委任行动功能
 #12356	[!Help]이동 경로 사용자 지정	[!Help]用户指定移动路径
@@ -7477,7 +7477,7 @@
 #12470	[!LoadingDesc]이동 공격이 가능한 어빌리티는 이동과 공격을 한 번에 시도할 수 있습니다.	[!LoadingDesc]可移动攻击的技能，是可以同时进行移动和攻击的。
 #12471	[!LoadingDesc]이동 공격	[!LoadingDesc]移动攻击
 #12473	[!LoadingDesc]이동 경로 사용자 지정	[!LoadingDesc]用户指定移动路径
-#12474	[!LoadingDesc]새로운 동료가 합류하면 해당 동료가 가진 전문 기술에 따라 새로운 제작 가능한 아이템이 추가 됩니다.	[!LoadingDesc]新的伙伴加入时，可根据该伙伴的专业技术添加新的可制作道具。
+#12474	[!LoadingDesc]새로운 동료가 합류하면 해당 동료가 가진 전문 기술에 따라 새로운 제작 가능한 아이템이 추가 됩니다.	[!LoadingDesc]新的伙伴加入时，可根据该伙伴的专业技术添加新的可以制作道具。
 #12475	[!LoadingDesc]새로운 제작	[!LoadingDesc]新的制作
 #12476	[!LoadingDesc]SP가 최대치가 되면 과충전 상태가 됩니다. 과충전 상태에서는 어빌리티의 기력 소모가 0 이 되며 캐릭터에 따라 숨겨졌던 특정 어빌리티가 활성화됩니다.	[!LoadingDesc]SP达到最大值时会成为过充电状态。过充电状态下技能的气力消耗降低为0，根据角色的不同，激活特定的隐藏技能。
 #12477	[!LoadingDesc]과충전	[!LoadingDesc]过充电
@@ -7833,20 +7833,20 @@
 #13508	[!Item]왕네구리 가죽을 기본으로 밑창을 불꽃 가죽으로 만들어 방염 효과가 탁월한 운동화이다.	[!Item]以纳古利大王皮革作为底料，鞋底由火花皮革制成，可低于火焰效果的优秀运动鞋。
 #13509	[!Item]섬광 왕네구리 운동화	[!Item]闪光纳古利大王运动鞋
 #13510	[!Item]왕네구리 가죽을 기본으로 밑창을 섬광 가죽으로 만들어 절연 효과가 탁월한 운동화이다.	[!Item]以纳古利大王皮革作为底料，鞋底由闪光皮革制成，可低于火焰效果的优秀运动鞋。
-#13511	[!Item]사이러스 저격총 S	[!Item]塞勒斯狙击步枪 S
-#13512	[!Item]사이러스 저격총 R의 강화형 버전. 탄의 관통력을 극대화시킨 저격총이다.	[!Item]塞勒斯狙击枪R的加强版。将弹丸的穿透力极大化的狙击枪。
-#13513	[!Item]사이러스 저격총 R	[!Item]塞勒斯狙击步枪 R
-#13514	[!Item]사이러스 저격총의 군용 버전. 현재 동방연합의 군 저격수들에게 보급된 총기다.	[!Item]塞勒斯狙击枪的军用版本。现在东方联盟狙击手们使用的枪。
-#13515	[!Item]사이러스 저격총 C	[!Item]塞勒斯狙击步枪 C
-#13516	[!Item]동방연합의 글로벌 군수업체 '사이러스'의 신규 저격총. 디자인이나 사용성 면에서 RM 시리즈를 압도한다.	[!Item]东方联盟全球军工企业「塞勒斯」的新型狙击枪。在设计与实用性方面上大幅度优于RM系列。
-#13517	[!Item]듀나메스 저격총 S	[!Item]杜纳梅斯狙击枪 S
-#13518	[!Item]듀나메스 저격총 A	[!Item]杜纳梅斯狙击枪 A
-#13519	[!Item]듀나메스 저격총	[!Item]杜纳梅斯狙击枪
-#13520	[!Item]세계 대전 당시 동방 연합의 저격수들이 사용한 저격총으로 뒷거리에서 쉽게 구할 수 있다.	[!Item]世界大战时东方联盟狙击手们使用的狙击枪，在后巷可轻易购买入手。
-#13521	[!Item]세계 대전 후반, 구형인 저격총 RM - 338을 대체하는 총기로 현재까지 계속 사용되고 있는 총기이다. 저격총 RM - 338과 마찬가지로 뒷거리에서 쉽게 구할 수 있다.	[!Item]在世界大战末尾，替代旧版本的狙击枪RM - 338使用至今的枪械。狙击枪RM - 338一样，可在后巷轻易入手。
-#13522	[!Item]저격총 RM - 358 A의 파괴력과 사용성을 강화한 버전이다.	[!Item]强化了狙击枪RM - 358A的破坏力与实用性的版本。
-#13523	[!Item]저격총 RM - 358의 강화형 버전. 적외선 조준경으로 야간 혹은 어두운 실내에서 목표를 제압하는 목적으로 개량되었다.	[!Item]狙击枪RM - 358的加强版。使用紫外线瞄准镜，可在夜里或阴暗的室内狙击目标。
-#13524	[!Item]동방연합의 저격수들에게 세계 대전 막바지에 보급된 신형 저격총. 이전 버전과 마찬가지로 뒷거리에서 유통은 되고 있지만 많은 물량이 적은 편이다.	[!Item]在世界大战末尾，向东方联盟狙击手们配发的新型狙击枪。与之前的版本一样，流通在后巷，但数量并不多。
+#13511	[!Item]사이러스 저격총 S	[!Item]塞勒斯狙击步枪S
+#13512	[!Item]사이러스 저격총 R의 강화형 버전. 탄의 관통력을 극대화시킨 저격총이다.	[!Item]塞勒斯狙击步枪R的加强版。将弹丸的穿透力极大化的狙击步枪。
+#13513	[!Item]사이러스 저격총 R	[!Item]塞勒斯狙击步枪R
+#13514	[!Item]사이러스 저격총의 군용 버전. 현재 동방연합의 군 저격수들에게 보급된 총기다.	[!Item]塞勒斯狙击步枪的军用版本。现在东方联盟狙击手们使用的枪。
+#13515	[!Item]사이러스 저격총 C	[!Item]塞勒斯狙击步枪C
+#13516	[!Item]동방연합의 글로벌 군수업체 '사이러스'의 신규 저격총. 디자인이나 사용성 면에서 RM 시리즈를 압도한다.	[!Item]东方联盟全球军工企业「塞勒斯」的新型狙击步枪。在设计与实用性方面上大幅度优于RM系列。
+#13517	[!Item]듀나메스 저격총 S	[!Item]杜纳梅斯狙击步枪S
+#13518	[!Item]듀나메스 저격총 A	[!Item]杜纳梅斯狙击步枪A
+#13519	[!Item]듀나메스 저격총	[!Item]杜纳梅斯狙击步枪
+#13520	[!Item]세계 대전 당시 동방 연합의 저격수들이 사용한 저격총으로 뒷거리에서 쉽게 구할 수 있다.	[!Item]世界大战时东方联盟狙击手们使用的狙击步枪，在后巷可轻易购买入手。
+#13521	[!Item]세계 대전 후반, 구형인 저격총 RM - 338을 대체하는 총기로 현재까지 계속 사용되고 있는 총기이다. 저격총 RM - 338과 마찬가지로 뒷거리에서 쉽게 구할 수 있다.	[!Item]在世界大战末尾，替代旧版本的狙击步枪RM - 338使用至今的枪械。狙击步枪RM - 338一样，可在后巷轻易入手。
+#13522	[!Item]저격총 RM - 358 A의 파괴력과 사용성을 강화한 버전이다.	[!Item]强化了狙击步枪RM - 358A的破坏力与实用性的版本。
+#13523	[!Item]저격총 RM - 358의 강화형 버전. 적외선 조준경으로 야간 혹은 어두운 실내에서 목표를 제압하는 목적으로 개량되었다.	[!Item]狙击步枪RM - 358的加强版。使用紫外线瞄准镜，可在夜里或阴暗的室内狙击目标。
+#13524	[!Item]동방연합의 저격수들에게 세계 대전 막바지에 보급된 신형 저격총. 이전 버전과 마찬가지로 뒷거리에서 유통은 되고 있지만 많은 물량이 적은 편이다.	[!Item]在世界大战末尾，向东方联盟狙击手们配发的新型狙击步枪。与之前的版本一样，流通在后巷，但数量并不多。
 #13525	[!Item]남청빛 사이러스 활동복	[!Item]藏蓝塞勒斯活动服
 #13526	[!Item]자홍빛 사이러스 활동복을 개량하여 경량화 시킨 활동복. 시중에 보급된 활동복 중 가장 가벼운 활동복으로 알려져있다.	[!Item]将紫红塞勒斯活动服轻量化的活动服。据说是市面上流通的活动服中最轻的。
 #13527	[!Item]불꽃 왕네구리 활동복	[!Item]火花纳古利大王活动服
@@ -8107,8 +8107,8 @@
 #13883	[!NamedEvent]네굴! 네굴!	[!NamedEvent]纳咕！纳咕！
 #13884	[!NamedEvent]알비노 네구리	[!NamedEvent]白化纳古利
 #13885	[!NamedEvent]네구리 공주	[!NamedEvent]纳古利公主
-#13886	[!Profession]저격총을 제작할 수 있습니다.	[!Profession]可制作狙击步枪。
-#13887	[!Profession]저격총 제작	[!Profession]制作狙击步枪
+#13886	[!Profession]저격총을 제작할 수 있습니다.	[!Profession]可以制作狙击步枪。
+#13887	[!Profession]저격총 제작	[!Profession]狙击步枪制作
 #13888	[!Ability]지정한 위치에 화염의 덫을 놓습니다. 화염의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]指定位置放置火焰陷井。火焰陷井将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
 #13889	[!Ability]지정한 위치에 얼음의 덫을 놓습니다. 얼음의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]指定位置放置寒冰陷井。火焰陷井将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
 #13890	[!Ability]지정한 위치에 번개의 덫을 놓습니다. 번개의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]指定位置放置闪电陷井。火焰陷井将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
@@ -8186,9 +8186,9 @@
 #14008	[!WordCollection][!Menu]재료 획득 가능한 적 목록	[!WordCollection][!Menu]可获得素材的敌人名单
 #14009	[!WordCollection][!Menu]해당 적 출현 장소	[!WordCollection][!Menu]该敌人出现地点
 #14010	[!WordCollection][!Menu]제작 숙련도	[!WordCollection]制作熟练度
-#14011	[!WordCollection][!Menu]다음 제작 가능 아이템	[!WordCollection][!Menu]可制作下一个物品
+#14011	[!WordCollection][!Menu]다음 제작 가능 아이템	[!WordCollection][!Menu]可以制作下一个物品
 #14012	[!WordCollection][!Menu]필요 요구량	[!WordCollection][!Menu]需求量
-#14013	[!WordCollection][!Menu]제작 가능 아이템	[!WordCollection][!Menu]可制作物品
+#14013	[!WordCollection][!Menu]제작 가능 아이템	[!WordCollection][!Menu]可以制作物品
 #14014	[!WordCollection]재료 도감	[!WordCollection]素材图鉴
 #14015	[!WordCollection][!Menu]재료 도감	[!WordCollection][!Menu]素材图鉴
 #14016	[!WordCollection][!Menu]해당 필요 재료	[!WordCollection][!Menu]必需的素材
@@ -8692,7 +8692,7 @@
 #14748	[!ReputationPolicy]$SupportItem$ 희귀 소재	[!ReputationPolicy]$SupportItem$稀有素材
 #14749	[!ReputationPolicy]$Division$ 임무 완료 시, $Rare$ 등급 이상의 무기 아이템을 $ApplyAmountValue$개 지급합니다.	[!ReputationPolicy]完成$Division$的任务时，获得$ApplyAmountValue$个$Rare$级别以上的武器。
 #14750	[!ReputationPolicy]$SupportItem$ 희귀 무기	[!ReputationPolicy]$SupportItem$稀有武器
-#14751	[!ReputationPolicy]$Division$ 임무 완료 시, 무작위의 제작 가능한 아이템의 숙련도가 $ApplyAmountValue$ 상승합니다.	[!ReputationPolicy]完成$Division$的任务时，随机提升可制作的道具$ApplyAmountValue$点熟练度。
+#14751	[!ReputationPolicy]$Division$ 임무 완료 시, 무작위의 제작 가능한 아이템의 숙련도가 $ApplyAmountValue$ 상승합니다.	[!ReputationPolicy]完成$Division$的任务时，随机提升可以制作的道具$ApplyAmountValue$点熟练度。
 #14752	[!ReputationPolicy]$Sector$의 $SectorCitizen$들은 $Division$에서 일어난 사건을 해결할 때마다 자신들의 기술 지식을 지원합니다.	[!ReputationPolicy]$Sector$的$SectorCitizen$们在$Division$发生的事件得到解决时支援自己的技术知识。
 #14753	[!ReputationPolicy]기술 협약	[!ReputationPolicy]技术合约
 #14754	[!ReputationSectorType][colour='FFFFFF00']NPC 상인과 물품 거래 시, [colour='FFFFFFFF']%d%%[colour='FFFFFF00'] 할인된 가격으로 거래합니다.	和[!ReputationSectorType][colour='FFFFFF00']NPC商人交易物品时，以[colour='FFFFFFFF']%d%%[colour='FFFFFF00']折扣的价格交易。
@@ -9049,9 +9049,9 @@
 #15255	[!Item]자홍빛 흑철 세공 운동화보다 질이 더 높은 가죽을 사용하여 개선한 운동화.	[!Item]用比紫红黑铁细工运动鞋质量更高的皮革改进的运动鞋。
 #15256	[!Item]자홍빛 흑철 운동화	[!Item]紫红黑铁运动鞋
 #15257	[!Item]자홍거리에서 유통되는 흑철 세공 운동화에 질긴 네구리 가죽을 추가하여 사용성을 개선한 부츠. 뒷세계에서 매우 인기 있는 운동화다.	[!Item]将紫红街流通黑铁细工运动鞋换成了纳古利皮革而改善的靴子。在地下世界非常受欢迎。
-#15258	[!Item]듀나메스 저격총 A의 강화형 버전. 기존 버전보다 가벼운 소재로 구성되어 사용성이 증가되었다.	[!Item]杜纳梅斯狙击枪 A的加强版。使用了比原版本更轻的素材，使得实用性能提升。
-#15259	[!Item]듀나메스 저격총의 사용성을 강화하고 살상력을 강화시킨 저격총.	[!Item]强化了杜纳梅斯狙击枪的实用性并强化了杀伤力的狙击枪。
-#15260	[!Item]카라스 연방의 군수업체 '듀나메스'에서 제작한 차세대 지원형 저격총. 뛰어난 자동 조준 기능으로 각광받고 있다.	[!Item]卡拉斯联邦的军工企业「杜纳梅斯」 制作的次世代支援型狙击枪。拥有优秀的自动瞄准功能。
+#15258	[!Item]듀나메스 저격총 A의 강화형 버전. 기존 버전보다 가벼운 소재로 구성되어 사용성이 증가되었다.	[!Item]杜纳梅斯狙击步枪A的加强版。使用了比原版本更轻的素材，使得实用性能提升。
+#15259	[!Item]듀나메스 저격총의 사용성을 강화하고 살상력을 강화시킨 저격총.	[!Item]强化了杜纳梅斯狙击步枪的实用性并强化了杀伤力的狙击步枪。
+#15260	[!Item]카라스 연방의 군수업체 '듀나메스'에서 제작한 차세대 지원형 저격총. 뛰어난 자동 조준 기능으로 각광받고 있다.	[!Item]卡拉斯联邦的军工企业「杜纳梅斯」 制作的次世代支援型狙击步枪。拥有优秀的自动瞄准功能。
 #15261	[!Item]흑철 세공 검	[!Item]黑铁细工剑
 #15262	[!Item]세계 대전 이전 많이 사용되었던 흑철 검을 정교하게 세공한 검.	[!Item]黑铁剑是在世界大战前被广泛使用的精巧细工的剑。
 #15263	[!Item]흑철 불꽃검	[!Item]黑铁火花剑
@@ -9161,14 +9161,14 @@
 #15401	[!MasteryType]드론	[!ItemType]无人机
 #15402	[!MasteryType]발열	[!MasteryType]发热
 #15403	[!MasteryType]정보	[!MissionType]信息
-#15415	[!Profession]기계의 골격을 제작할 수 있습니다.	[!Profession]可制作机器的构架。
+#15415	[!Profession]기계의 골격을 제작할 수 있습니다.	[!Profession]可以制作机器的构架。
 #15424	[!Status]발열 SP	[!Status]发热SP
 #15425	[!Status][!Short]발열	[!Status][!Short]发热
 #15426	[!Status]정보 SP	[!Status]信息SP
 #15427	[!Status][!Short]정보	[!MissionType]信息
-#15432	[!Item]강화 구동 장치 P - 01	[!Item]强化驱动设备 P-01
-#15433	[!Item]강화 구동 장치 R - 01	[!Item]强化驱动设备 R-01
-#15434	[!Item]강화 구동 장치 R - 02	[!Item]强化驱动设备 R-02
+#15432	[!Item]강화 구동 장치 P - 01	[!Item]强化驱动设备P-01
+#15433	[!Item]강화 구동 장치 R - 01	[!Item]强化驱动设备R-01
+#15434	[!Item]강화 구동 장치 R - 02	[!Item]强化驱动设备R-02
 #15436	[!Item]낡은 화염 방사기	[!Item]陈旧的火焰喷射器
 #15437	[!Item]낡은 냉각 레이저	[!Item]陈旧的冷却激光
 #15438	[!Item]낡은 자동 돌격 소총	[!Item]陈旧的自动突击步枪
@@ -9317,7 +9317,7 @@
 #15646	[!Status]최대 출력	[!Status]最大功率
 #15647	[!Status][!Short]최대 출력량	[!Status][!Short]最大功率值
 #15648	[!SystemMail]안녕하세요. 트러블슈터 개발팀입니다.<br><tab><br>유저분들의 원활한 플레이를 위해 임의로 제작서 아이템을 지급해 드립니다.<br><tab><br>더욱 분발하는 트러블슈터 개발팀이 되겠습니다.<br><tab><br>감사합니다.<br><tab>	[!SystemMail]你好。这里是纷争终结者开发团队。<br><tab><br><tab>为了用户们的游戏体验，现发放任意的设计图物品。<br><tab><br><tab>我们纷争终结者开发团队将会加倍奋发努力的。<br><tab><br><tab>谢谢。<br><tab>
-#15649	[!WordCollection]기계 제작	[!Profession]制作机械
+#15649	[!WordCollection]기계 제작	[!Profession]机械制作
 #15650	[!WordCollection]제작 발주 번호 : 	[!WordCollection]制作订货编号：
 #15651	[!WordCollection]기계 제작대 설치하기	[!WordCollection]安装机械制作台
 #15652	[!WordCollection]기체 선택	[!WordCollection]选择机体
@@ -9545,7 +9545,7 @@
 #15962	[!WordCollection][!Menu]AI 강화 단계	[!WordCollection][!Menu]AI 强化阶段
 #15963	[!WordCollection]AI 강화	[!WordCollection]AI 强化
 #15964	[!WordCollection]운영 체제 구성	[!WordCollection]操作系统构成
-#15966	[!WordCollection]모듈 제작 가능 보상	[!WordCollection]可制作模块补偿
+#15966	[!WordCollection]모듈 제작 가능 보상	[!WordCollection]可以制作模块补偿
 #15967	[!WordCollection]부품 구성 진행도	[!WordCollection]配件构成进展度
 #15968	[!Ability]대상을 $ApplyBuff$로 만듭니다.	[!Ability]把对象变为$ApplyBuff$状态。
 #15969	[!Ability]대상의 제어권을 탈취합니다.	[!HackingProtocol]夺取对象的控制权。
@@ -9651,8 +9651,8 @@
 #16121	[!Shop]연금 상점	[!Shop]炼金店
 #16122	[!Shop]이능석 상점	[!Shop]异能石店
 #16123	[!WordCollection]추가 재료 모듈	[!WordCollection]附加素材模块
-#16124	[!WordCollection][!Menu]기계 제작	[!Profession]制作机械
-#16125	[!WordCollection]제작 가능한 모듈만 보기	[!WordCollection]只显示可制作的模块
+#16124	[!WordCollection][!Menu]기계 제작	[!Profession]机械制作
+#16125	[!WordCollection]제작 가능한 모듈만 보기	[!WordCollection]只显示可以制作的模块
 #16126	[!WordCollection]관심 모듈 등록	[!WordCollection]登录关心模块
 #16127	[!WordCollection]모듈 획득 확률	[!WordCollection]模块获得几率
 #16128	[!WordCollection]정보 완료 보상: 연구 가능 모듈 발견	[!WordCollection]信息完成奖励：发现可研究的模块
@@ -9700,7 +9700,7 @@
 #16177	[!ObjectInfo]제프	[!ObjectInfo]杰夫
 #16182	[!ReputationDivisionType][colour='FFFFFF00']시민 구조 시, 감사 편지의 보상이 [colour='FFFFFFFF']100%%[colour='FFFFFF00'] 증가합니다. NPC와 우호도 상승량이 [colour='FFFFFFFF']%d%%[colour='FFFFFF00'] 증가합니다.	[!ReputationDivisionType][colour='FFFFFF00']救助市民时，感谢信的奖励将增加[colour='FFFFFFFF']100%%[colour='FFFFFF00']。与NPC的友好度上升量将增加[colour='FFFFFFFF']%d%%[colour='FFFFFF00']。
 #16183	[!ReputationDivisionType]시민 구조 시, [colour='FFFFFF00']감사 편지[colour='FFFFFFFF']의 보상이 증가합니다. NPC와 우호도 상승량이 증가합니다.	[!ReputationDivisionType]救助市民时，[colour='FFFFFF00']感谢信[colour='FFFFFFFF']的奖励将会增加。与NPC的友好度上升量将会增加。
-#16184	[!Site]푸른 안개 G 물류센터	[!Site]蓝雾 G 物流中心
+#16184	[!Site]푸른 안개 G 물류센터	[!Site]蓝雾G物流中心
 #16185	[!WordCollection]소환 중	[!WordCollection]召唤中
 #16187	[!ItemEquipmentPosition]동력 장치	[!ItemType]动力设备
 #16188	[!ItemEquipmentPosition]주 장갑	[!ItemType]主装甲
@@ -9784,7 +9784,7 @@
 #16271	[!GuideMessage]$Name$ $BuffName$ 상태가 발동하였습니다.	[!GuideMessage]$Name$发动$BuffName$状态。
 #16272	[!GuideMessage]%s 특성과 동시에 습득할 수 없습니다.	[!GuideMessage]不能和%s天赋同时学习。
 #16273	[!GuideMessage]해당 특성은 %s 특성과 동시에 습득할 수 없습니다.	[!GuideMessage]该天赋和%s天赋不能同时学习。
-#16274	[!Item]듀나메스 저격총 L 헌정판 - 제프	[!Item]杜纳梅斯狙击枪 L 巨献版 - 杰夫
+#16274	[!Item]듀나메스 저격총 L 헌정판 - 제프	[!Item]杜纳梅斯狙击步枪L巨献版 - 杰夫
 #16275	[!Item]제프는 발할라 붉은 광산 지구 사냥 대회의 3년 연속 우승으로 사냥꾼의 인장을 받게 된다. 그리고 후원사였던 듀나메스 사는 그의 영광을 기리기 위해 자신들의 기술력이 담긴 최고의 한정을 그에게 선사한다.	[!Item]杰夫连续3年拿到巴赫拉红矿地区狩猎大会冠军而获得了猎人印章。赞助方杜纳梅斯为了纪念他的荣耀，给他献上了技术含量最高的巨献荣誉。
 #16277	[!Mastery]결국 마지막에 남는 것은 재뿐이다.	[!Mastery]最后剩下的只有灰烬。
 #16278	[!Mastery]타오르는 숨결	[!Mastery]燃烧的气息
@@ -9862,7 +9862,7 @@
 #16382	[!Ability]다연발 유탄 발사	[!Ability]连发榴弹
 #16385	[!Buff]맹독구름	[!Buff]剧毒云
 #16386	[!Item]다중 연산 처리 장치	[!Item]多重运算处理装置
-#16387	[!Item]강화 구동 장치 P - 02	[!Item]强化驱动设备 P - 02
+#16387	[!Item]강화 구동 장치 P - 02	[!Item]强化驱动设备P-02
 #16388	[!Loading]토사구팽	[!Loading]兔死狗烹
 #16389	[!Mastery]이제 얼마 남지 않았어.	[!Mastery]没有剩下多长时间。
 #16390	[!Mastery]쇄도하는 독	[!Mastery]奔涌之毒
@@ -10443,8 +10443,8 @@
 #17178	[!Mastery]이 공연이 끝날 때까지 난 그만둘 수 없소.	[!Mastery]到这场演出结束为止，我是不能放弃的。
 #17184	[!Mastery]촌경	[!Mastery]寸劲
 #17185	[!Mastery]상대방의 허를 찌른다.	[!Mastery]击中对方要害。
-#17190	[!Profession]전투 장갑 제작	[!Profession]制作战斗手套
-#17191	[!Profession]전투 장갑을 제작할 수 있습니다.	[!Profession]你可以制作战斗手套。
+#17190	[!Profession]전투 장갑 제작	[!Profession]战斗手套制作
+#17191	[!Profession]전투 장갑을 제작할 수 있습니다.	[!Profession]可以制作战斗手套。
 #17192	[!Mastery]천재성	[!Mastery]天才本质
 #17193	[!Mastery]노력하지 않는 천재는 없어.	[!Mastery]没有不努力的天才。
 #17196	[!Ability]목표 범위 내 시야를 밝힙니다. 확보된 시야는 $White$240 $Corn$턴 대기시간$Blue_ON$ 동안 지속됩니다. 범위 내 은신한 적과 설치된 함정을 발견할 수 있습니다.<br><br>$Corn$연쇄 효과: 눈부심: $White$암흑$Corn$ 상태의 대상은 $White$혼란$Corn$ 상태가 됩니다.	[!Ability]在目标范围内点亮视野。被点亮的视野持续$White$240$Corn$回合冷却时间$Blue_ON$。可发现范围内设置的陷阱和潜匿的敌人。<br><br>$Corn$连锁效果：眩光：$White$暗黑$Corn$状态的对象进入$White$混乱$Corn$状态。
@@ -12185,8 +12185,8 @@
 #19292	[!Item]자홍빛 흑철 수호 장갑	[!Item]紫红黑铁守护手套
 #19293	[!Item]남청빛 흑철 수호 장갑	[!Item]藏蓝黑铁守护手套
 #19294	[!Item]연사 속도에 최대한 중점을 둔 드레이크 시리즈의 경량화 브랜드.	[!Item]以连射速度为中心的德雷克系列轻量化品牌。
-#19295	[!Item]베이비 A의 연사 공격 시, 반동을 최대한 줄여 재연사 시 부담을 줄였다.	[!Item]减少[倍比 A ]连射时的反冲力。
-#19296	[!Item]베이비 A - 100의 부족한 살상력을 보강한 기관권총.	[!Item]强化[倍比 A-100]所不足的杀伤力的冲锋枪。
+#19295	[!Item]베이비 A의 연사 공격 시, 반동을 최대한 줄여 재연사 시 부담을 줄였다.	[!Item]减少[倍比A]连射时的反冲力。
+#19296	[!Item]베이비 A - 100의 부족한 살상력을 보강한 기관권총.	[!Item]强化[倍比A-100]所不足的杀伤力的冲锋枪。
 #19297	[!Item]기관권총 RMS - 233	[!Item]冲锋枪RMS-233
 #19298	[!Item]동방연합의 RM 모델을 이어 군에 납품되고 있는 신형 총기 브랜드.	[!Item]东方联盟新一代RM型号新型枪支品牌。
 #19299	[!Item]기관권총 RMS - 233 A	[!Item]冲锋枪RMS-233A
@@ -12822,8 +12822,8 @@
 #20103	[!GuideMessage]$Item$ 제작 숙련도를 $Amount$만큼 얻었습니다.	[!GuideMessage]$Item$的制作熟练度上升了$Amount$。
 #20104	[!GuideMessage]의뢰 목록이 가득차 있어 의뢰를 수락할 수 없습니다.	[!GuideMessage]无法接受任务。任务目录已满。
 #20105	[!GuideMessage]나가기	[!LayoutKeyword]退出
-#20106	[!GuideMessage]제작 가능한 아이템 중 무작위로 선택된 아이템의 숙련도가 증가합니다.	[!GuideMessage]在可制作的物品中，随机选择一项增加制作熟练度。
-#20107	[!GuideMessage]제작 가능한 $Category$ 아이템 중 무작위로 선택된 아이템의 숙련도가 증가합니다.	[!GuideMessage]在$Category$里的可制作的的物品中，随机选择一项物品提升制作熟练度。
+#20106	[!GuideMessage]제작 가능한 아이템 중 무작위로 선택된 아이템의 숙련도가 증가합니다.	[!GuideMessage]在可以制作的物品中，随机选择一项增加制作熟练度。
+#20107	[!GuideMessage]제작 가능한 $Category$ 아이템 중 무작위로 선택된 아이템의 숙련도가 증가합니다.	[!GuideMessage]在$Category$里的可以制作的的物品中，随机选择一项物品提升制作熟练度。
 #20108	[!GuideMessage]현재 알려진 적 중 무작위로 선택된 적의 정보를 획득합니다.	[!GuideMessage]将获得随机的目前已知的纷争制造者的情报。
 #20109	[!GuideMessage]현재 알려진 $Troublemaker$ 중 무작위로 선택된 적의 정보를 획득합니다.	[!GuideMessage]将获得随机的目前已知的纷争制造者$Troublemaker$的情报。
 #20110	[!GuideMessage]원하는 보상을 선택하세요.	[!GuideMessage]请选择想要的奖励。
@@ -12857,7 +12857,7 @@
 #20218	[!SystemMail][colour='FFFFE959']안녕하십니까. 발할라 제 13 지구. 바람장벽지구의 사무관 [colour='FFFFFFFF']하비에르[colour='FFFFE959']입니다.<br><br>$CompanyName$의 바람장벽 지구 트러블슈터 등록 신청에 따라 관할 구역이 '은빛 구름' 지역으로 배정되었음을 알려드립니다.<br><br>더 나은 미래를 위해 많은 도전을 해주시길 바랍니다.<br><br>[colour='FFFFFFFF']바람장벽 지구 사무관 하비에르	[!SystemMail][colour='FFFFE959']你们好，我是巴赫拉第13区风之壁地区的事务官[colour='FFFFFFFF']哈维尔[colour='FFFFE959']。<br><br>根据风之壁地区的纷争终结者登记申请，$CompanyName$的管辖区现分配到了「银彩」地区。<br><br>为了更美好的未来，愿你踊跃挑战。<br><br>[colour='FFFFFFFF']风之壁地区事务官哈维尔敬上。
 #20219	[!WordCollection]모두 선택하기	[!WordCollection]选择全部
 #20220	[!WordCollection]주문서	[!WordCollection]订单
-#20221	[!WordCollection]제작 가능한 아이템의 숙련도	[!WordCollection]可制作的物品熟练度
+#20221	[!WordCollection]제작 가능한 아이템의 숙련도	[!WordCollection]可以制作的物品熟练度
 #20222	[!WordCollection]발동 조건	[!WordCollection]发动条件
 #20223	[!WordCollection]음식 세트 효과	[!WordCollection]套餐效果
 #20224	[!WordCollection]메뉴판	[!WordCollection]菜单
@@ -14558,15 +14558,15 @@
 #22199	[!Item]듀나메스 MPIBC	[!Item]杜纳梅斯MPIBC
 #22200	[!Item]카라스 연방의 군수업체 '듀나메스'에서 제작한 차세대 공격형 기관권총. 뛰어난 관통력으로 각광받고 있다.	[!Item]卡拉斯联邦的军工企业「杜纳梅斯」制作的次世代攻击型冲锋枪。拥有优秀的穿透力。
 #22201	[!Item]듀나메스 MPIBR	[!Item]杜纳梅斯MPIBR
-#22202	[!Item]듀나메스 MPIBC의 사용성을 강화하고 살상력을 강화시킨 기관권총.	[!Item]强化了杜纳梅斯 MPIBC的实用性和杀伤力的冲锋枪。
+#22202	[!Item]듀나메스 MPIBC의 사용성을 강화하고 살상력을 강화시킨 기관권총.	[!Item]强化了杜纳梅斯MPIBC的实用性和杀伤力的冲锋枪。
 #22203	[!Item]듀나메스 MPIBE	[!Item]杜纳梅斯MPIBE
-#22204	[!Item]듀나메스 MPIBE의 강화형 버전. 기존 버전보다 가벼운 소재로 구성되어 사용성이 증가되었다.	[!Item]杜纳梅斯 MPIBE的加强版。使用了比基础版本更轻的素材，使得实用性能提升。
-#22205	[!Item]듀나메스 저격총 IB	[!Item]杜纳梅斯狙击枪IB
-#22206	[!Item]카라스 연방의 군수업체 '듀나메스'에서 제작한 차세대 공격형 저격총. 뛰어난 관통력으로 각광받고 있다.	[!Item]卡拉斯联邦的军工企业「杜纳梅斯」制作的次世代攻击型狙击枪。拥有优秀的穿透力。
-#22207	[!Item]듀나메스 저격총 IBA	[!Item]杜纳梅斯狙击枪IBA
-#22208	[!Item]듀나메스 저격총 IB의 사용성을 강화하고 살상력을 강화시킨 저격총.	[!Item]强化了杜纳梅斯狙击枪IB的实用性和杀伤力的狙击枪。
-#22209	[!Item]듀나메스 저격총 IBS	[!Item]杜纳梅斯狙击枪IBS
-#22210	[!Item]듀나메스 저격총 IBA의 강화형 버전. 기존 버전보다 가벼운 소재로 구성되어 사용성이 증가되었다.	[!Item]杜纳梅斯狙击枪 IBA的加强版。使用了比原版本更轻的素材，使得实用性能提升。
+#22204	[!Item]듀나메스 MPIBE의 강화형 버전. 기존 버전보다 가벼운 소재로 구성되어 사용성이 증가되었다.	[!Item]杜纳梅斯MPIBE的加强版。使用了比基础版本更轻的素材，使得实用性能提升。
+#22205	[!Item]듀나메스 저격총 IB	[!Item]杜纳梅斯狙击步枪IB
+#22206	[!Item]카라스 연방의 군수업체 '듀나메스'에서 제작한 차세대 공격형 저격총. 뛰어난 관통력으로 각광받고 있다.	[!Item]卡拉斯联邦的军工企业「杜纳梅斯」制作的次世代攻击型狙击步枪。拥有优秀的穿透力。
+#22207	[!Item]듀나메스 저격총 IBA	[!Item]杜纳梅斯狙击步枪IBA
+#22208	[!Item]듀나메스 저격총 IB의 사용성을 강화하고 살상력을 강화시킨 저격총.	[!Item]强化了杜纳梅斯狙击步枪IB的实用性和杀伤力的狙击步枪。
+#22209	[!Item]듀나메스 저격총 IBS	[!Item]杜纳梅斯狙击步枪IBS
+#22210	[!Item]듀나메스 저격총 IBA의 강화형 버전. 기존 버전보다 가벼운 소재로 구성되어 사용성이 증가되었다.	[!Item]杜纳梅斯狙击步枪IBA的加强版。使用了比原版本更轻的素材，使得实用性能提升。
 #22211	[!Item]흑철 가죽	[!Item]黑铁皮革
 #22212	[!Item]흑철 강화 가죽	[!Item]黑铁强化皮革
 #22214	[!Item]흑철 서리 가죽	[!Item]黑铁霜雪皮革
@@ -14716,7 +14716,7 @@
 #22384	[!Item]케이퍼 X - 스컬 피어스	[!Item]凯尔佛X - 骷髅穿刺者
 #22385	[!Item]난폭한 트롤 장갑	[!Item]粗暴的巨怪手套
 #22386	[!Item]스컬 크래셔의 이름을 부여받기 전 '난폭한 트롤'이라고 불리던 시절부터 사용한 전투 장갑.	[!Item]骷髅击碎者在获得这个名字之前被称为「粗暴的巨怪」时期所使用的战斗手套。
-#22387	[!Item]듀나메스 저격총 IBL - HK	[!Item]杜纳梅斯狙击枪IBL-HK
+#22387	[!Item]듀나메스 저격총 IBL - HK	[!Item]杜纳梅斯狙击步枪IBL-HK
 #22388	[!Item]스컬 이터는 원래 조직에서 청소부 역할을 담당하였으나 트러블슈터 블랙펄과 전면전에서 지젤 발렌슈타인에 의해 많은 동료들이 너무 쉽게 무력화되는 것을 보고 저격수로 전직한다. 그리고 지젤의 오랜 경험에 대응하기 위해 듀나메스 사의 부패한 관리자를 매수해 자신을 위한 최고의 총을 제작한다.	[!Item]骷髅吞噬者原本在组织中担任清道夫的角色，但在与黑珍珠的正面交锋中看到许多队友被吉赛尔・沃伦斯坦击溃，于是改任成为狙击手。他为了对付有着多年经验的吉赛尔，收买了杜纳梅斯公司腐败的管理者来为自己制作最好的枪。
 #22389	[!Item]지옥불 인장	[!Item]地狱火印章
 #22390	[!Item]지옥불의 코드 네임이 새겨져 있습니다.	[!Item]刻有地狱火的代号。
@@ -15310,8 +15310,8 @@
 #23437	[!WordCollection][!Menu]진화 필요 아이템	[!WordCollection][!Menu]需要的道具
 #23438	[!GuideMessage]해당 제작은 추가 숙련도만 획득 가능합니다.	[!GuideMessage]该制作只能获得额外熟练度。
 #23439	[!GuideMessage]해당 아이템 제작으로 획득하는 제작 숙련도의 $Value$만큼 추가 숙련도를 얻습니다.	[!GuideMessage]制作该物品时将获得所获得熟练度的$Value$的额外熟练度。
-#23440	[!GuideMessage]현재 $Type$ $Level$ 전문 기술로 제작 가능한 모든 아이템의 제작 숙련도에 획득한 추가 숙련도가 균등 분배됩니다.	[!GuideMessage]当前以$Type$ $Level$专门技术可制作的所有物品的制作熟练度所获得的额外熟练度将会被均分。
-#23441	[!Profession]스프레이 제작	[!Profession]制作喷雾
+#23440	[!GuideMessage]현재 $Type$ $Level$ 전문 기술로 제작 가능한 모든 아이템의 제작 숙련도에 획득한 추가 숙련도가 균등 분배됩니다.	[!GuideMessage]当前以$Type$ $Level$专门技术可以制作的所有物品的制作熟练度所获得的额外熟练度将会被均分。
+#23441	[!Profession]스프레이 제작	[!Profession]喷雾器制作
 #23442	[!WordCollection]추가 숙련도	[!WordCollection]额外熟练度
 #23443	[!Mastery]적에게 공격을 적중시키면, 다음과 같은 효과가 발생합니다.	[!Mastery]攻击命中敌人时，将获得如下效果。
 #23445	[!Loading]비는 눈물 따라 흐르고...	[!Loading]雨滴随着泪水流淌...
@@ -16199,7 +16199,7 @@
 #24367	[!LobbyEvent]사건 일지	[!WordCollection]事件日志
 #24368	[!LobbyEvent]작업대 설치하기	[!WordCollection]安装工作台
 #24369	[!LobbyEvent]사냥꾼	[!Job]猎人
-#24370	[!LobbyEvent]기계 제작	[!Profession]制作机械
+#24370	[!LobbyEvent]기계 제작	[!Profession]机械制作
 #24371	[!LobbyEvent]모듈 제작	[!WordCollection][!menu]制作模块
 #24372	[!ObjectInfo]유노미아	[!ObjectInfo]欧诺弥亚
 #24373	[!SystemMenu]로비 이벤트	[!SystemMenu]过场剧情回顾
