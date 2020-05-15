@@ -9875,7 +9875,7 @@
 #19025	[!Dialog]작업실을 차지하고 있는 야수의 존재에 기분이 상한 카일리는 야수로부터 시선을 돌렸다.	[!Dialog]对于占据工作室的野兽的存在，凯莉感到不舒服，她就把视线从野兽身上移开了。
 #19026	[!Dialog]카일리가 작업실에 들어서자 제일 눈에 들어온 것은 야수들이었다.	[!Dialog]凯莉在制作室最先看到的是野兽。
 #19027	[!Dialog][!speaker:Kylie_Serious]하아... 그 아줌마 아이들이 얘네들이야?	[!Dialog][!speaker:Kylie_Serious]哈啊...那大妈说的是这些家伙们啊？
-#19028	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']가동률이 낮아진 드론은 우측 하단의 [colour='FFFFFFFF']수리하기  [colour='FFFFE959']버튼을 통하여 수리가 가능합니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']开工率变低的无人机可以通过右下方的[colour='FFFFFFFF']修理[colour='FFFFE959']按钮来修理。
+#19028	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']가동률이 낮아진 드론은 우측 하단의 [colour='FFFFFFFF']수리하기  [colour='FFFFE959']버튼을 통하여 수리가 가능합니다.	[!Dialog][padding='l:0 t:0 r:0 b:$Pad$'][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Vitality'][padding='l:0 t:0 r:0 b:0'] [colour='FFFFE959']运转率变低的无人机可以通过右下方的[colour='FFFFFFFF']修理[colour='FFFFE959']按钮来修理。
 #19029	[!Dialog]헤이싱의 제안을 수락한다.	[!Dialog]接受黑星的提案。
 #19030	[!Dialog]헤이싱의 제안을 보류한다.	[!Dialog]保留黑星的提案。
 #19031	[!Dialog][!speaker:Albus_Normal]별다른 일은 없겠지...	[!Dialog][!speaker:Albus_Normal]看来没别的特别事情了吧。

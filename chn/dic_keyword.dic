@@ -913,7 +913,7 @@
 #2056	[!MissionTime]밤	[!MissionTime]黑夜
 #2058	[!MissionType]체포	[!MissionType]逮捕
 #2060	[!MissionType]암살	[!MissionType]暗杀
-#2062	[!MissionType]시민 구조	[!MissionType]营救市民
+#2062	[!MissionType]시민 구조	[!MissionType]营救
 #2064	[!MissionType]수집	[!MissionType]收集
 #2066	[!MissionType]방어	[!MissionType]防御
 #2068	[!MissionType]파괴	[!MissionType]破坏
@@ -3166,7 +3166,7 @@
 #6127	[!StatsInfo]사원별 전투 불능 된 수	[!StatsInfo]无法战斗次数
 #6128	[!StatsInfo]사원별 처치한 적 총 수	[!StatsInfo]击退敌人个数
 #6130	[!StatsInfo]시민 구조수	[!StatsInfo]营救市民个数
-#6131	[!StatsInfo]무기력 횟수	[!StatsInfo]无力次数
+#6131	[!StatsInfo]무기력 횟수	[!StatsInfo]意志归零次数
 #6132	[!Status]타격 공격 치명타 피해량	[!Status]打击攻击暴击伤害
 #6133	[!Status][!Short]타격 공격 치명타 피해량	[!Status][!Short]打击攻击暴击伤害
 #6134	[!Status]대지 공격 치명타 피해량	[!Status]大地攻击暴击伤害
@@ -4323,7 +4323,7 @@
 #7834	[!Organization]어나니머스	[!Organization]匿名者
 #7836	[!PcState]무기력 상태에서는 사건 해결 활동을 할 수 없습니다. 	[!PcState]无力状态下是无法从事事件处理活动的。
 #7837	[!RestAction]임대료 연체	[!RestAction]拖欠租金
-#7839	[!StatsInfo]사원별 미션당 처치한 불량배수	[!StatsInfo]平均击退敌人次数
+#7839	[!StatsInfo]사원별 미션당 처치한 불량배수	[!StatsInfo]平均击退敌人个数
 #7841	[!SystemMail]앤 메이시	[!SystemMail]安梅茜
 #7842	[!SystemMail]$CompanyName$ 감사합니다.	[!SystemMail]$CompanyName$谢谢你们。
 #7843	[!WordCollection]외출하기	[!WordCollection]外出
@@ -4776,7 +4776,7 @@
 #8541	[!Mastery]50 년간 한가지 일을 계속하면 누구나 원하는 것을 이룰 수 있지.	[!Mastery]在一个行业从事50年，所有人都可以如愿。
 #8542	[!Mastery]생활의 달인	[!Mastery]生活达人
 #8544	[!Mastery]정신이 들기 전에 모든 것이 끝날 것일세.	[!Mastery]不等你回过神来，一切都结束了。
-#8545	[!Mastery]세찬 바람	[!Mastery]强劲的风
+#8545	[!Mastery]세찬 바람	[!Mastery]强风
 #8547	[!Mastery]작은 변화가 기회를 만든다.	[!Mastery]小变化带来大机遇。
 #8548	[!Mastery]아지랑이	[!Mastery]阳炎
 #8550	[!Mastery]네가 원하는 걸 얻으려면 좀 더 위험을 무릎쓰고 가까이 오란 말이다!	[!Mastery]想要获得你想要的东西，要不顾危险，再靠近一点啊！
@@ -5824,7 +5824,7 @@
 #9991	[!GuideMessage]변경할 특성판 이름을 입력하세요.	[!GuideMessage]请输入变更后的天赋面板名称。
 #9992	[!WordCollection]특성판	[!WordCollection]天赋面板
 #9993	[!WordCollection]추가	[!WordCollection]追加
-#9996	[!WordCollection]이름 변경	[!WordCollection]改变名字
+#9996	[!WordCollection]이름 변경	[!WordCollection]变更名称
 #9997	[!GuideMessage]현재 캐릭터의 특성판을 추가하려면 [colour='FFFFE959']$ItemName$[colour='FFFFFFFF'] 아이템이 $ItemCount$ 개 소모됩니다. 계속 진행하시겠습니까?	[!GuideMessage]你需要$ItemCount$个[colour='FFFFE959']$ItemName$[colour='FFFFFFFF']来为这个角色添加天赋面板。要继续吗？
 #9998	[!WordCollection]새로운 특성판 추가	[!WordCollection]新的天赋面板
 #9999	[!Item]자홍빛 파수꾼 자켓의 강화된 버전. 이능력에 대한 저항 처리가 탁월하다.	[!Item]守备军夹克的加强版。异能抗性尤为卓越。
@@ -6294,7 +6294,7 @@
 #10704	[!Mastery]방향을 바꾸면 위력은 대폭 줄어들지.	[!Mastery]改变方向，威力就大打折扣了。
 #10705	[!Mastery]칼날 흘리기	[!Mastery]流动之剑
 #10707	[!Mastery]부족한 것을 채우겠습니다.	[!Mastery]我将弥补不足。
-#10708	[!Mastery]재생의 축복	[!Mastery]苏生的祝福
+#10708	[!Mastery]재생의 축복	[!Mastery]苏生祝福
 #10710	[!Mastery]너의 힘을 돌려주마.	[!Mastery]你的力量，返还给你。
 #10711	[!Mastery]차경	[!Mastery]借劲
 #10712	[!Mastery]방어구 가르기	[!Mastery]破甲
@@ -7545,7 +7545,7 @@
 #13145	[!KeyBinding]캐릭터 보기	[!KeyBinding]查看角色
 #13146	[!WordCollection]전투 미리 보기	[!WordCollection]战斗预览
 #13147	[!WordCollection]전략 시점 보기	[!WordCollection]战略镜头视角
-#13148	[!WordCollection]관심 특성 등록	[!WordCollection]关注天赋书签
+#13148	[!WordCollection]관심 특성 등록	[!WordCollection]设为关注天赋
 #13149	[!WordCollection]상인 NPC	[!WordCollection]商人NPC
 #13150	[!Ability]이동	[!Ability]移动
 #13152	[!Loading]뿌린 대로 거두리라	[!Loading]咎由自取
@@ -8059,7 +8059,7 @@
 #13835	[!Mastery]순식간에 터져 버리지.	[!Mastery]会瞬间炸掉。
 #13836	[!Mastery]고전압	[!Mastery]电压尖峰
 #13838	[!Mastery]모든 것이 사라질 것이다.	[!Mastery]一切都会消失的。
-#13839	[!Mastery]소각	[!Mastery]烧毁
+#13839	[!Mastery]소각	[!Mastery]焚尽
 #13843	[!Mastery]승리를 의심하지 않는다.	[!Mastery]坚信胜利。
 #13844	[!Mastery]사기충천	[!Mastery]冲霄之气
 #13845	[!Mastery]극뢰	[!Mastery]极雷
@@ -8139,8 +8139,8 @@
 #13937	[!WordCollection][!Menu]환경 영향	[!WordCollection][!Menu]环境影响
 #13938	[!WordCollection]다음 진화까지 필요 경험치	[!WordCollection]下一次进化所需经验值
 #13939	[!WordCollection]온도	[!WordCollection]温度
-#13947	[!WordCollection]야수 포기	[!WordCollection]放弃野兽
-#13948	[!GuideMessage]야수를 정말 포기하겠습니까? 착용 중인 특성과 장비가 사라집니다. 사라지길 원하지 않으시면, 먼저 착용 해제를 해주세요.	[!GuideMessage]你确定放弃野兽吗？野兽装配的天赋和物品也将消失。如果您不希望它们消失，请先解除需要的天赋和物品装备。
+#13947	[!WordCollection]야수 포기	[!WordCollection]放生野兽
+#13948	[!GuideMessage]야수를 정말 포기하겠습니까? 착용 중인 특성과 장비가 사라집니다. 사라지길 원하지 않으시면, 먼저 착용 해제를 해주세요.	[!GuideMessage]你确定放生野兽吗？野兽装配的天赋和物品也将消失。如果您不希望它们消失，请先解除需要的天赋和物品装备。
 #13949	[!AbilityDirectingEvent]지원 사격	[!AbilityDirectingEvent]支援射击
 #13951	[!Mission]철의 숲 오염지	[!Mission]铁森林污染地
 #13952	[!Site]철의 숲 오염지	[!Site]铁森林污染地
@@ -9066,7 +9066,7 @@
 #15284	[!Loading]외곽 도로 정비소	[!Mission]外围道路维修点
 #15293	[!Troublebook]외곽 도로 정비소	[!Mission]外围道路维修点
 #15295	[!WordCollection]작동 불능	[!MissionMemberState]启动不能
-#15296	[!WordCollection][!Menu]가동률	[!WordCollection][!Menu]开工率
+#15296	[!WordCollection][!Menu]가동률	[!WordCollection][!Menu]运转率
 #15297	[!WordCollection][!Menu]기계	[!MasteryType]机械
 #15298	[!WordCollection][!Menu]성공률	[!WordCollection][!Menu]成功率
 #15299	[!Ability]선택한 $White$커맨드$Blue_ON$에 따라 목표 대상에게 무작위로 6 차례의 사격을 하여 다음과 같은 피해를 입힙니다.<br><br>$ProtocolCommandMessage$	[!Ability]根据选择的$White$命令$Blue_ON$，随机给予对象6次的射击并造成以下伤害。<br><br>$ProtocolCommandMessage$
@@ -9555,8 +9555,8 @@
 #15987	[!GuideMessage][colour='FFFFFFFF']%s[colour='FFFFE959'][이] 수리되었습니다.	[!GuideMessage][colour='FFFFFFFF']%s[colour='FFFFE959']已修理。
 #15988	[!GuideMessage]현재 기계를 수리하려면 $Vill$ Vill이 필요합니다.	[!GuideMessage]想要修理机械的话，需要$Vill$ Vill。
 #15989	[!Item]강화 엔진 UE4 - 고출력	[!Item]强化引擎UE4 - 高功率
-#16016	[!WordCollection]기계 폐기	[!WordCollection]机械报废
-#16017	[!WordCollection]기계 수리	[!WordCollection]机械修理
+#16016	[!WordCollection]기계 폐기	[!WordCollection]报废机械
+#16017	[!WordCollection]기계 수리	[!WordCollection]修理机械
 #16018	[!Buff]엔진 가속 상태에서 어빌리티를 사용 시, 사용한 어빌리티의 연료 소모량만큼 추가로 소모됩니다.	[!Buff]引擎加速状态中使用技能时，将额外再次消耗使用该技能所消耗的燃料量。
 #16019	[!Buff]엔진 가속	[!Buff]引擎加速
 #16020	[!Buff]해당 대상은 현재의 위치가 미니맵에 표시됩니다.	[!Buff]该对象的现有位置将在小地图出现。
@@ -9601,7 +9601,7 @@
 #16070	[!Troublebook]헤이싱은 자신에게 남은 시간이 얼마 없음을 느끼며 적극적으로 움직이기로 결정한다.	[!Troublebook]黑星认识到自己所剩的时间不多了，决定积极行动。
 #16071	[!Troublebook]멈추지 않는 시간	[!Troublebook]永不停歇的时间
 #16072	[!WordCollection]기체 모듈 슬롯	[!WordCollection]机体模块栏
-#16073	[!WordCollection]기체 변경	[!WordCollection]机体变更
+#16073	[!WordCollection]기체 변경	[!WordCollection]变更机体
 #16074	[!Ability]연료를 가득 채웁니다.	[!Ability]填充燃料。
 #16075	[!GuideMessage]모듈 제작의 고정 재료 아이템이 제작 가능 한 경우, %s 두번 클릭하시면 해당 아이템의 제작으로 이동 하실 수 있습니다.	[!GuideMessage]制作模块所需的固定素材在可制造时，点击两次%s可移动至该物品的制作窗口。
 #16078	[!Office]창고 사용 가능<br>인벤토리 공간 350 추가	[!Office]可使用地下仓库<br>仓储空间增加 350
@@ -9623,7 +9623,7 @@
 #16096	[!GuideMessage]기계 부품이 부족합니다.	[!GuideMessage]机械配件不足。
 #16097	[!GuideMessage]최대 적재량을 초과했습니다.	[!GuideMessage]已超过最大载重量。
 #16098	[!GuideMessage]기계를 더 이상 보유할 수 없습니다.	[!GuideMessage]无法拥有更多的机械。
-#16099	[!GuideMessage]가동률은 같이 참여한 전투 결과에 따라 감소합니다. 전투에 참여하지 않으면 변하지 않습니다.	[!GuideMessage]开工率会根据参战的结果而减少。不参加战斗就不会有变化。
+#16099	[!GuideMessage]가동률은 같이 참여한 전투 결과에 따라 감소합니다. 전투에 참여하지 않으면 변하지 않습니다.	[!GuideMessage]运转率会根据参战的结果而减少。不参加战斗就不会有变化。
 #16100	[!Rest]당장은 문제 없으니 나중에 줘.	[!Rest]现在没问题，以后再给我吧。
 #16101	[!WordCollection]모듈	[!WordCollection]模块
 #16102	[!Craft_Machine]장갑	[!Craft_Machine]装甲
@@ -10471,7 +10471,7 @@
 #17282	[!GuideMessage][colour='FFFF5943']경고: 특성판 특성 해제<br><br>[colour='FFFFFFFF']현재 사용중인 특성판의 특성 중 개인 특성 변경 시 사용할 수 없는 특성들이 존재합니다.	[!GuideMessage][colour='FFFF5943']警告：天赋面板的天赋将会解除<br><br>[colour='FFFFFFFF']现在所使用的天赋面板的天赋中存在更改个人天赋后无法使用的天赋。
 #17283	[!GuideMessage][colour='FFFF5943']현재 $ItemName$ 개수가 부족하여 해당 특성으로 변경이 불가능합니다.	[!GuideMessage][colour='FFFF5943']因$ItemName$不足而无法更改天赋。
 #17284	[!GuideMessage][colour='FFFFFFFF']개인 특성 변경을 계속 진행하시면 위의 특성들은 해당 특성판에서 모두 제거되며, 해당 과정을 위해 $ItemName$ $ItemCount$ 개가 추가 소모됩니다.	[!GuideMessage][colour='FFFFFFFF']若继续进行个人天赋的变更，以上天赋将从天赋面板解除。需要$ItemName$ $ItemCount$个。
-#17285	[!GuideMessage]관심 특성 등록된 특성만을 보여줍니다. 관심 특성으로 등록된 특성이 특성 연구로 소모될 경우, 경고 메시지로 해당 특성의 소모를 알려줍니다.	[!GuideMessage]只显示在关心天赋上登录的天赋。若已登录的天赋将用于天赋研究素材时，会收到警告通知。
+#17285	[!GuideMessage]관심 특성 등록된 특성만을 보여줍니다. 관심 특성으로 등록된 특성이 특성 연구로 소모될 경우, 경고 메시지로 해당 특성의 소모를 알려줍니다.	[!GuideMessage]只显示在关注天赋上登录的天赋。若已登录的天赋将用于天赋研究素材时，会收到警告通知。
 #17288	[!Help]최대 턴 대기 시간	[!Help]最大回合冷却时间
 #17293	[!Item]자홍거리에서 유통되는 흑철 세공 손목 고리에 질긴 네구리 가죽을 추가하여 사용성을 개선한 손목 고리. 뒷세계에서 매우 인기 있는 손목 고리다.	[!Item]将紫红街流通黑铁细工腕带换成了纳古利皮革而改善的腕带。在地下世界非常受欢迎。
 #17294	[!Item]천선의 약	[!Item]天上仙人药
@@ -10722,7 +10722,7 @@
 #17563	[!Troublebook]되돌이킬 수 없는 선택	[!Troublebook]无法挽回的选择
 #17564	[!Troublebook]루나는 자신이 할 수 있는 일과 없는 일을 누구보다 잘 알고 있었다.	[!Troublebook]露娜比任何人都清楚自己能做的和不能做的事情。
 #17565	[!WordCollection]참조 대상	[!WordCollection]参考对象
-#17566	[!WordCollection]관심 특성 보기	[!WordCollection]查看关心天赋
+#17566	[!WordCollection]관심 특성 보기	[!WordCollection]查看关注天赋
 #17567	[!Ability]불꽃 베기	[!Ability]火花斩
 #17568	[!Ability]불꽃 파괴검	[!Ability]火花破坏剑
 #17569	[!Item]칠흑의 펄스 블레이드	[!Item]漆黑的脉冲剑
@@ -12092,8 +12092,8 @@
 #19202	[!StatsInfo]총 미션 참여 횟수	[!StatsInfo]任务参与次数
 #19203	[!StatsInfo]미션 성공 횟수	[!StatsInfo]任务成功次数
 #19204	[!StatsInfo]미션 성공률	[!StatsInfo]任务成功率
-#19205	[!StatsInfo]전투 불능 확률	[!StatsInfo]无法战斗任务率
-#19206	[!StatsInfo]미션 당 처치한 적 수	[!StatsInfo]每场任务所击退的敌人数
+#19205	[!StatsInfo]전투 불능 확률	[!StatsInfo]无法战斗率
+#19206	[!StatsInfo]미션 당 처치한 적 수	[!StatsInfo]平均击退敌人个数
 #19207	[!StatsInfo]안전	[!GameDifficulty]安全
 #19208	[!StatsInfo]쉬움	[!GameDifficulty]简单
 #19209	[!StatsInfo]보통	[!OptionGraphics]一般
@@ -12884,7 +12884,7 @@
 #20261	[!FoodShop]기운이 없으시다면 단 것이 필요한 거에요.	[!FoodShop]没有力气的话就吃点甜甜的吧。
 #20262	[!GuideMessage]저장될 편성 슬롯의 이름을 입력하세요.	[!GuideMessage]请输入该编制队伍的名字。
 #20263	[!GuideMessage]과충전 시에는 SP 소모가 일어나지 않습니다.	[!GuideMessage]过充电时SP不会减少。
-#20264	[!LayoutKeyword]이름 변경	[!WordCollection]改变名字
+#20264	[!LayoutKeyword]이름 변경	[!WordCollection]变更名称
 #20265	[!LayoutKeyword]저장	[!WordCollection]保存
 #20266	[!LayoutKeyword]현 상태 저장	[!LayoutKeyword]保存
 #20267	[!Mastery]재빠른 날개짓	[!Mastery]快速的煽动翅膀
