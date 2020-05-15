@@ -2374,7 +2374,7 @@
 #9730	[!Sentence][!Dialog][!speaker:Albus_Fury]이 자리를 뜬다면 적대 행위로 간주하겠습니다!	[!Sentence][!BalloonChat][!speaker:Albus_Fury]如果离开这里就当你们是敌对的！
 #9731	[!Sentence][!BalloonChat][!speaker:Civil_Anne]다치셨네요!	[!Sentence][!BalloonChat][!speaker:Civil_Anne]你受伤啦！
 #9732	[!Sentence][!Dialog][!speaker:Alisa_Serious]비앙카 말이 심했어. 미안하네.	[!Sentence][!Dialog][!speaker:Alisa_Serious]比安科的话有点过分了。对不住。
-#9734	[!Sentence][!Dialog][!speaker:Ray_Normal]시민들 위험에 우리가 뛰어들 이유도 없고.	[!Sentence][!Dialog][!speaker:Ray_Serious]我们没理由救助市民们的危险啊。
+#9734	[!Sentence][!Dialog][!speaker:Ray_Normal]시민들 위험에 우리가 뛰어들 이유도 없고.	[!Sentence][!Dialog][!speaker:Ray_Serious]我们没理由营救市民们的危险啊。
 #9736	[!Sentence][!Dialog][!speaker:Albus_Surprise]아... 아까 그 아이...	[!Sentence][!Dialog][!speaker:Albus_Surprise]啊...刚才那个孩子...
 #9738	[!Sentence][!Dialog][!speaker:Leton_Smile]레이... 우리 일 바쁘다... 이럴 시간이 어딨어?	[!Sentence][!Dialog][!speaker:Leton_Smile]雷伊...我们的事情还有得忙呢...哪有时间做这个？
 #9740	[!Sentence][!Dialog][!speaker:Alisa_Rage]시민을 구해서 보람차듯 너와 함께 하는 사람들을 소중히 생각해	[!Sentence][!Dialog][!speaker:Alisa_Serious]就像救出市民让你觉得有成就感一样，请珍惜和你在一起的那些人吧
@@ -13999,10 +13999,10 @@
 #23929	[!Sentence][!Dialog][!speaker:Leton_Smile]OK! 트러블슈터. 우리는 이만 가 볼게~☆	[!Sentence][!Dialog][!speaker:Leton_Smile]OK！纷争终结者，那我们就回去了～☆
 #23930	[!Sentence][!Dialog][!speaker:Ray_Smile]트러블슈터 군. 다음에 봐~♡	[!Sentence][!Dialog][!speaker:Ray_Smile]那再会了。纷争终结者～♡
 #23933	[!Sentence][!Dialog][!speaker:Irene_Fury]이 악당 녀석! 남의 이름을 함부로 부르지 마라!	[!Sentence][!Dialog][!speaker:Irene_Fury]你这个恶徒！别乱叫我的名字！
-#23935	[!Sentence][!Dialog][!speaker:Albus_Doubt]시민을 구하려는 저희를 방해하는 사람이 악당이 아니면 무엇입니까!	[!Sentence][!Dialog][!speaker:Albus_Doubt]妨碍救助市民的人不是恶棍那是什么！
+#23935	[!Sentence][!Dialog][!speaker:Albus_Doubt]시민을 구하려는 저희를 방해하는 사람이 악당이 아니면 무엇입니까!	[!Sentence][!Dialog][!speaker:Albus_Doubt]妨碍营救市民的人不是恶棍那是什么！
 #23936	[!Sentence][!Dialog][!speaker:Albus_Serious]아이린 씨. 악당이 아니라면 증명하세요!!	[!Sentence][!Dialog][!speaker:Albus_Serious]艾琳，如果你不是恶徒就来证明一下吧！！
 #23937	[!Sentence][!Dialog][!speaker:Irene_Rage]내가 바로 히어로 아이린이야!	[!Sentence][!Dialog][!speaker:Irene_Rage]我就是英雄艾琳！
-#23938	[!Sentence][!Dialog][!speaker:Albus_Serious]시민을 구하려는 자를 공격하는 자는 히어로가 아닙니다!	[!Sentence][!Dialog][!speaker:Albus_Serious]妨碍救助市民的人才不是什么英雄！
+#23938	[!Sentence][!Dialog][!speaker:Albus_Serious]시민을 구하려는 자를 공격하는 자는 히어로가 아닙니다!	[!Sentence][!Dialog][!speaker:Albus_Serious]妨碍营救市民的人才不是什么英雄！
 #23939	[!Sentence][!Dialog][!speaker:Albus_Serious]그럼 시민 구출에 협력해주세요.	[!Sentence][!Dialog][!speaker:Albus_Serious]那就来帮忙营救市民吧。
 #23940	[!Sentence][!Dialog][!speaker:Irene_Lonesome]아니 그건...	[!Sentence][!Dialog][!speaker:Albus_Disappoint]额，那是...
 #23941	[!Sentence][!Dialog][!speaker:Irene_Heroic]알았다. 일단 시민 구출에 협력하마!	[!Sentence][!Dialog][!speaker:Irene_Heroic]知道了。现在先和你合作营救市民！
@@ -14061,7 +14061,7 @@
 #24021	[!Sentence][!BalloonChat][!speaker:Ray]생각보다 많이 지체되네...	[!Sentence][!BalloonChat][!speaker:Ray]会比想象的要晚很多...
 #24022	[!Sentence][!BalloonChat][!speaker:Ray]레톤 화 났겠는데...	[!Sentence][!BalloonChat][!speaker:Ray]莱顿肯定会很生气...
 #24025	[!Sentence][!Dialog][!speaker:Albus_Serious]네. 잘 알고 있습니다. 그러니 제 뒤를 맡기겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]嗯。我很清楚。那我的背后就交给你了。
-#24026	[!Sentence][!Dialog][!speaker:Irene_Fury]알았다. 빨리 시민들을 구하러 가자.	[!Sentence][!Dialog][!speaker:Irene_Fury]知道了，快去救助市民吧。
+#24026	[!Sentence][!Dialog][!speaker:Irene_Fury]알았다. 빨리 시민들을 구하러 가자.	[!Sentence][!Dialog][!speaker:Irene_Fury]知道了，快去营救市民吧。
 #24029	[!Sentence][!Dialog][!speaker:Albus_Normal]알겠습니다! 히어로 아이린 씨!	[!Sentence][!Dialog][!speaker:Albus_Normal]明白了！
 #24030	[!Sentence][!Dialog][!speaker:Irene_Rage]네 녀석! 아직 널 신뢰하는 게 아니야!	[!Sentence][!Dialog][!speaker:Irene_Rage]你这家伙！现在可还没完全信任你呢！
 #24031	[!Sentence][!Dialog][!speaker:Irene_Normal]자! 어서 빨리 시민들을 구하러 가자!	[!Sentence][!Dialog][!speaker:Irene_Normal]来！赶快去救市民吧！
@@ -16592,7 +16592,7 @@
 #26907	[!Sentence]카일리를 방어 팀으로 편성합니다.	[!Sentence]把凯莉编进防御队。
 #26909	[!Sentence][!Dialog][!speaker:Heissing_Smile]상관 없다.	[!Sentence][!Dialog][!speaker:Heissing_Smile]没关系。
 #26910	[!Sentence][!Dialog][!speaker:Giselle_Smile]그래. 그러면 잘 부탁해.	[!Sentence][!Dialog][!speaker:Giselle_Smile]好吧，那就拜托了。
-#26911	[!Sentence][!VictoryCondition]지젤 전투 불능	[!Sentence][!VictoryCondition]使吉赛尔战斗不能。
+#26911	[!Sentence][!VictoryCondition]지젤 전투 불능	[!Sentence][!VictoryCondition]使吉赛尔无法战斗。
 #26913	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]지젤 씨.	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]吉赛尔。
 #26914	[!Sentence][!Dialog][!speaker:Giselle_Smile2]응?	[!Sentence][!Dialog][!speaker:Giselle_Smile2]嗯？
 #26915	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]지젤 씨도 카일리가 구룡회 관계자인 거 알고 있었어?	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]吉赛尔也知道凯莉是九龙会有关人员的吗？
@@ -17375,8 +17375,8 @@
 #27817	[!Sentence][!Dialog][!speaker:Anne_Strict]넵!	[!Sentence][!Dialog][!speaker:Anne_Strict]是！
 #27818	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]제대로 월급 값 해줄게.	对的。
 #27819	[!Sentence][!Dialog][!speaker:Albus_Normal]그럼 지금부터 각자가 맡은 역할에 따라 백호파 토벌을 시작하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]那么从现在开始将围剿白虎组。
-#27820	[!Sentence][!VictoryCondition]북쪽 방어진 병력 전원 전투 불능	[!Sentence][!VictoryCondition]北方防御队全体兵力战斗不能
-#27821	[!Sentence][!VictoryCondition]남쪽 방어진 병력 전원 전투 불능	[!Sentence][!VictoryCondition]南方防御队全体兵力战斗不能
+#27820	[!Sentence][!VictoryCondition]북쪽 방어진 병력 전원 전투 불능	[!Sentence][!VictoryCondition]北方防御队全体兵力无法战斗
+#27821	[!Sentence][!VictoryCondition]남쪽 방어진 병력 전원 전투 불능	[!Sentence][!VictoryCondition]南方防御队全体兵力无法战斗
 #27822	[!Sentence][!Title]막판 뒤집기	[!Sentence][!Title]最后翻盘
 #27823	[!Sentence][!Title]시장 선거 3일 전,	[!Sentence][!Title]市长选举3天前
 #27824	[!Sentence][!Dialog][!speaker:MayorSecretary_Normal]바람장벽지구 경찰청에서 지역 범죄 조직인 백호파의 보스 푸를 체포하였습니다.	[!Sentence][!Dialog][!speaker:MayorSecretary_Normal]风之壁地区警察厅逮捕了犯罪组织白虎组的首领普。
