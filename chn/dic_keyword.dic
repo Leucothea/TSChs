@@ -16,7 +16,7 @@
 #50	[!Ability]드롭킥	[!Ability]拋踢
 #54	[!Ability]팔방 사격	[!Ability]八方射击
 #56	[!Ability]신뢰의 물약	[!Ability]信赖药剂
-#60	[!Ability]화염구	[!Ability]火焰球
+#60	[!Ability]화염구	[!Ability]火球
 #62	[!Ability]폭죽탄	[!Ability]爆竹弹
 #65	[!Ability]레서류 3식 - 수직하강	[!Ability]蕾西流3式 - 垂直下降
 #67	[!Ability]레서류 1식 - 레서킥	[!Ability]蕾西流1式 - 蕾西踢
@@ -623,7 +623,7 @@
 #1379	[!Mastery]타격 내성 II	[!Mastery]打击耐性(二)
 #1380	[!Mastery]타격 내성 III	[!Mastery]打击耐性(三)
 #1383	[!Mastery]신체 단련	[!Mastery]体质锻炼
-#1386	[!Mastery]사무치는 냉기	[!Mastery]彻骨的寒冷
+#1386	[!Mastery]사무치는 냉기	[!Mastery]彻骨之寒
 #1389	[!Mastery]탁월한 도약	[!Mastery]身轻如燕
 #1391	[!Mastery]뛰어난 발걸음	[!Mastery]健步如飞
 #1394	[!Mastery]미풍	[!Mastery]呼风
@@ -642,7 +642,7 @@
 #1438	[!Mastery]견제 공격	[!Mastery]牵制攻击
 #1441	[!Mastery]반격	[!Mastery]反击
 #1444	[!Mastery]고객 만족	[!Mastery]顾客是上帝
-#1446	[!Mastery]춤추는 불꽃	[!Mastery]舞动的火花
+#1446	[!Mastery]춤추는 불꽃	[!Mastery]飞舞之火
 #1448	[!Mastery]냉철함	[!Mastery]冷峻
 #1451	[!Mastery]사신의 향	[!Mastery]死神之香
 #1454	[!Mastery]왜곡장	[!Mastery]畸变场
@@ -656,7 +656,7 @@
 #1478	[!Mastery]에너지 수트	[!Mastery]能量护具
 #1481	[!Mastery]강화 수트	[!Mastery]强化护具
 #1483	[!Mastery]독 바르기	[!Mastery]淬毒
-#1485	[!Mastery]꺼지지 않는 불꽃	[!Mastery]不灭的火花
+#1485	[!Mastery]꺼지지 않는 불꽃	[!Mastery]不灭之火
 #1488	[!Mastery]처형인	[!Mastery]断头台
 #1491	[!Mastery]전문 지식	[!Mastery]专业知识
 #1497	[!Mastery]순풍	[!Mastery]顺风
@@ -667,11 +667,11 @@
 #1506	[!Mastery]화염 내성 III	[!Mastery]火焰耐性(三)
 #1509	[!Mastery]응급 치료	[!Mastery]紧急治疗
 #1512	[!Mastery]고정 사격	[!Mastery]稳固射击
-#1515	[!Mastery]불꽃 충돌	[!Mastery]火花冲突
+#1515	[!Mastery]불꽃 충돌	[!Mastery]冲击之焰
 #1521	[!Mastery]기선 제압	[!Mastery]先发制人
-#1523	[!Mastery]서리검	[!Mastery]冰霜剑
+#1523	[!Mastery]서리검	[!Mastery]冰霜之剑
 #1526	[!Mastery]얼어붙은 심장	[!Mastery]冻结之心
-#1529	[!Mastery]얼어붙은 낫	[!Mastery]冻结之镰
+#1529	[!Mastery]얼어붙은 낫	[!Mastery]冰霜之镰
 #1531	[!Mastery]얼어붙은 손길	[!Mastery]冻结之手
 #1534	[!Mastery]거인사냥꾼	[!Mastery]巨人猎手
 #1537	[!Mastery]법의 수호자	[!Mastery]法律守护者
@@ -689,17 +689,17 @@
 #1576	[!Mastery]신속	[!Mastery]迅捷
 #1578	[!Mastery]치고 빠지기	[!Mastery]一击即离
 #1584	[!Mastery]사냥개	[!Mastery]猎犬
-#1586	[!Mastery]얼음 파편	[!Mastery]寒冰碎片
+#1586	[!Mastery]얼음 파편	[!Mastery]冰霜碎片
 #1588	[!Mastery]얼음 내성 I	[!Mastery]寒冰耐性(一)
 #1589	[!Mastery]얼음 내성 II	[!Mastery]寒冰耐性(二)
 #1590	[!Mastery]얼음 내성 III	[!Mastery]寒冰耐性(三)
-#1592	[!Mastery]얼음 방패	[!Mastery]寒冰盾牌
+#1592	[!Mastery]얼음 방패	[!Mastery]冰霜之盾
 #1595	[!Mastery]얼음 가죽	[!Mastery]寒冰皮革
 #1598	[!Mastery]몰입	[!Mastery]投入
 #1601	[!Mastery]충격장	[!Mastery]冲击场
 #1604	[!Mastery]개인주의	[!Mastery]个人主义
 #1607	[!Mastery]불굴의 의지	[!Mastery]不屈意志
-#1610	[!Mastery]내면의 불꽃	[!Mastery]内心的火花
+#1610	[!Mastery]내면의 불꽃	[!Mastery]内心之火
 #1613	[!Mastery]내면의 평화	[!Mastery]心如止水
 #1615	[!Mastery]통찰	[!Mastery]洞察
 #1617	[!Mastery]강철 장벽	[!Mastery]钢铁墙壁
@@ -717,7 +717,7 @@
 #1647	[!Mastery]번개 가죽	[!Mastery]闪电皮革
 #1650	[!Mastery]고독한 히어로	[!Mastery]英雄寂寞
 #1653	[!Mastery]외톨이 늑대	[!Mastery]孤狼
-#1656	[!Mastery]증오의 군주	[!Mastery]憎恨的君主
+#1656	[!Mastery]증오의 군주	[!Mastery]憎恨之主
 #1659	[!Mastery]행운의 숫자 8	[!Mastery]幸运数字(八)
 #1661	[!Mastery]행운의 숫자 9	[!Mastery]幸运数字(九)
 #1663	[!Mastery]행운의 숫자 7	[!Mastery]幸运数字(七)
@@ -752,11 +752,11 @@
 #1750	[!Mastery]인과율	[!Mastery]因果律
 #1752	[!Mastery]번영	[!Mastery]繁荣
 #1757	[!Mastery]방화광	[!Mastery]纵火狂
-#1759	[!Mastery]사나운 불꽃	[!Mastery]凶猛的火花
+#1759	[!Mastery]사나운 불꽃	[!Mastery]凶暴之火
 #1762	[!Mastery]신속한 대응	[!Mastery]鬼出电入
 #1764	[!Mastery]은둔자	[!Mastery]隐者
 #1767	[!Mastery]분쇄	[!Mastery]碎劲
-#1772	[!Mastery]울부짖는 불길	[!Mastery]咆哮的火光
+#1772	[!Mastery]울부짖는 불길	[!Mastery]咆哮之焰
 #1776	[!Mastery]현자	[!Mastery]贤者
 #1779	[!Mastery]청소부	[!Mastery]清道夫
 #1782	[!Mastery]두 번째 심장	[!Mastery]第二心脏
@@ -1239,7 +1239,7 @@
 #3067	[!WordCollection]명중률	[!WordCollection]命中率
 #3068	[!WordCollection]종족면역	[!WordCollection]种族免疫
 #3069	[!WordCollection]정보 획득	[!WordCollection]获得信息
-#3070	[!WordCollection]내면의 불꽃	[!WordCollection]内心的火花
+#3070	[!WordCollection]내면의 불꽃	[!WordCollection]内心之火
 #3071	[!WordCollection]인터페이스	[!WordCollection]界面
 #3072	[!WordCollection]물품 목록	[!WordCollection]物品列表
 #3074	[!WordCollection]아이템 구성 소재	[!WordCollection]物品构成素材
@@ -1726,7 +1726,7 @@
 #3831	[!Ability]해당 지역에 소용돌이를 일으켜 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]在该地区形成漩涡，造成$DamageAmount$的$DamageType$伤害。
 #3839	[!Ability]얼음창	[!Ability]寒冰枪
 #3848	[!Ability]기력을 모두 회복합니다.	[!Ability]恢复全部气力。
-#3852	[!Ability]타오르는 불길	[!Ability]燃烧的火光
+#3852	[!Ability]타오르는 불길	[!Ability]燃烧之焰
 #3859	[!Ability]목표물에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]对目标造成$DamageAmount$的$DamageType$伤害。
 #3861	[!Ability]전방으로 화염을 발사하여 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向前方发射火焰，造成$DamageAmount$的$DamageType$伤害。
 #3863	[!Ability]목표 대상에게 강력한 연타를 날려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向目标进行强力的连击，造成$DamageAmount$的$DamageType$伤害。
@@ -3320,7 +3320,7 @@
 #6395	[!Item]훈련서	[!Item]训练书
 #6397	[!Item]'블랙펄' 팀 운동화	[!Item]「黑珍珠」组运动鞋
 #6398	[!Item]트러블슈터 '블랙펄'에서 활동하는 트러블슈터를 위해 자체 제작한 팀화. 지면에 닿는 마찰력에 대한 사용자의 부담을 최소화하여 활동성을 높였다.	[!Item]为在纷争终结者「黑珍珠」中效力的纷争终结者们而定制的鞋子。降低了以接触地面而产生的摩擦力，最小化了用户负担，提升了活动性。
-#6399	[!Item]교육을 목적으로 각종 정보를 기록하는 문서.	[!Item]记录教育为目的的各类信息的文档。
+#6399	[!Item]교육을 목적으로 각종 정보를 기록하는 문서.	[!Item]记录教育为目的各类信息的文档。
 #6402	[!LobbyIdleMessage][!speaker:Albus]벌써 이곳에서 10년이나 지냈구나.	[!LobbyIdleMessage]在这里都住了十年了。
 #6403	[!LobbyIdleMessage][!speaker:Albus]어릴 적엔 이곳이 답답하기만 느껴졌었는데...	[!LobbyIdleMessage]小时候总觉得这里很憋屈...
 #6404	[!LobbyIdleMessage][!speaker:Albus]동네 분들에게 다들 인사드려야겠어...	[!LobbyIdleMessage]得去和邻居们打个招呼...
@@ -4332,11 +4332,11 @@
 #7851	[!Mastery]모험가	[!Mastery]冒险家
 #7853	[!Mastery]카리스마	[!Mastery]魄力
 #7855	[!Mastery]상처 깊숙이 불꽃을 넣어주마	[!Mastery]让火花深入你的伤口吧
-#7856	[!Mastery]화염 쐐기	[!Mastery]火焰锥
+#7856	[!Mastery]화염 쐐기	[!Mastery]焰楔
 #7858	[!Mastery]그대로 모두 얼어버려라	[!Mastery]就那么化为冰雕吧
-#7859	[!Mastery]얼음 쐐기	[!Mastery]寒冰锥
+#7859	[!Mastery]얼음 쐐기	[!Mastery]冰楔
 #7861	[!Mastery]전신을 흐르는 고통을 느끼게해주마.	[!Mastery]感受一下流遍全身的痛苦吧。
-#7862	[!Mastery]번개 쐐기	[!Mastery]闪电锥
+#7862	[!Mastery]번개 쐐기	[!Mastery]雷楔
 #7864	[!Mastery]노력하는 자만이 쟁취할 수 있는 것이지.	[!Mastery]那是真正努力的人才能争取的。
 #7865	[!Mastery]행운	[!Mastery]幸运
 #7866	[!Mastery]단 하루도 쉬지 않고 단련하는 것이 강함으로 가는 지름길이다.	[!Mastery]一日不断地坚持锻炼，是通往强大的近路。
@@ -4347,9 +4347,9 @@
 #7871	[!Mastery]회복력	[!Mastery]恢复力
 #7872	[!Mastery]고난은 튼튼함을 보여줄 수 있는 좋은 기회지.	[!Mastery]苦难是能展现强韧的好机会。
 #7873	[!Mastery]튼튼함	[!Mastery]强韧
-#7875	[!DirectDamageType]화염 쐐기	[!DirectDamageType]火焰锥
-#7876	[!DirectDamageType]얼음 쐐기	[!DirectDamageType]寒冰锥
-#7877	[!DirectDamageType]번개 쐐기	[!DirectDamageType]闪电锥
+#7875	[!DirectDamageType]화염 쐐기	[!DirectDamageType]焰楔
+#7876	[!DirectDamageType]얼음 쐐기	[!DirectDamageType]冰楔
+#7877	[!DirectDamageType]번개 쐐기	[!DirectDamageType]雷楔
 #7878	[!GuideMessage]$Name$ $MasteryName$ 특성 발동 ▶ $TargetName$ $Damage$ 피해를 입었습니다.	[!GuideMessage]$Name$$MasteryName$天赋发动▶$TargetName$受到$Damage$伤害。
 #7882	[!CompanyStatus]불법 시설 철거 보상	[!CompanyStatus]拆除违建设施奖励
 #7883	[!CompanyStatus]시민 구조 보상	[!CompanyStatus]营救市民奖励
@@ -4370,7 +4370,7 @@
 #7913	[!RestAction]훈계	[!RestAction]训诫
 #7914	[!SystemMenu]승리 조건	[!SystemMenu]胜利条件
 #7916	[!WordCollection]견제 공격	[!WordCollection]牵制攻击
-#7920	[!Ability]거대한 화염구	[!Ability]巨大的火焰球
+#7920	[!Ability]거대한 화염구	[!Ability]巨型火球
 #7921	[!Ability]범위 내의 적을 제외한 모든 대상들의 체력을 $DamageAmount$ 회복합니다.	[!Ability]为目标范围内除了敌人以外的所有对象的恢复$DamageAmount$的体力。
 #7927	[!Mission]앨리 과격파가 숨겨둔 상자 찾기	[!Mission]请寻找艾利激进派隐藏起来的宝箱
 #7928	[!Rest]나도 알만한 건 다 아는데...	[!Rest]该知道的我都知道了...
@@ -4716,7 +4716,7 @@
 #8446	[!Mastery]발전기	[!Mastery]发电装置
 #8448	[!Mastery]얼음의 가호	[!Mastery]冰之护佑
 #8450	[!Mastery]자네가 바로 우리의 마지막 희망일세.	[!Mastery]你就是我们最后的希望啊。
-#8451	[!Mastery]마지막 불꽃	[!Mastery]最后的火花
+#8451	[!Mastery]마지막 불꽃	[!Mastery]终末之火
 #8453	[!Mastery]번개의 가호	[!Mastery]雷之护佑
 #8455	[!Mastery]물의 가호	[!Mastery]水之护佑
 #8457	[!Mastery]바람의 가호	[!Mastery]风之护佑
@@ -5531,13 +5531,13 @@
 #9615	[!Ability]대지에 균열을 일으켜 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]在大地上引起皲裂造成$DamageAmount$的$DamageType$伤害。
 #9616	[!Ability]자신의 주위로 지진을 일으켜 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]在自己的周围引发地震，造成$DamageAmount$的$DamageType$伤害。
 #9617	[!Ability]8 방향의 목표물에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]给八方的目标造成$DamageAmount$的$DamageType$伤害。
-#9618	[!Ability]넓은 지역에 화염구를 떨어뜨려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]在宽阔的区域落下火焰球，造成$DamageAmount$的$DamageType$伤害。
-#9619	[!Ability]화염구를 날려 목표 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向目标发出火焰球造成$DamageAmount$的$DamageType$伤害。
-#9620	[!Ability]거대한 화염구를 날려 일직선 상의 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]发出巨大的火焰球，使一条直线上的目标造成$DamageAmount$的$DamageType$伤害。
+#9618	[!Ability]넓은 지역에 화염구를 떨어뜨려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]在宽阔的区域落下火球，造成$DamageAmount$的$DamageType$伤害。
+#9619	[!Ability]화염구를 날려 목표 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向目标发出火球造成$DamageAmount$的$DamageType$伤害。
+#9620	[!Ability]거대한 화염구를 날려 일직선 상의 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]发出巨大的火球，使一条直线上的目标造成$DamageAmount$的$DamageType$伤害。
 #9621	[!Ability]공중 제비를 통한 강력한 발차기로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]通过凌空后翻进行强力的脚踢造成$DamageAmount$的$DamageType$伤害。
 #9622	[!Ability]전방을 향한 강력한 박치기로 돌진 방향의 모든 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]击向前方的强力冲撞将突进方向上的所有目标造成$DamageAmount$的$DamageType$伤害。
 #9623	[!Ability]주위의 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]给周围的敌人造成$DamageAmount$的$DamageType$伤害。
-#9624	[!Ability]목표 대상에게 불꽃을 날려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向目标发出火焰球造成$DamageAmount$的$DamageType$伤害。
+#9624	[!Ability]목표 대상에게 불꽃을 날려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向目标发出火球造成$DamageAmount$的$DamageType$伤害。
 #9625	[!Ability]번개의 힘을 집중시킨 강력한 일격을 날려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]发动汇聚了闪电之力的强力一击造成$DamageAmount$的$DamageType$伤害。
 #9626	[!Ability]목표 대상에게 강력한 검기를 날려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向目标发出强力的剑气，造成$DamageAmount$的$DamageType$伤害。
 #9627	[!Ability]목표 범위 내 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다. 폭발 가능 대상을 비활성화시킵니다.	[!Ability]为目标范围内的对象造成$DamageAmount$的$DamageType$伤害。停用可爆炸的目标。
@@ -6531,7 +6531,7 @@
 #11156	[!Mastery]척탄 가방	[!Mastery]掷弹包
 #11158	[!Mastery]한 발 더 나아가면 하나 더 얻을 수 있다.	[!Mastery]越往前走一步，就越能得到一个。
 #11159	[!Mastery]멀리 던지기	[!Mastery]远距离投掷
-#11161	[!Mastery]절규하는 불길	[!Mastery]呐喊的火光
+#11161	[!Mastery]절규하는 불길	[!Mastery]尖叫之焰
 #11163	[!MasteryType]척탄병	[!MasteryType]掷弹兵
 #11164	[!MasteryType]수호자	[!MasteryType]守护者
 #11165	[!MasteryType]상인	[!MasteryType]商人
@@ -7418,7 +7418,7 @@
 #12411	[!Item]서리 가죽	[!Item]霜雪皮革
 #12412	[!Item]불꽃 가죽	[!Item]火花皮革
 #12413	[!Item]섬광 가죽	[!Item]闪光皮革
-#12414	[!MissionType]범죄 사건이 아닌 훈련을 목적으로 하는 의뢰입니다.	[!MissionType]与犯罪事件无关，以训练为目的的委托。
+#12414	[!MissionType]범죄 사건이 아닌 훈련을 목적으로 하는 의뢰입니다.	[!MissionType]与犯罪事件无关，以训练为目的委托。
 #12415	[!MissionType]훈련	[!MissionType]训练
 #12416	[!SystemMail][colour='FFFFE959']안녕하십니까? $CompanyName$ 담당자님.<br><br>바람장벽지구 발할라 경찰청 [colour='FFFFFFFF']동계 훈련[colour='FFFFE959']에 참여해 주셔서 감사합니다.<br><br>훈련 참여 보상을 지급합니다.<br><br>여러분의 꾸준한 활동을 바라겠습니다.	[!SystemMail][colour='FFFFE959']你好？ $CompanyName$的负责人。<br><br>感谢您参加风之壁地区巴赫拉警察厅的[colour='FFFFFFFF']冬季训练[colour='FFFFE959']。<br><br>现发放参加训练奖励。<br><br>以资鼓励。
 #12417	[!SystemMail]동계 훈련에 참여해주셔서 감사합니다.	[!SystemMail]感谢您参加冬季训练。
@@ -7742,15 +7742,15 @@
 #13413	[!WordCollection][!Menu]충성도	[!WordCollection][!Menu]忠诚度
 #13414	[!WordCollection]저격 대상	[!WordCollection]狙击目标
 #13415	[!Ability]긴 혀를 이용해 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]使用长舌头造成$DamageAmount$的$DamageType$伤害。
-#13416	[!Ability]강철 채찍	[!Ability]钢铁鞭子
-#13417	[!Ability]커다란 강철 채찍	[!Ability]巨大的钢铁鞭子
-#13418	[!Ability]커다란 불꽃 채찍	[!Ability]巨大的火花鞭子
-#13419	[!Ability]커다란 얼음 채찍	[!Ability]巨大的寒冰鞭子
-#13420	[!Ability]커다란 섬광 채찍	[!Ability]巨大的闪光鞭子
-#13421	[!Ability]커다란 안개 채찍	[!Ability]巨大的雾霭鞭子
-#13423	[!Ability]불꽃 채찍	[!Ability]火花鞭子
-#13424	[!Ability]섬광 채찍	[!Ability]闪光鞭子
-#13425	[!Ability]안개 채찍	[!Ability]雾霭鞭子
+#13416	[!Ability]강철 채찍	[!Ability]钢铁之鞭
+#13417	[!Ability]커다란 강철 채찍	[!Ability]巨型钢铁之鞭
+#13418	[!Ability]커다란 불꽃 채찍	[!Ability]巨型火花之鞭
+#13419	[!Ability]커다란 얼음 채찍	[!Ability]巨型寒冰之鞭
+#13420	[!Ability]커다란 섬광 채찍	[!Ability]巨型闪光之鞭
+#13421	[!Ability]커다란 안개 채찍	[!Ability]巨型雾霭之鞭
+#13423	[!Ability]불꽃 채찍	[!Ability]火花之鞭
+#13424	[!Ability]섬광 채찍	[!Ability]闪光之鞭
+#13425	[!Ability]안개 채찍	[!Ability]雾霭之鞭
 #13426	[!Ability]산성 폭발을 일으켜 목표 범위 내 모든 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다. 산성 구름에 닿으면 $ApplyBuff$ 상태가 됩니다.	[!Ability]造成酸性爆炸，对目标范围内的所有敌人造成$DamageAmount$的$DamageType$伤害。接触酸性雾霭时将触发$ApplyBuff$ 状态。
 #13427	[!Ability]산성 폭발	[!Ability]酸性爆发
 #13429	[!Ability]집중의 노래	[!Ability]集中歌曲
@@ -7991,8 +7991,8 @@
 #13732	[!Mastery]하늘 위의 사냥꾼	[!Mastery]天空猎手
 #13735	[!Mastery]하늘 위를 걷는 자	[!Mastery]天空行者
 #13737	[!Mastery]수면 위의 사냥꾼	[!Mastery]水行猎手
-#13738	[!Mastery]극염	[!Mastery]极热
-#13739	[!Mastery]극한	[!Mastery]极寒
+#13738	[!Mastery]극염	[!Mastery]究极之火
+#13739	[!Mastery]극한	[!Mastery]究极之冰
 #13741	[!Mastery]넘치는 기백	[!Mastery]气魄充盈
 #13743	[!Mastery]이상은 인생을 이끄는 별과 같다	[!Mastery]这就像引导人生的星星
 #13744	[!Mastery]길잡이	[!Mastery]引路人
@@ -8040,7 +8040,7 @@
 #13809	[!Status]최대 기력	[!Status]最大气力
 #13810	[!Status]최대 연료	[!Status]最大燃料
 #13811	[!Status]최대 분노	[!Status]最大愤怒
-#13812	[!DirectDamageType]재생의 불꽃	[!DirectDamageType]苏生的火花
+#13812	[!DirectDamageType]재생의 불꽃	[!DirectDamageType]苏生之火
 #13813	[!GuideMessage]$Title$ 시간에는 $Name$[를] 소환할 수 없습니다.	[!GuideMessage]$Title$的时候是无法召唤$Name$。
 #13814	[!GuideMessage]$Title$ 온도에서는 $Name$[를] 소환할 수 없습니다.	[!GuideMessage]$Title$的温度是无法召唤$Name$。
 #13815	[!GuideMessage]$Title$ 날씨에서는 $Name$[를] 소환할 수 없습니다.	[!GuideMessage]$Title$的天气是无法召唤$Name$。
@@ -8050,20 +8050,20 @@
 #13820	[!KeyBinding]야수 목록 보기	[!KeyBinding]查看野兽目录
 #13821	[!Loading]다시 함께	[!Loading]重新在一起
 #13825	[!Mastery]타올라라!	[!Mastery]燃烧吧！
-#13826	[!Mastery]소각의 희열	[!Mastery]烧毁的喜悦
+#13826	[!Mastery]소각의 희열	[!Mastery]烬灭之心
 #13827	[!Mastery]적에게 피해를 입을 시, 공격한 대상은 무작위의 정신적인 상태 이상이 발생합니다.	[!Mastery]受到来自敌人的伤害时，攻击方进入随机的精神异常状态。
 #13828	[!Mastery]당신을 용서할 수 없어.	[!Mastery]不可原谅。
 #13829	[!Mastery]저주	[!Mastery]诅咒
 #13831	[!Mastery]가장 뜨거운 불꽃을 원해!	[!Mastery]期望最炙热的火焰！
-#13832	[!Mastery]재생의 불꽃	[!Mastery]苏生的火焰
+#13832	[!Mastery]재생의 불꽃	[!Mastery]苏生之焰
 #13835	[!Mastery]순식간에 터져 버리지.	[!Mastery]会瞬间炸掉。
 #13836	[!Mastery]고전압	[!Mastery]电压尖峰
 #13838	[!Mastery]모든 것이 사라질 것이다.	[!Mastery]一切都会消失的。
 #13839	[!Mastery]소각	[!Mastery]焚尽
 #13843	[!Mastery]승리를 의심하지 않는다.	[!Mastery]坚信胜利。
 #13844	[!Mastery]사기충천	[!Mastery]冲霄之气
-#13845	[!Mastery]극뢰	[!Mastery]极雷
-#13846	[!Mastery]심해	[!Mastery]深渊
+#13845	[!Mastery]극뢰	[!Mastery]究极之雷
+#13846	[!Mastery]심해	[!Mastery]究极之水
 #13849	[!Mastery]독을 사용하는 법을 알려주지.	[!Mastery]让我教你怎么用毒。
 #13850	[!Mastery]독의 고통	[!Mastery]苦痛之毒
 #13851	[!Mastery]물에서 물로	[!Mastery]水之道
@@ -8165,7 +8165,7 @@
 #13984	[!Mastery]야수 조련사	[!Mastery]野兽饲育
 #13988	[!Mastery]너 하나만을 위해 내가 얼마나 노력했는지 알아!	[!Mastery]为了你一个，我做了多少努力你知道吗！
 #13989	[!Mastery]괴수 조련사	[!Mastery]驯兽宗师
-#13990	[!Mastery]신록	[!Mastery]葱绿
+#13990	[!Mastery]신록	[!Mastery]究极之土
 #13992	[!Mastery]나보다 강한 자에게 굴하지 않는다.	[!Mastery]我不会屈服于强者。
 #13993	[!Mastery]저항 의지	[!Mastery]反抗意志
 #13997	[!Mastery]당신이 쫓고 있는 것은 존재하지 않는 것이다.	[!Mastery]你跟踪的是虚无之物。
@@ -8343,8 +8343,8 @@
 #14275	[!Ability]넓은 지역에 얼음비를 떨어뜨려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]在广阔的范围内投放冻雨，造成$DamageAmount$的$DamageType$伤害。
 #14276	[!Ability]얼음비	[!Ability]冻雨
 #14277	[!Ability]분노를 불꽃으로 바꿔 $ApplyBuff$ 상태가 됩니다.<br><br>$Perano$$ApplyBuff$ 상태가 해제된 이후 부터 어빌리티 재사용 대기 시간이 적용됩니다.$Blue_ON$	[!Ability]将怒气转换为火焰，进入$ApplyBuff$状态。<br><br>$Perano$$ApplyBuff$状态被解除后技能冷却开始计时。$Blue_ON$
-#14278	[!Ability]분노의 불꽃	[!Ability]愤怒的火花
-#14279	[!Ability]분노의 불꽃 해제	[!Ability]解除愤怒的火花
+#14278	[!Ability]분노의 불꽃	[!Ability]愤怒之焰
+#14279	[!Ability]분노의 불꽃 해제	[!Ability]解除愤怒之焰
 #14280	[!Ability]분노를 한기로 바꿔 $ApplyBuff$ 상태가 됩니다.<br><br>$Perano$$ApplyBuff$ 상태가 해제된 이후 부터 어빌리티 재사용 대기 시간이 적용됩니다.$Blue_ON$	[!Ability]将怒气转换为寒气，进入$ApplyBuff$状态。<br><br>$Perano$$ApplyBuff$状态被解除后技能冷却开始计时。$Blue_ON$
 #14281	[!Ability]분노의 한기	[!Ability]愤怒的寒气
 #14282	[!Ability]분노의 한기 해제	[!Ability]解除愤怒的寒气
@@ -8559,7 +8559,7 @@
 #14595	[!Mastery]너희는 아직 준비가 안됐다.	[!Mastery]你们还没有准备好。
 #14596	[!Mastery]눈보라	[!Mastery]暴风雪
 #14607	[!Mastery]널 용서할 수 있는 순간까지 태워주마	[!Mastery]烧到可以原谅你的时刻为止。
-#14608	[!Mastery]복수의 불꽃	[!Mastery]复仇的火花
+#14608	[!Mastery]복수의 불꽃	[!Mastery]复仇之火
 #14611	[!Mastery]단 한 번만 버티면 된다.	[!Mastery]只要挺过一次就行。
 #14612	[!Mastery]모래성	[!Mastery]黄砂之城
 #14618	[!WordCollection]턴 대기 시간	[!WordCollection]回合冷却时间
@@ -8791,7 +8791,7 @@
 #14892	[!Mastery]기다려! 지금이다! 물어와!	[!Mastery]等等！就是现在！去咬过来！
 #14893	[!Mastery]사냥꾼과 사냥개	[!Mastery]完美拍档
 #14894	[!Mastery]얼어 붙은 네 가슴 속에서 자라난 녀석들이다.	[!Mastery]是在你那冻僵的心中长出来的家伙们啊。
-#14895	[!Mastery]얼음 병사	[!Mastery]寒冰战士
+#14895	[!Mastery]얼음 병사	[!Mastery]霜寒战士
 #14898	[!Mastery]절대 빠져나갈 수 없어.	[!Mastery]绝对逃不出。
 #14899	[!Mastery]강력한 덫	[!Mastery]陷阱强化
 #14905	[!ObjectInfo]자베르	[!ObjectInfo]沙威
@@ -9776,7 +9776,7 @@
 #16274	[!Item]듀나메스 저격총 L 헌정판 - 제프	[!Item]杜纳梅斯狙击步枪L巨献版 - 杰夫
 #16275	[!Item]제프는 발할라 붉은 광산 지구 사냥 대회의 3년 연속 우승으로 사냥꾼의 인장을 받게 된다. 그리고 후원사였던 듀나메스 사는 그의 영광을 기리기 위해 자신들의 기술력이 담긴 최고의 한정을 그에게 선사한다.	[!Item]杰夫连续3年拿到巴赫拉红矿地区狩猎大会冠军而获得了猎人印章。赞助方杜纳梅斯为了纪念他的荣耀，给他献上了技术含量最高的巨献荣誉。
 #16277	[!Mastery]결국 마지막에 남는 것은 재뿐이다.	[!Mastery]最后剩下的只有灰烬。
-#16278	[!Mastery]타오르는 숨결	[!Mastery]燃烧的气息
+#16278	[!Mastery]타오르는 숨결	[!Mastery]灼热之息
 #16279	[!Mastery]시간은 모든 것을 파괴시킨다.	[!Mastery]时间能摧毁一切。
 #16280	[!Mastery]부식독	[!Mastery]腐蚀毒
 #16281	[!Mastery]지키지 못하는 자에겐 미래는 없다.	[!Mastery]守不住的人没有未来。
@@ -9786,17 +9786,17 @@
 #16286	[!Mastery]우리에게 모든 것을 베풀어주시네.	[!Mastery]一切都赐给了我们
 #16287	[!Mastery]풍요의 여신	[!Mastery]丰饶女神
 #16289	[!Mastery]과거의 기억은 언제나 자신을 사로잡는 고통이 되지.	[!Mastery]过去的记忆总是会成为自己的痛苦。
-#16290	[!Mastery]심연의 불꽃	[!Mastery]深渊的火花
+#16290	[!Mastery]심연의 불꽃	[!Mastery]深渊之火
 #16292	[!Mastery]흘러 내린 피의 기억은 지워지지 않습니다.	[!Mastery]染血的记忆是不可抹去的。
 #16293	[!Mastery]흐르는 피	[!Mastery流动之血
 #16295	[!Mastery]묻어두고 싶은 기억은 방심하는 순간, 네 머릿속을 지배하지.	[!Mastery]那些隐藏的记忆在你放松警惕的瞬间会控制你的脑海。
-#16296	[!Mastery]절망의 한기	[!Mastery]绝望的的寒气
+#16296	[!Mastery]절망의 한기	[!Mastery]绝望之寒
 #16297	[!Mastery]얼어붙은 모든 것은 동작하지 않기 마련이지.	[!Mastery]被冻结的东西当然起不了任何作用。
-#16298	[!Mastery]얼어붙은 숨결	[!Mastery]冻结的气息
+#16298	[!Mastery]얼어붙은 숨결	[!Mastery]冻结之息
 #16300	[!Mastery]절대 인간을 얕보지 마라.	[!Mastery]千万不要小看人类。
 #16301	[!Mastery]인간사냥꾼	[!Mastery]人类猎手
 #16303	[!Mastery]한 순간이지만 그 견고함은 누구보다 강하다.	[!Mastery]虽然只是一瞬间，但是其坚固性比谁都强大。
-#16304	[!Mastery]얼음성	[!Mastery]冰城
+#16304	[!Mastery]얼음성	[!Mastery]冰霜之城
 #16306	[!Mastery]영웅은 전설을 파괴함으로써 전설을 만든다. 	[!Mastery]英雄就是打破传说创造传奇。
 #16307	[!Mastery]전설사냥꾼	[!Mastery]传奇猎手
 #16309	[!Mastery]이리온. 아가야.	[!Mastery]来吧，孩子。
@@ -9896,7 +9896,7 @@
 #16440	[!Loading]메트로디움 거주구	[!Site]梅特罗迪翁居民区
 #16441	[!Loading]그림자 장벽 지하수로	[!Loading]影壁地下水道
 #16442	[!Loading]꼬리 자르기	[!Loading]断尾求生
-#16443	[!Mastery]극풍	[!Mastery]极风
+#16443	[!Mastery]극풍	[!Mastery]究极之风
 #16444	[!Mission]메트로디움 거주구	[!Site]梅特罗迪翁居民区
 #16445	[!Mission]그림자 장벽 지하수로	[!Mission]影壁地下水道
 #16446	[!ObjectInfo]거미줄 드론	[!ObjectInfo]蛛网无人机
@@ -10293,19 +10293,19 @@
 #16903	[!GuideMessage][colour='FFFFFF00']출현 지역 정보가 모두 공개됩니다.[colour='FFFFFFFF']<br>보상 받기를 통하여 %s 을 입수할 수 있습니다.	[!GuideMessage][colour='FFFFFF00']可能的出场地区已被公开。[colour='FFFFFFFF']<br>可通过下方的「获取奖励」来获得%s。
 #16904	[!Mastery]혼신의 일격	[!Mastery]全力一击
 #16905	[!Mastery]무조건 공격이다.	[!Mastery]不管别的就是攻击。
-#16910	[!Mastery]불꽃 쐐기	[!Mastery]红焰锥
+#16910	[!Mastery]불꽃 쐐기	[!Mastery]红焰之楔
 #16911	[!Mastery]다 타버린 희망을 절망이라고 부르지.	[!Mastery]燃烧殆尽的希望叫做绝望。
-#16913	[!Mastery]불꽃놀이	[!Mastery]烟花
+#16913	[!Mastery]불꽃놀이	[!Mastery]烟花绚烂
 #16914	[!Mastery]심연 속에서 피어오르는 한 순간을 위하여 모든 것을 바친다.	[!Mastery]为在深渊中升起的一瞬间而献出一切。
-#16916	[!Mastery]불꽃의 군주	[!Mastery]火焰之君主
+#16916	[!Mastery]불꽃의 군주	[!Mastery]厉火之主
 #16917	[!Mastery]증오로 가득한 불꽃은 심연 속에서도 꺼지지 않으리라.	[!Mastery]充满憎恨的火花不会在深渊中熄灭。
-#16920	[!Mastery]얼어붙은 대지	[!Mastery]冻僵的大地
+#16920	[!Mastery]얼어붙은 대지	[!Mastery]冰封之土
 #16921	[!Mastery]혹독한 추위는 마음마저 무너뜨린다.	[!Mastery]严寒导致心都碎了。
-#16923	[!Mastery]얼어붙은 영혼 수확자	[!Mastery]冻僵的灵魂收获者
+#16923	[!Mastery]얼어붙은 영혼 수확자	[!Mastery]冰咒之狱
 #16924	[!Mastery]잠시 맡겨둔 것을 찾아가기로 하지.	[!Mastery]去寻找暂时寄放的东西吧。
-#16926	[!Mastery]얼어붙은 검	[!Mastery]冰冻之剑
+#16926	[!Mastery]얼어붙은 검	[!Mastery]极寒之剑
 #16927	[!Mastery]얼어붙은 마음은 쉽게 부서지기 마련이지.	[!Mastery]冻结的心容易被破碎。
-#16929	[!Mastery]서리술사	[!Mastery]霜之术师
+#16929	[!Mastery]서리술사	[!Mastery]霜寒术师
 #16930	[!Mastery]자신을 위해 타인을 희생시키는 자를 냉혈한이라고 한다.	[!Mastery]为自己牺牲他人的人成为冷血汉。
 #16931	[!Mastery]하얀 모래바람	[!Mastery]白砂之风
 #16932	[!Mastery]겉보기가 다르다고 본질이 달라지지 않는다.	[!Mastery]外表会不同，但本质不会改变。
@@ -10317,7 +10317,7 @@
 #16940	[!Mastery]직접 겪어보면 생각보다 간단한 일이 많아.	[!Mastery]亲自经历过的话就会发现比想象中简单的事情很多。
 #16943	[!Mastery]거대한 벼락	[!Mastery]九天神雷
 #16944	[!Mastery]신의 뜻에 따라 적을 멸하라.	[!Mastery]按照神的旨意灭敌。
-#16946	[!Mastery]섬광 쐐기	[!Mastery]闪光锥
+#16946	[!Mastery]섬광 쐐기	[!Mastery]暴雷之楔
 #16947	[!Mastery]불현듯 과거의 부끄러운 일들이 머릿속을 스칠 때와 같은 기분일세.	[!Mastery]突然想起过去那些丢脸的事情。
 #16949	[!Mastery]대용량 축전기	[!Mastery]大容量蓄电池
 #16950	[!Mastery]대비하지 않으면 당할 뿐이다.	[!Mastery]平时如果不做好准备，那只能遭受了。
@@ -10376,14 +10376,14 @@
 #17021	[!WordCollection]발각	[!WordCollection]被发觉
 #17083	[!Mastery]곡예사	[!Mastery]杂技演员
 #17085	[!WordCollection]관할 구역 사건 목록	[!WordCollection]管辖区案件目录
-#17087	[!Mastery]얼어붙는 피	[!Mastery]血液的冻结
+#17087	[!Mastery]얼어붙는 피	[!Mastery]冻结之血
 #17088	[!Mastery]얼음 이능력자에게 발병하는 이능력 과다 사용에 의한 혈액 동결 증상.	[!Mastery]发病于冰之异能者，因过度使用异能而产生的血液冻结症状。
 #17089	[!Mastery]항동결 수액	[!Mastery]抗冻结输液
 #17090	[!Mastery]얼어붙는 피의 발생을 억제하는 수액이다.	[!Mastery]是可抑制血液冻结的输液。
 #17094	[!Mastery]균형이란 부단한 노력을 바탕으로 성립하는 것이다.	[!Mastery]所谓均衡，是在不断努力的基础上成立的。
 #17095	[!Mastery]고급 항동결 수액	[!Mastery]高级抗冻结输液
 #17096	[!Mastery]오늘의 생명을 내일로 이어갈 수 있다는 것 자체로 충분한 가치가 있다.	[!Mastery]可以把今天的命延续到明天就已经有充分的价值了。
-#17102	[!Buff]얼어붙은 피	[!Buff]被冰冻的血液
+#17102	[!Buff]얼어붙은 피	[!Buff]冻结之血
 #17103	[!Buff]턴 시작 시, 해당 상태가 최대 레벨이면 $Dead$이 됩니다.	[!Buff]回合开始时，若该状态为最高等级时将成为$Dead$。
 #17104	[!Buff]열등감	[!Buff]自卑感
 #17106	[!Buff]해당 상태를 일으킨 대상을 공격 시, 해당 대상에게 입히는 피해량이 $ApplyAmountValue$ 감소합니다. 해당 상태를 일으킨 대상이 $Dead$이 되면 $AddBuffName$ 상태가 됩니다. 	[!Buff]攻击引发该状态的对象时，造成的伤害量将减少$ApplyAmountValue$。若对象变成$Dead$则将进入$AddBuffName$状态。
@@ -10731,7 +10731,7 @@
 #17572	[!Mastery]승부는 찰나.	[!Mastery]胜负在刹那。
 #17574	[!Mastery]마검 장막	[!Mastery]魔剑帷幕
 #17575	[!Mastery]마력을 담은 검은 이능조차 베어버린다.	[!Mastery]附有魔力的剑连异能也砍的掉。
-#17577	[!Mastery]상처 태우기	[!Mastery]灼烧伤口
+#17577	[!Mastery]상처 태우기	[!Mastery]伤口灼烧
 #17578	[!Mastery]고통은 배가 되리라.	[!Mastery]痛苦将加倍。
 #17580	[!ObjectInfo]육연향	[!ObjectInfo]肉烟香
 #17581	[!ObjectInfo]체체	[!ObjectInfo]采采
@@ -11346,7 +11346,7 @@
 #18274	[!Mastery]진정한 스타는 팬이 있는 곳이면 어디든지 간다.	[!Mastery]真正的明星是只要是有粉丝的地方，无论哪里都会去。
 #18276	[!Mastery]깜짝 공연	[!Mastery]惊喜演出
 #18277	[!Mastery]기대하는 바는 만족하되 예상은 뛰어넘어라.	[!Mastery]要超出预想地满足期待。
-#18279	[!Mastery]얼어붙은 마지막 생명의 불꽃	[!Mastery]被冻结的最后生命的火花
+#18279	[!Mastery]얼어붙은 마지막 생명의 불꽃	[!Mastery]冻结的最终生命火花
 #18280	[!Mastery]강력한 힘에는 언제나 고통이 따른다.	[!Mastery]强大的力量总是伴随着痛苦。
 #18282	[!Mastery]항동결 부작용	[!Mastery]抗冻结副作用
 #18283	[!Mastery]약이란 언제나 부작용을 동반하지.	[!Mastery]药总是伴随着副作用。
@@ -12484,18 +12484,18 @@
 #19659	[!Ability]냉각 해제	[!Ability]解除冷却
 #19660	[!Ability]발전	[!Ability]发电
 #19661	[!Ability]발전 해제	[!Ability]解除发电
-#19662	[!Ability]달빛 모으기	[!Ability]收集月光
-#19663	[!Ability]달빛 모으기 해제	[!Ability]解除收集月光
+#19662	[!Ability]달빛 모으기	[!Ability]临月
+#19663	[!Ability]달빛 모으기 해제	[!Ability]解除临月
 #19664	[!Ability]급수	[!Ability]给水
 #19665	[!Ability]급수 해제	[!Ability]解除给水
 #19666	[!Ability]송풍	[!Ability]送风
 #19667	[!Ability]송풍 해제	[!Ability]解除送风
-#19668	[!Ability]소화	[!Ability]消化
-#19669	[!Ability]소화 해제	[!Ability]解除消化
+#19668	[!Ability]소화	[!Ability]灭火
+#19669	[!Ability]소화 해제	[!Ability]解除灭火
 #19670	[!Ability]해동	[!Ability]解冻
 #19671	[!Ability]해동 해제	[!Ability]解除解冻
-#19672	[!Ability]방전	[!Ability]放电
-#19673	[!Ability]방전 해제	[!Ability]解除放电
+#19672	[!Ability]방전	[!Ability]停电
+#19673	[!Ability]방전 해제	[!Ability]解除停电
 #19676	[!Ability]배수	[!Ability]排水
 #19677	[!Ability]배수 해제	[!Ability]解除排水
 #19678	[!Ability]무풍	[!Ability]无风
@@ -12505,12 +12505,12 @@
 #19682	[!Buff]점화	[!Buff]点燃
 #19683	[!Buff]냉각	[!Buff]冷却
 #19684	[!Buff]발전	[!Buff]发电
-#19685	[!Buff]달빛 모으기	[!Buff]收集月光
+#19685	[!Buff]달빛 모으기	[!Buff]临月
 #19686	[!Buff]급수	[!Buff]给水
 #19687	[!Buff]송풍	[!Buff]送风
-#19688	[!Buff]소화	[!Buff]消化
+#19688	[!Buff]소화	[!Buff]灭火
 #19689	[!Buff]해동	[!Buff]解冻
-#19690	[!Buff]방전	[!Buff]放电
+#19690	[!Buff]방전	[!Buff]停电
 #19692	[!Buff]배수	[!Buff]排水
 #19693	[!Buff]무풍	[!Buff]无风
 #19694	[!GuideMessage]$FieldEffectList$ 상태 시 지형 효과가 적용되지 않습니다.	[!GuideMessage]$FieldEffectList$状态时不会适用地形效果。
@@ -12536,7 +12536,7 @@
 #19726	[!Mastery]부정한 것을 포용한다.	[!Mastery]包容不纯。
 #19728	[!Mastery]부정한 것을 이용한다.	[!Mastery]利用不纯。
 #19730	[!Mastery]부정한 것을 피한다.	[!Mastery]躲避不纯。
-#19731	[!Mastery]번지는 불길	[!Mastery]蔓延的火焰
+#19731	[!Mastery]번지는 불길	[!Mastery]蔓延之焰
 #19732	[!Mastery]한 번 번지기 시작한 불길은 모든 것을 다 태우기 전에는 사그러들지 않는다.	[!Mastery]开始蔓延的火焰在没有烧尽之前不会熄灭。
 #19734	[!Mastery]소나기	[!Mastery]雷雨
 #19735	[!Mastery]잠시 쉬었다 갈래?	[!Mastery]想要休息一会儿再走吗？
@@ -12557,7 +12557,7 @@
 #19757	[!Mastery]너 거기 있구나.	[!Mastery]原来你在那里啊。
 #19759	[!Mastery]돌연변이의 청각	[!Mastery]突变的听觉
 #19760	[!Mastery]내가 찾아가마.	[!Mastery]由我去找。
-#19762	[!Mastery]대화재	[!Mastery]大火灾
+#19762	[!Mastery]대화재	[!Mastery]大炎戒
 #19763	[!Mastery]잿더미가 될 때까지 끝나지 않는다.	[!Mastery]变成灰烬之前不会结束。
 #19765	[!Mastery]무풍지대	[!Mastery]无风地带
 #19766	[!Mastery]어떤 변수도 기대할 수 없다.	[!Mastery]不能期待出现任何变数。
@@ -12571,12 +12571,12 @@
 #19780	[!Mastery]물러서지 않는 자 - 3 세트	[!Mastery]不退缩者 - 3 套
 #19781	[!Mastery]물러서지 않는 자 - 5 세트	[!Mastery]不退缩者 - 5 套
 #19783	[!WordCollection]남은 턴 대기 시간	[!WordCollection]剩余的回合冷却时间
-#19784	[!Ability]화염 부르기	[!Ability]引发火焰
-#19785	[!Ability]얼음 부르기	[!Ability]引发寒冰
-#19786	[!Ability]번개 부르기	[!Ability]引发闪电
-#19787	[!Ability]물 부르기	[!Ability]引发水
-#19788	[!Ability]바람 부르기	[!Ability]引发风
-#19789	[!Ability]대지 부르기	[!Ability]引发大地
+#19784	[!Ability]화염 부르기	[!Ability]火焰亲和
+#19785	[!Ability]얼음 부르기	[!Ability]寒冰亲和
+#19786	[!Ability]번개 부르기	[!Ability]闪电亲和
+#19787	[!Ability]물 부르기	[!Ability]流水亲和
+#19788	[!Ability]바람 부르기	[!Ability]疾风亲和
+#19789	[!Ability]대지 부르기	[!Ability]大地亲和
 #19793	[!Buff]용암	[!Buff]熔岩
 #19794	[!ChainEvent]균열	[!Ability]龟裂
 #19795	[!DirectDamageType]동족 포식 실패	[!DirectDamageType]捕食同族失败
@@ -12604,22 +12604,22 @@
 #19819	[!Item]드라키의 이상한 비늘	[!Item]奇怪的德拉基之鳞
 #19820	[!Item]드라키의 빛나는 비늘	[!Item]明亮的德拉基之鳞
 #19821	[!ItemSet]두려움이 없는 자	[!ItemSet]无畏者
-#19825	[!Mastery]화염 부르기	[!Mastery]引发火焰
-#19826	[!Mastery]얼음 부르기	[!Mastery]引发寒冰
-#19827	[!Mastery]번개 부르기	[!Mastery]引发闪电
-#19828	[!Mastery]물 부르기	[!Mastery]引发水
-#19829	[!Mastery]대지 부르기	[!Mastery]引发大地
-#19830	[!Mastery]바람 부르기	[!Mastery]引发风
+#19825	[!Mastery]화염 부르기	[!Mastery]火焰亲和
+#19826	[!Mastery]얼음 부르기	[!Mastery]寒冰亲和
+#19827	[!Mastery]번개 부르기	[!Mastery]闪电亲和
+#19828	[!Mastery]물 부르기	[!Mastery]流水亲和
+#19829	[!Mastery]대지 부르기	[!Mastery]大地亲和
+#19830	[!Mastery]바람 부르기	[!Mastery]疾风亲和
 #19837	[!Mastery]두려움이 없는 자 - 2 세트	[!Mastery]无畏者 - 2 套
 #19838	[!Mastery]두려움이 없는 자 - 3 세트	[!Mastery]无畏者 - 3 套
 #19839	[!Mastery]두려움이 없는 자 - 5 세트	[!Mastery]无畏者 - 5 套
 #19841	[!Tile]용암	[!Tile]熔岩
 #19842	[!WordCollection]균열	[!Ability]龟裂
-#19843	[!Ability]달빛 흩뜨리기	[!Ability]弄乱月光
-#19844	[!Ability]달빛 흩뜨리기 해제	[!Ability]解除弄乱月光
+#19843	[!Ability]달빛 흩뜨리기	[!Ability]乱月
+#19844	[!Ability]달빛 흩뜨리기 해제	[!Ability]解除乱月
 #19845	[!Buff]$BuffGroup$ 속성이 아닌 공격 어빌리티를 $BuffGroup$ 속성 공격 어빌리티로 강화합니다.	[!Buff]把不属于$BuffGroup$属性的攻击技能转换至$BuffGroup$属性的攻击技能。
 #19846	[!Buff]$BuffGroup$ 속성 공격 어빌리티를 사격 속성은 관통 속성, 투척, 낙하 속성은 타격 속성, 근접 속성은 무기에 맞춰 변경 강화합니다.	[!Buff]把$BuffGroup$属性攻击技能中的射击属性变更为穿透属性，投掷或降落属性变更为打击属性，近身属性是按照武器来变更强化。
-#19847	[!Buff]달빛 흩뜨리기	[!Buff]弄乱月光
+#19847	[!Buff]달빛 흩뜨리기	[!Buff]乱月
 #19848	[!Help]$Chain_Fracture$은 $Img_LavaField$용암 지형 효과 상태의 대상이 $/$얼음$/$ 속성 치명타 피해를 입을 때 발생합니다.	[!Help]$Chain_Fracture$是$Img_LavaField$向在熔岩地形状态的对象给予$/$寒冰$/$属性暴击伤害时产生。
 #19849	[!Loading]최상위 포식자	[!Loading]顶级捕食者
 #19850	[!Loading]철의 숲 버려진 동굴	[!Loading]铁森林废弃洞穴
@@ -12715,7 +12715,7 @@
 #19962	[!Mastery]당신을 절대 잃어버리지 않을 거예요.	[!Mastery]绝不会失去你的。
 #19964	[!Mastery]탄환 베기	[!Mastery]燕返
 #19965	[!Mastery]언제, 어느 곳을 노리는 지 안다면 못 막을 것이 없다.	[!Mastery]什么都可以挡得住。
-#19967	[!Mastery]불바다	[!Mastery]火海
+#19967	[!Mastery]불바다	[!Mastery]焚天火海
 #19968	[!Mastery]하나가 꺼지면 또 하나의 불꽃이 타오른다.	[!Mastery]一个火花熄灭，另一个又会重新点燃。
 #19970	[!Mastery]맹장의 기백	[!Mastery]军神五兵
 #19971	[!Mastery]대중을 열광시키기 위한 사람은 단 한 명이면 충분하다.	[!Mastery]让大众狂热的只要一个人就够了。
@@ -12811,7 +12811,7 @@
 #20104	[!GuideMessage]의뢰 목록이 가득차 있어 의뢰를 수락할 수 없습니다.	[!GuideMessage]无法接受任务。任务目录已满。
 #20105	[!GuideMessage]나가기	[!LayoutKeyword]退出
 #20106	[!GuideMessage]제작 가능한 아이템 중 무작위로 선택된 아이템의 숙련도가 증가합니다.	[!GuideMessage]在可以制作的物品中，随机选择一项增加制作熟练度。
-#20107	[!GuideMessage]제작 가능한 $Category$ 아이템 중 무작위로 선택된 아이템의 숙련도가 증가합니다.	[!GuideMessage]在$Category$里的可以制作的的物品中，随机选择一项物品提升制作熟练度。
+#20107	[!GuideMessage]제작 가능한 $Category$ 아이템 중 무작위로 선택된 아이템의 숙련도가 증가합니다.	[!GuideMessage]在$Category$里的可以制作的物品中，随机选择一项物品提升制作熟练度。
 #20108	[!GuideMessage]현재 알려진 적 중 무작위로 선택된 적의 정보를 획득합니다.	[!GuideMessage]将获得随机的目前已知的纷争制造者的情报。
 #20109	[!GuideMessage]현재 알려진 $Troublemaker$ 중 무작위로 선택된 적의 정보를 획득합니다.	[!GuideMessage]将获得随机的目前已知的纷争制造者$Troublemaker$的情报。
 #20110	[!GuideMessage]원하는 보상을 선택하세요.	[!GuideMessage]请选择想要的奖励。
@@ -13098,13 +13098,13 @@
 #20570	[!GameSystemMessageFormat]$Who$[가] 복구 프로세스를 가동하여 휴면 상태를 해제합니다.	[!GameSystemMessageFormat]$Who$启动了修复程序解除了休眠状态。
 #20571	[!Loading]외톨이 늑대	[!Mastery]孤狼
 #20572	[!Loading]까마귀폐허	[!Loading]墨鸦废墟
-#20573	[!Loading]잠들어 있는 불청객	[!Loading]休眠的的不速之客
+#20573	[!Loading]잠들어 있는 불청객	[!Loading]休眠的不速之客
 #20574	[!Loading]철의 숲 해체작업장	[!Loading]铁森林的拆解厂
 #20575	[!Mission]철의 숲 해체 작업장	[!Mission]铁森林的拆解厂
 #20576	[!ObjectInfo]폐기된 소각 드론	[!ObjectInfo]废弃的喷火无人机
 #20577	[!ObjectInfo]폐기된 정찰 드론	[!ObjectInfo]废弃的侦察无人机
 #20578	[!ObjectInfo]폐기된 소방 드론	[!ObjectInfo]废弃的消防无人机
-#20579	[!Quest]잠들어 있는 불청객	[!Quest]休眠的的不速之客
+#20579	[!Quest]잠들어 있는 불청객	[!Quest]休眠的不速之客
 #20580	[!Quest]해체작업장의 폐기된 드론을 모두 파괴하시오.	[!Quest]破坏所有拆解厂的无人机。
 #20581	[!QuestDesc]$JPerson(Hundred)$[는] 납품할 물건 확보를 위해 청동 숟가락을 확보해 달라고 요청한다.	[!QuestDesc]$JPerson(Hundred)$请求确保供货物的青铜勺。
 #20582	[!QuestDesc]$JPerson(Hundred)$[는] 해체작업장의 드론을 모두 파괴해 달라고 요청한다.	[!QuestDesc]$JPerson(Hundred)$请求破坏所有拆解厂的无人机。
@@ -14221,7 +14221,7 @@
 #21870	[!Mastery]$Ability$로 주는 피해량이 자신의 $Stat$의 $Value$만큼 증가합니다.	[!Mastery]$Ability$造成的伤害量将增加自身$Stat$的$Value$。
 #21871	[!Mastery]$State$ 상태에서 $Ability$로 주는 피해량이 $Value$ 증가합니다.	[!Mastery]$State$状态下$Ability$所造成的伤害量将增加$Value$。
 #21872	[!Mastery]$Ability$로 주는 피해량이 $State$ 상태에서 $Value$ 증가합니다.	[!Mastery]$Ability$所造成的伤害量在$State$状态下将增加$Value$。
-#21873	[!Mastery]$Ability$로 주는 피해량이 자신의 잃은 체력의 $Value$ 당 $Value$ 증가합니다.	[!Mastery]$Ability$所造成的伤害量将以每$Value$自身所损失的的体力增加$Value$。
+#21873	[!Mastery]$Ability$로 주는 피해량이 자신의 잃은 체력의 $Value$ 당 $Value$ 증가합니다.	[!Mastery]$Ability$所造成的伤害量将以每$Value$自身所损失的体力增加$Value$。
 #21874	[!Mastery]$Ability$로 적을 공격할 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]用$Ability$攻击敌人时，将发生如下效果。
 #21875	[!Mastery]남은 $Stat$ $Value$ 당 $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]每$Value$剩下的$Stat$，$Stat2$将增加$Value2$。
 #21876	[!Mastery]남은 $Stat$ $Value$ 당 $Stat2$[이] $Value2$ 감소합니다.	[!Mastery]每$Value$剩下的$Stat$，$Stat2$将减少$Value2$。
@@ -14661,7 +14661,7 @@
 #22343	[!NamedEvent]속사의 스컬 피어스	[!NamedEvent]速射的骷髅穿刺者
 #22344	[!NamedEvent]총알이 아까운 녀석이군.	[!NamedEvent]对方弱的甚至有些舍不得浪费子弹。
 #22345	[!NamedEvent]다음 한 발이면 충분해	[!NamedEvent]下一发就足够杀掉了。
-#22346	[!NamedEvent]절망의 스컬 이터	[!NamedEvent]绝望的骷髅吞噬者
+#22346	[!NamedEvent]절망의 스컬 이터	[!NamedEvent]带来绝望的骷髅吞噬者
 #22347	[!NamedEvent]자네의 절망하는 얼굴을 보고 싶군.	[!NamedEvent]真想看看你那充满绝望的脸。
 #22348	[!NamedEvent]조금 더 절망스러운 얼굴을 보여줘.	[!NamedEvent]让我看看你那更加绝望的脸。
 #22349	[!NamedEvent]알선업자	[!NamedEvent]代理人
@@ -15732,7 +15732,7 @@
 #23899	[!ObjectVoiceSound][!speaker:Anne]어.. 힘든 하루였어요	[!ObjectVoiceSound][!speaker:Anne]啊...真是累人的一天
 #23900	[!ObjectVoiceSound][!speaker:Anne]다음엔 더 잘하겠습니다	[!ObjectVoiceSound][!speaker:Anne]下次会做的更好的
 #23902	[!ObjectVoiceSound][!speaker:Carter]내 증오가 그대를 멸 하리라	[!ObjectVoiceSound][!speaker:Carter]我的憎恶必将把你毁灭
-#23903	[!ObjectVoiceSound][!speaker:Carter]영혼의 불꽃	[!ObjectVoiceSound][!speaker:Carter]灵魂的火花
+#23903	[!ObjectVoiceSound][!speaker:Carter]영혼의 불꽃	[!ObjectVoiceSound][!speaker:Carter]灵魂之火
 #23904	[!ObjectVoiceSound][!speaker:Carter]내 분노가 불꽃이 될 지리	[!ObjectVoiceSound][!speaker:Carter]我的愤怒会变为火花
 #23905	[!ObjectVoiceSound][!speaker:Carter]비켜라	[!ObjectVoiceSound][!speaker:Carter]闪开
 #23906	[!ObjectVoiceSound][!speaker:Carter]꺼져라	[!ObjectVoiceSound][!speaker:Carter]滚吧
