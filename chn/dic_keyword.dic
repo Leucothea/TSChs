@@ -629,7 +629,7 @@
 #1394	[!Mastery]미풍	[!Mastery]呼风
 #1397	[!Mastery]타박상	[!Mastery]跌打伤
 #1400	[!Mastery]무자비	[!Mastery]残忍
-#1403	[!Mastery]타오르는 불꽃	[!Mastery]燃烧的火花
+#1403	[!Mastery]타오르는 불꽃	[!Mastery]燃烧之心
 #1406	[!Mastery]희열	[!Mastery]喜悦
 #1409	[!Mastery]소작	[!Mastery]烧灼
 #1415	[!Mastery]구사일생	[!Mastery]九死一生
@@ -2909,7 +2909,7 @@
 #5786	[!Item]스틸헤드 팀 창설부터 지금까지 카터는 수많은 팔찌들을 사용하고 버려왔다. 하지만 3년 전, 앨리가 발할라와 병합되자 팀 스틸헤드를 해체하면서 이 팔찌에 스틸헤드 문양을 새겨넣었고 현재까지 계속 사용하고 있다.	[!Item]铁头组自组建以来，卡特用了无数的手镯又废弃了无数个。但是三年前，艾利和巴赫拉合并后解散了铁头组，当时在这个手镯上刻入了铁头纹样，并使用至今。
 #5787	[!Item]팔찌의 내구성과 경량화를 통하여 활동성의 제약이 거의 없다.	[!Item]手镯的内部结构和轻型化设计，对活动性的限制几乎为零。
 #5788	[!Item]정령 팔찌	[!Item]精灵手镯
-#5789	[!Item]발할라의 이능력 사용자들에게 가장 많이 보급되어 있는 보급형 이능력 증폭기이다. 기본적으로 사용자의 건강 보조기구 역활을 동시에 한다.	[!Item]巴赫拉的异能者使用的最普遍的泛用型异能增幅器。同时带有基础性的用户健康辅助功能。
+#5789	[!Item]발할라의 이능력 사용자들에게 가장 많이 보급되어 있는 보급형 이능력 증폭기이다. 기본적으로 사용자의 건강 보조기구 역활을 동시에 한다.	[!Item]巴赫拉的异能者使用的最普遍的泛用型异能增幅装置。同时带有基础性的用户健康辅助功能。
 #5794	[!Item]폭력 조직 흑호의 리더 트레이를 위해 특별 제작된 집회복이다. 원거리 난전을 대비해 이능력 저항력과 방탄 효과를 강화하는데 집중하였다.	[!Item]为暴力团伙黑虎组的首领特莱特别制作的集会服。为了应对远程混战而重点加强了异能抗性和防弹效果。
 #5795	[!Item]검은 밤송이 자켓	[!Item]黑色毛栗夹克
 #5796	[!Item]발할라의 초등학교 아이들에게 인기였던 애니메이션 '안녕하세요. 여우씨'의 악당. '검은 밤송이'를 프린팅한 수제 코트. 대니는 검고 가시가 나있단 이유로 숲속의 동물로부터 차별받아야 했던 검은 밤송이를 자신의 모습이라고 생각한다.	[!Item]受巴赫拉小学生们追捧的动画片「你好啊，狐狸」中的恶徒。印有「黑色毛栗」的手工外套。丹尼认为，仅仅因为黢黑而长着毛刺就被森林中的动物们歧视的黑色毛栗就是他自己的样子。
@@ -3338,7 +3338,7 @@
 #6437	[!LobbyIdleMessage][!speaker:Albus]이제 시작일 뿐이야.	[!LobbyIdleMessage]这只是个开始。
 #6438	[!LobbyIdleMessage][!speaker:Albus]아직 부족하지만 열심히 해야지.	[!LobbyIdleMessage]还有很多不足，需要加倍努力呀。
 #6439	[!LobbyIdleMessage][!speaker:Albus]정말 트러블슈터가 되었네...	[!LobbyIdleMessage]真的成为了纷争终结者了...
-#6440	[!StatsInfo]아군 전투 불능 수	[!StatsInfo]员工无法战斗次数
+#6440	[!StatsInfo]아군 전투 불능 수	[!StatsInfo]无法战斗次数
 #6442	[!StatsInfo]상자 획득 수	[!StatsInfo]开启宝箱次数
 #6444	[!SystemMail]$CompanyName$ 감사합니다!	[!SystemMail]$CompanyName$谢谢你！
 #6445	[!SystemMail][colour='FFFFE959']안녕하십니까. 발할라 제 13 지구. 바람장벽지구의 사무관 [colour='FFFFFFFF']하비에르[colour='FFFFE959']입니다.<br><br>$CompanyName$ 리더 알버스 번스타인님의 거주지 이전 신청 관련하여 발할라 주민 등록법 4조 1항에 의거하여 거주지 이전 신청이 완료되었음을 알려드립니다.<br><br>[colour='FFFFFFAA']주민등록법 4 조 1항: <br>[colour='FFFFAA00']트러블슈터 회사의 이전이 있는 경우, 회사의 리더는 거주지 제약과 무관하게 해당 회사가 위치한 곳으로 이전할 수 있다.[colour='FFFFE959']<br><br>거주지 이전 후 3개월 내 회사를 설립하시지 못하시면 해당 신청은 자동 취소되므로 유의하시길 바랍니다.<br><br>새로운 곳에서 더 나은 미래를 위해 노력해주시길 바랍니다.<br><br>[colour='FFFFFFFF']바람장벽 지구 사무관 하비에르	[!SystemMail][colour='FFFFE959']你好。我是巴赫拉第13区风之壁地区的事务官[colour='FFFFFFFF']哈维尔[colour='FFFFE959']。<br><br>对于$CompanyName$领袖阿尔伯斯・伯恩斯坦的居住地转移申请，根据巴赫拉居民登记法4条1项，居住地转移申请已生效。<br><br>[colour='FFFFFFAA']居民登记法4条1项：<br>[colour='FFFFAA00']纷争终结者公司发生转移时，公司的领袖可无视居住地制约而转移到相应公司所在的地点。[colour='FFFFE959']<br><br>转移居住地后3个月内不建立公司，则该申请将会失效，敬请留意。<br><br>希望你能在新的地方开展更加美好的事业。<br><br>[colour='FFFFFFFF']风之壁地区事务官哈维尔敬上
@@ -4429,7 +4429,7 @@
 #8010	[!CivilMessage]내 짐은 다 두고가는 거냐!	[!CivilMessage]我的货物就都扔这儿就走吗！
 #8011	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Icons/Anger'][colour='FFFFAA00'] 화남[colour='FFCCCCCC'] 상태의 적은 시야 내 공격 가능한 적대하는 세력의 유닛이 없는 경우, 화풀이 대상으로 시민을 공격합니다.<br><br>[colour='FFFFFF00']화남 상태의 적이 시민을 공격하지 않게 하려면 시민으로부터 반경 4 타일 안에 아군이 위치해야 하며 적 시야에 노출되어야 합니다.	[!GuideMessage][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Icons/Anger'][colour='FFFFAA00']发火[colour='FFCCCCCC']状态的敌人在其视野内若没了可攻击的敌对势力单位，则会拿市民消气，对市民进行攻击。<br><br>[colour='FFFFFF00']为了不让发火状态的敌人攻击市民，需要在目标半径4格内存在队友，同时该队友需要暴露在敌人的视野内。
 #8012	[!Item]에트로스 팔찌	[!Item]俄特罗斯手镯
-#8013	[!Item]아테르 제국의 장인 에트로스의 공방에서 제작되는 보급품으로 가장 보편적으로 사용하는 이능력 증폭기이다.	[!Item]阿泰尔帝国的匠人俄特罗斯的工坊里制出的最为广泛普及使用的异能增幅器。
+#8013	[!Item]아테르 제국의 장인 에트로스의 공방에서 제작되는 보급품으로 가장 보편적으로 사용하는 이능력 증폭기이다.	[!Item]阿泰尔帝国的匠人俄特罗斯的工坊里制出的最为广泛普及使用的异能增幅装置。
 #8014	[!Mastery]단 하나를 위해 모든 힘을!	[!Mastery]为了一个目标汇聚所有力量！
 #8015	[!Mastery]매일 같이 반복하는 과정이 능숙함을 만든다.	[!Mastery]每天反复的过程带来的是熟练。
 #8016	[!Mastery]능숙함	[!Mastery]熟练
@@ -6360,10 +6360,10 @@
 #10852	[!Mastery]마녀의 시샘	[!Mastery]魔女的嫉妒
 #10854	[!Mastery]내가 연구하는 것의 결과가 내가 바라는 것이길 바라지.	[!Mastery]我只希望我的研究结果能符合我所愿。
 #10855	[!Mastery]마녀의 장난	[!Mastery]魔女的捉弄
-#10856	[!Status]장비한 아이템의 방어력	[!Status]以装备物品的防御力
-#10857	[!Status][!Short]장비한 아이템의 방어력	[!Status][!Short]以装备物品的防御力
-#10858	[!Status]장비한 아이템의 공격력	[!Status]以装备物品的攻击力
-#10859	[!Status][!Short]장비한 아이템의 공격력	[!Status][!Short]以装备物品的攻击力
+#10856	[!Status]장비한 아이템의 방어력	[!Status]已装备物品的防御力
+#10857	[!Status][!Short]장비한 아이템의 방어력	[!Status][!Short]已装备物品的防御力
+#10858	[!Status]장비한 아이템의 공격력	[!Status]已装备物品的攻击力
+#10859	[!Status][!Short]장비한 아이템의 공격력	[!Status][!Short]已装备物品的攻击力
 #10860	[!WordCollection][!Menu]사용 가능한 클래스 특성	[!WordCollection][!Menu]可用天赋类型
 #10861	[!Ability]레서류 6식 - 정면돌파	[!Ability]蕾西流6式 - 正面突破
 #10862	[!Ability]레서류 4식 - 화륜마차	[!Ability]蕾西流4式 - 火轮马车
@@ -6728,8 +6728,8 @@
 #11420	[!ItemType]연료	[!ItemType]燃料
 #11421	[!ItemType]센서	[!ItemType]传感器
 #11423	[!Mastery]중장비	[!Mastery]重型装备
-#11424	[!Mastery]내구성	[!Mastery]内部结构
-#11426	[!Mastery]탄성	[!Mastery]弹性
+#11424	[!Mastery]내구성	[!Mastery]耐久性
+#11426	[!Mastery]탄성	[!Mastery]延展性
 #11429	[!Mastery]내화성	[!Mastery]耐火性
 #11431	[!Mastery]내한성	[!Mastery]耐寒性
 #11433	[!Mastery]절연성	[!Mastery]绝缘性
@@ -7294,7 +7294,7 @@
 #12189	[!Item]호버 장치	[!Item]漂浮装置
 #12190	[!Item]산업용 대형 연료통	[!Item]工业用大型燃料桶
 #12191	[!Item]산업용 소형 연료통	[!Item]工业用小型燃料桶
-#12192	[!Item]냉각 레이저	[!Item]冷却激光
+#12192	[!Item]냉각 레이저	[!Item]冷凝激光
 #12194	[!Item]고급 강화 센서	[!Item]高级强化感应器
 #12195	[!Item]카본 복합 장갑	[!Item]碳复合手套
 #12197	[!KeyBinding]전투위임 - 전투	[!KeyBinding]战斗委任 - 战斗
@@ -8730,10 +8730,10 @@
 #14801	[!Mastery]나는 전설이다.	[!Mastery]我就是传奇
 #14802	[!ESPPowerCondition]무기 파괴	[!AttackPowerCondition]缴械
 #14803	[!ResistanceCondition]방어구 파괴	[!ArmorCondition]破甲
-#14804	[!Status]장비한 아이템의 초능력	[!Status]以装备物品的超能力
-#14805	[!Status][!Short]장비한 아이템의 초능력	[!Status]以装备物品的超能力
-#14806	[!Status]장비한 아이템의 저항력	[!Status]以装备物品的抗性
-#14807	[!Status][!Short]장비한 아이템의 저항력	[!Status]以装备物品的抗性
+#14804	[!Status]장비한 아이템의 초능력	[!Status]已装备物品的超能力
+#14805	[!Status][!Short]장비한 아이템의 초능력	[!Status]已装备物品的超能力
+#14806	[!Status]장비한 아이템의 저항력	[!Status]已装备物品的抗性
+#14807	[!Status][!Short]장비한 아이템의 저항력	[!Status]已装备物品的抗性
 #14808	[!Ability]목표 범위 내 대상에게 번개를 발사하여 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向目标范围内的对象发射闪电，造成$DamageAmount$的$DamageType$伤害。
 #14809	[!Ability]번개 갈래 채찍	[!Ability]闪电鞭子
 #14810	[!Ability]번개덩어리를 낙하시켜 목표 범위 내 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向目标范围内的对象投下闪电陨石，造成$DamageAmount$的$DamageType$伤害。
@@ -9072,7 +9072,7 @@
 #15299	[!Ability]선택한 $White$커맨드$Blue_ON$에 따라 목표 대상에게 무작위로 6 차례의 사격을 하여 다음과 같은 피해를 입힙니다.<br><br>$ProtocolCommandMessage$	[!Ability]根据选择的$White$命令$Blue_ON$，随机给予对象6次的射击并造成以下伤害。<br><br>$ProtocolCommandMessage$
 #15300	[!Ability]목표 대상에게 무작위로 6 차례의 사격을 하여 각 사격 당 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!GuideMessage]随机给予对象6次的射击，每次射击造成$DamageAmount$的$DamageType$伤害。
 #15301	[!Ability]무작위의 지속 시간과 무작위의 레벨을 가진 $ApplyBuff$ 상태가 됩니다.<br><br>$Perano$낮은 확률로 오작동을 일으킵니다.$Blue_ON$	[!Ability]将获得随机的持续时间和随机等级的$ApplyBuff$状态。<br><br>$Perano$以低几率引起误启动。$Blue_ON$
-#15302	[!Ability]가속 추진기	[!Ability]加速推进器
+#15302	[!Ability]가속 추진기	[!Ability]加速推进装置
 #15303	[!Ability]인식방해	[!Ability]认知障碍
 #15306	[!Ability]화염 강화 공격 커맨드	[!Ability]强化火焰攻击命令
 #15307	[!Ability]얼음 강화 공격 커맨드	[!Ability]强化寒冰攻击命令
@@ -9089,7 +9089,7 @@
 #15319	[!Buff]감지됨	[!Buff]被监视
 #15320	[!GuideMessage]프로토콜 사용 과정에서 겪는 불편함을 최소화하였습니다.	[!GuideMessage]最大程度地减少协议使用过程中受到的不便。
 #15321	[!Item]흑철 세공 강화 팔찌에 강력한 이능석을 사용하여 유난히 압도적인 출력을 자랑하는 팔찌이다.	[!Item]是在黑铁加工强化手镯上使用强力的异能石，是一个拥有压倒性的输出量的手镯。
-#15322	[!Item]가속 추진기	[!Ability]加速推进器
+#15322	[!Item]가속 추진기	[!Ability]加速推进装置
 #15323	[!Item]카일리가 이동 시간이 아까워서 만든 이동 보조 장치. 성능이 일정하지 않다.	[!Item]因凯莉觉得移动时间太浪费而制作的移动辅助器。性能不稳定。
 #15324	[!Item]자홍거리에서 유통되는 흑철 세공 전투화에 질긴 네구리 가죽을 추가하여 사용성을 개선한 전투화. 뒷세계에서 매우 인기 있는 전투화이다.	[!Item]将紫红街流黑铁加工战靴换成了纳古利皮革而改善的战靴。在地下世界非常受欢迎。
 #15325	[!Item]자홍거리에서 유통되는 흑철 세공 구두에 질긴 네구리 가죽을 추가하여 사용성을 개선한 구두. 뒷세계에서 매우 인기 있는 구두다.	[!Item]将紫红街流通黑铁细工皮鞋换成了纳古利皮革而改善的皮鞋。在地下世界非常受欢迎。
@@ -9159,7 +9159,7 @@
 #15433	[!Item]강화 구동 장치 R - 01	[!Item]强化驱动设备R-01
 #15434	[!Item]강화 구동 장치 R - 02	[!Item]强化驱动设备R-02
 #15436	[!Item]낡은 화염 방사기	[!Item]陈旧的火焰喷射器
-#15437	[!Item]낡은 냉각 레이저	[!Item]陈旧的冷却激光
+#15437	[!Item]낡은 냉각 레이저	[!Item]陈旧的冷凝激光
 #15438	[!Item]낡은 자동 돌격 소총	[!Item]陈旧的自动突击步枪
 #15439	[!Item]개조된 크레인 핸드	[!Item]改装起重机械臂
 #15440	[!Item]강화형 자동 돌격 소총	[!Item]强化自动突击步枪
@@ -9202,9 +9202,9 @@
 #15491	[!Item]강화형 화염 방사기 - 경량화	[!Item]强化火焰喷射器 - 轻量化
 #15492	[!Item]강화형 화염 방사기	[!Item]强化火焰喷射器
 #15493	[!Item]개량형 화염 방사기	[!Item]改良型火焰喷射器
-#15494	[!Item]강화형 냉각 레이저 - 경량화	[!Item]强化冷却激光 - 轻量化
-#15495	[!Item]강화형 냉각 레이저	[!Item]强化冷却激光
-#15496	[!Item]개량형 냉각 레이저	[!Item]改良型冷却激光
+#15494	[!Item]강화형 냉각 레이저 - 경량화	[!Item]强化冷凝激光 - 轻量化
+#15495	[!Item]강화형 냉각 레이저	[!Item]强化冷凝激光
+#15496	[!Item]개량형 냉각 레이저	[!Item]改良型冷凝激光
 #15498	[!Item]강화형 자동 돌격 소총 - 경량화	[!Item]强化自动突击步枪 - 轻量化
 #15499	[!Item]개량형 자동 돌격 소총	[!Item]改良型自动突击步枪
 #15506	[!Item]최고급 강화 센서 - 정보	[!Item]最高级强化传感器 - 情报
@@ -9266,7 +9266,7 @@
 #15586	[!Mastery]추가 보안 모듈	[!Mastery]追加安全模块
 #15588	[!Mastery]추가 지원 모듈	[!Mastery]追加支援模块
 #15592	[!Mastery]힘은 집중될수록 강하고 분산될수록 안전하다.	[!Mastery]力量越集中越强大，越分散越安全。
-#15593	[!Mastery]가속 추진기	[!Mastery]加速推进器
+#15593	[!Mastery]가속 추진기	[!Mastery]加速推进装置
 #15595	[!Mastery]모든 순간 최선을 다해라.	[!Mastery]每一个瞬间都要竭尽全力。
 #15596	[!Mastery]자동 반응 사격	[!Mastery]自动反击
 #15598	[!Mastery]연료 전환	[!Mastery]燃料转换
@@ -9276,7 +9276,7 @@
 #15603	[!Mastery]무기 조준 강화	[!Mastery]加强武器瞄准
 #15605	[!Mastery]무기 출력 강화	[!Mastery]强化武器功率
 #15607	[!Mastery]위험은 피하는 것이 상책이다.	[!Mastery]规避风险是上策。
-#15608	[!Mastery]자동 회피 기동	[!Mastery]自动闪避启动
+#15608	[!Mastery]자동 회피 기동	[!Mastery]自动闪避移动
 #15610	[!Mastery]고급 연료	[!Mastery]高级燃料
 #15611	[!Mastery]하중 최적화	[!Mastery]载荷优化
 #15613	[!Mastery]돌다리도 두들겨 보고 건너야 한다.	[!Mastery]就算是石头桥也要敲着过。
@@ -9359,7 +9359,7 @@
 #15722	[!Mastery]많은 정보는 백전 노장의 판단을 흐리게 한다.	[!Mastery]即使百战老将也会被过多的情报而混淆判断。
 #15723	[!Mastery]정보 전문가	[!Mastery]情报局特工
 #15725	[!Mastery]기계공학	[!Mastery]机械工学
-#15732	[!Mastery]정보 교란기	[!Mastery]信息干扰器
+#15732	[!Mastery]정보 교란기	[!Mastery]信息干扰装置
 #15734	[!Mastery]업무를 분담하자!	[!Mastery]来分担业务吧！
 #15735	[!Mastery]다중 처리	[!Mastery]多重处理
 #15738	[!Mastery]프로그래머	[!Mastery]你好世界
@@ -9383,8 +9383,8 @@
 #15763	[!Ability]연료를 충전합니다.	[!Ability]补充燃料。
 #15764	[!Ability]연료 채우기	[!Ability]填充燃料
 #15766	[!Ability]전방의 목표물에게 무작위로 4 차례의 사격을 하여 각 사격 당 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]对前方的目标随机发射4次的射击，每次造成$DamageAmount$的$DamageType$伤害。
-#15768	[!Ability]전방으로 냉각 레이저를 발사하여 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向前方发射冷却激光，造成$DamageAmount$的$DamageType$伤害。
-#15769	[!Ability]냉각 레이저 발사	[!Ability]发射冷却激光
+#15768	[!Ability]전방으로 냉각 레이저를 발사하여 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向前方发射冷凝激光，造成$DamageAmount$的$DamageType$伤害。
+#15769	[!Ability]냉각 레이저 발사	[!Ability]发射冷凝激光
 #15771	[!Ability]가장 가까운 대상은 $ApplySubBuff$ 상태가 됩니다.	[!Ability]最近的目标将进入$ApplySubBuff$状态。
 #15773	[!Ability]전방으로 강력한 화염을 발사하여 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向前方发射强力的火焰，使对方受到$DamageAmount$的$DamageType$伤害。
 #15774	[!Ability]강력한 화염 방사	[!Ability]强效火焰放射
@@ -9442,7 +9442,7 @@
 #15830	[!ItemType]공격 보조 장치	[!ItemType]攻击辅助装备
 #15831	[!ItemType]크레인 핸드	[!Item]起重机械臂
 #15832	[!ItemType]설치형 화염 방사기	[!ItemType]安装型火焰发射器
-#15833	[!ItemType]설치형 냉각 레이저	[!ItemType]安装型冷却激光
+#15833	[!ItemType]설치형 냉각 레이저	[!ItemType]安装型冷凝激光
 #15834	[!ItemType]설치형 라이플	[!ItemType]安装型来复枪
 #15835	[!ItemType]보조 장갑	[!ItemType]辅助装甲
 #15836	[!ItemType]지원 보조 장치	[!ItemType]支援辅助装备
@@ -9490,34 +9490,34 @@
 #15892	[!Mastery]비상 연료	[!Mastery]应急燃料
 #15894	[!Mastery]두려움이 없다는 것은 더 많은 가능성을 시도할 수 있다는 것이다.	[!Mastery]没有恐惧意味着有着可以尝试更多的可能性。
 #15895	[!Mastery]긴급 구조 프로그램	[!Mastery]紧急救助程序
-#15897	[!Mastery]강화된 기체	[!Mastery]强化的机体
-#15898	[!Mastery]호버 추진기	[!Mastery]盘旋推进器
+#15897	[!Mastery]강화된 기체	[!Mastery]强化机身
+#15898	[!Mastery]호버 추진기	[!Mastery]盘旋推进装置
 #15900	[!Mastery]하얗게 불태웠는가?	[!Mastery]全都燃烧殆尽了吗？
-#15901	[!Mastery]강화된 화염 방사기	[!Mastery]强化火焰发射器
+#15901	[!Mastery]강화된 화염 방사기	[!Mastery]强化火焰发射
 #15903	[!Mastery]모든 부분의 합은 전체보다 크다.	[!Mastery]部分的总和比整体大。
 #15904	[!Mastery]기체 제어 프로그램	[!Mastery]机体控制程序
 #15906	[!Mastery]특수 장갑	[!Mastery]特殊装甲
 #15908	[!Mastery]고속 주행 프로그램	[!Mastery]高速行驶程序
 #15910	[!Mastery]그렇게 평생을 지내.	[!Mastery]就那样活一辈子吧～
-#15911	[!Mastery]강화된 냉각 레이저	[!Mastery]强化冷却激光器
+#15911	[!Mastery]강화된 냉각 레이저	[!Mastery]强化冷凝激光
 #15913	[!Mastery]피하면 그만이다.	[!Mastery]躲开就是了。
 #15914	[!Mastery]자동 회피 반응	[!Mastery]自动闪避反应
 #15916	[!Mastery]엉덩이가 무거우면 성공한다.	[!Mastery]沉得住性子的人才能成功
 #15917	[!Mastery]하중 관리 프로그램	[!Mastery]载荷管理程序
 #15919	[!Mastery]인간은 폭주하는 코드 같은 건 만들지 않는다.	[!Mastery]人类是不会制作暴走的代码的。
 #15920	[!Mastery]폭주	[!Mastery]暴走
-#15921	[!Mastery]적외선 센서	[!Mastery]红外线传感器
-#15922	[!Mastery]엔진 증폭기	[!Mastery]引擎增幅器
+#15921	[!Mastery]적외선 센서	[!Mastery]红外线传感
+#15922	[!Mastery]엔진 증폭기	[!Mastery]引擎增幅装置
 #15923	[!Mastery]전달되지 않는 힘은 없는 것과 같다.	[!Mastery]传达不到的力量等于无。
 #15924	[!Mastery]출력 전달 장치	[!Mastery]功率传输装置
 #15925	[!Mastery]더 노력한 자가 승리한다.	[!Mastery]更加努力的人才能取得胜利。
 #15926	[!Mastery]적 정보 분석	[!Mastery]敌情分析
-#15928	[!Mastery]자동 응징	[!Mastery]自动惩罚
+#15928	[!Mastery]자동 응징	[!Mastery]自动支援反击
 #15930	[!Mastery]강화된 라이플	[!Mastery]强化来复枪
 #15932	[!Mastery]25%만 허용한다.	[!Mastery]只允许25%。
 #15933	[!Mastery]보조 엔진	[!Mastery]辅助引擎
 #15935	[!Mastery]뚫는 자와 막는 자의 끝없는 전쟁이다.	[!Mastery]是矛和盾之间永无休止的战争。
-#15936	[!Mastery]시스템 보안	[!Mastery]系统保安
+#15936	[!Mastery]시스템 보안	[!Mastery]系统防火墙
 #15949	[!Mastery]그 사람 자체가 바로 인류의 유산이다.	[!Mastery]那个人本身就是人类的遗产。
 #15950	[!MasteryCategory]기체 모듈의 	[!MasteryCategory]机体模块
 #15951	[!MasteryType]호환	[!MasteryType]兼容
@@ -9833,7 +9833,7 @@
 #16356	[!Mastery]긴급 구동	[!Mastery]紧急驱动
 #16357	[!Mastery]기회를 만들려면 버텨라.	[!Mastery]想要创造机会就要坚持下去。
 #16358	[!Mastery]외장 강화 코팅	[!Mastery]外甲强化涂层
-#16359	[!Mastery]이능력 증폭기	[!Mastery]异能增幅器
+#16359	[!Mastery]이능력 증폭기	[!Mastery]异能增幅装置
 #16360	[!Mastery]버티면 기회가 온다.	[!Mastery]坚持就会等来机会。
 #16361	[!Mastery]내장 저항 코팅	[!Mastery]内部装甲抵抗涂层
 #16363	[!Mastery]힘의 분산은 안정성을 위한 최선의 선택이다.	[!Mastery]分散力量是达到稳定化的最佳选择。
@@ -9888,8 +9888,8 @@
 #16431	[!GuideMessage]제어중인 기계의 수가 한계치에 도달했습니다.	[!GuideMessage]可控制的机械已满。
 #16433	[!GuideMessage]$White$전투 불능$Blue_ON$에 이르지 않는 종류의 피해입니다. 체력이 $White$1$Blue_ON$ 남은 상태에서는 동일한 피해로 인해 체력을 잃지 않습니다.	[!GuideMessage]是不会造成$White$无法战斗$Blue_ON$的伤害种类。体力剩下$White$1$Blue_ON$时将不再因同样的伤害而丧失体力值。
 #16434	[!OptionGameplay]레벨업에 따른 능력치 변경 사항을 보여주지 않습니다.	[!OptionGameplay]不显示提升等级时的能力值变化面板。
-#16435	[!Ability]거미줄 사격	[!Ability]发射蜘蛛网
-#16436	[!Ability]확장된 거미줄 사격	[!Ability]发射扩大的蜘蛛网
+#16435	[!Ability]거미줄 사격	[!Ability]发射蛛网
+#16436	[!Ability]확장된 거미줄 사격	[!Ability]发射强化蛛网
 #16437	[!Ability]바람창	[!Ability]旋风枪
 #16438	[!Item]거미줄 발사기 - 경량화	[!Item]蜘蛛网发射器 - 轻量化
 #16439	[!Item]거미줄 발사기	[!Item]蜘蛛网发射器
@@ -10438,18 +10438,18 @@
 #17193	[!Mastery]노력하지 않는 천재는 없어.	[!Mastery]没有不努力的天才。
 #17196	[!Ability]목표 범위 내 시야를 밝힙니다. 확보된 시야는 $White$240 $Corn$턴 대기시간$Blue_ON$ 동안 지속됩니다. 범위 내 은신한 적과 설치된 함정을 발견할 수 있습니다.<br><br>$Corn$연쇄 효과: 눈부심: $White$암흑$Corn$ 상태의 대상은 $White$혼란$Corn$ 상태가 됩니다.	[!Ability]在目标范围内点亮视野。被点亮的视野持续$White$240$Corn$回合冷却时间$Blue_ON$。可发现范围内设置的陷阱和潜匿的敌人。<br><br>$Corn$连锁效果：眩光：$White$暗黑$Corn$状态的对象进入$White$混乱$Corn$状态。
 #17197	[!GuideMessage]$DischargeDamageType$ 속성 피해를 입으면 $BuffTitle$ 상태가 해제됩니다.	[!GuideMessage]受到$DischargeDamageType$属性的伤害时，$BuffTitle$状态将会解除。
-#17199	[!Mastery]강화 불꽃	[!Mastery]强化火花
+#17199	[!Mastery]강화 불꽃	[!Mastery]强化火焰模块
 #17200	[!Mastery]열정의 한계는 없다.	[!Mastery]热情是没有界限的。
 #17201	[!Mastery]강화 소총탄	[!Mastery]强化步枪弹
 #17202	[!Mastery]더 강한 자에게 패배한다.	[!Mastery]败于更强大的人。
-#17203	[!Mastery]강화 냉각 레이저	[!Mastery]强化冷却激光
+#17203	[!Mastery]강화 냉각 레이저	[!Mastery]强化寒冰模块
 #17204	[!Mastery]모든 것은 순간이다.	[!Mastery]一切都在瞬间。
 #17205	[!Mastery]오버부스팅	[!Mastery]超增压
 #17206	[!Mastery]최선을 위한 도전은 멈추지 않는다.	[!Mastery]为成为最佳，挑战是不会停止的。
 #17207	[!Mastery]보조 제어 프로그램	[!Mastery]辅助控制程序
 #17208	[!Mastery]통제의 진정한 의미는 최악의 수를 대비하는 것이지.	[!Mastery]统制的真正意义在于应对最坏的情况。
 #17211	[!Mastery]자신 내부의 문제를 스스로 해결하지 못하면 언제나 외부의 힘에 끌려다닐 뿐이다.	[!Mastery]如果自己解决不了内部问题，那只会被外部势力牵着鼻子走。
-#17213	[!Mastery]정보 제어 프로그램 	[!Mastery]控制信息程序
+#17213	[!Mastery]정보 제어 프로그램 	[!Mastery]信息控制程序
 #17214	[!Mastery]거짓은 흘리고 진심은 숨긴다.	[!Mastery]流露谎言，隐藏真心。
 #17216	[!Mastery]보조 강화 프로그램	[!Mastery]辅助强化程序
 #17217	[!Mastery]최고를 위한 투자는 최대의 결과를 가져온다.	[!Mastery]最高投资会带来最大的结果。

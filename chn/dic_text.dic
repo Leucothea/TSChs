@@ -14989,7 +14989,7 @@
 #25088	[!DialogQuest][!speaker:AL_Normal]그 녀석의 가죽을 $Count$장 구해줬으면 해.	[!DialogQuest][!speaker:AL_Normal]希望能拿到$Count$张那家伙的皮。
 #25089	[!DialogQuest][!speaker:Hundred_Normal]너희들 혹시 임무 중 불법 사용된 드론을 수거하면서 초전도 케이블을 본 적 있나? 	[!DialogQuest][!speaker:Hundred_Normal]你们在任务中回收非法使用的无人机时，有没有见过超导体电缆？
 #25090	[!DialogQuest][!speaker:Albus_Surprise]초전도 케이블이요?	[!DialogQuest][!speaker:Albus_Surprise]超导体电缆？
-#25091	[!DialogQuest][!speaker:Hundred_Normal]그래. 드론의 냉각 레이저에 사용하는 특수 케이블이야.	[!DialogQuest][!speaker:Hundred_Normal]嗯。是用于无人机冷却激光的特殊电缆。
+#25091	[!DialogQuest][!speaker:Hundred_Normal]그래. 드론의 냉각 레이저에 사용하는 특수 케이블이야.	[!DialogQuest][!speaker:Hundred_Normal]嗯。是用于无人机冷凝激光的特殊电缆。
 #25092	[!DialogQuest][!speaker:Kylie_Normal]뭐야. 그런 거 라면 정품을 사서 써.	[!DialogQuest][!speaker:Kylie_Normal]那就用正品呐。
 #25093	[!DialogQuest][!speaker:Hundred_Normal]나도 그러고 싶다.	[!DialogQuest][!speaker:Hundred_Normal]我也想那样。
 #25094	[!DialogQuest][!speaker:Hundred_Normal]하지만 최근 지구 내 초전도 케이블이 누군가에 의해 싹쓸이 당했어.	[!DialogQuest][!speaker:Hundred_Normal]但是最近不知是谁，把地区内的超导体电缆全拿走了。
@@ -14997,7 +14997,7 @@
 #25096	[!DialogQuest][!speaker:Hundred_Normal]나도 모르지. 중간 상인들도 이 물량이 어디로 흘러갔는지 파악이 안되서 황당해 하는 중이야...	[!DialogQuest][!speaker:Hundred_Normal]我也不知道。中间商们也因为没有货而不知所措。
 #25097	[!DialogQuest][!speaker:Giselle_Smile]'구 세대 머신들의 부품들의 수요가 늘어난다라...'	[!DialogQuest][!speaker:Giselle_Smile]（老一代的器械配件所需越来越多了...）
 #25098	[!DialogQuest][!speaker:Giselle_Satisfying]'바이크론인가...'	[!DialogQuest][!speaker:Giselle_Satisfying]（是用于拜克伦吗...）
-#25099	[!DialogQuest][!speaker:Irene_Surprise]냉각 레이저? 소방 드론인가?	[!DialogQuest][!speaker:Irene_Surprise]冷却激光？是消防无人机吗？
+#25099	[!DialogQuest][!speaker:Irene_Surprise]냉각 레이저? 소방 드론인가?	[!DialogQuest][!speaker:Irene_Surprise]冷凝激光？是消防无人机吗？
 #25100	[!DialogQuest][!speaker:Hundred_Normal]그래 맞아. 아직 동작이 가능한 구 세대 드론이면 쉽게 구할 수 있을 거야.	[!DialogQuest][!speaker:Hundred_Normal]是啊。从始终动作的老一代无人机那里可以轻易找到。
 #25101	[!DialogQuest][!speaker:Sion_Surprise]갑자기 그런 것을 왜 구하는 거야?	[!DialogQuest][!speaker:Sion_Surprise]为什么突然要那东西？
 #25102	[!DialogQuest][!speaker:Hundred_Normal]그런 걸 물어봐도 내가 알 리가 있나.	[!DialogQuest][!speaker:Hundred_Normal]我怎么可能知道。
