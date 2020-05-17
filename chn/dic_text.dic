@@ -2163,7 +2163,7 @@
 #9435	[!Sentence][!Dialog][!speaker:Albus_Laugh]이런 왠지 제대로 미움받는 거 같네...	[!Sentence][!BalloonChat][!speaker:Albus]好像被狠狠地讨厌了呢。
 #9436	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]아닙니다. 도움이 없었다면 저 역시 그렇게 되었을 거예요.	[!Sentence][!Dialog][!speaker:Albus_Normal]不是的。若没有你们的帮助我也会变成那个样子的。
 #9437	[!Sentence][!Dialog][!speaker:Albus_Laugh]레이 씨처럼요.	[!Sentence][!Dialog][!speaker:Albus_Laugh]就像雷伊那样。
-#9438	[!Sentence][!Dialog][!speaker:Bianca_Smile]훗. 다 우리 덕분이야.	[!Sentence][!Dialog][!speaker:Bianca_Smile]呵。幸亏有了我们才这样。
+#9438	[!Sentence][!Dialog][!speaker:Bianca_Smile]다 우리 덕분이야.	[!Sentence][!Dialog][!speaker:Bianca_Smile]呵。幸亏有了我们才这样。
 #9439	[!Sentence][!Dialog][!speaker:Albus_Normal]도와주셔서 감사합니다.	谢谢你的帮助。
 #9441	[!Sentence][!Dialog][!speaker:Alisa_Smile]그럼 이만 다음에 봐. 알버스 군.	[!Sentence][!Dialog][!speaker:Alisa_Smile]那下次再见吧。阿尔伯斯。
 #9442	[!Sentence][!BalloonChat][!speaker:Bianca]어? 어디서 봤던 사람인데...	[!Sentence][!BalloonChat][!speaker:Bianca]额？好像在哪里见过的...
@@ -2220,7 +2220,7 @@
 #9514	[!Sentence][!Choice]당신들이 이렇게 만든 건가요!	[!Sentence][!Choice]是你们弄成这个样子的吗！
 #9515	[!Sentence][!BalloonChat][!speaker:Ray]흐음?	[!Sentence][!BalloonChat][!speaker:Ray]呵嗯？
 #9516	[!Sentence][!Dialog][!speaker:Albus_Serious]당신들 멈추세요. 더 이상 움직이면 제압하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]你们住手。再动就控制你们。
-#9517	[!Sentence][!Dialog][!speaker:Albus_Embarrassed]전 트러블슈터 알버스입니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]我是纷争终结者阿尔伯斯。
+#9517	[!Sentence][!Dialog][!speaker:Albus_Embarrassed][!Embarrassed]전 트러블슈터 알버스입니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]我是纷争终结者阿尔伯斯。
 #9521	[!Sentence][!Dashboard:ObjectiveMarker]알버스로 레이 근처로 이동하여 대화를 하세요.	[!Sentence][!Dashboard:ObjectiveMarker]请用阿尔伯斯移动到雷伊附近进行对话。
 #9522	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]자유에는 언제나 대가가 따른단다~♡	[!Sentence][!Dialog][!speaker:Ray_Serious]自由是需要代价的～♡
 #9523	[!Sentence][!Dialog][!speaker:Ray_Serious]일단 레톤을 데리고 이 곳을 빠져나가야겠어...	[!Sentence][!BalloonChat][!speaker:Ray]需要先领着莱顿离开这里...
@@ -2759,7 +2759,6 @@
 #10230	[!Sentence][!Dialog][!speaker:Gangster_StreetThin_Normal]괴물 녀석...	[!Sentence][!Dialog][!speaker:Gangster_StreetThin_Normal]怪物...
 #10231	[!Sentence][!Dialog][!speaker:Albus_Normal]그럼 굳이 전파 방해기를 철거하지 않아도 경찰들에게 연락할 수 있겠군요.	[!Sentence][!Dialog][!speaker:Albus_Normal]那就没必要非得拆了电波干扰器就能联系警察了呢。
 #10234	[!Sentence][!Dialog][!speaker:Bianca_Rage]어휴~ 답답해!!	哼～真气人！！
-#10235	[!Sentence][!Dialog]내리실 문은 오른쪽입니다.	[!Sentence][!Dialog]请从右侧门下车。
 #10236	[!Sentence][!Dashboard:TimeLimiter]경찰 도착까지 남은 시간	[!Sentence][!Dashboard:TimeLimiter]警察抵达之前剩余的时间
 #10237	[!Sentence][!Dialog][!speaker:Bianca_Normal]왜 무슨 볼일 있니?	[!Sentence][!Dialog][!speaker:Bianca_Normal]怎么了有什么事吗？
 #10239	[!Sentence][!Dialog][!speaker:Don_Normal]하아.. 이 동네는 갈수록 난리군...	[!Sentence][!Dialog][!speaker:Don_Normal]哈啊...这里真是越来越乱啊...
@@ -2872,7 +2871,6 @@
 #10376	[!Sentence][!Dialog][!speaker:Gangster_WhiteNormal_Normal]하지만 늦었어! 오늘은 보스가 뭐라 하든 네 목이 날아가는 날이야.	但是已经太迟了！无论如何今天都是你脑袋搬家的日子。
 #10378	[!Sentence][!BalloonChat][!speaker:Don]빨리 경찰에 연락해 지원 병력을 불러!	[!Sentence][!BalloonChat][!speaker:Don]快报警，叫来支援部队！
 #10379	[!Sentence][!Dialog][!speaker:Don_Smile]손님. 죄송합니다. 지금은 영업 불가능합니다.	这位客人。很抱歉。现在暂不营业。
-#10380	[!Sentence][!Dialog]다음 역은 바람장벽 지구 은빛 구름 역입니다.	[!Sentence][!Dialog]下一站是风之壁地区银彩站。
 #10381	[!Sentence][!Dialog]하지만 무명의 트러블슈터가 사무실을 내기란 쉬운 일이 아니었다.	[!Sentence][!Dialog]然而无名的纷争终结者租一间办公室确实不是易事。
 #10382	[!Sentence][!Dialog][!speaker:Gangster_WhiteNormal_Normal]후회가 막 밀려오지? 사과하고 싶고?	[!Sentence][!Dialog][!speaker:Gangster_WhiteNormal_Normal]是不是后悔啦？是不是想道歉了？
 #10383	[!Sentence][!Dialog][!speaker:Don_Serious]일단 자네가 이 상황을 해결하는 것을 보고 논의하지.	先看如何你解决眼前这件事我再做答复。
@@ -13288,7 +13286,7 @@
 #23106	[!DialogQuest][!speaker:Albus_SurpriseStare]시계줄이요?	[!DialogQuest][!speaker:Albus_SurpriseStare]表链吗？
 #23107	[!DialogQuest][!speaker:Dembel_Normal]그래. 아버지가 어머니하고 연애할 때, 어머니로부터 선물 받은 시곗줄이야.	[!DialogQuest][!speaker:Dembel_Normal]是啊，那是母亲给父亲的礼物。
 #23108	[!DialogQuest][!speaker:Dembel_Normal]성난 황소파 녀석들에게 빼앗길 때는 회중시계에 달려 있었어.	[!DialogQuest][!speaker:Dembel_Normal]被狂牛组抢走的时候是在一起的。
-#23109	[!DialogQuest][!speaker:Dembel_Normal]너희들이 찾아줄 때 없었던 걸로 보아... 아마도 시곗줄은 따로 팔아넘기거나 처리했겠지.	[!DialogQuest][!speaker:Dembel_Normal]你们找回的时候没有连着...恐怕是卖掉了吧。
+#23109	[!DialogQuest][!speaker:Dembel_Normal][!Dembel]너희들이 찾아줄 때 없었던 걸로 보아... 아마도 시곗줄은 따로 팔아넘기거나 처리했겠지.	[!DialogQuest][!speaker:Dembel_Normal]你们找回的时候没有连着...恐怕是卖掉了吧。
 #23110	[!DialogQuest][!speaker:Dembel_Smile]아냐. 너희가 왜 죄송해해. 회중시계를 찾아준 것만으로도 정말 감사하고 있어.	[!DialogQuest][!speaker:Dembel_Smile]不不，你们没必要感到抱歉。我已经很感谢你们找回了怀表的。
 #23111	[!DialogQuest][!speaker:Anne_Normal]'아... 그래서 회중시계를 찾아드렸을 때... 표정이 좋지 않으셨구나...'	[!DialogQuest][!speaker:Anne_Normal]（啊...所以当时找回怀表的时候... 表情并不好啊...）
 #23112	[!DialogQuest][!speaker:Sion_SurpriseStare]'설마... 이번엔 시곗줄 찾아오는 거야...'	[!DialogQuest][!speaker:Sion_SurpriseStare]（难道...这次是要找回表链吗...）
@@ -17724,3 +17722,6 @@
 #28218	[!Dialog][!speaker:VHPD_Jane_Smile_Costume3]진짜 세월 빠르다.	真是岁月如梭呢。
 #28219	[!Sentence][!VictoryCondition]적의 지휘관을 제압하시오.	[!Sentence][!Objective]请镇压敌人的指挥员。
 #28220	[!Sentence][!Dialog][!speaker:Albus_Normal][!Nonetheless]네. 감사합니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]好的。谢谢。
+#28221	[!Sentence][!Dialog][colour='FFFFFF00']다음 역은 바람장벽 지구 은빛 구름 역입니다.	[!Sentence][!Dialog][colour='FFFFFF00']下一站是风之壁地区银彩站。
+#28222	[!Sentence][!Dialog][colour='FFFFFF00']내리실 문은 오른쪽입니다.	[!Sentence][!Dialog][colour='FFFFFF00']请从右侧门下车。
+#28223	[!Sentence][!Dialog][!speaker:Albus_Serious][!Serious]전 트러블슈터입니다!	[!Sentence][!BalloonChat][!speaker:Albus_Normal]我是纷争终结者！
