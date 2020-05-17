@@ -608,7 +608,7 @@
 #1330	[!Mastery]날렵함	[!Mastery]敏捷身手
 #1333	[!Mastery]알리바바	[!Mastery]阿里巴巴
 #1336	[!Mastery]기습	[!Mastery]奇袭
-#1339	[!Mastery]성난 황소	[!Mastery]愤怒的狂牛
+#1339	[!Mastery]성난 황소	[!Mastery]狂牛
 #1341	[!Mastery]신비한 힘	[!Mastery]神秘之力
 #1343	[!Mastery]영웅의 일격	[!Mastery]英雄一击
 #1355	[!Mastery]야수사냥꾼	[!Mastery]野兽猎手
@@ -1469,7 +1469,7 @@
 #3417	[!Mastery]블러드워커	[!Mastery]血海行者
 #3420	[!Mastery]쾌활함	[!Mastery]爽快
 #3426	[!Mastery]굶주린 늑대	[!Mastery]饿狼
-#3434	[!Mastery]반항	[!Mastery]反抗
+#3434	[!Mastery]반항	[!Mastery]叛乱
 #3437	[!Mastery]책임감	[!Mastery]责任感
 #3440	[!Mastery]정의감	[!Mastery]正义感
 #3442	[!Mastery]성실	[!Mastery]诚实
@@ -4853,7 +4853,7 @@
 #8644	[!WordCollection]강력 사건	[!WordCollection]大型事件
 #8645	[!GuideMessage][colour='FFFFFFFF']$TechniqueName$[colour='FFFFE959'] 특성에 대한 정보를 획득하였습니다.	[!GuideMessage][colour='FFFFFFFF']$TechniqueName$[colour='FFFFE959']天赋相关的信息已获得。
 #8648	[!Ability]서리 질주	[!Ability]霜雪疾走
-#8649	[!Ability]분노의 울부짖음	[!Ability]愤怒的吼叫声
+#8649	[!Ability]분노의 울부짖음	[!Ability]愤怒之吼
 #8652	[!Ability]내려치기	[!Ability]重锤击
 #8654	[!Ability]암석 질주	[!Ability]岩石疾走
 #8657	[!Buff]신경독	[!Buff]神经毒
@@ -7335,7 +7335,7 @@
 #12264	[!Help]네트워크 상태가 불안정한 플레이어 분은 '인터페이스/UDP 커넥션 사용' 옵션을 사용하시면 완화가능합니다. 다만 게임 진행상 불안정한 상황이 존재할 수 있습니다.	[!Help]网络状态不稳定的玩家可通过「使用交互/UDP」选项来进行缓解。但是这将带来游戏执行上的不稳定。
 #12265	[!Help]UDP 커넥션 사용	[!Help]使用UDP连接
 #12269	[!Mastery]그대의 이름이 사람들의 희망이 되리라.	[!Mastery]你的名字将是大家的希望。
-#12270	[!Mastery]나는 히어로 아이린이다!	[!Mastery]我是英雄艾琳！
+#12270	[!Mastery]나는 히어로 아이린이다!	[!Mastery]我是英雄艾琳
 #12273	[!Mastery]난 히어로가 될 거야!	[!Mastery]我会成为英雄！
 #12274	[!Mastery]나의 꿈은 히어로	[!Mastery]我的梦想是英雄
 #12276	[!Mastery]절호의 일격은 적의 공격을 피하는 날렴함으로부터 나온다.	[!Mastery]闪避敌人攻击的那份敏捷将会带来绝佳一击。
@@ -9788,7 +9788,7 @@
 #16289	[!Mastery]과거의 기억은 언제나 자신을 사로잡는 고통이 되지.	[!Mastery]过去的记忆总是会成为自己的痛苦。
 #16290	[!Mastery]심연의 불꽃	[!Mastery]深渊之火
 #16292	[!Mastery]흘러 내린 피의 기억은 지워지지 않습니다.	[!Mastery]染血的记忆是不可抹去的。
-#16293	[!Mastery]흐르는 피	[!Mastery流动之血
+#16293	[!Mastery]흐르는 피	[!Mastery]流动之血
 #16295	[!Mastery]묻어두고 싶은 기억은 방심하는 순간, 네 머릿속을 지배하지.	[!Mastery]那些隐藏的记忆在你放松警惕的瞬间会控制你的脑海。
 #16296	[!Mastery]절망의 한기	[!Mastery]绝望之寒
 #16297	[!Mastery]얼어붙은 모든 것은 동작하지 않기 마련이지.	[!Mastery]被冻结的东西当然起不了任何作用。
@@ -12377,7 +12377,7 @@
 #19521	[!Mastery]기반이 단단해야 빠르게 성장할 수 있다.	[!Mastery]基础牢固才能快速成长。
 #19522	[!Mastery]야생의 지식	[!Mastery]狂野知识
 #19523	[!Mastery]모든 문제는 해결책이 있다.	[!Mastery]所有问题都有解决的办法。
-#19525	[!Mastery]끈질긴 생명력	[!Mastery]顽强的生命力
+#19525	[!Mastery]끈질긴 생명력	[!Mastery]顽强生机
 #19526	[!Mastery]살아 남아라!	[!Mastery]存活下来！
 #19528	[!Mastery]숙면	[!Mastery]沉睡
 #19529	[!Mastery]숙면 뒤의 고통은 없다.	[!Mastery]睡眠是不会带来痛苦的。
@@ -14648,7 +14648,7 @@
 #22328	[!GuideMessage]물품 목록이 정상적으로 완료되었습니다.	[!GuideMessage]更新完成。
 #22329	[!WordCollection][!Menu]창고 물품 목록	[!WordCollection][!Menu]仓库物品列表
 #22330	[!Loading]변절자	[!Loading]变节者
-#22332	[!Mastery]죽음을 경배하라.	[!Mastery]敬拜死亡吧。
+#22332	[!Mastery]죽음을 경배하라.	[!Mastery]敬拜死亡
 #22333	[!Mastery]그대는 죽어야만 한다는 사실을 명심하라!	[!Mastery]铭记你必死的这一事实！
 #22334	[!Mastery]시야 내 아군이 $Dead$이 되면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]视野内的友军$Dead$时，$ActionTime$将减少$Value$。
 #22335	[!Mastery]$Mastery$ 발동으로 자신의 턴이 되는 경우, $Buff$ 상태가 됩니다.	[!Mastery]$Mastery$的发动变成自己的回合时，将进入$Buff$。
