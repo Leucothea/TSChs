@@ -4,7 +4,7 @@
 #13	[!Ability]경보 사격	[!Ability]警告射击
 #17	[!Ability]강타	[!Ability]猛击
 #25	[!Ability]용기의 물약	[!Ability]勇气药剂
-#28	[!Ability]파괴검	[!Ability]破坏剑
+#28	[!Ability]파괴검	[!Ability]破灭斩
 #34	[!Ability]화염병던지기	[!Ability]投掷燃烧瓶
 #36	[!Ability]견제 사격	[!Ability]牵制射击
 #38	[!Ability]안정	[!Ability]安定
@@ -12,7 +12,7 @@
 #45	[!Ability]냉철함	[!Ability]冷峻
 #46	[!Ability]연속베기	[!Ability]连斩
 #47	[!Ability]연타	[!Ability]连击
-#48	[!Ability]더블스윙	[!Ability]双手挥击
+#48	[!Ability]더블스윙	[!Ability]多重挥击
 #50	[!Ability]드롭킥	[!Ability]拋踢
 #54	[!Ability]팔방 사격	[!Ability]八方射击
 #56	[!Ability]신뢰의 물약	[!Ability]信赖药剂
@@ -68,17 +68,17 @@
 #168	[!Ability]상급 회복약	[!Ability]高级恢复药
 #169	[!Ability]급소가격	[!Ability]要害刺击
 #171	[!Ability]섬광랑	[!Ability]闪光浪
-#174	[!Ability]흩날리는 불꽃	[!Ability]飘散的火花
+#174	[!Ability]흩날리는 불꽃	[!Ability]飘散之火
 #175	[!Ability]몸통박치기	[!Ability]身躯冲撞
-#176	[!Ability]들이받기	[!Ability]顶撞
+#176	[!Ability]들이받기	[!Ability]撞击
 #178	[!Ability]스콜지	[!Ability]天灾
-#179	[!Ability]할퀴기	[!Ability]抓挠
+#179	[!Ability]할퀴기	[!Ability]爪击
 #182	[!Ability]연쇄 사격	[!Ability]连环射击
 #183	[!Ability]명령 하달	[!Ability]下达命令
 #184	[!Ability]목표 지정	[!Ability]指定目标
 #190	[!Ability]사격	[!Ability]射击
-#191	[!Ability]베기	[!Ability]切割
-#192	[!Ability]하단 베기	[!Ability]下段切割
+#191	[!Ability]베기	[!Ability]斩击
+#192	[!Ability]하단 베기	[!Ability]下段斩
 #194	[!Ability]연막탄	[!Ability]烟雾弹
 #202	[!Ability]스프레이 레인	[!Ability]喷雾之雨
 #204	[!Ability]대기	[!Ability]等待
@@ -2168,7 +2168,7 @@
 #4494	[!Ability]$DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]造成$DamageAmount$的$DamageType$伤害。
 #4498	[!Ability]$ApplyBuff$ 상태가 됩니다.	[!Ability]将进入$ApplyBuff$状态。
 #4500	[!Ability]복용한 대상은 $ApplyBuff$ 상태가 됩니다.	[!Ability]服用的目标变成$ApplyBuff$状态。
-#4504	[!Ability]번개 울음	[!Ability]闪电哭泣
+#4504	[!Ability]번개 울음	[!Ability]悲伤之雷
 #4510	[!Ability]대검을 가볍게 휘두르며 근접한 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]轻轻挥舞大剑，给近身的目标造成$DamageAmount$的$DamageType$伤害。
 #4512	[!Ability]대검을 직선으로 날려 해당 방향의 모든 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]用大剑直线飞切，给该方向上的所有目标造成$DamageAmount$的$DamageType$伤害。
 #4514	[!Ability]높게 뛰어 올라 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]高高跃起造成$DamageAmount$的$DamageType$伤害。
@@ -4440,7 +4440,7 @@
 #8024	[!SystemMail]피에르토 코르토나	[!SystemMail]彼得罗・科尔托纳
 #8032	[!GuideMessage]뒤쪽에 여유공간이 없는 적을 밀쳐내는 공격이 적중한 경우 대상은 [colour='FFFFFF00']기절[colour='FFFFFFFF'] 상태가 됩니다	[!GuideMessage]对于后方没有余地的目标被击退攻击命中时，该目标变成[colour='FFFFFF00']晕厥[colour='FFFFFFFF']状态。
 #8033	[!WordCollection]기절: 뒤로 밀려남	[!WordCollection]晕厥：被击退
-#8034	[!Ability]가르기	[!Ability]分开
+#8034	[!Ability]가르기	[!Ability]劈砍
 #8039	[!Loading]언젠가 같이 걸어갈 날을 위해...	[!Loading]为了将来有一天能一起前进...
 #8040	[!OptionInterface]대화 타이핑 사운드	[!OptionInterface]对话打字声音
 #8041	[!Rest]하아... 어쩌다보니 이런 일까지...	[!Rest]哈啊...事到如今怎会发生这种事情...
@@ -4498,10 +4498,10 @@
 #8109	[!GuideMessage]그래픽 품질을 자동으로 설정하시겠습니까?	[!GuideMessage]自动设置画质吗？
 #8111	[!SystemNotice]잠시 후에 임시점검이 있을 예정입니다.<br>현재 접속중인 유저분들은 점검 시간을 고려하여 미션을 안전하게 종료해 주시기 바랍니다. <br>서버 종료까지 남은시간: $ToTime$	[!SystemNotice]稍后将是临时检查时间。<br>当前在线的用户们请安排好各自的时间，安全结束任务。<br>关闭服务器剩余时间：$ToTime$
 #8112	[!SystemNotice]잠시 후에 정기점검이 있을 예정입니다.<br>현재 접속중인 유저분들은 점검 시간을 고려하여 미션을 안전하게 종료해 주시기 바랍니다. <br>서버 종료까지 남은시간: $ToTime$	[!SystemNotice]稍后将是定期检查时间。<br>当前在线的用户们请安排好各自的时间，安全结束任务。<br>关闭服务器剩余时间：$ToTime$
-#8115	[!Ability]불꽃 질주	[!Ability]疾走火花
+#8115	[!Ability]불꽃 질주	[!Ability]火花疾走
 #8117	[!Ability]번개 장막	[!Ability]闪电帷幕
 #8119	[!Ability]번개 대포	[!Ability]闪电炮
-#8121	[!Ability]번개 채찍	[!Ability]闪电之鞭
+#8121	[!Ability]번개 채찍	[!Ability]闪电鞭
 #8123	[!Ability]기력 회복약	[!Ability]气力恢复药
 #8124	[!Ability]활기의 약	[!Ability]活力药剂
 #8125	[!Ability]최상급 기력 회복약	[!Ability]最高级气力恢复药
@@ -4646,10 +4646,10 @@
 #8315	[!Mastery]후회하지 않는 선택이란 없다.	[!Mastery]没有什么选择是不会后悔的。
 #8316	[!Mastery]최상의 선택	[!Mastery]算无遗策
 #8318	[!Ability]조준 제압 사격	[!Ability]瞄准压制射击
-#8319	[!Ability]박 터트리기	[!Ability]爆头
-#8322	[!Ability]화염비	[!Ability]火焰雨
+#8319	[!Ability]박 터트리기	[!Ability]爆裂一击
+#8322	[!Ability]화염비	[!Ability]火雨
 #8325	[!Ability]섬광 베기	[!Ability]闪光切割
-#8327	[!Ability]마루 흔들기	[!Ability]摇晃地板
+#8327	[!Ability]마루 흔들기	[!Ability]震地一击
 #8328	[!Ability]번개 베기	[!Ability]闪电切割
 #8329	[!Buff]거미줄	[!Buff]蛛网
 #8331	[!Item]해골 부적	[!Item]骷髅符咒
@@ -4709,7 +4709,7 @@
 #8428	[!Ability]하늘 위로 높게 점프하여 적의 공격을 회피합니다.	[!Ability]向空中高高跃起，闪避敌人的攻击。
 #8431	[!Ability]거미줄 낙하	[!Ability]蛛网降落
 #8433	[!Ability]거미 탄환	[!Ability]蜘蛛子弹
-#8434	[!Ability]거미줄치기	[!Ability]织造蛛网
+#8434	[!Ability]거미줄치기	[!Ability]织网
 #8441	[!Mastery]대지의 가호	[!Mastery]土之护佑
 #8443	[!Mastery]불꽃의 가호	[!Mastery]火之护佑
 #8445	[!Mastery]꺼지지 않는 불빛이 가득한 곳이다.	[!Mastery]这是个充满着不灭的灯光的地方。
@@ -4761,8 +4761,8 @@
 #8508	[!SystemMail]안녕하세요, 트러블슈터 개발팀입니다.<br><br>트러블슈터의 '앞서 해보기'에 참여해주셔서 감사합니다.<br><br>언제나 여러분의 의견을 바탕으로 더 나은 트러블슈터가 되도록 하겠습니다.<br><br>향후 개발되는 신규 의상들은 게임 내에서 얻을 수 있는 '발키리 코인' 을 통하여 구입할 수 있도록 제공 할 예정입니다. <br><br>아직은 여력이 없어 간단한 변경의 의상이지만 여력이 되는대로 멋진 의상을 선보일 수 있도록 노력하겠습니다.<br><br>해당 의상은 장비창의 맨 아래 추가된 의상 슬롯에 착용하시면 됩니다.<br><br>꾸준히 개선하여 더 좋은 트러블슈터가 되도록 하겠습니다.<br><br>감사합니다.	[!SystemMail]你好，我们是纷争终结者开发组。<br><br>感谢各位参与了纷争终结者的「试玩」。<br><br>有了大家的建议，纷争终结者定会迈向了更加优秀的未来的。<br><br>预计日后新推出的时装是可以在游戏内使用「女武神硬币」进行购买的。<br><br>因为我们时间有限，目前只有简单的变装服饰。但是在将来我们一定会加倍努力，为大家带来更多的帅气时装。<br><br>该服装直接装备到装备栏最底部出现的服装栏中即可。<br><br>我们将精益求精，为大家展现更好的纷争终结者。<br><br>谢谢。
 #8511	[!Ability]바람의 힘을 자신에게 부여하여 $ApplyBuff$ 상태가 됩니다.	[!Ability]加持风之力，让自己进入$ApplyBuff$状态。
 #8512	[!Ability]바람 장막	[!Ability]暴风帷幕
-#8513	[!Ability]바람 탄환	[!Ability]暴风子弹
-#8515	[!Ability]바람 대포	[!Ability]暴风大炮
+#8513	[!Ability]바람 탄환	[!Ability]暴风弹
+#8515	[!Ability]바람 대포	[!Ability]暴风炮
 #8516	[!Buff]가속	[!Buff]加速
 #8518	[!Buff]바람 장막	[!Buff]暴风帷幕
 #8519	[!CriticalStrikeChanceCondition]목표 거리	[!CriticalStrikeChanceCondition]目标距离
@@ -5036,11 +5036,11 @@
 #8876	[!WordCollection][!통계]일반	[!WordCollection]普通
 #8877	[!Ability]방패치기	[!Ability]盾挡
 #8878	[!Ability]대지의 가호를 받은 아군은 $ApplyBuff$ 상태가 됩니다.	[!Ability]受到大地护佑的队友将进入$ApplyBuff$状态。
-#8879	[!Ability]대지의 축복	[!Ability]大地的祝福
+#8879	[!Ability]대지의 축복	[!Ability]大地祝福
 #8881	[!Ability]균열	[!Ability]龟裂
 #8883	[!Ability]지진	[!Ability]地震
 #8886	[!Ability]치유	[!Ability]治愈
-#8887	[!Buff]대지의 축복	[!Buff]大地的祝福
+#8887	[!Buff]대지의 축복	[!Buff]大地祝福
 #8888	[!GuideMessage]대부분의 연출은 ESC키를 입력하면 생략하실 수 있습니다.	[!GuideMessage]大部分的动画可以按ESC键来跳过。
 #8890	[!Item]전투 방패	[!Item]战斗盾牌
 #8891	[!Item]발할라 경찰들에게 지급된 전투용 방패. 높은 초능력 저항력을 가지고 있다.	[!Item]这是发放给巴赫拉警察们的战斗用盾牌。带有较高的超能力抗性。
@@ -5206,7 +5206,7 @@
 #9080	[!WordCollection]체크포인트로 귀환	[!WordCollection]返回检查点
 #9082	[!GuideMessage]대상을 [colour='FFFFAA00']전투 불능[colour='FFCCCCCC']시키는 공격 시 대상의 [colour='FFFFFFFF']남은 체력을 초과한 피해량[colour='FFCCCCCC']이 적의 [colour='FFFFFFFF']최대 체력의 30%[colour='FFCCCCCC']를 넘는 경우 [colour='FFFFFF00']오버킬[colour='FFCCCCCC']을 달성할 수 있습니다.<br><br>[colour='FFFFFF00']오버킬[colour='FFCCCCCC']을 달성하면 다음과 같은 효과가 적용됩니다.<br><br>- 획득한 경험치의 100%만큼 추가 경험치를 획득합니다.<br>- 고급 이상 아이템의 획득 확률이 증가합니다.<br>- 특성의 획득 확률이 증가합니다.<br>- 트러블메이커 일람의 정보 획득량이 2배 증가합니다.	[!GuideMessage]当目标[colour='FFFFAA00']无法战斗[colour='FFCCCCCC']时，如果[colour='FFFFFFFF']超过目标剩余体力部分的伤害[colour='FFCCCCCC']超过敌人[colour='FFFFFFFF']最大体力值的30％[colour='FFCCCCCC']，可以触发[colour='FFFFFF00']过度击杀[colour='FFCCCCCC']。<br><br>触发[colour='FFFFFF00']过度击杀[colour='FFCCCCCC']时，会产生以下效果。<br><br>- 获得100%的额外经验值。<br>- 高级及以上的物品的获得概率增加。<br>- 天赋的获得概率增加。<br>- 纷争制造者图鉴的信息量增加为两倍。
 #9083	[!GuideMessage]대상을 [colour='FFFFAA00']전투 불능[colour='FFCCCCCC']시키는 공격 시 대상의 체력이 [colour='FFFFFFFF']최대 체력[colour='FFCCCCCC']인 경우 [colour='FFFFFF00']일격 필살[colour='FFCCCCCC']을 달성할 수 있습니다.<br><br>[colour='FFFFFF00']일격 필살[colour='FFCCCCCC']을 달성하면 다음과 같은 효과가 적용됩니다.<br><br>- 획득한 경험치의 100%만큼 추가 경험치를 획득합니다.<br>- 고급 이상 아이템의 획득 확률이 증가합니다.<br>- 특성의 획득 확률이 증가합니다.<br>- 트러블 메이커 일람의 정보 획득량이 2배 증가합니다.	[!GuideMessage]当目标[colour='FFFFAA00']无法战斗[colour='FFCCCCCC']时，如果目标的体力是[colour='FFFFFFFF']最大的体力[colour='FFCCCCCC']，可以触发[colour='FFFFFF00']一击必杀[colour='FFCCCCCC']。<br><br>触发[colour='FFFFFF00']一击必杀[colour='FFCCCCCC']时，会产生以下效果。<br><br>- 获得100%的额外经验值。<br>- 高级及以上的物品的获得概率增加。<br>- 天赋的获得概率增加。<br>- 纷争制造者图鉴的信息量增加为两倍。
-#9085	[!Buff]거미줄 타기	[!Buff]翻蛛网
+#9085	[!Buff]거미줄 타기	[!Buff]踏网
 #9086	[!GuideMessage]$Buff$ 상태가 아닙니다.	[!GuideMessage]不是$Buff$状态。
 #9087	[!Loading]엉켜버린 실타래	[!Loading]扭结的线团
 #9088	[!ObjectInfo]로우	[!ObjectInfo]洛
@@ -5679,7 +5679,7 @@
 #9793	[!Mission]바 실버라이닝	[!Mission]沙佛莱宁酒吧
 #9795	[!Site]마른 장작 거리	[!Site]干柴街
 #9796	[!WordCollection]아이템 잠김	[!WordCollection]物品保护
-#9797	[!Ability]신중한 저격	[!Ability]慎重狙击
+#9797	[!Ability]신중한 저격	[!Ability]谨慎狙击
 #9798	[!Ability]목표 대상에 대하여 $ApplyBuff$ 상태가 됩니다.	[!Ability]目标对象进入$ApplyBuff$状态。
 #9799	[!Ability]목표 확인	[!Ability]目标确认
 #9801	[!Buff]목표 확인	[!Buff]目标确认
@@ -5755,7 +5755,7 @@
 #9896	[!Ability]주변의 아군을 모두 $ApplyBuff$ 상태로 만듭니다.	[!Ability]使周围的队友全体进入$ApplyBuff$状态。
 #9897	[!Ability]암석 떨구기	[!Ability]岩石投掷
 #9898	[!Ability]커다란 용암 떨구기	[!Ability]巨型熔岩投掷
-#9899	[!Ability]쩌렁쩌렁	[!Ability]轰隆作响
+#9899	[!Ability]쩌렁쩌렁	[!Ability]轰鸣
 #9900	[!Ability]커다란 암석 떨구기	[!Ability]巨型岩石投掷
 #9902	[!Item]붉은 꽃	[!Item]红花
 #9903	[!Item]왕도로리가 머리에 장식한 붉은 꽃입니다.	[!Item]这是多罗利大王戴在头上的红色花朵。
@@ -5797,9 +5797,9 @@
 #9940	[!Item]자홍빛 야샤 손목 보호대	[!Item]紫红夜叉护腕
 #9944	[!Loading]전사의 최후	[!Loading]战士之末
 #9945	[!Loading]침입자	[!Loading]入侵者
-#9947	[!Mastery]신경질쟁이	[!Mastery]坏脾气的人
-#9950	[!Mastery]야생의 분노	[!Mastery]野生之怒
-#9952	[!Mastery]숨겨둔 먹잇감	[!Mastery]隐藏的猎物
+#9947	[!Mastery]신경질쟁이	[!Mastery]易怒
+#9950	[!Mastery]야생의 분노	[!Mastery]野性之怒
+#9952	[!Mastery]숨겨둔 먹잇감	[!Mastery]猎物储藏
 #9953	[!MasteryType]도로리	[!MasteryType]多罗利
 #9954	[!Mission]구역 내 초과된 에너지를 해제하시오.	[!Mission]请释放掉该区域内过量的能量。
 #9955	[!Mission]'화염' 샘플 추출	[!Mission]提取「火焰」样本
@@ -6267,7 +6267,7 @@
 #10674	[!Buff_Positive]광분	[!Buff_Positive]疯狂
 #10676	[!Buff_Positive]용기	[!Buff_Positive]勇气
 #10677	[!Buff_Positive]평정	[!Buff_Positive]平静
-#10678	[!Buff_Positive]대지의 축복	[!Buff_Positive]大地的祝福
+#10678	[!Buff_Positive]대지의 축복	[!Buff_Positive]大地祝福
 #10679	[!Buff_Positive]격앙	[!Buff_Positive]激昂
 #10680	[!Buff_Positive]신뢰	[!Buff_Positive]信赖
 #10681	[!Buff_Positive]가속	[!Buff_Positive]加速
@@ -6586,7 +6586,7 @@
 #11233	[!ItemIdentify]신록 초월자의 %s	[!ItemIdentify]新绿超越者的%s
 #11234	[!Mastery]모든 것을 태워버려라.	[!Mastery]烧掉这一切。
 #11235	[!Ability]전방의 목표물에게 5 차례의 조준 사격을 하여 각 사격 당 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向前方的目标施放5次瞄准射击，每一击造成$DamageAmount$的$DamageType$伤害。
-#11236	[!Ability]조준 연속 사격	[!Ability]瞄准连续射击
+#11236	[!Ability]조준 연속 사격	[!Ability]连续瞄准射击
 #11237	[!Ability]강화된 화염병던지기	[!Ability]投掷强效燃烧瓶
 #11238	[!Ability]내려차기	[!Ability]下踢
 #11239	[!Ability]목표 범위 내 독구름을 생성하며 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다. 독구름에 닿으면 $ApplyBuff$됩니다.	[!Ability]在目标范围内形成毒云。给目标造成$DamageAmount$的$DamageType$伤害。接触毒云引发$ApplyBuff$。
@@ -7560,7 +7560,7 @@
 #13167	[!Ability]조명탄	[!Ability]照明弹
 #13168	[!Ability]승부를 가르는 한 발	[!Ability]决胜一击
 #13170	[!Ability]재장전	[!Ability]再填装
-#13171	[!Ability]사냥하는 자	[!Ability]狩猎之人
+#13171	[!Ability]사냥하는 자	[!Ability]狩猎者
 #13172	[!Ability]야수 소환	[!Ability]召唤野兽
 #13174	[!Ability]야수 해제	[!Ability]解除野兽
 #13175	[!AbilityDirectingEvent]길들이기 실패	[!AbilityDirectingEvent]驯服失败
@@ -7742,35 +7742,35 @@
 #13413	[!WordCollection][!Menu]충성도	[!WordCollection][!Menu]忠诚度
 #13414	[!WordCollection]저격 대상	[!WordCollection]狙击目标
 #13415	[!Ability]긴 혀를 이용해 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]使用长舌头造成$DamageAmount$的$DamageType$伤害。
-#13416	[!Ability]강철 채찍	[!Ability]钢铁之鞭
-#13417	[!Ability]커다란 강철 채찍	[!Ability]巨型钢铁之鞭
-#13418	[!Ability]커다란 불꽃 채찍	[!Ability]巨型火花之鞭
-#13419	[!Ability]커다란 얼음 채찍	[!Ability]巨型寒冰之鞭
-#13420	[!Ability]커다란 섬광 채찍	[!Ability]巨型闪光之鞭
-#13421	[!Ability]커다란 안개 채찍	[!Ability]巨型雾霭之鞭
-#13423	[!Ability]불꽃 채찍	[!Ability]火花之鞭
-#13424	[!Ability]섬광 채찍	[!Ability]闪光之鞭
-#13425	[!Ability]안개 채찍	[!Ability]雾霭之鞭
+#13416	[!Ability]강철 채찍	[!Ability]钢铁鞭
+#13417	[!Ability]커다란 강철 채찍	[!Ability]巨型钢铁鞭
+#13418	[!Ability]커다란 불꽃 채찍	[!Ability]巨型火花鞭
+#13419	[!Ability]커다란 얼음 채찍	[!Ability]巨型寒冰鞭
+#13420	[!Ability]커다란 섬광 채찍	[!Ability]巨型闪光鞭
+#13421	[!Ability]커다란 안개 채찍	[!Ability]巨型雾霭鞭
+#13423	[!Ability]불꽃 채찍	[!Ability]火花鞭
+#13424	[!Ability]섬광 채찍	[!Ability]闪光鞭
+#13425	[!Ability]안개 채찍	[!Ability]雾霭鞭
 #13426	[!Ability]산성 폭발을 일으켜 목표 범위 내 모든 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다. 산성 구름에 닿으면 $ApplyBuff$ 상태가 됩니다.	[!Ability]造成酸性爆炸，对目标范围内的所有敌人造成$DamageAmount$的$DamageType$伤害。接触酸性雾霭时将触发$ApplyBuff$ 状态。
 #13427	[!Ability]산성 폭발	[!Ability]酸性爆发
-#13429	[!Ability]집중의 노래	[!Ability]集中歌曲
+#13429	[!Ability]집중의 노래	[!Ability]集中之歌
 #13431	[!Ability]범위 내 적을 제외한 모든 대상들의 체력을 $DamageAmount$ 회복합니다.	[!Ability]恢复范围内除敌人以外的所有目标$DamageAmount$的体力。
-#13432	[!Ability]회복의 노래	[!Ability]恢复歌曲
-#13433	[!Ability]치유의 노래	[!Ability]治愈歌曲
+#13432	[!Ability]회복의 노래	[!Ability]恢复之歌
+#13433	[!Ability]치유의 노래	[!Ability]治愈之歌
 #13434	[!Ability]범위 내 적에게 무작위로 3 차례 낙뢰를 떨어뜨려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]对范围内的敌人进行随机3次落雷攻击，每次造成$DamageAmount$的$DamageType$伤害。
-#13435	[!Ability]천둥의 노래	[!Ability]雷歌曲
+#13435	[!Ability]천둥의 노래	[!Ability]闪电之歌
 #13436	[!Ability]범위 내 적에게 무작위로 8 차례 낙뢰를 떨어뜨려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]对范围内的敌人进行随机8次落雷攻击，每次造成$DamageAmount$的$DamageType$伤害。
-#13437	[!Ability]폭풍의 노래	[!Ability]暴风歌曲
+#13437	[!Ability]폭풍의 노래	[!Ability]暴风之歌
 #13438	[!Ability]범위 내 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]对范围内的敌人造成$DamageAmount$的$DamageType$伤害。
-#13439	[!Ability]네구리 높이 뛰기	[!Ability]纳古利跳高
-#13440	[!Ability]네구리 더 높이 뛰기	[!Ability]纳古利跳的更高
-#13441	[!Ability]휘두르기	[!Ability]挥舞
-#13442	[!Ability]불꽃 휘두르기	[!Ability]火花挥舞
-#13443	[!Ability]섬광 휘두르기	[!Ability]闪光挥舞
-#13444	[!Ability]안개 휘두르기	[!Ability]雾霭挥舞
-#13445	[!Ability]폭풍 같은 혀 놀림	[!Ability]暴风似的舌舞
+#13439	[!Ability]네구리 높이 뛰기	[!Ability]纳古利之跃
+#13440	[!Ability]네구리 더 높이 뛰기	[!Ability]强化纳古利之跃
+#13441	[!Ability]휘두르기	[!Ability]挥击
+#13442	[!Ability]불꽃 휘두르기	[!Ability]火花挥击
+#13443	[!Ability]섬광 휘두르기	[!Ability]闪光挥击
+#13444	[!Ability]안개 휘두르기	[!Ability]雾霭挥击
+#13445	[!Ability]폭풍 같은 혀 놀림	[!Ability]疾速舌舞
 #13446	[!Ability]범위 내 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]对范围内的目标造成$DamageAmount$的$DamageType$伤害。
-#13447	[!Ability]불꽃 마루 흔들기	[!Ability]抖动火花地板
+#13447	[!Ability]불꽃 마루 흔들기	[!Ability]火花震地一击
 #13449	[!Buff]반항적	[!Buff]叛逆的
 #13451	[!Buff]충성적	[!Buff]忠诚的
 #13453	[!Buff]온순함	[!Buff]温顺的
@@ -7917,7 +7917,7 @@
 #13625	[!Ability]주변의 적을 모두 $ApplyBuff$ 상태로 만듭니다.	[!Ability]使周围所有敌人变成$ApplyBuff$状态。
 #13626	[!Ability]멸망의 노래	[!Ability]灭亡之歌
 #13627	[!Ability]수면의 노래	[!Ability]睡眠之歌
-#13628	[!Ability]커다란 날갯짓	[!Ability]巨型展翅
+#13628	[!Ability]커다란 날갯짓	[!Ability]强化展翅
 #13629	[!Buff]고압 감전	[!Buff]高压触电
 #13630	[!Buff]부패	[!Buff]腐烂
 #13631	[!GuideMessage]더 이상 진화할 수 없습니다.	[!GuideMessage]无法继续进化
@@ -7932,7 +7932,7 @@
 #13646	[!Mastery]본인은 아무것도 모른다고 하지. 뻔뻔해라.	[!Mastery]本人说什么都不知道。脸皮真厚。
 #13647	[!Mastery]고약한 잠버릇	[!Mastery]丑陋的睡癖
 #13650	[!Mastery]태양 가까이 날지 마라.	[!Mastery]不要飞近太阳。
-#13651	[!Mastery]불타는 날갯짓	[!Mastery]燃烧之翼
+#13651	[!Mastery]불타는 날갯짓	[!Mastery]燃烧展翅
 #13653	[!Mastery]기회를 기다린다.	[!Mastery]等待机会。
 #13654	[!Mastery]수풀 속의 사냥꾼	[!Mastery]丛林猎手
 #13656	[!Mastery]자신의 전장을 누구보다 잘 알고 있지.	[!Mastery]比任何人都要了解自己的战场。
@@ -8035,7 +8035,7 @@
 #13798	[!Mastery]요동치는 물결	[!Mastery]涟漪
 #13799	[!Mastery]그물 위의 사냥꾼	[!Mastery]织网猎手
 #13802	[!Mastery]폭풍이 온다.	[!Mastery]暴风来了。
-#13803	[!Mastery]폭풍 날갯짓	[!Mastery]暴风之翼
+#13803	[!Mastery]폭풍 날갯짓	[!Mastery]暴风展翅
 #13808	[!MissionTemperature]더움	[!MissionTemperature]炎热
 #13809	[!Status]최대 기력	[!Status]最大气力
 #13810	[!Status]최대 연료	[!Status]最大燃料
@@ -8100,9 +8100,9 @@
 #13885	[!NamedEvent]네구리 공주	[!NamedEvent]纳古利公主
 #13886	[!Profession]저격총을 제작할 수 있습니다.	[!Profession]可以制作狙击步枪。
 #13887	[!Profession]저격총 제작	[!Profession]狙击步枪制作
-#13888	[!Ability]지정한 위치에 화염의 덫을 놓습니다. 화염의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]指定位置放置火焰陷井。火焰陷井将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
-#13889	[!Ability]지정한 위치에 얼음의 덫을 놓습니다. 얼음의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]指定位置放置寒冰陷井。火焰陷井将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
-#13890	[!Ability]지정한 위치에 번개의 덫을 놓습니다. 번개의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]指定位置放置闪电陷井。火焰陷井将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
+#13888	[!Ability]지정한 위치에 화염의 덫을 놓습니다. 화염의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]指定位置放置火焰陷阱。火焰陷阱将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
+#13889	[!Ability]지정한 위치에 얼음의 덫을 놓습니다. 얼음의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]指定位置放置寒冰陷阱。火焰陷阱将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
+#13890	[!Ability]지정한 위치에 번개의 덫을 놓습니다. 번개의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]指定位置放置闪电陷阱。火焰陷阱将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
 #13892	[!AbilityType]함정 어빌리티	[!AbilityType]陷阱技能
 #13893	[!Buff]조준됨	[!Buff]被瞄准
 #13895	[!Buff]위치 노출	[!Buff]暴露位置
@@ -8334,20 +8334,20 @@
 #14265	[!Ability]광폭화	[!Ability]狂暴化
 #14266	[!Ability]서리 갈기	[!Ability]霜雪鬃毛
 #14267	[!Ability]서리 갈기 해제	[!Ability]解除霜雪鬃毛
-#14269	[!Ability]날아가기	[!Ability]飞走
-#14270	[!Ability]불꽃 날갯짓	[!Ability]火花之翼
-#14271	[!Ability]서리 날갯짓	[!Ability]霜雪之翼
+#14269	[!Ability]날아가기	[!Ability]飞翔
+#14270	[!Ability]불꽃 날갯짓	[!Ability]火花展翅
+#14271	[!Ability]서리 날갯짓	[!Ability]霜雪展翅
 #14272	[!Ability]분노가 최대 수치가 되며 $ApplyBuff$ 상태가 됩니다.	[!Ability]怒气达到最大值，进入$ApplyBuff$状态。
-#14273	[!Ability]격앙의 울부짖음	[!Ability]激昂的吼叫声
-#14274	[!Ability]공포의 울부짖음	[!Ability]恐怖的吼叫声
+#14273	[!Ability]격앙의 울부짖음	[!Ability]激昂之吼
+#14274	[!Ability]공포의 울부짖음	[!Ability]恐怖之吼
 #14275	[!Ability]넓은 지역에 얼음비를 떨어뜨려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]在广阔的范围内投放冻雨，造成$DamageAmount$的$DamageType$伤害。
 #14276	[!Ability]얼음비	[!Ability]冻雨
 #14277	[!Ability]분노를 불꽃으로 바꿔 $ApplyBuff$ 상태가 됩니다.<br><br>$Perano$$ApplyBuff$ 상태가 해제된 이후 부터 어빌리티 재사용 대기 시간이 적용됩니다.$Blue_ON$	[!Ability]将怒气转换为火焰，进入$ApplyBuff$状态。<br><br>$Perano$$ApplyBuff$状态被解除后技能冷却开始计时。$Blue_ON$
 #14278	[!Ability]분노의 불꽃	[!Ability]愤怒之焰
 #14279	[!Ability]분노의 불꽃 해제	[!Ability]解除愤怒之焰
 #14280	[!Ability]분노를 한기로 바꿔 $ApplyBuff$ 상태가 됩니다.<br><br>$Perano$$ApplyBuff$ 상태가 해제된 이후 부터 어빌리티 재사용 대기 시간이 적용됩니다.$Blue_ON$	[!Ability]将怒气转换为寒气，进入$ApplyBuff$状态。<br><br>$Perano$$ApplyBuff$状态被解除后技能冷却开始计时。$Blue_ON$
-#14281	[!Ability]분노의 한기	[!Ability]愤怒的寒气
-#14282	[!Ability]분노의 한기 해제	[!Ability]解除愤怒的寒气
+#14281	[!Ability]분노의 한기	[!Ability]愤怒寒气
+#14282	[!Ability]분노의 한기 해제	[!Ability]解除愤怒寒气
 #14283	[!Ability]번개 질주	[!Ability]闪电疾走
 #14284	[!Ability]번개 갈기	[!Ability]闪电鬃毛
 #14285	[!Ability]번개 갈기 해제	[!Ability]解除闪电鬃毛
@@ -8379,26 +8379,26 @@
 #14314	[!Ability]자신을 $ApplyBuff$ 상태로 만듭니다.	[!Ability]令自身进入$ApplyBuff$状态。
 #14315	[!Ability]재생	[!Buff]苏生
 #14316	[!Ability]불꽃을 담은 발톱으로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]使用火焰利爪造成$DamageAmount$的$DamageType$伤害。
-#14317	[!Ability]불꽃 할퀴기	[!Ability]火花抓挠
+#14317	[!Ability]불꽃 할퀴기	[!Ability]火花之爪
 #14318	[!Ability]한기를 담은 발톱으로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]使用寒气利爪造成$DamageAmount$的$DamageType$伤害。
-#14319	[!Ability]얼음 할퀴기	[!Ability]寒冰抓挠
+#14319	[!Ability]얼음 할퀴기	[!Ability]寒冰之爪
 #14320	[!Ability]번개를 담은 발톱으로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]使用闪电利爪造成$DamageAmount$的$DamageType$伤害。
-#14321	[!Ability]번개 할퀴기	[!Ability]闪电抓挠
+#14321	[!Ability]번개 할퀴기	[!Ability]闪电之爪
 #14322	[!Ability]거미 얼음 탄환	[!Ability]蜘蛛寒冰弹
 #14323	[!Ability]거미 번개 탄환	[!Ability]蜘蛛闪电弹
-#14324	[!Ability]거미 중독 탄환	[!Ability]蜘蛛中毒弹
-#14325	[!Ability]거미 강화 탄환	[!Ability]蜘蛛强化弹
-#14326	[!Ability]거미 얼음 강화 탄환	[!Ability]蜘蛛寒冰强化弹
-#14327	[!Ability]거미 번개 강화 탄환	[!Ability]蜘蛛闪电强化弹
-#14328	[!Ability]거미 중독 강화 탄환	[!Ability]蜘蛛中毒强化弹
+#14324	[!Ability]거미 중독 탄환	[!Ability]蜘蛛剧毒弹
+#14325	[!Ability]거미 강화 탄환	[!Ability]强化蜘蛛子弹
+#14326	[!Ability]거미 얼음 강화 탄환	[!Ability]强化蜘蛛寒冰弹
+#14327	[!Ability]거미 번개 강화 탄환	[!Ability]强化蜘蛛闪电弹
+#14328	[!Ability]거미 중독 강화 탄환	[!Ability]强化蜘蛛剧毒弹
 #14329	[!Ability]별빛의 힘으로 범위 내의 아군의 상태 이상을 치료합니다.	[!Ability]利用星光之力，治愈指定范围内队友的异常状态。
 #14330	[!Ability]은신	[!Ability]隐身
 #14331	[!Ability]딱딱한 피부	[!Buff]硬皮
-#14332	[!Ability]커다란 불꽃 날갯짓	[!Ability]巨型火焰之翼
-#14333	[!Ability]커다란 서리 날갯짓	[!Ability]巨型寒霜之翼
-#14334	[!Ability]거미줄 던지기	[!Ability]投掷蛛网
+#14332	[!Ability]커다란 불꽃 날갯짓	[!Ability]强化火焰展翅
+#14333	[!Ability]커다란 서리 날갯짓	[!Ability]强化寒霜展翅
+#14334	[!Ability]거미줄 던지기	[!Ability]蛛网投掷
 #14335	[!Ability]천둥 장막	[!Ability]天雷帷幕
-#14337	[!Ability]거미줄 감전	[!Ability]蛛网触电
+#14337	[!Ability]거미줄 감전	[!Ability]闪电蛛网
 #14338	[!Buff]모든 피해량이 $ApplyAmountValue$ 증가하며 체력 회복 효과가 $ApplyAmountValue2$ 감소합니다.	[!Buff]所有伤害量增加$ApplyAmountValue$，体力恢复效果减少$ApplyAmountValue2$。
 #14339	[!Buff]전투 중 피해를 입으면, 낮은 확률로 전투를 포기하고 도망갑니다.	[!Buff]战斗中若受到伤害，有较小几率放弃战斗逃跑。
 #14340	[!Buff]$Yellow$전투를 포기한 야수는 해당 미션에서 더 이상 소환할 수 없습니다.	[!Buff]$Yellow$放弃战斗的野兽将不能在本次任务中再次被召唤。
@@ -8422,7 +8422,7 @@
 #14361	[!Buff]적을 전투 불능으로 만들면, 다음 턴 대기 시간이 $ApplyAmountValue$ 감소합니다.	[!Buff]令敌人无法战斗，则回合冷却时间减少$ApplyAmountValue$。
 #14362	[!Buff]얼음 속성 피해를 입을 시 $AddBuffName$ 상태가 됩니다. 넉백 시, $ApplyAmountValue$칸 더 밀려납니다. 	[!Buff]受到寒冰属性的伤害时进入$AddBuffName$状态。发生击退时，额外再击退$ApplyAmountValue$格。
 #14363	[!Buff]분노의 불꽃	[!Buff]愤怒的火焰
-#14364	[!Buff]분노의 한기	[!Buff]愤怒的寒气
+#14364	[!Buff]분노의 한기	[!Buff]愤怒寒气
 #14366	[!Buff]적의 원거리 공격 명중률이 $ApplyAmountValue$ 감소합니다.	[!Buff]敌人的远程攻击命中率降低$ApplyAmountValue$。
 #14367	[!Buff]번개 갈기 상태에서 번개 속성 공격 어빌리티를 사용 시, 어빌리티 사용 후 사용한 분노가 추가로 소모됩니다.	[!Buff]在闪电鬃毛状态下使用闪电属性的攻击技能时，技能使用后将会额外消耗用掉的怒气值等量的怒气值。
 #14368	[!Buff]번개 갈기	[!Buff]闪电鬃毛
@@ -8735,7 +8735,7 @@
 #14806	[!Status]장비한 아이템의 저항력	[!Status]已装备物品的抗性
 #14807	[!Status][!Short]장비한 아이템의 저항력	[!Status]已装备物品的抗性
 #14808	[!Ability]목표 범위 내 대상에게 번개를 발사하여 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向目标范围内的对象发射闪电，造成$DamageAmount$的$DamageType$伤害。
-#14809	[!Ability]번개 갈래 채찍	[!Ability]闪电鞭子
+#14809	[!Ability]번개 갈래 채찍	[!Ability]连续闪电鞭
 #14810	[!Ability]번개덩어리를 낙하시켜 목표 범위 내 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向目标范围内的对象投下闪电陨石，造成$DamageAmount$的$DamageType$伤害。
 #14811	[!Ability]번개 운석	[!Ability]闪电陨石
 #14814	[!Item]방염 보호대	[!Item]防火护具
@@ -9663,9 +9663,9 @@
 #16144	[!Ability]평정의 노래	[!Ability]平静之歌
 #16145	[!Ability]영웅의 노래	[!Ability]英雄之歌
 #16146	[!Ability]전설의 노래	[!Ability]传说之歌
-#16147	[!Ability]지정한 위치에 독의 덫을 놓습니다. 독의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]在指定位置放置毒之陷井。毒之陷井将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
-#16148	[!Ability]독의 덫	[!Ability]毒之陷井
-#16149	[!Ability]독의 덫 활성화	[!Ability]激活毒之陷井
+#16147	[!Ability]지정한 위치에 독의 덫을 놓습니다. 독의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]在指定位置放置剧毒陷阱。剧毒陷阱将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
+#16148	[!Ability]독의 덫	[!Ability]剧毒陷阱
+#16149	[!Ability]독의 덫 활성화	[!Ability]激活剧毒陷阱
 #16150	[!Ability]전격 기동	[!Ability]电击冲击
 #16151	[!Ability]플레임 핸드	[!Ability]火焰机械臂
 #16152	[!Item]강화 구동 장치 PF - 01	[!Item]强化驱动装备PF-01
@@ -9748,12 +9748,12 @@
 #16243	[!Shop]우리 가게 물건은 정말 좋은 물건 뿐이지.	[!Shop]我们商店的物品都很好。
 #16244	[!Shop]왠만한 물건은 다 있어. 천천히 둘러봐.	[!Shop]差不多所有的东西都有。慢慢看。
 #16246	[!Ability]달빛 물어뜯기	[!Ability]月光啃噬
-#16247	[!Ability]중독 거미줄 낙하	[!Ability]中毒蛛网降落
+#16247	[!Ability]중독 거미줄 낙하	[!Ability]剧毒蛛网降落
 #16248	[!Ability]불꽃 회오리	[!Ability]火花旋风
 #16249	[!Ability]어둠의 춤	[!Ability]黑暗之舞
 #16250	[!Ability]달빛 떨구기	[!Ability]月光投掷
 #16251	[!Ability]거미 산성 탄환	[!Ability]蜘蛛酸性弹
-#16252	[!Ability]거미 산성 강화 탄환	[!Ability]蜘蛛酸性强化弹
+#16252	[!Ability]거미 산성 강화 탄환	[!Ability]强化蜘蛛酸性弹
 #16253	[!Ability]커다란 달빛 떨구기	[!Ability]超大月光投掷
 #16255	[!Ability]$ApplyBuff$ 상태가 됩니다. $RemoveBuff$ 상태를 해제합니다.	[!Ability]进入$ApplyBuff$状态。解除$RemoveBuff$状态。
 #16256	[!Ability]흉폭한 티마	[!Ability]凶暴的蒂玛
@@ -9814,9 +9814,9 @@
 #16326	[!ObjectInfo]붉은 이빨	[!ObjectInfo]赤牙
 #16327	[!Ability]맹독구름	[!Ability]剧毒云
 #16328	[!Ability]맹독구름 해제	[!Ability]解除剧毒云
-#16330	[!Ability]지정한 위치에 섬광의 덫을 놓습니다. 섬광의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]在指定位置放置闪光陷井。闪光陷井将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
-#16331	[!Ability]섬광의 덫	[!Ability]闪光陷井
-#16332	[!Ability]섬광의 덫 활성화	[!Ability]激活闪光陷井
+#16330	[!Ability]지정한 위치에 섬광의 덫을 놓습니다. 섬광의 덫은 범위안의 움직이는 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]在指定位置放置闪光陷阱。闪光陷阱将对移动到其范围内的目标造成$DamageAmount$的$DamageType$伤害。
+#16331	[!Ability]섬광의 덫	[!Ability]闪光陷阱
+#16332	[!Ability]섬광의 덫 활성화	[!Ability]激活闪光陷阱
 #16334	[!Item]사냥꾼 인장 - 붉은 광산 지구	[!Item]猎人印章 - 红矿地区
 #16335	[!Item]제프가 세계수 지구 야수 사냥 대회에서 3년 간 우승하여 영구적으로 소유하게 된 인장.	[!Item]这是杰夫连续3年获得世界树地区狩猎大会冠军而永久持有的印章。
 #16336	[!Item]전문 사냥꾼의 부츠	[!Item]专业猎人的靴子
@@ -9911,7 +9911,7 @@
 #16457	[!WordCollection]정보 완료 보상: 제작 가능 아이템	[!WordCollection]信息奖励：可制造的道具
 #16459	[!Ability]목표 대상에게 2 차례의 박치기를 하여 각 공격 당 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向目标冲撞2次，每次攻击将给予对方$DamageAmount$的$DamageType$伤害。
 #16460	[!Ability]연속 강철 박치기	[!Ability]连续钢铁头槌
-#16461	[!Ability]어둠 할퀴기	[!Ability]暗影抓挠
+#16461	[!Ability]어둠 할퀴기	[!Ability]暗影之爪
 #16462	[!Ability]지면 내려치기	[!Ability]猛击地面
 #16464	[!Ability]대쉬 어퍼컷	[!Ability]冲击上勾拳
 #16465	[!GuideMessage]%s[이] 수리되었습니다.	[!GuideMessage]已修理%s。
@@ -10329,7 +10329,7 @@
 #16959	[!Mastery]영웅의 등 뒤에는 수많은 자들이 있다.	[!Mastery]英雄背后有无数的支持者。
 #16963	[!Mastery]이른 아침 우산 끝에 나란히 메달려 떨어지는 아름다움.	[!Mastery]清晨在伞尖上双双飘落的美丽。
 #16965	[!GameSystemMessageFormat]백호파 안드레이 직속 부대가 전투 상태에 돌입하였습니다.	[!GameSystemMessageFormat]安德烈的直属部队开始战斗了。
-#16967	[!Ability]말뚝박기	[!Ability]打桩锤
+#16967	[!Ability]말뚝박기	[!Ability]打桩击
 #16968	[!Buff]적의 시야에 들어가도 적의 은신 탐지 거리 바깥이면 발각되지 않습니다. 해당 상태에서 공격 시, 적의 회피율과 방어율을 무시합니다.	[!Buff]即使进入敌人的视野，只要还在敌人的隐身探测距离之外，就不会被发现。在相应状态下攻击时，无视敌人的回避率和防御率。
 #16969	[!Item]흑철 파이프	[!Item]黑铁管
 #16970	[!Loading]계약 파기	[!Loading]撤销合同
@@ -10724,7 +10724,7 @@
 #17565	[!WordCollection]참조 대상	[!WordCollection]参考对象
 #17566	[!WordCollection]관심 특성 보기	[!WordCollection]查看关注天赋
 #17567	[!Ability]불꽃 베기	[!Ability]火花斩
-#17568	[!Ability]불꽃 파괴검	[!Ability]火花破坏剑
+#17568	[!Ability]불꽃 파괴검	[!Ability]火花破灭斩
 #17569	[!Item]칠흑의 펄스 블레이드	[!Item]漆黑的脉冲剑
 #17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	[!Item]从东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的肉烟香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向肉烟香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。「真是把好剑，让我来用吧。」
 #17571	[!Mastery]마검 제어	[!Mastery]魔剑掌控
@@ -11224,7 +11224,7 @@
 #18111	[!Troublebook]그림자 연극	[!Troublebook]皮影戏
 #18112	[!Ability]산성액던지기	[!Ability]投掷酸性液
 #18113	[!Ability]강화된 산성액던지기	[!Ability]强化投掷酸性液
-#18114	[!Ability]산성액뿌리기	[!Ability]播撒酸性液
+#18114	[!Ability]산성액뿌리기	[!Ability]泼洒酸性液
 #18115	[!Ability]최대 3개의 산성액이 든 병을 동시에 던져 목표 범위 내 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]同时向对方投掷最多3个装有酸性液的瓶子，并对目标范围内的对象造成$DamageAmount$的$DamageType$伤害。
 #18116	[!Item]산성액	[!Item]酸性液
 #18117	[!Mastery]기회창출자	[!Mastery]见机行事
@@ -12214,31 +12214,31 @@
 #19348	[!Ability]공포의 기운 해제	[!Ability]解除恐怖之息
 #19349	[!Ability]맹렬한 불꽃	[!Ability]烈焰
 #19350	[!Ability]맹렬한 불꽃 해제	[!Ability]解除烈焰
-#19351	[!Ability]얼음 갑옷	[!Ability]冰之盔甲
-#19352	[!Ability]얼음 갑옷 해제	[!Ability]解除冰之盔甲
+#19351	[!Ability]얼음 갑옷	[!Ability]寒冰盔甲
+#19352	[!Ability]얼음 갑옷 해제	[!Ability]解除寒冰盔甲
 #19353	[!Ability]맹독 갑옷	[!Ability]剧毒盔甲
 #19354	[!Ability]맹독 갑옷 해제	[!Ability]解除剧毒盔甲
 #19355	[!Ability]SP가 50 증가합니다.	[!Ability]增加50的SP。
-#19356	[!Ability]탈피	[!Ability]蜕皮
+#19356	[!Ability]탈피	[!Ability]褪皮
 #19357	[!Ability]자신의 모든 물리적 상태 이상을 해제하며 체력을 $DamageAmount$ 회복합니다.	[!Ability]解除自身所有的物理异常状态并恢复$DamageAmount$体力。
 #19358	[!Ability]번개 이동	[!Ability]闪电移动
-#19361	[!Ability]맹독 할퀴기	[!Ability]剧毒抓挠
+#19361	[!Ability]맹독 할퀴기	[!Ability]剧毒之爪
 #19362	[!Ability]맹독이 묻은 발톱으로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]使用含有剧毒的爪子造成$DamageAmount$的$DamageType$伤害。
-#19363	[!Ability]역병 할퀴기	[!Ability]瘟疫抓挠
+#19363	[!Ability]역병 할퀴기	[!Ability]瘟疫之爪
 #19364	[!Ability]역병균이 묻은 발톱으로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]使用含有病菌的爪子造成$DamageAmount$的$DamageType$伤害。
-#19365	[!Ability]바람 할퀴기	[!Ability]风之抓挠
+#19365	[!Ability]바람 할퀴기	[!Ability]暴风之爪
 #19366	[!Ability]바람을 담은 발톱으로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]使用含有风之力的爪子造成$DamageAmount$的$DamageType$伤害。
 #19367	[!Ability]번개 물어뜯기	[!Ability]闪电啃噬
 #19368	[!Ability]맹독 물어뜯기	[!Ability]剧毒啃噬
 #19369	[!Ability]역병 물어뜯기	[!Ability]瘟疫啃噬
-#19370	[!Ability]화염 마차	[!Ability]火焰马车
+#19370	[!Ability]화염 마차	[!Ability]火焰龙车
 #19371	[!Ability]전방을 향한 강력한 질주로 돌진 방향의 모든 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]冲向前方。对该方向上的所有敌人造成$DamageAmount$的$DamageType$伤害。
-#19372	[!Ability]얼음 마차	[!Ability]寒冰马车
-#19373	[!Ability]번개 마차	[!Ability]闪电马车
-#19374	[!Ability]맹독 마차	[!Ability]剧毒马车
-#19375	[!Ability]역병 마차	[!Ability]瘟疫马车
-#19376	[!Ability]바람 마차	[!Ability]风马车
-#19377	[!Ability]어둠 마차	[!Ability]暗影马车
+#19372	[!Ability]얼음 마차	[!Ability]寒冰龙车
+#19373	[!Ability]번개 마차	[!Ability]闪电龙车
+#19374	[!Ability]맹독 마차	[!Ability]剧毒龙车
+#19375	[!Ability]역병 마차	[!Ability]瘟疫龙车
+#19376	[!Ability]바람 마차	[!Ability]暴风龙车
+#19377	[!Ability]어둠 마차	[!Ability]暗影龙车
 #19378	[!Ability]불꽃 숨결	[!Ability]火花之息
 #19379	[!Ability]뜨거운 불꽃 숨결로 전방의 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]用滚烫的火花气息对前方的敌人造成$DamageAmount$的$DamageType$伤害。
 #19380	[!Ability]서리 숨결	[!Ability]寒冰之息
@@ -12249,7 +12249,7 @@
 #19385	[!Ability]강렬한 산성 숨결로 전방의 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]用强力的酸性气息对前方的敌人造成$DamageAmount$的$DamageType$伤害。
 #19386	[!Ability]부패 숨결	[!Ability]腐烂之息
 #19387	[!Ability]강렬한 부패 숨결로 전방의 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]用强烈的腐烂气息对前方的敌人造成$DamageAmount$的$DamageType$伤害。
-#19388	[!Ability]폭풍 숨결	[!Ability]暴暴风之息
+#19388	[!Ability]폭풍 숨결	[!Ability]飓风之息
 #19389	[!Ability]강렬한 폭풍 숨결로 전방의 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]用强力的暴风气息对前方的敌人造成$DamageAmount$的$DamageType$伤害。
 #19390	[!Ability]짙은 어둠 숨결	[!Ability]沉黑之息
 #19391	[!Ability]짙은 어둠 숨결로 전방의 적에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]用深邃的黑暗气息对前方的敌人造成$DamageAmount$的$DamageType$伤害。
@@ -12296,13 +12296,13 @@
 #19432	[!Ability]번개탄	[!Ability]闪电弹
 #19433	[!Ability]번개탄을 날려 목표 범위 내 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向目标发射闪电弹对象造成$DamageAmount$的$DamageType$伤害。
 #19434	[!Ability]초중력탄	[!Ability]超重力弹
-#19435	[!Ability]복종의 울부짖음	[!Ability]服从的吼叫
+#19435	[!Ability]복종의 울부짖음	[!Ability]服从之吼
 #19436	[!Ability]범위 내 자신의 레벨보다 낮은 야수는 $ApplyBuff$, 인간은 $ApplySubBuff$가 됩니다.	[!Ability]范围内比自身等级更低的野兽进入$ApplyBuff$，人类进入$ApplySubBuff$的状态。
-#19437	[!Ability]부화의 울부짖음	[!Ability]孵化的吼叫
+#19437	[!Ability]부화의 울부짖음	[!Ability]孵化之吼
 #19439	[!Ability]암흑 질주	[!Ability]暗黑疾走
-#19440	[!Ability]서리 마루 흔들기	[!Ability]抖动霜雪地板
-#19441	[!Ability]섬광 마루 흔들기	[!Ability]抖动闪光地板
-#19442	[!Ability]산성 마루 흔들기	[!Ability]抖动酸性地板
+#19440	[!Ability]서리 마루 흔들기	[!Ability]霜雪震地一击
+#19441	[!Ability]섬광 마루 흔들기	[!Ability]闪光震地一击
+#19442	[!Ability]산성 마루 흔들기	[!Ability]酸性震地一击
 #19443	[!AbilityHPDrainType]포식	[!AbilityHPDrainType]捕食
 #19444	[!AbilityHPDrainType]흡혈	[!Buff]吸血
 #19445	[!AbilityHPDrainType]생명력 강탈	[!AbilityHPDrainType]掠夺生命力
@@ -12318,7 +12318,7 @@
 #19455	[!Buff]대상이 전투 불능 시, $Explosion$[이] 일어납니다.	[!Buff]对象无法战斗时，将产生$Explosion$。
 #19456	[!Buff]맹렬한 불꽃	[!Buff]烈焰
 #19457	[!Buff]화염 속성 공격 어빌리티로 공격 시, 대상이 $Dead$이 되면 해당 대상이 $Explosion$[을] 일으킵니다.	[!Buff]使用火焰属性攻击技能攻击时，若对象$Dead$时，该对象将产生$Explosion$。
-#19458	[!Buff]얼음 갑옷	[!Buff]冰之盔甲
+#19458	[!Buff]얼음 갑옷	[!Buff]寒冰盔甲
 #19459	[!Buff]피해를 입을 시, 피해를 입힌 대상은 $AddBuffName$ 상태가 됩니다.	[!Buff]受到伤害时，发起攻击的对象将进入$AddBuffName$。
 #19460	[!Buff]맹독 갑옷	[!Buff]剧毒盔甲
 #19461	[!Buff]공포의 기운	[!Buff]恐怖之息
@@ -12358,7 +12358,7 @@
 #19497	[!Item]빛나는 드라키의 심장	[!Item]闪耀的德拉基之心
 #19498	[!ItemType]비늘	[!ItemType]鳞素材
 #19499	[!Job]드라키	[!Job]德拉基
-#19500	[!Mastery]고결한 자아	[!Mastery]高洁的自我
+#19500	[!Mastery]고결한 자아	[!Mastery]高洁之心
 #19501	[!Mastery]그들은 고대 용의 피를 이어 받은 아종이라고 불리지.	[!Mastery]他们被称为继承古代龙血的亚种。
 #19503	[!Mastery]비행	[!Mastery]飞行
 #19504	[!Mastery]늘 갈망하라, 늘 우직하라.	[!Mastery]时刻渴望，时刻愚直。
@@ -12385,7 +12385,7 @@
 #19532	[!Mastery]먹어라! 마셔라!	[!Mastery]吃吧！喝吧！
 #19534	[!Mastery]거친 숨결	[!Mastery]粗重之息
 #19535	[!Mastery]그들의 거친 숨결에 닿는 자들은 모두 사라질 뿐이다.	[!Mastery]被他们粗糙的气息所及者，都会消失。
-#19537	[!Mastery]탈피	[!Mastery]蜕皮
+#19537	[!Mastery]탈피	[!Mastery]褪皮
 #19538	[!Mastery]과거의 자신을 버리고 미래를 위한 현재의 자신에 충실하라.	[!Mastery]抛弃过去的自己，忠于现在为了未来的自己。
 #19539	[!Mastery]숨결 고르기	[!Mastery]平和之息
 #19541	[!Mastery]오래된 감염	[!Mastery]上古感染
@@ -12416,7 +12416,7 @@
 #19577	[!Mastery]우리는 꿈들이 만들어지는 것과 같은 존재이며, 우리의 짧은 삶은 잠에 둘러싸여 있다.	[!Mastery]我们都是梦中的人物，我们的一生都在酣睡之中。
 #19579	[!Mastery]촘촘한 비늘	[!Mastery]细密之鳞
 #19580	[!Mastery]보이는 것만으로 판단하면 실수하기 마련이지.	[!Mastery]光看外表判断就会有失误。
-#19582	[!Mastery]이상한 비늘	[!Mastery]奇怪之鳞
+#19582	[!Mastery]이상한 비늘	[!Mastery]奇特之鳞
 #19583	[!Mastery]모든 것이 동일하다면 그건 네 착각이야.	[!Mastery]如果觉得一切都一样，那就是你的错觉。
 #19585	[!Mastery]동족 포식	[!Mastery]捕食同族
 #19586	[!Mastery]대를 위해 소를 희생한다.	[!Mastery]为大牺小。
@@ -12601,7 +12601,7 @@
 #19816	[!Item]다중 연산 처리 장치를 이용해 드라키 방어구들과 호환을 이룰 수 있도록 특수 제작된 엘리게이터 블레이드	[!Item]使用了多重运算装置提高了德拉基护具的兼容性的短吻鳄剑。
 #19817	[!Item]기관권총 RMS - 233 L	[!Item]冲锋枪RMS-233 L
 #19818	[!Item]다중 연산 처리 장치를 이용해 드라키 방어구들과 호환을 이룰 수 있도록 특수 제작된 RMS 시리즈 기관권총	[!Item]使用了多重运算装置提高了德拉基护具的兼容性的冲锋枪。
-#19819	[!Item]드라키의 이상한 비늘	[!Item]奇怪的德拉基之鳞
+#19819	[!Item]드라키의 이상한 비늘	[!Item]奇特的德拉基之鳞
 #19820	[!Item]드라키의 빛나는 비늘	[!Item]明亮的德拉基之鳞
 #19821	[!ItemSet]두려움이 없는 자	[!ItemSet]无畏者
 #19825	[!Mastery]화염 부르기	[!Mastery]火焰亲和
@@ -13178,8 +13178,8 @@
 #20663	[!ObjectGuideType]$Title$[은] 아이템 제작 혹은 아이템 강화에 필요한 이능석 재료를 추출할 수 있는 오브젝트입니다. 이능석을 추출하기 위해서는 근접하여 $UseAbility$ 어빌리티를 사용해야 합니다.	[!ObjectGuideType]$Title$是可提取商品制作或强化商品所需的异能石素材的东西。为提取异能石，需近距离的使用$UseAbility$技能。
 #20664	[!SystemMessage]미션 서버에 접속하지 못했습니다.	[!SystemMessage]连接任务服务器失败。
 #20665	[!SystemMessage]미션에 진입하지 못했습니다.	[!SystemMessage]没能进入任务。
-#20666	[!Ability]거미줄 타기	[!Buff]翻蛛网
-#20667	[!Ability]거미줄 타기 해제	[!Ability]解除翻蛛网
+#20666	[!Ability]거미줄 타기	[!Buff]踏网
+#20667	[!Ability]거미줄 타기 해제	[!Ability]解除踏网
 #20668	[!Ability]얼음구름	[!Ability]寒冰云
 #20669	[!Ability]전기장	[!FieldEffect]电磁场
 #20670	[!AbilitySubType]초능력	[!Status]超能力
@@ -14792,7 +14792,7 @@
 #22477	[!Mastery]적의 공격으로부터 $State$ 상태와 엄폐가 적용 될 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]$State$状态或隐蔽适用于敌人的攻击时，将产生如下效果。
 #22478	[!Ability]얼음 베기	[!Ability]寒冰切割
 #22479	[!Ability]서리 베기	[!Ability]霜雪切割
-#22480	[!Ability]서리 파괴검	[!Ability]霜雪破坏剑
+#22480	[!Ability]서리 파괴검	[!Ability]霜雪破灭斩
 #22481	[!Ability]섬광 공간베기	[!Ability]闪光空间切割
 #22482	[!CollectItemSet]폐기된 수송 드론	[!CollectItemSet]被废弃的运输无人机
 #22483	[!CollectItemSet]해당 드론 근처에서 부품 회수를 하면 부품을 회수 할 수 있습니다.	[!CollectItemSet]在该无人机附近回收部件可回收部件。
