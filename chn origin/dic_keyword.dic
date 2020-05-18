@@ -3198,7 +3198,7 @@
 #6168	[!GuideMessage]작성중인 메일이 있습니다. 그래도 진행합니까?	[!GuideMessage]有编辑中的邮件。还继续吗?
 #6169	[!Loading]없음	[!Loading]无
 #6177	[!Mastery]이슬비 내리는 이른 아침을 걸어보았는가?	[!Mastery]你有过在飘着毛毛雨的清晨散步的经历吗?
-#6178	[!Mastery]이슬비	[!Mastery]毛毛雨
+#6178	[!Mastery]이슬비	[!Mastery]细雨
 #6189	[!Mastery]흐르는 물	[!Mastery]流水
 #6192	[!Status]대지 SP	[!Status]大地SP
 #6193	[!Status][!Short]대지	[!Status][!Short]大地
@@ -5015,7 +5015,7 @@
 #8849	[!Item]료가 구룡회의 살수가 되는 날 동생이 행운을 빌며 준 빨간 색종이로 접은 종이학 입니다.	[!Item]这是亮成为九龙会杀手的那一天，他弟弟为他祈福并用红色彩纸折的纸鹤。
 #8850	[!Item]성난 황소 리더복	[!Item]愤怒的公牛首领服
 #8851	[!Item]스콧이 황소파의 2대 보스로 조직을 장악하는 날, 보스의 위엄을 세우기 위해 새로 제작된 자켓	[!Item]斯科特作为公牛组的二代首领接过组织的那一天，为了立首领之威而新制的夹克
-#8853	[!Job]도로리	[!Job]软泥
+#8853	[!Job]도로리	[!Job]多罗利
 #8854	[!OptionGameplay]어빌리티 카메라 끄기	[!OptionGameplay]关闭技能镜头
 #8855	[!OptionGameplay]타겟팅 카메라 끄기	[!OptionGameplay]关闭指向镜头
 #8858	[!SystemNotice]$ZoneName$의 치안도가 100% 달성되었습니다.<br>아이템, 특성 획득 확률이 증가합니다.<br>남은시간: $OffsetTime$	[!SystemNotice]$ZoneName$的治安指数达到100%。<br>物品、天赋的获得几率提高。<br>剩余时间：$OffsetTime$
@@ -5049,7 +5049,7 @@
 #8894	[!Item]약속의 반지	[!Item]约定之戒
 #8895	[!Item]줄리오는 오랫동안 모셔왔던 귀족 아가씨가 정략 결혼으로 집을 떠나는 날 그녀로부터 이 반지를 받는다. 고개 숙인 줄리오를 향해 아가씨는 이렇게 말한다. "언젠가 너와 함께할 날을 기다릴게. 그때까지 안녕."	[!Item]朱利奥长期侍奉着的贵族小姐因为政治婚姻而离家的那一天送他这枚戒指。对着低着头的朱利奥，那位小姐说到。“总有一天我们还会在一起的，我会一直等着那一天。直到那一天到来你要多保重。”
 #8896	[!Item]배달 운동화	[!Item]快递员运动鞋
-#8897	[!Item]배달의 생명인 속도를 위하여 경량화가 극도로 이루어진 운동화.	[!Item]为了确快递送餐之命脉的速度，极尽所能轻量化的运动鞋。
+#8897	[!Item]배달의 생명인 속도를 위하여 경량화가 극도로 이루어진 운동화.	[!Item]为了确保快递配送之命脉的速度，极尽所能轻量化的运动鞋。
 #8898	[!Item]배달 손목 보호대	[!Item]快递员护腕
 #8899	[!Item]오토바이로 거리를 질주해야 하는 배달부들의 안전을 위해 물리적인 충격에 매우 강력하게 제작된 손목 보호대.	[!Item]为了要骑着摩托车飞奔在大街上的快递送餐员们的安全，可以防护强大的物理冲击的护腕。
 #8900	[!ItemType]진압 방패	[!ItemType]镇压盾牌
@@ -5703,16 +5703,16 @@
 #9834	[!Mastery]사전계획	[!Mastery]事前计划
 #9836	[!Mastery]세상에 대한 원망은 곧 자신을 망치는 독일세	[!Mastery]对于世间的怨恨就是毁了你自己的毒药啊。
 #9837	[!Mastery]독주머니	[!Mastery]毒药包
-#9838	[!ObjectInfo]검은 도로리	[!ObjectInfo]黑色软泥
-#9839	[!ObjectInfo]검은 왕도로리	[!ObjectInfo]黑色王软泥
-#9840	[!ObjectInfo]용암 도로리	[!ObjectInfo]熔岩软泥
-#9841	[!ObjectInfo]용암 왕도로리	[!ObjectInfo]熔岩王软泥
-#9842	[!ObjectInfo]암석 도로리	[!ObjectInfo]岩石软泥
-#9843	[!ObjectInfo]암석 왕도로리	[!ObjectInfo]岩石王软泥
-#9844	[!ObjectInfo]하얀 도로리	[!ObjectInfo]白色软泥
-#9845	[!ObjectInfo]하얀 왕도로리	[!ObjectInfo]白色王软泥
-#9846	[!ObjectInfo]오색 도로리	[!ObjectInfo]五色软泥
-#9847	[!ObjectInfo]오색 왕도로리	[!ObjectInfo]五色王软泥
+#9838	[!ObjectInfo]검은 도로리	[!ObjectInfo]黑色多罗利
+#9839	[!ObjectInfo]검은 왕도로리	[!ObjectInfo]黑色多罗利王
+#9840	[!ObjectInfo]용암 도로리	[!ObjectInfo]熔岩多罗利
+#9841	[!ObjectInfo]용암 왕도로리	[!ObjectInfo]熔岩多罗利王
+#9842	[!ObjectInfo]암석 도로리	[!ObjectInfo]岩石多罗利
+#9843	[!ObjectInfo]암석 왕도로리	[!ObjectInfo]岩石多罗利王
+#9844	[!ObjectInfo]하얀 도로리	[!ObjectInfo]白色多罗利
+#9845	[!ObjectInfo]하얀 왕도로리	[!ObjectInfo]白色多罗利王
+#9846	[!ObjectInfo]오색 도로리	[!ObjectInfo]五色多罗利
+#9847	[!ObjectInfo]오색 왕도로리	[!ObjectInfo]五色多罗利王
 #9848	[!ObjectInfo]애쉬	[!ObjectInfo]灰烬
 #9851	[!DirectDamageType]생기 흡수	[!DirectDamageType]吸收活力
 #9852	[!GuideMessage]강력한 야수들과의 전투를 통하여 그들을 보다 효과적으로 상대하는 방법을 깨달았습니다.	[!GuideMessage]通过对战强大的野兽，领悟到了该如何更加有效地应付它们。
@@ -5733,8 +5733,8 @@
 #9868	[!Item]독 주머니	[!Item]毒药包
 #9869	[!Item]커다란 독 주머니	[!Item]巨大的毒药包
 #9870	[!Item]작은 독 주머니	[!Item]小型毒药包
-#9871	[!Item]도로리 가죽	[!Item]软泥怪之皮
-#9872	[!Item]왕도로리 가죽	[!Item]王软泥的皮
+#9871	[!Item]도로리 가죽	[!Item]多罗利的皮
+#9872	[!Item]왕도로리 가죽	[!Item]多罗利王的皮
 #9873	[!Item]얇은 야샤 가죽	[!Item]轻薄的夜叉皮
 #9874	[!Item]두꺼운 야샤 가죽	[!Item]厚重的夜叉皮
 #9875	[!Item]야샤 가죽	[!Item]夜叉皮
@@ -5758,26 +5758,26 @@
 #9899	[!Ability]쩌렁쩌렁	[!Ability]轰隆作响
 #9900	[!Ability]커다란 암석 떨구기	[!Ability]巨型岩石投掷
 #9902	[!Item]붉은 꽃	[!Item]红花
-#9903	[!Item]왕도로리가 머리에 장식한 붉은 꽃입니다.	[!Item]这是王软泥戴在头上的红色花朵。
+#9903	[!Item]왕도로리가 머리에 장식한 붉은 꽃입니다.	[!Item]这是多罗利王戴在头上的红色花朵。
 #9904	[!Item]카라스연방 군용 팔찌	[!Item]卡拉斯联邦军用手镯
 #9905	[!Item]카라스연방의 국경 외곽 부대에서 사용하는 보급형 전투 팔찌이다. 발할라에서 유통되는 물건의 대부분 밀수품이다.	[!Item]卡拉斯联邦边防外城部队使用的普及型战斗手镯。巴赫拉流通的物品中多数为走私品。
 #9906	[!Item]카라스연방 강화 팔찌	[!Item]卡拉斯联邦强化手镯
 #9907	[!Item]카라스연방의 국경 외곽 부대에서 사용하는 보급형 신형 팔찌이다. 발할라에서 유통되는 물건의 대부분 밀수품이다.	[!Item]卡拉斯联邦边防外城部队使用的新型战斗手镯。巴赫拉流通的物品中多数为走私品。
-#9908	[!Item]도로리 부츠	[!Item]软泥靴子
-#9909	[!Item]도로리의 가죽과 실로 만든 부츠. 내구성이 매우 높은 것이 특징이다.	[!Item]使用软泥怪的皮和线制成的靴子。其特点是耐久性非常高超。
-#9910	[!Item]남청빛 도로리 부츠	[!Item]藏蓝色软泥靴子
-#9911	[!Item]도로리의 질긴 가죽과 실로 제작한 고급 부츠로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用软泥怪的韧皮和线制成的高级靴子，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
-#9912	[!Item]자홍빛 도로리 부츠	[!Item]紫红色软泥靴子
-#9913	[!Item]자홍거리에서 유통되는 도로리 부츠를 개량하여 경량화 시킨 부츠. 뒷세계에서 매우 인기 있는 부츠이다.	[!Item]紫红街流通的软泥靴子的改良版。是一款在地下世界里非常有人气的靴子。
+#9908	[!Item]도로리 부츠	[!Item]多罗利靴子
+#9909	[!Item]도로리의 가죽과 실로 만든 부츠. 내구성이 매우 높은 것이 특징이다.	[!Item]使用多罗利的皮和线制成的靴子。其特点是耐久性非常高超。
+#9910	[!Item]남청빛 도로리 부츠	[!Item]藏蓝色多罗利靴子
+#9911	[!Item]도로리의 질긴 가죽과 실로 제작한 고급 부츠로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用多罗利的韧皮和线制成的高级靴子，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
+#9912	[!Item]자홍빛 도로리 부츠	[!Item]紫红色多罗利靴子
+#9913	[!Item]자홍거리에서 유통되는 도로리 부츠를 개량하여 경량화 시킨 부츠. 뒷세계에서 매우 인기 있는 부츠이다.	[!Item]紫红街流通的多罗利靴子的改良版。是一款在地下世界里非常有人气的靴子。
 #9914	[!Item]아크 손목 고리	[!Item]弧光手链
 #9915	[!Item]남청빛 아크 손목 고리	[!Item]藏蓝色弧光手链
 #9916	[!Item]자홍빛 아크 손목 고리	[!Item]紫红色弧光手链
 #9917	[!Item]야샤 코트	[!Item]夜叉外套
 #9918	[!Item]남청빛 야샤 코트	[!Item]藏蓝色夜叉外套
 #9919	[!Item]자홍빛 야샤 코트	[!Item]紫红色夜叉外套
-#9920	[!Item]도로리 가죽 구두	[!Item]软泥皮靴
-#9921	[!Item]남청빛 도로리 가죽 구두	[!Item]藏蓝色软泥皮靴
-#9922	[!Item]자홍빛 도로리 가죽 구두	[!Item]紫红色软泥皮靴
+#9920	[!Item]도로리 가죽 구두	[!Item]多罗利皮靴
+#9921	[!Item]남청빛 도로리 가죽 구두	[!Item]藏蓝色多罗利皮靴
+#9922	[!Item]자홍빛 도로리 가죽 구두	[!Item]紫红色多罗利皮靴
 #9923	[!Item]수호자 자켓	[!Item]守护者夹克
 #9924	[!Item]남청빛 수호자 자켓	[!Item]藏蓝色守护者夹克
 #9925	[!Item]자홍빛 수호자 자켓	[!Item]紫红色守护者夹克
@@ -5800,7 +5800,7 @@
 #9947	[!Mastery]신경질쟁이	[!Mastery]坏脾气的人
 #9950	[!Mastery]야생의 분노	[!Mastery]野生之怒
 #9952	[!Mastery]숨겨둔 먹잇감	[!Mastery]隐藏的猎物
-#9953	[!MasteryType]도로리	[!MasteryType]软泥怪
+#9953	[!MasteryType]도로리	[!MasteryType]多罗利
 #9954	[!Mission]구역 내 초과된 에너지를 해제하시오.	[!Mission]请释放掉该区域内过量的能量。
 #9955	[!Mission]'화염' 샘플 추출	[!Mission]提取'火焰'样本
 #9956	[!Mission]'얼음' 샘플 추출	[!Mission]提取'寒冰'样本
@@ -5843,9 +5843,9 @@
 #10013	[!Item]남청빛 파수꾼 코트	[!Item]藏蓝色守备军外套
 #10014	[!Item]자홍빛 파수꾼 코트의 강화 버전. 장시간 전투를 위해 기력 강화 처리가 추가된 버전이다.	[!Item]紫红色守备军外套的加强版。这是为了长时间的战斗而进行了加强气力处理的版本。
 #10015	[!Item]헤이싱의 백설 의상	[!Item]黑星的白雪服
-#10016	[!Item]도로리의 가죽과 실로 만든 구두. 내구성이 매우 높은 것이 특징이다.	[!Item]使用软泥怪的皮和线制成的皮鞋。其特点是耐久性非常高超。
-#10017	[!Item]도로리의 질긴 가죽과 실로 제작한 고급 구두로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用软泥怪的韧皮和线制成的高级皮鞋，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
-#10018	[!Item]자홍거리에서 유통되는 도로리 구두를 개량하여 경량화 시킨 구두. 뒷세계에서 매우 인기 있는 구두이다.	[!Item]紫红街流通的软泥皮鞋的轻量化改良版。是一款在地下世界里非常有人气的皮鞋。
+#10016	[!Item]도로리의 가죽과 실로 만든 구두. 내구성이 매우 높은 것이 특징이다.	[!Item]使用多罗利的皮和线制成的皮鞋。其特点是耐久性非常高超。
+#10017	[!Item]도로리의 질긴 가죽과 실로 제작한 고급 구두로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用多罗利的韧皮和线制成的高级皮鞋，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
+#10018	[!Item]자홍거리에서 유통되는 도로리 구두를 개량하여 경량화 시킨 구두. 뒷세계에서 매우 인기 있는 구두이다.	[!Item]紫红街流通的多罗利皮鞋的轻量化改良版。是一款在地下世界里非常有人气的皮鞋。
 #10019	[!Item]야샤의 가죽과 실로 만든 구두. 이능력 저항력이 매우 높은 것이 특징이다.	[!Item]使用夜叉的皮和线制作的皮鞋。其特点是异能抗性非常高。
 #10020	[!Item]야샤의 질긴 가죽과 실로 제작한 고급 구두로 재료의 희귀성으로 인해 시장에 거의 풀리지 않는 제품이다. 대부분 직접 재료를 조달하여 직접 제작하는 경우가 대부분이다.	[!Item]使用夜叉的韧皮和线制作的高级皮鞋，由于其原材料的稀有性，在市场中几乎不可见。大多数情况下是需要亲自提供原材料来进行制作才行。
 #10021	[!Item]자홍거리에서 유통되는 야사 구두를 개량하여 경량화 시킨 부츠. 뒷세계에서 매우 인기 있는 부츠이다.	[!Item]紫红街流通的夜叉皮鞋的轻量化改良版。是一款在地下世界里非常有人气的皮鞋。
@@ -6060,7 +6060,7 @@
 #10313	[!Mission]구역 내 야수를 모두 사냥하시오.	[!Mission]请制服本区域内的所有野兽。
 #10314	[!Mission]시간내에 시민 구출	[!Mission]限时营救市民
 #10316	[!Tile]돌	[!Tile]石
-#10318	[!ObjectInfo]욕심쟁이 도로리	[!ObjectInfo]贪婪软泥
+#10318	[!ObjectInfo]욕심쟁이 도로리	[!ObjectInfo]贪婪多罗利
 #10320	[!Troublebook]별빛 거리	[!Troublebook]星光大街
 #10321	[!Ability]번개의 힘을 자신의 신체에 부여하여 $ApplyBuff$ 상태가 됩니다.	[!Ability]将闪电之力赋予自己的身躯，进入$ApplyBuff$状态。
 #10322	[!Ability]질풍신뢰	[!Ability]疾风迅雷
@@ -6965,8 +6965,8 @@
 #11738	[!WordCollection]추출 가능한 장비만 보기	[!WordCollection]只查看可抽取的装备
 #11739	[!WordCollection]아이템 추출 완료	[!WordCollection]道具抽取完成
 #11740	[!KeyBinding]카메라 정보	[!KeyBinding]镜头信息
-#11741	[!WordCollection]카메라 높이 내리기	[!WordCollection]镜头高度向上
-#11742	[!WordCollection]카메라 높이 올리기	[!WordCollection]镜头高度向下
+#11741	[!WordCollection]카메라 높이 내리기	[!WordCollection]镜头高度向下
+#11742	[!WordCollection]카메라 높이 올리기	[!WordCollection]镜头高度向上
 #11743	[!WordCollection]카메라 설정	[!WordCollection]镜头设置
 #11744	[!WordCollection][!Menu]조준	[!WordCollection][!Menu]瞄准
 #11745	[!WordCollection]카메라 방향	[!WordCollection]镜头方向
@@ -7134,8 +7134,8 @@
 #11974	[!Mastery]정밀한 저격	[!Mastery]精密狙击
 #11976	[!NamedEvent]키에엑! 키에엑!	[!NamedEvent]咳啊啊!咳啊啊!
 #11977	[!NamedEvent]키에엑!	[!NamedEvent]咳啊啊!
-#11978	[!NamedEvent]하얀 왕도로리	[!NamedEvent]白色王软泥
-#11979	[!NamedEvent]심술쟁이 도로리	[!NamedEvent]坏脾气的软泥怪
+#11978	[!NamedEvent]하얀 왕도로리	[!NamedEvent]白色多罗利王
+#11979	[!NamedEvent]심술쟁이 도로리	[!NamedEvent]坏脾气的多罗利
 #11980	[!NamedEvent]스콧 대장의 원수 녀석들!!	[!NamedEvent]斯科特队长的仇敌们!!
 #11981	[!NamedEvent]지독한 녀석들. 여기까지 추적해오다니...	[!NamedEvent]可恶的家伙们。都追到这儿来了…
 #11982	[!NamedEvent]증오하는 하산	[!NamedEvent]憎恶的哈山
@@ -7306,7 +7306,7 @@
 #12204	[!Mastery]기존사업을 과거와 같은 방식으로 지속하는 것은 앉아서 재난을 기다리는 것과 같다.	[!Mastery]用过去的方式继续做现在的事业，等同于坐以待毙。
 #12209	[!Mastery]끝없이 갈구하는 것은 이루어지기 마련이다.	[!Mastery]不断渴求，终会实现。
 #12210	[!Mastery]꿈은 이루어진다.	[!Mastery]梦想成真。
-#12213	[!ObjectInfo]모험가 도로리	[!ObjectInfo]冒险家软泥怪
+#12213	[!ObjectInfo]모험가 도로리	[!ObjectInfo]冒险家多罗利
 #12214	[!Mastery]이해할 수 없습니다.	[!Mastery]我无法理解的。
 #12215	[!Mastery]냉정한 거절	[!Mastery]冷漠的拒绝
 #12217	[!Mastery]포기하지 않는 자들이 기적을 만들 때 우리는 그들을 히어로라고 말한다.	[!Mastery]不抛弃不放弃的人们制造出的奇迹时，我们就叫他们为英雄。
@@ -7516,7 +7516,7 @@
 #12520	[!Mastery]지원 사격	[!Mastery]支援火力
 #12522	[!Mastery]나를 죽이지 못하는 고통은 나를 더 강하게 만든다.	[!Mastery]不能杀死我的会让我变得更强大。
 #12523	[!Mastery]고통의 황혼	[!Mastery]痛苦的黄昏
-#12524	[!Mission]먼지바람 고속도로 휴게소	[!Mission]]沙尘暴高速公路休息站
+#12524	[!Mission]먼지바람 고속도로 휴게소	[!Mission]沙尘暴高速公路休息站
 #12526	[!NamedEvent]다 받아낼테니 각오해.	[!NamedEvent]我会把你的一切都拿回来。觉悟吧。
 #12527	[!NamedEvent]다 먹고 살자고 하는 일인데 너무 한 것 아냐?	[!NamedEvent]都是为了生活，是不是太过分了啊？
 #12528	[!NamedEvent]밀수업자 브래드	[!NamedEvent]走私者布拉德
@@ -8263,17 +8263,17 @@
 #14119	[!Item]상급 폭풍의 근원	[!Item]高级源生暴风
 #14120	[!Item]최상급 폭풍의 근원	[!Item]最高级源生暴风
 #14121	[!Loading]설상가상	[!Loading]雪上加霜
-#14122	[!NamedEvent]검은 왕도로리	[!ObjectInfo]黑色王软泥
-#14123	[!NamedEvent]신경질쟁이 도로리	[!NamedEvent]神经过敏的软泥
+#14122	[!NamedEvent]검은 왕도로리	[!ObjectInfo]黑色多罗利王
+#14123	[!NamedEvent]신경질쟁이 도로리	[!NamedEvent]神经过敏的多罗利
 #14124	[!NamedEvent]꾸엑! 꾸엑!	[!NamedEvent]呕呕!呕呕!
-#14125	[!NamedEvent]용암 왕도로리	[!ObjectInfo]熔岩王软泥
-#14126	[!NamedEvent]버럭쟁이 도로리	[!NamedEvent]脾气火爆的软泥
+#14125	[!NamedEvent]용암 왕도로리	[!ObjectInfo]熔岩多罗利王
+#14126	[!NamedEvent]버럭쟁이 도로리	[!NamedEvent]脾气火爆的多罗利
 #14127	[!NamedEvent]크악! 크악!	[!NamedEvent]咔啊!咔啊!
-#14128	[!NamedEvent]암석 왕도로리	[!ObjectInfo]岩石王软泥
-#14129	[!NamedEvent]욕심쟁이 도로리	[!ObjectInfo]贪得无厌的软泥
+#14128	[!NamedEvent]암석 왕도로리	[!ObjectInfo]岩石多罗利王
+#14129	[!NamedEvent]욕심쟁이 도로리	[!ObjectInfo]贪得无厌的多罗利
 #14130	[!NamedEvent]끼아악! 끼아악!	[!NamedEvent]咳啊啊! 咳啊啊!!
-#14131	[!NamedEvent]오색 왕도로리	[!ObjectInfo]五色王软泥
-#14132	[!NamedEvent]미치광이 도로리	[!NamedEvent]疯癫痴狂的软泥
+#14131	[!NamedEvent]오색 왕도로리	[!ObjectInfo]五色多罗利王
+#14132	[!NamedEvent]미치광이 도로리	[!NamedEvent]疯癫痴狂的多罗利
 #14133	[!NamedEvent]크르릉!	[!NamedEvent]吼吼!!
 #14134	[!NamedEvent]애쉬	[!ObjectInfo]灰烬
 #14135	[!NamedEvent]불타버린 티마	[!NamedEvent]燃烧的蒂玛
@@ -8518,7 +8518,7 @@
 #14545	[!Status]레벨 당 $Status$[이] $Value$ 증가합니다.	[!Status]每一级$Status$提升$Value$。
 #14546	[!Status]$Status$[은] 적에게 입는 물리 피해량을 감소시킵니다.	[!Status]$Status$可以降低来自对方的物理伤害。
 #14547	[!Status]$Status$[은] 물리 피해량을 결정합니다.	[!Status]$Status$决定物理伤害。
-#14548	[!Status]$Status$[은] 적의 공격을 방어할 확률을 결정합니다. 적의 공격을 방어하면, 피해량이 $White$50%$Blue_ON$ 감소하며 치명타 피해를 입지 않습니다.	[!Status]$Status$决定防御敌人攻击的几率。格挡敌人的攻击时，受到的伤害量降低$White$50%$Blue_ON$，并且不会受到暴击伤害。
+#14548	[!Status]$Status$[은] 적의 공격을 방어할 확률을 결정합니다. 적의 공격을 방어하면, 피해량이 $White$50%$Blue_ON$ 감소하며 치명타 피해를 입지 않습니다.	[!Status]$Status$决定格挡敌人攻击的几率。格挡敌人的攻击时，受到的伤害量降低$White$50%$Blue_ON$，并且不会受到暴击伤害。
 #14549	[!Status]$Status$[은] 적에게 입는 타격 속성 물리 피해량을 감소시킵니다. 또한 타격 속성의 상태 이상을 해제할 확률이 증가합니다.<br><br>$Tomato$타격 속성은 격투 혹은 파이프, 배트 등의 근거리 무기를 사용하여 피해를 입히는 속성입니다	[!Status]$Status$将会降低来自敌人打击属性的物理伤害量。并且提高解除打击属性异常状态的几率。<br><br>$Tomato$打击属性物理伤害:通过格斗或是水管、球棒等近战武器造成的伤害。
 #14550	[!Status]$Status$[은] 치명타 공격을 성공시킬 확률을 결정합니다.	[!Status]$Status$决定暴击的成功几率。
 #14551	[!Status]$Status$[은] 치명타 공격 성공 시 추가되는 피해량의 크기를 결정합니다.	[!Status]$Status$决定暴击攻击成功时附加的伤害的大小。
@@ -8713,13 +8713,13 @@
 #14780	[!WordCollection]지원 보상 아이템	[!WordCollection]支援奖励物品
 #14781	[!WordCollection]트러블슈터 활동 평가 보상 내역	[!WordCollection]纷争终结者的活动评价奖励内容
 #14782	[!WordCollection]지원 보상금	[!WordCollection]支援奖励金
-#14784	[!Loading]먼지바람 고속도로 휴게소	[!Mission]]沙尘暴高速公路休息站
+#14784	[!Loading]먼지바람 고속도로 휴게소	[!Mission]沙尘暴高速公路休息站
 #14785	[!Loading]같이 걸어가기	[!Loading]一起向前走
 #14786	[!ObjectInfo]소형 바이크론	[!ObjectInfo]小型拜克伦
-#14787	[!Site]먼지바람 고속도로 휴게소	[!Mission]]沙尘暴高速公路休息站
+#14787	[!Site]먼지바람 고속도로 휴게소	[!Mission]沙尘暴高速公路休息站
 #14788	[!Troublebook]카터와 레톤이 바람장벽 지구로 넘어와 10개월. 레톤은 카터의 계획을 끝까지 따라가기로 한다.	[!Troublebook]卡特和莱顿来到风之墙壁地区已经10个月了。莱顿决定跟随着卡特的计划到底。
 #14789	[!Troublebook]비가 오는 날이면...	[!Troublebook]一到下雨天...
-#14790	[!Troublebook]먼지바람 고속도로 휴게소	[!Mission]]沙尘暴高速公路休息站
+#14790	[!Troublebook]먼지바람 고속도로 휴게소	[!Mission]沙尘暴高速公路休息站
 #14791	[!Troublebook]같이 걸어가기	[!Troublebook]一起向前走
 #14793	[!Ability]일반 추출보다 100% 높은 효율로 대상의 에너지를 추출합니다.	[!Ability]以比一般提取高出100%的效率提取目标的能源。
 #14794	[!Ability]순도 높은 에너지 추출	[!Ability]高纯度的能量提取
@@ -9577,7 +9577,7 @@
 #16037	[!ObjectInfo]쇼타로	[!ObjectInfo]祥太郎
 #16038	[!ObjectInfo]여자 공대생	[!ObjectInfo]女工科生
 #16039	[!ObjectInfo]남자 공대생	[!ObjectInfo]男工科生
-#16040	[!ObjectInfo]샤오밍	[!ObjectInfo]小明
+#16040	[!ObjectInfo]샤오밍	[!ObjectInfo]萧明
 #16041	[!Status]최대 적재량 증가량	[!Status]最大载重量增加量
 #16042	[!Status][!Short]최대 적재량 증가량	[!Status]最大载重量增加量
 #16044	[!Troublebook]과거는 묻어두고...	[!Troublebook]埋没过去...
@@ -10112,7 +10112,7 @@
 #16722	[!GameSystemMessageFormat]적 보스를 모두 제압하였습니다.	[!Sentence][!FrontMessage]敌人首领全部制服完毕。
 #16723	[!GameSystemMessageFormat]관리구역 내의 사냥을 종료하고 현장을 이탈합니다.	[!Sentence][!FrontMessage]中断管理区内的狩猎活动并逃离现场。
 #16724	[!GameSystemMessageFormat]관리구역 내의 모든 야수를 제압하였습니다.	[!Sentence][!FrontMessage]制服了管理区里的所有野兽。
-#16725	[!GameSystemMessageFormat]오색 도로리 무리가 나타났습니다.	[!Sentence][!FrontMessage]五色软泥群出现了。
+#16725	[!GameSystemMessageFormat]오색 도로리 무리가 나타났습니다.	[!Sentence][!FrontMessage]五色多罗利群出现了。
 #16726	[!GameSystemMessageFormat]터크가 방어선 공격을 시작합니다.	[!Sentence][!FrontMessage]图克开始攻击防线。
 #16727	[!GameSystemMessageFormat]줄리오가 방어선 공격을 시작합니다.	[!Sentence][!FrontMessage]朱利奥开始攻击防线。
 #16728	[!GameSystemMessageFormat]나암이 방어선 공격을 시작합니다.	[!Sentence][!FrontMessage]罗岩开始攻击防线。
@@ -10359,15 +10359,15 @@
 #17003	[!NamedEvent]교활한 스네이크	[!NamedEvent]狡猾的斯内克
 #17004	[!NamedEvent]그냥 못 본 척 할 수 없나?	[!NamedEvent]不能装作没看见吗?
 #17005	[!NamedEvent]굳이 이렇게 시간 낭비해야겠나?	[!NamedEvent]何必这样浪费时间?
-#17006	[!ObjectInfo]탐험가 도로리	[!ObjectInfo]冒险家软泥怪
+#17006	[!ObjectInfo]탐험가 도로리	[!ObjectInfo]冒险家多罗利
 #17007	[!ObjectInfo]스푼교 신록술사	[!ObjectInfo]勺子教新绿术士
 #17008	[!ObjectInfo]스네이크	[!ObjectInfo]斯内克
 #17009	[!OptionGameplay]아군 목록에 턴 대기시간 표시하기	[!OptionGameplay]在队友名单上显示回合冷却时间
 #17010	[!OptionGameplay]미션 진행중에 우하단의 아군 목록에 다음 턴 대기시간을 표시합니다.	[!OptionGameplay]任务进行中，在右下端的队友目录中显示回合冷却时间
 #17011	[!AbilityDirectingEvent]지원 회복	[!AbilityDirectingEvent]支援恢复
 #17012	[!GameSystemMessageFormat]스푼교도와 밀수업자가 적대 관계가 되었습니다.	[!GameSystemMessageFormat]勺子教和走私者成为了敌对关系。
-#17013	[!GameSystemMessageFormat]모험가 도로리가 적대 관계가 되었습니다.	[!GameSystemMessageFormat]冒险家软泥怪成为了敌对关系。
-#17014	[!GameSystemMessageFormat]모험가 도로리가 앤을 보고 흥분합니다.	[!GameSystemMessageFormat]冒险家软泥怪看到安很兴奋。
+#17013	[!GameSystemMessageFormat]모험가 도로리가 적대 관계가 되었습니다.	[!GameSystemMessageFormat]冒险家多罗利成为了敌对关系。
+#17014	[!GameSystemMessageFormat]모험가 도로리가 앤을 보고 흥분합니다.	[!GameSystemMessageFormat]冒险家多罗利看到安很兴奋。
 #17015	[!GuideMessage]근접한 타일에 적대 대상이 없어야 사용 가능합니다.	[!GuideMessage]在附近的格子里没有敌对对象才可使用。
 #17016	[!GuideMessage]근접한 타일에 적대 대상이 있어 사용 불가능합니다.	[!GuideMessage]在附近的格子里有敌对对象，无法使用。
 #17017	[!GuideMessage]공격 어빌리티를 사용 할 경우, 해당 상태는 자동 해제 됩니다.	[!Buff]使用攻击技能时，该状态将自动解除。
@@ -11031,7 +11031,7 @@
 #17908	[!LobbyIdleMessage][!speaker:Anne]누군가 날 지원해준다니 낯설어...	[!LobbyIdleMessage][!speaker:Anne]有人会来支援我，这种体验很陌生...
 #17909	[!LobbyIdleMessage][!speaker:Anne]레이 언니는 다 큰 어른 같아...	[!LobbyIdleMessage][!speaker:Anne]雷伊姐姐像个大人一样...
 #17910	[!LobbyIdleMessage][!speaker:Anne]레이 언니는 헤이싱 오빠랑 친할까...	[!LobbyIdleMessage][!speaker:Anne]雷伊姐姐和黑星哥哥很亲吗...
-#17911	[!LobbyIdleMessage][!speaker:Anne]계속 쳐다보던 시선은 그 도로리였던 건가...	[!LobbyIdleMessage][!speaker:Anne]一直感觉到的视线是那只软泥吗...
+#17911	[!LobbyIdleMessage][!speaker:Anne]계속 쳐다보던 시선은 그 도로리였던 건가...	[!LobbyIdleMessage][!speaker:Anne]一直感觉到的视线是那只多罗利吗...
 #17912	[!LobbyIdleMessage][!speaker:Anne]람지플라자는 루나랑 가기로 했는데...	[!LobbyIdleMessage][!speaker:Anne]和露娜约定好一起去蓝地广场的...
 #17913	[!LobbyIdleMessage][!speaker:Anne]나 조금은 의지해도 될까...	[!LobbyIdleMessage][!speaker:Anne]我可以依靠下队友吗...
 #17914	[!LobbyIdleMessage][!speaker:Anne]헤이싱 오빠한테 감사 표시를 하고 싶은데...	[!LobbyIdleMessage][!speaker:Anne]想对黑星哥哥表示下感激的...
@@ -12541,7 +12541,7 @@
 #19734	[!Mastery]소나기	[!Mastery]雷阵雨
 #19735	[!Mastery]잠시 쉬었다 갈래?	[!Mastery]想要休息一会儿再走吗?
 #19737	[!Mastery]소유욕	[!Mastery]占有欲
-#19738	[!Mastery]내 것이 아닌 것은 무의미하다.	[!Mastery]不是我的不久没有意义了吗。
+#19738	[!Mastery]내 것이 아닌 것은 무의미하다.	[!Mastery]不是我的不就没有意义了吗。
 #19740	[!Mastery]복종심	[!Mastery]服从心
 #19741	[!Mastery]편한 삶이란, 주어진 일에 충실하고 생각하지 않는 것이다.	[!Mastery]舒适的生活，就是认真完成给予的工作，不去思考别的事情。
 #19743	[!Mastery]호연지기	[!Mastery]浩然之气
@@ -13123,7 +13123,7 @@
 #20597	[!Buff]카리스마	[!Mastery]魄力
 #20598	[!Help]끈끈한 거미줄	[!Buff]粘稠的蛛网
 #20599	[!Help]$Buff_StickyWeb$ 상태가 되면 해당 대상 혹은 해당 대상에게 인접한 아군은 $Ability_RemoveStickyWeb$ 어빌리티가 활성화되며 해당 어빌리티의 사용으로 $Buff_StickyWeb$ 상태를 제거할 수 있습니다.	[!Help]进入$Buff_StickyWeb$状态时，该对象或临近该对象的友军将激活$Ability_RemoveStickyWeb$技能，使用该技能时会解除$Buff_StickyWeb$的状态。
-#20600	[!ObjectInfo]미미르	[!ObjectInfo]米密尔
+#20600	[!ObjectInfo]미미르	[!ObjectInfo]密米尔
 #20601	[!ObjectInfo]시스템	[!WordCollection]系统
 #20602	[!ObjectInfo]기획재정부 장관	[!ObjectInfo]财政部长官
 #20603	[!ObjectInfo]모건	[!ObjectInfo]摩根
@@ -13430,7 +13430,7 @@
 #20949	[!Mastery]$State$ 혹은 $BuffGroup$ 중인 적에 대한 공격은 무조건 적중합니다.	[!Mastery]向$State$或$BuffGroup$中的敌人发动的攻击将绝对命中。
 #20951	[!Mastery]$Mastery$ 발동 시, $SP$가 $Value$ 증가합니다.	[!Mastery]$Mastery$发动时，$SP$将增加$Value$。
 #20952	[!Mastery]$Mastery$에 의한 공격으로 적이 $Dead$이 되면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]由于$Mastery$发动的攻击使敌人$Dead$时，$ActionTime$将减少$Value$。
-#20954	[!Mastery]$State$, $State2$ 상태에서 적에게 공격을 적중시키면 $ActionTime$이 $Value$ 감소합니다.	[!Mastery]攻击命中$State$, $State2$状态的敌人时，$ActionTime$将减少$Value$。
+#20954	[!Mastery]$State$, $State2$ 상태에서 적에게 공격을 적중시키면 $ActionTime$이 $Value$ 감소합니다.	[!Mastery]自身处于$State$, $State2$状态下攻击并命中敌人时，$ActionTime$将减少$Value$。
 #20955	[!Mastery]부활 시, 최대 체력으로 부활합니다.	[!Mastery]复活时，以最大体力复活。
 #20956	[!Mastery]미션 내 $Value$회 발동합니다.	[!Mastery]任务内可发动$Value$回。
 #20957	[!Mastery]$Mastery$ 발동 시, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]$Mastery$发动时，$ActionTime$将减少$Value$。
@@ -13833,7 +13833,7 @@
 #21409	[!Mastery]자신보다 레벨이 높은 대상에게 자신이 주는 피해량이 $Value$ 증가합니다.	[!Mastery]攻击比自己等级高的对象时自身造成的伤害量将增加$Value$。
 #21411	[!Mastery]자신보다 레벨이 낮은 대상에게 자신이 주는 피해량이 $Value$ 증가합니다.	[!Mastery]攻击比自己等级低的对象时自身造成的伤害量将增加$Value$。
 #21412	[!Mastery]이동 후 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]移动后攻击敌人时，$Stat$将增加$Value$。
-#21413	[!Mastery]반경 $Value$칸 내 자신이 소환한 대상 혹은 $Buff$ 상태의 대상이 존재하면 $Buff2$ 상태가 됩니다.	[!Mastery]半径$Value$格内存在着自己所召唤的对象或$Buff$状态的对象时，将触发$Buff2$状态。
+#21413	[!Mastery]반경 $Value$칸 내 자신이 소환한 대상 혹은 $Buff$ 상태의 대상이 존재하면 $Buff2$ 상태가 됩니다.	[!Mastery]半径$Value$格内存在着自身召唤的对象或$Buff$状态的对象时，将触发$Buff2$状态。
 #21414	[!Mastery]$BuffGroup$ 계열 상태 이상일 경우	[!Mastery]$BuffGroup$系列异常状态时
 #21416	[!Mastery]$BuffGroup$ 계열 상태 이상이 아닐 경우	[!Mastery]不是$BuffGroup$系列异常状态时
 #21417	[!Mastery]$Value$ 확률로 $Buff$ 상태가 됩니다.	[!Mastery]以$Value$的几率触发$Buff$状态。
@@ -13847,7 +13847,7 @@
 #21425	[!Mastery]$Weather$ 날씨에서 다음과 같은 효과가 발생합니다.	[!Mastery]天气为$Weather$时将产生如下效果。
 #21426	[!Mastery]날씨에 따른 효과에 영향을 받지 않습니다.	[!Mastery]不会受天气相关效果的影响。
 #21427	[!Mastery]자신의 턴을 시작할 때마다 $SummonBeast$ 혹은 $Buff$ 상태의 야수에게 다음과 같은 효과가 발생합니다.	[!Mastery]每次开始自己的回合时，$SummonBeast$或$Buff$状态的野兽将发生如下效果。
-#21428	[!Mastery]반경 $Value$칸 내, 자신을 소환한 캐릭터가 존재하면 $Buff$ 상태가 됩니다.	[!Mastery]半径$Value$格内，存在着自身所召唤的单位时将变为$Buff$状态。
+#21428	[!Mastery]반경 $Value$칸 내, 자신을 소환한 캐릭터가 존재하면 $Buff$ 상태가 됩니다.	[!Mastery]半径$Value$格内，存在着召唤自身的单位时将变为$Buff$状态。
 #21429	[!Mastery]$Buff$ 상태의 야수	[!Mastery]$Buff$状态的野兽
 #21430	[!Mastery]반경 $Value$칸 내, 자신을 $Buff$ 상태로 만든 캐릭터가 존재하면 $Buff2$ 상태가 됩니다.	[!Mastery]半径$Value$格内，存在着使自己触发$Buff$状态的角色时，将变为$Buff2$状态。
 #21431	[!Mastery]$State$ 상태에서 적을 공격하여 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다	[!Mastery]$State$状态下使敌人$Dead$时，$ActionPoint$将恢复$Value$。
@@ -14649,7 +14649,7 @@
 #22329	[!WordCollection][!Menu]창고 물품 목록	[!WordCollection][!Menu]仓库物品列表
 #22330	[!Loading]변절자	[!Loading]变节者
 #22332	[!Mastery]죽음을 경배하라.	[!Mastery]敬拜死亡吧。
-#22333	[!Mastery]그대는 죽어야만 한다는 사실을 명심하라!	[!Mastery]明记你必死的这一事实！
+#22333	[!Mastery]그대는 죽어야만 한다는 사실을 명심하라!	[!Mastery]铭记你必死的这一事实！
 #22334	[!Mastery]시야 내 아군이 $Dead$이 되면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]视野内的友军$Dead$时，$ActionTime$将减少$Value$。
 #22335	[!Mastery]$Mastery$ 발동으로 자신의 턴이 되는 경우, $Buff$ 상태가 됩니다.	[!Mastery]$Mastery$的发动变成自己的回合时，将进入$Buff$。
 #22337	[!NamedEvent]강철의 스컬 크래셔	[!NamedEvent]钢铁的骷髅击碎者
@@ -15231,7 +15231,7 @@
 #22931	[!QuestDesc]$Person(Roberto)$[은] $Person(Irene)$의 능력을 시험해 보고 싶어한다.	[!QuestDesc]$Person(Roberto)$想要测试$Person(Irene)$的实力。
 #22932	[!QuestDesc]$Person(Roberto)$[은] $Person(Anne)$의 능력을 시험해 보고 싶어한다.	[!QuestDesc]$Person(Roberto)$想要测试$Person(Anne)$的实力。
 #22937	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Spider_Poison2_Mutation)$의 돌연변이 맹독 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求取到栖息在铁森林的$Monster(Beast_Spider_Poison2_Mutation)$的突变剧毒皮。
-#22939	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Bat_Wind_Leader)$의 오색 왕도로리 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求取到栖息在铁森林的$Monster(Beast_Bat_Wind_Leader)$的五色王软泥皮。
+#22939	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Bat_Wind_Leader)$의 오색 왕도로리 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求取到栖息在铁森林的$Monster(Beast_Bat_Wind_Leader)$的五色多罗利王的皮。
 #22940	[!QuestDesc]$JPerson(Oleg)$[는] 메트로디움 거주구로 흘러 들어간 자신의 화물을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Oleg)$要求回收自己的流入梅特罗迪翁居民区的货物。
 #22941	[!QuestDesc]$JPerson(Hundred)$[는] 자홍 거리에 방치된 폐기된 강화 드론의 부품을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Hundred)$要求回收放置在紫红街的被废弃的强化无人机的部件。
 #22944	[!QuestDesc]$JPerson(Dembel)$[는] $Org(Spoon)$[로] 입교한 $Org(AngryBull)$ 조직원이 가지고 있는 시곗줄을 찾아달라고 부탁한다.<br><br>목표 대상: $Monster(Gangster_SpoonFighter)$, $Monster(Gangster_SpoonSword)$, $Monster(Gangster_SpoonGun)$	[!QuestDesc]$JPerson(Dembel)$要求找到进入$Org(Spoon)$的$Org(AngryBull)$组员所拿着的表链。<br><br>目标对象: $Monster(Gangster_SpoonFighter)$, $Monster(Gangster_SpoonSword)$, $Monster(Gangster_SpoonGun)$
@@ -15239,8 +15239,8 @@
 #22946	[!QuestDesc]$JPerson(Dembel)$[는] 푸른 안개 거리로 흘러 들어간 자신의 화물을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Dembel)$要求回收自己的流入蓝色雾霭大街的货物。
 #22947	[!QuestDesc]$JPerson(Sabana)$[는] $TargetItem$ $TargetCount$개를 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(Sabana)$要求取到$TargetCount$个$TargetItem$。
 #22948	[!QuestType_CollectItem_Kill]돌연변이 맹독 가죽	[!QuestType_CollectItem_Kill]突变剧毒皮
-#22949	[!QuestType_CollectItem_Kill]단단한 도로리 가죽	[!QuestType_CollectItem_Kill]坚硬的软泥皮
-#22950	[!QuestType_CollectItem_Kill]오색 왕도로리 가죽	[!QuestType_CollectItem_Kill]五色王软泥皮
+#22949	[!QuestType_CollectItem_Kill]단단한 도로리 가죽	[!QuestType_CollectItem_Kill]坚硬的多罗利皮
+#22950	[!QuestType_CollectItem_Kill]오색 왕도로리 가죽	[!QuestType_CollectItem_Kill]五色多罗利王的皮
 #22953	[!NamedEvent]황소파 조직원	[!NamedEvent]公牛组组员
 #22954	[!ChatSubCategory]제작법 획득	[!ChatSubCategory]制作方法的获得
 #22955	[!GuideMessage]$Recipe$ 아이템의 제작법이 개방되었습니다.	[!GuideMessage]$Recipe$物品的制作方法已被开放。
@@ -16199,12 +16199,12 @@
 #24384	[!ObjectVoiceSound][!speaker:Anne]엄마, 아빠, 저한테 용기를 주세요	[!ObjectVoiceSound][!speaker:Anne]妈妈爸爸，请赐予我勇气
 #24385	[!Buff]턴 시작 시, 자신의 시야 내 공격할 대상이 없으면 현재 턴을 종료하고 해당 상태가 해제됩니다.	[!Buff]回合开始时，自身视野内没有可攻击对象的话，将结束回合并解除该状态。
 #24386	[!Mastery]낚시왕	[!Mastery]钓人王
-#24387	[!Mastery]떡밥을 뿌리면 순식간에 파닥파닥 달려들어 곧 만선이 돼지.	[!Mastery]一撒下诱饵，一瞬间就会充满人群。
-#24388	[!Mastery]$Buff$ 상태에서 $Field$ 지형 효과를 받는 적을 공격하여 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다	[!Mastery]$Buff$状态下攻击使处在$Field$地形效果的敌人$Dead$时，将恢复$Value$的$ActionPoint$。
+#24387	[!Mastery]떡밥을 뿌리면 순식간에 파닥파닥 달려들어 곧 만선이 돼지.	[!Mastery]撒下诱饵的瞬间，就全都扑上来了。
+#24388	[!Mastery]$Buff$ 상태에서 $Field$ 지형 효과를 받는 적을 공격하여 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다	[!Mastery]$Buff$状态下攻击处在$Field$地形效果的敌人并令其$Dead$时，将恢复$Value$的$ActionPoint$。
 #24389	[!Mastery]모든 적의 시야에 노출되지 않은 상태에서 $Ability$ 사용 시, $ActionPoint$을 $Value$ 회복합니다.	[!Mastery]未暴露在敌人视野的状态下使用$Ability$时，将恢复$Value$的$ActionPoint$。
 #24390	[!Mastery]모든 적의 시야에 노출되지 않은 상태에서 $Ability$, $Ability2$, $Ability3$ 사용 시, $Buff$ 상태가 됩니다.	[!Mastery]未暴露在敌人视野的状态下使用$Ability$、$Ability2$、$Ability3$时，将进入$Buff$状态。
 #24391	[!Mastery]폭염의 괴수	[!Mastery]酷热之怪兽
-#24392	[!Mastery]그 어떤 폭염도 그들을 나태하게 할 수 없다.	[!Mastery]任何酷暑都无法使他们懒惰。
+#24392	[!Mastery]그 어떤 폭염도 그들을 나태하게 할 수 없다.	[!Mastery]任何酷暑都不会让他们变得慵懒。
 #24393	[!Mastery]$Temperature$, $Temperature2$ 온도에서 $Stat$, $Stat2$, $Stat3$, $Stat4$[이] $Value$ 증가합니다.	[!Mastery]$Temperature$、$Temperature2$的气温下将增加$Value$的$Stat$，$Stat2$，$Stat3$，$Stat4$。
 #24394	[!Mastery]자신이 위치한 지형이 $Field$ 지형이면 자신의 체력의 $Value$를 회복합니다.	[!Mastery]自己所在地形为$Field$地形时，则可恢复自身体力的$Value$。
 #24395	[!Mastery]$Mastery$ 발동 시, $Cost$[이] $Value$ 증가합니다.	[!Mastery]$Mastery$发动时，将增加$Value$的$Cost$。
@@ -16218,7 +16218,7 @@
 #24403	[!Mastery]적으로부터 공격을 받을 경우, 적의 $Stat$[이] $Value$ 추가 감소합니다.	[!Mastery]受到敌人的攻击时，敌人将额外减少$Value$的$Stat$。
 #24404	[!Mastery]턴 종료 시, $Buff$ 상태가 됩니다.	[!Mastery]回合结束时，将进入$Buff$状态。
 #24405	[!Mastery]어빌리티 사용 시 해당 상태가 해제되지 않습니다.	[!Mastery]使用技能时该状态不会被解除。
-#24406	[!Mastery]$Ability$ 어빌리티가 $Ability2$ 어빌리티로 변경됩니다.	[!Mastery]$Ability$技能变更为$Ability2$技能。
+#24406	[!Mastery]$Ability$ 어빌리티가 $Ability2$ 어빌리티로 변경됩니다.	[!Mastery]$Ability$技能变换为$Ability2$技能。
 #24407	[!GuideMessage]반응/반격 공격 가능	[!GuideMessage]可反应/反击攻击
 #24408	[!Mastery]빗속의 괴수	[!Mastery]雨中之怪兽
 #24409	[!Mastery]그 어떤 폭우도 그들을 멈추게 할 수 없다.	[!Mastery]任何暴雨都无法使他们停下。
@@ -16226,7 +16226,7 @@
 #24411	[!Mastery]선의 선	[!Mastery]迅速敏捷
 #24412	[!Mastery]신속하게 반응하고 예리하게 벤다.	[!Mastery]迅速的反应，锐利的砍断。
 #24413	[!Mastery]$Mastery$이 무조건 치명타로 적중합니다.	[!Mastery]$Mastery$将绝对会给予暴击。
-#24414	[!Mastery]백병전의 달인	[!Mastery]百兵战的达人
+#24414	[!Mastery]백병전의 달인	[!Mastery]白刃战的达人
 #24415	[!Mastery]우리는 전진한다.	[!Mastery]我们将前进。
 #24416	[!Mastery]$Stat$[이] $Value$ 추가 증가합니다.	[!Mastery]将额外增加$Value$的$Stat$。
 #24417	[!Mastery]구름술사	[!Mastery]乌云术士
@@ -16234,7 +16234,7 @@
 #24419	[!WordCollection]연관 능력치	[!WordCollection]相关能力值
 #24420	[!GuideMessage]발할라 경찰청은 트러블슈터 회사의 소재지를 기본 관할 구역으로 제공합니다. 또한 회사 내 소속된 정식 트러블슈터 자격증 보유자 수 만큼 추가 확장할 수 있습니다.	[!GuideMessage]巴赫拉警察厅提供纷争终结者公司他们的所在地为基本管辖区。并且还可以根据公司内的正式的纷争终结者人数而继续扩张。
 #24421	[!License]트러블슈터 정식 자격증	[!License]正式的纷争终结者资格证
-#24422	[!License]트러블슈터 회사에서 견습 트러블슈터로 1년 이상 활동한 자 중 발할라 경찰청이 인증하는 정규 시험을 통과하고, 트러블슈터 회사에서 3개월 간 현장 실습을 이수한 사람에게 주어지는 자격증이다.	[!License]在纷争终结者公司以见习纷争终结者的身份活动了1年以上的人中，通过了巴赫拉警察厅认证的正规考试，并在纷争终结者公司实习3个月的人才能获得的资格证。
+#24422	[!License]트러블슈터 회사에서 견습 트러블슈터로 1년 이상 활동한 자 중 발할라 경찰청이 인증하는 정규 시험을 통과하고, 트러블슈터 회사에서 3개월 간 현장 실습을 이수한 사람에게 주어지는 자격증이다.	[!License]在纷争终结者公司以见习纷争终结者的身份活动了1年以上，而且通过了巴赫拉警察厅认证的正规考试，并在纷争终结者公司实习3个月的人才能获得的资格证。
 #24423	[!License]국가 마이스터 자격증	[!License]国家硕士学历资格证
 #24424	[!License]기계, 화학, 전기, 토목, 재료, 컴퓨터 공학 중 최소 3개 이상의 분야에서 석사 이상의 학위를 소지한 자 중 발할라 교육부가 인증하는 실기 과정을 이수하고, 정규 시험을 통과한 사람에게 주어지는 자격증이다.	[!License]机械、化学、电气、土木、材料、电脑工程中至少得在3个以上的领域上拥有硕士以上学位的考生中受到了巴赫拉教育部认证的实习过程，通过了正规考试的人才能获得的资格证。
 #24425	[!License]사냥 허가증	[!License]狩猎许可证
@@ -16243,7 +16243,7 @@
 #24428	[!WordCollection]정식 트러블슈터	[!WordCollection]正式的纷争终结者
 #24429	[!WordCollection]자격증	[!WordCollection]资格证
 #24430	[!Mastery]완벽한 잠복	[!Mastery]完美的埋伏
-#24431	[!Mastery]살아 남으려면 더 몸을 낮춰!	[!Mastery]要想活下来，就更加放低身体。
+#24431	[!Mastery]살아 남으려면 더 몸을 낮춰!	[!Mastery]要想活下来，就要把身段放的更低。
 #24432	[!Mastery]엄폐 상태에서 적의 공격을 회피하면, $ActionTime$이 $Value$ 추가 감소합니다.	[!Mastery]隐蔽状态下躲避了敌人攻击时，将额外减少$Value$的$ActionTime$。
 #24433	[!Mastery]$Buff$ 상태에서 자신이 받는 피해량이 $Value$ 추가 감소합니다.	[!Mastery]$Buff$状态下自身所受到的伤害将额外减少$Value$。
 #24434	[!Mastery]성실한 후견인	[!Mastery]诚实的监护人
@@ -16252,8 +16252,8 @@
 #24437	[!GuideMessage]이동 혹은 어빌리티 사용 시 해당 상태가 해제됩니다.	[!GuideMessage]移动或使用技能时该状态将被解除。
 #24438	[!GuideMessage]이동 시 해당 상태가 해제됩니다.	[!GuideMessage]移动时该状态将被解除。
 #24439	[!GuideMessage][colour='FFFFFFFF']$MasteryName$[colour='FFFFE959'] 추가 특성 효과 정보를 획득하였습니다.	[!GuideMessage]获得了[colour='FFFFFFFF']$MasteryName$[colour='FFFFE959']附加天赋的信息。
-#24440	[!LayoutKeyword]포기	[!LayoutKeyword]放弃
-#24441	[!LayoutKeyword]이어하기	[!LayoutKeyword]接着做任务
+#24440	[!LayoutKeyword]포기	[!LayoutKeyword]放弃任务
+#24441	[!LayoutKeyword]이어하기	[!LayoutKeyword]继续任务
 #24442	[!Mastery]자신의 공격으로 $Dead$으로 만든 적 $Value$명 당 $SP$가 $Value2$ 증가합니다.	[!Mastery]每$Value$个以自己的攻击导致$Dead$的敌人，将增加$Value2$的$SP$。
 #24443	[!Mastery]적의 공격을 방어하면, $SP$가 $Value$ 증가합니다.	[!Mastery]格挡敌人的攻击时，将增加$Value$的$SP$。
 #24444	[!Mastery]자신의 공격으로 치명타 피해를 입힌 대상 수만큼 $SP$가 $Value$ 증가합니다.	[!Mastery]自身发动攻击时，每个受到暴击的敌人会使$SP$的获得量增加$Value$。
@@ -16277,70 +16277,93 @@
 #24462	[!MissionTemperature]$Stat$[이] $Value$ 증가합니다.	[!Mastery]$Stat$将增加$Value$。
 #24463	[!Status]$Status$[가] 최대 수치가 되면 과충전이 됩니다.	[!Status]$Status$达到最大值时将进入过充电状态。
 #24464	[!Status]$Status$[은] 과충전이 지속되는 턴을 결정합니다.	[!Status]$Status$将决定过充电状态持续的回合数。
-#24465	[!Help]아이템 획득 확률 계산하기	[!Help]아이템 획득 확률 계산하기
-#24466	[!Help]트러블슈터에 적용되는 아이템 획득 확률 계산식은 아래와 같습니다.	[!Help]트러블슈터에 적용되는 아이템 획득 확률 계산식은 아래와 같습니다.
-#24467	[!Help]트러블슈터의 모든 전리품은 기본적으로 전투 불능 대상으로 얻을 수 있는 전리품 중 $/$1$/$개를 가져올 수 있습니다.	[!Help]트러블슈터의 모든 전리품은 기본적으로 전투 불능 대상으로 얻을 수 있는 전리품 중 $/$1$/$개를 가져올 수 있습니다.
-#24468	[!Help]또한 대상의 모든 전리품의 획득 확률이 $/$100%$/$를 초과할 경우 아래와 같이 보정 처리됩니다.	[!Help]또한 대상의 모든 전리품의 획득 확률이 $/$100%$/$를 초과할 경우 아래와 같이 보정 처리됩니다.
-#24469	[!Help]이해를 돕기 위해 보물 사냥꾼과 알리바바 두 특성을 가지고 아이템 획득 관계를 설명하겠습니다.	[!Help]이해를 돕기 위해 보물 사냥꾼과 알리바바 두 특성을 가지고 아이템 획득 관계를 설명하겠습니다.
-#24470	[!Help]대상의 각 아이템의 획득 확률	[!Help]대상의 각 아이템의 획득 확률
-#24471	[!Help]A (고급, 5.5%), B (고급, 5.5%), C (고급, 5.5%), D (고급, 5.5%), E (일반, 5.85%), F (일반, 5.85%)	[!Help]A (고급, 5.5%), B (고급, 5.5%), C (고급, 5.5%), D (고급, 5.5%), E (일반, 5.85%), F (일반, 5.85%)
-#24472	[!Help]특성에 따른 보너스 가중치 - 보물 사냥꾼 	[!Help]특성에 따른 보너스 가중치 - 보물 사냥꾼 
-#24473	[!Help]모든 아이템 획득률 100% 증가	[!Help]모든 아이템 획득률 100% 증가
-#24474	[!Help]특성에 따른 보너스 가중치 - 알리바바	[!Help]특성에 따른 보너스 가중치 - 알리바바
-#24475	[!Help]고급 이상 아이템의 획득률 200% 증가	[!Help]고급 이상 아이템의 획득률 200% 증가
-#24476	[!Help]기본 상태	[!Help]기본 상태
-#24477	[!Help]현재 아이템 획득 확률	[!Help]현재 아이템 획득 확률
-#24478	[!Help]현재 A 아이템 획득 확률	[!Help]현재 A 아이템 획득 확률
-#24479	[!Help]보물 사냥꾼 특성 적용 시	[!Help]보물 사냥꾼 특성 적용 시
-#24480	[!Help]보물 사냥꾼 + 알리바바 특성 적용 시	[!Help]보물 사냥꾼 + 알리바바 특성 적용 시
-#24481	[!Help]$/$C$/$의 경우, 소수점 확률은 버림 처리하므로 아이템을 하나라도 획득할 확률은 $/$100%$/$이며, 획득하는 아이템 중 A 아이템의 획득 확률은 $/$21%$/$가 됩니다.	[!Help]$/$C$/$의 경우, 소수점 확률은 버림 처리하므로 아이템을 하나라도 획득할 확률은 $/$100%$/$이며, 획득하는 아이템 중 A 아이템의 획득 확률은 $/$21%$/$가 됩니다.
-#24482	[!Help]경험치 획득량 계산하기	[!Help]경험치 획득량 계산하기
-#24483	[!Help]공격자가 적을 전투불능으로 만들 때 획득하는 경험치 획득량은 아래와 같습니다.	[!Help]공격자가 적을 전투불능으로 만들 때 획득하는 경험치 획득량은 아래와 같습니다.
-#24484	[!Help]기본 경험치	[!Help]기본 경험치
-#24485	[!Help]전투불능 된 적의 최대 체력 / 8	[!Help]전투불능 된 적의 최대 체력 / 8
-#24486	[!Help]특성에 따른 보너스 가중치	[!Help]특성에 따른 보너스 가중치
-#24487	[!Help]회사 특성, 개인 특성에 추가되는 경험치 보너스 가중치 비율을 모두 합산한다.	[!Help]회사 특성, 개인 특성에 추가되는 경험치 보너스 가중치 비율을 모두 합산한다.
-#24488	[!Help]미션 권장 레벨과 공격자의 레벨 차이에 따른 보너스 및 패널티	[!Help]미션 권장 레벨과 공격자의 레벨 차이에 따른 보너스 및 패널티
-#24489	[!Help]미션 권장 레벨이 공격자 레벨보다 높은 경우	[!Help]미션 권장 레벨이 공격자 레벨보다 높은 경우
-#24490	[!Help]미션 권장 레벨과 레벨 차이 1당 경험치 보너스가 20% 증가합니다.	[!Help]미션 권장 레벨과 레벨 차이 1당 경험치 보너스가 20% 증가합니다.
-#24491	[!Help]미션 권장 레벨이 공격자 레벨보다 낮은 경우	[!Help]미션 권장 레벨이 공격자 레벨보다 낮은 경우
-#24492	[!Help]미션 권장 레벨과 레벨 차이 1당 경험치 패널티가 10% 증가합니다.	[!Help]미션 권장 레벨과 레벨 차이 1당 경험치 패널티가 10% 증가합니다.
-#24493	[!Help]공격자와 전투불능 된 적의 레벨 차이에 따른 보너스 및 패널티	[!Help]공격자와 전투불능 된 적의 레벨 차이에 따른 보너스 및 패널티
-#24494	[!Help] ( 2 × 전투불능 된 적의 레벨 ) / ( 전투불능 된 적의 레벨 + 공격자 레벨 )	[!Help] ( 2 × 전투불능 된 적의 레벨 ) / ( 전투불능 된 적의 레벨 + 공격자 레벨 )
-#24495	[!Help]전투불능 된 적의 등급에 따른 경험치 배율	[!Help]전투불능 된 적의 등급에 따른 경험치 배율
+#24465	[!Help]아이템 획득 확률 계산하기	[!Help]道具获得概率公式
+#24466	[!Help]트러블슈터에 적용되는 아이템 획득 확률 계산식은 아래와 같습니다.	[!Help]适用于纷争终结者游戏中的道具获得概率的计算方式如下所示
+#24467	[!Help]트러블슈터의 모든 전리품은 기본적으로 전투 불능 대상으로 얻을 수 있는 전리품 중 $/$1$/$개를 가져올 수 있습니다.	[!Help]在纷争终结者游戏中，令每个敌人战斗不能时，所获得的战利品数量最多为$/$1$/$个。
+#24468	[!Help]또한 대상의 모든 전리품의 획득 확률이 $/$100%$/$를 초과할 경우 아래와 같이 보정 처리됩니다.	[!Help]另外，如果该名敌人的所有可获得的战利品累计获取概率超过$/$100%$/$时，将按如下方式获得战利品。
+#24469	[!Help]이해를 돕기 위해 보물 사냥꾼과 알리바바 두 특성을 가지고 아이템 획득 관계를 설명하겠습니다.	[!Help]为了方便理解，这里我们假设装备了宝物猎人和阿里巴巴天赋时，以此为前提进行说明。
+#24470	[!Help]대상의 각 아이템의 획득 확률	[!Help]敌人的各道具获取概率
+#24471	[!Help]A (고급, 5.5%), B (고급, 5.5%), C (고급, 5.5%), D (고급, 5.5%), E (일반, 5.85%), F (일반, 5.85%)	[!Help]A (高级, 5.5%), B (高级, 5.5%), C (高级, 5.5%), D (高级, 5.5%), E (普通, 5.85%), F (普通, 5.85%)
+#24472	[!Help]특성에 따른 보너스 가중치 - 보물 사냥꾼 	[!Help]根据天赋对应的等级物品获得加成 - 宝物猎人
+#24473	[!Help]모든 아이템 획득률 100% 증가	[!Help]所有道具的获取率增加100%
+#24474	[!Help]특성에 따른 보너스 가중치 - 알리바바	[!Help]根据天赋对应的等级物品获得加成 - 阿里巴巴
+#24475	[!Help]고급 이상 아이템의 획득률 200% 증가	[!Help]高级及以上的道具获取率增加200%
+#24476	[!Help]기본 상태	[!Help]基本状态
+#24477	[!Help]현재 아이템 획득 확률	[!Help]现在道具获取概率
+#24478	[!Help]현재 A 아이템 획득 확률	[!Help]现在A物品的获取概率
+#24479	[!Help]보물 사냥꾼 특성 적용 시	[!Help]装备宝物猎人天赋时
+#24480	[!Help]보물 사냥꾼 + 알리바바 특성 적용 시	[!Help]同时装备宝物猎人 + 阿里巴巴天赋时
+#24481	[!Help]$/$C$/$의 경우, 소수점 확률은 버림 처리하므로 아이템을 하나라도 획득할 확률은 $/$100%$/$이며, 획득하는 아이템 중 A 아이템의 획득 확률은 $/$21%$/$가 됩니다.	[!Help]$/$C$/$的情况, 舍弃小数点部分后获取道具的概率合计达到$/$100%$/$, 可获得的道具中，A道具的获取概率为$/$21%$/$。
+#24482	[!Help]경험치 획득량 계산하기	[!Help]经验值获取量计算公式
+#24483	[!Help]공격자가 적을 전투불능으로 만들 때 획득하는 경험치 획득량은 아래와 같습니다.	[!Help]攻击者令敌人战斗不能时所能获取的经验值按如下方式计算。
+#24484	[!Help]기본 경험치	[!Help]基本经验值
+#24485	[!Help]전투불능 된 적의 최대 체력 / 8	[!Help]战斗不能的敌人的最大体力值除以8
+#24486	[!Help]특성에 따른 보너스 가중치	[!Help]根据天赋获得的经验值加成
+#24487	[!Help]회사 특성, 개인 특성에 추가되는 경험치 보너스 가중치 비율을 모두 합산한다.	[!Help]从公司天赋，个人天赋所得到的经验值加成百分比进行做和计算。
+#24488	[!Help]미션 권장 레벨과 공격자의 레벨 차이에 따른 보너스 및 패널티	[!Help]任务推荐等级和攻击者等级之间的差会产生加成或惩罚
+#24489	[!Help]미션 권장 레벨이 공격자 레벨보다 높은 경우	[!Help]任务推荐等级比攻击者等级高时
+#24490	[!Help]미션 권장 레벨과 레벨 차이 1당 경험치 보너스가 20% 증가합니다.	[!Help]任务推荐等级与攻击者等级差，每一级获得20%经验加成。
+#24491	[!Help]미션 권장 레벨이 공격자 레벨보다 낮은 경우	[!Help]任务推荐等级比攻击者等级低时
+#24492	[!Help]미션 권장 레벨과 레벨 차이 1당 경험치 패널티가 10% 증가합니다.	[!Help]任务推荐等级与攻击者等级差，每一级获得10%经验惩罚。
+#24493	[!Help]공격자와 전투불능 된 적의 레벨 차이에 따른 보너스 및 패널티	[!Help]攻击者与战斗不能的敌人之间的等级差也会产生加成或惩罚
+#24494	[!Help] ( 2 × 전투불능 된 적의 레벨 ) / ( 전투불능 된 적의 레벨 + 공격자 레벨 )	[!Help] ( 2 × 战斗不能的敌人等级 ) / ( 战斗不能的敌人等级 + 攻击者等级 )
+#24495	[!Help]전투불능 된 적의 등급에 따른 경험치 배율	[!Help]根据战斗不能的敌人的阶级所获得的经验值倍率
 #24496	[!Help]일반	[!ItemRank]普通
-#24497	[!Help]최종 경험치	[!Help]최종 경험치
-#24498	[!Help]미션 권장 레벨	[!Help]미션 권장 레벨
-#24499	[!Help]공격자 최대 체력	[!Help]공격자 최대 체력
-#24500	[!Help]공격자 레벨	[!Help]공격자 레벨
-#24501	[!Help]전투불능 된 적 레벨	[!Help]전투불능 된 적 레벨
-#24502	[!Help]전투불능 된 적 등급	[!Help]전투불능 된 적 등급
-#24503	[!Help]영웅(1.5)	[!Help]영웅(1.5)
-#24504	[!Help]경험치 증가 특성	[!Help]경험치 증가 특성
-#24505	[!Help]학습(30%) + 이해(50%) + 통찰(70%)	[!Help]학습(30%) + 이해(50%) + 통찰(70%)
-#24506	[!Help]최종 경험치량.	[!Help]최종 경험치량.
-#24507	[!Help]소수점은 버림 처리하므로 최종 경험치량은 $/$146$/$이 됩니다.	[!Help]소수점은 버림 처리하므로 최종 경험치량은 $/$146$/$이 됩니다.
-#24508	[!Help]$OverKill$, $PerfectKill$ 보너스의 경우 최종 경험치의 $/$100%$/$를 추가로 제공합니다. 따라서 두 효과가 적용되면 최종 경험치량은 $/$438$/$이 됩니다.	[!Help]$OverKill$, $PerfectKill$ 보너스의 경우 최종 경험치의 $/$100%$/$를 추가로 제공합니다. 따라서 두 효과가 적용되면 최종 경험치량은 $/$438$/$이 됩니다.
-#24509	[!Help]경험치 분배하기	[!Help]경험치 분배하기
-#24510	[!Help]아군이 적을 전투불능으로 만들어 경험치를 분배할 때, 아군에게 분배되는 경험치량은 아래와 같습니다.	[!Help]아군이 적을 전투불능으로 만들어 경험치를 분배할 때, 아군에게 분배되는 경험치량은 아래와 같습니다.
-#24511	[!Help]공격자가 플레이어 회사 소속의 캐릭터인 경우	[!Help]공격자가 플레이어 회사 소속의 캐릭터인 경우
-#24512	[!Help]전투불능으로 획득한 경험치	[!Help]전투불능으로 획득한 경험치
-#24513	[!Help]공격자가 경험치를 획득한다.	[!Help]공격자가 경험치를 획득한다.
-#24514	[!Help]협력 경험치	[!Help]협력 경험치
-#24515	[!Help]플레이어의 회사 소속 구성원들은 공격자가 획득한 경험치의 $/$33%$/$만큼 추가 경험치를 획득한다.	[!Help]플레이어의 회사 소속 구성원들은 공격자가 획득한 경험치의 $/$33%$/$만큼 추가 경험치를 획득한다.
-#24516	[!Help]공격자가 플레이어 회사 소속이 아닌 캐릭터인 경우	[!Help]공격자가 플레이어 회사 소속이 아닌 캐릭터인 경우
-#24517	[!Help]공격자가 얻은 경험치를 임무에 참여한 플레이어 회사 소속의 캐릭터들에게 균등 분배됩니다.	[!Help]공격자가 얻은 경험치를 임무에 참여한 플레이어 회사 소속의 캐릭터들에게 균등 분배됩니다.
-#24518	[!Help]공격자가 중립 NPC인 경우	[!Help]공격자가 중립 NPC인 경우
-#24519	[!Help]공격자가 얻은 경험치는 소실됩니다.	[!Help]공격자가 얻은 경험치는 소실됩니다.
-#24520	[!Help]협력 경험치를 획득할 수 없습니다.	[!Help]협력 경험치를 획득할 수 없습니다.
-#24521	[!OptionInterface]언어	[!OptionInterface]언어
+#24497	[!Help]최종 경험치	[!Help]最终经验值
+#24498	[!Help]미션 권장 레벨	[!Help]任务推荐等级
+#24499	[!Help]공격자 최대 체력	[!Help]攻击者最大体力值
+#24500	[!Help]공격자 레벨	[!Help]攻击者等级
+#24501	[!Help]전투불능 된 적 레벨	[!Help]战斗不能的敌人等级
+#24502	[!Help]전투불능 된 적 등급	[!Help]战斗不能的敌人阶级
+#24503	[!Help]영웅(1.5)	[!Help]英雄(1.5)
+#24504	[!Help]경험치 증가 특성	[!Help]经验值增加天赋
+#24505	[!Help]학습(30%) + 이해(50%) + 통찰(70%)	[!Help]学习(30%) + 理解(50%) + 洞察(70%)
+#24506	[!Help]최종 경험치량.	[!Help]最大经验值量。
+#24507	[!Help]소수점은 버림 처리하므로 최종 경험치량은 $/$146$/$이 됩니다.	[!Help]舍弃掉小数点部分后最终经验值量为 $/$146$/$。
+#24508	[!Help]$OverKill$, $PerfectKill$ 보너스의 경우 최종 경험치의 $/$100%$/$를 추가로 제공합니다. 따라서 두 효과가 적용되면 최종 경험치량은 $/$438$/$이 됩니다.	[!Help]$过量击杀$, $一击必杀$的加成效果会让最终经验值量提高$/$100%$/$。 因此两个效果同时生效时，最终经验值量为$/$438$/$。
+#24509	[!Help]경험치 분배하기	[!Help]经验值分配
+#24510	[!Help]아군이 적을 전투불능으로 만들어 경험치를 분배할 때, 아군에게 분배되는 경험치량은 아래와 같습니다.	[!Help]当友军将敌人战斗不能而获得经验值时，队友军分配的经验值按照如下方式计算。
+#24511	[!Help]공격자가 플레이어 회사 소속의 캐릭터인 경우	[!Help]当攻击者是玩家公司所属角色时
+#24512	[!Help]전투불능으로 획득한 경험치	[!Help]通过战斗不能获得的经验值
+#24513	[!Help]공격자가 경험치를 획득한다.	[!Help]攻击者获得经验值。
+#24514	[!Help]협력 경험치	[!Help]协力经验值
+#24515	[!Help]플레이어의 회사 소속 구성원들은 공격자가 획득한 경험치의 $/$33%$/$만큼 추가 경험치를 획득한다.	[!Help]玩家所属公司的角色会获得攻击者所获得的经验值的$/$33%$/$作为分配经验值奖励。
+#24516	[!Help]공격자가 플레이어 회사 소속이 아닌 캐릭터인 경우	[!Help]当攻击者不是玩家公司所属角色时
+#24517	[!Help]공격자가 얻은 경험치를 임무에 참여한 플레이어 회사 소속의 캐릭터들에게 균등 분배됩니다.	[!Help]攻击者所获得的经验值将由任务中登场的玩家公司角色们平均分配。
+#24518	[!Help]공격자가 중립 NPC인 경우	[!Help]当攻击者是中立NPC角色时
+#24519	[!Help]공격자가 얻은 경험치는 소실됩니다.	[!Help]攻击者不会获得经验值。
+#24520	[!Help]협력 경험치를 획득할 수 없습니다.	[!Help]无法获得协力经验值分成。
+#24521	[!OptionInterface]언어	[!OptionInterface]语言
 #24522	[!QuestBook]제 1 장. 트러블슈터입니다.	[!Troublebook]第一章。我是纷争终结者。
 #24523	[!QuestBook]제 2 장. 균열의 시작	[!Troublebook]第二章。龟裂的开端
 #24524	[!QuestBook]제 3 장. 가려진 음모	[!Troublebook]第三章。被掩盖的阴谋
 #24525	[!QuestBook]제 4 장. 결의	[!Troublebook]第4章。结义
 #24526	[!QuestBook]제 5 장. 변화의 시작	[!Troublebook]第5章。变化的开始
 #24527	[!QuestBook]제 6 장. 진심	[!Troublebook]第6章，真心。
-#24528	[!WordCollection]연구 진행 정보	[!WordCollection]연구 진행 정보
-#24529	[!WordCollection]제작 진행 정보	[!WordCollection]제작 진행 정보
-#24530	[!WordCollection]연구 가능 개수	[!WordCollection]연구 가능 개수
-#24531	[!WordCollection]제작 가능 개수	[!WordCollection]제작 가능 개수
+#24528	[!WordCollection]연구 진행 정보	[!WordCollection]研究进行信息
+#24529	[!WordCollection]제작 진행 정보	[!WordCollection]制造进行信息
+#24530	[!WordCollection]연구 가능 개수	[!WordCollection]可研究的个数
+#24531	[!WordCollection]제작 가능 개수	[!WordCollection]可制造的个数
+#24532	[!Ability]흉폭한 계승자	[!Ability]흉폭한 계승자
+#24533	[!Ability]재빠른 계승자	[!Ability]재빠른 계승자
+#24534	[!Ability]굳건한 계승자	[!Ability]굳건한 계승자
+#24535	[!Ability]영리한 계승자	[!Ability]영리한 계승자
+#24536	[!Buff]흉폭한 후계자	[!Buff]흉폭한 후계자
+#24537	[!Buff]재빠른 후계자	[!Buff]재빠른 후계자
+#24538	[!Buff]굳건한 후계자	[!Buff]굳건한 후계자
+#24539	[!Buff]영리한 후계자	[!Buff]영리한 후계자
+#24540	[!Help]또한 대상으로부터 획득할 수 있는 모든 전리품의 개별 획득 확률의 합이 $/$100%$/$를 초과할 경우 아래와 같이 보정 처리됩니다.	[!Help]또한 대상으로부터 획득할 수 있는 모든 전리품의 개별 획득 확률의 합이 $/$100%$/$를 초과할 경우 아래와 같이 보정 처리됩니다.
+#24541	[!Mastery]전사의 계승자	[!Mastery]전사의 계승자
+#24542	[!Mastery]앞으로 나아가는 것을 멈추지 않는다.	[!Mastery]앞으로 나아가는 것을 멈추지 않는다.
+#24543	[!Mastery]$Ability$ / $Ability2$ 어빌리티가 $Ability3$ / $Ability4$ 어빌리티로 변경됩니다.	[!Mastery]$Ability$ / $Ability2$ 어빌리티가 $Ability3$ / $Ability4$ 어빌리티로 변경됩니다.
+#24544	[!Mastery]수호자의 계승자	[!Mastery]수호자의 계승자
+#24545	[!Mastery]절대 물러나지 않는다.	[!Mastery]절대 물러나지 않는다.
+#24546	[!Mastery]꿈속의 꿈	[!Mastery]꿈속의 꿈
+#24547	[!Mastery]이 잠꾸러기야! 선잠을 자니 자각몽을 꾸는 거잖아! 숙면을 취하라고!	[!Mastery]이 잠꾸러기야! 선잠을 자니 자각몽을 꾸는 거잖아! 숙면을 취하라고!
+#24548	[!Mastery]$BuffGroup$ 계열 상태 이상이 해제되면, $Value$ 확률로 다시 무작위의 $BuffGroup$ 상태가 됩니다.	[!Mastery]$BuffGroup$ 계열 상태 이상이 해제되면, $Value$ 확률로 다시 무작위의 $BuffGroup$ 상태가 됩니다.
+#24549	[!Mastery]커다란 눈사람	[!Mastery]커다란 눈사람
+#24550	[!Mastery]한파 속에서도 꿋꿋한 그의 얼어붙은 손길에서 사무치는 냉기를 느낀다.	[!Mastery]한파 속에서도 꿋꿋한 그의 얼어붙은 손길에서 사무치는 냉기를 느낀다.
+#24551	[!Mastery]고성능 피뢰침	[!Mastery]고성능 피뢰침
+#24552	[!Mastery]벼락을 에너지로 전환하려면 일단 유도할 피뢰침이 필요해.	[!Mastery]벼락을 에너지로 전환하려면 일단 유도할 피뢰침이 필요해.
+#24553	[!KeyBinding]카메라 높이 올리기	[!WordCollection]镜头高度向上
+#24554	[!KeyBinding]카메라 높이 내리기	[!WordCollection]镜头高度向下
