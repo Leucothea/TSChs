@@ -13288,7 +13288,7 @@
 #20780	[!Mastery]레벨 상승 시	[!Mastery]等级上升时
 #20781	[!Mastery]$Buff$ 상태가 됩니다.	[!Mastery]成为$Buff$状态。
 #20784	[!Mastery]공격한 대상을 $Dead$으로 만들면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]攻击使对象$Dead$时，$ActionTime$将减少$Value$。
-#20785	[!Mastery]$State$ 혹은 $State2$ 상태인 적을 공격할 경우 $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]攻击$State$或$State2$状态中的敌人时，$Stat$，$Stat2$将增加$Value$。
+#20785	[!Mastery]$State$ 혹은 $State2$ 상태에서 적을 공격할 경우 $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]攻击$State$或$State2$状态中的敌人时，$Stat$，$Stat2$将增加$Value$。
 #20786	[!Mastery]적 팀 시야에 노출되지 않은 위치에서 공격한 대상을 $Dead$으로 만들면, $ActionPoint$을 $Value$개 회복합니다.	[!Mastery]未暴露在敌军视野内的情况下，发动攻击令对象$Dead$时，$ActionPoint$将恢复$Value$。
 #20787	[!Mastery]행동력	[!Help]行动力
 #20788	[!Mastery]자신의 공격으로 시야 내 모든 적을 $Dead$으로 만들면, $ActionPoint$을 $Value$개 회복합니다.	[!Mastery]自身的攻击将视野内所有的敌人处于$Dead$时，$ActionPoint$将恢复$Value$。
