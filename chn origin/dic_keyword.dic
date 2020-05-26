@@ -53,7 +53,7 @@
 #135	[!Ability]완벽한 다듬질	[!Ability]完美的修整
 #138	[!Ability]파워킥	[!Ability]强力踢
 #143	[!Ability]후려치기	[!Ability]抽打
-#148	[!Ability]퀵세이빙	[!Ability]快速消去
+#148	[!Ability]퀵세이빙	[!Ability]快速切削
 #150	[!Ability]범위 내 아군의 턴 대기 시간이 20 감소합니다.	[!Ability]范围内队友的回合冷却时间缩短20。
 #151	[!Ability]전투 준비	[!Ability]准备战斗
 #153	[!Ability]구출	[!Ability]营救
@@ -1845,7 +1845,7 @@
 #4101	[!ObjectInfo]신록 바위	[!ObjectInfo]新绿石头
 #4102	[!ObjectInfo]커다란 신록 바위	[!ObjectInfo]大型新绿石头
 #4104	[!GuideMessage]$Name$ $Level$ 레벨이 되었습니다	[!GuideMessage]$Name$达到$Level$等级。
-#4105	[!GuideMessage]$Name$ $AbilityName$ 사용 ▶ $TargetName$ 방어하여 $Damage$ 피해를 입었습니다.	[!GuideMessage]$Name$使用了$AbilityName$▶$TargetName$防御受到了$Damage$伤害。
+#4105	[!GuideMessage]$Name$ $AbilityName$ 사용 ▶ $TargetName$ 방어하여 $Damage$ 피해를 입었습니다.	[!GuideMessage]$Name$使用了$AbilityName$▶$TargetName$格挡受到了$Damage$伤害。
 #4106	[!GuideMessage]$Name$ $AbilityName$ 사용 ▶ $TargetName$ $Damage$ 치명타 피해를 입었습니다.	[!GuideMessage]$Name$使用了$AbilityName$▶$TargetName$受到了$Damage$暴击伤害。
 #4107	[!GuideMessage]$Name$ $AbilityName$ 사용 ▶ $TargetName$ 공격을 회피하였습니다.	[!GuideMessage]$Name$使用了$AbilityName$▶$TargetName$闪避了攻击。
 #4108	[!GuideMessage]$Name$ $AbilityName$ 사용 ▶ $TargetName$ 체력 $Damage$ 회복하였습니다.	[!GuideMessage]$Name$使用$AbilityName$▶$TargetName$恢复了$Damage$体力。
@@ -2527,7 +2527,7 @@
 #5099	[!SystemMessage]그래픽 설정이 \[%s\]으로 적용되었습니다.	[!SystemMessage]图像设置已适用\[%s\]。
 #5100	[!SystemMessage]최적의 그래픽 옵션을 찾고 있습니다.	[!SystemMessage]正在查找最佳图像选项。
 #5101	[!WordCollection]치명타	[!WordCollection]暴击
-#5102	[!WordCollection]방어	[!WordCollection]防御
+#5102	[!WordCollection]방어	[!WordCollection]格挡
 #5103	[!WordCollection]회피	[!WordCollection]闪避
 #5104	[!Ability]전원 켜기	[!Ability]开启电源
 #5105	[!Ability]발할라 경찰청에 구조 연락을 합니다.	[!Ability]向巴赫拉警察厅联系求助。
@@ -3402,7 +3402,7 @@
 #6534	[!CivilMessage]누구얏!	[!CivilMessage]谁呀!
 #6535	[!CivilMessage]히익!	[!CivilMessage]嗨呀!
 #6537	[!CivilMessage]나한테 손 끝하나 대기만 해봐!	[!CivilMessage]敢碰我一根寒毛试试!
-#6781	[!GuideMessage]$AbilityName$ 발생 ▶ $TargetName$ 방어하여 $Damage$ 피해를 입었습니다.	[!GuideMessage]$AbilityName$发生▶$TargetName$防御并受到$Damage$伤害。
+#6781	[!GuideMessage]$AbilityName$ 발생 ▶ $TargetName$ 방어하여 $Damage$ 피해를 입었습니다.	[!GuideMessage]$AbilityName$发生▶$TargetName$格挡并受到$Damage$伤害。
 #6782	[!GuideMessage]$AbilityName$ 발생 ▶ $TargetName$ $Damage$ 치명타 피해를 입었습니다.	[!GuideMessage]$AbilityName$发生▶$TargetName$受到$Damage$暴击伤害。
 #6783	[!GuideMessage]$AbilityName$ 발생 ▶ $TargetName$ 공격을 회피하였습니다.	[!GuideMessage]$AbilityName$发生▶$TargetName$闪避了攻击。
 #6784	[!GuideMessage]$AbilityName$ 발생 ▶ $TargetName$ 체력 $Damage$ 회복하였습니다.	[!GuideMessage]$AbilityName$发生▶$TargetName$体力恢复了$Damage$。
@@ -4457,7 +4457,7 @@
 #8053	[!WordCollection][!최대레벨]MAX	[!WordCollection][!最高等级]MAX
 #8058	[!Item]발키리 코인	[!Item]女武神硬币
 #8059	[!Item]발할라에서 범죄자 정보를 제공한 트러블슈터에게 제공하는 코인.	[!Item]巴赫拉为提供犯罪分子信息的纷争终结者发放的硬币。
-#8060	[!Item]해당 코인으로 발할라 정부 기관 상점을 이용하실 수 있습니다.	[!Item]可使用该硬币在巴赫拉政府机关商店进行消费。
+#8060	[!Item]해당 코인은 발키리 상점에서 이용하실 수 있습니다.	[!Item]可使用该硬币在巴赫拉政府机关商店进行消费。
 #8061	[!Loading]114 번 외곽 도로	[!Loading]114号外围道路
 #8063	[!Loading]악당과 포식자	[!Loading]恶徒和捕食者
 #8065	[!Loading]은빛 토끼 공원	[!Loading]银兔公园
@@ -4494,7 +4494,7 @@
 #8104	[!WordCollection]시나리오 사건	[!WordCollection]剧情事件
 #8105	[!WordCollection]과충전	[!WordCollection]过充电
 #8106	[!WordCollection][!Menu]총 급여액	[!WordCollection][!Menu]总工资额
-#8107	[!GuideMessage]회피와 방어를 할 수 없습니다.	[!Buff]无法进行闪避和防御。
+#8107	[!GuideMessage]회피와 방어를 할 수 없습니다.	[!Buff]无法进行闪避和格挡。
 #8109	[!GuideMessage]그래픽 품질을 자동으로 설정하시겠습니까?	[!GuideMessage]自动设置画质吗?
 #8111	[!SystemNotice]잠시 후에 임시점검이 있을 예정입니다.<br>현재 접속중인 유저분들은 점검 시간을 고려하여 미션을 안전하게 종료해 주시기 바랍니다. <br>서버 종료까지 남은시간: $ToTime$	[!SystemNotice]稍后将是临时检查时间。<br>当前在线的用户们请安排好各自的时间，安全结束任务。<br>关闭服务器剩余时间: $ToTime$
 #8112	[!SystemNotice]잠시 후에 정기점검이 있을 예정입니다.<br>현재 접속중인 유저분들은 점검 시간을 고려하여 미션을 안전하게 종료해 주시기 바랍니다. <br>서버 종료까지 남은시간: $ToTime$	[!SystemNotice]稍后将是定期检查时间。<br>当前在线的用户们请安排好各自的时间，安全结束任务。<br>关闭服务器剩余时间: $ToTime$
@@ -5981,9 +5981,9 @@
 #10220	[!ESP][colour='FFFF8000']적에게 입히는 피해량이 [colour='FFFFFFFF']%d[colour='FFFF8000'] 증가합니다.	[!ESP][colour='FFFF8000']对目标造成的伤害提升[colour='FFFFFFFF']%d[colour='FFFF8000']。
 #10221	[!ESP][colour='FFFF8000']화염 SP [colour='FFFFFFFF']1[colour='FFFF8000'] 당 적에게 입히는 피해량이 [colour='FFFFFFFF']%d[colour='FFFF8000'] 증가합니다.	[!ESP][colour='FFFF8000']每[colour='FFFFFFFF']1[colour='FFFF8000']点火焰SP对目标造成的伤害提升[colour='FFFFFFFF']%d[colour='FFFF8000']。
 #10222	[!ESP][colour='FFFF8000']적에게 입는 피해량이 [colour='FFFFFFFF']%d[colour='FFFF8000'] 감소합니다.	[!ESP][colour='FFFF8000']敌人造成的伤害降低[colour='FFFFFFFF']%d[colour='FFFF8000']。
-#10223	[!ESP][colour='FFFF8000']얼음 SP [colour='FFFFFFFF']1[colour='FFFF8000'] 당 적에게 입는 피해량이 [colour='FFFFFFFF']%d[colour='FFFF8000'] 감소합니다.	[!ESP][colour='FFFF8000']每[colour='FFFFFFFF']1[colour='FFFF8000']点寒冰SP对敌人造成的伤害降低[colour='FFFFFFFF']%d[colour='FFFF8000']。
-#10224	[!ESP][colour='FFFF8000']치명타 적중률이 [colour='FFFFFFFF']%.2f%%[colour='FFFF8000'] 증가합니다.	[!ESP][colour='FFFF8000']暴击的命中率提升[colour='FFFFFFFF']%.2f%%[colour='FFFF8000']。
-#10225	[!ESP][colour='FFFF8000']번개 SP [colour='FFFFFFFF']1[colour='FFFF8000'] 당 치명타 적중률이 [colour='FFFFFFFF']%.2f%%[colour='FFFF8000'] 증가합니다.	[!ESP][colour='FFFF8000']每[colour='FFFFFFFF']1[colour='FFFF8000']点闪电SP使暴击的命中率提升[colour='FFFFFFFF']%.2f%%[colour='FFFF8000']。
+#10223	[!ESP][colour='FFFF8000']얼음 SP [colour='FFFFFFFF']1[colour='FFFF8000'] 당 적에게 입는 피해량이 [colour='FFFFFFFF']%d[colour='FFFF8000'] 감소합니다.	[!ESP][colour='FFFF8000']每[colour='FFFFFFFF']1[colour='FFFF8000']点寒冰SP降低从敌人处受到的伤害[colour='FFFFFFFF']%d[colour='FFFF8000']。
+#10224	[!ESP][colour='FFFF8000']치명타 적중률이 [colour='FFFFFFFF']%.2f%%[colour='FFFF8000'] 증가합니다.	[!ESP][colour='FFFF8000']暴击率提升[colour='FFFFFFFF']%.2f%%[colour='FFFF8000']。
+#10225	[!ESP][colour='FFFF8000']번개 SP [colour='FFFFFFFF']1[colour='FFFF8000'] 당 치명타 적중률이 [colour='FFFFFFFF']%.2f%%[colour='FFFF8000'] 증가합니다.	[!ESP][colour='FFFF8000']每[colour='FFFFFFFF']1[colour='FFFF8000']点闪电SP使暴击率提升[colour='FFFFFFFF']%.2f%%[colour='FFFF8000']。
 #10226	[!ESP][colour='FFFF8000']명중률이 [colour='FFFFFFFF']%.2f%%[colour='FFFF8000'] 증가합니다.	[!ESP][colour='FFFF8000']命中率提升[colour='FFFFFFFF']%.2f%%[colour='FFFF8000']。
 #10227	[!ESP][colour='FFFF8000']기백 SP [colour='FFFFFFFF']1[colour='FFFF8000'] 당 명중률이 [colour='FFFFFFFF']%.2f%%[colour='FFFF8000'] 증가합니다.	[!ESP][colour='FFFF8000']每[colour='FFFFFFFF']1[colour='FFFF8000']点气魄SP使命中率提升[colour='FFFFFFFF']%.2f%%[colour='FFFF8000']。
 #10228	[!ESP][colour='FFFF8000']회피율이 [colour='FFFFFFFF']%.2f%%[colour='FFFF8000'] 증가합니다.	[!ESP][colour='FFFF8000']闪避率提升[colour='FFFFFFFF']%.2f%%[colour='FFFF8000']。
@@ -6513,7 +6513,6 @@
 #11107	[!Buff_Positive]별빛 방패	[!Buff_Positive]星光盾牌
 #11110	[!Help]인기척 감지	[!Help]感知动静
 #11137	[!HelpCategory]전투 인터페이스	[!HelpCategory]战斗界面
-#11138	[!HelpCategory]컨텐츠	[!HelpCategory]内容
 #11139	[!HelpCategory]기본 조작	[!HelpCategory]基本操纵
 #11140	[!HelpCategory]편의 기능	[!HelpCategory]便利功能
 #11142	[!HitRateCondition]등급차	[!HitRateCondition]等级差
@@ -6962,7 +6961,7 @@
 #11735	[!WordCollection][!Menu]추출 대상	[!WordCollection][!Menu]抽取目标
 #11736	[!WordCollection][!Menu]추출하기	[!WordCollection][!Menu]进行抽取
 #11737	[!WordCollection][!Menu]재료 추출	[!WordCollection][!Menu]材料抽取
-#11738	[!WordCollection]추출 가능한 장비만 보기	[!WordCollection]只查看可抽取的装备
+#11738	[!WordCollection]추출 가능한 재료만 보기	[!WordCollection]只查看可抽取的材料
 #11739	[!WordCollection]아이템 추출 완료	[!WordCollection]道具抽取完成
 #11740	[!KeyBinding]카메라 정보	[!KeyBinding]镜头信息
 #11741	[!WordCollection]카메라 높이 내리기	[!WordCollection]镜头高度向下
@@ -8207,9 +8206,9 @@
 #14042	[!Item]왕네구리 가죽으로 만든 코트로 이능력 사용자의 기력 회복에 많은 도움을 준다.	[!Item]以王呐故立皮革制成的外套，以王呐故立皮革制成的外套，适用了辅助异能者保持气力。
 #14043	[!Item]진흙 왕네구리 가죽 반지	[!Item]王泥土呐故立皮革戒指
 #14044	[!ItemRank]세트	[!MasteryCategory]套装
-#14046	[!ItemSet]불꽃을 부르는 자	[!ItemSet]呼火花者
-#14047	[!ItemSet]번개를 부르는 자	[!ItemSet]呼闪电者
-#14048	[!ItemSet]대지를 부르는 자	[!ItemSet]呼大地者
+#14046	[!ItemSet]불꽃을 부르는 자	[!ItemSet]呼唤火花者
+#14047	[!ItemSet]번개를 부르는 자	[!ItemSet]呼唤闪电者
+#14048	[!ItemSet]대지를 부르는 자	[!ItemSet]呼唤大地者
 #14049	[!Ability]커다란 칼날 채찍	[!Ability]大型刀刃鞭
 #14050	[!Ability]혀를 칼날같이 만들어 목표 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]将舌头变为利刃一样锋利，给目标造成$DamageAmount$的$DamageType$伤害。
 #14055	[!Mastery]불꽃을 부르는 자 - 2 세트	[!Mastery]呼唤火花者 - 2 套装
@@ -8505,7 +8504,7 @@
 #14458	[!Buff]전리품 획득 시, $ApplyAmountValue$ 확률로 해당 전리품을 다른 무작위의 아이템으로 변경합니다.	[!Buff]获得战利品时，以$ApplyAmountValue$的几率将该战利品转变为其他随机道具。
 #14459	[!Buff]$Perano$등가 교환 성공 시, 무작위의 긍정적인 상태가 됩니다.	[!Buff]$Perano$等价交换成功时，将获得随机的正面状态。
 #14460	[!Buff]등가 교환	[!Mastery]等价交换
-#14462	[!CostType]$Yellow$적 공격 시, 다음과 같은 효과가 발생합니다.<br>$Blue_ON$적이 방어하면, 분노가 $White$%d$Blue_ON$ 생성됩니다.<br>$Blue_ON$적에게 피해를 입히면, 분노가 $White$%d$Blue_ON$ 생성됩니다.<br>$Blue_ON$적에게 치명타 피해를 입히면, 분노가 $White$%d$Blue_ON$ 생성됩니다.<br>$Blue_ON$적이 전투 불능하면, 분노가 $White$%d$Blue_ON$ 생성됩니다.<br><br>$Yellow$적에게 피해를 입을 시, 다음과 같은 효과가 발생합니다.<br>$Blue_ON$분노가 $White$%d$Blue_ON$ 생성됩니다.<br><br>$Yellow$비전투 행동 종료 시, 다음과 같은 효과가 발생합니다.<br>$Blue_ON$분노가 $White$%d$Blue_ON$ 감소합니다.<br>$Perano$분노의 비전투 감소는 $White$분노$Perano$ 계열 상태 효과 시 적용되지 않습니다.	[!CostType]$Yellow$攻击敌人时，将发生如下效果。<br>$Blue_ON$若目标防御时，将产生 $White$%d$Blue_ON$ 的愤怒。<br>$Blue_ON$若目标受到了正常伤害， 将产生 $White$%d$Blue_ON$ 的愤怒。<br>$Blue_ON$若对目标造成了暴击, 将产生 $White$%d$Blue_ON$ 的愤怒。<br>$Blue_ON$若目标无法战斗, 将产生 $White$%d$Blue_ON$ 的愤怒。<br><br>$Yellow$被敌人攻击时，将发生如下效果。<br>$Blue_ON$将产生 $White$%d$Blue_ON$ 的愤怒.<br><br>$Yellow$非战斗状态时，将发生如下效果。<br>$Blue_ON$将减少 $White$%d$Blue_ON$ 的愤怒。<br>$Perano$愤怒在非战斗状态减少的效果，在 $White$愤怒$Perano$ 系列状态消失前不会产生。
+#14462	[!CostType]$Yellow$적 공격 시, 다음과 같은 효과가 발생합니다.<br>$Blue_ON$적이 방어하면, 분노가 $White$%d$Blue_ON$ 생성됩니다.<br>$Blue_ON$적에게 피해를 입히면, 분노가 $White$%d$Blue_ON$ 생성됩니다.<br>$Blue_ON$적에게 치명타 피해를 입히면, 분노가 $White$%d$Blue_ON$ 생성됩니다.<br>$Blue_ON$적이 전투 불능하면, 분노가 $White$%d$Blue_ON$ 생성됩니다.<br><br>$Yellow$적에게 피해를 입을 시, 다음과 같은 효과가 발생합니다.<br>$Blue_ON$분노가 $White$%d$Blue_ON$ 생성됩니다.<br><br>$Yellow$비전투 행동 종료 시, 다음과 같은 효과가 발생합니다.<br>$Blue_ON$분노가 $White$%d$Blue_ON$ 감소합니다.<br>$Perano$분노의 비전투 감소는 $White$분노$Perano$ 계열 상태 효과 시 적용되지 않습니다.	[!CostType]$Yellow$攻击敌人时，将发生如下效果。<br>$Blue_ON$若目标格挡时，将产生 $White$%d$Blue_ON$ 的愤怒。<br>$Blue_ON$若目标受到了正常伤害， 将产生 $White$%d$Blue_ON$ 的愤怒。<br>$Blue_ON$若对目标造成了暴击, 将产生 $White$%d$Blue_ON$ 的愤怒。<br>$Blue_ON$若目标无法战斗, 将产生 $White$%d$Blue_ON$ 的愤怒。<br><br>$Yellow$被敌人攻击时，将发生如下效果。<br>$Blue_ON$将产生 $White$%d$Blue_ON$ 的愤怒.<br><br>$Yellow$非战斗状态时，将发生如下效果。<br>$Blue_ON$将减少 $White$%d$Blue_ON$ 的愤怒。<br>$Perano$愤怒在非战斗状态减少的效果，在 $White$愤怒$Perano$ 系列状态消失前不会产生。
 #14463	[!CostType]$Blue_ON$매 턴 시작 시 기력을 $White$%d$Blue_ON$ 회복합니다.	[!CostType]$Blue_ON$每个回合开始时，恢复$White$%d$Blue_ON$点气力。
 #14513	[!Help]전투 불능	[!WordCollection]无法战斗
 #14519	[!Help]과충전	[!Mastery]过充电
@@ -8533,7 +8532,7 @@
 #14560	[!Status]$Blue_ON$캐릭터의 $Status$입니다. 전투 중 $Status$[이] $White$0$Blue_ON$이 되면 전투 불능이 됩니다. 전투 불능이 된 캐릭터는 더 이상 전투에 참여할 수 없습니다.	[!Status]$Blue_ON$这是角色的$Status$。战斗中$Status$变成$White$0$Blue_ON$则无法继续战斗。无法战斗的角色则无法继续参与到战斗中。
 #14561	[!Status]$Status$[은] 이동할 수 있는 거리를 결정합니다.	[!Status]$Status$决定可移动的距离。
 #14563	[!Status]$Status$[은] 매 턴 시작 시 회복하는 기력량입니다.	[!Status]$Status$是每个回合开始时恢复气力量。
-#14565	[!Status]$Status$[은] 적에게 피해를 입거나 입히면 증가하는 분노량입니다.<br><br>$Orange$적에게 공격 시, 분노 증가량$Blue_ON$<br>$Perano$적 방어 시<br>$Status$량의 $White$50%$Blue_ON$만큼 분노가 생성됩니다.<br>$Perano$공격 명중 시<br>$Status$량의 $White$100%$Blue_ON$만큼 분노가 생성됩니다.<br>$Perano$치명타 공격 명중 시<br>$Status$량의 $White$150%$Blue_ON$만큼 분노가 생성됩니다.<br>$Perano$적이 전투 불능 시<br>$Status$량의 $White$200%$Blue_ON$만큼 분노가 생성됩니다.<br><br>$Orange$적에게 피해를 입을 시, 분노 증가량$Blue_ON$<br>$Status$량의 $White$100%$Blue_ON$만큼 분노가 생성됩니다.<br><br>$Orange$비전투 행동 종료 시, 분노 감소량$Blue_ON$<br>$Status$량의 $White$50%$Blue_ON$만큼 분노가 감소합니다.<br>$Perano$분노의 비전투 감소는 $White$분노$Perano$ 계열 상태 효과 시 적용되지 않습니다.	[!Status]$Status$是 在攻击或被敌人攻击时增加的愤怒基准量。<br><br>$Orange$攻击敌人时，愤怒增加$Blue_ON$<br>$Perano$敌人防御时<br>将产生$Status$的 $White$50%$Blue_ON$的愤怒值。<br>$Perano$攻击命中时<br>将产生$Status$的 $White$100%$Blue_ON$的愤怒值。<br>$Perano$暴击命中时<br>将产生$Status$的 $White$150%$Blue_ON$的愤怒值。<br>$Perano$敌人无法战斗时<br>将产生$Status$的 $White$200%$Blue_ON$的愤怒值。<br><br>$Orange$受到来自敌人的伤害时，愤怒增加量$Blue_ON$<br>将产生$Status$的 $White$100%$Blue_ON$的愤怒值。<br><br>$Orange$非战斗状态时，每回合愤怒减少量$Blue_ON$<br>将减少$Status$的 $White$50%$Blue_ON$的愤怒值。<br>$Perano$愤怒在非战斗状态减少的效果,在 $White$愤怒$Perano$ 系列状态消失前不会产生。
+#14565	[!Status]$Status$[은] 적에게 피해를 입거나 입히면 증가하는 분노량입니다.<br><br>$Orange$적에게 공격 시, 분노 증가량$Blue_ON$<br>$Perano$적 방어 시<br>$Status$량의 $White$50%$Blue_ON$만큼 분노가 생성됩니다.<br>$Perano$공격 명중 시<br>$Status$량의 $White$100%$Blue_ON$만큼 분노가 생성됩니다.<br>$Perano$치명타 공격 명중 시<br>$Status$량의 $White$150%$Blue_ON$만큼 분노가 생성됩니다.<br>$Perano$적이 전투 불능 시<br>$Status$량의 $White$200%$Blue_ON$만큼 분노가 생성됩니다.<br><br>$Orange$적에게 피해를 입을 시, 분노 증가량$Blue_ON$<br>$Status$량의 $White$100%$Blue_ON$만큼 분노가 생성됩니다.<br><br>$Orange$비전투 행동 종료 시, 분노 감소량$Blue_ON$<br>$Status$량의 $White$50%$Blue_ON$만큼 분노가 감소합니다.<br>$Perano$분노의 비전투 감소는 $White$분노$Perano$ 계열 상태 효과 시 적용되지 않습니다.	[!Status]$Status$是 在攻击或被敌人攻击时增加的愤怒基准量。<br><br>$Orange$攻击敌人时，愤怒增加$Blue_ON$<br>$Perano$敌人格挡时<br>将产生$Status$的 $White$50%$Blue_ON$的愤怒值。<br>$Perano$攻击命中时<br>将产生$Status$的 $White$100%$Blue_ON$的愤怒值。<br>$Perano$暴击命中时<br>将产生$Status$的 $White$150%$Blue_ON$的愤怒值。<br>$Perano$敌人无法战斗时<br>将产生$Status$的 $White$200%$Blue_ON$的愤怒值。<br><br>$Orange$受到来自敌人的伤害时，愤怒增加量$Blue_ON$<br>将产生$Status$的 $White$100%$Blue_ON$的愤怒值。<br><br>$Orange$非战斗状态时，每回合愤怒减少量$Blue_ON$<br>将减少$Status$的 $White$50%$Blue_ON$的愤怒值。<br>$Perano$愤怒在非战斗状态减少的效果,在 $White$愤怒$Perano$ 系列状态消失前不会产生。
 #14566	[!Status]$Status$[은] 적에게 입는 초능력 피해량을 감소시킵니다.	[!Status]$Status$降低来自对方的超能力伤害。
 #14567	[!Status]$Status$[은] 적을 인식할 수 있는 거리를 결정합니다.	[!Status]$Status$决定可观察到对方的距离。
 #14568	[!Status]$Status$[은] 낮 동안 추가적으로 인식할 수 있는 시야 거리입니다.	[!Status]$Status$是白天附加的视野距离。
@@ -10330,7 +10329,7 @@
 #16963	[!Mastery]이른 아침 우산 끝에 나란히 메달려 떨어지는 아름다움.	[!Mastery]清晨在伞尖上双双飘落的美丽。
 #16965	[!GameSystemMessageFormat]백호파 안드레이 직속 부대가 전투 상태에 돌입하였습니다.	[!GameSystemMessageFormat]安德烈的直属部队开始战斗了。
 #16967	[!Ability]말뚝박기	[!Ability]打桩锤
-#16968	[!Buff]적의 시야에 들어가도 적의 은신 탐지 거리 바깥이면 발각되지 않습니다. 해당 상태에서 공격 시, 적의 회피율과 방어율을 무시합니다.	[!Buff]即使进入敌人的视野，只要还在敌人的隐身探测距离之外，就不会被发现。在相应状态下攻击时，无视敌人的回避率和防御率。
+#16968	[!Buff]적의 시야에 들어가도 적의 은신 탐지 거리 바깥이면 발각되지 않습니다. 해당 상태에서 공격 시, 적의 회피율과 방어율을 무시합니다.	[!Buff]即使进入敌人的视野，只要还在敌人的隐身探测距离之外，就不会被发现。在相应状态下攻击时，无视敌人的回避率和格挡率。
 #16969	[!Item]흑철 파이프	[!Item]黑铁管
 #16970	[!Loading]계약 파기	[!Loading]撤销合同
 #16971	[!Mastery]폭풍술사	[!Mastery]暴风术士
@@ -10403,9 +10402,9 @@
 #17124	[!Item]자홍빛 오거 전투 장갑	[!Item]紫红色食人魔战斗手套
 #17125	[!Item]남청빛 오거 전투 장갑	[!Item]藏蓝色食人魔战斗手套
 #17126	[!Item]배달부 전투 장갑	[!Item]配送员的战斗手套
-#17127	[!Item]트롤 전투 장갑	[!Item]巨怪战斗手套
-#17128	[!Item]자홍빛 트롤 전투 장갑	[!Item]紫红色巨怪战斗手套
-#17129	[!Item]남청빛 트롤 전투 장갑	[!Item]藏蓝色巨怪战斗手套
+#17127	[!Item]트롤 전투 장갑	[!Item]巨魔战斗手套
+#17128	[!Item]자홍빛 트롤 전투 장갑	[!Item]紫红色巨魔战斗手套
+#17129	[!Item]남청빛 트롤 전투 장갑	[!Item]藏蓝色巨魔战斗手套
 #17130	[!Item]자이언트 전투 장갑	[!Item]巨人战斗手套
 #17131	[!Item]자홍빛 자이언트 전투 장갑	[!Item]紫红色巨人战斗手套
 #17132	[!Item]남청빛 자이언트 전투 장갑	[!Item]藏蓝色巨人战斗手套
@@ -10475,7 +10474,7 @@
 #17288	[!Help]최대 턴 대기 시간	[!Help]最大回合冷却时间
 #17293	[!Item]자홍거리에서 유통되는 흑철 세공 손목 고리에 질긴 네구리 가죽을 추가하여 사용성을 개선한 손목 고리. 뒷세계에서 매우 인기 있는 손목 고리다.	[!Item]将紫红街流通黑铁细工腕带换成了呐故立皮革而改善的腕带。在地下世界非常受欢迎。
 #17294	[!Item]천선의 약	[!Item]天上仙人药
-#17296	[!ItemIdentify]절정의 %s	[!ItemIdentify]高潮之%s
+#17296	[!ItemIdentify]절정의 %s	[!ItemIdentify]巅峰之%s
 #17297	[!ItemIdentify]각성의 %s	[!ItemIdentify]觉醒之%s
 #17298	[!KeyBinding]어빌리티 범위 고정	[!KeyBinding]固定技能范围
 #17299	[!Loading]만나고 헤어지고...	[!Loading]见面，分手...
@@ -10726,19 +10725,19 @@
 #17567	[!Ability]불꽃 베기	[!Ability]火花斩
 #17568	[!Ability]불꽃 파괴검	[!Ability]火花破坏剑
 #17569	[!Item]칠흑의 펄스 블레이드	[!Item]漆黑的脉冲剑
-#17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	[!Item]从东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的陆延香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向陆延香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。"真是把好剑，让我来用吧。"
+#17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	[!Item]从东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的肉烟香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向肉烟香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。"真是把好剑，让我来用吧。"
 #17571	[!Mastery]마검 제어	[!Mastery]控制魔剑
 #17572	[!Mastery]승부는 찰나.	[!Mastery]胜负在刹那。
 #17574	[!Mastery]마검 장막	[!Mastery]魔剑帷幕
 #17575	[!Mastery]마력을 담은 검은 이능조차 베어버린다.	[!Mastery]附有魔力的剑连异能也砍的掉。
 #17577	[!Mastery]상처 태우기	[!Mastery]烧掉伤口
 #17578	[!Mastery]고통은 배가 되리라.	[!Mastery]痛苦将加倍。
-#17580	[!ObjectInfo]육연향	[!ObjectInfo]陆延香
+#17580	[!ObjectInfo]육연향	[!ObjectInfo]肉烟香
 #17581	[!ObjectInfo]체체	[!ObjectInfo]采采
-#17582	[!NamedEvent]갈취의 육연향	[!NamedEvent]巧取豪夺的陆延香
+#17582	[!NamedEvent]갈취의 육연향	[!NamedEvent]巧取豪夺的肉烟香
 #17583	[!NamedEvent]쓸만한 걸 가지고 있겠지?	[!NamedEvent]你身上带着值钱的东西吧？
 #17584	[!NamedEvent]네 목숨 값은 비싸게 계산해야겠군.	[!NamedEvent]你的命应该挺值钱的。
-#17585	[!GameSystemMessageFormat]육연향이 카일리를 최우선 목표로 삼습니다.	[!GameSystemMessageFormat]陆延香把凯利当作最优先目标。
+#17585	[!GameSystemMessageFormat]육연향이 카일리를 최우선 목표로 삼습니다.	[!GameSystemMessageFormat]肉烟香把凯利当作最优先目标。
 #17586	[!Mastery]마검술사	[!Mastery]魔剑术师
 #17587	[!Mastery]마검은 스스로 주인을 선택한다.	[!Mastery]魔剑己选择主人。
 #17589	[!Ability]물의 가호를 받은 아군은 $ApplyBuff$ 상태가 됩니다.	[!Ability]得到水之护佑的队友将进入$ApplyBuff$状态。
@@ -12322,7 +12321,7 @@
 #19459	[!Buff]피해를 입을 시, 피해를 입힌 대상은 $AddBuffName$ 상태가 됩니다.	[!Buff]受到伤害时，发起攻击的对象将进入$AddBuffName$。
 #19460	[!Buff]맹독 갑옷	[!Buff]剧毒盔甲
 #19461	[!Buff]공포의 기운	[!Buff]恐怖的气息
-#19462	[!Buff]적에게 피해를 입히거나 적의 공격을 방어, 회피할 경우, 해당 적은 $AddBuffName$ 상태가 됩니다.	[!Buff]向敌人给予伤害或防御、闪避敌人的攻击时，敌人将进入$AddBuffName$状态。
+#19462	[!Buff]적에게 피해를 입히거나 적의 공격을 방어, 회피할 경우, 해당 적은 $AddBuffName$ 상태가 됩니다.	[!Buff]向敌人给予伤害或格挡、闪避敌人的攻击时，敌人将进入$AddBuffName$状态。
 #19463	[!Buff]해당 상태가 $MaxStack$ 레벨이 되면 $Explosion$[이] 일어납니다.	[!Buff]该状态变为$MaxStack$等级时，将产生$Explosion$。
 #19464	[!Buff]$Perano$투척 공격 어빌리티를 사용 할 경우, 해당 상태는 자동 해제 됩니다.	[!Buff]$Perano$使用投掷攻击技能时，该状态将自动解除。
 #19465	[!Buff_Poison]중독	[!Buff]中毒
@@ -13288,7 +13287,7 @@
 #20780	[!Mastery]레벨 상승 시	[!Mastery]等级上升时
 #20781	[!Mastery]$Buff$ 상태가 됩니다.	[!Mastery]成为$Buff$状态。
 #20784	[!Mastery]공격한 대상을 $Dead$으로 만들면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]攻击使对象$Dead$时，$ActionTime$将减少$Value$。
-#20785	[!Mastery]$State$ 혹은 $State2$ 상태에서 적을 공격할 경우 $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]攻击$State$或$State2$状态中的敌人时，$Stat$，$Stat2$将增加$Value$。
+#20785	[!Mastery]$State$ 혹은 $State2$ 상태에서 적을 공격할 경우 $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]自身处于$State$或$State2$状态中攻击敌人时，$Stat$，$Stat2$将增加$Value$。
 #20786	[!Mastery]적 팀 시야에 노출되지 않은 위치에서 공격한 대상을 $Dead$으로 만들면, $ActionPoint$을 $Value$개 회복합니다.	[!Mastery]未暴露在敌军视野内的情况下，发动攻击令对象$Dead$时，$ActionPoint$将恢复$Value$。
 #20787	[!Mastery]행동력	[!Help]行动力
 #20788	[!Mastery]자신의 공격으로 시야 내 모든 적을 $Dead$으로 만들면, $ActionPoint$을 $Value$개 회복합니다.	[!Mastery]自身的攻击将视野内所有的敌人处于$Dead$时，$ActionPoint$将恢复$Value$。
@@ -14096,7 +14095,7 @@
 #21721	[!Mastery]적에게 치명타를 적중시키면 $Buff$ $Value$개를 생성합니다.	[!Mastery]对敌人造成暴击时，生成$Value$个$Buff$ 。
 #21723	[!Mastery]$Type$ 속성의 어빌리티를 사용하면, $Buff$ 상태가 됩니다.	[!Mastery]使用$Type$属性技能时，触发$Buff$状态。
 #21724	[!Mastery]$Ability$의 사용으로 $Buff$ 해제 시, 해제된 $Buff$ 상태 레벨의 반을 돌려받습니다.	[!Mastery]由于使用$Ability$而解除$Buff$时，将返还一半的被解除的$Buff$等级。
-#21725	[!Mastery]자신의 공격을 적이 방어할 경우, 방어에 의한 피해 감소율을 $Value$ 감소시킵니다.	[!Mastery]自身的攻击被敌人格挡时，将减少$Value$因防御而导致的伤害减免量。
+#21725	[!Mastery]자신의 공격을 적이 방어할 경우, 방어에 의한 피해 감소율을 $Value$ 감소시킵니다.	[!Mastery]自身的攻击被敌人格挡时，将减少$Value$因格挡而导致的伤害减免量。
 #21726	[!Mastery]$Value$칸 범위 안의 $State$ 상태의 적에게 $Ability$로 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]对$Value$格内$State$状态的敌人使用$Ability$给予的伤害量将增加$Value2$。
 #21727	[!Mastery]자신이 주는 피해량이 $Value$ 확률로 $Value2$배가 됩니다.	[!Mastery]自己所给予的伤害量将以$Value$的几率成为$Value2$倍。
 #21728	[!Mastery]행동 불능 상태의 대상에게는 무조건 발동합니다	[!Mastery]对无法行动状态的目标会无条件的发动。
@@ -14207,11 +14206,6 @@
 #21854	[!WordCollection]만료	[!WordCollection]到期
 #21855	[!WordCollection]상호작용	[!HelpSubCategory]可互动物体
 #21856	[!Mastery]$Ability$로 적을 $Dead$으로 만들지 못하면, $Value$ 확률로 자신이 사용 가능한 높은 단계의 레서류 어빌리티로 적을 연속하여 공격합니다.	[!Mastery]使用$Ability$没有将敌人处于$Dead$的话，以$Value$几率用自己可使用的高阶蕾西流技能来继续攻击敌人。
-#21857	[!Mastery]저녁	[!MissionTime]傍晚
-#21858	[!Mastery]밤	[!MissionTime]黑夜
-#21859	[!Mastery]어두운 실내	[!MissionTime]阴暗的室内
-#21860	[!Mastery]아침	[!MissionTime]早晨
-#21861	[!Mastery]낮	[!MissionTime]白天
 #21863	[!Mastery]직업이 $Job$, $Job2$가 아닌 경우, 사용 가능한 어빌리티 $Value$개 마다 $Value2$번째 위치한 어빌리티에 $Type$ 속성을 부여하고 공연 슬롯이 $Value3$개 추가됩니다.	[!Mastery]职业不是$Job$、$Job2$时，每$Value$个可使用的技能将向位于 $Value2$位置的技能赋予$Type$属性，并增加$Value3$个演出效果栏。
 #21864	[!Mastery]자신의 턴이 아닌 상황에서 $Value2$회에 한하여 시야 내 아군이 적의 공격을 받고 체력이 $Value$ 이하가 된 경우, 해당 아군에게 $Ability$를 사용합니다.	[!Mastery]不是自己的行动回合时，若视野内的友军受到的敌人的攻击而导致体力减小至小于$Value$的情况时，则会向该友军使用$Ability$，最多发动$Value2$次。
 #21865	[!Mastery]아이템 사용 횟수가 $Value$ 증가합니다.	[!Mastery]物品的可使用次数增加$Value$。
@@ -14311,7 +14305,7 @@
 #21964	[!Mastery]자신의 남은 체력보다 남은 체력이 높은 적으로부터 받는 피해량이 $Value$ 감소합니다.	[!Mastery]受到比自己现有体力值更高的敌人攻击时，受到的伤害量将减少$Value$。
 #21965	[!Mastery]자신의 남은 체력보다 남은 체력이 높은 적을 공격하여 $Dead$으로 만들면, $Buff$ 상태가 됩니다.	[!Mastery]攻击比自己现有体力值更高的敌人并使对象$Dead$时，将进入$Buff$。
 #21966	[!Mastery]$Buff$ 해제를 동반하는 자신의 공격으로 적을 $Dead$으로 만들면, $Buff$ $Value$개를 생성합니다.	[!Mastery]自身的攻击解除了敌人的$Buff$效果并使敌人$Dead$时，将生成$Value$个$Buff$。
-#21967	[!Mastery]아군이 자신에게 근접한 적을 공격할 경우, 해당 적을 공격할 수 있으면 이어서 공격을 가합니다.	[!Mastery]友军攻击解近自己的敌人时，若可攻击到该敌人的话则会继续攻击该目标。
+#21967	[!Mastery]아군이 자신에게 근접한 적을 공격할 경우, 해당 적을 공격할 수 있으면 이어서 공격을 가합니다.	[!Mastery]友军攻击邻近自己的敌人时，若可攻击到该敌人的话则会继续攻击该目标。
 #21968	[!Mastery]$Rage$ 생성 시, 생성되는 $Rage$가 $Value$ 증가합니다.	[!Mastery]$Rage$产生时，产生的$Rage$量将增加$Value$。
 #21969	[!Mastery]자신보다 레벨이 낮은 적을 공격하여 $Dead$으로 만들면, $Buff$ 상태가 됩니다.	[!Mastery]攻击使比自身的等级低的敌人$Dead$时，将进入$Buff$。
 #21970	[!Mastery]$Ability$를 적에게 적중시키면, 해당 적의 모든 $Ability2$는 재사용 대기 시간이 $Value$ 증가합니다.	[!Mastery]$Ability$命中敌人时，该敌人的所有$Ability2$的冷却时间的将增加$Value$。
@@ -14331,7 +14325,7 @@
 #21984	[!Mastery]적을 $Dead$으로 만들면, 현재 사용하고 있는 $Type$, $Type2$ 특성 $Value$개 당 $SP$가 $Value$ 증가합니다.	[!Mastery]使敌人$Dead$时，每$Value$个现在所使用的$Type$、$Type2$天赋将增加$Value$的$SP$。
 #21985	[!Mastery]적에게 치명타를 적중시키면, 해당 대상의 $Vigor$이 $Value$ 추가 감소합니다.	[!Mastery]对敌人造成暴击时，该敌人的$Vigor$将额外减少$Value$。
 #21986	[!Mastery]$Mastery$, $Mastery2$, $Mastery3$으로 발동한 공격을 적에게 적중시키면, $Buff$ 상태가 됩니다.	[!Mastery]$Mastery$、$Mastery2$、$Mastery3$发动的攻击命中敌人时，将进入$Buff$状态。
-#21987	[!Mastery]자신의 턴이 아닌 상황에서 적이 자신의 반경 $Value$칸 안으로 이동해 오거나 근접한 적이 $Ability$를 사용할 경우, 해당 적에게 $ResponsiveAttack$을 합니다.	[!Mastery]非自身行动回合的状态下，若敌人解近到周围半径$Value$格内或附近的敌人使用$Ability$时，向该敌人发动$ResponsiveAttack$。
+#21987	[!Mastery]자신의 턴이 아닌 상황에서 적이 자신의 반경 $Value$칸 안으로 이동해 오거나 근접한 적이 $Ability$를 사용할 경우, 해당 적에게 $ResponsiveAttack$을 합니다.	[!Mastery]非自身行动回合的状态下，若敌人接近到周围半径$Value$格内或附近的敌人使用$Ability$时，向该敌人发动$ResponsiveAttack$。
 #21988	[!Mastery]적에게 피격 시, 적으로부터 도망갑니다.	[!Mastery]被敌人攻击时，会向远离敌人的方向逃避。
 #21989	[!Mastery]$Ability$의 회복량이 $Value$ 증가합니다.	[!Mastery]$Ability$的恢复量增加$Value$。
 #21990	[!Mastery]$Ability$의 사용 가능 횟수가 $Value$ 증가합니다.	[!Mastery]$Ability$的可使用次数增加$Value$。
@@ -14357,7 +14351,7 @@
 #22010	[!Mastery]$Overcharge$ 상태가 될 때마다 $Mastery$의 발동 확률이 $Value$ 증가합니다.	[!Mastery]每在进入$Overcharge$状态时，$Mastery$的发动几率将增加$Value$。
 #22012	[!Mastery]$Mastery$ 발동 시, 누적된 발동 확률은 초기화 됩니다.	[!Mastery]$Mastery$发动时， 累积的发动概率将会初始化。
 #22013	[!Mastery]연계된 화공	[!Mastery]连环火攻计
-#22014	[!Mastery]장점은 단점은 단지 시각의 차이일 뿐이다.	[!Mastery]长处和短处，只不过是观点的不同。
+#22014	[!Mastery]장점은 단점은 단지 시각의 차이일 뿐이다.	[!Mastery]优点还是缺点，只不过是观点的不同。
 #22015	[!Mastery]$Mastery$ 발동 시, 반경 $Value$칸 내의 아군의 $ActionTime$이 추가로 $Value2$ 감소합니다.	[!Mastery]$Mastery$发动时，半径$Value$格内友军的$ActionTime$将额外减少$Value2$。
 #22016	[!Mastery]$Buff$ 상태 이상인 적을 $Dead$으로 만들면, 모든 어빌리티의 재사용 대기 시간이 $Value$ 감소합니다.	[!Mastery]使$Buff$异常状态的敌人$Dead$时，所有技能的冷却时间将减少$Value$。
 #22017	[!Mastery]연계된 뇌공	[!Mastery]连环雷攻计
@@ -14653,20 +14647,20 @@
 #22334	[!Mastery]시야 내 아군이 $Dead$이 되면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]视野内的友军$Dead$时，$ActionTime$将减少$Value$。
 #22335	[!Mastery]$Mastery$ 발동으로 자신의 턴이 되는 경우, $Buff$ 상태가 됩니다.	[!Mastery]$Mastery$的发动变成自己的回合时，将进入$Buff$。
 #22337	[!NamedEvent]강철의 스컬 크래셔	[!NamedEvent]钢铁的骷髅击碎者
-#22338	[!NamedEvent]모두 다 부서버린다!	[!NamedEvent]破碎所有的！
+#22338	[!NamedEvent]모두 다 부서버린다!	[!NamedEvent]我要击碎一切！
 #22339	[!NamedEvent]이제 그만 쓰러지거라!	[!NamedEvent]到此为止了！
-#22340	[!NamedEvent]혹한의 스컬 슬래셔	[!NamedEvent]酷寒的骷髅乱砍者
-#22341	[!NamedEvent]일도즉참!	[!NamedEvent]一刀即砍！
+#22340	[!NamedEvent]혹한의 스컬 슬래셔	[!NamedEvent]冷血的骷髅乱砍者
+#22341	[!NamedEvent]일도즉참!	[!NamedEvent]一刀即斩！
 #22342	[!NamedEvent]제법 재밌는 녀석이구나.	[!NamedEvent]真是个有趣的家伙嘛。
 #22343	[!NamedEvent]속사의 스컬 피어스	[!NamedEvent]速射的骷髅戳穿者
 #22344	[!NamedEvent]총알이 아까운 녀석이군.	[!NamedEvent]对方弱的甚至有些舍不得浪费子弹。
 #22345	[!NamedEvent]다음 한 발이면 충분해	[!NamedEvent]下一发就足够杀掉了。
-#22346	[!NamedEvent]절망의 스컬 이터	[!NamedEvent]绝望的骷髅食者
+#22346	[!NamedEvent]절망의 스컬 이터	[!NamedEvent]绝望的骷髅吞食者
 #22347	[!NamedEvent]자네의 절망하는 얼굴을 보고 싶군.	[!NamedEvent]真想看看你那充满绝望的脸。
 #22348	[!NamedEvent]조금 더 절망스러운 얼굴을 보여줘.	[!NamedEvent]让我看看你那更加绝望的脸。
 #22349	[!NamedEvent]알선업자	[!NamedEvent]代理人
 #22350	[!ObjectInfo]스컬 피어스	[!ObjectInfo]骷髅戳穿者
-#22351	[!ObjectInfo]스컬 청소부	[!ObjectInfo]骷髅清洁工
+#22351	[!ObjectInfo]스컬 청소부	[!ObjectInfo]骷髅扫荡者
 #22354	[!Site]그늘 안개 상점가	[!Site]阴影之雾霭商店街
 #22355	[!GuideMessage]첨부할 Vill의 수량을 정하세요.	[!GuideMessage]请输入要添附的Vill数量。
 #22356	[!GuideMessage]청구할 Vill의 수량을 정하세요.	[!GuideMessage]请输入要请求的Vill数量。
@@ -14685,7 +14679,7 @@
 #22369	[!GuideMessage]메일을 받을 대상이 존재하지 않습니다.	[!GuideMessage]收取邮件的对象不存在。
 #22370	[!GuideMessage]메일을 받을 대상의 우편함이 가득 차서 메일을 보낼 수 없습니다.	[!GuideMessage]收取邮件对象的邮箱已满，无法发送邮件。
 #22371	[!Item]지옥불에게는 화염을 잘 다루는 것과 화염으로부터 고통을 받지 않는 것은 별개의 영역이었다. 현장의 일선에서 많은 화상으로 고통을 겪었던 지옥불은 탈옥과 함께 가장 먼저 불꽃으로부터 자유로울 수 있도록 고도의 방염 처리된 부츠를 제작한다.	[!Item]对地狱火来说，控制火焰和受到烧伤是两码事。在案发现场，因烧伤而饱受痛苦的地狱火在越狱后立即制作了高度防火处理的靴子。
-#22372	[!Item]단 한번의 실수로 동료들을 잿더미로 만든 지옥불은 동료 살해범으로 법정에 서서 자신이 팔찌의 출력을 보조하는 이 반지를 해제한 이유를 설명해야 했다. 하지만 그 누구도 그가 범죄의 신속한 제압을 위해 선택한 결정을 존중하지 않았다.	[!Item]地狱焱仅仅一次的失误，让同伴们化为灰烬，使他作为杀人犯站在法庭上，并且得解释为什么不得不将这只辅助火焰输出的戒指拿掉。但是为了迅速制服犯罪而做出的决定却没有得到任何人的尊重。
+#22372	[!Item]단 한번의 실수로 동료들을 잿더미로 만든 지옥불은 동료 살해범으로 법정에 서서 자신이 팔찌의 출력을 보조하는 이 반지를 해제한 이유를 설명해야 했다. 하지만 그 누구도 그가 범죄의 신속한 제압을 위해 선택한 결정을 존중하지 않았다.	[!Item]地狱火仅仅一次的失误，让同伴们化为灰烬，使他作为杀人犯站在法庭上，并且得解释为什么不得不将这只辅助火焰输出的戒指拿掉。但是为了迅速制服犯罪而做出的决定却没有得到任何人的尊重。
 #22373	[!Item]해골 반지	[!Item]骷髅戒指
 #22374	[!Item]스컬 로드로부터 새로운 이름을 부여받는 간부는 자신의 이름의 위명에 어울리는 업적을 달성해야 한다. 그리고 그 업적을 달성하면 진정한 간부의 자격인 해골 반지가 부여한다.	[!Item]被骷髅大人赋予新名字的干部需要完成符合自己名称的业绩。而且完成这一业绩，就将被赋予象征着成为了真正的干部的骷髅戒指。
 #22375	[!Item]해골 활동복	[!Item]骷髅活动服
@@ -14697,10 +14691,10 @@
 #22382	[!Item]자동 소총 C - 700	[!Item]自动步枪C - 701
 #22383	[!Item]케이퍼 X	[!Item]凯尔佛X
 #22384	[!Item]케이퍼 X - 스컬 피어스	[!Item]凯尔佛X - 骷髅戳穿者
-#22385	[!Item]난폭한 트롤 장갑	[!Item]粗暴的巨怪手套
-#22386	[!Item]스컬 크래셔의 이름을 부여받기 전 '난폭한 트롤'이라고 불리던 시절부터 사용한 전투 장갑.	[!Item]骷髅击碎者在获得这个名字之前被称为'粗暴的巨怪'时期所使用的战斗手套。
+#22385	[!Item]난폭한 트롤 장갑	[!Item]粗暴的巨魔手套
+#22386	[!Item]스컬 크래셔의 이름을 부여받기 전 '난폭한 트롤'이라고 불리던 시절부터 사용한 전투 장갑.	[!Item]骷髅击碎者在获得这个名字之前被称为'粗暴的巨魔'时期所使用的战斗手套。
 #22387	[!Item]듀나메스 저격총 IBL - HK	[!Item]杜纳梅斯狙击枪IBL-HK
-#22388	[!Item]스컬 이터는 원래 조직에서 청소부 역할을 담당하였으나 트러블슈터 블랙펄과 전면전에서 지젤 발렌슈타인에 의해 많은 동료들이 너무 쉽게 무력화되는 것을 보고 저격수로 전직한다. 그리고 지젤의 오랜 경험에 대응하기 위해 듀나메스 사의 부패한 관리자를 매수해 자신을 위한 최고의 총을 제작한다.	[!Item]骷髅食者原本在组织中担任清道夫的角色，但在与黑珍珠的正面交锋中看到许多队友被吉赛尔沃伦斯坦击溃，于是改任成为狙击手。他为了对付有着多年经验的吉赛尔，收买了杜纳梅斯公司腐败的管理者来为自己制作最好的枪。
+#22388	[!Item]스컬 이터는 원래 조직에서 청소부 역할을 담당하였으나 트러블슈터 블랙펄과 전면전에서 지젤 발렌슈타인에 의해 많은 동료들이 너무 쉽게 무력화되는 것을 보고 저격수로 전직한다. 그리고 지젤의 오랜 경험에 대응하기 위해 듀나메스 사의 부패한 관리자를 매수해 자신을 위한 최고의 총을 제작한다.	[!Item]骷髅吞食者原本在组织中担任清道夫的角色，但在与黑珍珠的正面交锋中看到许多队友被吉赛尔沃伦斯坦击溃，于是改任成为狙击手。他为了对付有着多年经验的吉赛尔，收买了杜纳梅斯公司腐败的管理者来为自己制作最好的枪。
 #22389	[!Item]지옥불 인장	[!Item]地狱火印章
 #22390	[!Item]지옥불의 코드 네임이 새겨져 있습니다.	[!Item]刻有地狱火的代号。
 #22391	[!Item]해골 인장	[!Item]骷髅印章
@@ -14850,7 +14844,6 @@
 #22538	[!Mastery]흔들리는 것이 있다면 그건 전부 지방이다.	[!Mastery]如果有什么动摇的话，那便全是脂肪。
 #22539	[!Mastery]음식 효과의 지속 시간이 $Value$ 추가 증가합니다.	[!Mastery]食物效果的持续时间将额外增加$Value$回合。
 #22540	[!Loading]위험한 운송업자	[!Loading]处在危险的配送人员
-#22541	[!Mastery]미션 승리 시, $LostProperty$[이] 없는 경우, 해당 미션에서 획득 가능한 $Rare$ 등급 이상의 장비 아이템을 $Value$개 획득합니다.	[!Mastery]任务胜利时，若没有$LostProperty$的情况下，将获得在该任务可获得的$Value$个$Rare$级别的装备。
 #22543	[!NamedEvent]삐뚤어진 마일즈	[!NamedEvent]性格扭曲的迈尔斯
 #22544	[!NamedEvent]난 성난 황소의 최고가 될 것이다!	[!NamedEvent]我要在愤怒公牛组当第一！
 #22545	[!NamedEvent]내 꿈을 포기하지 않는다!	[!NamedEvent]我不会放弃我的梦想！
@@ -15642,7 +15635,7 @@
 #23802	[!ObjectVoiceSound][!speaker:Alisa]잘가라 친구들	[!ObjectVoiceSound][!speaker:Alisa]别了，朋友们
 #23803	[!ObjectVoiceSound][!speaker:Alisa]자 즐거운 여행이 되길	[!ObjectVoiceSound][!speaker:Alisa]但愿旅途愉快
 #23804	[!ObjectVoiceSound][!speaker:Alisa]퀵 쉐이빙!	[!ObjectVoiceSound][!speaker:Alisa]极速切割！
-#23805	[!ObjectVoiceSound][!speaker:Alisa]ㅎ그러게 도망쳤어야지!	[!ObjectVoiceSound][!speaker:Alisa]呵，早叫你们逃走了！
+#23805	[!ObjectVoiceSound][!speaker:Alisa]하. 그러게 도망쳤어야지!	[!ObjectVoiceSound][!speaker:Alisa]呵，早叫你们逃走了！
 #23806	[!ObjectVoiceSound][!speaker:Alisa]아흐~상쾌하네~	[!ObjectVoiceSound][!speaker:Alisa]哈啊~真是爽快~
 #23807	[!ObjectVoiceSound][!speaker:Alisa]항복은 사절이야	[!ObjectVoiceSound][!speaker:Alisa]才不会接受你们的投降呢
 #23808	[!ObjectVoiceSound][!speaker:Alisa]도망 칠 시간은 줄게	[!ObjectVoiceSound][!speaker:Alisa]那就给你们逃跑的时间吧
@@ -15680,7 +15673,7 @@
 #23840	[!ObjectVoiceSound][!speaker:Alisa]거점 확보하겠다	[!ObjectVoiceSound][!speaker:Alisa]将确保据点
 #23841	[!ObjectVoiceSound][!speaker:Alisa]알았어!	[!ObjectVoiceSound][!speaker:Alisa]知道了！
 #23842	[!ObjectVoiceSound][!speaker:Alisa]신속히 이동한다!	[!ObjectVoiceSound][!speaker:Alisa]迅速移动！
-#23843	[!ObjectVoiceSound][!speaker:Alisa]너무 긴장하지 않아도 되	[!ObjectVoiceSound][!speaker:Alisa]不必太过于紧张
+#23843	[!ObjectVoiceSound][!speaker:Alisa]너무 긴장하지 않아도 돼	[!ObjectVoiceSound][!speaker:Alisa]不必太过于紧张
 #23844	[!ObjectVoiceSound][!speaker:Alisa]그렇게 조급해 할 필요없어	[!ObjectVoiceSound][!speaker:Alisa]不必那么着急
 #23845	[!ObjectVoiceSound][!speaker:Alisa]내가 있으니 걱정마	[!ObjectVoiceSound][!speaker:Alisa]有我在，不要担心
 #23846	[!ObjectVoiceSound][!speaker:Alisa]충분히 해볼 만하군	[!ObjectVoiceSound][!speaker:Alisa]充分值得一试
@@ -16120,8 +16113,8 @@
 #24305	[!Mission]자홍거리 뒷골목	[!Troublebook]紫红街后巷
 #24306	[!ObjectInfo]백호 무도가	[!ObjectInfo]白虎武斗家
 #24307	[!ObjectInfo]백호 반장	[!ObjectInfo]白虎组长
-#24308	[!ObjectInfo]백호 청소부	[!ObjectInfo]白虎清洁工
-#24309	[!ObjectInfo]백호 망나니	[!ObjectInfo]白虎混混
+#24308	[!ObjectInfo]백호 청소부	[!ObjectInfo]白虎扫荡者
+#24309	[!ObjectInfo]백호 망나니	[!ObjectInfo]白虎刽子手
 #24310	[!SystemMail]트러블슈터 승급을 축하드립니다.	[!SystemMail]祝贺纷争终结者的等级的上升。
 #24311	[!SystemMail][colour='FFFFE959']안녕하십니까? 발할라 시장 [colour='FFFFFFFF']칼 레인[colour='FFFFE959'] 입니다.<br><br>$CompanyName$의 아이언 승격을 발할라 시민을 대표하여 진심으로 축하드립니다.<br><br>우리 발할라 시정부는 시민들의 안전과 번영을 위해 최선을 다하고 있으며 그 일환으로 우수한 트러블슈터들의 양성과 활동을 지원하고 있습니다.<br><br>시민들과 발할라를 수호하는 트러블슈터로서 앞으로의 길에 발할라의 영광이 함께 하기를 기원하겠습니다.<br><br>감사합니다.<br><br>[colour='FFFFFFFF']발할라 시장 칼 레인	[!SystemMail][colour='FFFFE959']您好吗？我是巴赫拉的市长[colour='FFFFFFFF']卡尔雷因[colour='FFFFE959']。<br><br>在此代表巴赫拉市民恭喜$CompanyName$晋升为钢铁等级。<br><br>我们巴赫拉市政府正尽全力保障市民们的安全与繁荣，而且其中的主要一环就是为优秀的纷争终结者们提供培训和活动援助。<br><br>作为一名守护着市民和巴赫拉的纷争终结者，祝愿你的前途一片光明，巴赫拉的荣光与你同在。<br><br>谢谢。<br><br>[colour='FFFFFFFF']巴赫拉市长卡尔雷因
 #24312	[!SystemMail]축하한다. 알버스.	[!SystemMail]恭喜你，阿尔伯斯。
@@ -16272,98 +16265,150 @@
 #24457	[!MissionWeather]공격 어빌리티	[!AbilityType]攻击技能
 #24458	[!MissionWeather]$Ability$, $Ability2$, $Ability3$로 적을 공격할 경우, $Stat$[이] $Value$ 감소합니다.	[!MissionWeather]用$Ability$, $Ability2$, $Ability3$攻击敌人时，$Stat$将减少$Value$。
 #24459	[!MissionWeather]낙하 공격 어빌리티	[!Mastery]降落攻击技能
-#24460	[!Buff]$Perano$공격 어빌리티 사용 시 자동 해제됩니다.$Blue_ON$	[!Buff]$Perano$使用攻击技能时，将会自动移除。$Blue_ON$
 #24461	[!MissionTemperature]$Stat$[이] $Value$ 감소합니다.	[!MissionTemperature]$Stat$将减少$Value$。
 #24462	[!MissionTemperature]$Stat$[이] $Value$ 증가합니다.	[!Mastery]$Stat$将增加$Value$。
 #24463	[!Status]$Status$[가] 최대 수치가 되면 과충전이 됩니다.	[!Status]$Status$达到最大值时将进入过充电状态。
 #24464	[!Status]$Status$[은] 과충전이 지속되는 턴을 결정합니다.	[!Status]$Status$将决定过充电状态持续的回合数。
-#24465	[!Help]아이템 획득 확률 계산하기	[!Help]道具获得概率公式
-#24466	[!Help]트러블슈터에 적용되는 아이템 획득 확률 계산식은 아래와 같습니다.	[!Help]适用于纷争终结者游戏中的道具获得概率的计算方式如下所示
-#24467	[!Help]트러블슈터의 모든 전리품은 기본적으로 전투 불능 대상으로 얻을 수 있는 전리품 중 $/$1$/$개를 가져올 수 있습니다.	[!Help]在纷争终结者游戏中，令每个敌人战斗不能时，所获得的战利品数量最多为$/$1$/$个。
-#24468	[!Help]또한 대상의 모든 전리품의 획득 확률이 $/$100%$/$를 초과할 경우 아래와 같이 보정 처리됩니다.	[!Help]另外，如果该名敌人的所有可获得的战利品累计获取概率超过$/$100%$/$时，将按如下方式获得战利品。
-#24469	[!Help]이해를 돕기 위해 보물 사냥꾼과 알리바바 두 특성을 가지고 아이템 획득 관계를 설명하겠습니다.	[!Help]为了方便理解，这里我们假设装备了宝物猎人和阿里巴巴天赋时，以此为前提进行说明。
-#24470	[!Help]대상의 각 아이템의 획득 확률	[!Help]敌人的各道具获取概率
-#24471	[!Help]A (고급, 5.5%), B (고급, 5.5%), C (고급, 5.5%), D (고급, 5.5%), E (일반, 5.85%), F (일반, 5.85%)	[!Help]A (高级, 5.5%), B (高级, 5.5%), C (高级, 5.5%), D (高级, 5.5%), E (普通, 5.85%), F (普通, 5.85%)
+#24465	[!Help]아이템 획득 확률 계산하기	[!Help]计算物品的获得几率
+#24466	[!Help]트러블슈터에 적용되는 아이템 획득 확률 계산식은 아래와 같습니다.	[!Help]获得物品的几率计算式如下。
+#24467	[!Help]트러블슈터의 모든 전리품은 기본적으로 전투 불능 대상으로 얻을 수 있는 전리품 중 $/$1$/$개를 가져올 수 있습니다.	[!Help]纷争终结者的所有战利品基本上可以从无法战斗的对方里可获得的战利品中拿到$/$1$/$个。
+#24469	[!Help]이해를 돕기 위해 보물 사냥꾼과 알리바바 두 특성을 가지고 아이템 획득 관계를 설명하겠습니다.	[!Help]那就说明一下装备宝物猎人和阿里巴巴天赋时的道具获取关系。
+#24470	[!Help]대상의 각 아이템의 획득 확률	[!Help]对象的各物品的获得几率
+#24471	[!Help]A (고급, 5.5%), B (고급, 5.5%), C (고급, 5.5%), D (고급, 5.5%), E (일반, 5.85%), F (일반, 5.85%)	[!Help]A (高级，5.5%), B (高级，5.5%), C (高级，5.5%), D (高级，5.5%), E (普通，5.85%), F (普通，5.85%)
 #24472	[!Help]특성에 따른 보너스 가중치 - 보물 사냥꾼 	[!Help]根据天赋对应的等级物品获得加成 - 宝物猎人
-#24473	[!Help]모든 아이템 획득률 100% 증가	[!Help]所有道具的获取率增加100%
-#24474	[!Help]특성에 따른 보너스 가중치 - 알리바바	[!Help]根据天赋对应的等级物品获得加成 - 阿里巴巴
-#24475	[!Help]고급 이상 아이템의 획득률 200% 증가	[!Help]高级及以上的道具获取率增加200%
+#24473	[!Help]모든 아이템 획득률 100% 증가	[!Help]所有物品获得率增加100%
+#24474	[!Help]특성에 따른 보너스 가중치 - 알리바바	[!Help]根据天赋获得的额外加重值 - 阿里巴巴
+#24475	[!Help]고급 이상 아이템의 획득률 200% 증가	[!Help]所有物品获得率增加200%
 #24476	[!Help]기본 상태	[!Help]基本状态
-#24477	[!Help]현재 아이템 획득 확률	[!Help]现在道具获取概率
-#24478	[!Help]현재 A 아이템 획득 확률	[!Help]现在A物品的获取概率
-#24479	[!Help]보물 사냥꾼 특성 적용 시	[!Help]装备宝物猎人天赋时
-#24480	[!Help]보물 사냥꾼 + 알리바바 특성 적용 시	[!Help]同时装备宝物猎人 + 阿里巴巴天赋时
-#24481	[!Help]$/$C$/$의 경우, 소수점 확률은 버림 처리하므로 아이템을 하나라도 획득할 확률은 $/$100%$/$이며, 획득하는 아이템 중 A 아이템의 획득 확률은 $/$21%$/$가 됩니다.	[!Help]$/$C$/$的情况, 舍弃小数点部分后获取道具的概率合计达到$/$100%$/$, 可获得的道具中，A道具的获取概率为$/$21%$/$。
-#24482	[!Help]경험치 획득량 계산하기	[!Help]经验值获取量计算公式
+#24477	[!Help]현재 아이템 획득 확률	[!Help]目前物品获得几率
+#24478	[!Help]현재 A 아이템 획득 확률	[!Help]目前A物品获得几率
+#24479	[!Help]보물 사냥꾼 특성 적용 시	[!Help]适用宝物猎人天赋时
+#24480	[!Help]보물 사냥꾼 + 알리바바 특성 적용 시	[!Help]适用宝物猎人+阿里巴巴天赋时
+#24481	[!Help]$/$C$/$의 경우, 소수점 확률은 버림 처리하므로 아이템을 하나라도 획득할 확률은 $/$100%$/$이며, 획득하는 아이템 중 A 아이템의 획득 확률은 $/$21%$/$가 됩니다.	[!Help]$/$C$/$的情况时，将舍去在小数点的几率，因此至少获得一个物品的几率将成为$/$100%$/$，获得的物品为A物品的几率将成为$/$21%$/$。
+#24482	[!Help]경험치 획득량 계산하기	[!Help]计算经验获得量
 #24483	[!Help]공격자가 적을 전투불능으로 만들 때 획득하는 경험치 획득량은 아래와 같습니다.	[!Help]攻击者令敌人战斗不能时所能获取的经验值按如下方式计算。
 #24484	[!Help]기본 경험치	[!Help]基本经验值
-#24485	[!Help]전투불능 된 적의 최대 체력 / 8	[!Help]战斗不能的敌人的最大体力值除以8
-#24486	[!Help]특성에 따른 보너스 가중치	[!Help]根据天赋获得的经验值加成
-#24487	[!Help]회사 특성, 개인 특성에 추가되는 경험치 보너스 가중치 비율을 모두 합산한다.	[!Help]从公司天赋，个人天赋所得到的经验值加成百分比进行做和计算。
-#24488	[!Help]미션 권장 레벨과 공격자의 레벨 차이에 따른 보너스 및 패널티	[!Help]任务推荐等级和攻击者等级之间的差会产生加成或惩罚
-#24489	[!Help]미션 권장 레벨이 공격자 레벨보다 높은 경우	[!Help]任务推荐等级比攻击者等级高时
-#24490	[!Help]미션 권장 레벨과 레벨 차이 1당 경험치 보너스가 20% 증가합니다.	[!Help]任务推荐等级与攻击者等级差，每一级获得20%经验加成。
-#24491	[!Help]미션 권장 레벨이 공격자 레벨보다 낮은 경우	[!Help]任务推荐等级比攻击者等级低时
-#24492	[!Help]미션 권장 레벨과 레벨 차이 1당 경험치 패널티가 10% 증가합니다.	[!Help]任务推荐等级与攻击者等级差，每一级获得10%经验惩罚。
-#24493	[!Help]공격자와 전투불능 된 적의 레벨 차이에 따른 보너스 및 패널티	[!Help]攻击者与战斗不能的敌人之间的等级差也会产生加成或惩罚
-#24494	[!Help] ( 2 × 전투불능 된 적의 레벨 ) / ( 전투불능 된 적의 레벨 + 공격자 레벨 )	[!Help] ( 2 × 战斗不能的敌人等级 ) / ( 战斗不能的敌人等级 + 攻击者等级 )
-#24495	[!Help]전투불능 된 적의 등급에 따른 경험치 배율	[!Help]根据战斗不能的敌人的阶级所获得的经验值倍率
-#24496	[!Help]일반	[!ItemRank]普通
+#24485	[!Help]전투불능 된 적의 최대 체력 / 8	[!Help]无法战斗的敌人最大体力值 / 8
+#24486	[!Help]특성에 따른 보너스 가중치	[!Help]根据天赋获得的额外加重值
+#24487	[!Help]회사 특성, 개인 특성에 추가되는 경험치 보너스 가중치 비율을 모두 합산한다.	[!Help]公司天赋，个人天赋所增加的加重值将全部计算在内。
+#24488	[!Help]미션 권장 레벨과 공격자의 레벨 차이에 따른 보너스 및 패널티	[!Help]任务推荐等级和攻击者等级差异带来的奖励与惩罚
+#24489	[!Help]미션 권장 레벨이 공격자 레벨보다 높은 경우	[!Help]任务推荐等级高于攻击者等级时
+#24490	[!Help]미션 권장 레벨과 레벨 차이 1당 경험치 보너스가 20% 증가합니다.	[!Help]每1个任务推荐等级与攻击者等级的差距，获得的经验值奖励将额外增加20%。
+#24491	[!Help]미션 권장 레벨이 공격자 레벨보다 낮은 경우	[!Help]任务推荐等级低于攻击者等级时
+#24492	[!Help]미션 권장 레벨과 레벨 차이 1당 경험치 패널티가 10% 증가합니다.	[!Help]每1个任务推荐等级与攻击者等级的差距，获得的经验值惩罚将额外增加10%。
+#24493	[!Help]공격자와 전투불능 된 적의 레벨 차이에 따른 보너스 및 패널티	[!Help]根据攻击者与无法战斗的敌人等级差异带来的奖励与惩罚
+#24494	[!Help] ( 2 × 전투불능 된 적의 레벨 ) / ( 전투불능 된 적의 레벨 + 공격자 레벨 )	[!Help] ( 2 × 无法战斗的敌人等级 ) / ( 无法战斗的敌人等级 + 攻击者等级 )
+#24495	[!Help]전투불능 된 적의 등급에 따른 경험치 배율	[!Help]根据无法战斗的敌人级别分配的经验值
+#24496	[!Help]일반	[!Help]普通
 #24497	[!Help]최종 경험치	[!Help]最终经验值
 #24498	[!Help]미션 권장 레벨	[!Help]任务推荐等级
-#24499	[!Help]공격자 최대 체력	[!Help]攻击者最大体力值
+#24499	[!Help]공격자 최대 체력	[!Help]攻击者等级
 #24500	[!Help]공격자 레벨	[!Help]攻击者等级
-#24501	[!Help]전투불능 된 적 레벨	[!Help]战斗不能的敌人等级
-#24502	[!Help]전투불능 된 적 등급	[!Help]战斗不能的敌人阶级
+#24501	[!Help]전투불능 된 적 레벨	[!Help]无法战斗的敌人等级
+#24502	[!Help]전투불능 된 적 등급	[!Help]无法战斗的敌人级别
 #24503	[!Help]영웅(1.5)	[!Help]英雄(1.5)
 #24504	[!Help]경험치 증가 특성	[!Help]经验值增加天赋
 #24505	[!Help]학습(30%) + 이해(50%) + 통찰(70%)	[!Help]学习(30%) + 理解(50%) + 洞察(70%)
-#24506	[!Help]최종 경험치량.	[!Help]最大经验值量。
-#24507	[!Help]소수점은 버림 처리하므로 최종 경험치량은 $/$146$/$이 됩니다.	[!Help]舍弃掉小数点部分后最终经验值量为 $/$146$/$。
-#24508	[!Help]$OverKill$, $PerfectKill$ 보너스의 경우 최종 경험치의 $/$100%$/$를 추가로 제공합니다. 따라서 두 효과가 적용되면 최종 경험치량은 $/$438$/$이 됩니다.	[!Help]$过量击杀$, $一击必杀$的加成效果会让最终经验值量提高$/$100%$/$。 因此两个效果同时生效时，最终经验值量为$/$438$/$。
-#24509	[!Help]경험치 분배하기	[!Help]经验值分配
-#24510	[!Help]아군이 적을 전투불능으로 만들어 경험치를 분배할 때, 아군에게 분배되는 경험치량은 아래와 같습니다.	[!Help]当友军将敌人战斗不能而获得经验值时，队友军分配的经验值按照如下方式计算。
-#24511	[!Help]공격자가 플레이어 회사 소속의 캐릭터인 경우	[!Help]当攻击者是玩家公司所属角色时
-#24512	[!Help]전투불능으로 획득한 경험치	[!Help]通过战斗不能获得的经验值
+#24506	[!Help]최종 경험치량.	[!Help]最终经验值。
+#24507	[!Help]소수점은 버림 처리하므로 최종 경험치량은 $/$146$/$이 됩니다.	[!Help]舍去小数点后最终获得的经验值为$/$146$/$。
+#24508	[!Help]$OverKill$, $PerfectKill$ 보너스의 경우 최종 경험치의 $/$100%$/$를 추가로 제공합니다. 따라서 두 효과가 적용되면 최종 경험치량은 $/$438$/$이 됩니다.	[!Help]$OverKill$，$PerfectKill$将额外提供最终经验值的$/$100%$/$作为奖励。因此同时适用上述的两种效果时，最终经验值为$/$438$/$。
+#24509	[!Help]경험치 분배하기	[!Help]分配经验值
+#24510	[!Help]아군이 적을 전투불능으로 만들어 경험치를 분배할 때, 아군에게 분배되는 경험치량은 아래와 같습니다.	[!Help]友军将敌人无法战斗时所被分配的经验值将如下。
+#24511	[!Help]공격자가 플레이어 회사 소속의 캐릭터인 경우	[!Help]攻击者是属于玩家公司的角色时
+#24512	[!Help]전투불능으로 획득한 경험치	[!Help]使无法战斗所获得的经验值
 #24513	[!Help]공격자가 경험치를 획득한다.	[!Help]攻击者获得经验值。
-#24514	[!Help]협력 경험치	[!Help]协力经验值
-#24515	[!Help]플레이어의 회사 소속 구성원들은 공격자가 획득한 경험치의 $/$33%$/$만큼 추가 경험치를 획득한다.	[!Help]玩家所属公司的角色会获得攻击者所获得的经验值的$/$33%$/$作为分配经验值奖励。
-#24516	[!Help]공격자가 플레이어 회사 소속이 아닌 캐릭터인 경우	[!Help]当攻击者不是玩家公司所属角色时
-#24517	[!Help]공격자가 얻은 경험치를 임무에 참여한 플레이어 회사 소속의 캐릭터들에게 균등 분배됩니다.	[!Help]攻击者所获得的经验值将由任务中登场的玩家公司角色们平均分配。
-#24518	[!Help]공격자가 중립 NPC인 경우	[!Help]当攻击者是中立NPC角色时
-#24519	[!Help]공격자가 얻은 경험치는 소실됩니다.	[!Help]攻击者不会获得经验值。
-#24520	[!Help]협력 경험치를 획득할 수 없습니다.	[!Help]无法获得协力经验值分成。
+#24514	[!Help]협력 경험치	[!Help]合作经验值
+#24515	[!Help]플레이어의 회사 소속 구성원들은 공격자가 획득한 경험치의 $/$33%$/$만큼 추가 경험치를 획득한다.	[!Help]玩家的公司职员将额外获得攻击者所获得的经验值的$/$33%$/$。
+#24516	[!Help]공격자가 플레이어 회사 소속이 아닌 캐릭터인 경우	[!Help]攻击者不是属于玩家公司的角色时
+#24517	[!Help]공격자가 얻은 경험치를 임무에 참여한 플레이어 회사 소속의 캐릭터들에게 균등 분배됩니다.	[!Help]攻击者所后的的经验值将会平等的分配给参与该任务的属于玩家公司的角色。
+#24518	[!Help]공격자가 중립 NPC인 경우	[!Help]攻击者为中立的NPC时
+#24519	[!Help]공격자가 얻은 경험치는 소실됩니다.	[!Help]攻击者将丧失所有获得的经验值。
+#24520	[!Help]협력 경험치를 획득할 수 없습니다.	[!Help]将无法获得合作经验值。
 #24521	[!OptionInterface]언어	[!OptionInterface]语言
-#24522	[!QuestBook]제 1 장. 트러블슈터입니다.	[!Troublebook]第一章。我是纷争终结者。
-#24523	[!QuestBook]제 2 장. 균열의 시작	[!Troublebook]第二章。龟裂的开端
-#24524	[!QuestBook]제 3 장. 가려진 음모	[!Troublebook]第三章。被掩盖的阴谋
-#24525	[!QuestBook]제 4 장. 결의	[!Troublebook]第4章。结义
-#24526	[!QuestBook]제 5 장. 변화의 시작	[!Troublebook]第5章。变化的开始
-#24527	[!QuestBook]제 6 장. 진심	[!Troublebook]第6章，真心。
-#24528	[!WordCollection]연구 진행 정보	[!WordCollection]研究进行信息
-#24529	[!WordCollection]제작 진행 정보	[!WordCollection]制造进行信息
-#24530	[!WordCollection]연구 가능 개수	[!WordCollection]可研究的个数
-#24531	[!WordCollection]제작 가능 개수	[!WordCollection]可制造的个数
-#24532	[!Ability]흉폭한 계승자	[!Ability]흉폭한 계승자
-#24533	[!Ability]재빠른 계승자	[!Ability]재빠른 계승자
-#24534	[!Ability]굳건한 계승자	[!Ability]굳건한 계승자
-#24535	[!Ability]영리한 계승자	[!Ability]영리한 계승자
-#24536	[!Buff]흉폭한 후계자	[!Buff]흉폭한 후계자
-#24537	[!Buff]재빠른 후계자	[!Buff]재빠른 후계자
-#24538	[!Buff]굳건한 후계자	[!Buff]굳건한 후계자
-#24539	[!Buff]영리한 후계자	[!Buff]영리한 후계자
-#24540	[!Help]또한 대상으로부터 획득할 수 있는 모든 전리품의 개별 획득 확률의 합이 $/$100%$/$를 초과할 경우 아래와 같이 보정 처리됩니다.	[!Help]또한 대상으로부터 획득할 수 있는 모든 전리품의 개별 획득 확률의 합이 $/$100%$/$를 초과할 경우 아래와 같이 보정 처리됩니다.
-#24541	[!Mastery]전사의 계승자	[!Mastery]전사의 계승자
-#24542	[!Mastery]앞으로 나아가는 것을 멈추지 않는다.	[!Mastery]앞으로 나아가는 것을 멈추지 않는다.
-#24543	[!Mastery]$Ability$ / $Ability2$ 어빌리티가 $Ability3$ / $Ability4$ 어빌리티로 변경됩니다.	[!Mastery]$Ability$ / $Ability2$ 어빌리티가 $Ability3$ / $Ability4$ 어빌리티로 변경됩니다.
-#24544	[!Mastery]수호자의 계승자	[!Mastery]수호자의 계승자
-#24545	[!Mastery]절대 물러나지 않는다.	[!Mastery]절대 물러나지 않는다.
-#24546	[!Mastery]꿈속의 꿈	[!Mastery]꿈속의 꿈
-#24547	[!Mastery]이 잠꾸러기야! 선잠을 자니 자각몽을 꾸는 거잖아! 숙면을 취하라고!	[!Mastery]이 잠꾸러기야! 선잠을 자니 자각몽을 꾸는 거잖아! 숙면을 취하라고!
-#24548	[!Mastery]$BuffGroup$ 계열 상태 이상이 해제되면, $Value$ 확률로 다시 무작위의 $BuffGroup$ 상태가 됩니다.	[!Mastery]$BuffGroup$ 계열 상태 이상이 해제되면, $Value$ 확률로 다시 무작위의 $BuffGroup$ 상태가 됩니다.
-#24549	[!Mastery]커다란 눈사람	[!Mastery]커다란 눈사람
-#24550	[!Mastery]한파 속에서도 꿋꿋한 그의 얼어붙은 손길에서 사무치는 냉기를 느낀다.	[!Mastery]한파 속에서도 꿋꿋한 그의 얼어붙은 손길에서 사무치는 냉기를 느낀다.
-#24551	[!Mastery]고성능 피뢰침	[!Mastery]고성능 피뢰침
-#24552	[!Mastery]벼락을 에너지로 전환하려면 일단 유도할 피뢰침이 필요해.	[!Mastery]벼락을 에너지로 전환하려면 일단 유도할 피뢰침이 필요해.
-#24553	[!KeyBinding]카메라 높이 올리기	[!WordCollection]镜头高度向上
-#24554	[!KeyBinding]카메라 높이 내리기	[!WordCollection]镜头高度向下
+#24528	[!WordCollection]연구 진행 정보	[!WordCollection]研究进行情报
+#24529	[!WordCollection]제작 진행 정보	[!WordCollection]制作进行情报
+#24530	[!WordCollection]연구 가능 개수	[!WordCollection]可研究情报
+#24531	[!WordCollection]제작 가능 개수	[!WordCollection]可制作情报
+#24532	[!Ability]흉폭한 계승자	[!Ability]凶残的继承人
+#24533	[!Ability]재빠른 계승자	[!Ability]敏捷的继承人
+#24534	[!Ability]굳건한 계승자	[!Ability]坚定的继承人
+#24535	[!Ability]영리한 계승자	[!Ability]机灵的继承人
+#24540	[!Help]또한 대상으로부터 획득할 수 있는 모든 전리품의 개별 획득 확률의 합이 $/$100%$/$를 초과할 경우 아래와 같이 보정 처리됩니다.	[!Help]或者从对象身上可获得的所有道具的个别概率总和超过$/$100%$/$的情况是，将按如下方式计算。
+#24541	[!Mastery]전사의 계승자	[!Mastery]战士的继承人
+#24542	[!Mastery]앞으로 나아가는 것을 멈추지 않는다.	[!Mastery]不断前进。
+#24543	[!Mastery]$Ability$ / $Ability2$ 어빌리티가 $Ability3$ / $Ability4$ 어빌리티로 변경됩니다.	[!Mastery]$Ability$变为$Ability3$，$Ability2$变为$Ability4$。
+#24544	[!Mastery]수호자의 계승자	[!Mastery]守护者的继承人
+#24545	[!Mastery]절대 물러나지 않는다.	[!Mastery]决不退却。
+#24546	[!Mastery]꿈속의 꿈	[!Mastery]梦中之梦
+#24547	[!Mastery]이 잠꾸러기야! 선잠을 자니 자각몽을 꾸는 거잖아! 숙면을 취하라고!	[!Mastery]你这个瞌睡虫！一直打瞌睡，所以才会做清醒梦的！去睡个好觉吧！
+#24548	[!Mastery]$BuffGroup$ 계열 상태 이상이 해제되면, $Value$ 확률로 다시 무작위의 $BuffGroup$ 상태가 됩니다.	[!Mastery]解除$BuffGroup$系列状态异常时，将以$Value$的几率随机进入$BuffGroup$状态。
+#24549	[!Mastery]커다란 눈사람	[!Mastery]巨大的雪人
+#24550	[!Mastery]한파 속에서도 꿋꿋한 그의 얼어붙은 손길에서 사무치는 냉기를 느낀다.	[!Mastery]他那在寒冷的冬天的那坚定的双手里仍能感受到透出的冷气。
+#24551	[!Mastery]고성능 피뢰침	[!Mastery]高性能避雷针
+#24552	[!Mastery]벼락을 에너지로 전환하려면 일단 유도할 피뢰침이 필요해.	[!Mastery]要想将雷电转化为能量，首先需要引雷的避雷针。
+#24553	[!KeyBinding]카메라 높이 올리기	[!KeyBinding]镜头高度向上
+#24554	[!KeyBinding]카메라 높이 내리기	[!KeyBinding]镜头高度向下
+#24555	[!ArrestSet]이건 미친 짓이야, 나는 여기서 나가겠어.	[!ArrestSet]真是疯了，我才不会做。
+#24556	[!GameMode]일반 모드	[!GameMode]普通模式
+#24557	[!GameMode]미션의 기본 설정으로 플레이합니다.	[!GameMode]以任务的基本设定进行游戏。
+#24558	[!GameMode]적 레벨	[!GameMode]敌人的等级
+#24559	[!GameMode]권장 레벨에 맞춰 적이 등장합니다.	[!GameMode]敌人根据任务的推荐等级而登场。
+#24560	[!GameMode]적 특성	[!GameMode]敌人天赋
+#24561	[!GameMode]고유의 고정된 특성이 부여됩니다.	[!GameMode]赋予敌人预先设定的天赋。
+#24562	[!GameMode]적 정보 획득	[!GameMode]获取敌情
+#24563	[!GameMode]기본 획득량을 획득합니다.	[!GameMode]获得基本获得量。
+#24564	[!GameMode]최초 시나리오 미션 진행 시, 원활한 진행을 위해 해당 모드를 권장합니다.	[!GameMode]进行最初的剧情任务时，为了能够顺利的进行，建议使用该模式。
+#24565	[!GameMode]도전 모드	[!GameMode]挑战模式
+#24566	[!GameMode]적 특성의 랜덤성을 부여하고 도전적인 전투를 원하시는 분들을 위한 난이도 입니다.	[!GameMode]每次给敌人赋予不同的天赋。为对游戏熟悉的用户设计的难度。
+#24567	[!GameMode]참여하는 플레이어의 캐릭터의 최고 레벨과 미션의 권장레벨 차이만큼 적의 레벨이 상승합니다.	[!GameMode]敌人的等级根据参与任务的玩家角色的最高等级和任务推荐等级的差异上升。
+#24568	[!GameMode]플레이어 캐릭터의 최고 레벨이 권장 레벨보다 낮으면 적용되지 않습니다. 	[!GameMode]玩家角色的最高等级低于任务推荐等级时不适用。
+#24569	[!GameMode]적의 레벨 상승에 따라 특성 연구가 가능한 추가 특성들이 랜덤으로 부여됩니다.	[!GameMode]随着敌人的等级上升，敌人将随机获得额外的天赋。
+#24570	[!GameMode]적 정보 획득량이 $TroublemakerEXPRatio$배 증가합니다.	[!GameMode]敌情获得量将增加$TroublemakerEXPRatio$倍。
+#24571	[!GameMode]해당 모드를 진행 시, 안전, 쉬움 난이도는 일반 모드의 어려움, 가혹한 난이도보다 어려울 수 있습니다.	[!GameMode]使用该模式的话，即使选择"安全"或"简单"的难易度，也可能会比一般模式的"困难"或"炼狱"难易度更艰难。
+#24572	[!Help]안전	[!GameDifficulty]安全
+#24573	[!Help]쉬움	[!GameDifficulty]简单
+#24574	[!Help]어려움	[!GameDifficulty]困难
+#24575	[!Help]가혹한	[!GameDifficulty]炼狱
+#24576	[!Help]도전	[!Help]挑战
+#24577	[!HelpCategory]게임 시스템	[!HelpCategory]游戏系统
+#24578	[!HelpCategory]특성과 모듈	[!HelpCategory]天赋和模块
+#24579	[!HelpSubCategory]게임 난이도	[!HelpSubCategory]游戏难度
+#24580	[!HelpSubCategory]게임 모드	[!HelpSubCategory]游戏模式
+#24581	[!Mastery]노련한 사냥개	[!Mastery]老练的猎狗
+#24582	[!Mastery]노련한 사냥개들은 먹잇감을 발견하면 뛰어난 발걸음으로 다가가 능숙하게 절호의 일격을 날리지.	[!Mastery]老练的猎狗一旦发现了猎物就会在一瞬间制服。
+#24583	[!Mastery]공격적 선택	[!Mastery]攻击性的选择
+#24584	[!Mastery]어차피 선택한다면 수비보단 공격이다.	[!Mastery]如果要从进攻和防守中选择，那就得选择进攻。
+#24585	[!Mastery]적을 공격할 경우, 적과의 거리 $Value$ 타일 당 자신이 주는 피해량이 $Value2$ 추가 증가합니다.	[!Mastery]攻击敌人时，每和目标远离$Value$格，给予对方的伤害量将额外增加$Value2$。
+#24586	[!Mastery]방어적 선택	[!Mastery]防御性的选择
+#24587	[!Mastery]지켜야할 것이 있는 자에겐 선택이란 없다.	[!Mastery]有需要守护的人是没有选择余地的。
+#24588	[!Mastery]커다란 불꽃	[!Mastery]巨大的火焰
+#24589	[!Mastery]사납게 울부짖는 불길은 멈추지 않는다.	[!Mastery]烈火是不会灭的。
+#24590	[!Mastery]$Mastery$의 발동에 의한 고정 피해가 $Value$ 증가합니다.	[!Mastery]$Mastery$的发动所造成的固定伤害将增加$Value$。
+#24591	[!GameSystemMessageFormat]$Who$[가] 합류하여 훈련서 $WhiteAmount$개를 획득하였습니다	[!GameSystemMessageFormat]$Who$加入了队伍，获得了$WhiteAmount$个训练书。
+#24592	[!KeyBinding]이전	[!WordCollection]上一个
+#24593	[!KeyBinding]다음	[!LayoutKeyword]下一个
+#24594	[!Mastery]강렬한 빛	[!Mastery]强烈的光
+#24595	[!Mastery]세상의 빛이 되리라.	[!Mastery]来成为世界的光明。
+#24596	[!Mastery]빈 가방을 채워라!	[!Mastery]装上空包！
+#24597	[!Mastery]미션 승리 시, $LostProperty$[이] 없는 경우, $Item$[을] 장비한 $Dead$[이] 아닌 아군 수에 따라 다음과 같은 효과가 발생합니다.	[!Mastery]任务胜利时，若无$LostProperty$，则会根据装备$Item$的不为$Dead$的友军数量，产生以下的效果。
+#24598	[!Mastery]$Value$명인 경우	[!Mastery]$Value$个人时
+#24599	[!Mastery]해당 미션에서 획득 가능한 $Rare$ 등급 이상의 장비 아이템을 $Value$개 획득합니다.	[!Mastery]获得在该任务中可获得的$Rare$级别以上的装备物品$Value$个。
+#24600	[!Mastery]$Value2$명 이상인 경우	[!Mastery]$Value2$个人以上时
+#24601	[!Mastery]해당 미션에서 획득 가능한 $Rare$ 등급 이상의 장비 아이템을 $Value$개 획득하고 남은 빈 가방 개수 만큼 해당 미션에서 획득 가능한 $Uncommon$ 등급 이상의 장비 아이템을 획득합니다.	[!Mastery]获得在该任务中可获得的$Rare$等级以上的装备物品$Value$个，并根据剩余的背包个数获得该任务中可获得的$Uncommon$级别以上的装备物品。
+#24602	[!WordCollection]지난 의뢰 다시 보기	[!WordCollection]回顾过去的任务
+#24603	[!WordCollection]의뢰 수락 대화	[!WordCollection]接受委托的台词
+#24604	[!WordCollection]의뢰 진행 중 대화	[!WordCollection]委托进行中的对话
+#24605	[!WordCollection]의뢰 완료 대화	[!WordCollection]结束委托的台词
+#24606	[!WordCollection]의뢰 미션 다시하기	[!WordCollection]重新进行委托的任务
+#24607	[!Buff]흉폭한 계승자	[!Ability]凶暴的传承者
+#24608	[!Buff]재빠른 계승자	[!Ability]敏捷的传承者
+#24609	[!Buff]굳건한 계승자	[!Ability]健壮的传承者
+#24610	[!Buff]영리한 계승자	[!Ability]伶俐的传承者
+#24611	[!OptionGameplay]방위 표시	[!OptionGameplay]方位标识
+#24612	[!OptionGameplay]지도에 동,서,남,북의 방위 표시를 활성화합니다.	[!OptionGameplay]在地图上激活东，西，南，北的方位标识。
+#24614	[!OptionGameplay]캐릭터 연출 시의 음성 대사의 빈도를 결정합니다.	[!OptionGameplay]决定角色在对白时的语音对话频率。
+#24615	[!OptionGameplay]항상	[!OptionGameplay]恒常
+#24616	[!OptionGameplay]낮음	[!OptionGraphics]低
+#24617	[!OptionGameplay]매우 낮음	[!OptionGraphics]非常低
+#24618	[!OptionGameplay]안함	[!OptionGameplay]不使用
+#24619	[!OptionGameplay]캐릭터 대사 재생 빈도	[!OptionGameplay]角色对话播放频率
