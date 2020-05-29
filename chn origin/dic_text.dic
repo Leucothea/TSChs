@@ -5352,7 +5352,7 @@
 #13333	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]나는 형제를 판 나쁜 녀석이다.	[!Sentence][!Dialog][!speaker:Carter_Rage_Young]我是个出卖了兄弟的坏人。
 #13334	[!Sentence][!Dialog][!speaker:Heissing_Normal_Young]너하고 레이 그리고 레톤이 없었다면...	[!Sentence][!Dialog][!speaker:Heissing_Normal_Young]若是没有你和雷伊还有莱顿的话…
 #13335	[!Sentence][!Dialog][!speaker:Heissing_EyeClose_Young]아직 다 갚았다는 생각이 들지 않아.	[!Sentence][!Dialog][!speaker:Heissing_EyeClose_Young]我觉得还没还清呢。
-#13337	[!Sentence][!Dialog][!speaker:Taesoo_Smile]황랑을 불러라~	[!Sentence][!Dialog][!speaker:Taesoo_Smile]叫黄壤过来吧~
+#13337	[!Sentence][!Dialog][!speaker:Taesoo_Smile]황랑을 불러라~	[!Sentence][!Dialog][!speaker:Taesoo_Smile]叫黄狼过来吧~
 #13338	[!Sentence][!Dialog][!speaker:Tana_Sorrow]분수에 맞게 살아야 해...	[!Sentence][!Dialog][!speaker:Tana_Sorrow]人还是要按照自己的命数生活的吧…
 #13339	[!Sentence][!Dialog][!speaker:Heissing_Smile2_Young]카터. 너무 자신을 몰아붙이지 마.	[!Sentence][!Dialog][!speaker:Heissing_Smile2_Young]卡特。别太苦了你自己了。
 #13340	[!Sentence][!Dialog][!speaker:Taesoo_Smile]매월 상납금은 기존의 4배. 그리고 너희들이 하는 무역 이득의 80%는 우리에게 넘겨라.	[!Sentence][!Dialog][!speaker:Taesoo_Smile]以后每个月需要缴纳的保护费涨到现在的4倍了。而且你们参与的贸易活动的利润80%都上缴给我们吧。
@@ -5370,7 +5370,7 @@
 #13369	[!Sentence][!Title]철의 숲 자원관리구역	[!Sentence][!Title]铁森林资源管理区
 #13379	[!Sentence][!Title]침입자	[!Sentence][!Title]入侵者
 #13382	[!Sentence][!Objective]서로 다른 이능석 표본 5개를 확보하시오.	[!Sentence][!Objective]请带来5份不同种类的异能石样本。
-#13396	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']애쉬...	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']烟灰…
+#13396	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']애쉬...	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']灰烬…
 #13398	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']네가 없었다면 우리 티마 종족은 이미 이 철의 숲에서 자취를 감추었겠지...	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']如果没有你，我们蒂玛种群早就从这个铁森林中消失了吧…
 #13399	[!Sentence][!Title]전사의 최후	[!Sentence][!Title]战士的临终
 #13400	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']실버. 자네의 큰 그림에 동의하네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']白银。我赞同你的长远志向。
@@ -5380,7 +5380,7 @@
 #13409	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']무리가 분열하기 전에 싹이 될만한 자들을 모아 내가 나가겠네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']在族群彻底分崩离析之前，让我选出苗子们带走吧。
 #13414	[!Sentence][!Title]오색 왕도로리	[!Sentence][!Title]五色王软泥
 #13417	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']우리의 아이들이 자라나고 있다. 적어도 그들이 당당한 전사가 되는 날까지 기다릴 수 없는가?	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']我们的孩子们正在成长啊。你就不能等到他们都长成英勇战士的那一天吗？
-#13419	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']결국 이렇게 되었군. 애쉬.	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']终究还是这样了。烟灰。
+#13419	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']결국 이렇게 되었군. 애쉬.	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']终究还是这样了。灰烬。
 #13422	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']진작에 무리를 나갔어야 했는데...	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']我早该退出族群的…
 #13423	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']적어도 전 우두머리가 나가는 것이니 당연한 수순이라고 보네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']至少，前一任头领的退出只能算是例行公事吧。
 #13425	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']현재 티마의 무리는 대부분 부모를 인간에 의해 잃은 세대들일세.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']现在蒂玛族群的大部分是因为人类而失去了父母的这一代。
@@ -5390,7 +5390,7 @@
 #13433	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']우리의 수명은 고작 20 ~ 25년... 난 이미 24년을 살고 있네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']我们的寿命顶多是20~25年…我已经活了24个年头了。
 #13434	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']실버. 다시 한번 이 숲의 티마 무리를 부탁하네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']白银。这森林里的蒂玛们就拜托你了。
 #13437	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']하지만 자네의 행동은 경솔했어.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']然而你的行为太轻率了。
-#13438	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']조금만 참고 견뎌라. 애쉬.	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']你再忍一忍啊。烟灰。
+#13438	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']조금만 참고 견뎌라. 애쉬.	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']你再忍一忍啊。灰烬。
 #13439	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']한번 어긋난 마음은 다시 붙이기 어렵지. 무리의 대부분이 날 등지고 자네를 따른 것처럼...	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']事实上破镜难再重圆。就像当初族群里的大部分兽选择背弃我去跟随你一样…
 #13442	[!Sentence][!Dialog][!speaker:Albus_Normal]알겠습니다. 일단 축적된 에너지를 정상화 하도록 노력하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]收到。先尽力将能量储蓄值正常化吧。
 #13445	[!Sentence][!VictoryCondition]관리구역 내 초과된 에너지를 해제하시오.	[!Sentence][!VictoryCondition]请去除管理区内过量的能量。
@@ -7361,7 +7361,7 @@
 #15755	[!Sentence][!Dialog][!speaker:Kylie_Normal]그래서 현재까지 『 고난의 성채 』에 들어갔다가 살아서 나온 사람은 단 1명.	[!Sentence][!Dialog][!speaker:Kylie_Normal]所以至今为止进入『苦难的城寨』并且从里面活着出来的人只有1个。
 #15756	[!Sentence][!Dialog][!speaker:Kylie_Normal]지금 출근하는 건가?	[!Sentence][!Dialog][!speaker:Kylie_Normal]你现在是去上班吗？
 #15757	[!Sentence][!BalloonChat][!speaker:Ray]벌써 겨울이구나...	[!Sentence][!BalloonChat][!speaker:Albus_Normal]冬天到了…
-#15758	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]그래서 타이수님이 황랑님을 비롯한 백룡회 지부원들을 이끌고 밀수꾼 토벌을 하셨고	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]所以太秀大人领着黄壤大人在内的白龙会分部成员们一起去征讨那些走私贩子们
+#15758	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]그래서 타이수님이 황랑님을 비롯한 백룡회 지부원들을 이끌고 밀수꾼 토벌을 하셨고	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Young]所以太秀大人领着黄狼大人在内的白龙会分部成员们一起去征讨那些走私贩子们
 #15760	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]하지만 그 증오를 발할라에 사는 사람들에게 무차별적으로 쏟는 것은 옳은 일이 아니지 않는가.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]但是把这份厌恶无差别地宣泄到巴赫拉每一个人身上，这就是不对的啊不是吗。
 #15761	[!Sentence][!Dialog][!speaker:Taesoo_Normal]이 쓰레기 녀석이 죽고 싶어 안달이 났군.	[!Sentence][!Dialog][!speaker:Taesoo_Normal]你这臭垃圾着急找死吗。
 #15762	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]난 또 너가 날 엄청 미워해서 아는 척 안하는 줄 알았지.	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]我还以为你非常讨厌我才装作不认识呢。
@@ -7535,7 +7535,7 @@
 #15969	[!Sentence]아이린으로 진행됩니다.<br><br>[colour='FFFFE959']해당 선택지에 따라 이벤트 보상이 달라집니다. <br>경험하지 못한 이벤트는 [colour='FFFFFFFF']사건일지[colour='FFFFE959']를 통하여 진행하실 수 있습니다.	[!Sentence]进行艾琳。<br><br>[colour='FFFFE959']根据您的选项，活动奖励也将有所不同。<br>未经历的活动事件则可通过[colour='FFFFFFFF']事件日志[colour='FFFFE959']来体验。
 #15970	[!Sentence]레이로 진행됩니다.<br><br>[colour='FFFFE959']해당 선택지에 따라 이벤트 보상이 달라집니다. <br>경험하지 못한 이벤트는 [colour='FFFFFFFF']사건일지[colour='FFFFE959']를 통하여 진행하실 수 있습니다.	[!Sentence]进行雷伊。<br><br>[colour='FFFFE959']根据您的选项，活动奖励也将有所不同。<br>未经历的活动事件则可通过[colour='FFFFFFFF']事件日志[colour='FFFFE959']来体验。
 #15971	[!Sentence][!BalloonChat][!speaker:Irene]기억 났어, 이 사람. 앤을 보고 자리를 떴던...	[!Sentence][!BalloonChat][!speaker:Albus_Normal]想起来了。这人是…看到安就离开了的…
-#15973	[!Sentence][!Dialog][!speaker:Kylie_Smile]잠시 시간되면 내 아이들 테스트 좀 도와주겠어?	[!Sentence][!Dialog][!speaker:Kylie_Smile]你有空的话要不要帮我孩子们做做测试呢？
+#15973	[!Sentence][!Dialog][!speaker:Kylie_Smile]잠시 시간되면 내 아이들 테스트 좀 도와주겠어?	[!Sentence][!Dialog][!speaker:Kylie_Smile]你有空的话要不要帮我的孩子们做做测试呢？
 #15974	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]이 동네 요즘 사냥감이 넘치잖아. 세계수는 요즘 지겹거든.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]这里最近猎物喷发啊。世界树那边最近有点无聊的。
 #15975	[!Sentence][!BalloonChat][!speaker:Ray]도대체 왜 이렇게 됐을까...	[!Sentence][!BalloonChat][!speaker:Albus_Normal]为什么事情结果是这样的...
 #15976	[!Sentence][!Objective]공원에 풀린 야수를 모두 제압하시오.	[!Sentence][!Objective]请将公园里四散的野兽全部制服。
@@ -9223,7 +9223,7 @@
 #18224	[!Sentence][!Dialog][!speaker:Giselle_Smile]그렇게 경계하지 마. 어차피 다 지난 일이잖아.	[!Sentence][!Dialog][!speaker:Giselle_Smile]不要那么警戒，反正都是过去了。
 #18226	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]카일리와 $CompanyName$의 노력에도 불구하고 철의 숲 전자망은 꾸준히 단선된다.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]不顾凯利和 $CompanyName$的努力， 铁森林的电网还是持续断线。
 #18227	[!Sentence][!Dialog][!speaker:Anne_Smile]네~	[!Sentence][!Dialog][!speaker:Anne_Smile]是的~
-#18228	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]대부분 원인은 전자망 제어기의 동파였다.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]大部分的愿意都在于电网控制仪的冻裂。
+#18228	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]대부분 원인은 전자망 제어기의 동파였다.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]大部分的原因都在于电网控制仪的冻裂。
 #18229	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]'저 녀석 넉살은 여전하군...'	'他的脸皮真是一如既往地厚啊...'
 #18230	[!Sentence][!Dialog][!speaker:Sion_Laugh]카일리 누나 일인데 당연하지~☆	[!Sentence][!Dialog][!speaker:Sion_Laugh]当然了，这是凯利姐的事诶~☆
 #18231	[!Sentence][!Dialog][!speaker:Irene_Surprise]오, 벌써 들어왔나?	[!Sentence][!Dialog][!speaker:Irene_Surprise]噢，这么快就进货了？
@@ -10233,7 +10233,7 @@
 #19427	[!Dialog][!speaker:Pierto_Normal]그래? 그럼 그 편한만큼 가격을 더 받아야겠군.	是吗？那么轻松的话就应该提升费用了吧。
 #19428	[!Dialog][!speaker:Albus_Surprise]아니 그건...	[!Sentence][!Dialog][!speaker:Albus_Disappoint]哦不，那是…
 #19429	[!Dialog][!speaker:Pierto_Normal]농담이네. 농담.	[!Dialog][!speaker:Pierto_Normal]哈哈哈，开玩笑的。
-#19430	[!Dialog][!speaker:Pierto_Normal]편한 것도 가끔은 시장 거리에도 나가고 해 봐.	[!Dialog][!speaker:Pierto_Normal]偶尔也去市场街逛逛吧。
+#19430	[!Dialog][!speaker:Pierto_Normal]편한 것도 좋지만 가끔은 시장 거리에도 나가고 해 봐	[!Dialog][!speaker:Pierto_Normal]偶尔也去市场街逛逛吧。
 #19431	[!Dialog][!speaker:Pierto_Normal]일단 유통 단계를 하나 거치다보니 자네들이 직접 구하는 것보다는 비싸게 느껴질지 모르겠만...	[!Dialog][!speaker:Pierto_Normal]在流通过程中，会经过一个阶段，所以会比你自己去找的还要贵些......
 #19432	[!Dialog][!speaker:Pierto_Normal]돈만 있다면 언제든지 편하게 구할 수 있다네.	[!Dialog][!speaker:Pierto_Normal]只要有钱，那何时都可以随时购到物品。
 #19433	[!Dialog][!speaker:Albus_Normal]무슨 말씀인지 잘 알겠습니다.	[!Dialog][!speaker:Albus_Normal]我懂是什么意思了。
@@ -10853,7 +10853,7 @@
 #20166	[!Sentence][!Dialog][!speaker:Robert_Normal]다들 물러난다.	[!Sentence][!Dialog][!speaker:Robert_Normal]大家都退下吧。
 #20167	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]자네도 이제 어른이 되야지.	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]你也该长大成人了。
 #20168	[!Sentence][!Dialog]앨리의 버려진 아이들...	在爱丽被遗弃的孩子们...
-#20169	[!Sentence][!Dialog][!speaker:Taesoo_Normal]황랑. 호들갑 그만 떨어.	[!Sentence][!Dialog][!speaker:Taesoo_Normal]黄壤，不要太过兴奋了。
+#20169	[!Sentence][!Dialog][!speaker:Taesoo_Normal]황랑. 호들갑 그만 떨어.	[!Sentence][!Dialog][!speaker:Taesoo_Normal]黄狼，不要太过兴奋了。
 #20170	[!Sentence][!Dialog][!speaker:Edward_Think_Hat]젊은 녀석이니 이런 생각을 하는 구나...	[!Sentence][!Dialog][!speaker:Edward_Think_Hat]年轻的小伙子竟能产生这种想法....
 #20171	[!Sentence][!Dialog][!speaker:Carter_Normal_Young_Band2]제 생명 모든 것을 드리겠습니다.	[!Sentence][!Dialog][!speaker:Carter_Normal_Young_Band2]我将把我的生命以及全部都奉献给您。
 #20172	[!Sentence][!Dialog][!speaker:Edward_Normal_Hat]여기까지 온 녀석이 떼를 쓰다니...	来到这里来见我的家伙，竟然耍起赖了....
@@ -11310,7 +11310,7 @@
 #20672	[!Sentence][!Dialog][!speaker:Albus_Smile]'저쪽의 의도는 우리가 도망가지 못하도록 포위하는 것이겠지만...'	[!Sentence][!Dialog][!speaker:Albus_Smile]'那边的意图应该是要包围我们，防止逃跑...'
 #20673	[!Sentence][!Dialog][!speaker:Albus_Normal]'그건 결국 병력이 분산되었다는 것.'	[!Sentence][!Dialog][!speaker:Albus_Normal]'那归根结底会导致兵力分散。'
 #20674	[!Sentence][!Dialog][!speaker:Albus_Normal]'적이 모여들기 전에 한 무리씩 격파해 나간다면 충분해.'	[!Sentence][!Dialog][!speaker:Albus_Normal]'在敌人未聚拢之前，一个一个地打下去就充分足够的。'
-#20675	[!Sentence][!Dialog][!speaker:Albus_Serious]다들 빠르게 재정비 하세요!	[!Sentence][!Dialog][!speaker:Albus_Serious]大家都快速的重整下！
+#20675	[!Sentence][!Dialog][!speaker:Albus_Serious]다들 빠르게 재정비 하세요!	[!Sentence][!Dialog][!speaker:Albus_Serious]大家都快速地重整下！
 #20676	[!Sentence][!Dialog][!speaker:Albus_Serious]최대한 빠르게 외곽을 선회하며 각개 격파하도록 하겠습니다!	[!Sentence][!Dialog][!speaker:Albus_Serious]尽可能以最快的速度击溃公园外围的敌人！
 #20677	[!Sentence][!VictoryCondition]현장의 모든 적을 제압하시오.	[!Sentence][!Objective]请把现场所有的敌人制服。
 #20678	[!Sentence][!Title]투덜쟁이 펠릭스	[!Sentence][!Title]牢骚鬼费利克斯
@@ -14305,7 +14305,7 @@
 #24390	[!Sentence][!Dialog][!speaker:Gangster_RyungLi_Normal]보수가 확실하니까.	[!Sentence][!Dialog][!speaker:Gangster_RyungLi_Normal]有这样的报酬，那是当然要接了。
 #24391	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]그래. 백호파의 보스의 수급을 가져오면 5,000,000 Vill 이네. 	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]嗯，把白虎组首领的头拿来的话就支付你5，000，000Vill。
 #24392	[!Sentence][!Dialog][!speaker:Gangster_RyungLi_Normal]고작 한 인간의 목숨에 그렇게 높은 가치가 매겨지다니 어이가 없군.	[!Sentence][!Dialog][!speaker:Gangster_RyungLi_Normal]仅仅一个人的命却值那么高，真让人无话可说啊。
-#24393	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]그만큼 확실하게 처리하라는 것이겠지.	物有所值吧，既然出了那么高的价格，就要干的彻底一些。
+#24393	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]그만큼 확실하게 처리하라는 것이겠지.	物有所值吧，既然出了那么高的价格，就要干得彻底一些。
 #24394	[!Sentence][!Dialog][!speaker:Gangster_RyungLi_Normal]내 몫은 반인가?	[!Sentence][!Dialog][!speaker:Gangster_RyungLi_Normal]一半就是我的份吗？
 #24395	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]그래. 그 정도 돈이면 자네 소원대로 가족들과 작은 건물 하나 사서 편하게 여생을 보낼 수 있을 거야.	是啊。有了那笔钱就可以实现你的愿望，买一个宅子，与家人舒舒服服地度过余生。
 #24396	[!Sentence][!Title]변절자 지옥불	[!Sentence][!Title]叛徒地狱焱
@@ -14340,7 +14340,7 @@
 #24425	[!Sentence][!Dialog][!speaker:Giselle_Normal]스컬 이터 아냐?	[!Sentence][!Dialog][!speaker:Giselle_Normal]那不是骷髅食者？
 #24426	[!Sentence][!Dialog][!speaker:Giselle_Normal]찾는 수고를 덜었네.	[!Sentence][!Dialog][!speaker:Giselle_Normal]免得去找他了呢。
 #24427	[!Sentence][!Dialog][!speaker:Gangster_SkullThin_Normal]암여우 녀석. 네 오만한 웃음도 오늘까지다!	[!Sentence][!Dialog][!speaker:Gangster_SkullThin_Normal]你这母狐狸，看你还笑的出来！
-#24428	[!Sentence][!Dialog][!speaker:Giselle_Normal]설마 스컬 크래셔?	[!Sentence][!Dialog][!speaker:Giselle_Normal]不会是骷髅乱砍者？
+#24428	[!Sentence][!Dialog][!speaker:Giselle_Normal]설마 스컬 크래셔?	[!Sentence][!Dialog][!speaker:Giselle_Normal]不会是骷髅击碎者？
 #24429	[!Sentence][!Dialog][!speaker:Giselle_Normal]너네 정말 잘 숨어 있었어. 칭찬해 줄게.	[!Sentence][!Dialog][!speaker:Giselle_Normal]你们躲得真好，称赞你们呢。
 #24430	[!Sentence][!Dialog][!speaker:Gangster_SkullFat_Normal]블팩펄이 없으면 네 까짓것 식은 죽 먹기지!	[!Sentence][!Dialog][!speaker:Gangster_SkullFat_Normal]没有黑珍珠的话你什么都不是！
 #24431	[!Sentence][!Dialog][!speaker:Giselle_Smile]너희들 쫓아 여기까지 온 거야.	[!Sentence][!Dialog][!speaker:Giselle_Smile]是追你们到这儿的。
@@ -15739,12 +15739,12 @@
 #26011	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]말이 많아졌구나. 헤이싱.	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]你话变多了呢，黑星。
 #26012	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]네 성격과 맞지 않는 상의 탈의.	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]而且还与你性格不合的露出了上身。
 #26013	[!Sentence][!Dialog][!speaker:Heissing_Normal]몸에 열기가 많아서 그럴 뿐이다.	[!Sentence][!Dialog][!speaker:Heissing_Normal]上身发热太大罢了。
-#26014	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]더운 날씨에도 고집하는 롱 코트.	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]这么热的天气里还固执穿大衣。
+#26014	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]더운 날씨에도 고집하는 롱 코트.	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]这么热的天气里还固执地穿着大衣。
 #26015	[!Sentence][!Dialog][!speaker:Heissing_Normal]흉한 상처를 가릴 뿐이지.	[!Sentence][!Dialog][!speaker:Heissing_Normal]是为了掩盖伤口而已。
 #26016	[!Sentence][!Dialog][!speaker:Carter_Black_Rage_Broken]4년 전과 다른 비정상적인 신체 능력.	[!Sentence][!Dialog][!speaker:Carter_Black_Rage_Broken]你的身体与4年前不同的，变得非凡了。
 #26017	[!Sentence][!Dialog][!speaker:Heissing_Smile]살아남기 위해 가져야만 했던 능력이다.	[!Sentence][!Dialog][!speaker:Heissing_Smile]为了生存是不得不变强的。
 #26018	[!Sentence][!Dialog][!speaker:Carter_Black_Normal_Broken]고난의 성채에 들어간 자는 누구도 살아 돌아올 수 없지.	[!Sentence][!Dialog][!speaker:Carter_Black_Normal_Broken]只要是进入了苦难的城寨，不管是谁都是无法活着回来的。
-#26019	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]그것은 세계 대전 이전부터 지켜오던 열강 3국의 불문율.	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]这是世界大战前就遵守下来的列强三国的不成文的规定。
+#26019	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]그것은 세계 대전 이전부터 지켜오던 열강 3국의 불문율.	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]这是从世界大战前就被遵守下来的列强三国的不成文的规定。
 #26020	[!Sentence][!Dialog][!speaker:Carter_Black_Rage_Broken]한 번 예외를 허용한 규칙은 약해지지.	[!Sentence][!Dialog][!speaker:Carter_Black_Rage_Broken]规则一旦允许例外，就会开始变弱。
 #26022	[!Sentence][!Dialog]그래. 세상의 부조리함은 여전하다.	[!Sentence][!Dialog]没错，世间的不合理依旧存在。
 #26023	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]헤이싱. 너...	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]黑星，你...
@@ -16241,11 +16241,11 @@
 #26546	[!Sentence][!Title]거스를 수 없는 운명	[!Sentence][!Title]不可抗拒的命运
 #26547	[!Sentence][!Dialog][!speaker:Kylie_Normal_Girl3]이제 너희들도 나로부터 해방이구나.	如今你也从我这里获得解放了。
 #26548	[!Sentence][!Dialog][!speaker:Kylie_Normal_Girl3]하지만 기껏 내 호위 일을 그만 두고 해야되는 일이 살수라니...	保护我的工作虽然结束了，可你却选择去做个杀手...
-#26549	[!Sentence][!Dialog][!speaker:Kylie_Normal_Girl3]황랑 녀석...	该死的黄壤...
+#26549	[!Sentence][!Dialog][!speaker:Kylie_Normal_Girl3]황랑 녀석...	该死的黄狼...
 #26550	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Boy3]괜찮습니다. 아가씨.	没关系的，小姐。
-#26551	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Boy3]황랑 님은 제게 아가씨를 지킬 수 있는 검을 가르쳐 주신 분입니다.	黄壤教会了我用剑，我仍然可以守护您。
-#26552	[!Sentence][!Dialog][!speaker:Kylie_Normal_Girl3]날 지킬 검? 애초부터 살수를 시키려고 가르쳤겠지.	保护我？黄壤那家伙从一开始就想把你培养成一个杀手。
-#26553	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Boy3]황랑님의 목적과 상관없이 지난 7년간 아가씨를 지킬 수 있는 힘이 되었습니다.	这不怪黄壤，他让我有能力在过去的7年里保护好您。
+#26551	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Boy3]황랑 님은 제게 아가씨를 지킬 수 있는 검을 가르쳐 주신 분입니다.	黄狼教会了我用剑，我仍然可以守护您。
+#26552	[!Sentence][!Dialog][!speaker:Kylie_Normal_Girl3]날 지킬 검? 애초부터 살수를 시키려고 가르쳤겠지.	保护我？黄狼那家伙从一开始就想把你培养成一个杀手。
+#26553	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal_Boy3]황랑님의 목적과 상관없이 지난 7년간 아가씨를 지킬 수 있는 힘이 되었습니다.	这不怪黄狼，他让我有能力在过去的7年里保护好您。
 #26554	[!Sentence][!Dialog][!speaker:Kylie_Normal_Girl3]날 지키려다 본의 아니게 몇몇 목숨을 네 손으로 거뒀었지만...	我知道你为了保护我，违背本意的杀了许多人。
 #26555	[!Sentence][!Dialog][!speaker:Kylie_Normal_Girl3]조직의 살수가 된다는 것은 아무 이유도 없이 조직이 시키는 대로 그런 일을 밥 먹듯 하게 된다는 것이다.	但是作为帮派的杀手就意味着你要盲目的服从命令去杀更多的人。
 #26556	[!Sentence][!Dialog][!speaker:Kylie_Normal_Girl3]미안하다. 내가 힘이 없어서.	我很抱歉，是我的能力不足。
@@ -17409,7 +17409,7 @@
 #27854	[!Sentence][!Dialog][!speaker:Kate_Normal]그래도 저렇게 동료들 앞에 서 있으니 제법 사장님 티가 나네요.	不过，那样站在同事面前还真有老板的样子呢。
 #27855	[!Sentence][!Dialog][!speaker:Gyube_Normal]저 녀석 폭탄 든 녀석한테 무작정 돌진할 때가 엊그제 같은데 세월 빠르네.	对那个拿着炸弹的家伙不管三七二十一地冲过去的那一天仿佛就像几天前一样，时光荏苒啊。
 #27856	[!Sentence][!Dialog][!speaker:Kate_Smile]원래 저 때가 제일 빠르게 성장할 때죠.	[!Sentence][!Dialog][!speaker:Kate_Smile]那时候就是成长最快的时期呢。
-#27857	[!Sentence][!Dialog][!speaker:Taesoo_Smile]황랑. 저 아가씨 옆에 있는 흰머리 기억나냐?	黄壤，还记得小姐旁边那位白头发的家伙吗？
+#27857	[!Sentence][!Dialog][!speaker:Taesoo_Smile]황랑. 저 아가씨 옆에 있는 흰머리 기억나냐?	黄狼，还记得小姐旁边那位白头发的家伙吗？
 #27858	[!Sentence][!Dialog][!speaker:Hwangrang_Normal]어? 저 녀석?	[!Sentence][!Dialog][!speaker:Hwangrang_Normal]咦？那家伙是？
 #27859	[!Sentence][!Dialog][!speaker:Taesoo_Smile]그래. 기억나지?	[!Sentence][!Dialog][!speaker:Taesoo_Smile]是啊，记得吧？
 #27860	[!Sentence][!Dialog][!speaker:Hwangrang_Normal]그럼 저 녀석이 고난의 성채를 나왔단 녀석이었군요.	当然了，他就是那个从苦难的城寨出来的家伙。
